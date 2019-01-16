@@ -1,0 +1,24 @@
+---
+title: 415 zoekervaring bijgewerkt
+ms.author: chrisda
+author: chrisda
+ms.date: 2/9/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: c0311680-46e9-45e3-a783-05504accbeca
+ms.openlocfilehash: 1e2ca9e5f81cd60472b60257dcc71723613a7578
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28284171"
+---
+# <a name="search-experience-updated"></a>Zoekfunctie bijgewerkt
+
+Zoeken is nu te vinden op de onderkant van de app. tikken op het biedt u rechtstreeks toegang op de bovenste contactpersonen aanstaande routebeschrijvingen, pakket leveringen en recente bijlagen. U kunt e-mailberichten, bestanden en contactpersonen zoeken in een van de rekeningen van één enkele zoekvak of onze nieuwe filters gebruiken om uw zoekopdracht te verfijnen.
+  
+
