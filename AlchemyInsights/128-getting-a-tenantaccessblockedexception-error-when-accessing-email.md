@@ -1,0 +1,31 @@
+---
+title: 128 ophalen van een TenantAccessBlockedException-fout bij het openen van e-mailadres?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 20d69377-5244-4775-a489-acb0f838f095
+ms.openlocfilehash: 885ede6b17f7562b1694897e7b5e39ead0da8bff
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28284149"
+---
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Ophalen van een TenantAccessBlockedException-fout bij het openen van e-mailadres?
+
+Er zijn een aantal verschillende redenen waarom deze fout wordt weergegeven kan. Bijvoorbeeld:
+  
+- Controleer of uw abonnement is geldig in de **Facturering** \> de pagina **abonnementen** in het Office 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).
+    
+- Selectievakje voor alle achterstallige meldingen in de **Facturering** \> **wissels** pagina in het Office 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).
+    
+- Als onlangs de facturering en abonnementen voor uw account hebt bijgewerkt, kan het duren om de wijzigingen doorgeven. Probeer het opnieuw over een paar minuten en als het probleem zich blijft voordoen, contact met ons opnemen.
+    
+
