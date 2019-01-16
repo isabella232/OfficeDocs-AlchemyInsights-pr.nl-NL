@@ -1,0 +1,45 @@
+---
+title: Het activeren en beheren van vernieuwing
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 6/6/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
+ms.openlocfilehash: de9ab3b22eb2416f47c99f0588bc73d1ad57ab2d
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28283851"
+---
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Het activeren en beheren van periodieke facturering
+
+Waarschijnlijk hebt u een abonnement is verlopen. Als u wilt activeren, hier de hoe.
+  
+1. In de Admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of Ga naar **Facturering** \> **abonnementen**.
+    
+2. Kies het abonnement dat is **vervallen** of is **uitgeschakeld**.
+    
+3. Kies **opnieuw activeren**.
+    
+    Als **opnieuw activeren** niet wordt weergegeven als een optie, gebruikt u de optie 'laat ons u bellen' contact opnemen met een ondersteuningstechnicus van uw abonnement opnieuw activeren. 
+    
+4. Om te activeren, wordt u gevraagd uw betalingsgegevens bijwerken. Voer uw betalingsgegevens in en kies **indienen**.
+    
+Voor het beheren van facturering u maandelijks of jaarlijks schakelen **terugkerende facturering** in- of uitschakelen. 
+  
+1. In de Admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of Ga naar **Facturering** \> **abonnementen**.
+    
+2. Kies het abonnement waarvoor u wilt beheren, terugkerende facturering.
+    
+3. Activeer de **terugkerende factuur** weergeven/verbergen **in** - of **uitschakelen**.
+    
+Zie voor meer informatie: [terugkerende facturering voor uw abonnement beheren](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+  
+
