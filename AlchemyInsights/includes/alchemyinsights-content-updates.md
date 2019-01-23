@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383225"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11-1/2019 | [Gebruikers verwijderen](/AlchemyInsights/deleting-users) | gewijzigd |
 | 11-1/2019 | [Naadloze Single Sign-On implementeren](/AlchemyInsights/deploy-seamless-single-sign-on) | gewijzigd |
 | 11-1/2019 | [Toegang tot Yammer uitschakelen](/AlchemyInsights/disable-access-to-yammer) | gewijzigd |
+
+
+## <a name="week-of-january-14-2019"></a>Week van 14 januari 2019
+
+
+| Gepubliceerd op |Onderwerptitel | Wijzigen |
+|------|------------|--------|
+| 14-1/2019 | Tijdelijke aanduiding voor Alchemy | verwijderd |
+| 14-1/2019 | Alchemy domein toevoegen | verwijderd |
+| 14-1/2019 | [Alchemy inzichten thuis](/AlchemyInsights/index) | gewijzigd |
+| 17-1/2019 | [hetzelfde als de bestandsnaam is de beste [regel #-beschrijving]](/AlchemyInsights/1-alchemy-insight-template) | toegevoegd |
