@@ -13,13 +13,13 @@ ms.openlocfilehash: 7dd7998863645870333ef08229ff8b111eac58b6
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383215"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29453993"
 ---
-# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="2285b-102">4.5.3 te veel ontvangers (AS780090)</span><span class="sxs-lookup"><span data-stu-id="2285b-102">4.5.3 Too many recipients (AS780090)</span></span>
+# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="3f34b-102">4.5.3 te veel ontvangers (AS780090)</span><span class="sxs-lookup"><span data-stu-id="3f34b-102">4.5.3 Too many recipients (AS780090)</span></span>
 
-<span data-ttu-id="2285b-103">Deze fout treedt op wanneer het volume van het verkeer van het IP-adres e-mailadres de limiet op basis van de reputatie of gebrek aan reputatie van bron-IP-adres overschrijdt.</span><span class="sxs-lookup"><span data-stu-id="2285b-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="3f34b-103">Deze fout treedt op wanneer het volume van het verkeer van het IP-adres e-mailadres de limiet op basis van de reputatie of gebrek aan reputatie van bron-IP-adres overschrijdt.</span><span class="sxs-lookup"><span data-stu-id="3f34b-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
   
-<span data-ttu-id="2285b-p101">E-mailadres van het IP-adres te blokkeren verloopt binnen een uur. Als het bron-IP-adres een e-mailserver voor op locatie waartoe u behoort is, controleert u of de configuratie van de stroom mail connector. Als het probleem voor meer dan een uur blijft, neem dan contact op met ondersteuning voor het aanvragen van een uitzondering voor het bron-IP-adres.</span><span class="sxs-lookup"><span data-stu-id="2285b-p101">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="3f34b-p101">E-mailadres van het IP-adres te blokkeren verloopt binnen een uur. Als het bron-IP-adres een e-mailserver voor op locatie waartoe u behoort is, controleert u of de configuratie van de stroom mail connector. Als het probleem voor meer dan een uur blijft, neem dan contact op met ondersteuning voor het aanvragen van een uitzondering voor het bron-IP-adres.</span><span class="sxs-lookup"><span data-stu-id="3f34b-p101">Blocking email from the source IP address will expire within an hour. If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector. If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
   
 
