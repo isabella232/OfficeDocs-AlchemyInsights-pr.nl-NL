@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284725"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465827"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Items in een SharePoint-documentbibliotheek kopiëren
 
@@ -35,6 +35,6 @@ ms.locfileid: "28284725"
 3. Klik op **Hierheen kopiëren**.
     
 > [!NOTE]
->  U kunt maximaal 500 MB aan bestanden en mappen in één keer kopiëren. > Wanneer u met documenten met versiegeschiedenis **kopiëren naar** hebt gebruikt, wordt alleen de meest recente versie gekopieerd. 
+>  U kunt maximaal 500 MB aan bestanden en mappen in één keer kopiëren. > wanneer u **kopiëren naar** met documenten die de versiegeschiedenis, alleen de meest recente versie hebt gekopieerd. 
   
 

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284520"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465753"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Een licentie toewijzen aan een gebruiker
 
 Een gebruiker moet een licentie toegang hebben tot de services. Hier volgen de stappen voor het toevoegen, wijzigen of verwijderen van een licentie van een gebruiker.
   
-1. In de Admin center, gaat u naar de pagina [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of **gebruikers** kiezen \> **actieve gebruikers**.
+1. Ga in het beheercentrum naar de pagina [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of kies **Gebruikers** \> **Actieve gebruikers**.
     
 2. Selecteer in het vak naast de naam van de gebruiker aan wie u wilt toewijzen, wijzigen of verwijderen van een licentie.
     

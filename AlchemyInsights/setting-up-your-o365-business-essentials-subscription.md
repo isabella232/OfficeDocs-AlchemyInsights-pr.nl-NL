@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284783"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465674"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Instellen van uw abonnement O365 Business Essentials
 
 Office 365-accounts maken en uw domein toevoegen
   
-- In deze stap kunt u de wizard Setup van Office 365-accounts maken voor uw gebruikers en uw eigen domein toe te voegen. De wizard kunt u een gebruikers-ID en e-mailadres voor uw bedrijf, zoals [rob@contoso.com](mailto:rob@contoso.com)van iedereen een persoonlijk tintje geven.
+- In deze stap gebruikt u de wizard Setup om Office 365-accounts te maken voor uw gebruikers en uw eigen domein toe te voegen. Met de wizard kunt u alle gebruikers-id's en e-mailadressen voor uw bedrijf aanpassen, zoals rob@contoso.com.
     
 - Ga naar het [Office 365-beheercentrum](https://login.partner.microsoftonline.cn/).
     

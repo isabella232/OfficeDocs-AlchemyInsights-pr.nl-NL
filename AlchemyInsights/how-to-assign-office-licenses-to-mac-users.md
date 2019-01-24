@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283842"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465702"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Het toewijzen van licenties voor Office voor Mac-gebruikers
 
@@ -24,7 +24,7 @@ ms.locfileid: "28283842"
     
 - Kies aan de rechterkant **Bewerken** in de rij **Productlicenties**.
     
-- In het deelvenster **productlicentie**s schakelen de in-/ uitschakelen op de positie **op** voor de licentie die u wilt toewijzen aan deze gebruiker. 
+- Zet in het deelvenster **Productlicenties** de wisselknop op **Aan** voor de licentie die u aan deze gebruiker wilt toewijzen. 
     
 - Kies onderaan het deelvenster **Productlicenties** de opties **Opslaan** \> **Sluiten** \> **Sluiten**.
     
