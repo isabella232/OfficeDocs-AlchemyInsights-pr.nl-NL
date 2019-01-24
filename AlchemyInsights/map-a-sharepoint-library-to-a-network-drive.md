@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
 ms.openlocfilehash: 77bfb5b4e2fc323c56c9d759b7b97eac7b2670eb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283768"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465809"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="d43a9-102">Een SharePoint-bibliotheek verbinden met een netwerkstation</span><span class="sxs-lookup"><span data-stu-id="d43a9-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="850b3-102">Een SharePoint-bibliotheek verbinden met een netwerkstation</span><span class="sxs-lookup"><span data-stu-id="850b3-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="d43a9-p101">Een bibliotheek als een netwerkstation toewijzen is tijdelijk en alleen via Internet Explorer wordt ondersteund. In plaats daarvan [SharePoint-bestanden met de nieuwe OneDrive sync client synchroniseren](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) met [Bestanden op aanvraag](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Toegang tot alle bestanden in OneDrive zonder lokale opslagruimte.</span><span class="sxs-lookup"><span data-stu-id="d43a9-p101">Mapping a library as a network drive is temporary and supported only through Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="850b3-p101">Een bibliotheek als een netwerkstation toewijzen is tijdelijk en alleen via Internet Explorer wordt ondersteund. In plaats daarvan [SharePoint-bestanden met de nieuwe OneDrive sync client synchroniseren](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) met [Bestanden op aanvraag](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Toegang tot alle bestanden in OneDrive zonder lokale opslagruimte.</span><span class="sxs-lookup"><span data-stu-id="850b3-p101">Mapping a library as a network drive is temporary and supported only through Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span>
   
-[<span data-ttu-id="d43a9-106">Hulp bij het configureren en het oplossen van de toegewezen netwerkstations</span><span class="sxs-lookup"><span data-stu-id="d43a9-106">Get help configuring and troubleshooting mapped network drives</span></span>](https://go.microsoft.com/fwlink/?linkid=872946)
+[<span data-ttu-id="850b3-106">Hulp bij het configureren en het oplossen van de toegewezen netwerkstations</span><span class="sxs-lookup"><span data-stu-id="850b3-106">Get help configuring and troubleshooting mapped network drives</span></span>](https://go.microsoft.com/fwlink/?linkid=872946)
   
 

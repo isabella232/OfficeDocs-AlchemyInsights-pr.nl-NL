@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
 ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283596"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465703"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="642a3-102">Over gemachtigden in Outlook en Outlook op het web</span><span class="sxs-lookup"><span data-stu-id="642a3-102">About delegates in Outlook and Outlook on the web</span></span>
+# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="0e68b-102">Over gemachtigden in Outlook en Outlook op het web</span><span class="sxs-lookup"><span data-stu-id="0e68b-102">About delegates in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="642a3-103">Zie de volgende onderwerpen voor meer informatie:</span><span class="sxs-lookup"><span data-stu-id="642a3-103">For more information, see these topics:</span></span>
+<span data-ttu-id="0e68b-103">Zie de volgende onderwerpen voor meer informatie:</span><span class="sxs-lookup"><span data-stu-id="0e68b-103">For more information, see these topics:</span></span>
   
-- <span data-ttu-id="642a3-104">**Outlook**: [iemand anders laten beheren van uw e-mail en agenda](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span><span class="sxs-lookup"><span data-stu-id="642a3-104">**Outlook**: [Allow someone else to manage your mail and calendar](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span></span>
+- <span data-ttu-id="0e68b-104">**Outlook**: [iemand anders laten beheren van uw e-mail en agenda](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span><span class="sxs-lookup"><span data-stu-id="0e68b-104">**Outlook**: [Allow someone else to manage your mail and calendar](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span></span>
     
-- <span data-ttu-id="642a3-105">**Outlook op het web**: [overdracht van de agenda in Outlook op het web voor bedrijven](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span><span class="sxs-lookup"><span data-stu-id="642a3-105">**Outlook on the web**: [Calendar delegation in Outlook on the web for business](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span></span>
+- <span data-ttu-id="0e68b-105">**Outlook op het web**: [overdracht van de agenda in Outlook op het web voor bedrijven](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span><span class="sxs-lookup"><span data-stu-id="0e68b-105">**Outlook on the web**: [Calendar delegation in Outlook on the web for business](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span></span>
     
 

@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
 ms.openlocfilehash: 05ab8844df6b34a9c7ae556b91ece341e1370ccd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284014"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465505"
 ---
-# <a name="set-up-information-management-policies"></a><span data-ttu-id="7cb1d-102">Informatiebeheerbeleid instellen</span><span class="sxs-lookup"><span data-stu-id="7cb1d-102">Set up information management policies</span></span>
+# <a name="set-up-information-management-policies"></a><span data-ttu-id="8f40b-102">Informatiebeheerbeleid instellen</span><span class="sxs-lookup"><span data-stu-id="8f40b-102">Set up information management policies</span></span>
 
-1. <span data-ttu-id="7cb1d-103">Als de SharePoint-site subsites bevat, Ga naar de site op het hoogste niveau.</span><span class="sxs-lookup"><span data-stu-id="7cb1d-103">If the SharePoint site has subsites, browse to the top-level site.</span></span>
+1. <span data-ttu-id="8f40b-103">Als de SharePoint-site subsites bevat, Ga naar de site op het hoogste niveau.</span><span class="sxs-lookup"><span data-stu-id="8f40b-103">If the SharePoint site has subsites, browse to the top-level site.</span></span>
     
-2. <span data-ttu-id="7cb1d-p101">Klik op **Instellingen**en klik vervolgens op **Site-instellingen**. Als de site een site Office 365 groep verbonden is, klikt u op **Instellingen**, klik op **Site-inhoud**en klik vervolgens op **Site-instellingen**.</span><span class="sxs-lookup"><span data-stu-id="7cb1d-p101">Click **Settings**, and then click **Site Settings**. If the site is an Office 365 group-connected site, click **Settings**, click **Site Contents**, and then click **Site Settings**.</span></span>
+2. <span data-ttu-id="8f40b-p101">Klik op **Instellingen**en klik vervolgens op **Site-instellingen**. Als de site een site Office 365 groep verbonden is, klikt u op **Instellingen**, klik op **Site-inhoud**en klik vervolgens op **Site-instellingen**.</span><span class="sxs-lookup"><span data-stu-id="8f40b-p101">Click **Settings**, and then click **Site Settings**. If the site is an Office 365 group-connected site, click **Settings**, click **Site Contents**, and then click **Site Settings**.</span></span>
     
-3. <span data-ttu-id="7cb1d-106">Klik onder **Beheer van de siteverzameling**op **onderdelen van de siteverzameling**.</span><span class="sxs-lookup"><span data-stu-id="7cb1d-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
+3. <span data-ttu-id="8f40b-106">Klik onder **Beheer van de siteverzameling**op **onderdelen van de siteverzameling**.</span><span class="sxs-lookup"><span data-stu-id="8f40b-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
     
-4. <span data-ttu-id="7cb1d-107">Klik onder **Recordbeheer In plaats** **activeren**.</span><span class="sxs-lookup"><span data-stu-id="7cb1d-107">Under **In Place Records Management**, click **Activate**.</span></span>
+4. <span data-ttu-id="8f40b-107">Klik onder **Recordbeheer In plaats** **activeren**.</span><span class="sxs-lookup"><span data-stu-id="8f40b-107">Under **In Place Records Management**, click **Activate**.</span></span>
     
-<span data-ttu-id="7cb1d-108">Zie [Inleiding in informatiebeheerbeleid](https://go.microsoft.com/fwlink/?linkid=404239) voor meer info en [maken en toepassen van beleid voor informatiebeheer](https://go.microsoft.com/fwlink/?linkid=2003916).</span><span class="sxs-lookup"><span data-stu-id="7cb1d-108">For more info, see [Introduction to information management policies](https://go.microsoft.com/fwlink/?linkid=404239) and [Create and apply information management policies](https://go.microsoft.com/fwlink/?linkid=2003916).</span></span>
+<span data-ttu-id="8f40b-108">Zie [Inleiding in informatiebeheerbeleid](https://go.microsoft.com/fwlink/?linkid=404239) voor meer info en [maken en toepassen van beleid voor informatiebeheer](https://go.microsoft.com/fwlink/?linkid=2003916).</span><span class="sxs-lookup"><span data-stu-id="8f40b-108">For more info, see [Introduction to information management policies](https://go.microsoft.com/fwlink/?linkid=404239) and [Create and apply information management policies](https://go.microsoft.com/fwlink/?linkid=2003916).</span></span>
   
 

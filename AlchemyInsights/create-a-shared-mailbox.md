@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283588"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465807"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="078ae-102">Een gedeeld postvak maken</span><span class="sxs-lookup"><span data-stu-id="078ae-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="5cdae-102">Een gedeeld postvak maken</span><span class="sxs-lookup"><span data-stu-id="5cdae-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="078ae-103">Een gedeeld postvak kunt meer dan één persoon verzenden en ontvangen van e-mail voor een alias, zoals **sales@contoso.com**, zonder een andere licentie toewijzen.</span><span class="sxs-lookup"><span data-stu-id="078ae-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="5cdae-103">Een gedeeld postvak kunt meer dan één persoon verzenden en ontvangen van e-mail voor een alias, zoals **sales@contoso.com**, zonder een andere licentie toewijzen.</span><span class="sxs-lookup"><span data-stu-id="5cdae-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="078ae-104">Zie [een gedeeld postvak maken](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="078ae-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
+<span data-ttu-id="5cdae-104">Zie [een gedeeld postvak maken](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="5cdae-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
   
 
