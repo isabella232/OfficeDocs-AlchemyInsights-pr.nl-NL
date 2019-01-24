@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383225"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454425"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383225"
 ## <a name="week-of-january-07-2019"></a>Week van 07 januari 2019
 
 
-| Gepubliceerd op |Onderwerptitel | Wijzigen |
+| Gepubliceerd op |Onderwerptitel | Wijzigen. |
 |------|------------|--------|
 | 7-1/2019 | [Uw wachtwoord wijzigen](/AlchemyInsights/change-your-password-in-outlook.com) | toegevoegd |
 | 7-1/2019 | [Wijzigen van machtigingen voor een postbus](/AlchemyInsights/changing-permissions-on-a-mailbox) | toegevoegd |
@@ -207,7 +207,7 @@ ms.locfileid: "29383225"
 | 10-1/2019 | [Een zwarte achtergrond wordt weergegeven of celopmaak niet naar wens](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | toegevoegd |
 | 10-1/2019 | [Toegang geweigerd bij het toewijzen van een station naar SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | toegevoegd |
 | 10-1/2019 | [Toegang geweigerd bij het bekijken van een werkstroom](/AlchemyInsights/access-denied-when-viewing-a-workflow) | toegevoegd |
-| 10-1/2019 | [Access Services](/AlchemyInsights/access-services) | toegevoegd |
+| 10-1/2019 | Access Services | toegevoegd |
 | 10-1/2019 | [Een nieuw abonnement activeren met een productcode](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | toegevoegd |
 | 10-1/2019 | [Office activeren](/AlchemyInsights/activate-office) | toegevoegd |
 | 10-1/2019 | [Een licentie voor Microsoft Office 365 Volume activeren](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | toegevoegd |
@@ -218,7 +218,7 @@ ms.locfileid: "29383225"
 | 10-1/2019 | [Toevoegen of verwijderen van een e-mailalias voor een gebruiker](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | toegevoegd |
 | 10-1/2019 | [Zitplaatsen aan een prepaid abonnement toevoegen](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | toegevoegd |
 | 10-1/2019 | [Zitplaatsen aan een prepaid abonnement toevoegen](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | toegevoegd |
-| 10-1/2019 | [Gebruikers toevoegen aan Office 365](/AlchemyInsights/add-users-to-office-365) | toegevoegd |
+| 10-1/2019 | Gebruikers toevoegen aan Office 365 | toegevoegd |
 | 10-1/2019 | [Externe gebruikers toevoegen aan een distributiegroep?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | toegevoegd |
 | 10-1/2019 | [Externe gebruikers toe te voegen](/AlchemyInsights/adding-external-users) | toegevoegd |
 | 10-1/2019 | [AD FS-Federation verlopen certificaat](/AlchemyInsights/adfs-federation-certificate-expiring) | toegevoegd |
@@ -272,7 +272,7 @@ ms.locfileid: "29383225"
 | 10-1/2019 | [Domeinnaam wijzigen in SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | toegevoegd |
 | 10-1/2019 | [Wijzigen hoe vaak u betaalt](/AlchemyInsights/change-how-often-you-pay) | toegevoegd |
 | 10-1/2019 | [MDM-instantie wijzigen](/AlchemyInsights/change-mdm-authority) | toegevoegd |
-| 10-1/2019 | [NameServers wijzigen](/AlchemyInsights/change-nameservers) | toegevoegd |
+| 10-1/2019 | Change nameservers | toegevoegd |
 | 10-1/2019 | [OneDrive voor Business opslagquotum wijzigen](/AlchemyInsights/change-onedrive-for-business-storage-quota) | toegevoegd |
 | 10-1/2019 | [Betalingsmethode wijzigen](/AlchemyInsights/change-payment-method) | toegevoegd |
 | 10-1/2019 | [Machtigingen voor een SharePoint-lijst of bibliotheek wijzigen](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | toegevoegd |
@@ -504,7 +504,7 @@ ms.locfileid: "29383225"
 | 11-1/2019 | [Een zwarte achtergrond wordt weergegeven of celopmaak niet naar wens](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | gewijzigd |
 | 11-1/2019 | [Toegang geweigerd bij het toewijzen van een station naar SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | gewijzigd |
 | 11-1/2019 | [Toegang geweigerd bij het bekijken van een werkstroom](/AlchemyInsights/access-denied-when-viewing-a-workflow) | gewijzigd |
-| 11-1/2019 | [Access Services](/AlchemyInsights/access-services) | gewijzigd |
+| 11-1/2019 | Access Services | gewijzigd |
 | 11-1/2019 | [Een nieuw abonnement activeren met een productcode](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | gewijzigd |
 | 11-1/2019 | [Office activeren](/AlchemyInsights/activate-office) | gewijzigd |
 | 11-1/2019 | [Een licentie voor Microsoft Office 365 Volume activeren](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | gewijzigd |
@@ -515,7 +515,7 @@ ms.locfileid: "29383225"
 | 11-1/2019 | [Toevoegen of verwijderen van een e-mailalias voor een gebruiker](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | gewijzigd |
 | 11-1/2019 | [Zitplaatsen aan een prepaid abonnement toevoegen](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | gewijzigd |
 | 11-1/2019 | [Zitplaatsen aan een prepaid abonnement toevoegen](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | gewijzigd |
-| 11-1/2019 | [Gebruikers toevoegen aan Office 365](/AlchemyInsights/add-users-to-office-365) | gewijzigd |
+| 11-1/2019 | Gebruikers toevoegen aan Office 365 | gewijzigd |
 | 11-1/2019 | [Externe gebruikers toevoegen aan een distributiegroep?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | gewijzigd |
 | 11-1/2019 | [Externe gebruikers toe te voegen](/AlchemyInsights/adding-external-users) | gewijzigd |
 | 11-1/2019 | [AD FS-Federation verlopen certificaat](/AlchemyInsights/adfs-federation-certificate-expiring) | gewijzigd |
@@ -569,7 +569,7 @@ ms.locfileid: "29383225"
 | 11-1/2019 | [Domeinnaam wijzigen in SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | gewijzigd |
 | 11-1/2019 | [Wijzigen hoe vaak u betaalt](/AlchemyInsights/change-how-often-you-pay) | gewijzigd |
 | 11-1/2019 | [MDM-instantie wijzigen](/AlchemyInsights/change-mdm-authority) | gewijzigd |
-| 11-1/2019 | [NameServers wijzigen](/AlchemyInsights/change-nameservers) | gewijzigd |
+| 11-1/2019 | Change nameservers | gewijzigd |
 | 11-1/2019 | [OneDrive voor Business opslagquotum wijzigen](/AlchemyInsights/change-onedrive-for-business-storage-quota) | gewijzigd |
 | 11-1/2019 | [Betalingsmethode wijzigen](/AlchemyInsights/change-payment-method) | gewijzigd |
 | 11-1/2019 | [Machtigingen voor een SharePoint-lijst of bibliotheek wijzigen](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | gewijzigd |
@@ -637,7 +637,7 @@ ms.locfileid: "29383225"
 ## <a name="week-of-january-14-2019"></a>Week van 14 januari 2019
 
 
-| Gepubliceerd op |Onderwerptitel | Wijzigen |
+| Gepubliceerd op |Onderwerptitel | Wijzigen. |
 |------|------------|--------|
 | 14-1/2019 | Tijdelijke aanduiding voor Alchemy | verwijderd |
 | 14-1/2019 | Alchemy domein toevoegen | verwijderd |
