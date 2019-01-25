@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
 ms.openlocfilehash: 386a5ff01ce1fd96c219d1de77c5f4cbf6531965
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284183"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465283"
 ---
-# <a name="manage-my-bill-and-payments"></a><span data-ttu-id="c3391-102">Mijn factuur en betalingen beheren</span><span class="sxs-lookup"><span data-stu-id="c3391-102">Manage my bill and payments</span></span>
+# <a name="manage-my-bill-and-payments"></a><span data-ttu-id="b3b11-102">Mijn factuur en betalingen beheren</span><span class="sxs-lookup"><span data-stu-id="b3b11-102">Manage my bill and payments</span></span>
 
-<span data-ttu-id="c3391-103">Als administrator hebt u toegang tot alle uw facturering en betaling opties in de admin center.</span><span class="sxs-lookup"><span data-stu-id="c3391-103">As an admin, you have access to all your billing and payments options in the admin center.</span></span>
+<span data-ttu-id="b3b11-103">Als administrator hebt u toegang tot alle uw facturering en betaling opties in de admin center.</span><span class="sxs-lookup"><span data-stu-id="b3b11-103">As an admin, you have access to all your billing and payments options in the admin center.</span></span>
   
-- <span data-ttu-id="c3391-104">De factuur of de factuur bekijken.</span><span class="sxs-lookup"><span data-stu-id="c3391-104">View your bill or invoice.</span></span>
+- <span data-ttu-id="b3b11-104">Uw rekening of factuur bekijken</span><span class="sxs-lookup"><span data-stu-id="b3b11-104">View your bill or invoice.</span></span>
     
-- <span data-ttu-id="c3391-105">Toevoegen, bijwerken of verwijderen van uw betalingsoptie.</span><span class="sxs-lookup"><span data-stu-id="c3391-105">Add, update, or remove your payment option.</span></span>
+- <span data-ttu-id="b3b11-105">Toevoegen, bijwerken of verwijderen van uw betalingsoptie.</span><span class="sxs-lookup"><span data-stu-id="b3b11-105">Add, update, or remove your payment option.</span></span>
     
-- <span data-ttu-id="c3391-106">Overschakelen naar een ander Office 365.</span><span class="sxs-lookup"><span data-stu-id="c3391-106">Switch to a different Office 365.</span></span>
+- <span data-ttu-id="b3b11-106">Overschakelen naar een ander Office 365.</span><span class="sxs-lookup"><span data-stu-id="b3b11-106">Switch to a different Office 365.</span></span>
     
-- <span data-ttu-id="c3391-107">Uw abonnement verlengen.</span><span class="sxs-lookup"><span data-stu-id="c3391-107">Renew your subscription.</span></span>
+- <span data-ttu-id="b3b11-107">Uw abonnement verlengen.</span><span class="sxs-lookup"><span data-stu-id="b3b11-107">Renew your subscription.</span></span>
     
-- <span data-ttu-id="c3391-108">Een ander abonnement kopen.</span><span class="sxs-lookup"><span data-stu-id="c3391-108">Buy another subscription.</span></span>
+- <span data-ttu-id="b3b11-108">Een ander abonnement kopen.</span><span class="sxs-lookup"><span data-stu-id="b3b11-108">Buy another subscription.</span></span>
     
-- <span data-ttu-id="c3391-109">De proef uitbreiden.</span><span class="sxs-lookup"><span data-stu-id="c3391-109">Extend your trial.</span></span>
+- <span data-ttu-id="b3b11-109">Uw proefabonnement verlengen</span><span class="sxs-lookup"><span data-stu-id="b3b11-109">Extend your trial.</span></span>
     
-- <span data-ttu-id="c3391-110">Uw abonnement opzeggen.</span><span class="sxs-lookup"><span data-stu-id="c3391-110">Cancel your subscription.</span></span>
+- <span data-ttu-id="b3b11-110">Uw abonnement annuleren</span><span class="sxs-lookup"><span data-stu-id="b3b11-110">Cancel your subscription.</span></span>
     
 

@@ -10,25 +10,25 @@ localization_priority: Priority
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 description: Het doel is niet meer dan 500 woorden voor een artikel.
 ms.openlocfilehash: 39063a124aa2d4297f9be404253496eafaf1529d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284162"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465196"
 ---
-<span data-ttu-id="31cd6-103">Het doel is niet meer dan 500 woorden voor een artikel.</span><span class="sxs-lookup"><span data-stu-id="31cd6-103">Target no more than 500 words for an article.</span></span>
+<span data-ttu-id="2c631-103">Het doel is niet meer dan 500 woorden voor een artikel.</span><span class="sxs-lookup"><span data-stu-id="2c631-103">Target no more than 500 words for an article.</span></span>
   
-<span data-ttu-id="31cd6-104">Gebruik de volgende stappen uit om de weergavenaam in Outlook wijzigt.</span><span class="sxs-lookup"><span data-stu-id="31cd6-104">To change your display name in Outlook, use the following steps.</span></span>
+<span data-ttu-id="2c631-104">Gebruik de volgende stappen uit om de weergavenaam in Outlook wijzigt.</span><span class="sxs-lookup"><span data-stu-id="2c631-104">To change your display name in Outlook, use the following steps.</span></span>
   
-1. <span data-ttu-id="31cd6-105">Selecteer **bestand** in Outlook \> **Accountinstellingen** \> **Accountinstellingen**.</span><span class="sxs-lookup"><span data-stu-id="31cd6-105">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
+1. <span data-ttu-id="2c631-105">Selecteer **bestand** in Outlook \> **Accountinstellingen** \> **Accountinstellingen**.</span><span class="sxs-lookup"><span data-stu-id="2c631-105">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
     
-2. <span data-ttu-id="31cd6-106">Selecteer de e-mailaccount en selecteer vervolgens **wijzigen**.</span><span class="sxs-lookup"><span data-stu-id="31cd6-106">Select the email account and then select **Change**.</span></span>
+2. <span data-ttu-id="2c631-106">Selecteer de e-mailaccount en selecteer vervolgens **wijzigen**.</span><span class="sxs-lookup"><span data-stu-id="2c631-106">Select the email account and then select **Change**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="31cd6-p101">Als u de optie voor uw weergegeven naam wijzigen niet ziet, gebruikt u waarschijnlijk een e-mailaccount van Microsoft Exchange. In dit geval moet u contact opnemen met de beheerder om uw schermnaam te wijzigen. Zie [de gebruikersnaam van een wijzigen en e-mailadres in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span><span class="sxs-lookup"><span data-stu-id="31cd6-p101">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account. In this case, you need to contact your administrator to change your display name. See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span> 
+    > <span data-ttu-id="2c631-p101">Als u de optie voor uw weergegeven naam wijzigen niet ziet, gebruikt u waarschijnlijk een e-mailaccount van Microsoft Exchange. In dit geval moet u contact opnemen met de beheerder om uw schermnaam te wijzigen. Zie [de gebruikersnaam van een wijzigen en e-mailadres in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span><span class="sxs-lookup"><span data-stu-id="2c631-p101">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account. In this case, you need to contact your administrator to change your display name. See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span> 
   
-3. <span data-ttu-id="31cd6-p102">Nadat u uw weergegeven naam hebt gewijzigd, klikt u op **OK** om de wijzigingen opslaan. Het kost een paar uur om de wijzigingen te weerspiegelen in de hele organisatie.</span><span class="sxs-lookup"><span data-stu-id="31cd6-p102">After you've changed your display name, click **OK** to save your changes. It can take a few hours for your changes to reflect throughout your organization.</span></span> 
+3. <span data-ttu-id="2c631-p102">Nadat u uw weergegeven naam hebt gewijzigd, klikt u op **OK** om de wijzigingen opslaan. Het kost een paar uur om de wijzigingen te weerspiegelen in de hele organisatie.</span><span class="sxs-lookup"><span data-stu-id="2c631-p102">After you've changed your display name, click **OK** to save your changes. It can take a few hours for your changes to reflect throughout your organization.</span></span> 
     
-<span data-ttu-id="31cd6-112">Zie voor meer informatie, [wijzigen de naam die geadresseerden zien](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="31cd6-112">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
+<span data-ttu-id="2c631-112">Zie voor meer informatie, [wijzigen de naam die geadresseerden zien](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="2c631-112">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
   
 

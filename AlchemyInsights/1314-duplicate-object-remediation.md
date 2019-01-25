@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
 ms.openlocfilehash: 7dc629afcad312be80f47299d81ed320a11aa40c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284062"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465096"
 ---
-# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="a083c-102">Synchronisatiefouten object dupliceren</span><span class="sxs-lookup"><span data-stu-id="a083c-102">Duplicate object synchronization errors</span></span>
+# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="7f4c3-102">Synchronisatiefouten object dupliceren</span><span class="sxs-lookup"><span data-stu-id="7f4c3-102">Duplicate object synchronization errors</span></span>
 
-<span data-ttu-id="a083c-103">Als u een van de volgende foutberichten tijdens een synchronisatie ontvangt:</span><span class="sxs-lookup"><span data-stu-id="a083c-103">If you receive one of the following errors during a synchronization:</span></span>
+<span data-ttu-id="7f4c3-103">Als u een van de volgende foutberichten tijdens een synchronisatie ontvangt:</span><span class="sxs-lookup"><span data-stu-id="7f4c3-103">If you receive one of the following errors during a synchronization:</span></span>
   
-- <span data-ttu-id="a083c-104">Een gesynchroniseerde-object met dezelfde proxyadres bestaat al in de map Microsoft Online Services.</span><span class="sxs-lookup"><span data-stu-id="a083c-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
+- <span data-ttu-id="7f4c3-104">Een gesynchroniseerde-object met dezelfde proxyadres bestaat al in de map Microsoft Online Services.</span><span class="sxs-lookup"><span data-stu-id="7f4c3-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
     
-- <span data-ttu-id="a083c-105">Een dergelijk bericht weergegeven voor UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="a083c-105">A similar message for UserPrincipalName.</span></span>
+- <span data-ttu-id="7f4c3-105">Een dergelijk bericht weergegeven voor UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="7f4c3-105">A similar message for UserPrincipalName.</span></span>
     
-<span data-ttu-id="a083c-p101">Gebruik de nieuwe AADConnect gezondheid diagnostische duplicaat fouten oplossen. Zie voor meer informatie [Diagnose en een dubbel kenmerk synchronisatiefouten verhelpen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="a083c-p101">use the new AADConnect Health diagnostic to resolve duplicate object errors. For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>
+<span data-ttu-id="7f4c3-p101">Gebruik de nieuwe AADConnect gezondheid diagnostische duplicaat fouten oplossen. Zie voor meer informatie [Diagnose en een dubbel kenmerk synchronisatiefouten verhelpen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="7f4c3-p101">use the new AADConnect Health diagnostic to resolve duplicate object errors. For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>
   
 

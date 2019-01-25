@@ -9,34 +9,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
 ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284006"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465091"
 ---
-# <a name="enable-external-sharing"></a><span data-ttu-id="f1656-102">Externe delen inschakelen</span><span class="sxs-lookup"><span data-stu-id="f1656-102">Enable external sharing</span></span>
+# <a name="enable-external-sharing"></a><span data-ttu-id="3e502-102">Externe delen inschakelen</span><span class="sxs-lookup"><span data-stu-id="3e502-102">Enable external sharing</span></span>
 
- <span data-ttu-id="f1656-103">**Het waarborgen van delen is ingeschakeld:**</span><span class="sxs-lookup"><span data-stu-id="f1656-103">**How to ensure sharing is enabled:**</span></span>
+ <span data-ttu-id="3e502-103">**Het waarborgen van delen is ingeschakeld:**</span><span class="sxs-lookup"><span data-stu-id="3e502-103">**How to ensure sharing is enabled:**</span></span>
   
-- <span data-ttu-id="f1656-104">**Algemene delen**</span><span class="sxs-lookup"><span data-stu-id="f1656-104">**Global Sharing**</span></span>
+- <span data-ttu-id="3e502-104">**Algemene delen**</span><span class="sxs-lookup"><span data-stu-id="3e502-104">**Global Sharing**</span></span>
     
-  - <span data-ttu-id="f1656-105">Portal -\> externe delen -\> laten delen-overzicht - Sites, externe gebruikers toegang tot uw sites: ON</span><span class="sxs-lookup"><span data-stu-id="f1656-105">Portal -\> External Sharing -\> Sharing Overview - Sites, Let external people access your sites: ON</span></span>
+  - <span data-ttu-id="3e502-105">Portal -\> externe delen -\> laten delen-overzicht - Sites, externe gebruikers toegang tot uw sites: ON</span><span class="sxs-lookup"><span data-stu-id="3e502-105">Portal -\> External Sharing -\> Sharing Overview - Sites, Let external people access your sites: ON</span></span>
     
-  - <span data-ttu-id="f1656-106">Portal -\> externe delen -\> Sites - selectievakje "Externe gebruikers toegang krijgen tot uw sites laten"</span><span class="sxs-lookup"><span data-stu-id="f1656-106">Portal -\> External Sharing -\> Sites - "Let external people access your sites" check box</span></span>
+  - <span data-ttu-id="3e502-106">Portal -\> externe delen -\> Sites - selectievakje "Externe gebruikers toegang krijgen tot uw sites laten"</span><span class="sxs-lookup"><span data-stu-id="3e502-106">Portal -\> External Sharing -\> Sites - "Let external people access your sites" check box</span></span>
     
-- <span data-ttu-id="f1656-107">**Administratieve delen - SharePoint Admin Center**</span><span class="sxs-lookup"><span data-stu-id="f1656-107">**Administrative Sharing - SharePoint Admin Center**</span></span>
+- <span data-ttu-id="3e502-107">**Administratieve delen - SharePoint Admin Center**</span><span class="sxs-lookup"><span data-stu-id="3e502-107">**Administrative Sharing - SharePoint Admin Center**</span></span>
     
-- <span data-ttu-id="f1656-108">Externe delen - een van de twee opties zijn ingeschakeld:</span><span class="sxs-lookup"><span data-stu-id="f1656-108">External Sharing - ensure either of the two options are selected:</span></span>
+- <span data-ttu-id="3e502-108">Externe delen - een van de twee opties zijn ingeschakeld:</span><span class="sxs-lookup"><span data-stu-id="3e502-108">External Sharing - ensure either of the two options are selected:</span></span>
     
-  - <span data-ttu-id="f1656-109">"Externe gebruikers die delen uitnodigingen en meld u aan als geverifieerde gebruikers accepteren toestaan"</span><span class="sxs-lookup"><span data-stu-id="f1656-109">"Allow external users who accept sharing invitations and sign in as authenticated users"</span></span>
+  - <span data-ttu-id="3e502-109">"Externe gebruikers die delen uitnodigingen en meld u aan als geverifieerde gebruikers accepteren toestaan"</span><span class="sxs-lookup"><span data-stu-id="3e502-109">"Allow external users who accept sharing invitations and sign in as authenticated users"</span></span>
     
-  - <span data-ttu-id="f1656-110">"Beide externe gebruikers die delen accepteren uitnodigingen en anonieme Gast koppelingen"</span><span class="sxs-lookup"><span data-stu-id="f1656-110">"Allow both external users who accept sharing invitations and anonymous guest links"</span></span>
+  - <span data-ttu-id="3e502-110">"Beide externe gebruikers die delen accepteren uitnodigingen en anonieme Gast koppelingen"</span><span class="sxs-lookup"><span data-stu-id="3e502-110">"Allow both external users who accept sharing invitations and anonymous guest links"</span></span>
     
-- <span data-ttu-id="f1656-111">**Afzonderlijke siteverzamelingen**</span><span class="sxs-lookup"><span data-stu-id="f1656-111">**Individual Site Collections**</span></span>
+- <span data-ttu-id="3e502-111">**Afzonderlijke siteverzamelingen**</span><span class="sxs-lookup"><span data-stu-id="3e502-111">**Individual Site Collections**</span></span>
     
-  - <span data-ttu-id="f1656-112">De siteverzamelingen - Selecteer siteverzameling in kwestie en klik vervolgens op delen - van het lint -\> dienen beide opties voor delen zijn ingeschakeld.</span><span class="sxs-lookup"><span data-stu-id="f1656-112">Site Collections - Select site collection in question, and then click Sharing - from the ribbon -\> ensure either sharing options are selected.</span></span>
+  - <span data-ttu-id="3e502-112">De siteverzamelingen - Selecteer siteverzameling in kwestie en klik vervolgens op delen - van het lint -\> dienen beide opties voor delen zijn ingeschakeld.</span><span class="sxs-lookup"><span data-stu-id="3e502-112">Site Collections - Select site collection in question, and then click Sharing - from the ribbon -\> ensure either sharing options are selected.</span></span>
     
-<span data-ttu-id="f1656-113">Zie voor meer informatie over het inschakelen van het delen van externe [inschakelen externe delen in- of uitschakelen voor SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="f1656-113">For additional information on how to turn on external sharing, see [Turn external sharing on or off for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span></span>
+<span data-ttu-id="3e502-113">Zie voor meer informatie over het inschakelen van het delen van externe [inschakelen externe delen in- of uitschakelen voor SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="3e502-113">For additional information on how to turn on external sharing, see [Turn external sharing on or off for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span></span>
   
 
