@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 1b74656713f4521b083490b585941aeba3abc89c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283992"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498441"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="02aec-102">De synchronisatiestatus van AAD identiteit controleren</span><span class="sxs-lookup"><span data-stu-id="02aec-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="17251-102">De synchronisatiestatus van AAD identiteit controleren</span><span class="sxs-lookup"><span data-stu-id="17251-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="02aec-103">Sync-status controleren is eenvoudig:</span><span class="sxs-lookup"><span data-stu-id="02aec-103">Checking sync status is easy:</span></span> 
+<span data-ttu-id="17251-103">Sync-status controleren is eenvoudig:</span><span class="sxs-lookup"><span data-stu-id="17251-103">Checking sync status is easy:</span></span> 
   
-- <span data-ttu-id="02aec-104">Aanmelden bij het beheercentrum voor Office 365 en kies \*\* DirSync Status \*\* op de introductiepagina.</span><span class="sxs-lookup"><span data-stu-id="02aec-104">Sign in to the Office 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
+- <span data-ttu-id="17251-104">Aanmelden bij het beheercentrum voor Office 365 en kies \*\* DirSync Status \*\* op de introductiepagina.</span><span class="sxs-lookup"><span data-stu-id="17251-104">Sign in to the Office 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
     
-- <span data-ttu-id="02aec-105">Ook gaat u naar de gebruikers \> actieve gebruikers, en kies op de pagina actieve gebruikers meer \> Directory-synchronisatie.</span><span class="sxs-lookup"><span data-stu-id="02aec-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="17251-105">Ook gaat u naar de gebruikers \> actieve gebruikers, en kies op de pagina actieve gebruikers meer \> Directory-synchronisatie.</span><span class="sxs-lookup"><span data-stu-id="17251-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
     
-- <span data-ttu-id="02aec-106">Kies in het deelvenster adreslijstsynchronisatie Ga naar DirSync management.</span><span class="sxs-lookup"><span data-stu-id="02aec-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
+- <span data-ttu-id="17251-106">Kies in het deelvenster adreslijstsynchronisatie Ga naar DirSync management.</span><span class="sxs-lookup"><span data-stu-id="17251-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
     
-<span data-ttu-id="02aec-p101">Als er een probleem met uw adreslijstsynchronisatie, worden de fouten vermeld op deze pagina. Zie voor meer informatie over andere fouten die kunnen optreden, [identificeren directory synchronisatiefouten in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="02aec-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
+<span data-ttu-id="17251-p101">Als er een probleem met uw adreslijstsynchronisatie, worden de fouten vermeld op deze pagina. Zie voor meer informatie over andere fouten die kunnen optreden, [identificeren directory synchronisatiefouten in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="17251-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
   
 
