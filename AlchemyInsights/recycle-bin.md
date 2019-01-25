@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: a4b1ce6c6a454939bb47fcfb183914fb26b1f6c5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284806"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500349"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Items in SharePoint Online herstellen
 
@@ -30,6 +30,6 @@ Als u items in SharePoint Online verwijdert, werkt ze voor een totaal van 93 dag
     
 3. Klik op **Terugzetten**.
     
-[Verwijderde items terugzetten uit de Prullenbak van de Site](https://go.microsoft.com/fwlink/?linkid=866439)
+[Verwijderde items terugzetten uit de Prullenbak van de siteverzameling](https://go.microsoft.com/fwlink/?linkid=866439)
   
 
