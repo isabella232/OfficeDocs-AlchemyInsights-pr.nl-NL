@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
 ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284647"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465132"
 ---
 # <a name="view-my-bill"></a>Mijn rekening bekijken
 
-1. Ga naar de pagina van de [rekeningen](https://go.microsoft.com/fwlink/p/?linkid=848039) in de Admin center of kies **Facturering:** \> **rekeningen**.
+1. Ga in het Beheercentrum naar de pagina [Facturen](https://go.microsoft.com/fwlink/p/?linkid=848039) of kies **Facturering** \> **Facturen**.
     
 2. Kies de maand en datum van de factuur die u wilt gebruiken en kies vervolgens **Weergeven**.
     

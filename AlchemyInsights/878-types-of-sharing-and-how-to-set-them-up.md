@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b85606cf-deaf-4b0c-b398-79291feace63
 ms.openlocfilehash: 97d89086b81525f65e229bca8e84f51a16020ee0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284158"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29465341"
 ---
 # <a name="types-of-calendar-sharing"></a>Soorten agenda delen
 
@@ -22,7 +22,7 @@ Dit zijn de beschikbare typen van het delen van agenda's en hoe u deze configure
   
 - [Een gedeeld postvak maken](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9.aspx)
     
-- [Postvakken voor vergaderruimten en apparatuur](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)
+- Postvakken voor vergaderruimten en apparatuur
     
 - [Een agenda maken](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff.aspx)
     

@@ -1,5 +1,5 @@
 ---
-title: NameServers wijzigen
+title: Change nameservers
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
 ms.openlocfilehash: b296e76c3d39cad16f329215f0480ae260e77f2e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28284291"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464960"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>De domeinnaamservers voor Office 365 bijwerken
 

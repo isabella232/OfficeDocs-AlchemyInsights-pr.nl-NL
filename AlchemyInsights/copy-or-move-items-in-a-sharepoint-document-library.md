@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283602"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464935"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Items kopiëren of verplaatsen in een SharePoint-documentbibliotheek
 
@@ -37,6 +37,6 @@ U kunt kopiëren en verplaatsen van bestanden, mappen en koppelingen naar andere
 3. Klik op **Hierheen kopiëren** of **verplaatsen hier**.
     
 > [!NOTE]
->  U kunt maximaal 500 MB aan bestanden en mappen in één keer kopiëren. > Wanneer u documenten met versiegeschiedenis kopieert, worden alleen de meest recente versie wordt gekopieerd. Als u documenten hebt verplaatst, wordt de geschiedenis ook verplaatst. 
+>  U kunt maximaal 500 MB aan bestanden en mappen in één keer kopiëren. > bij het kopiëren van documenten die de versiegeschiedenis, alleen de meest recente versie hebt gekopieerd. Als u documenten hebt verplaatst, wordt de geschiedenis ook verplaatst. 
   
 
