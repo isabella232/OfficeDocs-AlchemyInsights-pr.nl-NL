@@ -2,44 +2,28 @@
 title: Problemen met activering oplossen
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Start uw artikel met een korte inleiding (zin 1). Zelf invoeren in plaats van de lezer - ze hier waarom zijn? Wat moeten ze doen?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498261"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646954"
 ---
-Start uw artikel met een korte inleiding (zin 1). Zelf invoeren in plaats van de lezer - ze hier waarom zijn? Wat moeten ze doen? 
-  
-1. Meteen naar een snel overzicht van de stappen voor de taak.
-    
-    Als u nodig hebt om uit te leggen van een concept, of ze moeten vooraf de nodige stappen te doen, een snel overzicht onder de stap en [koppeling](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) naar een concept of stappen moeten toevoegen. 
-    
-2. Korte - procedures bij voorkeur 5 of minder stappen, niet meer dan 8 houden.
-    
-3. **Ui-stijl** gebruiken voor elementen van de gebruikersinterface of voor tekst mensen moet invoeren. 
-    
-4. Gebruik de woorden kiezen, selecteren, of Voer acties en menu's als in het **Menu** opmaak \> **opdracht**.
-    
-5. Desgewenst een screenshot voor context (als UI moeilijk is te vinden of dat nodig is om de taak te voltooien).
-    
-    Maximale breedte: 520 pixels. Een standaardthema gebruiken, geen persoonlijke gegevens weergeven en bijsnijden zodat alleen wat relevant is. 
-    
-    ![Tijdelijke aanduiding - maximale breedte voor SOC artikel art is 520 pixels](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Als u wilt toevoegen van een video of screenshot, een raster met twee kolommen gebruikt en de stappen in de linker- en de video of screenshot in het rechter - Zie [video raster voorbeeld en werk](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Het doel is niet meer dan 500 woorden voor een artikel.
-  
-# <a name="example-article"></a>Voorbeeld van artikel
+# <a name="activation-troubleshooting"></a>Problemen met activering oplossen
 
-[Mijn foto wijzigen](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+In **Het Configuratiescherm** \> **programma's en onderdelen**, zoeken naar Office. U moet Microsoft Office 365 ProPlus of Microsoft Office 365 Business zien. Als er meer dan één versie van Office die worden vermeld, moet u de versie die u niet gebruikt verwijderen. 
   
-
+Als u niet kunt met behulp van het Configuratiescherm verwijderen, gebruik de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) de versie die u niet gebruikt te verwijderen. 
+  
+Als Office is nog steeds illegaal is, gaat u terug naar het **Configuratiescherm** \> **programma's en onderdelen**. Klik met de rechtermuisknop op de overige Office-installatie **wijzigen** (of wijzigen), en selecteer **Online reparatie**selecteert. De online reparatie kan even duren. Vervolgens start u Office opnieuw en meld u aan met uw werk of school-account als u wordt gevraagd.
+  
+Als Office nog steeds illegaal is, downloaden en voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) op de getroffen machine voor het oplossen van activeringsproblemen met de. 
+  
+Zie voor meer informatie: [niet-gelicentieerde Product en activeringsfouten in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

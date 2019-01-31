@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 41d6825b568263fb7b09066b65235aa348415bae
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2147c70f64087bf95fc4e39c193caeac3b2c5361
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465333"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660372"
 ---
 Problemen bij het archiveren van items in de postbus archiveren. Zorg ervoor dat u de volgende stappen hebt uitgevoerd:
   
-1. Bevestigen dat een **postbus archiveren** is ingeschakeld. Als dit niet het geval is, stappen in [dit artikel](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes) gebruiken om te schakelen van de archiefmap Postvak. 
+1. Bevestigen dat een **postbus archiveren** is ingeschakeld. Als dit niet het geval is, stappen in [dit artikel](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) gebruiken om te schakelen van de archiefmap Postvak. 
     
 2. In het beheercentrum van Exchange **Tags bewaren** onder **Beheer van de conformiteit**selecteert, een **inhouding code** maken met de actie **verplaatsen naar het archief** met de gewenste **Leeftijd vasthouden**.
     
 3. Selecteer **Bewaarbeleid**in het beheercentrum van Exchange, **Bewaarbeleid** maken en uw behoud **verplaatsen naar archief** tag toevoegen aan dat beleid. 
     
-4. [Het bewaarbeleid toewijzen](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) aan de specifieke postbus van gebruiker. Hetzelfde beleid zullen worden toegepast op zowel de **primaire** als de **archiefmap** postvak. 
+4. [Het bewaarbeleid toewijzen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) aan de specifieke postbus van gebruiker. Hetzelfde beleid zullen worden toegepast op zowel de **primaire** als de **archiefmap** postvak. 
     
-De postbus van gebruiker hebt nu een archiveringsbeleid items te verplaatsen naar de archiefmap Postvak. Deze zijn nodig om de beheerde map-assistent (MVR gesloten) uit te voeren en de nieuwe instellingen toepassen op het postvak van de gebruiker. Voer de volgende opdracht [verbonden met EXO PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) tijdens het starten van de beheerde map-assistent van een bepaalde postbus: 
+De postbus van gebruiker hebt nu een archiveringsbeleid items te verplaatsen naar de archiefmap Postvak. Deze zijn nodig om de beheerde map-assistent (MVR gesloten) uit te voeren en de nieuwe instellingen toepassen op het postvak van de gebruiker. Voer de volgende opdracht [verbonden met EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) tijdens het starten van de beheerde map-assistent van een bepaalde postbus: 
   
 ```
 Start-ManagedFolderAssistant -Identity <name of the mailbox>
 ```
 
-Wilt u meer informatie over het instellen van een archiveringsbeleid, kunt u [een beleid voor archiveren en verwijderen van postbussen instellen](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Wilt u meer informatie over het instellen van een archiveringsbeleid, kunt u [een beleid voor archiveren en verwijderen van postbussen instellen](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c608489be8497233d9d4f87ec53649026b823250
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6170265dac1eebe8fa1acf766d2eb8d6b0a5908b
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465476"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662358"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>AD FS-Federation verlopen certificaat
 
@@ -24,10 +24,10 @@ Dit probleem oplossen door de volgende stappen uit:
   
 1. De Microsoft Azure Active Directory-Module voor Windows PowerShell installeren op de computer (als de module niet is geïnstalleerd). Ga hiervoor naar [Azure AD met Windows PowerShell beheren](https://aka.ms/aadposh).
     
-2. Volg de stappen in de ' Scenario 1: de AD FS tokenhandtekeningcertificaat verlopen "sectie van het [foutbericht 'Er is een probleem met het openen van de site' van AD FS wanneer een federatieve gebruiker zich bij Office 365, Azure, of Intune aanmeldt](https://support.microsoft.com/en-us/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Volg de stappen in de ' Scenario 1: de AD FS tokenhandtekeningcertificaat verlopen "sectie van het [foutbericht 'Er is een probleem met het openen van de site' van AD FS wanneer een federatieve gebruiker zich bij Office 365, Azure, of Intune aanmeldt](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
     
-3. Volg de stappen in [het bijwerken of herstellen van de instellingen van een federatieve domein in Office 365, Azure, of Intune](https://support.microsoft.com/en-us/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Volg de stappen in [het bijwerken of herstellen van de instellingen van een federatieve domein in Office 365, Azure, of Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
     
-    Zie voor meer informatie over het vernieuwen van certificaten Federation, [federation-certificaten vernieuwen voor Office 365 en Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Zie voor meer informatie over het vernieuwen van certificaten Federation, [federation-certificaten vernieuwen voor Office 365 en Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
     
 

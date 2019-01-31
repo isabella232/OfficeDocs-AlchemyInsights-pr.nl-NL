@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465818"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660882"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Switch wil verhogen van de grootte van het Postvak
 
-Als de grootte van het Postvak 50 GB is, kunt u de grootte van het Postvak 100 GB vergroten door het overschakelen naar [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) of [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Hier volgen de stappen voor het overschakelen naar een ander Office 365 plan:
+Als de grootte van het Postvak 50 GB is, kunt u de grootte van het Postvak 100 GB vergroten door het overschakelen naar [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) of [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Hier volgen de stappen voor het overschakelen naar een ander Office 365 plan:
   
 1. In het Office 365 admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **abonnementen**.
     

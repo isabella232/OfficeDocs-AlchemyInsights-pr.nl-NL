@@ -3,31 +3,30 @@ title: Site groep verwijderen
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465836"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660666"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Een SharePoint-site die bij een Office 365-groep hoort verwijderen
 
-Wanneer gebruikers een nieuwe teamsite vanaf de introductiepagina van SharePoint maken (of u een nieuwe teamsite maken op basis van de nieuwe SharePoint-admin center voorvertoning), wordt automatisch een bijbehorende Office 365 groep gemaakt. Office 365 groep verbonden teamsites worden ook gemaakt wanneer u een Office 365-groep of een team in Microsoft-Teams maakt. Als u wilt verwijderen van een SharePoint-site die bij een Office 365-groep hoort, moet u de Office 365-groep zelf verwijderen. 
+Globale beheerders en beheerders van SharePoint kunt u sites die tot een groep Office 365 behoren nu verwijderen. Deze sites verwijdert, worden de groep en alle bronnen, met inbegrip van het Outlook-postvak en agenda en alle kanalen Teams.
   
-1. Ga naar de [pagina groepen van het Office 365 admin center](https://portal.office.com/adminportal/home#/groups).
-    
-2. Schakel het selectievakje in naast de groep.
-    
-3. Selecteer **verwijderen**.
-    
-Opmerking: Als u een groep verwijdert, kan er een vertraging optreden voordat de site wordt verwijderd van SharePoint.
+Belangrijk:
+- U kunt verwijderde sites 93 dagen herstellen. Bekijken en herstellen van verwijderde sites voor meer informatie. Houd er rekening mee dat verwijderde groepen binnen 30 dagen moeten worden hersteld. 
+- Als de site deel van een bewaarbeleid uitmaakt, kunt u mogelijk niet verwijderen totdat de site wordt verwijderd uit de [beveiliging &amp; conformiteit Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Zie [Overzicht van bewaarbeleid](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) voor meer info. 
+  
+[Weergave maken en terugzetten van sites in de nieuwe SharePoint-admin center verwijderd](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecteert u **sites verwijderd**. Selecteer de site die is verwijderd en kies herstellen of verwijderen (dit wordt definitief verwijderd van de site). U verwijdert een actieve site, **actieve** sites selecteren, selecteer de site en selecteer **verwijderen**. Zie [sites beheren in de nieuwe SharePoint-admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)voor meer informatie.
   
 

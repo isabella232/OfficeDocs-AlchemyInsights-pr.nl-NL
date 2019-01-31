@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 2dc6690da30e44aa5c4a37d227274d2e4457e4b4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: cfcab462b38e25896353e844e881008ccfc1ad35
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465755"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662214"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>Verbonden accounts worden niet langer ondersteund.
 
-Microsoft heeft de mogelijkheid om het toevoegen van nieuwe accounts met Outlook op het web met behulp van de functie verbonden accounts op 15 September 2018 verwijderd en wordt niet meer synchroniseren van bestaande accounts op 30 oktober 2018 die vóór 15 September 2018 zijn verbonden. Op 15 November de optie verbonden accounts ( **Instellingen** \> **e** \> **Accounts**) worden verwijderd uit Outlook op het web. Zie voor meer informatie [verbonden accounts niet meer wordt ondersteund in Outlook op het web ( Office 365 voor zakelijke accounts)](https://support.office.com/en-us/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft heeft de mogelijkheid om het toevoegen van nieuwe accounts met Outlook op het web met behulp van de functie verbonden accounts op 15 September 2018 verwijderd en wordt niet meer synchroniseren van bestaande accounts op 30 oktober 2018 die vóór 15 September 2018 zijn verbonden. Op 15 November de optie verbonden accounts ( **Instellingen** \> **e** \> **Accounts**) worden verwijderd uit Outlook op het web. Zie voor meer informatie [verbonden accounts niet meer wordt ondersteund in Outlook op het web ( Office 365 voor zakelijke accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
 Om door te gaan met het bekijken van e-mail van andere accounts: u kunt nog steeds e-mail doorsturen van die accounts met Outlook op het web. Zie voor meer informatie:
   

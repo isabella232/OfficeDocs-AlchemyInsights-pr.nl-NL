@@ -1,0 +1,27 @@
+---
+title: Gebruik het installatieprogramma van Office offline
+ms.author: janellem
+author: janellem
+ms.date: 1/17/2019
+ms.audience: ITPro
+ms.topic: article
+ms.prod: office-online-server
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
+ms.openlocfilehash: 656909202b6995be8bf3f4120f46dab62a3cf99c
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29649558"
+---
+# <a name="use-the-office-offline-installer"></a>Gebruik het installatieprogramma van Office offline
+
+
+
+U moet verbonden zijn met het internet te downloaden van de installer-bestanden, maar zodra u dat hebt gedaan, vervolgens kunt u installeren Office offline op een PC op uw gemak met behulp van de Office Deployment Tool (ODT)
+  
+De ODT voor bedrijfsomgevingen is ontworpen en uitgevoerd vanaf de opdrachtregel, zodat de stappen ingewikkelder zijn-- maar ze werkt nog steeds voor installatie op één apparaat. Zie [het Office-installatieprogramma voor off line gebruik](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+  
+

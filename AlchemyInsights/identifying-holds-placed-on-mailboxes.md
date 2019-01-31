@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 9950fb8af79c7689133a226df29c123feefb0254
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 086aa3626601a80208b9791e151243ef4dd0cabd
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465069"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661170"
 ---
 Beschikt u over inhoud die wordt **bewaard** door **bevatten** die u niet identificeren? Wilt u **weten** waar zich de wachtruimte op het **Postvak** ? Wachtruimten ( *behoud functies* ) kunnen worden toegepast door een van de volgende methoden in Office 365: 
   
@@ -32,6 +32,6 @@ Beschikt u over inhoud die wordt **bewaard** door **bevatten** die u niet identi
     
 - Etiketten voor Office 365
     
-Als u wilt vaststellen welk type blokkering wordt toegepast op het postvak van een gebruiker, Zie [het identificeren van het type geplaatst op een Exchange Online-Postvak houdt](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Als u wilt vaststellen welk type blokkering wordt toegepast op het postvak van een gebruiker, Zie [het identificeren van het type geplaatst op een Exchange Online-Postvak houdt](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
   
 
