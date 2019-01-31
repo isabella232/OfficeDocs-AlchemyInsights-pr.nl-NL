@@ -2,43 +2,21 @@
 title: Geen standaard toevoegen goedkeuringswerkstroom 2010
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/28/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 758b0339b842478f9609eb716b5b4ddab6579c80
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b57f44c85fcd5d1d227b64baa99a9790c2112c51
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464865"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646132"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="015a1-102">Geen standaard toevoegen goedkeuringswerkstroom 2010</span><span class="sxs-lookup"><span data-stu-id="015a1-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="8f7d3-102">Geen standaard toevoegen goedkeuringswerkstroom 2010</span><span class="sxs-lookup"><span data-stu-id="8f7d3-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="015a1-103">In een siteverzameling van Microsoft SharePoint niet kunt u een globaal herbruikbare werkstroom (bijvoorbeeld "goedkeuring - SharePoint 2010") toevoegen aan een lijst of bibliotheek.</span><span class="sxs-lookup"><span data-stu-id="015a1-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
+<span data-ttu-id="8f7d3-p101">In een siteverzameling van Microsoft SharePoint niet kunt u een globaal herbruikbare werkstroom (bijvoorbeeld "goedkeuring - SharePoint 2010") toevoegen aan een lijst of bibliotheek. De goedkeuringswerkstroom ontbreekt mogelijk. Dit probleem Zie [niet een globaal herbruikbare werkstroom op een SharePoint-lijst of bibliotheek toevoegen](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library)om op te lossen.</span><span class="sxs-lookup"><span data-stu-id="8f7d3-p101">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library. The approval workflow may be missing. To resolve this issue refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span> 
   
-<span data-ttu-id="015a1-104">Dit probleem oplossen door de volgende stappen uit:</span><span class="sxs-lookup"><span data-stu-id="015a1-104">To resolve this issue, follow these steps:</span></span> 
-  
-1. <span data-ttu-id="015a1-105">Open de website van de hoofdmap van de siteverzameling in SharePoint Designer 2013.</span><span class="sxs-lookup"><span data-stu-id="015a1-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
-  
-2. <span data-ttu-id="015a1-106">Selecteer onder **Site-objecten**, **werkstromen**.</span><span class="sxs-lookup"><span data-stu-id="015a1-106">Under **Site Objects**, select **Workflows**.</span></span> 
-  
-3. <span data-ttu-id="015a1-107">Selecteer in de sectie **Nieuw** van het lint **werkstromen** **Herbruikbare werkstroom**.</span><span class="sxs-lookup"><span data-stu-id="015a1-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
-  
-4. <span data-ttu-id="015a1-p101">Voer de naam van het formulier **Herbruikbare werkstroom maken** \* \*\*Repair2010\*\*\*. **SharePoint 2010-werkstroom**te selecteren voor het **Type Platform**en klik vervolgens op **OK**.</span><span class="sxs-lookup"><span data-stu-id="015a1-p101">On the **Create Reusable Workflow** form, enter the name  \* **Repair2010**\* . For **Platform Type**, select **SharePoint 2010 Workflow**, and then select **OK**.</span></span> 
-  
-5. <span data-ttu-id="015a1-110">Selecteer in de sectie van het lint **Workflow** **Opslaan** **publiceren**.</span><span class="sxs-lookup"><span data-stu-id="015a1-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
-  
-6. <span data-ttu-id="015a1-p102">Selecteer in de sectie **beheren** van het lint voor de **werkstroom** **Globaal publiceren**. Klik in het dialoogvenster bevestiging op **OK**.</span><span class="sxs-lookup"><span data-stu-id="015a1-p102">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**. In the confirmation dialog box that appears, select **OK**.</span></span> 
-  
-7. <span data-ttu-id="015a1-p103">In een webbrowser en Ga naar de website van de hoofdmap van de siteverzameling en vervolgens naar **Site-instellingen** \> **Onderdelen van de siteverzameling**. Vervolgens de functie voor **werkstromen** schakelen:</span><span class="sxs-lookup"><span data-stu-id="015a1-p103">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**. Then, toggle the **Workflows** feature:</span></span> 
-  
-<span data-ttu-id="015a1-115">· Als de functie *geactiveerd is* , klikt u op **deactiveren,** en klik op **activeren**.</span><span class="sxs-lookup"><span data-stu-id="015a1-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
-  
-<span data-ttu-id="015a1-116">· Als de functie *gedeactiveerd is* , klikt u op **activeren**.</span><span class="sxs-lookup"><span data-stu-id="015a1-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
-  
-<span data-ttu-id="015a1-117">Raadpleeg het volgende [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="015a1-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
-  
-
