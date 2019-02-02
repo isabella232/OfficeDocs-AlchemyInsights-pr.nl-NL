@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662925"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697125"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Vereiste klant gericht H1, H2, werkt niet
-Van de voorbeeldtekst blokkeren: Volg deze instructies:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vereist Alchemie kop H1, H2 van werken niet.
+Aanbevelingen en richtlijnen voor het ontwerpen van Alchemy:
 
+1. **Alchemy inzichten in mappen sluiten niet op elkaar**- dit, de url-structuur worden verbroken. We zijn op zoek naar deze vaststelling.
 1. Bestanden in de map **AlchemyInsights** heeft regel-ID en de naam van de regel van de [Alchemie Partner portal](https://alchemyportal.azurewebsites.net) in de bestandsnaam.
     1. bijvoorbeeld ***976-How-to-enable-litigation-hold***
 1. De metagegevens aan de bovenkant van dit bestand gebruiken als uw sjabloon. Niets is vereist.
@@ -35,7 +36,6 @@ Van de voorbeeldtekst blokkeren: Volg deze instructies:
 
 En dit is echt al een beetje te lang. Beste is ongeveer 400 tekens---
 
-Zodra de inhoud gereed is, voeg alles aan levende tak. Vervolgens gaat u naar de [Alchemie Partner portal](https://alchemyportal.azurewebsites.net) en voer de bestandsnaam in het veld url. Zorg ervoor dat inzicht gecontroleerd en gepubliceerd zegt "Ja" en klik op regel voor het bijwerken. (Dit ziet er fraaier te verpakken in de nieuwe versie van de portal - spoedig vrijgeven.)
-
-![URL-veld](media/for-content-team.PNG)
+Zodra de inhoud gereed is, voeg alles aan levende tak. Vervolgens gaat u naar de [Alchemie Partner portal](https://alchemyportal.azurewebsites.net) en voer de bestandsnaam in het veld url. Zorg ervoor dat inzicht gecontroleerd en gepubliceerd zegt "Ja" en klik op regel voor het bijwerken. **(Dit ziet er fraaier te verpakken in de nieuwe versie van de portal - spoedig vrijgeven.)** 
+ ![url-veld](media/for-content-team.PNG)
 
