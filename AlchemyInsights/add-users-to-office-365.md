@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: f6d93a59996009e070438d942afd92204f636abf
-ms.sourcegitcommit: 3fd1c87a75450e598de6ea10d9a5937ceaf51d20
+ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/05/2019
-ms.locfileid: "29735291"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758555"
 ---
 # <a name="add-a-user-to-office-365"></a>Een gebruiker toevoegen aan Office 365
 
 Gebruik deze stappen om een gebruiker toe te voegen aan Office 365:
   
-1. Ga naar [Actieve gebruikers](https://portal.office.com/adminportal/home.aspx#/users) (of **gebruikers** kiezen op de Linkernavigatie \> **actieve gebruikers**).
+1. Ga naar [Actieve gebruikers](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (of **gebruikers** kiezen op de Linkernavigatie \> **actieve gebruikers**).
     
 2. Klik op **Een gebruiker toevoegen**.
     

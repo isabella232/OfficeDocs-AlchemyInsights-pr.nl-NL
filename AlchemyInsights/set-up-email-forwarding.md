@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657822"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759450"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Controleer de instellingen voor een postbus doorsturen e-mail
 
@@ -30,6 +30,6 @@ Zie voor meer informatie [e-mailadres configureren in Office 365 doorsturen](htt
   
 Wilt verzenden naar uw gebruikers instructies zodat ze op hun eigen postbus doorsturen van e-mail kunnen instellen, wijst u deze [e-mail van Office 365 naar een ander e-mailaccount doorsturen ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Opmerking: u kunt doorsturen naar slechts één e-mailadres. Als u wilt doorsturen naar een groep personen instellen, een distributielijst maken met (onder groepen) gebruikers aan toe te voegen en configureer vervolgens doorsturen naar die groep.
   
-Hebt u een werknemer verlaten? Zie [verwijderen, een voormalig medewerker van Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) voor de aanbevolen stappen die u moet nemen. 
+Hebt u een werknemer verlaten? Zie [verwijderen, een voormalig medewerker van Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) voor de aanbevolen stappen die u moet nemen. 
   
 

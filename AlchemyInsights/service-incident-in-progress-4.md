@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e3fa17dd-c822-41e7-aaba-d9d2c5381fd6
-ms.openlocfilehash: c3e4b6db7e6e814bd3dfa72cc8d40170c71c5cac
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2939123cab7fb863745bced9d7067dc95ff311bb
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465557"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759239"
 ---
 # <a name="service-incident-in-progress"></a>Service-Incident in uitvoering
 
-U kan worden beïnvloed door een incident service of advies dat wordt momenteel onderzocht. Door te gaan naar de pagina [Status van de Service](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) kunt u de meest recente status controleren. 
+U kan worden beïnvloed door een incident service of advies dat wordt momenteel onderzocht. Door te gaan naar de pagina [Status van de Service](https://admin.microsoft.com/adminportal/home#/servicehealth) kunt u de meest recente status controleren. 
   
 Voor uw gemak vindt u een overzicht van dit incident hieronder:
   
-> **Incident nummer:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)
+> **Incident nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Beschrijving van invloed: {ImpactDescription}
     
