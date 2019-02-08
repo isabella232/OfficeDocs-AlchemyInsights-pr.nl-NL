@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465703"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770648"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Over gemachtigden in Outlook en Outlook op het web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Overdracht in Outlook en Outlook op het web oplossen
 
-Zie de volgende onderwerpen voor meer informatie:
-  
-- **Outlook**: [iemand anders laten beheren van uw e-mail en agenda](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook op het web**: [overdracht van de agenda in Outlook op het web voor bedrijven](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Problemen oplossen met het hulpprogramma SaRA:**
 
+1. Download en installeer SaRA tool hier
+1. 'Ik heb problemen met mijn agenda' Outlook selecteren
+1. Zeg Ja voor getroffen machine
+1. Het e-mailadres van de gebruiker toevoegen
+1. "Ik heb problemen met machtigingen voor gemachtigde" selecteren
+1. Achter de volgende prompt invoeren als u de persoon die machtigingen, het e-mailadres van uw gemachtigde. Als u machtigingen ontvangen en u de gemachtigde bent, voert u het e-mailadres van de persoon die u machtigingen heeft gegeven.
+1. In het volgende menu de optie die past bij uw scenario. 
+1. Selecteer het machtigingsniveau in te stellen op het volgende menu.
+1. In dit stadium SaRA hulpprogramma geautomatiseerde controles uitvoert en voorziet u van een mogelijke oplossing of krijgt u ook een diagnostische logboeken die kan worden gebruikt voor verdere probleemoplossing.
+1. U vindt de logboeken in de map SaRA resultaten is te vinden op C:\Users\Username\AppData\Local\SaraResults
