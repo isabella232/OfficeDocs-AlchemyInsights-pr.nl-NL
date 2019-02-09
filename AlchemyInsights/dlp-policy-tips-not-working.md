@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657755"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786729"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP-beleid Tip problemen
+
 Bij het gebruik van **de DLP-beleid**, kunnen gebruikers van een overtreding van het beleid met **tips voor beleid**worden gewaarschuwd. Beheerders kunnen tips beleid weer te geven tijdens het testen van hun DLP-beleid of het beleid is in de modus voor volledige uitvoering configureren. 
   
 Beleid configureren tips voor uw DLP-beleid in het midden van beveiliging en naleving in de modus voor volledige uitvoering als volgt:
