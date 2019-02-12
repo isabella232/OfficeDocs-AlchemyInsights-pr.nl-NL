@@ -838,3 +838,57 @@
 | 30-1/2019 | [Een account aanvragen 123 fout in OWA uitgeschakeld?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | gewijzigd |
 | 1-2/2019 | [hetzelfde als de bestandsnaam is de beste [regel #-beschrijving]](/AlchemyInsights/1-alchemy-insight-template) | gewijzigd |
 | 1-2/2019 | [Wijzigen van machtigingen voor een postbus](/AlchemyInsights/changing-permissions-on-a-mailbox) | gewijzigd |
+
+
+## <a name="week-of-february-04-2019"></a>Week van 04 februari 2019
+
+
+| Gepubliceerd op |Onderwerptitel | Wijzigen |
+|------|------------|--------|
+| 4-2/2019 | [Gebruikers toevoegen aan Office 365](/AlchemyInsights/add-users-to-office-365) | gewijzigd |
+| 6-2/2019 | [Werknemer verlaten](/AlchemyInsights/employee-leaving) | gewijzigd |
+| 6-2/2019 | [Overname van Admin](/AlchemyInsights/admin-takeover) | gewijzigd |
+| 6-2/2019 | [127 ophalen van een TenantAccessBlockedException-fout bij het openen van e-mailadres?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | gewijzigd |
+| 6-2/2019 | [Weergavenaam van 959 wijzigen](/AlchemyInsights/959-change-display-name) | gewijzigd |
+| 6-2/2019 | [Toevoegen of verwijderen van een e-mailalias voor een gebruiker](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | gewijzigd |
+| 6-2/2019 | Zitplaatsen aan een prepaid abonnement toevoegen | verwijderd |
+| 6-2/2019 | [Gebruikers toevoegen aan Office 365](/AlchemyInsights/add-users-to-office-365) | gewijzigd |
+| 6-2/2019 | [Externe gebruikers toevoegen aan een distributiegroep?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | gewijzigd |
+| 6-2/2019 | Admin - algemene Office 365 instellen en beheren | verwijderd |
+| 6-2/2019 | Admin - Mijn gebruikers, groepen en bronnen beheren | verwijderd |
+| 6-2/2019 | Admin - Setup domein en de DNS-instellingen | verwijderd |
+| 6-2/2019 | Admin - aanmeldingsnaam en wachtwoordproblemen | verwijderd |
+| 6-2/2019 | [Office 365-abonnement opzeggen](/AlchemyInsights/cancel-office-365-subscription) | gewijzigd |
+| 6-2/2019 | [Van een gebruiker naam en e-mailadres wijzigen](/AlchemyInsights/change-a-user-s-name-and-email-address) | gewijzigd |
+| 6-2/2019 | Commerce - facturen, betalingen, abonnementen en licenties beheren | verwijderd |
+| 6-2/2019 | [Ophalen van een TenantAccessBlockedException-fout bij het openen van e-mailadres?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | gewijzigd |
+| 6-2/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues-0) | gewijzigd |
+| 6-2/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues) | gewijzigd |
+| 6-2/2019 | [Heb je problemen met Outlook verbinding te krijgen?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | gewijzigd |
+| 6-2/2019 | [Heb je problemen met Outlook verbinding te krijgen?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | gewijzigd |
+| 6-2/2019 | Intune - downloaden, installeren en gebruiken van Intune | verwijderd |
+| 6-2/2019 | [Probleem met Skype voor bedrijven?](/AlchemyInsights/issue-with-skype-for-business) | gewijzigd |
+| 6-2/2019 | ODSP | verwijderd |
+| 6-2/2019 | Office - Excel-Client | verwijderd |
+| 6-2/2019 | [Terugzetten van verwijderde gebruiker](/AlchemyInsights/restore-deleted-user) | gewijzigd |
+| 6-2/2019 | [Service-Incident in uitvoering](/AlchemyInsights/service-incident-in-progress-0) | gewijzigd |
+| 6-2/2019 | [Service-Incident in uitvoering](/AlchemyInsights/service-incident-in-progress-1) | gewijzigd |
+| 6-2/2019 | [Service-Incident in uitvoering](/AlchemyInsights/service-incident-in-progress-2) | gewijzigd |
+| 6-2/2019 | [Service-Incident in uitvoering](/AlchemyInsights/service-incident-in-progress-3) | gewijzigd |
+| 6-2/2019 | [Service-Incident in uitvoering](/AlchemyInsights/service-incident-in-progress-4) | gewijzigd |
+| 6-2/2019 | [Service-Incident in uitvoering](/AlchemyInsights/service-incident-in-progress-5) | gewijzigd |
+| 6-2/2019 | [Service-Incident in uitvoering](/AlchemyInsights/service-incident-in-progress) | gewijzigd |
+| 6-2/2019 | [Een Project instellen](/AlchemyInsights/setting-up-project) | gewijzigd |
+| 6-2/2019 | Setup naleving functies, zoals archiveren, handhaving, rechtszaak, eDiscovery en MDM | verwijderd |
+| 6-2/2019 | Met behulp van de Offline Installer voor Office | verwijderd |
+| 6-2/2019 | Yammer - Setup en Yammer-services gebruiken | verwijderd |
+| 7-2/2019 | [Vastlopen in Excel?](/AlchemyInsights/excel-crashing) | gewijzigd |
+| 7-2/2019 | [Het toevoegen of bewerken van een identificatienummer](/AlchemyInsights/how-to-add-or-edit-a-vatid) | gewijzigd |
+| 7-2/2019 | [Minecraft Edition met Office 365 opleidingen voor vrije](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | gewijzigd |
+| 7-2/2019 | [606 informatie over overdracht](/AlchemyInsights/606-information-on-delegation) | gewijzigd |
+| 7-2/2019 | [Uw groep wordt niet weergegeven in de lijst met groepen](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | gewijzigd |
+| 8-2/2019 | [DLP-beleid Tips werkt niet](/AlchemyInsights/dlp-policy-tips-not-working) | gewijzigd |
+| 8-2/2019 | [DLP-regel voor de Verenigde Staten / Verenigd Koninkrijk paspoortnummer werkt niet](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | gewijzigd |
+| 8-2/2019 | [Office 365 opleidingen voor vrije](/AlchemyInsights/office-365-education-for-free) | gewijzigd |
+| 8-2/2019 | [Vereiste licenties voor Microsoft-ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | gewijzigd |
+| 8-2/2019 | [Bewaarbeleid in Exchange Admin Center werkt niet](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | gewijzigd |
