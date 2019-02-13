@@ -6,41 +6,41 @@ ms.date: 8/22/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 5911d57786dfc512eade1c74831d4260e85b8a1c
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758087"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906871"
 ---
-# <a name="adding-external-users-to-a-distribution-group"></a><span data-ttu-id="d3a84-102">Externe gebruikers toevoegen aan een distributiegroep?</span><span class="sxs-lookup"><span data-stu-id="d3a84-102">Adding external users to a Distribution Group?</span></span>
+# <a name="adding-external-users-to-a-distribution-group"></a><span data-ttu-id="d03f5-102">Externe gebruikers toevoegen aan een distributiegroep?</span><span class="sxs-lookup"><span data-stu-id="d03f5-102">Adding external users to a Distribution Group?</span></span>
 
-<span data-ttu-id="d3a84-103">Een extern contactpersoon toevoegen aan een distributie groep (Directoraat-generaal) is een 2-proces:</span><span class="sxs-lookup"><span data-stu-id="d3a84-103">Adding an external contact to a Distribution Group (DG) is a 2-step process:</span></span>
+<span data-ttu-id="d03f5-103">Een extern contactpersoon toevoegen aan een distributie groep (Directoraat-generaal) is een 2-proces:</span><span class="sxs-lookup"><span data-stu-id="d03f5-103">Adding an external contact to a Distribution Group (DG) is a 2-step process:</span></span>
   
-1. <span data-ttu-id="d3a84-104">Maak een E-mail contactpersoon voor de externe gebruiker:</span><span class="sxs-lookup"><span data-stu-id="d3a84-104">Create a Mail Contact for the external user:</span></span>
+1. <span data-ttu-id="d03f5-104">Maak een E-mail contactpersoon voor de externe gebruiker:</span><span class="sxs-lookup"><span data-stu-id="d03f5-104">Create a Mail Contact for the external user:</span></span>
     
-1. <span data-ttu-id="d3a84-105">Klik [hier](https://admin.microsoft.com/adminportal/home#/Contact) om te navigeren naar de pagina contactpersoon bewerken in de Admin portal.</span><span class="sxs-lookup"><span data-stu-id="d3a84-105">Click [here](https://admin.microsoft.com/adminportal/home#/Contact) to navigate to the Contact edit page in the Admin portal.</span></span> 
+1. <span data-ttu-id="d03f5-105">Klik [hier](https://admin.microsoft.com/adminportal/home#/Contact) om te navigeren naar de pagina contactpersoon bewerken in de Admin portal.</span><span class="sxs-lookup"><span data-stu-id="d03f5-105">Click [here](https://admin.microsoft.com/adminportal/home#/Contact) to navigate to the Contact edit page in the Admin portal.</span></span> 
     
-2. <span data-ttu-id="d3a84-106">Klik op **een contactpersoon toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="d3a84-106">Click on **Add a Contact**.</span></span>
+2. <span data-ttu-id="d03f5-106">Klik op **een contactpersoon toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="d03f5-106">Click on **Add a Contact**.</span></span>
     
-3. <span data-ttu-id="d3a84-107">Typ de gegevens van uw contactpersoon en klikt u op **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="d3a84-107">Type the information for your contact and click **Save**.</span></span>
+3. <span data-ttu-id="d03f5-107">Typ de gegevens van uw contactpersoon en klikt u op **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="d03f5-107">Type the information for your contact and click **Save**.</span></span>
     
-2. <span data-ttu-id="d3a84-108">De e-contactpersoon toevoegen aan uw Directoraat-generaal:</span><span class="sxs-lookup"><span data-stu-id="d3a84-108">Add the Mail Contact to your DG:</span></span>
+2. <span data-ttu-id="d03f5-108">De e-contactpersoon toevoegen aan uw Directoraat-generaal:</span><span class="sxs-lookup"><span data-stu-id="d03f5-108">Add the Mail Contact to your DG:</span></span>
     
-1. <span data-ttu-id="d3a84-109">Klik [hier](https://admin.microsoft.com/adminportal/home#/groups) om te navigeren naar de pagina groepen.</span><span class="sxs-lookup"><span data-stu-id="d3a84-109">Click [here](https://admin.microsoft.com/adminportal/home#/groups) to navigate to the Groups page.</span></span> 
+1. <span data-ttu-id="d03f5-109">Klik [hier](https://admin.microsoft.com/adminportal/home#/groups) om te navigeren naar de pagina groepen.</span><span class="sxs-lookup"><span data-stu-id="d03f5-109">Click [here](https://admin.microsoft.com/adminportal/home#/groups) to navigate to the Groups page.</span></span> 
     
-2. <span data-ttu-id="d3a84-110">Zoek de DG die u wilt toevoegen van de externe gebruiker en klikt u op het dialoogvenster bewerken te openen.</span><span class="sxs-lookup"><span data-stu-id="d3a84-110">Find the DG you want to add the external user to, and click on it to open the edit dialog.</span></span>
+2. <span data-ttu-id="d03f5-110">Zoek de DG die u wilt toevoegen van de externe gebruiker en klikt u op het dialoogvenster bewerken te openen.</span><span class="sxs-lookup"><span data-stu-id="d03f5-110">Find the DG you want to add the external user to, and click on it to open the edit dialog.</span></span>
     
-3. <span data-ttu-id="d3a84-111">Klik op de knop **bewerken** in de lijst **leden** .</span><span class="sxs-lookup"><span data-stu-id="d3a84-111">Click on the **Edit** button in the **Members** list.</span></span> 
+3. <span data-ttu-id="d03f5-111">Klik op de knop **bewerken** in de lijst **leden** .</span><span class="sxs-lookup"><span data-stu-id="d03f5-111">Click on the **Edit** button in the **Members** list.</span></span> 
     
-4. <span data-ttu-id="d3a84-112">Klik op **leden toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="d3a84-112">Click on **Add Members**.</span></span>
+4. <span data-ttu-id="d03f5-112">Klik op **leden toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="d03f5-112">Click on **Add Members**.</span></span>
     
-5. <span data-ttu-id="d3a84-113">Selecteer de contactpersoon E-mail die u in de vorige stap hebt gemaakt en klik op **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="d3a84-113">Select the Mail Contact you created on the previous step and click **Save**.</span></span>
+5. <span data-ttu-id="d03f5-113">Selecteer de contactpersoon E-mail die u in de vorige stap hebt gemaakt en klik op **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="d03f5-113">Select the Mail Contact you created on the previous step and click **Save**.</span></span>
     
-<span data-ttu-id="d3a84-p101">Als er zelfs nadat u deze stappen uitvoert uw externe gebruikers e-mailberichten kunnen verzenden naar het Directoraat-generaal of geen e-mails ontvangen van deze, kan het zijn dat het Directoraat-generaal is gemarkeerd als u wilt dat alleen e-mailberichten van interne gebruikers. U kunt deze configuratie te controleren en op te lossen de aanwijzingen [hier](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)</span><span class="sxs-lookup"><span data-stu-id="d3a84-p101">If even after following these steps your external users can't send emails to the DG or don't receive emails from it, it can be that the DG is marked to only allow emails from internal users. You can check this configuration and fix it following the directions [here](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)</span></span>
+<span data-ttu-id="d03f5-p101">Als er zelfs nadat u deze stappen uitvoert uw externe gebruikers e-mailberichten kunnen verzenden naar het Directoraat-generaal of geen e-mails ontvangen van deze, kan het zijn dat het Directoraat-generaal is gemarkeerd als u wilt dat alleen e-mailberichten van interne gebruikers. U kunt deze configuratie te controleren en op te lossen de aanwijzingen [hier](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)</span><span class="sxs-lookup"><span data-stu-id="d03f5-p101">If even after following these steps your external users can't send emails to the DG or don't receive emails from it, it can be that the DG is marked to only allow emails from internal users. You can check this configuration and fix it following the directions [here](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)</span></span>
   
- <span data-ttu-id="d3a84-p102">**Opmerking:** Deze instructies zijn niet van toepassing als de soort van de groep 'Office 365-groep' in plaats van "Distributiegroep." Als dit het geval is, kunt u de externe gebruiker rechtstreeks aan de groep toevoegen vanuit Outlook of Outlook op het Web. Toelichting op O365 groepen gasten en instructies voor het toevoegen van externe gasten vindt u in [dit artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).</span><span class="sxs-lookup"><span data-stu-id="d3a84-p102">**Note:** These instructions don't apply if your group's type is "Office 365 group" instead of "Distribution group." If that is the case, you can add the external user directly to the group from Outlook or Outlook on the Web. Detailed explanation on O365 groups guests as well as instructions for adding external guests can be found in [this article](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).</span></span>
+ <span data-ttu-id="d03f5-p102">**Opmerking:** Deze instructies zijn niet van toepassing als de soort van de groep 'Office 365-groep' in plaats van "Distributiegroep." Als dit het geval is, kunt u de externe gebruiker rechtstreeks aan de groep toevoegen vanuit Outlook of Outlook op het Web. Toelichting op O365 groepen gasten en instructies voor het toevoegen van externe gasten vindt u in [dit artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).</span><span class="sxs-lookup"><span data-stu-id="d03f5-p102">**Note:** These instructions don't apply if your group's type is "Office 365 group" instead of "Distribution group." If that is the case, you can add the external user directly to the group from Outlook or Outlook on the Web. Detailed explanation on O365 groups guests as well as instructions for adding external guests can be found in [this article](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).</span></span>
   
 
