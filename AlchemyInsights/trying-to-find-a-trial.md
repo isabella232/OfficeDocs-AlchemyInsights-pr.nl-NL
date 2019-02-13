@@ -7,30 +7,30 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 97d8c721b8cef887a965c26ef7311a23d99a3802
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a932770042274ed721c2394c2edf2db1e9dae4b5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465296"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901219"
 ---
-# <a name="trying-to-find-a-trial"></a><span data-ttu-id="4e057-102">Het zoeken naar een evaluatieversie?</span><span class="sxs-lookup"><span data-stu-id="4e057-102">Trying to find a trial?</span></span>
+# <a name="trying-to-find-a-trial"></a><span data-ttu-id="0f144-102">Het zoeken naar een evaluatieversie?</span><span class="sxs-lookup"><span data-stu-id="0f144-102">Trying to find a trial?</span></span>
 
-<span data-ttu-id="4e057-103">Als u wilt proberen een nieuwe service vindt u een lijst met beschikbare abonnementen voor evaluatie in het Office 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="4e057-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Office 365 admin center.</span></span>
+<span data-ttu-id="0f144-103">Als u wilt proberen een nieuwe service vindt u een lijst met beschikbare abonnementen voor evaluatie in het Office 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="0f144-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Office 365 admin center.</span></span>
   
-1. <span data-ttu-id="4e057-104">Ga naar de pagina [Services voor aankoop](https://go.microsoft.com/fwlink/p/?linkid=868433) of kies **Facturering** \> **Inkoop services**.</span><span class="sxs-lookup"><span data-stu-id="4e057-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
+1. <span data-ttu-id="0f144-104">Ga naar de pagina [Services voor aankoop](https://go.microsoft.com/fwlink/p/?linkid=868433) of kies **Facturering** \> **Inkoop services**.</span><span class="sxs-lookup"><span data-stu-id="0f144-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
     
-2. <span data-ttu-id="4e057-105">Zoek het abonnement dat voldoet aan uw behoeften, muis, en kies **gratis proefperiode starten**.</span><span class="sxs-lookup"><span data-stu-id="4e057-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
+2. <span data-ttu-id="0f144-105">Zoek het abonnement dat voldoet aan uw behoeften, muis, en kies **gratis proefperiode starten**.</span><span class="sxs-lookup"><span data-stu-id="0f144-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="4e057-p101">Niet alle abonnementen zijn beschikbaar als een proef. Als u niet de **gratis proefperiode starten** knop ziet wanneer u de muis over een abonnement, betekent dit dat een proef is niet beschikbaar.</span><span class="sxs-lookup"><span data-stu-id="4e057-p101">Not all subscriptions are available as a trial. If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
+    > <span data-ttu-id="0f144-p101">Niet alle abonnementen zijn beschikbaar als een proef. Als u niet de **gratis proefperiode starten** knop ziet wanneer u de muis over een abonnement, betekent dit dat een proef is niet beschikbaar.</span><span class="sxs-lookup"><span data-stu-id="0f144-p101">Not all subscriptions are available as a trial. If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
   
-3. <span data-ttu-id="4e057-p102">U wordt mogelijk gevraagd om in te voeren, een creditcard of een andere betalingsmethode om aanvullende verificatie als veiligheidsmaatregel. U geen bedrag afgeschreven voor deze gratis proefperiode. Wij blijven uw betalingsgegevens en niet gebruikt voor een aankoop zonder uw goedkeuring.</span><span class="sxs-lookup"><span data-stu-id="4e057-p102">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure. You won't be charged for this free trial. We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
+3. <span data-ttu-id="0f144-p102">U wordt mogelijk gevraagd om in te voeren, een creditcard of een andere betalingsmethode om aanvullende verificatie als veiligheidsmaatregel. U geen bedrag afgeschreven voor deze gratis proefperiode. Wij blijven uw betalingsgegevens en niet gebruikt voor een aankoop zonder uw goedkeuring.</span><span class="sxs-lookup"><span data-stu-id="0f144-p102">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure. You won't be charged for this free trial. We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
     
-4. <span data-ttu-id="4e057-111">Kies **de volgorde plaatsen**.</span><span class="sxs-lookup"><span data-stu-id="4e057-111">Choose **Place order**.</span></span>
+4. <span data-ttu-id="0f144-111">Kies **de volgorde plaatsen**.</span><span class="sxs-lookup"><span data-stu-id="0f144-111">Choose **Place order**.</span></span>
     
 
