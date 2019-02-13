@@ -7,25 +7,25 @@ ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: acc6bc0afed1a1e0fa6e3665b1d266b8f26af577
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 343cd0c7bc3cadb274d82d70144eda119a9d61aa
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657642"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923377"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="e1543-102">Mijn rekening bekijken</span><span class="sxs-lookup"><span data-stu-id="e1543-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="0f1af-102">Mijn rekening bekijken</span><span class="sxs-lookup"><span data-stu-id="0f1af-102">View my bill</span></span>
 
-1. <span data-ttu-id="e1543-103">Ga naar de pagina van de [rekeningen](https://go.microsoft.com/fwlink/p/?linkid=848039) in de Admin center of kies **Facturering:** \> **rekeningen**.</span><span class="sxs-lookup"><span data-stu-id="e1543-103">In the Admin center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.</span></span>
+1. <span data-ttu-id="0f1af-103">Ga naar de pagina van de [rekeningen](https://go.microsoft.com/fwlink/p/?linkid=848039) in de Admin center of kies **Facturering:** \> **rekeningen**.</span><span class="sxs-lookup"><span data-stu-id="0f1af-103">In the Admin center, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills**.</span></span>
     
-2. <span data-ttu-id="e1543-104">Kies de maand en datum van de factuur die u wilt gebruiken en kies vervolgens **Weergeven**.</span><span class="sxs-lookup"><span data-stu-id="e1543-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="0f1af-104">Kies de maand en datum van de factuur die u wilt gebruiken en kies vervolgens **Weergeven**.</span><span class="sxs-lookup"><span data-stu-id="0f1af-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
     
-3. <span data-ttu-id="e1543-105">Kies een order en kies vervolgens **Details weergeven**.</span><span class="sxs-lookup"><span data-stu-id="e1543-105">Choose an order, and then choose **View Details**.</span></span>
+3. <span data-ttu-id="0f1af-105">Kies een order en kies vervolgens **Details weergeven**.</span><span class="sxs-lookup"><span data-stu-id="0f1af-105">Choose an order, and then choose **View Details**.</span></span>
     
-<span data-ttu-id="e1543-106">Zie de [weergave van uw rekening of factuur](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="e1543-106">For more information see [View your bill or invoice](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span></span>
+<span data-ttu-id="0f1af-106">Zie de [weergave van uw rekening of factuur](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="0f1af-106">For more information see [View your bill or invoice](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).</span></span>
   
 
