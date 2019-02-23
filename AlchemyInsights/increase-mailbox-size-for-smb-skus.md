@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: ba7da00f2a82b016af812dedc13f3e5131c99f05
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 51691206576822cdfb71e28e58ccf81fc1fa9654
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925843"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207932"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Switch wil verhogen van de grootte van het Postvak
 
 Als de grootte van het Postvak 50 GB is, kunt u de grootte van het Postvak 100 GB vergroten door het overschakelen naar [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) of [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Hier volgen de stappen voor het overschakelen naar een ander Office 365 plan:
   
-1. In het Office 365 admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **abonnementen**.
+1. In het Microsoft 365 admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **abonnementen**.
     
 2. Kies **Switch plannen** voor de lijst met nieuwe regelingen beschikbaar zijn. 
     

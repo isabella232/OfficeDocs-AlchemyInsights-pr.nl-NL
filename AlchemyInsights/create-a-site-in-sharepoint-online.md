@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: e1c4cd224e75fadfc1b5d3afb643f5ed854258d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 41af5e51743623f108cb614911ff88308809c4b5
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920479"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207896"
 ---
 # <a name="create-a-site"></a>Een site maken
 
@@ -30,7 +30,7 @@ Ook kunt u deze sites maken vanuit het nieuwe SharePoint admin center voorbeeld.
   
 Een klassieke site maken, doe het volgende:
   
-- Ga naar de [pagina Sites in het Office 365 admin center](https://portal.office.com/adminportal/home#/SitesList)en selecteer vervolgens **een site toevoegen**.
+- Ga naar de [pagina Sites in het Microsoft 365 admin center](https://portal.office.com/adminportal/home#/SitesList)en selecteer vervolgens **een site toevoegen**.
     
 - Selecteer **Nieuw** in het klassieke SharePoint admin center, op de sitepagina-collecties \> **Persoonlijke siteverzameling**.
     

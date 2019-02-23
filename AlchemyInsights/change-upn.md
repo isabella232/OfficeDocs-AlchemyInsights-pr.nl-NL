@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901039"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208436"
 ---
 # <a name="change-a-users-email-address"></a>Het e-mailadres van een gebruiker wijzigen
 
 Als u een e-mailadres wijzigt, is heel eenvoudig! Volg deze stappen:
   
-1. In het Office 365 admin center, gaat u naar de pagina [gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of **gebruikers** kiezen \> **Actieve gebruikers**.
+1. In het Microsoft 365 admin center, gaat u naar de pagina [gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of **gebruikers** kiezen \> **Actieve gebruikers**.
     
 2. Selecteer de gebruiker.
     
