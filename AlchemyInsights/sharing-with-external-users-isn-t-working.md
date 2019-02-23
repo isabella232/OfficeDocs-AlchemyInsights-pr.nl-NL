@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900860"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207680"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint-inhoud delen met externe gebruikers problemen oplossen
 
 Zorg ervoor dat externe delen is ingeschakeld voor uw organisatie:
   
-1. Ga naar de [Services &amp; pagina-ins in het Office 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), en op **websites**.
+1. Ga naar de [Services &amp; pagina-ins in het Microsoft 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), en op **websites**.
     
-2. Controleer of dat de instelling is ingeschakeld op 'Aan'. Als 'Alleen bestaande externe gebruikers' is ingeschakeld, controleert u of de externe gebruiker wordt weergegeven in het Office 365 admin center.
+2. Controleer of dat de instelling is ingeschakeld op 'Aan'. Als 'Alleen bestaande externe gebruikers' is ingeschakeld, controleert u of de externe gebruiker wordt weergegeven in het Microsoft 365 admin center.
     
 Zorg ervoor dat extern delen die zijn ingeschakeld voor de site. Voor een klassieke siteverzameling:
   
