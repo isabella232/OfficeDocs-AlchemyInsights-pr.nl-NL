@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 03b4600945196449a4bdcd28898c1869bf7bdac8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5a2c370fba7e00dc5c6367d070176c08f31fbd7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918607"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244108"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="89361-102">Een map maken</span><span class="sxs-lookup"><span data-stu-id="89361-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="42d55-102">Een map maken</span><span class="sxs-lookup"><span data-stu-id="42d55-102">Create a folder</span></span>
 
-1. <span data-ttu-id="89361-103">Selecteer **Nieuwe map maken**in het linker deelvenster![knop Nieuwe map maken op de](media/d8e28612-fbdb-4d28-a4d0-14f7834cfd97.png) bij **mappen**.</span><span class="sxs-lookup"><span data-stu-id="89361-103">In the left pane, select **Create New Folder**![The Create new folder button](media/d8e28612-fbdb-4d28-a4d0-14f7834cfd97.png) next to **Folders**.</span></span> 
+1. <span data-ttu-id="42d55-103">Selecteer de **Nieuwe map maken** bij **mappen**in het linkerdeelvenster.</span><span class="sxs-lookup"><span data-stu-id="42d55-103">In the left pane, select **Create New Folder** next to **Folders**.</span></span> 
     
-2. <span data-ttu-id="89361-104">In de nieuwe map, typ een naam voor de map en druk op Enter.</span><span class="sxs-lookup"><span data-stu-id="89361-104">In the new folder box, enter a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="42d55-104">In de nieuwe map, typ een naam voor de map en druk op Enter.</span><span class="sxs-lookup"><span data-stu-id="42d55-104">In the new folder box, enter a name for the folder and press Enter.</span></span>
     
-<span data-ttu-id="89361-105">Zie voor meer informatie, [een map in Outlook.com maken](https://go.microsoft.com/fwlink/p/?linkid=873114).</span><span class="sxs-lookup"><span data-stu-id="89361-105">To learn more, see [Create a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span></span>
+<span data-ttu-id="42d55-105">Zie voor meer informatie, [een map in Outlook.com maken](https://go.microsoft.com/fwlink/p/?linkid=873114).</span><span class="sxs-lookup"><span data-stu-id="42d55-105">To learn more, see [Create a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span></span>
   
 
