@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925519"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244360"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>E-mailadres in de mobiele app van Outlook instellen
 
-1. Selecteer **Aan de slag** als dit de eerste keer instellen van e-mailadres in de mobiele app. anders Tik op het **Menu**![knop voor de](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) en tik vervolgens op **Instellingen** \> **Account toevoegen** \> **E-mailaccount toevoegen**. 
+1. Selecteer **Aan de slag** als het uw eerste keer e-mail in de mobiele app. anders instellen, tik op **Menu** en tik vervolgens op **Instellingen** \> **Account toevoegen** \> **E-mailaccount toevoegen**. 
     
 2. Voer uw volledige e-mailadres in en tik op **Doorgaan** of **Account toevoegen**.
     

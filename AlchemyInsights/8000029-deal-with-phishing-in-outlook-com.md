@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ed917050637d3984cc120fa26ecb29719a921878
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930499"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244504"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Omgaan met phishing-praktijken in uw postvak in
 
@@ -32,6 +32,6 @@ Meer informatie over het [behandelen van misbruik, phishing, of spoofing](https:
   
 Als u een toename van spam ziet, te lezen hoe om [spam en ongewenste e-mail uit uw postvak in te houden](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
-E-mailadressen blokkeren, Ga naar **Instellingen**![instellingen](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opties** \> **geblokkeerde afzenders**. Selecteer om de adressen of domeinen toevoegen aan uw lijst met veilige afzenders, **veilige afzenders**. 
+E-mailadressen blokkeren, Ga naar **Instellingen** \> **Opties** \> **geblokkeerde afzenders**. Selecteer om de adressen of domeinen toevoegen aan uw lijst met veilige afzenders, **veilige afzenders**. 
   
 

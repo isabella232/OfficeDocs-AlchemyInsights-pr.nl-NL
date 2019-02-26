@@ -3,17 +3,6 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>Week van 14 januari 2019
-
-
-| Gepubliceerd op |Onderwerptitel | Wijzigen |
-|------|------------|--------|
-| 14-1/2019 | Tijdelijke aanduiding voor Alchemy | verwijderd |
-| 14-1/2019 | Alchemy domein toevoegen | verwijderd |
-| 14-1/2019 | [Alchemy inzichten thuis](/AlchemyInsights/index) | gewijzigd |
-| 17-1/2019 | [hetzelfde als de bestandsnaam is de beste [regel #-beschrijving]](/AlchemyInsights/1-alchemy-insight-template) | toegevoegd |
-
-
 ## <a name="week-of-january-21-2019"></a>Week van 21 januari 2019
 
 
@@ -687,3 +676,61 @@
 | 14-2/2019 | [1245-import-PST-Services](/AlchemyInsights/1245-import-pst-services) | toegevoegd |
 | 14-2/2019 | [1385-office-365-waarschuwing-beleid](/AlchemyInsights/1385-office-365-alert-policies) | toegevoegd |
 | 15-2/2019 | [Office installeren](/AlchemyInsights/how-to-install-office) | gewijzigd |
+
+
+## <a name="week-of-february-18-2019"></a>Week van 18 februari 2019
+
+
+| Gepubliceerd op |Onderwerptitel | Wijzigen |
+|------|------------|--------|
+| 19-2/2019 | [Heb je een fout 'Parameter kan niet worden gevonden'?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | gewijzigd |
+| 19-2/2019 | [E-mail verplaatsen naar Office 365](/AlchemyInsights/move-email-to-office-365) | gewijzigd |
+| 19-2/2019 | [Terugzetten van verwijderde postbus](/AlchemyInsights/restore-deleted-mailbox) | gewijzigd |
+| 21-2/2019 | [Mac Office installeren vanaf de portal](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | gewijzigd |
+| 22-2/2019 | [1048 5.7.750 Service is niet beschikbaar. Client geen verzenden van niet-geregistreerde domeinen](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | gewijzigd |
+| 22-2/2019 | [125 een fout Ongeldige licentie ophalen in Outlook op het web?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | gewijzigd |
+| 22-2/2019 | [Fout bij ophalen van een postbus 126 niet gevonden in OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | gewijzigd |
+| 22-2/2019 | [127 ophalen van een TenantAccessBlockedException-fout bij het openen van e-mailadres?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | gewijzigd |
+| 22-2/2019 | [128 ophalen van een TenantAccessBlockedException-fout bij het openen van e-mailadres?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | gewijzigd |
+| 22-2/2019 | [711 een distributielijst of groep maken](/AlchemyInsights/711-creating-a-distribution-list-or-group) | gewijzigd |
+| 22-2/2019 | [912 configureren Focused postvak voor iedereen in uw organisatie](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | gewijzigd |
+| 22-2/2019 | [Domein verwijderen](/AlchemyInsights/remove-domain) | gewijzigd |
+| 22-2/2019 | [Een groep toevoegen aan een SharePoint-site](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | gewijzigd |
+| 22-2/2019 | [Een andere e-mailalias toevoegen](/AlchemyInsights/add-another-email-alias) | gewijzigd |
+| 22-2/2019 | [Contactpersonen toevoegen aan de groep O365](/AlchemyInsights/add-contacts-to-o365-group) | gewijzigd |
+| 22-2/2019 | [UPN wijzigen](/AlchemyInsights/change-upn) | gewijzigd |
+| 22-2/2019 | [Het wijzigen van machtigingen voor openbare mappen](/AlchemyInsights/changing-public-folder-permissions) | gewijzigd |
+| 22-2/2019 | [Gedeelde postbus verzenden als gedrag wijzigen](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | gewijzigd |
+| 22-2/2019 | [AAD identiteit synchronisatiestatus controleren](/AlchemyInsights/check-aad-identity-sync-status) | gewijzigd |
+| 22-2/2019 | [Office 365 plannen vergelijken](/AlchemyInsights/compare-office-365-plans) | gewijzigd |
+| 22-2/2019 | [Een klassieke site maken](/AlchemyInsights/create-a-classic-site) | gewijzigd |
+| 22-2/2019 | [Het maken van een site in SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | gewijzigd |
+| 22-2/2019 | [Openbare mappen maken](/AlchemyInsights/creating-public-folders) | gewijzigd |
+| 22-2/2019 | [Een SharePoint-site verwijderen](/AlchemyInsights/delete-a-sharepoint-site-0) | gewijzigd |
+| 22-2/2019 | [Gebruikers toegang geven tot SharePoint en OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | gewijzigd |
+| 22-2/2019 | [Heb je een fout 'Parameter kan niet worden gevonden'?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | gewijzigd |
+| 22-2/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues-0) | gewijzigd |
+| 22-2/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues) | gewijzigd |
+| 22-2/2019 | [Heb je problemen met Outlook verbinding te krijgen?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | gewijzigd |
+| 22-2/2019 | [Heb je problemen met Outlook verbinding te krijgen?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | gewijzigd |
+| 22-2/2019 | [Het toewijzen van licenties voor Office voor Mac-gebruikers](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | gewijzigd |
+| 22-2/2019 | [Het aanschaffen van licenties voor uw abonnement op Office 365 business](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | gewijzigd |
+| 22-2/2019 | [Het vergroten van de opslag in OneDrive voor bedrijven](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | gewijzigd |
+| 22-2/2019 | [Het opnieuw activeren van een abonnement](/AlchemyInsights/how-to-reactivate-a-subscription) | gewijzigd |
+| 22-2/2019 | [Postbus voor Enterprise SKU's vergroten](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | gewijzigd |
+| 22-2/2019 | [Postbus vergroten voor SMB-SKU 's](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | gewijzigd |
+| 22-2/2019 | [Postbus vergroten](/AlchemyInsights/increase-mailbox-size) | gewijzigd |
+| 22-2/2019 | [Probleem met Skype voor bedrijven?](/AlchemyInsights/issue-with-skype-for-business) | gewijzigd |
+| 22-2/2019 | [Gesynchroniseerde gebruikersaccounts beheren](/AlchemyInsights/manage-synchronized-user-accounts) | gewijzigd |
+| 22-2/2019 | [Gebruik van OneDrive en SharePoint en activiteit controleren](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | gewijzigd |
+| 22-2/2019 | [Een abonnement opnieuw activeren](/AlchemyInsights/reactivate-a-subscription) | gewijzigd |
+| 22-2/2019 | [Herstelt een verwijderde OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | gewijzigd |
+| 22-2/2019 | [Een Office 365-groep herstellen met het Exchange-beheercentrum](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | gewijzigd |
+| 22-2/2019 | [Instellen van uw abonnement O365 Business Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | gewijzigd |
+| 22-2/2019 | [Delen met externe gebruikers werkt niet.](/AlchemyInsights/sharing-with-external-users-isn-t-working) | gewijzigd |
+| 22-2/2019 | [Het zoeken naar een evaluatieversie?](/AlchemyInsights/trying-to-find-a-trial) | gewijzigd |
+| 22-2/2019 | [Schakel externe delen in of uit voor SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | gewijzigd |
+| 22-2/2019 | [Schakel externe delen in of uit voor SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | gewijzigd |
+| 22-2/2019 | [Gebruikersmachtigingen](/AlchemyInsights/user-permissions) | gewijzigd |
+| 22-2/2019 | [Wanneer het betalingsoverzicht gegenereerd?](/AlchemyInsights/when-is-the-billing-statement-generated) | gewijzigd |
+| 22-2/2019 | [Het verifiëren van uw domein bij Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | gewijzigd |
