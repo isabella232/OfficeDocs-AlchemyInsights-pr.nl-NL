@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: ed03a5d4b005e4d6f7117e66f170427161363486
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0c875235dae8f8851cbce40201b6c35120d4d2fa
+ms.sourcegitcommit: 47bdacaa8fcfce06f159a7ddbc114f2d1a70bc2c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925807"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361632"
 ---
 # <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Geavanceerde Outlook.com beveiliging voor Office 365-abonnees
 
@@ -24,4 +24,4 @@ Wanneer u berichten met koppelingen op een webpagina ontvangt, Outlook.com wordt
   
 Lees meer over [Outlook.com geavanceerde beveiliging voor Office 365-abonnees](https://go.microsoft.com/fwlink/p/?linkid=2006140), waaronder veilige koppelingen verwijderen uit uw berichten.
   
-
+Opmerking: Premium-klanten en Office 365-abonnees kunnen inschakelen of uitschakelen veilige koppelingen in de [Beveiligingsinstellingen van de premie](https://outlook.live.com/mail/options/premium/security).
