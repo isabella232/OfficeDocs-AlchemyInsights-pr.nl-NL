@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Week van 21 januari 2019
-
-
-| Gepubliceerd op |Onderwerptitel | Wijzigen |
-|------|------------|--------|
-| 22-1/2019 | [1047 antiSpam 550 5.7.708 Service is niet beschikbaar. De toegang is geweigerd, niet geaccepteerd van deze-IP-verkeer](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | gewijzigd |
-| 22-1/2019 | [1049 antiSpam 4.5.3 te veel ontvangers (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | gewijzigd |
-| 22-1/2019 | [1050 antispam 4.7.500 Server is bezet. Probeer het later opnieuw uit [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | gewijzigd |
-| 22-1/2019 | [1051 antispam 4.7.500 toegang geweigerd, probeer het later opnieuw](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | gewijzigd |
-| 22-1/2019 | [Doorsturen van e-mail via Office 365](/AlchemyInsights/relay-email-through-office-365) | gewijzigd |
-| 24-1/2019 | [Beheer groepen maken](/AlchemyInsights/control-creation-of-groups) | gewijzigd |
-| 24-1/2019 | [Outlook problemen met Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | toegevoegd |
-| 24-1/2019 | [Een Office 365-groep herstellen met het Exchange-beheercentrum](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | gewijzigd |
-| 24-1/2019 | [Oplossen van problemen met Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | gewijzigd |
-
-
 ## <a name="week-of-january-28-2019"></a>Week van 28 januari 2019
 
 
@@ -734,3 +718,57 @@
 | 22-2/2019 | [Gebruikersmachtigingen](/AlchemyInsights/user-permissions) | gewijzigd |
 | 22-2/2019 | [Wanneer het betalingsoverzicht gegenereerd?](/AlchemyInsights/when-is-the-billing-statement-generated) | gewijzigd |
 | 22-2/2019 | [Het verifiëren van uw domein bij Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | gewijzigd |
+
+
+## <a name="week-of-february-25-2019"></a>Week van 25 februari 2019
+
+
+| Gepubliceerd op |Onderwerptitel | Wijzigen |
+|------|------------|--------|
+| 25-2/2019 | [1800014 ondersteuning-app voor de mobiele app van Outlook](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | gewijzigd |
+| 25-2/2019 | [1800014 set van e-mailberichten in de mobiele app van Outlook](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | gewijzigd |
+| 25-2/2019 | [8000001 gericht Postvak uitschakelen](/AlchemyInsights/8000001-turn-off-focused-inbox) | gewijzigd |
+| 25-2/2019 | [8000009 maken een map in Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000012 verwijdert een contactpersoon in Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000013 lettertype wijzigen in Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000014 het wijzigen van de taal in Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000015 blokkeren of de blokkering opheffen van afzenders](/AlchemyInsights/8000015-block-or-unblock-senders) | gewijzigd |
+| 25-2/2019 | [8000015 ontvangen van e-mail van geblokkeerde afzenders in Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000029 omgaan met phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000029 omgaan met spam in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000029 omgaan met spam of phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000033 het beantwoorden en doorsturen van berichten in de bètaversie van Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | gewijzigd |
+| 25-2/2019 | [8000034 leesbevestigingen in Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000036 wijzigen uw e-mailnaam in Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000046 afdrukken, e-mail en agenda's in Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000047 het maken van een e-mailhandtekening in Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000052 bestanden bijvoegen in Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | gewijzigd |
+| 25-2/2019 | [8000059 het thema actie (FMS) wijzigen](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | gewijzigd |
+| 25-2/2019 | [Aanbevolen stappen te nemen als een account is niet meer veilig](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | gewijzigd |
+| 26-2/2019 | [Een verwijderde Office 365 groep herstellen](/AlchemyInsights/restore-a-deleted-office-365-group) | gewijzigd |
+| 26-2/2019 | [9000215 Outlook.com-abonnementen](/AlchemyInsights/9000215-outlook-com-subscriptions) | toegevoegd |
+| 27-2/2019 | [9000199 PST-bestanden in Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | toegevoegd |
+| 27-2/2019 | [Opties voor 9000202 Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | toegevoegd |
+| 27-2/2019 | [9000203 Outlook.com Filters](/AlchemyInsights/9000203-outlook-com-filters) | toegevoegd |
+| 28-2/2019 | [8000036 profiel pic/naam wijzigen in Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | toegevoegd |
+| 28-2/2019 | [8000049 Skype-pictogram ontbreekt in Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | toegevoegd |
+| 28-2/2019 | [8000088 opslaan van e-mailberichten in Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | toegevoegd |
+| 28-2/2019 | [9000071 Typ kan geen @-symbool op de Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | toegevoegd |
+| 28-2/2019 | [9000193 verplaatsen ongedaan maken of verwijderen in Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | toegevoegd |
+| 28-2/2019 | [9000198 Outlook.com Agenda Bèta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | toegevoegd |
+| 1-3/2019 | [8000035 vragen terug te draaien van Outlook.com bèta naar klassieke Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | toegevoegd |
+| 1-3/2019 | [8000035 het maken van het nieuwe uiterlijk van Outlook.com als de oude](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | toegevoegd |
+| 1-3/2019 | [8000043 POP, IMAP en SMTP-instellingen voor Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | toegevoegd |
+| 1-3/2019 | [Alle 8000090 Outlook.com-select](/AlchemyInsights/8000090-outlook-com-select-all) | toegevoegd |
+| 1-3/2019 | [8000091 Outlook.com reageren pop up](/AlchemyInsights/8000091-outlook-com-react-pop-up) | toegevoegd |
+| 1-3/2019 | [Bron 8000092 Outlook.com weergave van bericht](/AlchemyInsights/8000092-outlook-com-view-message-source) | toegevoegd |
+| 1-3/2019 | [8000093 Outlook.com verbonden machtigingen van de account](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | toegevoegd |
+| 1-3/2019 | [1800009Outlook voor Mac-app ondersteuning](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | gewijzigd |
+| 1-3/2019 | [8000057 veilige koppelingen in Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | gewijzigd |
+| 1-3/2019 | [9000232 Outlook.com-adresboek](/AlchemyInsights/9000232-outlook-com-address-book) | toegevoegd |
+| 1-3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | toegevoegd |
+| 1-3/2019 | [9000234 Outlook.com interne serverfout](/AlchemyInsights/9000234-outlook-com-internal-server-error) | toegevoegd |
+| 1-3/2019 | [9000236 Outlook.com-account toevoegen](/AlchemyInsights/9000236-outlook-com-add-account) | toegevoegd |
+| 1-3/2019 | [9000238 Outlook.com alias toevoegen](/AlchemyInsights/9000238-outlook-com-add-alias) | toegevoegd |
+| 1-3/2019 | [9000239 Outlook.com doorsturen](/AlchemyInsights/9000239-outlook-com-forwarding) | toegevoegd |
+| 1-3/2019 | [Antwoorden op 9000240 Outlook.com](/AlchemyInsights/9000240-outlook-com-replies) | toegevoegd |

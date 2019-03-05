@@ -9,25 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 7d8b0d2a98f71dbc973c3e46783c01d09bdab259
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30244144"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376103"
 ---
 # <a name="how-to-create-an-email-signature"></a>Het maken van een e-mailhandtekening
 
-Als u de bètaversie van Outlook.com:
+Ga naar de [instellingen van opstellen en beantwoorden](https://go.microsoft.com/fwlink/?linkid=2006164) (**Instellingen** \> **alle Outlook-instellingen weergeven** \> **opstellen en beantwoorden**). 
   
-- Aan de bovenkant van de pagina, selecteert u **Instellingen** \> **volledige weergave-instellingen** \> **opstellen en beantwoorden**. 
-    
-Als u klassieke Outlook.com:
-  
-- Aan de bovenkant van de pagina, selecteert u **Instellingen** \> **Opties** \> **e** \> **lay-out** \> **e-mailhandtekening**. 
-    
  **Opmerking:** U kunt slechts één handtekening per account hebben. 
   
 Meer informatie over het [maken en het toevoegen van een e-mailhandtekening in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409).
-  
-
