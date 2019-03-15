@@ -3,191 +3,84 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>Week van 28 januari 2019
+## <a name="week-of-march-04-2019"></a>Week van 04 maart 2019
 
 
 | Gepubliceerd op |Onderwerptitel | Wijzigen |
 |------|------------|--------|
-| 29-1/2019 | [Alchemy inzichten thuis](/AlchemyInsights/index) | gewijzigd |
-| 29-1/2019 | [Problemen met activering oplossen](/AlchemyInsights/activation-troubleshooting) | gewijzigd |
-| 29-1/2019 | [Krijgt u te veel spam of phishing in uw Postvak?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | gewijzigd |
-| 29-1/2019 | [Geen standaard toevoegen goedkeuringswerkstroom 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | gewijzigd |
-| 29-1/2019 | [Een SharePoint-site maken](/AlchemyInsights/create-a-sharepoint-site) | gewijzigd |
-| 29-1/2019 | [Een SharePoint-site verwijderen](/AlchemyInsights/delete-a-sharepoint-site-0) | gewijzigd |
-| 29-1/2019 | [Een SharePoint-site verwijderen](/AlchemyInsights/delete-a-sharepoint-site) | gewijzigd |
-| 29-1/2019 | [DLP, werken niet zoals verwacht](/AlchemyInsights/dlp-not-working-as-expected) | gewijzigd |
-| 29-1/2019 | [Hebt u een betrouwbare berichten als spam wordt gemarkeerd?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | gewijzigd |
-| 29-1/2019 | [Foutcode 30125 4 of 30125-1011 tijdens de installatie van Office](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | gewijzigd |
-| 29-1/2019 | [Hebt u Teams ingeschakeld voor uw leerlingen?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | gewijzigd |
-| 29-1/2019 | [Office activeren](/AlchemyInsights/how-to-activate-office) | gewijzigd |
-| 29-1/2019 | [Mac Office installeren vanaf de portal](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | gewijzigd |
-| 29-1/2019 | [Office installeren op een iPad](/AlchemyInsights/how-to-install-office-on-an-ipad) | gewijzigd |
-| 29-1/2019 | [Office installeren op een iPhone](/AlchemyInsights/how-to-install-office-on-an-iphone) | gewijzigd |
-| 29-1/2019 | [Het verifiëren van uw domein bij Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | gewijzigd |
-| 29-1/2019 | [Installatie loopt vast of er niet verder komt dan](/AlchemyInsights/installation-hangs-or-gets-stuck) | gewijzigd |
-| 29-1/2019 | [Microsoft - Teams voor toegang voor gasten](/AlchemyInsights/microsoft-teamsguest-access) | gewijzigd |
-| 29-1/2019 | [Betalingsopties](/AlchemyInsights/payment-options) | gewijzigd |
-| 29-1/2019 | [Infrastructuur met een communicatiesite publiceren](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | gewijzigd |
-| 29-1/2019 | [Vragen met betrekking tot Office 2019](/AlchemyInsights/questions-related-to-office-2019) | gewijzigd |
-| 29-1/2019 | [Oplossingen voor 30015 4 fout](/AlchemyInsights/solutions-for-error-30015-4) | gewijzigd |
-| 29-1/2019 | [Oplossingen voor fout 30016 4](/AlchemyInsights/solutions-for-error-30016-4) | gewijzigd |
-| 29-1/2019 | [Oplossingen voor fout 30174 4](/AlchemyInsights/solutions-for-error-30174-4) | gewijzigd |
-| 29-1/2019 | [Oplossingen voor problemen tijdens de installatie van Office](/AlchemyInsights/solutions-for-issues-while-installing-office) | gewijzigd |
-| 29-1/2019 | [Oplossingen voor ' Office (64-bits of 32-bits) kan niet worden geïnstalleerd.](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | gewijzigd |
-| 29-1/2019 | [Oplossingen voor "Niet-ondersteund besturingssysteem"](/AlchemyInsights/solutions-for-unsupported-operating-system) | gewijzigd |
-| 29-1/2019 | [Stappen voor het oplossen van office activeringsfout 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | toegevoegd |
-| 29-1/2019 | [Stappen voor het oplossen van de fout van de activering van Office 0xc004b100](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | toegevoegd |
-| 29-1/2019 | [Suggesties voor het oplossen van fouten "Niet-gelicentieerde Product"](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | gewijzigd |
-| 29-1/2019 | [Ondersteunde versie van het hulpprogramma SharePoint Migration](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | gewijzigd |
-| 29-1/2019 | [Problemen met de veiligheid tip voor fraude-opsporing wordt gecontroleerd](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | gewijzigd |
-| 29-1/2019 | [Office verwijderen](/AlchemyInsights/uninstall-office) | gewijzigd |
-| 29-1/2019 | [DNS-Records bijwerken](/AlchemyInsights/update-dns-records) | gewijzigd |
-| 29-1/2019 | [Waar u de installatie van Office uit](/AlchemyInsights/where-to-install-office-from) | gewijzigd |
-| 30-1/2019 | [1336 RecoverableItems map is vol](/AlchemyInsights/1336-recoverableitems-folder-is-full) | gewijzigd |
-| 30-1/2019 | [1800014 troubleshooting Outlook mobiel instellen voor een gedeelde postbus](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | gewijzigd |
-| 30-1/2019 | [1800014 met behulp van een gedeelde postbus op een mobiel apparaat](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | gewijzigd |
-| 30-1/2019 | [1800018 toevoegen/e-mailaccounts instellen](/AlchemyInsights/1800018-add-set-up-email-accounts) | gewijzigd |
-| 30-1/2019 | [1800018 zoeken uw instellingen voor POP- en IMAP-server](/AlchemyInsights/1800018-find-your-pop-and-imap-server-settings) | gewijzigd |
-| 30-1/2019 | [1800029 verbonden accounts worden niet ondersteund in Outlook op het web](/AlchemyInsights/1800029-connected-accounts-not-supported-in-outlook-on-the-web) | gewijzigd |
-| 30-1/2019 | [204 het zoeken naar ontbrekende of recover Outlook mail, agenda of contactpersonen ontbreekt](/AlchemyInsights/204-how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | gewijzigd |
-| 30-1/2019 | [Boekingen van 597 Microsoft App](/AlchemyInsights/597-microsoft-bookings-app) | gewijzigd |
-| 30-1/2019 | [Wijzigen van machtigingen voor een postbus](/AlchemyInsights/changing-permissions-on-a-mailbox) | gewijzigd |
-| 30-1/2019 | [Vastlopen in Excel?](/AlchemyInsights/excel-crashing) | gewijzigd |
-| 30-1/2019 | [Domein verwijderen](/AlchemyInsights/remove-domain) | gewijzigd |
-| 30-1/2019 | [Office activeren](/AlchemyInsights/activate-office) | gewijzigd |
-| 30-1/2019 | [Een andere e-mailalias toevoegen](/AlchemyInsights/add-another-email-alias) | gewijzigd |
-| 30-1/2019 | [Externe gebruikers toe te voegen](/AlchemyInsights/adding-external-users) | gewijzigd |
-| 30-1/2019 | [AD FS-Federation verlopen certificaat](/AlchemyInsights/adfs-federation-certificate-expiring) | gewijzigd |
-| 30-1/2019 | [Rol Admin en het toewijzen van](/AlchemyInsights/admin-role-and-how-to-assign) | gewijzigd |
-| 30-1/2019 | [Overname van Admin](/AlchemyInsights/admin-takeover) | gewijzigd |
-| 30-1/2019 | [Alchemy - Outlook crash stappen voor probleemoplossing](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | gewijzigd |
-| 30-1/2019 | [Alchemy - Outlook-fout 'kan niet starten van Microsoft Outlook'](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | gewijzigd |
-| 30-1/2019 | [Alchemy - zoeken in Outlook niet idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | gewijzigd |
-| 30-1/2019 | [Toewijzen of verwijderen van gebruikers licenties](/AlchemyInsights/assign-or-remove-users-licenses) | gewijzigd |
-| 30-1/2019 | [Office 365-abonnement opzeggen](/AlchemyInsights/cancel-office-365-subscription) | gewijzigd |
-| 30-1/2019 | [Uw abonnement op Office 365 annuleren?](/AlchemyInsights/canceling-your-office-365-subscription-0) | gewijzigd |
-| 30-1/2019 | [Uw abonnement op Office 365 annuleren?](/AlchemyInsights/canceling-your-office-365-subscription-2) | gewijzigd |
-| 30-1/2019 | [Van een gebruiker naam en e-mailadres wijzigen](/AlchemyInsights/change-a-user-s-name-and-email-address) | gewijzigd |
-| 30-1/2019 | [NameServers wijzigen](/AlchemyInsights/change-nameservers) | gewijzigd |
-| 30-1/2019 | [Het alternatieve e-mailadres voor de facturering van bericht wijzigen](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | gewijzigd |
-| 30-1/2019 | [UPN wijzigen](/AlchemyInsights/change-upn) | gewijzigd |
-| 30-1/2019 | [Bericht of bijlage grootte wijzigen](/AlchemyInsights/changing-message-or-attachment-size) | gewijzigd |
-| 30-1/2019 | [Het wijzigen van machtigingen voor openbare mappen](/AlchemyInsights/changing-public-folder-permissions) | gewijzigd |
-| 30-1/2019 | [Gedeelde postbus verzenden als gedrag wijzigen](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | gewijzigd |
-| 30-1/2019 | [Office 365 plannen vergelijken](/AlchemyInsights/compare-office-365-plans) | gewijzigd |
-| 30-1/2019 | [Voorwaardelijke toegang met Intune](/AlchemyInsights/conditional-access-with-intune) | gewijzigd |
-| 30-1/2019 | [ConsistencyGuid / sourceAnchor gedrag](/AlchemyInsights/consistencyguidsourceanchor-behavior) | gewijzigd |
-| 30-1/2019 | [Inhoud wordt niet weergegeven in de zoekresultaten van SharePoint](/AlchemyInsights/content-doesn-t-appear-in-sharepoint-search-results) | gewijzigd |
-| 30-1/2019 | [Een SharePoint-site maken](/AlchemyInsights/create-a-sharepoint-site) | gewijzigd |
-| 30-1/2019 | [Maken en gebruiken van een gedeeld postvak](/AlchemyInsights/create-and-use-a-shared-mailbox) | gewijzigd |
-| 30-1/2019 | [Gedeelde postbus maken](/AlchemyInsights/create-shared-mailbox) | gewijzigd |
-| 30-1/2019 | [Openbare mappen maken](/AlchemyInsights/creating-public-folders) | gewijzigd |
-| 30-1/2019 | [De postbus in een hybride omgeving overgedragen](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | gewijzigd |
-| 30-1/2019 | [Een SharePoint-site verwijderen](/AlchemyInsights/delete-a-sharepoint-site) | gewijzigd |
-| 30-1/2019 | [Site groep verwijderen](/AlchemyInsights/delete-group-site) | gewijzigd |
-| 30-1/2019 | [DLP, werken niet zoals verwacht](/AlchemyInsights/dlp-not-working-as-expected) | gewijzigd |
-| 30-1/2019 | [DLP-beleid Tips werkt niet](/AlchemyInsights/dlp-policy-tips-not-working) | gewijzigd |
-| 30-1/2019 | [DLP-regel voor het nummer van de creditcard niet werkt](/AlchemyInsights/dlp-rule-for-credit-card-number-not-working) | gewijzigd |
-| 30-1/2019 | [DLP-regel voor het sofi-nummer niet werkt](/AlchemyInsights/dlp-rule-for-ssn-not-working) | gewijzigd |
-| 30-1/2019 | [DLP-regel voor ons bankrekeningnummer werkt niet](/AlchemyInsights/dlp-rule-for-us-bank-account-number-not-working) | gewijzigd |
-| 30-1/2019 | [DLP-regel voor de Verenigde Staten / Verenigd Koninkrijk paspoortnummer werkt niet](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | gewijzigd |
-| 30-1/2019 | [Hebt u een betrouwbare berichten als spam wordt gemarkeerd?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | gewijzigd |
-| 30-1/2019 | [Downloaden en installeren van Office](/AlchemyInsights/download-and-install-office) | gewijzigd |
-| 30-1/2019 | [Werknemer verlaten](/AlchemyInsights/employee-leaving) | gewijzigd |
-| 30-1/2019 | [Microsoft-Teams inschakelen](/AlchemyInsights/enable-microsoft-teams) | gewijzigd |
-| 30-1/2019 | [Dit wachtwoord wordt gevraagd in Outlook voor Mac herhaald?](/AlchemyInsights/experiencing-repeated-password-prompts-in-outlook-for-mac) | gewijzigd |
-| 30-1/2019 | [Bestand alleen-lezen wordt geopend](/AlchemyInsights/file-open-read-only-0) | gewijzigd |
-| 30-1/2019 | [Bestand alleen-lezen wordt geopend](/AlchemyInsights/file-open-read-only-1) | gewijzigd |
-| 30-1/2019 | [Bestand alleen-lezen wordt geopend](/AlchemyInsights/file-open-read-only) | gewijzigd |
-| 30-1/2019 | [Hebt u Teams ingeschakeld voor uw leerlingen?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | gewijzigd |
-| 30-1/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues-0) | gewijzigd |
-| 30-1/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues) | gewijzigd |
-| 30-1/2019 | [Heb je problemen met Outlook verbinding te krijgen?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | gewijzigd |
-| 30-1/2019 | [Heb je problemen met Outlook verbinding te krijgen?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | gewijzigd |
-| 30-1/2019 | [Hoe wijzig ik van creditcardbetalingen te factureren](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | gewijzigd |
-| 30-1/2019 | [Het uitschakelen van externe groepen](/AlchemyInsights/how-to-disable-external-groups-0) | gewijzigd |
-| 30-1/2019 | [Het uitschakelen van externe groepen](/AlchemyInsights/how-to-disable-external-groups) | gewijzigd |
-| 30-1/2019 | [Naadloze eenmalige aanmelding inschakelen](/AlchemyInsights/how-to-enable-seamless-sso) | gewijzigd |
-| 30-1/2019 | [Mac Office installeren vanaf de portal](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | gewijzigd |
-| 30-1/2019 | [Het verifiëren van uw domein bij Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | gewijzigd |
-| 30-1/2019 | [Hybride configuratiewizard](/AlchemyInsights/hybrid-configuration-wizard) | gewijzigd |
-| 30-1/2019 | [Identificeren van wachtruimten op postvakken geplaatst](/AlchemyInsights/identifying-holds-placed-on-mailboxes) | gewijzigd |
-| 30-1/2019 | [Postbus voor Enterprise SKU's vergroten](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | gewijzigd |
-| 30-1/2019 | [Postbus vergroten voor SMB-SKU 's](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | gewijzigd |
-| 30-1/2019 | [Postbus vergroten](/AlchemyInsights/increase-mailbox-size) | gewijzigd |
-| 30-1/2019 | [Informatie over GDPR](/AlchemyInsights/information-about-gdpr) | gewijzigd |
-| 30-1/2019 | [Informatie over de rechtszaak vasthouden of in de plaats vasthouden](/AlchemyInsights/information-on-litigation-hold-or-in-place-hold) | gewijzigd |
-| 30-1/2019 | [Installeren van Office 2013 melding](/AlchemyInsights/install-office-2013-notification) | gewijzigd |
-| 30-1/2019 | [Skype voor Bedrijven installeren](/AlchemyInsights/install-skype-for-business) | gewijzigd |
-| 30-1/2019 | [Probleem met Skype voor bedrijven?](/AlchemyInsights/issue-with-skype-for-business) | gewijzigd |
-| 30-1/2019 | [Groepen in Yammer beheren](/AlchemyInsights/manage-groups-in-yammer) | gewijzigd |
-| 30-1/2019 | [Gesynchroniseerde gebruikersaccounts beheren](/AlchemyInsights/manage-synchronized-user-accounts) | gewijzigd |
-| 30-1/2019 | [SharePoint-bibliotheek verbinden met netwerkstation](/AlchemyInsights/map-sharepoint-library-to-network-drive) | gewijzigd |
-| 30-1/2019 | [Microsoft - Teams voor toegang voor gasten](/AlchemyInsights/microsoft-teamsguest-access) | gewijzigd |
-| 30-1/2019 | [E-mailadres van de G Suite migreren naar Office 365](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | gewijzigd |
-| 30-1/2019 | [Migreren, postbussen tussen twee verschillende huurders](/AlchemyInsights/migrate-mailboxes-between-two-different-tenants) | gewijzigd |
-| 30-1/2019 | [Gegevens uit openbare mappen migreren naar Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365-0) | gewijzigd |
-| 30-1/2019 | [Gegevens uit openbare mappen migreren naar Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365) | gewijzigd |
-| 30-1/2019 | [Minecraft Edition met Office 365 opleidingen voor vrije](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | gewijzigd |
-| 30-1/2019 | [Toezicht op voorwaardelijke toegang](/AlchemyInsights/monitoring-conditional-access) | gewijzigd |
-| 30-1/2019 | [Intune voorwaardelijke toegang controleren](/AlchemyInsights/monitoring-intune-conditional-access) | gewijzigd |
-| 30-1/2019 | [E-mailberichten naar de archiefmap Postvak verplaatsen](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | gewijzigd |
-| 30-1/2019 | [Office 365 opleidingen voor vrije](/AlchemyInsights/office-365-education-for-free) | gewijzigd |
-| 30-1/2019 | [Office 365 voor zakelijke plannen en prijzen](/AlchemyInsights/office-365-for-business-plans-and-pricing) | gewijzigd |
-| 30-1/2019 | [Office 365 voor onderwijs plannen en prijzen](/AlchemyInsights/office-365-for-education-plans-and-pricing) | gewijzigd |
-| 30-1/2019 | [Office 365 voor Enterprise planning](/AlchemyInsights/office-365-for-enterprise-plan) | gewijzigd |
-| 30-1/2019 | [Office 365 voor het plannen van de overheid en de prijzen](/AlchemyInsights/office-365-for-government-plans-and-pricing) | gewijzigd |
-| 30-1/2019 | [Office 365 voor non-profitorganisatie plannen en prijzen](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | gewijzigd |
-| 30-1/2019 | [Office 365-URL's en IP-adressen](/AlchemyInsights/office-365-urls-and-ip-addresses) | gewijzigd |
-| 30-1/2019 | [Een van de certificaten op ruimten Federation Service verloopt](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | gewijzigd |
-| 30-1/2019 | [Betalingsopties](/AlchemyInsights/payment-options) | gewijzigd |
-| 30-1/2019 | [Machtigingsproblemen tijdens de migratie van](/AlchemyInsights/permissions-issues-while-migrating) | gewijzigd |
-| 30-1/2019 | [Problemen met Microsoft Skype voor bedrijven tijdens het aanmelden bij de service Office 365](/AlchemyInsights/problems-with-microsoft-skype-for-business-when-signing-in-to-the-office-365-ser) | gewijzigd |
-| 30-1/2019 | [Onjuiste ProxyAddress](/AlchemyInsights/proxyaddress-incorrect) | gewijzigd |
-| 30-1/2019 | [Toegang tot openbare mappen vanaf mobiele apparaten](/AlchemyInsights/public-folder-access-from-mobile-devices-0) | gewijzigd |
-| 30-1/2019 | [Infrastructuur met een communicatiesite publiceren](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | gewijzigd |
-| 30-1/2019 | [Een hubsite verwijderen](/AlchemyInsights/remove-a-hub-site) | gewijzigd |
-| 30-1/2019 | [Verwijderen van de laatste Exchange server op locatie](/AlchemyInsights/removing-the-last-on-premises-exchange-server) | gewijzigd |
-| 30-1/2019 | [Vereiste licenties voor Microsoft-ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | gewijzigd |
-| 30-1/2019 | [Opnieuw instellen of wijzigen van wachtwoorden](/AlchemyInsights/reset-or-change-passwords) | gewijzigd |
-| 30-1/2019 | [Terugzetten van verwijderde gebruiker](/AlchemyInsights/restore-deleted-user) | gewijzigd |
-| 30-1/2019 | [Bewaarbeleid in Exchange Admin Center werkt niet](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | gewijzigd |
-| 30-1/2019 | [Zoeken naar e-mailberichten in een postbus archiveren](/AlchemyInsights/search-for-email-in-archive-mailbox) | gewijzigd |
-| 30-1/2019 | [Als de gedeelde postbus wordt verzonden](/AlchemyInsights/sending-email-as-the-shared-mailbox) | gewijzigd |
-| 30-1/2019 | [Set wachtwoorden nooit verlopen.](/AlchemyInsights/set-passwords-to-never-expire) | gewijzigd |
-| 30-1/2019 | [Instellen e-mail doorsturen](/AlchemyInsights/set-up-email-forwarding) | gewijzigd |
-| 30-1/2019 | [SPF instellen](/AlchemyInsights/set-up-spf) | gewijzigd |
-| 30-1/2019 | [Instellen van uw abonnement O365 Business Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | gewijzigd |
-| 30-1/2019 | [Instellen van uw O365 Business Premium-abonnement](/AlchemyInsights/setting-up-your-o365-business-premium-subscription) | gewijzigd |
-| 30-1/2019 | [Gedeelde postbus of agenda probleem in Outlook voor Mac?](/AlchemyInsights/shared-mailbox-or-calendar-issue-in-outlook-for-mac) | gewijzigd |
-| 30-1/2019 | [Aankondiging van het abonnement op Office-client](/AlchemyInsights/subscription-notice-on-office-client) | gewijzigd |
-| 30-1/2019 | [Upgrade richtlijnen voor teams](/AlchemyInsights/teams-upgrade-guidance) | gewijzigd |
-| 30-1/2019 | [Het domein is al in gebruik](/AlchemyInsights/the-domain-is-already-in-use) | gewijzigd |
-| 30-1/2019 | [Oplossen van problemen met de functie openen met Explorer](/AlchemyInsights/troubleshoot-issues-using-open-with-explorer) | gewijzigd |
-| 30-1/2019 | [Oplossen van problemen met Apple MDM Push-certificaat in Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Oplossen van problemen met DEP inschrijving in Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-dep-enrollment-in-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Oplossen van problemen met Android apparaten in Microsoft Intune inschrijven](/AlchemyInsights/troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Problemen oplossen met het inschrijven van iOS-apparaten in Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Oplossen van problemen met apparaten in Microsoft Intune macOS inschrijven](/AlchemyInsights/troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Oplossen van problemen met Windows-apparaten in Microsoft Intune inschrijven](/AlchemyInsights/troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Problemen oplossen met de Inschrijvingsopties voor Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune-0) | gewijzigd |
-| 30-1/2019 | [Problemen oplossen met de Inschrijvingsopties voor Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Oplossen van problemen met Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | gewijzigd |
-| 30-1/2019 | [Problemen met Wachtwoordsynchronisatie oplossen](/AlchemyInsights/troubleshoot-password-synchronization) | gewijzigd |
-| 30-1/2019 | [Problemen met de veiligheid tip voor fraude-opsporing wordt gecontroleerd](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | gewijzigd |
-| 30-1/2019 | [Wilt u uw domein verwijderen?](/AlchemyInsights/trying-to-remove-your-domain) | gewijzigd |
-| 30-1/2019 | [Probeer om te controleren of uw domein?](/AlchemyInsights/trying-to-verify-your-domain) | gewijzigd |
-| 30-1/2019 | [Office-client verwijderen](/AlchemyInsights/uninstall-office-client) | gewijzigd |
-| 30-1/2019 | [DNS-records bijwerken als u uw website bij uw huidige hostingprovider wilt houden](/AlchemyInsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider) | gewijzigd |
-| 30-1/2019 | [DNS-Records bijwerken](/AlchemyInsights/update-dns-records) | gewijzigd |
-| 30-1/2019 | [De domeinnaamservers voor Office 365 bijwerken](/AlchemyInsights/update-your-domain-nameservers-to-office-365) | gewijzigd |
-| 30-1/2019 | [UPN-synchronisatie is uitgeschakeld](/AlchemyInsights/upn-sync-disabled) | gewijzigd |
-| 30-1/2019 | [Controleer domein](/AlchemyInsights/verify-domain) | gewijzigd |
-| 30-1/2019 | [Mijn rekening bekijken](/AlchemyInsights/view-my-bill) | gewijzigd |
-| 30-1/2019 | [122 nodig voor het maken van een handtekening in Outlook op het web?](/AlchemyInsights/122-need-to-create-a-signature-in-outlook-on-the-web) | gewijzigd |
-| 30-1/2019 | [Een account aanvragen 123 fout in OWA uitgeschakeld?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | gewijzigd |
-| 1-2/2019 | [hetzelfde als de bestandsnaam is de beste [regel #-beschrijving]](/AlchemyInsights/1-alchemy-insight-template) | gewijzigd |
-| 1-2/2019 | [Wijzigen van machtigingen voor een postbus](/AlchemyInsights/changing-permissions-on-a-mailbox) | gewijzigd |
+| 3/4/2019 | Verwijderde e-mailadres van 8000011 Outlook.com herstellen | toegevoegd |
+| 3/4/2019 | [8000034 leesbevestigingen in Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | gewijzigd |
+| 3/4/2019 | [8000047 het maken van een e-mailhandtekening in Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | gewijzigd |
+| 3/4/2019 | [Afbeelding invoegen met 8000086 Outlook.com](/AlchemyInsights/80000860-outlook-com-insert-image) | toegevoegd |
+| 3/4/2019 | [Sneltoetsen voor 8000087 Outlook.com](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | toegevoegd |
+| 3/4/2019 | [8000088 opslaan van e-mailberichten in Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | gewijzigd |
+| 3/4/2019 | [8000089 Outlook.com veilige afzenders](/AlchemyInsights/8000089-outlook-com-safe-senders) | toegevoegd |
+| 3/4/2019 | Verwijderde e-mailadres van 8000011 Outlook.com herstellen | verwijderd |
+| 3/4/2019 | 1575-PowerApps en uitbreiding van plan bent Microsoft-Flow | toegevoegd |
+| 3/4/2019 | [Domein wijzigen voor Office 365-groep](/AlchemyInsights/change-domain-for-group) | gewijzigd |
+| 3/4/2019 | [1575-PowerApps en uitbreiding van plan bent Microsoft-Flow](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | gewijzigd |
+| 3/4/2019 | [Multifactor-verificatie inschakelen](/AlchemyInsights/enable-multifactor-authentication) | gewijzigd |
+| 3/4/2019 | [8000054 Outlook.com opslaglimiet overschreden](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | toegevoegd |
+| 3/4/2019 | [Security 423 Org - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | gewijzigd |
+| 3/4/2019 | [8000029 omgaan met spam of phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | gewijzigd |
+| 3/4/2019 | [Domein verwijderen](/AlchemyInsights/remove-domain) | gewijzigd |
+| 3/4/2019 | [Gebruikers toevoegen aan Office 365](/AlchemyInsights/add-users-to-office-365) | gewijzigd |
+| 3/4/2019 | [Krijgt u te veel spam of phishing in uw Postvak?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | gewijzigd |
+| 3/4/2019 | [NameServers wijzigen](/AlchemyInsights/change-nameservers) | gewijzigd |
+| 3/4/2019 | [Apps maken in PowerApps](/AlchemyInsights/create-apps-in-powerapps) | gewijzigd |
+| 3/4/2019 | [Cutover migraties naar Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | gewijzigd |
+| 3/4/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues-0) | gewijzigd |
+| 3/4/2019 | [Heb je problemen met e-delivery?](/AlchemyInsights/having-email-delivery-issues) | gewijzigd |
+| 3/4/2019 | [Hoe voeg ik een creditcard?](/AlchemyInsights/how-do-i-add-a-credit-card) | gewijzigd |
+| 3/4/2019 | [Hoe werk ik mijn creditcardgegevens?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | gewijzigd |
+| 3/4/2019 | [Office installeren](/AlchemyInsights/how-to-install-office) | gewijzigd |
+| 3/4/2019 | [E-mail van IMAP migreren](/AlchemyInsights/migrate-email-from-imap) | gewijzigd |
+| 3/4/2019 | [Betalingsopties](/AlchemyInsights/payment-options) | gewijzigd |
+| 3/4/2019 | [Aanbevolen stappen te nemen als een account is niet meer veilig](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | gewijzigd |
+| 3/4/2019 | [Afzender is geblokkeerd voor het verzenden van te veel spam](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | gewijzigd |
+| 3/4/2019 | [Dynamics 365 ondersteuningsverzoeken indienen](/AlchemyInsights/submit-dynamics-365-support-requests) | gewijzigd |
+| 3/4/2019 | [Het domein is al in gebruik](/AlchemyInsights/the-domain-is-already-in-use) | gewijzigd |
+| 3/4/2019 | [Problemen met het voltooien van een aankoop in de Office 365 portal](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | gewijzigd |
+| 3/4/2019 | [DNS-Records bijwerken](/AlchemyInsights/update-dns-records-0) | gewijzigd |
+| 3/4/2019 | [DNS-Records bijwerken](/AlchemyInsights/update-dns-records) | gewijzigd |
+| 3/4/2019 | [Betalingsgegevens bijwerken](/AlchemyInsights/update-payment-details) | gewijzigd |
+| 3/4/2019 | [Controleer domein](/AlchemyInsights/verify-domain) | gewijzigd |
+| 3/4/2019 | [Doorsturen naar meerdere e-mailadressen instellen](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | gewijzigd |
+| 3/4/2019 | [Het oplossen van het 'Niet een geaccepteerde domein' fout](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | gewijzigd |
+| 6-3/2019 | [1581 openen en gebruiken van een gedeelde postbus in Outlook op het web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | gewijzigd |
+| 6-3/2019 | [Teams ploegen](/AlchemyInsights/1686-teams-shifts) | toegevoegd |
+| 6-3/2019 | [1703 informatie nodig hebt over Teams en telefoons van Polycom](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | toegevoegd |
+| 6-3/2019 | [Teams PS-Module installeren en verwijzing](/AlchemyInsights/1787-teams-ps-module-install-ref) | toegevoegd |
+| 6-3/2019 | [615 typen van delen en hoe deze moeten worden ingesteld.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | gewijzigd |
+| 6-3/2019 | [Freemium teams](/AlchemyInsights/997-teams-freemium) | toegevoegd |
+| 6-3/2019 | [Hebt u een betrouwbare berichten als spam wordt gemarkeerd?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | gewijzigd |
+| 6-3/2019 | [Microsoft-Teams inschakelen](/AlchemyInsights/enable-microsoft-teams) | gewijzigd |
+| 6-3/2019 | [Hebt u Teams ingeschakeld voor uw leerlingen?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | gewijzigd |
+| 6-3/2019 | [Het opnieuw activeren van een abonnement](/AlchemyInsights/how-to-reactivate-a-subscription) | gewijzigd |
+| 6-3/2019 | Intune App implementatie — regel-Id 991 opgeven | verwijderd |
+| 6-3/2019 | [Probleem met Skype voor bedrijven?](/AlchemyInsights/issue-with-skype-for-business) | gewijzigd |
+| 6-3/2019 | [Microsoft - Teams voor toegang voor gasten](/AlchemyInsights/microsoft-teamsguest-access) | gewijzigd |
+| 6-3/2019 | [Microsoft-Teams - een verwijderde teamsite herstellen](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | gewijzigd |
+| 6-3/2019 | [Doorsturen van e-mail via Office 365](/AlchemyInsights/relay-email-through-office-365) | gewijzigd |
+| 6-3/2019 | [SharePoint-bestanden synchroniseren met de nieuwe OneDrive synchronisatie-client](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | gewijzigd |
+| 6-3/2019 | [Upgrade naar de volledige versie van Microsoft-Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | gewijzigd |
+| 7-3/2019 | [8000064 Outlook.com e-mailbericht kan niet worden gesynchroniseerd - SPAANS](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | toegevoegd |
+| 7-3/2019 | [8000065 Outlook.com ongewenste spam - SPAANS](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | toegevoegd |
+| 7-3/2019 | [8000066 - regel 1 - Outlook.com gehackte - SPAANS](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | toegevoegd |
+| 7-3/2019 | [8000066 - regel 2 - Outlook.com gehackte - SPAANS](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | toegevoegd |
+| 7-3/2019 | [8000067 - Outlook.com account sluiten - SPAANS](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | toegevoegd |
+| 7-3/2019 | [8000068 - Outlook.com account toe te voegen - SPAANS](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | toegevoegd |
+| 7-3/2019 | [8000069 - afzender blokkeren van Outlook.com - SPAANS](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | toegevoegd |
+| 7-3/2019 | [8000070 - Outlook.com zich niet aanmelden - SPAANS](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | toegevoegd |
+| 7-3/2019 | [Terugzetten van verwijderde gebruiker](/AlchemyInsights/restore-deleted-user) | gewijzigd |
+| 8-3/2019 | 8000043 POP, IMAP en SMTP-instellingen voor Outlook.com | verwijderd |
+| 8-3/2019 | [8000043 POP, IMAP en SMTP-instellingen voor Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | gewijzigd |
+| 8-3/2019 | [8000071 Outlook.com correctie e-mail sync - Frans](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | toegevoegd |
+| 8-3/2019 | [8000072 Outlook.com voor ongewenste e-mail - Frans](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | toegevoegd |
+| 8-3/2019 | [8000073 Outlook.com account gehackte - Frans](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | toegevoegd |
+| 8-3/2019 | [8000074 Outlook.com account sluiten - Frans](/AlchemyInsights/8000074-outlook-com-close-account-french) | toegevoegd |
+| 8-3/2019 | [8000075 Outlook.com-wachtwoord wijzigen - Frans](/AlchemyInsights/8000075-outlook-com-change-password-french) | toegevoegd |
+| 8-3/2019 | [Blokkeer de afzender 8000076 Outlook.com - Frans](/AlchemyInsights/8000076-outlook-com-block-sender-french) | toegevoegd |
 
 
 ## <a name="week-of-february-04-2019"></a>Week van 04 februari 2019
@@ -592,7 +485,7 @@
 | 11-2/2019 | [Bestand alleen-lezen wordt geopend](/AlchemyInsights/file-open-read-only) | gewijzigd |
 | 11-2/2019 | [Verloren of ontbrekende bestanden zoeken in OneDrive of SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | gewijzigd |
 | 11-2/2019 | [Repareren van een defecte stroom](/AlchemyInsights/fix-a-failed-flow) | gewijzigd |
-| 11-2/2019 | [OneDrive-synchronisatieproblemen oplossen](/AlchemyInsights/fix-onedrive-sync-issues) | gewijzigd |
+| 11-2/2019 | [Oplossen van problemen met synchronisatie OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | gewijzigd |
 | 11-2/2019 | [Problemen met synchroniseren in OneDrive oplossen](/AlchemyInsights/fix-onedrive-sync-problems) | gewijzigd |
 | 11-2/2019 | [Oplossen van problemen met het uploaden van bestanden met OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | gewijzigd |
 | 11-2/2019 | [Lettertype opmaak problemen in Excel 2016](/AlchemyInsights/font-formatting-problems-in-excel-2016) | gewijzigd |
@@ -638,7 +531,7 @@
 | 2/12/2019 | [Alchemy - zoeken in Outlook niet idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | gewijzigd |
 | 2/12/2019 | [Alchemy - opnieuw maken van uw Outlook-profiel](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | gewijzigd |
 | 2/12/2019 | [Verloren of ontbrekende bestanden zoeken in OneDrive of SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | gewijzigd |
-| 2/12/2019 | [OneDrive-synchronisatieproblemen oplossen](/AlchemyInsights/fix-onedrive-sync-issues) | gewijzigd |
+| 2/12/2019 | [Oplossen van problemen met synchronisatie OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | gewijzigd |
 | 2/12/2019 | [Problemen met synchroniseren in OneDrive oplossen](/AlchemyInsights/fix-onedrive-sync-problems) | gewijzigd |
 | 2/12/2019 | [Oplossen van problemen met het uploaden van bestanden met OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | gewijzigd |
 | 2/12/2019 | [Installeren en configureren van OneDrive](/AlchemyInsights/install-and-configure-onedrive) | gewijzigd |
@@ -709,7 +602,7 @@
 | 22-2/2019 | [Gebruik van OneDrive en SharePoint en activiteit controleren](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | gewijzigd |
 | 22-2/2019 | [Een abonnement opnieuw activeren](/AlchemyInsights/reactivate-a-subscription) | gewijzigd |
 | 22-2/2019 | [Herstelt een verwijderde OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | gewijzigd |
-| 22-2/2019 | [Een Office 365-groep herstellen met het Exchange-beheercentrum](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | gewijzigd |
+| 22-2/2019 | [Herstellen van een Office 365-groep met behulp van het beheercentrum van Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | gewijzigd |
 | 22-2/2019 | [Instellen van uw abonnement O365 Business Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | gewijzigd |
 | 22-2/2019 | [Delen met externe gebruikers werkt niet.](/AlchemyInsights/sharing-with-external-users-isn-t-working) | gewijzigd |
 | 22-2/2019 | [Het zoeken naar een evaluatieversie?](/AlchemyInsights/trying-to-find-a-trial) | gewijzigd |
