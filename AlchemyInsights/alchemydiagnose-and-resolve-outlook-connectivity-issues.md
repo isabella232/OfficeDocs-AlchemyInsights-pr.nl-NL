@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 2584f688f4e6c34575d93c58db27f8a531f2785d
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: cffdf016de756bd5a06152543c56396d5ffa9eea
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969420"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758173"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="55bc5-102">Opsporen en oplossen van problemen met Outlook</span><span class="sxs-lookup"><span data-stu-id="55bc5-102">Diagnose and resolve Outlook connectivity issues</span></span>
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="1c8df-102">Opsporen en oplossen van problemen met Outlook</span><span class="sxs-lookup"><span data-stu-id="1c8df-102">Diagnose and resolve Outlook connectivity issues</span></span>
 
-<span data-ttu-id="55bc5-103">Om te kunnen vaststellen en oplossen van problemen met uw Outlook, kunt u het [Outlook-hulpprogramma voor connectiviteit](https://aka.ms/SaRA-OutlookDisconnect) uitvoeren op de computer waarin dit probleem optreedt.</span><span class="sxs-lookup"><span data-stu-id="55bc5-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect) on the affected machine.</span></span> 
+<span data-ttu-id="1c8df-103">Om te kunnen vaststellen en oplossen van problemen met uw Outlook, kunt u het [Outlook-hulpprogramma voor connectiviteit](https://aka.ms/SaRA-OutlookDisconnect) uitvoeren op de computer waarin dit probleem optreedt.</span><span class="sxs-lookup"><span data-stu-id="1c8df-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect) on the affected machine.</span></span> 
   
-<span data-ttu-id="55bc5-104">Dit hulpprogramma wordt diagnostische controles uitvoeren en voorstellen van mogelijke oplossingen voor u het probleem van de verbinding met Outlook.</span><span class="sxs-lookup"><span data-stu-id="55bc5-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
+<span data-ttu-id="1c8df-104">Dit hulpprogramma wordt diagnostische controles uitvoeren en voorstellen van mogelijke oplossingen voor u het probleem van de verbinding met Outlook.</span><span class="sxs-lookup"><span data-stu-id="1c8df-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
   
 
