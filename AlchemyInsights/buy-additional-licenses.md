@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: fe2d5d9e78ad6f1e05d99d1e754b3ba990f28e58
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925303"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760009"
 ---
 # <a name="buy-additional-licenses"></a>Extra licenties kopen
 
@@ -26,10 +26,10 @@ ms.locfileid: "29925303"
     
     [Wat gebeurt er als ik zie niet de koppeling toevoegen of verwijderen?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
     
-3. Typ het totale aantal licenties die u nodig hebt voor dit abonnement in het **Totaal aantal licenties** en kies vervolgens **indienen** \> **sluiten**. Als u 100 licenties hebt en u moet 5 meer toevoegen, bijvoorbeeld 105 invoeren.
+3. Typ het totale aantal licenties die u nodig hebt voor dit abonnement in het **Totaal aantal licenties** en kies vervolgens **indienen** \> **sluiten**. Als u bijvoorbeeld 100 licenties hebt en u 5 extra licenties wilt toevoegen, voert u 105 in.
     
     > [!NOTE]
-    > Als u uw abonnement per creditcard of bankrekening betalen, zijn alle nieuwe licenties die u koopt beschikbaar onmiddellijk nadat u bevestiging hebt ontvangen. Als u per factuur betaalt, moet u mogelijk een kredietcontrole wacht voordat de nieuwe licenties beschikbaar zijn voor gebruik. 
+    > Als u voor het abonnement per creditcard of via uw bankrekening betaalt, zijn nieuwe licenties die u koopt, direct beschikbaar na ontvangst van de orderbevestiging. Als u per factuur betaalt, moet u mogelijk wachten op een kredietcontrole voordat uw nieuwe licenties beschikbaar zijn voor gebruik. 
   
  **Aanvullende bronnen**
   
