@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 97f8826dd0571db6a49d7976f8257d532d69c379
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: d6ce8f93afc11414e0c77b0e852f4647378d5067
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969384"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761556"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="07f05-102">Bestanden uploaden naar OneDrive of SharePoint</span><span class="sxs-lookup"><span data-stu-id="07f05-102">Upload files to OneDrive or SharePoint</span></span>
+# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="e5888-102">Bestanden uploaden naar OneDrive of SharePoint</span><span class="sxs-lookup"><span data-stu-id="e5888-102">Upload files to OneDrive or SharePoint</span></span>
 
-1. <span data-ttu-id="07f05-103">Ga in de webbrowser naar de locatie waar u bestanden uploaden.</span><span class="sxs-lookup"><span data-stu-id="07f05-103">In your web browser, go to the location where you want to upload files.</span></span>
+1. <span data-ttu-id="e5888-103">Ga in de webbrowser naar de locatie waar u bestanden uploaden.</span><span class="sxs-lookup"><span data-stu-id="e5888-103">In your web browser, go to the location where you want to upload files.</span></span>
     
-2. <span data-ttu-id="07f05-104">Open File Explorer en blader naar de bestanden die u wilt uploaden.</span><span class="sxs-lookup"><span data-stu-id="07f05-104">Open File Explorer and browse to the files you want to upload.</span></span>
+2. <span data-ttu-id="e5888-104">Open File Explorer en blader naar de bestanden die u wilt uploaden.</span><span class="sxs-lookup"><span data-stu-id="e5888-104">Open File Explorer and browse to the files you want to upload.</span></span>
     
-3. <span data-ttu-id="07f05-p101">Selecteer de bestanden en sleep deze naar de locatie in OneDrive of SharePoint. Opmerking: Als u Microsoft Edge, Mozilla FireFox of Google Chrome gebruikt, kunt u ook uploaden een map en alle bestanden in deze.</span><span class="sxs-lookup"><span data-stu-id="07f05-p101">Select the files and drag them to the location in OneDrive or SharePoint. Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
+3. <span data-ttu-id="e5888-105">Selecteer de bestanden en sleep deze naar de locatie in OneDrive of SharePoint.</span><span class="sxs-lookup"><span data-stu-id="e5888-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="e5888-106">Opmerking: Als u Microsoft Edge, Mozilla FireFox of Google Chrome gebruikt, kunt u ook uploaden een map en alle bestanden in deze.</span><span class="sxs-lookup"><span data-stu-id="e5888-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
     
 > [!NOTE]
->  <span data-ttu-id="07f05-p102">U kunt bestanden uploaden maximaal 15 GB. > het volledige pad naar een bestand (inclusief de bestandsnaam) mag niet meer dan 400 tekens lang zijn. > als u nodig hebt om meer dan 100 bestanden, [de sync OneDrive client](https://go.microsoft.com/fwlink/?linkid=866427)te uploaden.</span><span class="sxs-lookup"><span data-stu-id="07f05-p102">You can upload files up to 15 GB in size. >  The full path for a file (including the file name) can't be more than 400 characters in length. >  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
+>  <span data-ttu-id="e5888-107">U kunt bestanden uploaden maximaal 15 GB.</span><span class="sxs-lookup"><span data-stu-id="e5888-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="e5888-108">> het volledige pad naar een bestand (inclusief de bestandsnaam) mag niet meer dan 400 tekens lang zijn.</span><span class="sxs-lookup"><span data-stu-id="e5888-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="e5888-109">> als u nodig hebt om meer dan 100 bestanden, [de sync OneDrive client](https://go.microsoft.com/fwlink/?linkid=866427)te uploaden.</span><span class="sxs-lookup"><span data-stu-id="e5888-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
   
 
