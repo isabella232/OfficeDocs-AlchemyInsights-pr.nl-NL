@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 051f302d1180154179675bcd75c4098b76124faa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937831"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754321"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Uitbreiden van uw evaluatieversie van Office 365 voor bedrijven
 
-Als uw proefabonnement is binnen 15 dagen na die verstrijkt voordat de evaluatieperiode nog niet uitgebreid, kunt u de evaluatieversie voor een andere periode van 30 dagen kunt uitbreiden. U kunt alleen dit één keer doen.
+Als uw proefabonnement is binnen 15 dagen na die verstrijkt voordat de evaluatieperiode nog niet uitgebreid, kunt u de evaluatieversie voor een andere periode van 30 dagen kunt uitbreiden. Dit is slechts één keer mogelijk.
   
 1. Ga in het beheercentrum naar de pagina [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **Abonnementen**.
     
