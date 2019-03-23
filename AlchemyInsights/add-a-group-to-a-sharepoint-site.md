@@ -9,41 +9,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 767805b8de07e22ca14447adeea6a0cbd078750c
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209372"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758065"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="a99a1-102">Een groep toevoegen aan een SharePoint-site</span><span class="sxs-lookup"><span data-stu-id="a99a1-102">Add a group to a SharePoint site</span></span>
+# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="30ba4-102">Een groep toevoegen aan een SharePoint-site</span><span class="sxs-lookup"><span data-stu-id="30ba4-102">Add a group to a SharePoint site</span></span>
 
-<span data-ttu-id="a99a1-p101">Sommige SharePoint-teamsites (met inbegrip van posten die zijn gemaakt in Microsoft-Teams) worden beheerd door de groepeigenaren van Office 365. SharePoint-sites en inhoud kunnen ook worden gedeeld met groepen voor Office 365 en SharePoint-groepen. Een SharePoint-groep is een verzameling gebruikers die alle dezelfde verzameling machtigingen voor sites en inhoud. Voor klassieke sites, is het raadzaam gebruik te maken van groepen gemakkelijk hetzelfde machtigingsniveau toewijzen aan veel mensen tegelijk in plaats van toegewezen machtigingen door één persoon tegelijk.</span><span class="sxs-lookup"><span data-stu-id="a99a1-p101">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners. SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups. A SharePoint group is a collection of users who all have the same set of permissions to sites and content. For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
+<span data-ttu-id="30ba4-103">Sommige SharePoint-teamsites (met inbegrip van posten die zijn gemaakt in Microsoft-Teams) worden beheerd door de groepeigenaren van Office 365.</span><span class="sxs-lookup"><span data-stu-id="30ba4-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners.</span></span> <span data-ttu-id="30ba4-104">SharePoint-sites en inhoud kunnen ook worden gedeeld met groepen voor Office 365 en SharePoint-groepen.</span><span class="sxs-lookup"><span data-stu-id="30ba4-104">SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="30ba4-105">Een SharePoint-groep is een verzameling gebruikers die alle dezelfde verzameling machtigingen voor sites en inhoud.</span><span class="sxs-lookup"><span data-stu-id="30ba4-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="30ba4-106">Voor klassieke sites, is het raadzaam gebruik te maken van groepen gemakkelijk hetzelfde machtigingsniveau toewijzen aan veel mensen tegelijk in plaats van toegewezen machtigingen door één persoon tegelijk.</span><span class="sxs-lookup"><span data-stu-id="30ba4-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
   
-<span data-ttu-id="a99a1-107">Office 365 groepsleden beheren:</span><span class="sxs-lookup"><span data-stu-id="a99a1-107">Manage Office 365 group members:</span></span>
+<span data-ttu-id="30ba4-107">Office 365 groepsleden beheren:</span><span class="sxs-lookup"><span data-stu-id="30ba4-107">Manage Office 365 group members:</span></span>
   
-1. <span data-ttu-id="a99a1-108">Ga naar de [pagina groepen in het Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="a99a1-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="30ba4-108">Ga naar de [pagina groepen in het Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="30ba4-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="a99a1-p102">Selecteer een groep voor een overzicht van de eigenaars en leden. Als u wilt toevoegen of verwijderen van gebruikers, klikt u op de koppeling **bewerken** in de rij van **eigenaren** of **leden** .</span><span class="sxs-lookup"><span data-stu-id="a99a1-p102">Select a group to see its owners and members. To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
+2. <span data-ttu-id="30ba4-109">Selecteer een groep voor een overzicht van de eigenaars en leden.</span><span class="sxs-lookup"><span data-stu-id="30ba4-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="30ba4-110">Als u wilt toevoegen of verwijderen van gebruikers, klikt u op de koppeling **bewerken** in de rij van **eigenaren** of **leden** .</span><span class="sxs-lookup"><span data-stu-id="30ba4-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
     
-<span data-ttu-id="a99a1-111">Een communicatiesite delen met een Office 365-groep:</span><span class="sxs-lookup"><span data-stu-id="a99a1-111">Share a communication site with an Office 365 group:</span></span>
+<span data-ttu-id="30ba4-111">Een communicatiesite delen met een Office 365-groep:</span><span class="sxs-lookup"><span data-stu-id="30ba4-111">Share a communication site with an Office 365 group:</span></span>
   
-1. <span data-ttu-id="a99a1-112">Ga naar de site in een browser en klik op **gedeelde site** in de rechterbovenhoek.</span><span class="sxs-lookup"><span data-stu-id="a99a1-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
+1. <span data-ttu-id="30ba4-112">Ga naar de site in een browser en klik op **gedeelde site** in de rechterbovenhoek.</span><span class="sxs-lookup"><span data-stu-id="30ba4-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
     
-2. <span data-ttu-id="a99a1-113">Voer de groepsnaam en selecteer vervolgens het machtigingsniveau (lezen, bewerken of volledig beheer).</span><span class="sxs-lookup"><span data-stu-id="a99a1-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
+2. <span data-ttu-id="30ba4-113">Voer de groepsnaam en selecteer vervolgens het machtigingsniveau (lezen, bewerken of volledig beheer).</span><span class="sxs-lookup"><span data-stu-id="30ba4-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
     
-<span data-ttu-id="a99a1-114">Een SharePoint-groep met een klassieke site maken:</span><span class="sxs-lookup"><span data-stu-id="a99a1-114">Create a SharePoint group to use with a classic site:</span></span>
+<span data-ttu-id="30ba4-114">Een SharePoint-groep met een klassieke site maken:</span><span class="sxs-lookup"><span data-stu-id="30ba4-114">Create a SharePoint group to use with a classic site:</span></span>
   
-1. <span data-ttu-id="a99a1-115">Ga naar de site in een browser en klikt u op het pictogram in de rechterbovenhoek.</span><span class="sxs-lookup"><span data-stu-id="a99a1-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
+1. <span data-ttu-id="30ba4-115">Ga naar de site in een browser en klikt u op het pictogram in de rechterbovenhoek.</span><span class="sxs-lookup"><span data-stu-id="30ba4-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
     
-2. <span data-ttu-id="a99a1-116">Klik op **Site-instellingen**en klik onder **gebruikers en machtigingen**, **machtigingen voor de Site**.</span><span class="sxs-lookup"><span data-stu-id="a99a1-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
+2. <span data-ttu-id="30ba4-116">Klik op **Site-instellingen**en klik onder **gebruikers en machtigingen**, **machtigingen voor de Site**.</span><span class="sxs-lookup"><span data-stu-id="30ba4-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
     
-3. <span data-ttu-id="a99a1-117">Klik op het tabblad machtigingen en klik op **Groep maken**.</span><span class="sxs-lookup"><span data-stu-id="a99a1-117">On the Permissions tab, click **Create Group**.</span></span>
+3. <span data-ttu-id="30ba4-117">Klik op het tabblad machtigingen en klik op **Groep maken**.</span><span class="sxs-lookup"><span data-stu-id="30ba4-117">On the Permissions tab, click **Create Group**.</span></span>
     
-[<span data-ttu-id="a99a1-118">Verbinding maken met een klassieke teamsite naar een nieuwe groep voor Office 365</span><span class="sxs-lookup"><span data-stu-id="a99a1-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
+[<span data-ttu-id="30ba4-118">Verbinding maken met een klassieke teamsite naar een nieuwe groep voor Office 365</span><span class="sxs-lookup"><span data-stu-id="30ba4-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[<span data-ttu-id="a99a1-119">Meer informatie over het werken met SharePoint-groepen</span><span class="sxs-lookup"><span data-stu-id="a99a1-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
+[<span data-ttu-id="30ba4-119">Meer informatie over het werken met SharePoint-groepen</span><span class="sxs-lookup"><span data-stu-id="30ba4-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

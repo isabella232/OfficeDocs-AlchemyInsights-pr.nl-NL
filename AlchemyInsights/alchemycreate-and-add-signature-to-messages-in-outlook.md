@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 30b7c67e4568634c5ec70b366ddd43774b661b7b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: da21e1a463c4d1fdf0160519f79ff99b7be3ca74
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925629"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753565"
 ---
-# <a name="creating-email-signatures"></a><span data-ttu-id="0b564-102">Maken, e-handtekeningen</span><span class="sxs-lookup"><span data-stu-id="0b564-102">Creating email signatures</span></span>
+# <a name="creating-email-signatures"></a><span data-ttu-id="ae5c0-102">Maken, e-handtekeningen</span><span class="sxs-lookup"><span data-stu-id="ae5c0-102">Creating email signatures</span></span>
 
-<span data-ttu-id="0b564-103">Deze artikelen kunt u bij het maken van de e-handtekeningen die u zoekt.</span><span class="sxs-lookup"><span data-stu-id="0b564-103">These articles should help you create the email signatures you're looking for.</span></span>
+<span data-ttu-id="ae5c0-103">Deze artikelen kunt u bij het maken van de e-handtekeningen die u zoekt.</span><span class="sxs-lookup"><span data-stu-id="ae5c0-103">These articles should help you create the email signatures you're looking for.</span></span>
   
-- <span data-ttu-id="0b564-104">Een e-mailhandtekening met behulp van Outlook op Windows te maken: [maken en een handtekening toevoegen aan berichten](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="0b564-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
+- <span data-ttu-id="ae5c0-104">Een e-mailhandtekening met behulp van Outlook op Windows te maken: [maken en een handtekening toevoegen aan berichten](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span><span class="sxs-lookup"><span data-stu-id="ae5c0-104">I want to create an email signature using Outlook on Windows: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)</span></span>
     
-- <span data-ttu-id="0b564-105">Een e-mailhandtekening met Outlook op het web te maken: [maken en toevoegen van een e-mailhandtekening in Outlook op het web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="0b564-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
+- <span data-ttu-id="ae5c0-105">Een e-mailhandtekening met Outlook op het web te maken: [maken en toevoegen van een e-mailhandtekening in Outlook op het web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span><span class="sxs-lookup"><span data-stu-id="ae5c0-105">I want to create an email signature using Outlook on the web: [Create and add an email signature in Outlook on the web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)</span></span>
     
-- <span data-ttu-id="0b564-106">Maken van een e-mailhandtekening gebruiken Outlook.com: [maken en toevoegen van een e-mailhandtekening in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="0b564-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
+- <span data-ttu-id="ae5c0-106">Maken van een e-mailhandtekening gebruiken Outlook.com: [maken en toevoegen van een e-mailhandtekening in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span><span class="sxs-lookup"><span data-stu-id="ae5c0-106">I want to create an email signature using Outlook.com: [Create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)</span></span>
     
-- <span data-ttu-id="0b564-107">Ik wil een globale e-handtekening maken voor alle e-mails verzonden van mijn bedrijf: [Create organisatiebrede handtekeningen en disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="0b564-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
+- <span data-ttu-id="ae5c0-107">Ik wil een globale e-handtekening maken voor alle e-mails verzonden van mijn bedrijf: [Create organisatiebrede handtekeningen en disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span><span class="sxs-lookup"><span data-stu-id="ae5c0-107">I want to create a global email signature for all emails sent from my company: [Create organization-wide signatures and disclaimers in Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)</span></span>
     
- <span data-ttu-id="0b564-108">**Tip:** Handtekeningen voor de gehele organisatie worden aangeduid als 'afwijzingen'.</span><span class="sxs-lookup"><span data-stu-id="0b564-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span> 
+ <span data-ttu-id="ae5c0-108">**Tip:** Handtekeningen voor de gehele organisatie worden aangeduid als 'afwijzingen'.</span><span class="sxs-lookup"><span data-stu-id="ae5c0-108">**Tip:** Organization-wide signatures are referred to as "disclaimers."</span></span> 
   
 
