@@ -1,5 +1,5 @@
 ---
-title: SharePoint-bestanden synchroniseren met de nieuwe OneDrive synchronisatie-client
+title: SharePoint-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469018"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755041"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint-bestanden synchroniseren met de nieuwe OneDrive synchronisatie-client
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient
 
-1. Selecteer **Instellingen**in het klassieke SharePoint admin center.
+1. Selecteer **instellingen** in het klassieke SharePoint-beheercentrum.
     
-2. Zorg ervoor dat 'OneDrive Sync knop' is ingesteld op 'De knop synchronisatie weergeven'.
+2. Controleer of Synchronisatieknop voor OneDrive is ingesteld op De knop Synchroniseren weergeven. 
     
-3. Selecteer voor "Sync Client voor SharePoint," **Start de nieuwe client**.
+3. Selecteer bij Synchronisatieclient voor SharePoint de optie **De nieuwe client starten**.
     
     > [!NOTE]
-    > Als deze optie niet wordt weergegeven, wordt uw organisatie al SharePoint-bestanden synchroniseren met de nieuwe OneDrive sync client instellen. 
+    > Als deze optie niet wordt weergegeven, is de organisatie al toegerust om de nieuwe OneDrive-synchronisatieclient te gebruiken om SharePoint-bestanden te synchroniseren. 
   
 4. Klik op **OK**.
     
-Zie voor meer info, [zodat gebruikers kunnen SharePoint-bestanden met de nieuwe OneDrive sync client synchroniseren](https://go.microsoft.com/fwlink/?linkid=866433). Zie voor instructies te geven aan uw gebruikers [bestanden SharePoint synchroniseren met de nieuwe OneDrive synchronisatie-client](https://go.microsoft.com/fwlink/?linkid=866427).
+Zie [Toestaan dat gebruikers SharePoint-bestanden kunnen synchroniseren met de nieuwe OneDrive-synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=866433) voor meer informatie. Zie [SharePoint-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=866427) voor instructies voor de gebruikers.
   
 

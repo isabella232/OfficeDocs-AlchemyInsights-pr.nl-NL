@@ -1,5 +1,5 @@
 ---
-title: Hoe voeg ik een creditcard?
+title: Hoe voeg ik een creditcard toe?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404598"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762851"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Hoe voeg ik een creditcard?
+# <a name="how-do-i-add-a-credit-card"></a>Hoe voeg ik een creditcard toe?
 
 1. Ga in het beheercentrum naar de pagina [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **Abonnementen**.
     
