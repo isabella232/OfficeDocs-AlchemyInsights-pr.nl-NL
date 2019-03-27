@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911227"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766343"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
@@ -24,8 +24,8 @@ ms.locfileid: "29911227"
   
 Meestal duurt het slechts een paar minuten om te zien de nieuwe record, maar af en toe kunt uitvoeren zolang een paar uur. 
   
-- Als u die al lang hebt gewacht, Controleer dat u hebt gekopieerd en geplakt van de exacte waarde in de TXT-record voor verificatie op uw DNS-host. Een veelvoorkomend probleem is met uitzondering van de ' MS = "deel uitmaken van de record. Moeten we die te!
+- Als u die al lang hebt gewacht, Controleer dat u hebt gekopieerd en geplakt van de exacte waarde in de TXT-record voor verificatie op uw DNS-host. Een veelvoorkomende fout is dat het gedeelte 'MS=' van de record niet mee is gekopieerd. Maar dat hebben we ook nodig!
     
-- Sommige DNS-hosts hebt u een extra stap om op te slaan (waar de DNS-record wordt opgeslagen) bestand uitvoeren dat via Internet wordt bijgewerkt. Zorg ervoor dat u uw wijzigingen hebt opgeslagen, zodat Office 365 kunt bekijken en controleren of de record.
+- Bij sommige DNS-hosts moet u een extra stap nemen om het zonebestand (waarin de DNS-record wordt opgeslagen) op te slaan zodat dit overal op internet wordt bijgewerkt. Controleer of u de wijzigingen hebt opgeslagen zodat Office 365 de record kan waarnemen en controleren.
     
 

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922891"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767423"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Het toevoegen of licenties te verminderen
 
@@ -45,6 +45,6 @@ Hier is hoe te verwijderen of meer licenties aan te schaffen.
     
 - [Office 365 voor Bedrijven opzeggen](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
-- [Nog een abonnement op Office 365 voor Bedrijven nemen](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Een ander Office 365 voor Bedrijven-abonnement kopen](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
     
 

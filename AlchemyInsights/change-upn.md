@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208436"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767027"
 ---
 # <a name="change-a-users-email-address"></a>Het e-mailadres van een gebruiker wijzigen
 
@@ -30,11 +30,11 @@ Als u een e-mailadres wijzigt, is heel eenvoudig! Volg deze stappen:
     
 4. Typ een nieuw e-mailadres in het vak **Alias** vervolgens kiest u **toevoegen**.
     
-    **Belangrijk**: als u het foutbericht ' **een parameter kan niet worden gevonden die overeenkomt met de parameternaam ' EmailAddresses**' betekent dat het duurt een beetje langer voor Office 365 voor het instellen van de huurder of uw aangepaste domein voltooien als u een onlangs toegevoegd . De installatie kan tot 4 uur duren. Wacht even, zodat het setup-proces te voltooien, en probeer het opnieuw. Als het probleem blijft bestaan, Support bellen en ze een volledige synchronisatie wordt uitgevoerd.
+    **BELANGRIJK**: als het foutbericht **Een parameter die overeenkomt met de parameternaam 'EmailAddresses' kan niet worden gevonden** wordt weergegeven, betekent dit dat Office 365 nog wat tijd nodig heeft om uw tenant of uw aangepaste domein in te stellen, als u er onlangs een hebt toegevoegd. Het instellen kan 4 uur duren. Wacht even, zodat de instellingsprocedure kan worden voltooid en probeer het vervolgens opnieuw. Als het probleem aanhoudt, bel dan de Ondersteuning; zij voeren dan een volledige synchronisatie voor u uit.
     
     Als u het foutbericht ' **Helaas, dat de gebruiker kan niet worden bewerkt. Lees de gebruikersinformatie en probeer het opnieuw**"betekent dit dat u niet een algemene admin Office 365 en u hebt geen machtigingen voor het wijzigen van de naam van de gebruiker.
     
-5. Kies **instellen als primaire** voor het e-mailadres dat u wilt instellen als het primaire e-mailadres van die persoon. Als u uw abonnement hebt aangeschaft bij GoDaddy, moet u aanmelden bij de beheerconsole van het primaire e-mailadres instellen. 
+5. Kies **Instellen als primair** voor het e-mailadres dat u wilt instellen als het primaire e-mailadres voor die persoon. Als u uw abonnement hebt aangeschaft bij GoDaddy, moet u aanmelden bij de beheerconsole van het primaire e-mailadres instellen. 
     
 6. Kies **Opslaan**, **sluiten**, en u bent klaar!
     

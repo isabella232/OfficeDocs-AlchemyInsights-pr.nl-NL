@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208004"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767315"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Maken of een e-mailalias voor een gebruiker toevoegen
 
@@ -28,7 +28,7 @@ Nodig voor het maken van een e-mailalias voor een gebruiker of een extra e-maila
     
 3. Kies rechts in de rij **Gebruikersnaam/E-mailaliassen** de optie **Bewerken**.
     
-4. Typ een nieuw e-mailadres in het vak **Alias** vervolgens kiest u **toevoegen**. Als u uw abonnement hebt aangeschaft bij GoDaddy of een andere Partner, de nieuwe alias instellen als de primaire, moet u gaan naar de GoDaddy/partner management-console. 
+4. Typ een nieuw e-mailadres in het vak **Alias** vervolgens kiest u **toevoegen**. Als u uw abonnement bij GoDaddy of een andere partner hebt aangeschaft, moet u naar de beheerconsole van GoDaddy of de andere partner gaan om de nieuwe alias als het primaire e-mailadres in te stellen. 
     
     **BELANGRIJK**: als het foutbericht **Een parameter die overeenkomt met de parameternaam 'EmailAddresses' kan niet worden gevonden** wordt weergegeven, betekent dit dat Office 365 nog wat tijd nodig heeft om uw tenant of uw aangepaste domein in te stellen, als u er onlangs een hebt toegevoegd. Het instellen kan 4 uur duren. Wacht even, zodat de instellingsprocedure kan worden voltooid en probeer het vervolgens opnieuw. Als het probleem aanhoudt, bel dan de Ondersteuning; zij voeren dan een volledige synchronisatie voor u uit.
     
