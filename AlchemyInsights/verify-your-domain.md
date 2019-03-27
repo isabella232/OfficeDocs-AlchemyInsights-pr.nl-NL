@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911227"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766343"
 ---
-# <a name="verify-your-domain"></a><span data-ttu-id="2daf6-102">Verify your domain</span><span class="sxs-lookup"><span data-stu-id="2daf6-102">Verify your domain</span></span>
+# <a name="verify-your-domain"></a><span data-ttu-id="60344-102">Verify your domain</span><span class="sxs-lookup"><span data-stu-id="60344-102">Verify your domain</span></span>
 
- <span data-ttu-id="2daf6-103">**De waarschijnlijk nog niet bijgewerkt via het Internet.**</span><span class="sxs-lookup"><span data-stu-id="2daf6-103">**The record probably hasn't updated across the Internet.**</span></span>
+ <span data-ttu-id="60344-103">**De waarschijnlijk nog niet bijgewerkt via het Internet.**</span><span class="sxs-lookup"><span data-stu-id="60344-103">**The record probably hasn't updated across the Internet.**</span></span>
   
-<span data-ttu-id="2daf6-104">Meestal duurt het slechts een paar minuten om te zien de nieuwe record, maar af en toe kunt uitvoeren zolang een paar uur.</span><span class="sxs-lookup"><span data-stu-id="2daf6-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
+<span data-ttu-id="60344-104">Meestal duurt het slechts een paar minuten om te zien de nieuwe record, maar af en toe kunt uitvoeren zolang een paar uur.</span><span class="sxs-lookup"><span data-stu-id="60344-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
   
-- <span data-ttu-id="2daf6-p101">Als u die al lang hebt gewacht, Controleer dat u hebt gekopieerd en geplakt van de exacte waarde in de TXT-record voor verificatie op uw DNS-host. Een veelvoorkomend probleem is met uitzondering van de ' MS = "deel uitmaken van de record. Moeten we die te!</span><span class="sxs-lookup"><span data-stu-id="2daf6-p101">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host. One common issue is not including the "MS=" part of the record. We need that too!</span></span>
+- <span data-ttu-id="60344-105">Als u die al lang hebt gewacht, Controleer dat u hebt gekopieerd en geplakt van de exacte waarde in de TXT-record voor verificatie op uw DNS-host.</span><span class="sxs-lookup"><span data-stu-id="60344-105">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host.</span></span> <span data-ttu-id="60344-106">Een veelvoorkomende fout is dat het gedeelte 'MS=' van de record niet mee is gekopieerd.</span><span class="sxs-lookup"><span data-stu-id="60344-106">One common issue is not including the "MS=" part of the record.</span></span> <span data-ttu-id="60344-107">Maar dat hebben we ook nodig!</span><span class="sxs-lookup"><span data-stu-id="60344-107">We need that too!</span></span>
     
-- <span data-ttu-id="2daf6-p102">Sommige DNS-hosts hebt u een extra stap om op te slaan (waar de DNS-record wordt opgeslagen) bestand uitvoeren dat via Internet wordt bijgewerkt. Zorg ervoor dat u uw wijzigingen hebt opgeslagen, zodat Office 365 kunt bekijken en controleren of de record.</span><span class="sxs-lookup"><span data-stu-id="2daf6-p102">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet. Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
+- <span data-ttu-id="60344-108">Bij sommige DNS-hosts moet u een extra stap nemen om het zonebestand (waarin de DNS-record wordt opgeslagen) op te slaan zodat dit overal op internet wordt bijgewerkt.</span><span class="sxs-lookup"><span data-stu-id="60344-108">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet.</span></span> <span data-ttu-id="60344-109">Controleer of u de wijzigingen hebt opgeslagen zodat Office 365 de record kan waarnemen en controleren.</span><span class="sxs-lookup"><span data-stu-id="60344-109">Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
     
 
