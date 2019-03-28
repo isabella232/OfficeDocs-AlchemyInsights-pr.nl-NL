@@ -1,5 +1,5 @@
 ---
-title: Afzender is geblokkeerd voor het verzenden van te veel spam
+title: Afzender geblokkeerd vanwege het verzenden van te veel spam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405282"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767495"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Account is geblokkeerd voor het verzenden van te veel spam
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>Account geblokkeerd vanwege het verzenden van te veel spam
 
-De verzendende rekening kan worden gekraakt. U moet:
+Het verzendende account is mogelijk gehackt. U dient het volgende te doen:
   
-1. [Bepalen als de account is niet meer veilig](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Als het gevaar loopt, volgt u de stappen voor het [reageren op een beschadigd e-mailaccount in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Bepaal of het account is gehackt.](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Als het gehackt is, volgt u de stappen onder [Hoe te handelen bij een gehackt e-mailaccount in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
     
-2. Ga naar gebruikers met beperkte toegang tot **[de blokkering](https://protection.office.com/?hash=/restrictedusers)** in beveiliging &amp; conformiteit. Zodra u klaar bent, moet u kunnen doorgaan met het verzenden van berichten *binnen 1 uur* . 
+2. Ga naar Beperkte gebruikers om **[het account te deblokkeren](https://protection.office.com/?hash=/restrictedusers)** in het Security&amp; Compliance Center. Het gekraakte account zou *binnen een uur* weer berichten moeten kunnen verzenden. 
     
-3. Volg de aanbevelingen in [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx) om het kraken van accounts in de toekomst te helpen voorkomen.
+3. Volg de aanbevelingen in [Aanbevolen beveiligingsprocedures voor Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx) om te voorkomen dat accounts in de toekomst worden gehackt.
   
 
