@@ -8,24 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936275"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747485"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Extern delen met een teamsite
 
 Als u externe gebruikers delen voor Team Sites, als volgt te werk: 
   
-1. Open het **Modern Admin Center** - bent u in de klassieke Admin Center u ziet een knop **Probeer het nu** of **de voorvertoning** van boven rechts. Hiermee gaat u naar het moderne Admin Center. 
+1. In het nieuwe SharePoint admin center, klikt u op **actieve Sites**.
   
-2. Selecteer **actieve Sites**. 
+2. Selecteer een site met een sjabloon **Team Site** . 
   
-3. Selecteer een site met een sjabloon **Team Site** . 
-  
-4. Selecteer de knop **delen** in het bovenste menu. 
+3. Selecteer de knop **delen** in het bovenste menu. 
   
  **Opmerking**: standaard, als een moderne Team Site wordt gemaakt, de externe optie delen wordt ingesteld op nieuwe en bestaande externe gebruikers. 
   

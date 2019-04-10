@@ -167,7 +167,7 @@
 | 22-3/2019 | [8000015 blokkeren of de blokkering opheffen van afzenders](/AlchemyInsights/block-or-unblock-senders) | gewijzigd |
 | 22-3/2019 | [726 blokkeren e-mail doorsturen](/AlchemyInsights/blocking-email-forwarding) | gewijzigd |
 | 22-3/2019 | [763 Exchange Online PowerShell blokkeren van toegang voor gebruikers](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | gewijzigd |
-| 22-3/2019 | [Een abonnement voor Office 365 voor Bedrijven kopen vanuit uw gratis proefversie](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | gewijzigd |
+| 22-3/2019 | [Een abonnement op Office 365 voor Bedrijven nemen vanuit uw gratis proefabonnement](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | gewijzigd |
 | 22-3/2019 | [Extra licenties kopen](/AlchemyInsights/buy-additional-licenses) | gewijzigd |
 | 22-3/2019 | [608 agendagegevens op hybride instellingen](/AlchemyInsights/calendar-information-on-hybrid-setups) | gewijzigd |
 | 22-3/2019 | [613 agenda publiceren van informatie](/AlchemyInsights/calendar-publishing-information) | gewijzigd |
@@ -347,7 +347,7 @@
 | 22-3/2019 | [606 informatie over overdracht](/AlchemyInsights/information-on-delegation) | gewijzigd |
 | 22-3/2019 | [609 informatie over het importeren en exporteren van agenda 's](/AlchemyInsights/information-on-importing-and-exporting-calendars) | gewijzigd |
 | 22-3/2019 | [Installeren van Office 2013 melding](/AlchemyInsights/install-office-2013-notification) | gewijzigd |
-| 22-3/2019 | [Installeren van Skype voor bedrijven](/AlchemyInsights/install-skype-for-business) | gewijzigd |
+| 22-3/2019 | [Skype voor Bedrijven installeren](/AlchemyInsights/install-skype-for-business) | gewijzigd |
 | 22-3/2019 | [Ongeldige bestandsnamen in OneDrive](/AlchemyInsights/invalid-file-names-in-onedrive) | gewijzigd |
 | 22-3/2019 | [1264 IP is geblokkeerd voor het verzenden van te veel spam (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | gewijzigd |
 | 22-3/2019 | [322 problemen wanneer een gebruiker heeft problemen met verzenden](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | gewijzigd |
@@ -370,7 +370,7 @@
 | 22-3/2019 | [Mijn factuur en betalingen beheren](/AlchemyInsights/manage-my-bill-and-payments) | gewijzigd |
 | 22-3/2019 | [Mijn factuur beheren](/AlchemyInsights/manage-my-bill) | gewijzigd |
 | 22-3/2019 | [Gesynchroniseerde gebruikersaccounts beheren](/AlchemyInsights/manage-synchronized-user-accounts) | gewijzigd |
-| 22-3/2019 | [Die kunt maken van Office 365 groepen beheren](/AlchemyInsights/manage-who-can-create-office-365-groups) | gewijzigd |
+| 22-3/2019 | [Beheren wie Office 365-groepen kunnen maken](/AlchemyInsights/manage-who-can-create-office-365-groups) | gewijzigd |
 | 22-3/2019 | [De SharePoint- of OneDrive opslag beheren](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | gewijzigd |
 | 22-3/2019 | [Een SharePoint-bibliotheek verbinden met een netwerkstation](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | gewijzigd |
 | 22-3/2019 | [SharePoint-bibliotheek verbinden met netwerkstation](/AlchemyInsights/map-sharepoint-library-to-network-drive) | gewijzigd |
@@ -484,55 +484,23 @@
 | 28-3/2019 | [SharePoint Online beperken tot de klassieke modus](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | gewijzigd |
 
 
-## <a name="week-of-february-25-2019"></a>Week van 25 februari 2019
+## <a name="week-of-april-01-2019"></a>Week van 01 April 2019
 
 
 | Gepubliceerd op |Onderwerptitel | Wijzigen |
 |------|------------|--------|
-| 25-2/2019 | [1800014 ondersteuning-app voor de mobiele app van Outlook](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | gewijzigd |
-| 25-2/2019 | [1800014 set van e-mailberichten in de mobiele app van Outlook](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | gewijzigd |
-| 25-2/2019 | [8000001 gericht Postvak uitschakelen](/AlchemyInsights/8000001-turn-off-focused-inbox) | gewijzigd |
-| 25-2/2019 | [8000009 maken een map in Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000012 verwijdert een contactpersoon in Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000013 lettertype wijzigen in Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000014 het wijzigen van de taal in Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000015 blokkeren of de blokkering opheffen van afzenders](/AlchemyInsights/8000015-block-or-unblock-senders) | gewijzigd |
-| 25-2/2019 | [8000015 ontvangen van e-mail van geblokkeerde afzenders in Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000029 omgaan met phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000029 omgaan met spam in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000029 Omgaan met spam of phishing in Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000033 het beantwoorden en doorsturen van berichten in de bètaversie van Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | gewijzigd |
-| 25-2/2019 | [8000034 leesbevestigingen in Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000036 wijzigen uw e-mailnaam in Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000046 afdrukken, e-mail en agenda's in Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000047 het maken van een e-mailhandtekening in Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000052 bestanden bijvoegen in Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | gewijzigd |
-| 25-2/2019 | [8000059 het thema actie (FMS) wijzigen](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | gewijzigd |
-| 25-2/2019 | [Aanbevolen stappen te nemen als een account is niet meer veilig](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | gewijzigd |
-| 26-2/2019 | [Een verwijderde Office 365 groep herstellen](/AlchemyInsights/restore-a-deleted-office-365-group) | gewijzigd |
-| 26-2/2019 | [9000215 Outlook.com-abonnementen](/AlchemyInsights/9000215-outlook-com-subscriptions) | toegevoegd |
-| 27-2/2019 | [9000199 PST-bestanden in Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | toegevoegd |
-| 27-2/2019 | [Opties voor 9000202 Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | toegevoegd |
-| 27-2/2019 | [9000203 Outlook.com Filters](/AlchemyInsights/9000203-outlook-com-filters) | toegevoegd |
-| 28-2/2019 | [8000036 profiel pic/naam wijzigen in Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | toegevoegd |
-| 28-2/2019 | [8000049 Skype-pictogram ontbreekt in Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | toegevoegd |
-| 28-2/2019 | [8000088 opslaan van e-mailberichten in Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | toegevoegd |
-| 28-2/2019 | [9000071 Typ kan geen @-symbool op de Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | toegevoegd |
-| 28-2/2019 | [9000193 verplaatsen ongedaan maken of verwijderen in Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | toegevoegd |
-| 28-2/2019 | [9000198 Outlook.com Agenda Bèta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | toegevoegd |
-| 1-3/2019 | [8000035 vragen terug te draaien van Outlook.com bèta naar klassieke Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | toegevoegd |
-| 1-3/2019 | [8000035 het maken van het nieuwe uiterlijk van Outlook.com als de oude](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | toegevoegd |
-| 1-3/2019 | [8000043 POP, IMAP en SMTP-instellingen voor Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | toegevoegd |
-| 1-3/2019 | [Alle 8000090 Outlook.com-select](/AlchemyInsights/8000090-outlook-com-select-all) | toegevoegd |
-| 1-3/2019 | [8000091 Outlook.com reageren pop up](/AlchemyInsights/8000091-outlook-com-react-pop-up) | toegevoegd |
-| 1-3/2019 | [Bron 8000092 Outlook.com weergave van bericht](/AlchemyInsights/8000092-outlook-com-view-message-source) | toegevoegd |
-| 1-3/2019 | [8000093 Outlook.com verbonden machtigingen van de account](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | toegevoegd |
-| 1-3/2019 | [1800009Outlook voor Mac-app ondersteuning](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | gewijzigd |
-| 1-3/2019 | [8000057 veilige koppelingen in Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | gewijzigd |
-| 1-3/2019 | [9000232 Outlook.com-adresboek](/AlchemyInsights/9000232-outlook-com-address-book) | toegevoegd |
-| 1-3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | toegevoegd |
-| 1-3/2019 | [9000234 Outlook.com interne serverfout](/AlchemyInsights/9000234-outlook-com-internal-server-error) | toegevoegd |
-| 1-3/2019 | [9000236 Outlook.com-account toevoegen](/AlchemyInsights/9000236-outlook-com-add-account) | toegevoegd |
-| 1-3/2019 | [9000238 Outlook.com alias toevoegen](/AlchemyInsights/9000238-outlook-com-add-alias) | toegevoegd |
-| 1-3/2019 | [9000239 Outlook.com doorsturen](/AlchemyInsights/9000239-outlook-com-forwarding) | toegevoegd |
-| 1-3/2019 | [Antwoorden op 9000240 Outlook.com](/AlchemyInsights/9000240-outlook-com-replies) | toegevoegd |
+| 1-4/2019 | [Office 365 ATP inschakelen voor SharePoint en OneDrive Microsoft-Teams](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | toegevoegd |
+| 1-4/2019 | [Setup voor Office 365-geavanceerde bedreiging (ATB)](/AlchemyInsights/office-365-atp-setup) | toegevoegd |
+| 1-4/2019 | [9000071 Typ kan geen @-symbool op de Mac](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | gewijzigd |
+| 1-4/2019 | [Een Office 365-groep herstellen met het Exchange-beheercentrum](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | gewijzigd |
+| 1-4/2019 | [Problemen oplossen met Office 365 Advanced Threat Protection (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | toegevoegd |
+| 2-4/2019 | Classificatie van labels in Office 365 | toegevoegd |
+| 2-4/2019 | Overzicht van gegevens verlies te voorkomen (DLP) | toegevoegd |
+| 2-4/2019 | Desktop app voor SharePoint | toegevoegd |
+| 2-4/2019 | Hub site-grenzen en beperkingen | toegevoegd |
+| 2-4/2019 | OneDrive: Er ontbreken bestanden of mappen | toegevoegd |
+| 2-4/2019 | Site of lijst opslaan als een sjabloon | toegevoegd |
+| 2-4/2019 | SharePoint-hub sites-overzicht | toegevoegd |
+| 2-4/2019 | Site en inhoud structuur verwijderd | toegevoegd |
+| 2-4/2019 | Problemen oplossen met fout-404 bestand niet gevonden | toegevoegd |
+| 3-4/2019 | [Foutcode: 550 5.7.705 toegang geweigerd, de huurder de drempel heeft overschreden](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | gewijzigd |

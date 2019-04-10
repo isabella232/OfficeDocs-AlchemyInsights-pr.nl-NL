@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941755"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747845"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Delen van een bestand of map in de SharePoint- of OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941755"
   - **Bepaalde personen** hebben toegang alleen voor de mensen die u opgeeft, hoewel anderen mogelijk al toegang hebben. Als mensen de uitnodiging sturen, niet alleen mensen die al toegang tot het artikel hebben kunt u op de koppeling. 
     
     > [!NOTE]
-    > Als een van deze opties niet beschikbaar is of als u wilt dat verschillende koppelingstype standaard wordt weergegeven, kunt u uw hele organisatie-instellingen naar het klassieke SharePoint admin center te gaan en te klikken op **delen** in het linkerdeelvenster. [Meer informatie](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Als een van deze opties niet beschikbaar is of als u wilt dat verschillende koppelingstype standaard wordt weergegeven, kunt u uw hele organisatie-instellingen naar de nieuwe SharePoint-admin center te gaan en te klikken op **delen** in het linkerdeelvenster. [Meer informatie](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. **Bewerken toestaan** is standaard ingeschakeld. Schakel het selectievakje in als u wilt dat gebruikers alleen de bestanden te bekijken. 
     
