@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ce2ee427887ac51dfbbcbc7b7d9e511cab7e3da7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788502"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903551"
 ---
 # <a name="block-or-unblock-senders"></a>Blokkeren of de blokkering opheffen van afzenders
 
 Een e-mailadres of domein toevoegen aan uw lijst met geblokkeerde afzenders deze berichten rechtstreeks naar de map Ongewenste E-mail verplaatst. E-mail wordt automatisch verwijderd uit de map Ongewenste E-mail na 14 dagen en kan niet worden hersteld.
   
-1. Ga naar **Instellingen** \> **volledige weergave-instellingen**. 
+1. Ga naar **Instellingen** \> **alle Outlook-instellingen weergeven**. 
     
-2. Selecteer **E-mail** \> **voor ongewenste e-mail**. 
+2. Selecteer [ **e** \> **voor ongewenste e-mailadres**](https://outlook.live.com/mail/options/mail/junkEmail). 
     
 3. Als u wilt een afzender wilt blokkeren, voer het e-mailadres of domein dat u wilt blokkeren en selecteer **toevoegen**. 
     

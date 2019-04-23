@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900787"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869590"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP-beleid Tip problemen
 
 Bij het gebruik van **de DLP-beleid**, kunnen gebruikers van een overtreding van het beleid met **tips voor beleid**worden gewaarschuwd. Beheerders kunnen tips beleid weer te geven tijdens het testen van hun DLP-beleid of het beleid is in de modus voor volledige uitvoering configureren. 
   
-Beleid configureren tips voor uw DLP-beleid in het midden van beveiliging en naleving in de modus voor volledige uitvoering als volgt:
+Tips voor uw DLP-beleid beleid configureren in het midden van beveiliging en naleving in de modus voor volledige uitvoering, het volgende doen:
   
 - Tips voor Groepsbeleid zijn **ingeschakeld** op de DLP-regel met behulp van de stappen zorgen [hier](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
