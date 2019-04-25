@@ -17,11 +17,11 @@ search.appverid:
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
 ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: c2070de81172fe627f489adf391f3c4bed222c4d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379420"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403670"
 ---
 # <a name="enable-multi-factor-authentication"></a>Meerledige verificatie inschakelen
 
@@ -33,7 +33,7 @@ ms.locfileid: "30379420"
     
 4. Schakel het selectievakje in naast de gebruikers die u wilt inschakelen.
     
-5.  In het Informatiedeelvenster rechts gebruiker onder **Snelle stappen** u ziet inschakelen en beheren van gebruikersinstellingen. Kies de optie **inschakelen**. 
+5.  In het Informatiedeelvenster rechts gebruiker onder **Snelle stappen** u ziet inschakelen en beheren van gebruikersinstellingen. Kies **Inschakelen**. 
     
 6. In het dialoogvenster dat wordt geopend, **klikt u op meerledige verificatie inschakelen**. 
     
