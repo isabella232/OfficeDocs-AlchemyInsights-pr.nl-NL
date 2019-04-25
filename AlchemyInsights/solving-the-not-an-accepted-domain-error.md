@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
 ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404490"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374211"
 ---
 # <a name="got-a-parameter-cannot-be-found-error"></a>Heb je een fout 'Parameter kan niet worden gevonden'?
 
 Als u het foutbericht **"een parameter kan niet worden gevonden die overeenkomt met de parameternaam ' EmailAddresses '**, betekent dit dat het duurt een beetje langer voor Office 365 voor het instellen van de huurder of uw aangepaste domein voltooien als u een onlangs toegevoegd. 
   
-De installatie kan tot 4 uur duren. Wacht even, zodat u de instelling tijd heeft om te voltooien en probeer het opnieuw.
+Het instellen kan 4 uur duren. Wacht even, zodat de instellingsprocedure kan worden voltooid en probeer het vervolgens opnieuw.
   
 

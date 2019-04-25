@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935596"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405619"
 ---
 # <a name="delete-a-sharepoint-site"></a>Een SharePoint-site verwijderen
 **Het nieuwe admin center voor SharePoint-sites verwijderen** U kunt met behulp van de nieuwe SharePoint-admin center classic en modern sites verwijderen. **Actieve sites**selecteren, selecteer de site en selecteer vervolgens **verwijderen**. [Weergave maken en terugzetten van sites in de nieuwe SharePoint-admin center verwijderd](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecteert u **sites verwijderd**. Zie [een site in de nieuwe SharePoint-admin center verwijderen](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)voor meer informatie.
