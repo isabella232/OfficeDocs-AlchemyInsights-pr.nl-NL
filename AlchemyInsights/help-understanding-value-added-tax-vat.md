@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
 ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753349"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400306"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a><span data-ttu-id="fe213-102">Help begrip waarde (btw) belasting over de toegevoegde</span><span class="sxs-lookup"><span data-stu-id="fe213-102">Help understanding value added tax (VAT)</span></span>
+# <a name="help-understanding-value-added-tax-vat"></a><span data-ttu-id="38eca-102">Help begrip waarde (btw) belasting over de toegevoegde</span><span class="sxs-lookup"><span data-stu-id="38eca-102">Help understanding value added tax (VAT)</span></span>
 
-<span data-ttu-id="fe213-103">Als u in een land dat gewaardeerd btw (btw), zoals het Verenigd Koninkrijk wordt, Microsoft Invoicing de btw voor u berekend en het bedrag van toepassing is op uw facturen.</span><span class="sxs-lookup"><span data-stu-id="fe213-103">If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span>
+<span data-ttu-id="38eca-103">Als u in een land dat gewaardeerd btw (btw), zoals het Verenigd Koninkrijk wordt, Microsoft Invoicing de btw voor u berekend en het bedrag van toepassing is op uw facturen.</span><span class="sxs-lookup"><span data-stu-id="38eca-103">If you are in a country that uses valued added tax (VAT), such as the United Kingdom, Microsoft Invoicing calculates the VAT for you, and applies the amount to your invoices.</span></span>
   
-<span data-ttu-id="fe213-104">Omwille van de btw, moet u ook uw btw-nummer opgeven in de instellingen voor facturering.</span><span class="sxs-lookup"><span data-stu-id="fe213-104">For tax reasons, you must also specify your VAT registration number in the settings for Invoicing.</span></span>
+<span data-ttu-id="38eca-104">Omwille van de btw, moet u ook uw btw-nummer opgeven in de instellingen voor facturering.</span><span class="sxs-lookup"><span data-stu-id="38eca-104">For tax reasons, you must also specify your VAT registration number in the settings for Invoicing.</span></span>
   
-<span data-ttu-id="fe213-105">U kan toevoegen of verwijderen van de btw-tarieven, maar u kunt de standaard btw-tarief in de instellingen wijzigen.</span><span class="sxs-lookup"><span data-stu-id="fe213-105">You can't add or remove VAT rates, but you can change the default VAT rate in Settings.</span></span> <span data-ttu-id="fe213-106">Facturering gebruikt een service voor het valideren van btw-nummers, maar wordt aangeraden [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) gepubliceerd door de Europese Commissie te lezen.</span><span class="sxs-lookup"><span data-stu-id="fe213-106">By default, Invoicing uses a service to validate VAT registration numbers, but we recommend that you read [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span> <span data-ttu-id="fe213-107">Als u de service uitschakelt, moet u controleren of alle btw-nummers.</span><span class="sxs-lookup"><span data-stu-id="fe213-107">If you choose to disable the service, you must verify all VAT registration numbers.</span></span> 
+<span data-ttu-id="38eca-105">U kan toevoegen of verwijderen van de btw-tarieven, maar u kunt de standaard btw-tarief in de instellingen wijzigen.</span><span class="sxs-lookup"><span data-stu-id="38eca-105">You can't add or remove VAT rates, but you can change the default VAT rate in Settings.</span></span> <span data-ttu-id="38eca-106">Facturering gebruikt een service voor het valideren van btw-nummers, maar wordt aangeraden [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) gepubliceerd door de Europese Commissie te lezen.</span><span class="sxs-lookup"><span data-stu-id="38eca-106">By default, Invoicing uses a service to validate VAT registration numbers, but we recommend that you read [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) published by the European commission.</span></span> <span data-ttu-id="38eca-107">Als u de service uitschakelt, moet u controleren of alle btw-nummers.</span><span class="sxs-lookup"><span data-stu-id="38eca-107">If you choose to disable the service, you must verify all VAT registration numbers.</span></span> 
   
 

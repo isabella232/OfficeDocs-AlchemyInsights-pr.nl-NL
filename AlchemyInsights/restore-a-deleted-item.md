@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
 ms.openlocfilehash: 3571360e6d71120f904e29cf25301d4eeaaf52e7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760873"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422458"
 ---
-# <a name="restore-a-deleted-item"></a><span data-ttu-id="8c3a7-102">Een verwijderd item herstellen</span><span class="sxs-lookup"><span data-stu-id="8c3a7-102">Restore a deleted item</span></span>
+# <a name="restore-a-deleted-item"></a><span data-ttu-id="4d696-102">Een verwijderd item herstellen</span><span class="sxs-lookup"><span data-stu-id="4d696-102">Restore a deleted item</span></span>
 
-1. <span data-ttu-id="8c3a7-103">Ga naar de SharePoint-site of OneDrive.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-103">Go to the SharePoint site or OneDrive.</span></span>
+1. <span data-ttu-id="4d696-103">Ga naar de SharePoint-site of OneDrive.</span><span class="sxs-lookup"><span data-stu-id="4d696-103">Go to the SharePoint site or OneDrive.</span></span>
     
-2. <span data-ttu-id="8c3a7-104">Klik in het linkerdeelvenster op **de Prullenbak** .</span><span class="sxs-lookup"><span data-stu-id="8c3a7-104">Click **Recycle bin** in the left pane.</span></span> <span data-ttu-id="8c3a7-105">Als er geen Prullenbak, klikt u op het pictogram en klik vervolgens op **Site-inhoud**.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-105">If you don't see Recycle bin, click the Settings icon, and then click **Site contents**.</span></span> <span data-ttu-id="8c3a7-106">De Prullenbak is aan de rechterkant van de werkbalk aan de bovenkant.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-106">The Recycle Bin is on the far right of the command bar at the top.</span></span>
+2. <span data-ttu-id="4d696-104">Klik in het linkerdeelvenster op **de Prullenbak** .</span><span class="sxs-lookup"><span data-stu-id="4d696-104">Click **Recycle bin** in the left pane.</span></span> <span data-ttu-id="4d696-105">Als er geen Prullenbak, klikt u op het pictogram en klik vervolgens op **Site-inhoud**.</span><span class="sxs-lookup"><span data-stu-id="4d696-105">If you don't see Recycle bin, click the Settings icon, and then click **Site contents**.</span></span> <span data-ttu-id="4d696-106">De Prullenbak is aan de rechterkant van de werkbalk aan de bovenkant.</span><span class="sxs-lookup"><span data-stu-id="4d696-106">The Recycle Bin is on the far right of the command bar at the top.</span></span>
     
-3. <span data-ttu-id="8c3a7-107">Klik links van de items die u wilt terugzetten.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-107">Click to the left of the items you want to restore.</span></span>
+3. <span data-ttu-id="4d696-107">Klik links van de items die u wilt terugzetten.</span><span class="sxs-lookup"><span data-stu-id="4d696-107">Click to the left of the items you want to restore.</span></span>
     
-4. <span data-ttu-id="8c3a7-108">Klik op **Terugzetten**.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-108">Click **Restore**.</span></span>
+4. <span data-ttu-id="4d696-108">Klik op **Terugzetten**.</span><span class="sxs-lookup"><span data-stu-id="4d696-108">Click **Restore**.</span></span>
     
-<span data-ttu-id="8c3a7-109">Verwijderde items worden bewaard voor 93 dagen.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-109">Deleted items are retained for 93 days.</span></span> <span data-ttu-id="8c3a7-110">Als u het gezochte item niet ziet, kan het zijn verwijderd uit deze Prullenbak en verplaatst naar de Prullenbak van de site.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-110">If you don't see the item you're looking for, it might have been deleted from this recycle bin and moved to the site collection recycle bin.</span></span> <span data-ttu-id="8c3a7-111">Als u wilt controleren, klik op de **Prullenbak van de tweede fase** aan de onderkant van de Prullenbak.</span><span class="sxs-lookup"><span data-stu-id="8c3a7-111">To check, click the **Second-stage recycle bin** link at the bottom of the recycle bin.</span></span> 
+<span data-ttu-id="4d696-109">Verwijderde items worden bewaard voor 93 dagen.</span><span class="sxs-lookup"><span data-stu-id="4d696-109">Deleted items are retained for 93 days.</span></span> <span data-ttu-id="4d696-110">Als u het gezochte item niet ziet, kan het zijn verwijderd uit deze Prullenbak en verplaatst naar de Prullenbak van de site.</span><span class="sxs-lookup"><span data-stu-id="4d696-110">If you don't see the item you're looking for, it might have been deleted from this recycle bin and moved to the site collection recycle bin.</span></span> <span data-ttu-id="4d696-111">Als u wilt controleren, klik op de **Prullenbak van de tweede fase** aan de onderkant van de Prullenbak.</span><span class="sxs-lookup"><span data-stu-id="4d696-111">To check, click the **Second-stage recycle bin** link at the bottom of the recycle bin.</span></span> 
   
 
