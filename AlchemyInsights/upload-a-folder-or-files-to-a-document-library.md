@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 32e3c4016f3c2ef5d6477e3593c4717802bd62b5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752953"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389459"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="17f2a-102">Een map of bestanden uploaden naar een SharePoint-documentbibliotheek</span><span class="sxs-lookup"><span data-stu-id="17f2a-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="ce985-102">Een map of bestanden uploaden naar een SharePoint-documentbibliotheek</span><span class="sxs-lookup"><span data-stu-id="ce985-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="17f2a-103">Uploaden van een map, moet u Microsoft Edge, Google Chrome of Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="17f2a-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="17f2a-104">U kunt mappen in de bibliotheek van klassieke ervaring of met Internet Explorer 10 of 11 kan niet uploaden.</span><span class="sxs-lookup"><span data-stu-id="17f2a-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="ce985-103">Uploaden van een map, moet u Microsoft Edge, Google Chrome of Mozilla FireFox.</span><span class="sxs-lookup"><span data-stu-id="ce985-103">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox.</span></span> <span data-ttu-id="ce985-104">U kunt mappen in de bibliotheek van klassieke ervaring of met Internet Explorer 10 of 11 kan niet uploaden.</span><span class="sxs-lookup"><span data-stu-id="ce985-104">You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="17f2a-105">Open de documentbibliotheek waar u een map of bestanden te uploaden.</span><span class="sxs-lookup"><span data-stu-id="17f2a-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="ce985-105">Open de documentbibliotheek waar u een map of bestanden te uploaden.</span><span class="sxs-lookup"><span data-stu-id="ce985-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="17f2a-106">Open File Explorer op uw computer en blader naar de map of de bestanden die u wilt uploaden.</span><span class="sxs-lookup"><span data-stu-id="17f2a-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="ce985-106">Open File Explorer op uw computer en blader naar de map of de bestanden die u wilt uploaden.</span><span class="sxs-lookup"><span data-stu-id="ce985-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="17f2a-107">Sleep de map of de bestanden in de documentbibliotheek.</span><span class="sxs-lookup"><span data-stu-id="17f2a-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="17f2a-108">Als u de items die u hebt geüpload niet ziet in de bibliotheek worden weergegeven, vernieuwt u de pagina.</span><span class="sxs-lookup"><span data-stu-id="17f2a-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="ce985-107">Sleep de map of de bestanden in de documentbibliotheek.</span><span class="sxs-lookup"><span data-stu-id="ce985-107">Drag the folder or files to the document library.</span></span> <span data-ttu-id="ce985-108">Als u de items die u hebt geüpload niet ziet in de bibliotheek worden weergegeven, vernieuwt u de pagina.</span><span class="sxs-lookup"><span data-stu-id="ce985-108">If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="17f2a-109">Als u niet uploaden door te slepen, items tussen windows wilt, kunt u de knop **uploaden** ook gebruiken in de documentbibliotheek om de map of bestanden die u wilt uploaden.</span><span class="sxs-lookup"><span data-stu-id="17f2a-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="ce985-109">Als u niet uploaden door te slepen, items tussen windows wilt, kunt u de knop **uploaden** ook gebruiken in de documentbibliotheek om de map of bestanden die u wilt uploaden.</span><span class="sxs-lookup"><span data-stu-id="ce985-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 
