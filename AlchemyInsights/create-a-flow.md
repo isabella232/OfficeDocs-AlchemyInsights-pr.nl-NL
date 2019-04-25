@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: 50dc376a86db07d80d7510671589be098e3d2391
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762347"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407315"
 ---
-# <a name="microsoft-flow"></a><span data-ttu-id="7d605-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="7d605-102">Microsoft Flow</span></span>
+# <a name="microsoft-flow"></a><span data-ttu-id="1eedd-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1eedd-102">Microsoft Flow</span></span>
 
-<span data-ttu-id="7d605-103">Microsoft Flow kunt u veelvoorkomende taken te automatiseren.</span><span class="sxs-lookup"><span data-stu-id="7d605-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="7d605-104">Het instellen van workflows voor lijsten en bibliotheken gebruiken.</span><span class="sxs-lookup"><span data-stu-id="7d605-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="7d605-105">Zie informatie over het toevoegen van een stroom aan een lijst of bibliotheek in SharePoint Online of OneDrive, [maken een stroom](https://go.microsoft.com/fwlink/?linkid=869408).</span><span class="sxs-lookup"><span data-stu-id="7d605-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
+<span data-ttu-id="1eedd-103">Microsoft Flow kunt u veelvoorkomende taken te automatiseren.</span><span class="sxs-lookup"><span data-stu-id="1eedd-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="1eedd-104">Het instellen van workflows voor lijsten en bibliotheken gebruiken.</span><span class="sxs-lookup"><span data-stu-id="1eedd-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="1eedd-105">Zie informatie over het toevoegen van een stroom aan een lijst of bibliotheek in SharePoint Online of OneDrive, [maken een stroom](https://go.microsoft.com/fwlink/?linkid=869408).</span><span class="sxs-lookup"><span data-stu-id="1eedd-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
   
-[<span data-ttu-id="7d605-106">Video's over Microsoft stroom</span><span class="sxs-lookup"><span data-stu-id="7d605-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
+[<span data-ttu-id="1eedd-106">Video's over Microsoft stroom</span><span class="sxs-lookup"><span data-stu-id="1eedd-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[<span data-ttu-id="7d605-107">Website Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="7d605-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
+[<span data-ttu-id="1eedd-107">Website Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="1eedd-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

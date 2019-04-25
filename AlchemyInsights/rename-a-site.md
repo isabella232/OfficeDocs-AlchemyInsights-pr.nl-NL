@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
 ms.openlocfilehash: ca0d8b3181ea06a4e1ce9877843ed0eb5196b334
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941035"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388392"
 ---
-# <a name="rename-a-site"></a><span data-ttu-id="4155c-102">De naam van een site wijzigen</span><span class="sxs-lookup"><span data-stu-id="4155c-102">Rename a site</span></span>
+# <a name="rename-a-site"></a><span data-ttu-id="af30b-102">De naam van een site wijzigen</span><span class="sxs-lookup"><span data-stu-id="af30b-102">Rename a site</span></span>
 
-<span data-ttu-id="4155c-p101">De naam van een site, bijvoorbeeld wijzigen van https://contoso.sharepoint.com/sites/sample1 te https://contoso.sharepoint.com/sites/sample2, moet u een nieuwe site maken en verplaats vervolgens alle inhoud van de oude naar de nieuwe. Zie voor informatie over het verplaatsen van items in documentbibliotheken, [verplaatsen of kopiëren van items uit een SharePoint-documentbibliotheek](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="4155c-p101">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one. For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
+<span data-ttu-id="af30b-103">De naam van een site, bijvoorbeeld wijzigen van https://contoso.sharepoint.com/sites/sample1 te https://contoso.sharepoint.com/sites/sample2, moet u een nieuwe site maken en verplaats vervolgens alle inhoud van de oude naar de nieuwe.</span><span class="sxs-lookup"><span data-stu-id="af30b-103">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one.</span></span> <span data-ttu-id="af30b-104">Zie voor informatie over het verplaatsen van items in documentbibliotheken, [verplaatsen of kopiëren van items uit een SharePoint-documentbibliotheek](https://go.microsoft.com/fwlink/?Linkid=2018691).</span><span class="sxs-lookup"><span data-stu-id="af30b-104">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
   
-<span data-ttu-id="4155c-p102">Opmerking: Als u probeert de naam van het domein (dat wil zeggen de contoso deel van de bovenstaande URL) in een SharePoint Online-URL wijzigen, dat is niet mogelijk. Zie [uw domeinen te wijzigen](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="4155c-p102">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible. See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
+<span data-ttu-id="af30b-105">Opmerking: Als u probeert de naam van het domein (dat wil zeggen de contoso deel van de bovenstaande URL) in een SharePoint Online-URL wijzigen, dat is niet mogelijk.</span><span class="sxs-lookup"><span data-stu-id="af30b-105">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible.</span></span> <span data-ttu-id="af30b-106">Zie [uw domeinen te wijzigen](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="af30b-106">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
   
 
