@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 763
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
 ms.openlocfilehash: 0923f9144a9bbc7c73c9b7d0c61d310fd1935ba1
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858775"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396565"
 ---
 Als beheerder hebt u de mogelijkheid voor het blokkeren van toegang tot Exchange Online PowerShell voor uw gebruikers. Zie de volgende onderwerpen voor meer informatie:
 
