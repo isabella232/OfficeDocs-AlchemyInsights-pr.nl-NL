@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Week van 11 maart 2019
-
-
-| Gepubliceerd op |Onderwerptitel | Wijzigen |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com postvak niet laden. | toegevoegd |
-| 3/12/2019 | [8000078 Outlook.com postvak niet laden.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | gewijzigd |
-| 3/12/2019 | [8000078 Outlook.com postvak niet laden.](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | gewijzigd |
-| 13-3/2019 | [E-mail omleiden via Office 365](/AlchemyInsights/relay-email-through-office-365) | gewijzigd |
-| 14-3/2019 | [hetzelfde als de bestandsnaam is de beste [regel #-beschrijving]](/AlchemyInsights/1-alchemy-insight-template) | gewijzigd |
-| 14-3/2019 | [Postbus vergroten](/AlchemyInsights/increase-mailbox-size) | gewijzigd |
-| 15-3/2019 | [Outlook Desktop intrekken of vervangen van een e-mailbericht](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | toegevoegd |
-
-
 ## <a name="week-of-march-18-2019"></a>Week van 18 maart 2019
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 AADConnect upgraden](/AlchemyInsights/upgrading-aadconnect) | gewijzigd |
 | 4/12/2019 | [725 via e-mailalias op mobiele telefoon](/AlchemyInsights/using-email-alias-on-mobile-device) | gewijzigd |
 | 4/12/2019 | [Winsock-fout 1554 10061](/AlchemyInsights/winsock-error-10061) | gewijzigd |
+
+
+## <a name="week-of-april-15-2019"></a>Week van 15 April 2019
+
+
+| Gepubliceerd op |Onderwerptitel | Wijzigen |
+|------|------------|--------|
+| 15-4/2019 | [Alchemy - opsporen en oplossen van problemen met Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | gewijzigd |
+| 15-4/2019 | [Alchemy - opnieuw maken van uw Outlook-profiel](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | gewijzigd |
+| 15-4/2019 | [DLP moet mogelijk een aangepast type](/AlchemyInsights/dlp-might-need-custom-type) | toegevoegd |
+| 15-4/2019 | [DLP, werken niet zoals verwacht](/AlchemyInsights/dlp-not-working-as-expected) | gewijzigd |
+| 15-4/2019 | [DLP-beleid Tips werkt niet](/AlchemyInsights/dlp-policy-tips-not-working) | gewijzigd |
+| 15-4/2019 | [Outlook.com Fout 550](/AlchemyInsights/outlook-com-error-550) | toegevoegd |
+| 15-4/2019 | [Outlook.com overschreden](/AlchemyInsights/outlook-com-over-quota) | toegevoegd |
+| 15-4/2019 | [Skype met Outlook.com verwijderen](/AlchemyInsights/outlook-com-remove-skype-rule-1) | toegevoegd |
+| 15-4/2019 | [Skype met Outlook.com verwijderen](/AlchemyInsights/outlook-com-remove-skype-rule-2) | toegevoegd |
+| 15-4/2019 | [Voer SaRA voor het vaststellen van 182 &amp; Outlook verificatieproblemen oplossen](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | gewijzigd |
+| 16-4/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | gewijzigd |
+| 16-4/2019 | [Skype met Outlook.com verwijderen](/AlchemyInsights/outlook-com-remove-skype-rule-1) | gewijzigd |
+| 16-4/2019 | [8000088 opslaan van e-mailberichten in Outlook.com](/AlchemyInsights/outlook-com-save-emails) | gewijzigd |
+| 16-4/2019 | [8000052 bestanden bijvoegen in Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | gewijzigd |
+| 16-4/2019 | [8000015 blokkeren of de blokkering opheffen van afzenders](/AlchemyInsights/block-or-unblock-senders) | gewijzigd |
+| 16-4/2019 | [8000014 het wijzigen van de taal in Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | gewijzigd |
+| 16-4/2019 | [8000059 hoe u uw lay-out wijzigen](/AlchemyInsights/how-to-change-your-layout) | gewijzigd |
+| 16-4/2019 | [8000033 het beantwoorden en doorsturen van berichten in de bètaversie van Outlook.com](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | gewijzigd |
+| 16-4/2019 | [8000055 hoe aan te melden voor- of Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | gewijzigd |
+| 16-4/2019 | [8000062 verplaatsen van een map in Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | gewijzigd |
+| 16-4/2019 | [Gevoeligheidslabels automatisch toepassen](/AlchemyInsights/auto-apply-sensitivity-labels) | toegevoegd |
+| 16-4/2019 | [Gevoeligheid etiketten verschijnt niet](/AlchemyInsights/sensitivity-labels-not-appearing) | toegevoegd |
+| 16-4/2019 | [Nieuwe inhouding labels automatisch gemaakt](/AlchemyInsights/new-retention-labels-created-automatically) | toegevoegd |
+| 16-4/2019 | [SharePoint en OneDrive controlelogboeken](/AlchemyInsights/classic-sharepoint-audit-log-reports) | toegevoegd |
+| 16-4/2019 | [Delete message gebeurtenissen in de controlelogboeken geïdentificeerd](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | toegevoegd |
+| 16-4/2019 | [Externe e-mail doorsturen op postvakken in de controlelogboeken geïdentificeerd](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | toegevoegd |
+| 16-4/2019 | [Postvak in regel activiteit in de controlelogboeken geïdentificeerd](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | toegevoegd |
+| 16-4/2019 | [IP-adres en de client in de controlelogboeken geïdentificeerd](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | toegevoegd |
+| 16-4/2019 | [Reparatie PST-bestand voordat u importeert](/AlchemyInsights/repair-pst-before-importing) | toegevoegd |
+| 16-4/2019 | [Klassieke SharePoint Controleverslagrapporten](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | toegevoegd |
+| 16-4/2019 | [Klassieke SharePoint Controleverslagrapporten](/AlchemyInsights/classic-sharepoint-audit-log-reports) | gewijzigd |
+| 16-4/2019 | [Externe e-mail doorsturen op postvakken in de controlelogboeken geïdentificeerd](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | gewijzigd |
+| 16-4/2019 | [Postvak in regel activiteit in de controlelogboeken geïdentificeerd](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | gewijzigd |
+| 16-4/2019 | [Klassieke SharePoint Controleverslagrapporten](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | gewijzigd |
+| 17-4/2019 | [E-mail levering problemen oplossen naar e-mailadres van openbare mappen](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | toegevoegd |
+| 17-4/2019 | [Teams ploegen](/AlchemyInsights/teams-shifts) | gewijzigd |
+| 18-4/2019 | [Verwijderde e-mailberichten in Outlook.com 8000011 herstellen](/AlchemyInsights/recover-deleted-email-in-outlook-com) | gewijzigd |
