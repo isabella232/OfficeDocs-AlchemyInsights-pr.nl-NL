@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761592"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396754"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="96644-102">Een abonnement op Office 365 kopen vanuit uw gratis proefversie</span><span class="sxs-lookup"><span data-stu-id="96644-102">Buy a subscription to Office 365 from your free trial</span></span>
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="8a722-102">Een abonnement op Office 365 kopen vanuit uw gratis proefversie</span><span class="sxs-lookup"><span data-stu-id="8a722-102">Buy a subscription to Office 365 from your free trial</span></span>
 
-<span data-ttu-id="96644-103">U hebt Office 365 uitgeprobeerd en u wilt het nu kopen.</span><span class="sxs-lookup"><span data-stu-id="96644-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="96644-104">Wanneer u Office 365 koopt vanuit de proefversie, hebt u twee opties.</span><span class="sxs-lookup"><span data-stu-id="96644-104">You have two options when buying Office 365 from your trial version.</span></span>
+<span data-ttu-id="8a722-103">U hebt Office 365 uitgeprobeerd en u wilt het nu kopen.</span><span class="sxs-lookup"><span data-stu-id="8a722-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="8a722-104">Wanneer u Office 365 koopt vanuit de proefversie, hebt u twee opties.</span><span class="sxs-lookup"><span data-stu-id="8a722-104">You have two options when buying Office 365 from your trial version.</span></span>
   
- <span data-ttu-id="96644-105">**U kunt hetzelfde als de evaluatieversie plan kopen**</span><span class="sxs-lookup"><span data-stu-id="96644-105">**You can buy the same plan as your trial**</span></span>
+ <span data-ttu-id="8a722-105">**U kunt hetzelfde als de evaluatieversie plan kopen**</span><span class="sxs-lookup"><span data-stu-id="8a722-105">**You can buy the same plan as your trial**</span></span>
   
-1. <span data-ttu-id="96644-106">Ga in het beheercentrum naar de pagina [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **Abonnementen**.</span><span class="sxs-lookup"><span data-stu-id="96644-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="8a722-106">Ga in het beheercentrum naar de pagina [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **Abonnementen**.</span><span class="sxs-lookup"><span data-stu-id="8a722-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="96644-107">**Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken.</span><span class="sxs-lookup"><span data-stu-id="96644-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
+2. <span data-ttu-id="8a722-107">**Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken.</span><span class="sxs-lookup"><span data-stu-id="8a722-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
     
-<span data-ttu-id="96644-108">of **u kunt een ander abonnement kopen**</span><span class="sxs-lookup"><span data-stu-id="96644-108">or **You can buy a different subscription**</span></span>
+<span data-ttu-id="8a722-108">of **u kunt een ander abonnement kopen**</span><span class="sxs-lookup"><span data-stu-id="8a722-108">or **You can buy a different subscription**</span></span>
   
-1. <span data-ttu-id="96644-109">Meld u aan bij Office 365 met uw werk- of schoolaccount als hoofdbeheerder. [Lees hier hoe u zich kunt aanmelden](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="96644-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
+1. <span data-ttu-id="8a722-109">Meld u aan bij Office 365 met uw werk- of schoolaccount als hoofdbeheerder. [Lees hier hoe u zich kunt aanmelden](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="8a722-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
     
-2. <span data-ttu-id="96644-110">Kies **Office 365** op de startpagina.</span><span class="sxs-lookup"><span data-stu-id="96644-110">Choose **Office 365** on the start page.</span></span> 
+2. <span data-ttu-id="8a722-110">Kies **Office 365** op de startpagina.</span><span class="sxs-lookup"><span data-stu-id="8a722-110">Choose **Office 365** on the start page.</span></span> 
     
-3. <span data-ttu-id="96644-111">Kies in de rechterbovenhoek van de pagina onder de navigatiebalk **aankoop**.</span><span class="sxs-lookup"><span data-stu-id="96644-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
+3. <span data-ttu-id="8a722-111">Kies in de rechterbovenhoek van de pagina onder de navigatiebalk **aankoop**.</span><span class="sxs-lookup"><span data-stu-id="8a722-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
     
-4. <span data-ttu-id="96644-112">Op de pagina **abonnementen aankoop** heeft het plan dat u probeert een spandoek **In evaluatieversie** .</span><span class="sxs-lookup"><span data-stu-id="96644-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span> 
+4. <span data-ttu-id="8a722-112">Op de pagina **abonnementen aankoop** heeft het plan dat u probeert een spandoek **In evaluatieversie** .</span><span class="sxs-lookup"><span data-stu-id="8a722-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span> 
     
-5. <span data-ttu-id="96644-113">**Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken.</span><span class="sxs-lookup"><span data-stu-id="96644-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
+5. <span data-ttu-id="8a722-113">**Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken.</span><span class="sxs-lookup"><span data-stu-id="8a722-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
     
 
