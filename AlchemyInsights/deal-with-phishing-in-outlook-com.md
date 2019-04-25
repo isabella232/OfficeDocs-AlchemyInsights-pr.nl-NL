@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773767"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406379"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Omgaan met phishing-praktijken in uw postvak in
 
@@ -28,10 +28,10 @@ Als u een e-mailbericht dat op een malafide e-mailbericht lijkt ontvangt, kunt u
     
 3. Selecteer de pijl naast **niet-ongewenste e-mail** en selecteer **Phishing**aan de bovenkant van de pagina. 
     
-Meer informatie over het [behandelen van misbruik, phishing, of spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Meer informatie over het [omgaan met misbruik, phishing of spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Als u een toename van spam ziet, te lezen hoe om [spam en ongewenste e-mail uit uw postvak in te houden](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Als u een toename van spam merkt, leest u hoe u [spam en ongewenste e-mail uit uw Postvak IN kunt houden](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
-E-mailadressen blokkeren, Ga naar **Instellingen** \> **Opties** \> **geblokkeerde afzenders**. Selecteer om de adressen of domeinen toevoegen aan uw lijst met veilige afzenders, **veilige afzenders**. 
+Als u e-mailadressen wilt blokkeren, gaat u naar **Instellingen** \> **Opties** \> **Geblokkeerde afzenders**. Als u adressen of domeinen aan uw lijst met veilige afzenders wilt toevoegen, selecteert u **Veilige afzenders**. 
   
 
