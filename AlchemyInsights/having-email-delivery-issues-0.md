@@ -1,5 +1,5 @@
 ---
-title: Heb je problemen met e-delivery?
+title: Hebt u problemen met het bezorgen van e-mail?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
 ms.openlocfilehash: aee07143064fbc29055a2f7999fc1dc7265d8cce
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404634"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400568"
 ---
-# <a name="having-email-delivery-issues"></a>Heb je problemen met e-delivery?
+# <a name="having-email-delivery-issues"></a>Hebt u problemen met het bezorgen van e-mail?
 
-We hebben vastgesteld dat uw gebruikers niet meer e-mails verzonden naar de volgende domeinen:
+We hebben ontdekt dat uw gebruikers geen e-mails kunnen ontvangen die naar de volgende domeinen zijn verstuurd:
   
 {HealthCheckString}
   
-De NS of MX-records van de domeininstellingen (DNS) niet goed zijn geconfigureerd voor de levering van e-mail met uw Office 365-service. U kunt verwijzen met het [bijwerken van DNS-records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) voor gedetailleerde instructies. 
+De NS- of MX-records van de DNS-instellingen zijn niet correct geconfigureerd voor het bezorgen van e-mail naar uw Office 365-service. Zie [DNS-records bijwerken in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) voor uitgebreide instructies. 
   
-Ga naar de pagina [domeinen](https://admin.microsoft.com/adminportal/home#/Domains) in het beheercentrum voor Microsoft 365 om dit te corrigeren, en wij helpen u met het. 
+Om dit op te lossen, gaat u naar de pagina [Domeinen](https://admin.microsoft.com/adminportal/home#/Domains) in het beheercentrum van Microsoft 365 en wij helpen u hiermee. 
   
-[De domeinen Veelgestelde vragen over](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) andere algemene oplossingen. 
+Zie [Veelgestelde vragen over domeinen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) voor andere veelgebruikte oplossingen. 
   
 

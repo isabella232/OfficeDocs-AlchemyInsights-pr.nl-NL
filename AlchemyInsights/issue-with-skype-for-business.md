@@ -1,5 +1,5 @@
 ---
-title: Probleem met Skype voor bedrijven?
+title: Probleem met Skype voor Bedrijven?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468442"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409901"
 ---
-# <a name="issue-with-skype-for-business"></a>Probleem met Skype voor bedrijven?
+# <a name="issue-with-skype-for-business"></a>Probleem met Skype voor Bedrijven?
 
-We hebben vastgesteld dat de volgende domeinen hebben problemen die Skype voor bedrijven mogelijk niet correct werkt:
+De volgende domeinen blijken problemen te hebben die kunnen verhinderen dat Skype voor Bedrijven correct werkt.
   
 {HealthCheckString}
   
-De NS, CNAME of SRV-records van het (DNS)-domeininstellingen zijn niet correct geconfigureerd voor Skype voor bedrijven. U kunt verwijzen met het [bijwerken van DNS-records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) voor gedetailleerde instructies. 
+De NS-, CNAME- of SRV-records van de DNS-instellingen zijn niet correct geconfigureerd voor Skype voor Bedrijven. Zie [DNS-records bijwerken in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) voor uitgebreide instructies. 
   
-Ga naar de pagina [domeinen](https://admin.microsoft.com/adminportal/home#/Domains) in het beheercentrum voor Microsoft 365 om dit te corrigeren, en wij helpen u met het. 
+Om dit op te lossen, gaat u naar de pagina [Domeinen](https://admin.microsoft.com/adminportal/home#/Domains) in het beheercentrum van Microsoft 365 en wij helpen u hiermee. 
   
-Als u hebt met het communiceren met gebruikers buiten uw organisatie problemen, kunt u voor gedetailleerde instructies voor het [instellen van Skype voor Business Online externe communicatie](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) verwijzen. 
+Als u problemen hebt met de communicatie met gebruikers die extern zijn voor uw organisatie, raadpleegt u [Externe communicatie instellen voor Skype voor Bedrijven Online](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) voor uitgebreide instructies. 
   
-[De domeinen Veelgestelde vragen over](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) andere algemene oplossingen. 
+Zie [Veelgestelde vragen over domeinen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) voor andere veelgebruikte oplossingen. 
   
 
