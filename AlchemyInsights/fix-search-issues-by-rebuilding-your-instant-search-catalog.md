@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401179"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867933"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Problemen met zoeken oplossen door het opnieuw samenstellen van de catalogus van Direct zoeken
+# <a name="troubleshoot-search-issues"></a>Problemen met zoeken oplossen
 
-1. Sluit Outlook af en open het **Configuratiescherm**.
-    
-    > [!NOTE]
-    > Afhankelijk van de versie van Office die u gebruikt, moet u mogelijk met de rechtermuisknop op **Het Configuratiescherm**in het menu **Start** en klik op de knop **Start** . 
-  
-2. Voer een van de volgende handelingen uit:
-    
-  - Kies **Opties voor indexeren**.
-    
-  - Typ *indexeren* in **het zoekvak** en kies vervolgens **Opties voor indexeren**.
-    
-3. Schakel het selectievakje in voor de locatie die u wilt wijzigen in het dialoogvenster **Geïndexeerde locaties** onder **geselecteerde locaties wijzigen**, en klik vervolgens op **OK**.
-    
-4. Klik in het dialoogvenster **Geavanceerde opties** op het tabblad **Index-instellingen** onder **Probleemoplossing**, klikt u op **opnieuw maken**.
-    
-    > [!NOTE]
-    > Een **Index opnieuw** het dialoogvenster waarschuwing die wordt geopend de 'index kan lang duren om te voltooien." Klik op **OK** om te starten met het opnieuw samenstellen van de index. 
-  
-Voor meer informatie, Zie het bekende probleem [geen zoekresultaten voor POP/IMAP-accounts](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Als u met het zoeken problemen hebt, raadpleegt u de onderstaande koppelingen voor het oplossen van help.
 
+Dit zijn de meest voorkomende problemen en zijn een goede plaats om te starten:
+- [Outlook-zoekopdracht oplevert geen resultaten](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Zoeken in Outlook retourneert onvolledige resultaten](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Oudere e-mailberichten kan niet zoeken in Outlook vinden](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Mogelijke oplossingen voor minder gangbare problemen vindt u hier:
+- [Alleen in Outlook 2016: tabblad Zoeken is niet beschikbaar](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Gedeelde postbus: Problemen met zoekresultaten](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Fout: Het zoeken worden beïnvloed door een probleem met de manier waarop Outlook is geconfigureerd](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Zoekmappen weergeven onverwachte PersonMetadata items geen onderwerp](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
