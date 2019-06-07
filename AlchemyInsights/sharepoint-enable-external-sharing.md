@@ -7,18 +7,43 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 48259de7b605f667ce424d3c8be00362b08ea716
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719862"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760653"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Externe delen in SharePoint Online inschakelen
 
-Als uw organisatie werk waarbij delen van documenten of samenwerken met leveranciers, klanten of klanten uitvoert en vervolgens kunt u de <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview">externe functies van SharePoint Online delen</a> inhoud delen met mensen buiten uw de organisatie.
+Als uw organisatie werk waarbij delen van documenten of samenwerken met leveranciers, klanten of klanten uitvoert en vervolgens kunt u de [externe functies van SharePoint Online delen](https://docs.microsoft.com/sharepoint/external-sharing-overview) inhoud delen met mensen buiten uw de organisatie.
 
-Voor meer informatie over het extern delen (gasten) gaat u naar de onderstaande koppelingen.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user">Wat is een externe gebruiker?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document">Wat gebeurt er als ik een site of een document delen?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off">Extern delen in- of uitschakelen voor SharePoint Online</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site">Externe delen in- of uitschakelen voor een site inschakelen</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide">Toegang voor gasten in Office 365-groepen beheren</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet">Sharepoint Online gebruiken als een oplossing voor het extranet van business-to-business (B2B)</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c">SharePoint-bestanden of mappen delen</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US">OneDrive of SharePoint-bestanden of mappen delen beëindigen of wijzigen van machtigingen</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center"><span style="color: #0066cc; background: #BFE6FF;">Een externe gebruiker verwijderen
+Voor meer informatie over het extern delen (gasten) gaat u naar de onderstaande koppelingen.
 
-Een fout ontvangt van een externe gebruiker (Gast)? &nbsp;De onderstaande koppelingen controleren. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message">Fouten in Sharepoint of OneDrive OSE delen</a></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0">Foutbericht wanneer een externe gebruiker een SharePoint Online uitnodiging accepteert met behulp van een andere account</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f">Toegang geweigerd tot een gedeelde map</a>&nbsp;</span></li> </ul>
+[Wat is een externe gebruiker?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
+[Wat gebeurt er als ik een site of een document delen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+[Extern delen in- of uitschakelen voor SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+
+[Externe delen in- of uitschakelen voor een site inschakelen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Toegang voor gasten in Office 365-groepen beheren](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+
+[Sharepoint Online gebruiken als een oplossing voor het extranet van business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[SharePoint-bestanden of mappen delen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive of SharePoint-bestanden of mappen delen beëindigen of wijzigen van machtigingen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Een externe gebruiker verwijderen](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Een fout ontvangt van een externe gebruiker (Gast)?
+
+Controleer de onderstaande koppelingen. 
+
+- [Fouten in Sharepoint of OneDrive OSE delen](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+
+- [Foutbericht wanneer een externe gebruiker een SharePoint Online uitnodiging accepteert met behulp van een andere account](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+
+- [Toegang geweigerd tot een gedeelde map](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
