@@ -8,14 +8,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d667fe18c8d79a33ea52d50f5bd2325829b29f84
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b44e5d5aba5ef11e4f79ac775c6ae3f014d70d8a
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34720282"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762289"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nieuwe inhouding labels automatisch gemaakt
 
-<p><span style="font-family: 'Segoe UI',sans-serif;">Voor de meeste organisaties, de omvang en de complexiteit van hun gegevens stijgt dagelijks - e-mail, documenten, berichten en meer.</span> Effectief beheren of ten opzichte van deze informatie is belangrijk, een bewaarbeleid kan u helpen bij deze doelstellingen te verwezenlijken. Ga naar de onderstaande koppelingen voor meer informatie over bewaarbeleid.</p> <ul> <li><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies">Overzicht van het bewaarbeleid</a></li> <li><a href="https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies">Behoud tags en bewaarbeleid</a></li> <li><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations">Een bewaarbeleid toepassen op de hele organisatie of specifieke locaties</a></li> <li><a href="https://docs.microsoft.com/en-us/alchemyinsights/retention-policies-in-exchange-admin-center-not-working">Nieuwe of bijgewerkte bewaarbeleid in het beheercentrum van Exchange worden niet toegepast op postvakken</a></li> </ul>
+Voor de meeste organisaties, de omvang en de complexiteit van hun gegevens stijgt dagelijks - e-mail, documenten, berichten en meer.
+
+Effectief beheren of ten opzichte van deze informatie is belangrijk, een bewaarbeleid kan u helpen bij deze doelstellingen te verwezenlijken. Ga naar de onderstaande koppelingen voor meer informatie over bewaarbeleid.
+
+[Overzicht van het bewaarbeleid](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+
+[Behoud tags en bewaarbeleid](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+
+[Een bewaarbeleid toepassen op de hele organisatie of specifieke locaties](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+
+[Nieuwe of bijgewerkte bewaarbeleid in het beheercentrum van Exchange worden niet toegepast op postvakken](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
 

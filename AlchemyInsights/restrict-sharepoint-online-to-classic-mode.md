@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422170"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761754"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online beperken tot de klassieke modus
 
-Sommige organisaties moeten nog steeds de klassieke modus ervaring. Er zijn geen plannen om de klassieke modus op een gedetailleerd niveau verwijderen, begin April 1,2019, het is niet meer mogelijk de hele organisatie (huurder) naar de klassieke modus voor lijsten en bibliotheken te beperken.
+Sommige organisaties moeten nog steeds de klassieke modus ervaring. Er zijn geen plannen om de klassieke modus op een gedetailleerd niveau te verwijderen, is het niet meer mogelijk de hele organisatie (huurder) beperken tot klassieke modus voor lijsten en bibliotheken.
 
 De beheerder heeft de volgende opties voor het beheren van afzonderlijke lijsten en bibliotheken in de klassieke modus, met gedetailleerde opt-out-switches die we op de volgende niveaus aanbieden:
 
@@ -28,6 +28,6 @@ De beheerder heeft de volgende opties voor het beheren van afzonderlijke lijsten
 
 Bovendien zal lijsten die het gebruik van bepaalde functies en aanpassingen die niet worden ondersteund door de modern nog steeds worden automatisch overgeschakeld naar de klassieke modus.
 
-Na 1 April, worden lijsten en bibliotheken die in de klassieke modus als gevolg van de opzegging van de huurder automatisch beheerd op het niveau van de site en de lijst.
+Vanaf 1 April 2019, tijdens het uitschakelen van het niveau van de huurder niet deelnemen aan de moderne lijst en bibliotheken wordt gestart en worden voortgezet tot en met 31 mei 2019.  De lijsten en bibliotheken die in de klassieke modus als gevolg van de opzegging van de huurder zijn wordt automatisch verschoven naar het moderne.
 
-Als u de klassieke modus nodig vindt u hier meer informatie en PnP Powershell tekstteken hier hulpprogramma's en opties beschreven kunt u vandaag voor te bereiden voor het verwijderen van de huurder niveau opt-out op 1 April.
+Als u de klassieke modus nodig vindt u meer informatie [hier](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) en de instructies voor PnP Powershell [hier](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) beschrijving van opties en hulpprogramma's kunt u vandaag nog aan de ervaring van de klassieke modus gebruiken.
