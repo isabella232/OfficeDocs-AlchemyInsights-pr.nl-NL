@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408714"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769538"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Gevoeligheidslabels automatisch toepassen
 
@@ -25,7 +25,7 @@ Automatisch toepassen van gevoeligheidslabels wordt verwijderd, moeten gebruiker
 Labels als automatisch wilt toepassen, is het volgende vereist:
 
 - Azure informatie bescherming P2-abonnement
-- [Download en installeer de client Azure informatiebescherming eenduidige labeling](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Download en installeer de client Azure informatiebescherming eenduidige labeling](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 We ook native ondersteuning die de client Azure informatiebescherming eenduidige labeling won't in de toekomst moeten werken.
 
@@ -33,5 +33,5 @@ Op dit moment ondersteunt alleen Windows de eenduidige labeling client.  De func
 
 Zie voor meer informatie op de etiketten van de gevoeligheid en automatisch toepassen op inhoud:
 
-- [Overzicht van de gevoeligheidslabels](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Een label gevoeligheid automatisch toepassen op inhoud](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Overzicht van de gevoeligheidslabels](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Een label gevoeligheid automatisch toepassen op inhoud](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

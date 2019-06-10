@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096470"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770804"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Intrekken of vervangen van een e-mailbericht
 
@@ -36,7 +36,7 @@ Zie voor meer informatie, inclusief het controleren op het intrekken, [intrekken
 
 ***Zoeken en verwijderen: e-mailberichten in uw organisatie*** Als u wilt zoeken en verwijderen van e-mailberichten in uw organisatie, het gemakkelijkst als u een globale beheerder. Als u niet een globale beheerder bent, moet uw account worden toegevoegd aan de rolgroep eDiscovery Manager of aan de zoekopdracht voldoen management rol. Om berichten te verwijderen, moet u deel te nemen aan de rolgroep Management van de organisatie of de rol zoeken en verwijderen. Machtigingen aan deze rollen zijn toegewezen in het [Beveiligingscentrum & voldaan](https://protection.office.com/).
 
-1. [Maken een inhoud zoeken](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) om te zoeken naar het bericht te verwijderen.
-2. [Verbinding maken met de beveiliging & conformiteit PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Maken een inhoud zoeken](https://docs.microsoft.com/office365/securitycompliance/content-search) om te zoeken naar het bericht te verwijderen.
+2. [Verbinding maken met de beveiliging & conformiteit PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Als u MVR gesloten, Zie [verbinding maken met de beveiliging van Office 365 & conformiteit Center PowerShell meerledige verificatie](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Als u MVR gesloten, Zie [verbinding maken met de beveiliging van Office 365 & conformiteit Center PowerShell meerledige verificatie](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

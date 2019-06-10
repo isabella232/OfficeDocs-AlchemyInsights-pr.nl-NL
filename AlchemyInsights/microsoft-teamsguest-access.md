@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e49caf53cfbd96704d048a899e123301525a8e6a
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418717"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769854"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft - Teams voor toegang voor gasten
 
@@ -26,5 +26,5 @@ Hier leest u wat u kunt doen:
 1. Gastgebruikers toevoegen aan uw team.
 1. Gast gebruikersmachtigingen instellen.
 
-Zie voor meer informatie, met inbegrip van procedures voor video's, [Microsoft-Teams toegang voor gasten](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
+Zie voor meer informatie, met inbegrip van procedures voor video's, [Microsoft-Teams toegang voor gasten](https://docs.microsoft.com/microsoftteams/guest-access).
 
