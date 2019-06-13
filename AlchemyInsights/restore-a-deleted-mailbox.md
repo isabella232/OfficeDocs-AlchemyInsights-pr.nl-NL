@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761790"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899521"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Een verwijderde postbus terugzetten
 
@@ -23,11 +24,10 @@ Wanneer een gebruiker de Exchange Online-licentie verliest, wordt hun postbus ge
 In de Admin Portal:
   
 - Ga naar **Gebruikers** \> **Actieve gebruikers**. Selecteer de gebruiker in kwestie.
-    
-- Selecteer ** Bewerken ** productlicenties wijzigen. 
-    
+
+- Selecteer **bewerken** -softwarelicenties wijzigen.
+
 - De Exchange Online-licentie toewijzen aan de gebruiker en selecteer vervolgens **Opslaan**.
-    
+
 Gedeelde postvakken kunnen ook binnen 30 dagen worden hersteld. Vindt u gedeelde postvakken onder **gebruikers** \> **gebruikers verwijderd**. Gedeelde postbussen van vereist een Exchange Online-licentie niet.
   
-
