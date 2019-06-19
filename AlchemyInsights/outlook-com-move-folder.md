@@ -13,14 +13,14 @@ ms.custom:
 - "8000062"
 - "1070"
 ms.openlocfilehash: bba2231461d82431f585cf60b70f8f699777aac8
-ms.sourcegitcommit: 67292e43d1834c2cd20be9433698da47da59c135
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34749427"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062127"
 ---
-# <a name="move-a-folder"></a><span data-ttu-id="affe0-102">Een map verplaatsen</span><span class="sxs-lookup"><span data-stu-id="affe0-102">Move a folder</span></span>
+# <a name="move-a-folder"></a><span data-ttu-id="1478d-102">Een map verplaatsen</span><span class="sxs-lookup"><span data-stu-id="1478d-102">Move a folder</span></span>
 
-<span data-ttu-id="affe0-103">U kunt de volgorde wijzigen van mappen onder **Favorieten**, maar u kunt mappen in **mappen** ordenen of een map een submap maken.</span><span class="sxs-lookup"><span data-stu-id="affe0-103">You can reorder folders under **Favorites**, but you can't reorder folders under **Folders** or make a subfolder a folder.</span></span> <span data-ttu-id="affe0-104">Als u per ongeluk een map naar een andere map verplaatst, maakt u een nieuwe map en uw e-mailadres van de submap te kopiëren naar de nieuwe map.</span><span class="sxs-lookup"><span data-stu-id="affe0-104">If you accidentally move a folder into another folder, create a new folder and copy all your email from the subfolder to the new folder.</span></span>
+<span data-ttu-id="1478d-103">U kunt de volgorde wijzigen van mappen onder **Favorieten**, maar u kunt mappen in **mappen** ordenen of een map een submap maken.</span><span class="sxs-lookup"><span data-stu-id="1478d-103">You can reorder folders under **Favorites**, but you can't reorder folders under **Folders** or make a subfolder a folder.</span></span> <span data-ttu-id="1478d-104">Als u per ongeluk een map naar een andere map verplaatst, maakt u een nieuwe map en uw e-mailadres van de submap te kopiëren naar de nieuwe map.</span><span class="sxs-lookup"><span data-stu-id="1478d-104">If you accidentally move a folder into another folder, create a new folder and copy all your email from the subfolder to the new folder.</span></span>
   
-<span data-ttu-id="affe0-105">Voor meer informatie, wij [werken met mappen weergegeven in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span><span class="sxs-lookup"><span data-stu-id="affe0-105">To learn more, read [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span></span>
+<span data-ttu-id="1478d-105">Voor meer informatie, wij [werken met mappen weergegeven in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span><span class="sxs-lookup"><span data-stu-id="1478d-105">To learn more, read [Working with message folders in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a).</span></span>
