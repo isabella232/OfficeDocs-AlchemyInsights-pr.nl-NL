@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643344"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273590"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="e7f5a-102">Hoe kunt u zich afmelden bij Outlook op het web</span><span class="sxs-lookup"><span data-stu-id="e7f5a-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="9efa9-102">Hoe kunt u zich afmelden bij Outlook op het web</span><span class="sxs-lookup"><span data-stu-id="9efa9-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="e7f5a-103">Selecteer uw naam of foto op de rechterbovenhoek.</span><span class="sxs-lookup"><span data-stu-id="e7f5a-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="e7f5a-104">Als u uw afbeelding aan de bovenkant van het scherm niet ziet, controleren of de ad blokkeren is ingeschakeld.</span><span class="sxs-lookup"><span data-stu-id="e7f5a-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="e7f5a-105">Soms Hiermee voorkomt u dat de afbeelding wordt weergegeven.</span><span class="sxs-lookup"><span data-stu-id="e7f5a-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="e7f5a-106">Selecteer **Afmelden**.</span><span class="sxs-lookup"><span data-stu-id="e7f5a-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="e7f5a-107">Automatisch aanmelden bij uw werk of school account, schakel het selectievakje uit voor **laat me ingelogd blijven** op de pagina waar u uw wachtwoord opgeven.</span><span class="sxs-lookup"><span data-stu-id="e7f5a-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="e7f5a-108">Zie [ondertekenen Outlook op het web of voor](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="e7f5a-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="9efa9-103">Als u wilt afmelden bij Outlook op het web, selecteer uw naam of foto op de rechterbovenhoek en selecteer **Afmelden**.</span><span class="sxs-lookup"><span data-stu-id="9efa9-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="9efa9-104">Stoppen automatisch aanmelden bij uw werk of school-account:</span><span class="sxs-lookup"><span data-stu-id="9efa9-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="9efa9-105">Selecteer de afbeelding of de naam en selecteer **Afmelden**.</span><span class="sxs-lookup"><span data-stu-id="9efa9-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="9efa9-106">Ga naar [Outlook.office.com](https://outlook.office.com/) en selecteer **een andere account gebruiken**.</span><span class="sxs-lookup"><span data-stu-id="9efa9-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="9efa9-107">Meld u aan met het e-mailadres dat u wilt gebruiken.</span><span class="sxs-lookup"><span data-stu-id="9efa9-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="9efa9-108">Zie [ondertekenen Outlook op het web of voor](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="9efa9-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
