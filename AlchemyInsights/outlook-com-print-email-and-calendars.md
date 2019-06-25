@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709012"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957376"
 ---
 # <a name="print-email-and-calendars"></a>Afdrukken, e-mail en agenda 's
 
 Een e-mailbericht afdrukken:
   
 1. Selecteer het bericht dat u wilt afdrukken.
-1. Selecteer de drie puntjes en selecteer **afdrukken**boven het leesvenster.
+1. Selecteer de drie puntjes in de rechterbovenhoek van het bericht en selecteer **afdrukken**.
 
 Uw agenda afdrukken:
 
