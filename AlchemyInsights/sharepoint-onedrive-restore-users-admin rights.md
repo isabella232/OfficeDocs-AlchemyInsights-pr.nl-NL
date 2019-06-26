@@ -1,5 +1,5 @@
 ---
-title: Gebruikers toegang geven tot SharePoint en OneDrive
+title: Problemen met toegang tot berichten geweigerd voor OneDrive voor Business-sites
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759251"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223419"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Gebruikers toegang geven tot SharePoint en OneDrive
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Problemen met toegang tot berichten geweigerd voor OneDrive voor Business-sites
 
 Dit probleem treedt meestal op wanneer een gebruiker is verwijderd en opnieuw met de dezelfde UPN (User Principal Name gemaakt). De nieuwe account is gemaakt met behulp van een andere waarde voor de PUID (unieke Passport-ID). Wanneer de gebruiker probeert toegang te krijgen tot een siteverzameling of hun OneDrive, heeft de gebruiker een onjuist PUID. Een tweede scenario heeft betrekking op directory synchronisatie met een organisatie-eenheid (OU) van Active Directory. Als gebruikers hebben al aangemeld bij SharePoint, worden verplaatst naar een andere organisatie-eenheid en resynced met SharePoint, kunnen zij dit probleem optreden.
 

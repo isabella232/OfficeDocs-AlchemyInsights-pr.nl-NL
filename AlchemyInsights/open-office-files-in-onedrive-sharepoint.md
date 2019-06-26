@@ -1,5 +1,5 @@
 ---
-title: Een SharePoint-bibliotheek openen in Verkenner
+title: Problemen met het openen van bestanden van Sharepoint of OneDrive
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
-ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
+ms.openlocfilehash: 58ee71bfc802bdd6fe1f1d892399dff4f71641fe
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35079308"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223671"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>Office-bestanden en documenten openen vanaf SharePoint en OneDrive
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problemen met het openen van bestanden van Sharepoint of OneDrive 
 
 
 Hebt u problemen met het openen van Office-bestanden en documenten uit documentbibliotheken van SharePoint of OneDrive, vindt hier u enkele suggesties om problemen op te lossen.

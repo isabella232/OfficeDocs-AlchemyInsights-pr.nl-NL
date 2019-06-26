@@ -1,5 +1,5 @@
 ---
-title: Een verwijderd item herstellen
+title: "\"Problemen met ontbrekende bestanden of mappen"
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -10,30 +10,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: b65a7b122ceb9b8c2427e046cff85fa3872bf194
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: bddee236cf045411ef0ba9d0739d5787172f623a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759286"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223779"
 ---
-# <a name="restore-a-deleted-item"></a>Een verwijderd item herstellen
+# <a name="troubleshooting-missing-files-or-folders"></a>Problemen met ontbrekende bestanden of mappen
 
-[De Prullenbak van de site controleren](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [De Prullenbak van de site controleren](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Items in de Prullenbak van een SharePoint-site herstellen](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Items in de Prullenbak van een SharePoint-site herstellen](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
 
-Functie voor het terugzetten van bestanden
+**Functie voor het terugzetten van bestanden**
 
 Als veel van uw bestanden met OneDrive of SharePoint ophalen verwijderd, overschreven, beschadigd of door schadelijke software besmet, kunt u uw gehele OneDrive of Sharepoint-bibliotheek op een eerder tijdstip met behulp van de functie voor het terugzetten van bestanden terugzetten.
 
-[Een OneDrive-bibliotheek herstellen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+- [Een OneDrive-bibliotheek herstellen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-[Herstellen van een documentbibliotheek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Herstellen van een documentbibliotheek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-Controlelogboeken of de activiteit deelvenster gebruiken om de geschiedenis van het bestand.
+**Controlelogboeken of het deelvenster activiteit controleren geschiedenis van het bestand gebruiken**
 
 [Controleer de auditverslagen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) </a> door door [hier](https://protection.office.com/#/unifiedauditlog)
 

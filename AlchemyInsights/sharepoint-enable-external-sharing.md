@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a541c6829d688f06fa4bc207b517cff68170e1da
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760653"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223815"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Externe delen in SharePoint Online inschakelen
 
@@ -20,25 +20,25 @@ Als uw organisatie werk waarbij delen van documenten of samenwerken met leveranc
 
 Voor meer informatie over het extern delen (gasten) gaat u naar de onderstaande koppelingen.
 
-[Wat is een externe gebruiker?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Wat is een externe gebruiker?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[Wat gebeurt er als ik een site of een document delen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Wat gebeurt er als ik een site of een document delen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-[Extern delen in- of uitschakelen voor SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Extern delen in- of uitschakelen voor SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Externe delen in- of uitschakelen voor een site inschakelen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Externe delen in- of uitschakelen voor een site inschakelen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Toegang voor gasten in Office 365-groepen beheren](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Toegang voor gasten in Office 365-groepen beheren](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-[Sharepoint Online gebruiken als een oplossing voor het extranet van business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Sharepoint Online gebruiken als een oplossing voor het extranet van business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[SharePoint-bestanden of mappen delen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [SharePoint-bestanden of mappen delen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[OneDrive of SharePoint-bestanden of mappen delen beëindigen of wijzigen van machtigingen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [OneDrive of SharePoint-bestanden of mappen delen beëindigen of wijzigen van machtigingen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Een externe gebruiker verwijderen](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Een externe gebruiker verwijderen](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-Een fout ontvangt van een externe gebruiker (Gast)?
+**Een fout ontvangt van een externe gebruiker (Gast)?**
 
 Controleer de onderstaande koppelingen. 
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119754"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222735"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Volgen of een SharePoint-site Verenigde Naties volgen
 
@@ -23,4 +23,4 @@ Bekijk de video op [een SharePoint-site te volgen](https://support.office.com/en
 
 Zie als u niet kunt volgen of een site un volgen en voel dat de resultaten niet wordt verwacht, als het probleem betrekking heeft op één gebruiker of alle gebruikers binnen uw organisatie. Als het probleem wordt aangetroffen door alle gebruikers, kan er een tijdelijke service-probleem. 
 
-Controleer of de [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)om te zien als uw organisatie wordt beïnvloed.
+Controleer of de [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien als uw organisatie wordt beïnvloed.
