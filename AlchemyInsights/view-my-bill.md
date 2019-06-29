@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "437"
+- "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 20218e2b901a7a11ec12aed6654745d172b4026a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bfee2039e20f69ceffec5946fdbf3f7ec15c8396
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423061"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365448"
 ---
 # <a name="view-my-bill"></a>Mijn rekening bekijken
 
 1. Ga naar de pagina van de [rekeningen](https://go.microsoft.com/fwlink/p/?linkid=848039) in de Admin center of kies **Facturering:** \> **rekeningen**.
-    
-2. Kies de maand en datum van de factuur die u wilt gebruiken en kies vervolgens **Weergeven**.
-    
-3. Kies een order en kies vervolgens **Details weergeven**.
-    
-Zie de [weergave van uw rekening of factuur](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill)voor meer informatie.
-  
 
+2. Kies de maand en datum van de factuur die u wilt gebruiken en kies vervolgens **Weergeven**.
+
+3. Kies een order en kies vervolgens **Details weergeven**.
+
+Zie de [weergave van uw rekening of factuur](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill)voor meer informatie.

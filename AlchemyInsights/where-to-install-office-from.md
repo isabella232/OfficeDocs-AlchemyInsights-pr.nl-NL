@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "913"
+- "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c77b00bbfba784087c7d35fe45050ba24f6670a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422746"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365160"
 ---
 # <a name="install-office"></a>Office installeren
 
@@ -23,12 +26,11 @@ Gebruikers moeten beschikken over een [Office 365 business product](https://supp
 Office kan worden geïnstalleerd na de volgende stappen uit:
   
 1. Ga naar [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
-    
+
 2. Selecteer de gewenste taal en selecteer Geavanceerd kiezen tussen de 64-bits of 32-bits versie op de introductiepagina van Office
-    
+
 3. Selecteer de **installatie van Office**.
-    
+
 Zie voor meer informatie [downloaden en installeren of opnieuw installeren van Office op een PC of Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
 Zie voor specifieke informatie over Visio of Project [Installeer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) of [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)
-
