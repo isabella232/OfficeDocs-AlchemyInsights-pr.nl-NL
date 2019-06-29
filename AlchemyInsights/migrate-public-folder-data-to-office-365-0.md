@@ -8,26 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "639"
+- "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: c5f138cce6efb7764e0fd9f4ba9dd17c166fcfab
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755844"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379996"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Gegevens uit openbare mappen migreren naar Office 365
 
-Als er niet veel van openbare mappen in Office 365 te brengen, is de gemakkelijkste manier om ze te kopiëren van de gegevens in. PST-bestanden en deze vervolgens importeren in Office 365. Voor kleine hoeveelheden gegevens, een eenvoudig slepen en neerzetten van een openbare map in een. PST-bestand kan voldoende zijn. Als er meer gegevens dan die (tot 30GB), hebben we [een procedure beschreven](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) waarmee u kunt mappen exporteren naar PST-bestanden. 
+Als er niet veel van openbare mappen in Office 365 te brengen, is de gemakkelijkste manier om ze te kopiëren van de gegevens in. PST-bestanden en deze vervolgens importeren in Office 365. Voor kleine hoeveelheden gegevens, een eenvoudig slepen en neerzetten van een openbare map in een. PST-bestand kan voldoende zijn. Als er meer gegevens dan die (tot 30GB), hebben we [een procedure beschreven](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) waarmee u kunt mappen exporteren naar PST-bestanden.
   
 Voor grotere organisaties die openbare mappen naar Office 365 verplaatsen wilt, hebben we verschillende gidsen beschikbaar:
   
-- [Oude openbare mappen migreren](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 en lager) 
-    
+- [Oude openbare mappen migreren](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 en lager)
+
 - [Exchange 2013 openbare mappen migreren](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
-    
-- [Mirate openbare mappen van Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-    
+
+- [Exchange 2016 openbare mappen migreren](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+
 U hebt ook de optie [openbare mappen naar Office 365 groepen](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)migreren.
   
-

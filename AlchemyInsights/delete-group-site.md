@@ -10,23 +10,25 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "567"
+- "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: f72c1d59dba7d742945ea5db0842f696825eb660
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ece52595fea4208f0ebb06cf39ea83e03d6534ba
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405184"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389968"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Een SharePoint-site die bij een Office 365-groep hoort verwijderen
 
 Globale beheerders en beheerders van SharePoint kunt u sites die tot een groep Office 365 behoren nu verwijderen. Deze sites verwijdert, worden de groep en alle bronnen, met inbegrip van het Outlook-postvak en agenda en alle kanalen Teams.
   
 Belangrijk:
-- U kunt verwijderde sites 93 dagen herstellen. Bekijken en herstellen van verwijderde sites voor meer informatie. Houd er rekening mee dat verwijderde groepen binnen 30 dagen moeten worden hersteld. 
-- Als de site deel van een bewaarbeleid uitmaakt, kunt u mogelijk niet verwijderen totdat de site wordt verwijderd uit de [beveiliging &amp; conformiteit Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Zie [Overzicht van bewaarbeleid](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) voor meer info. 
+
+- U kunt verwijderde sites 93 dagen herstellen. Bekijken en herstellen van verwijderde sites voor meer informatie. Houd er rekening mee dat verwijderde groepen binnen 30 dagen moeten worden hersteld.
+- Als de site deel van een bewaarbeleid uitmaakt, kunt u mogelijk niet verwijderen totdat de site wordt verwijderd uit de [beveiliging &amp; conformiteit Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Zie [Overzicht van bewaarbeleid](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) voor meer info.
   
 [Weergave maken en terugzetten van sites in de nieuwe SharePoint-admin center verwijderd](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), selecteert u **sites verwijderd**. Selecteer de site die is verwijderd en kies herstellen of verwijderen (dit wordt definitief verwijderd van de site). U verwijdert een actieve site, **actieve** sites selecteren, selecteer de site en selecteer **verwijderen**. Zie [sites beheren in de nieuwe SharePoint-admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)voor meer informatie.
   
-

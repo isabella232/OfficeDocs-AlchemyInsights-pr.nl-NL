@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769538"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360480"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Gevoeligheidslabels automatisch toepassen
 
-Gevoeligheidslabels kunnen worden toegepast op inhoud door gebruikers mannually of kunt u ze automatisch worden toegepast op inhoud.
+Gevoeligheid van etiketten kunnen worden handmatig toegepast op inhoud door gebruikers of kunt u ze automatisch worden toegepast op inhoud.
 
 Automatisch toepassen van gevoeligheidslabels wordt verwijderd, moeten gebruikers voor het classificeren van de inhoud van de trein en de noodzaak om de hoogte van de beleidsconfiguraties.
 

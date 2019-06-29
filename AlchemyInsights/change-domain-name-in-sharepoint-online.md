@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "978"
+- "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 419d30f087018e093c034d95f30e3058ea953d5c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9fa4e69ad129c89828c33d1921b83138aa5e2885
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394555"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361920"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Domeinnaam wijzigen in SharePoint Online
 
@@ -21,8 +24,7 @@ Helaas is het niet mogelijk om de SharePoint Online domeinnaam voor uw organisat
   
 Het domein naam fourthcoffee.sharepoint.com gebruikt, moet u een nieuw abonnement op Office 365 en het verplaatsen van alle e-mailberichten, bestanden en andere gegevens die u wilt behouden op het nieuwe abonnement.
   
- **Opmerking**: bijvoorbeeld de naam van een site wijzigen https://contoso.sharepoint.com/sites/sample1 te https://contoso.sharepoint.com/sites/sample2, een nieuwe site maken en verplaats vervolgens alle inhoud van de oude naar de nieuwe. 
+ **Opmerking**: bijvoorbeeld de naam van een site wijzigen https://contoso.sharepoint.com/sites/sample1 te https://contoso.sharepoint.com/sites/sample2, een nieuwe site maken en verplaats vervolgens alle inhoud van de oude naar de nieuwe.
   
 Zie voor informatie over het verplaatsen van items in documentbibliotheken, [verplaatsen of kopiëren van items uit een SharePoint-documentbibliotheek](https://go.microsoft.com/fwlink/?linkid=2025831).
   
-

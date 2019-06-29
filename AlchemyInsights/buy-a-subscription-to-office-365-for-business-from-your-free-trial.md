@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "257"
+- "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396754"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359337"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Een abonnement op Office 365 kopen vanuit uw gratis proefversie
 
@@ -25,19 +27,17 @@ U hebt Office 365 uitgeprobeerd en u wilt het nu kopen. Wanneer u Office 365 koo
  **U kunt hetzelfde als de evaluatieversie plan kopen**
   
 1. Ga in het beheercentrum naar de pagina [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **Abonnementen**.
-    
-2. **Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken. 
-    
+
+2. **Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken.
+
 of **u kunt een ander abonnement kopen**
   
 1. Meld u aan bij Office 365 met uw werk- of schoolaccount als hoofdbeheerder. [Lees hier hoe u zich kunt aanmelden](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
-    
-2. Kies **Office 365** op de startpagina. 
-    
-3. Kies in de rechterbovenhoek van de pagina onder de navigatiebalk **aankoop**.
-    
-4. Op de pagina **abonnementen aankoop** heeft het plan dat u probeert een spandoek **In evaluatieversie** . 
-    
-5. **Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken. 
-    
 
+2. Kies **Office 365** op de startpagina.
+
+3. Kies in de rechterbovenhoek van de pagina onder de navigatiebalk **aankoop**.
+
+4. Op de pagina **abonnementen aankoop** heeft het plan dat u probeert een spandoek **In evaluatieversie** .
+
+5. **Koop nu** kiezen voor de gewenste proefabonnement en volg de stappen uit te checken.
