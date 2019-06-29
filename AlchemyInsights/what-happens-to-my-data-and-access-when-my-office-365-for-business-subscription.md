@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "484"
+- "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 04ffe139e21ca624fe7399202a0e9816012264f8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9f448e8927f60c6045831805ee238a1762531fd6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422998"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365232"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Wat gebeurt er met mijn gegevens en access wanneer mijn Office 365 voor zakelijke abonnement eindigt?
 
-Als je Office 365-abonnement afloopt, omdat het is verlopen, of omdat u wilt annuleren, de toegang tot Office 365 diensten, toepassingen en gegevens van de klant door middel van meerdere lidstaten voordat het abonnement volledig is uitgeschakeld of *deprovisioned* gaan  . Als u op de hoogte van deze voortgang, u zult beter uitgerust om uw abonnement op de actieve status terug voordat het te laat is of, als u bij het verlaten van Office 365, back-up van uw gegevens voordat deze uiteindelijk wordt verwijderd. 
+Als je Office 365-abonnement afloopt, omdat het is verlopen, of omdat u wilt annuleren, de toegang tot Office 365 diensten, toepassingen en gegevens van de klant door middel van meerdere lidstaten voordat het abonnement volledig is uitgeschakeld of *deprovisioned* gaan  . Als u op de hoogte van deze voortgang, u zult beter uitgerust om uw abonnement op de actieve status terug voordat het te laat is of, als u bij het verlaten van Office 365, back-up van uw gegevens voordat deze uiteindelijk wordt verwijderd.
   
-Voordat het abonnement daadwerkelijk is de vervaldatum bereikt, hebt u een paar opties voor **terugkerende facturering van het abonnement beheren**. 
+Voordat het abonnement daadwerkelijk is de vervaldatum bereikt, hebt u een paar opties voor **terugkerende facturering van het abonnement beheren**.
   
 - Als de **terugkerende facturering** al actief is, er geen geen actie te ondernemen. Uw abonnement op de factuurdatum **periodiek** wordt gefactureerd en u zult in rekening gebracht voor een extra jaar of maand, afhankelijk van uw huidige frequentie van betaling. Als u om welke reden u hebt uitgeschakeld **terugkerende facturering** , kunt u altijd [terugkerende facturering weer in te schakelen](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-    
-- Als u een Open Volume Licensing-klanten met een prepaid abonnement van één jaar, neem dan contact op met uw partner als u wilt een nieuwe productcode aanschaffen. U ontvangt per e-mail instructies activeren de sleutel in het [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Meer informatie over het zoeken naar een nieuwe partner of de partner die u hebt gewerkt in het verleden, Zie [uw Office 365 partner of leverancier te zoeken](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).
-    
-- Als u Office 365 Business, Zie [terugkerende facturering voor uw abonnement beheren](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-    
 
+- Als u een Open Volume Licensing-klanten met een prepaid abonnement van één jaar, neem dan contact op met uw partner als u wilt een nieuwe productcode aanschaffen. U ontvangt per e-mail instructies activeren de sleutel in het [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Meer informatie over het zoeken naar een nieuwe partner of de partner die u hebt gewerkt in het verleden, Zie [uw Office 365 partner of leverancier te zoeken](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).
+
+- Als u Office 365 Business, Zie [terugkerende facturering voor uw abonnement beheren](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).

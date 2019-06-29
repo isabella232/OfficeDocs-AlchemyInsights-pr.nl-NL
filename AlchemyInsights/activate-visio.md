@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883156"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358896"
 ---
 # <a name="activate-visio"></a>Visio activeren
 
@@ -27,8 +27,8 @@ Voordat een gebruiker kunt installeren en activeren van het bureaublad Visio des
 
 Visio activeren:
 
-1. [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) als dit niet is gebeurd.
-2. Wanneer de installatie voltooid is, moet u Visio opent. In veel gevallen de app automatisch geactiveerd en kunt u met Visio meteen starten. Als u wordt gevraagd aan te melden, moet u aanmelden met de hetzelfde werk of school-account die is toegewezen op een Visio-licentie. 
+1. Visio installeren vanaf uw [Mijn account portal](https://portal.office.com/account#installs) , als dit niet is gebeurd. Zie voor informatie over de [Installatie van Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Wanneer de installatie is voltooid, opent u de Visio-toepassing. Visio wordt waarschijnlijk automatisch activeren en start u het meteen gebruiken. Als dat niet het geval is, wordt u gevraagd aan te melden. Moet u zich aanmelden met de hetzelfde werk of school-account die is toegewezen op een Visio-licentie. Volg de aanwijzingen op het scherm om door te gaan met het activeren. 
 
 Voor, activeringsproblemen met de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) op de desbetreffende computer worden uitgevoerd.
 
