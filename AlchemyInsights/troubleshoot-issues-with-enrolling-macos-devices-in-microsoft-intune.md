@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
-ms.openlocfilehash: 787037983d026fa159fc64f2f0bfc283462c291e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "781"
+- "6200002"
+ms.openlocfilehash: c4c9f87c1a5aaa995ad0f277d44c73fd17cf39d1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420263"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353568"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Oplossen van problemen met apparaten in Microsoft Intune macOS inschrijven
 
-Bekijk de bronnen die worden vermeld onder het probleem nu oplossen. 
+Bekijk de bronnen die worden vermeld onder het probleem nu oplossen.
   
-1. [Intune probleemoplossing Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) gebruiken om te bepalen en verhelpen van storingen in gemeenschappelijke inschrijving. Bekijk [Dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie. 
-    
-2. Bekijk [Dit document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) voor een lijst met veelvoorkomende fouten die voorkomen dat de inschrijving en oplossingen voor elk. 
-    
+1. [Intune probleemoplossing Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) gebruiken om te bepalen en verhelpen van storingen in gemeenschappelijke inschrijving. Bekijk [Dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
+
+2. Bekijk [Dit document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) voor een lijst met veelvoorkomende fouten die voorkomen dat de inschrijving en oplossingen voor elk.
+
 3. [Meer informatie over het inschrijven voor macOS apparaten in Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
-    
+
 [Handleiding inschrijven voor macOS apparaat in Microsoft Intune eindgebruiker uitchecken](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
-
