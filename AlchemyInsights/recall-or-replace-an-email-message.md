@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770804"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356592"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Intrekken of vervangen van een e-mailbericht
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770804"
 - Als u een beheerder bent, kunt u **berichten intrekken voor gebruikers met PowerShell**. U kunt berichten van de admin center kan niet intrekken. Ga naar 'Zoeken en verwijderen: e-mailberichten in uw organisatie' voor meer informatie.
 
 ***Intrekken of vervangen van een e-mailbericht dat u hebt verzonden***
+
 1. In het deelvenster mappen aan de linkerzijde van het Outlook-venster, kies de map Verzonden Items.
 2. Open het bericht dat u wilt intrekken. U moet dubbelklikken om het bericht te openen. Het bericht te selecteren zodat deze wordt weergegeven in het leesvenster niet mogelijk het bericht in te trekken.
 3. Selecteer op het tabblad bericht **Acties** > **Dit bericht intrekken**.
 4. Kies **Ongelezen kopieën van dit bericht verwijderen** of **Ongelezen kopieën verwijderen en vervangen door een nieuw bericht**en klik op **OK**.
 5. Als u een vervangend bericht verzendt het bericht opstelt, en selecteer vervolgens **verzenden**.
-6. Het slagen of mislukken van een bericht intrekken is afhankelijk van de instellingen van de geadresseerden in Outlook. 
+6. Het slagen of mislukken van een bericht intrekken is afhankelijk van de instellingen van de geadresseerden in Outlook.
 
 Zie voor meer informatie, inclusief het controleren op het intrekken, [intrekken of vervangen van een e-mailbericht dat u hebt verzonden](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

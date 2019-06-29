@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769432"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359336"
 ---
 # <a name="access-services-retirement"></a>Access services pensioen
 
@@ -24,7 +27,7 @@ Begin juni 2019, we stoppen met het maken van een nieuwe Access-databases in Sha
 
 **Wat moet ik doen als voorbereiding op deze wijziging?**
 
-We raden u aan een overgang maken voor Access web-databases van de organisatie. Beheerders kunt de [toegang tot SharePoint app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) ophalen een inventarisatie van de toegang tot toepassingen die door sites wordt gebruikt. 
+We raden u aan een overgang maken voor Access web-databases van de organisatie. Beheerders kunt de [toegang tot SharePoint app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) ophalen een inventarisatie van de toegang tot toepassingen die door sites wordt gebruikt.
 
 Er zijn verschillende manieren om gegevens van Access web databases te migreren:
 

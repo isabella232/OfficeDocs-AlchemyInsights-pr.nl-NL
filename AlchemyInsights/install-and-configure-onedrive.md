@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "845"
+- "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: 9ddafba4e83133127574e38542b6380b6002ac41
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a337b6db5b25a5b3af03ff62fef1b88f33562489
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410369"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382156"
 ---
 # <a name="install-and-configure-onedrive"></a>Installeren en configureren van OneDrive
 
@@ -22,7 +25,5 @@ De sync OneDrive client is vooraf geïnstalleerd met Windows 10. OneDrive in Win
 Als u de client voor het synchroniseren van OneDrive in Windows instellen, Zie:
   
 - [Uw computer instellen voor synchronisatie van de OneDrive voor Business-bestanden in Office 365](https://go.microsoft.com/fwlink/?linkid=533375)
-    
-- [SharePoint-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=871666)
-    
 
+- [SharePoint-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=871666)

@@ -8,19 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
-ms.openlocfilehash: fb20091867cb1b67f123c1d49161772b87e42fc4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.common:
+- "358"
+- "3500003"
+ms.openlocfilehash: 98d2eea2dc48e1b78784e6fe7857e75703c1c7a8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407095"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364620"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Maken en gebruiken van een gedeeld postvak
 
 Een gedeeld postvak kunt meer dan één persoon verzenden en ontvangen van e-mail voor een alias, zoals sales@contoso.com, zonder een andere licentie toewijzen.
   
 - [Hier gaat u meteen aan de slag](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
-    
-U kunt ook lezen het artikel en [een gedeeld postvak maken](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) die u alles wat die u weten over gedeelde postbussen vertelt moet, met inbegrip van het gebruik ervan. 
-  
 
+U kunt ook lezen het artikel en [een gedeeld postvak maken](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) die u alles wat die u weten over gedeelde postbussen vertelt moet, met inbegrip van het gebruik ervan.
+  

@@ -9,21 +9,24 @@ ms.prod: office-online-server
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 86226363eb2f8804ce7fc23459a2b380f3853675
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "909"
+- "2000021"
+ms.openlocfilehash: 0df824104301f39644f033c41626c0aab382f964
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390134"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358752"
 ---
 # <a name="activation-troubleshooting"></a>Problemen met activering oplossen
 
-In **Het Configuratiescherm** \> **programma's en onderdelen**, zoeken naar Office. U moet Microsoft Office 365 ProPlus of Microsoft Office 365 Business zien. Als er meer dan één versie van Office die worden vermeld, moet u de versie die u niet gebruikt verwijderen. 
+In **Het Configuratiescherm** \> **programma's en onderdelen**, zoeken naar Office. U moet Microsoft Office 365 ProPlus of Microsoft Office 365 Business zien. Als er meer dan één versie van Office die worden vermeld, moet u de versie die u niet gebruikt verwijderen.
   
-Als u niet kunt met behulp van het Configuratiescherm verwijderen, gebruik de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) de versie die u niet gebruikt te verwijderen. 
+Als u niet kunt met behulp van het Configuratiescherm verwijderen, gebruik de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) de versie die u niet gebruikt te verwijderen.
   
 Als Office is nog steeds illegaal is, gaat u terug naar het **Configuratiescherm** \> **programma's en onderdelen**. Klik met de rechtermuisknop op de overige Office-installatie **wijzigen** (of wijzigen), en selecteer **Online reparatie**selecteert. De online reparatie kan even duren. Vervolgens start u Office opnieuw en meld u aan met uw werk of school-account als u wordt gevraagd.
   
-Als Office nog steeds illegaal is, downloaden en voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) op de getroffen machine voor het oplossen van activeringsproblemen met de. 
+Als Office nog steeds illegaal is, downloaden en voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) op de getroffen machine voor het oplossen van activeringsproblemen met de.
   
 Zie voor meer informatie: [niet-gelicentieerde Product en activeringsfouten in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

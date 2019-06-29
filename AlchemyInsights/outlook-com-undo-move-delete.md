@@ -1,26 +1,28 @@
 ---
-title: 9000193 verplaatsen ongedaan maken of verwijderen in Outlook.com
+title: Verplaatsen ongedaan maken of verwijderen in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 5/6/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000193
-ms.openlocfilehash: 9fc58b1d5bb6df309a2832d38101d9f6ae90a6aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1752"
+- "9000193"
+ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372987"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361056"
 ---
 # <a name="action-confirmations"></a>Actie bevestigingen
 
-De functie van de actie bevestigingen in Outlook.com kunt u een verplaats- of verwijderen die u zojuist hebt gedaan per ongeluk ongedaan maken. Het dialoogvenster ongedaan maken wordt verschijnt onder aan het scherm voor ongeveer 5 seconden en de verplaatsing omkeren of actie verwijderen.
+Als u per ongeluk verplaatst of verwijderd van een bericht, kunt u deze actie ongedaan maken. Het dialoogvenster ongedaan maken wordt weergegeven onder aan het scherm voor ongeveer 5 seconden. Selecteren **ongedaan maken** om de verplaatsing annuleren of verwijderen.
 
-U kunt dit uitschakelen in [actie bevestigingen](https://outlook.live.com/mail/options/general/notifications) (**Instellingen** > **alle Outlook-instellingen weergeven** > **Algemeen** > **meldingen**).
+U kunt deze functie in [actie bevestigingen](https://outlook.live.com/mail/options/general/notifications) uitschakelen (**Instellingen** > **alle Outlook-instellingen weergeven** > **Algemeen** > **meldingen**).
 
-Opmerking: U kan niet ongedaan maken bericht verzenden. Zie voor meer informatie, [wil ik een bericht in Outlook.com in te trekken](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Opmerking: Wanneer een bericht is verzonden, u niet ongedaan maken die. Zie voor meer informatie, [wil ik een bericht in Outlook.com in te trekken](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).

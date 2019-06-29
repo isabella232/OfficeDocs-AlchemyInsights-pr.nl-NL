@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883122"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357564"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook crash stappen voor probleemoplossing
 
@@ -25,10 +27,9 @@ Als u Outlook desktop crash problemen ondervindt, starten door de volgende 3 sta
   
 Stap 1: Onderzoeken van mogelijke problemen met invoegtoepassingen.
   
-Stap 2: Outlook herstellen en het [hulpprogramma voor ondersteuning en herstel-assistent oplossen van fouten bij het opstarten Outlook](https://aka.ms/SaRA-OutlookWontStart) uitvoeren op de computer waarin dit probleem optreedt. 
+Stap 2: Outlook herstellen en het [hulpprogramma voor ondersteuning en herstel-assistent oplossen van fouten bij het opstarten Outlook](https://aka.ms/SaRA-OutlookWontStart) uitvoeren op de computer waarin dit probleem optreedt.
   
-Stap 3: Maak een nieuw Outlook-profiel of kunt u het [hulpprogramma van Outlook-profiel](https://aka.ms/SaRA-OutlookSetupProfile) op de desbetreffende computer uitvoeren. 
+Stap 3: Maak een nieuw Outlook-profiel of kunt u het [hulpprogramma van Outlook-profiel](https://aka.ms/SaRA-OutlookSetupProfile) op de desbetreffende computer uitvoeren.
   
 Als het probleem is opgetreden nadat deze is bijgewerkt en de bovenstaande stappen niet werken, moet u mogelijk terugkeren naar een eerdere build. Zie [hoe u kunt terugkeren naar een eerdere versie van Office 2013 of Office 2016 Klik-en-klaar](https://support.microsoft.com/help/2770432).
   
-
