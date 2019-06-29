@@ -8,33 +8,35 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1369
+ms.custom:
+- "1369"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 518e4dd485ee7c54ce83e65794152e32f4c3a836
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751994"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383092"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a><span data-ttu-id="896f9-102">Bepalen wanneer externe e-mail doorsturen is geconfigureerd op de postvakken</span><span class="sxs-lookup"><span data-stu-id="896f9-102">Identify when external email forwarding is configured on mailboxes</span></span>
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a><span data-ttu-id="03c9d-102">Bepalen wanneer externe e-mail doorsturen is geconfigureerd op de postvakken</span><span class="sxs-lookup"><span data-stu-id="03c9d-102">Identify when external email forwarding is configured on mailboxes</span></span>
 
-<span data-ttu-id="896f9-103">Wanneer een gebruiker configureert externe e-mail doorsturen voor een postbus, wordt de activiteit gecontroleerd als onderdeel van de cmdlet **Set-Mailbox** .</span><span class="sxs-lookup"><span data-stu-id="896f9-103">When a user configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet.</span></span> <span data-ttu-id="896f9-104">Hier ziet u de activiteit met audit-logboek zoeken in de & beveiliging conformiteit.</span><span class="sxs-lookup"><span data-stu-id="896f9-104">You can see the activity using audit log search in the Security & Compliance Center.</span></span>
+<span data-ttu-id="03c9d-103">Wanneer een gebruiker configureert externe e-mail doorsturen voor een postbus, wordt de activiteit gecontroleerd als onderdeel van de cmdlet **Set-Mailbox** .</span><span class="sxs-lookup"><span data-stu-id="03c9d-103">When a user configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet.</span></span> <span data-ttu-id="03c9d-104">Hier ziet u de activiteit met audit-logboek zoeken in de & beveiliging conformiteit.</span><span class="sxs-lookup"><span data-stu-id="03c9d-104">You can see the activity using audit log search in the Security & Compliance Center.</span></span>
 
-1. <span data-ttu-id="896f9-105">Log in op de [Office 365 & conformiteit Beveiligingscentrum](https://protection.office.com/)</span><span class="sxs-lookup"><span data-stu-id="896f9-105">Log in to the [Office 365 Security & Compliance Center](https://protection.office.com/)</span></span>
+1. <span data-ttu-id="03c9d-105">Log in op de [Office 365 & conformiteit Beveiligingscentrum](https://protection.office.com/)</span><span class="sxs-lookup"><span data-stu-id="03c9d-105">Log in to the [Office 365 Security & Compliance Center](https://protection.office.com/)</span></span>
 
-2. <span data-ttu-id="896f9-106">Klik op **Zoeken en onderzoek** en **Audit-logboek zoeken**selecteren.</span><span class="sxs-lookup"><span data-stu-id="896f9-106">Click **Search and Investigation** and select **Audit Log Search**.</span></span>
+2. <span data-ttu-id="03c9d-106">Klik op **Zoeken en onderzoek** en **Audit-logboek zoeken**selecteren.</span><span class="sxs-lookup"><span data-stu-id="03c9d-106">Click **Search and Investigation** and select **Audit Log Search**.</span></span>
 
-3. <span data-ttu-id="896f9-107">Selecteer het datumbereik in de velden **begindatum** en **einddatum** .</span><span class="sxs-lookup"><span data-stu-id="896f9-107">Select the date range in the **Start date** and **End date** fields.</span></span> <span data-ttu-id="896f9-108">U hoeft niet een gebruikersnaam opgeven.</span><span class="sxs-lookup"><span data-stu-id="896f9-108">You don't need to specify a username.</span></span> <span data-ttu-id="896f9-109">Controleer of dat de **activiteiten** -veld is ingesteld op het **weergeven van resultaten voor alle activiteiten**.</span><span class="sxs-lookup"><span data-stu-id="896f9-109">Verify the **Activities** field is set to **Show results for all activities**.</span></span>
+3. <span data-ttu-id="03c9d-107">Selecteer het datumbereik in de velden **begindatum** en **einddatum** .</span><span class="sxs-lookup"><span data-stu-id="03c9d-107">Select the date range in the **Start date** and **End date** fields.</span></span> <span data-ttu-id="03c9d-108">U hoeft niet een gebruikersnaam opgeven.</span><span class="sxs-lookup"><span data-stu-id="03c9d-108">You don't need to specify a username.</span></span> <span data-ttu-id="03c9d-109">Controleer of dat de **activiteiten** -veld is ingesteld op het **weergeven van resultaten voor alle activiteiten**.</span><span class="sxs-lookup"><span data-stu-id="03c9d-109">Verify the **Activities** field is set to **Show results for all activities**.</span></span>
 
-4. <span data-ttu-id="896f9-110">Klik op **Zoeken**.</span><span class="sxs-lookup"><span data-stu-id="896f9-110">Click **Search**.</span></span>
+4. <span data-ttu-id="03c9d-110">Klik op **Zoeken**.</span><span class="sxs-lookup"><span data-stu-id="03c9d-110">Click **Search**.</span></span>
 
-<span data-ttu-id="896f9-111">In de resultaten, klikt u op **Filterresultaten** en **Set-Postvak** typt in het vak activiteit filter.</span><span class="sxs-lookup"><span data-stu-id="896f9-111">In the results, click **Filter Results** and type **Set-Mailbox** in the activity filter box.</span></span> <span data-ttu-id="896f9-112">Selecteer een audit record in de resultaten.</span><span class="sxs-lookup"><span data-stu-id="896f9-112">Select an audit record in the results.</span></span> <span data-ttu-id="896f9-113">Klik op **meer informatie**in het doel **Details** .</span><span class="sxs-lookup"><span data-stu-id="896f9-113">In the **Details** flyout, click **More information**.</span></span> <span data-ttu-id="896f9-114">U moet de details van elke record controleren om te bepalen of de activiteit betrekking heeft op het doorsturen van e-mail.</span><span class="sxs-lookup"><span data-stu-id="896f9-114">You have to look at the details of each audit record to determine if the activity is related to email forwarding.</span></span>
+<span data-ttu-id="03c9d-111">In de resultaten, klikt u op **Filterresultaten** en **Set-Postvak** typt in het vak activiteit filter.</span><span class="sxs-lookup"><span data-stu-id="03c9d-111">In the results, click **Filter Results** and type **Set-Mailbox** in the activity filter box.</span></span> <span data-ttu-id="03c9d-112">Selecteer een audit record in de resultaten.</span><span class="sxs-lookup"><span data-stu-id="03c9d-112">Select an audit record in the results.</span></span> <span data-ttu-id="03c9d-113">Klik op **meer informatie**in het doel **Details** .</span><span class="sxs-lookup"><span data-stu-id="03c9d-113">In the **Details** flyout, click **More information**.</span></span> <span data-ttu-id="03c9d-114">U moet de details van elke record controleren om te bepalen of de activiteit betrekking heeft op het doorsturen van e-mail.</span><span class="sxs-lookup"><span data-stu-id="03c9d-114">You have to look at the details of each audit record to determine if the activity is related to email forwarding.</span></span>
 
-- <span data-ttu-id="896f9-115">**Object-id**: de waarde van de alias van het postvak dat is gewijzigd.</span><span class="sxs-lookup"><span data-stu-id="896f9-115">**ObjectId**: The alias value of the mailbox that was modified.</span></span>
+- <span data-ttu-id="03c9d-115">**Object-id**: de waarde van de alias van het postvak dat is gewijzigd.</span><span class="sxs-lookup"><span data-stu-id="03c9d-115">**ObjectId**: The alias value of the mailbox that was modified.</span></span>
 
-- <span data-ttu-id="896f9-116">**Parameters**: _ForwardingSmtpAddress_ geeft aan dat het doel-e-mailadres.</span><span class="sxs-lookup"><span data-stu-id="896f9-116">**Parameters**: _ForwardingSmtpAddress_ indicates the target email address.</span></span>
+- <span data-ttu-id="03c9d-116">**Parameters**: _ForwardingSmtpAddress_ geeft aan dat het doel-e-mailadres.</span><span class="sxs-lookup"><span data-stu-id="03c9d-116">**Parameters**: _ForwardingSmtpAddress_ indicates the target email address.</span></span>
 
-- <span data-ttu-id="896f9-117">**UserId**: de gebruiker die het doorsturen van e-mail in het postvak in in het veld **id** geconfigureerd.</span><span class="sxs-lookup"><span data-stu-id="896f9-117">**UserId**: The user who configured email forwarding on the mailbox in the **ObjectId** field.</span></span>
+- <span data-ttu-id="03c9d-117">**UserId**: de gebruiker die het doorsturen van e-mail in het postvak in in het veld **id** geconfigureerd.</span><span class="sxs-lookup"><span data-stu-id="03c9d-117">**UserId**: The user who configured email forwarding on the mailbox in the **ObjectId** field.</span></span>
 
-<span data-ttu-id="896f9-118">Zie [vaststellen die e-mail doorsturen voor een postbus instellen](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="896f9-118">For more information, see [Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span></span>
+<span data-ttu-id="03c9d-118">Zie [vaststellen die e-mail doorsturen voor een postbus instellen](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="03c9d-118">For more information, see [Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span></span>
