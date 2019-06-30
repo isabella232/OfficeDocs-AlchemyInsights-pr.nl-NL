@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392366"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372544"
 ---
 # <a name="replying-in-outlookcom"></a>Antwoorden met Outlook.com
 
 Één bericht tegelijk beantwoorden:
 
-1. Kies in uw berichtenlijst het bericht dat u wilt doorsturen.
+1. Kies in uw berichtenlijst het bericht dat u wilt beantwoorden.
 2. Boven selecteert u de pijl **beantwoorden** of **Allen beantwoorden** pijlen rechts van het berichtvenster.
 3. Typ uw bericht en selecteer **verzenden**.
 
 Alle berichten automatisch beantwoorden:
 
-1. Open de [Instellingen voor automatische antwoorden](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Ga naar **Instellingen** > **alle Outlook-instellingen weergeven** > **e** > **automatische antwoorden** op uw [automatisch beantwoorden instellingen](https://outlook.live.com/mail/options/mail/automaticReplies)te openen.
 2. Het **inschakelen van automatische antwoorden** weergeven/verbergen selecteren.
 3. Het selectievakje **antwoorden alleen tijdens een bepaalde periode** kunt u:
     - Alleen antwoorden verzenden wanneer u kiest. Als u een bepaalde periode niet instelt, blijft uw automatische antwoord op totdat u deze uitschakelt.
