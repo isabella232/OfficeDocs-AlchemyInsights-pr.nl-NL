@@ -9,32 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800001
+ms.custom:
+- "626"
+- "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: ad29c88bde451695c3e9a915f8452f3ea1a5b1ea
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dad0ecbacf20d5fc2fd0fa46bcf5a30cff44c58d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404960"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389932"
 ---
-<span data-ttu-id="2b3ee-102">Gebruik de volgende stappen uit om een profiel verwijdert.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-102">To delete a profile, use the following steps.</span></span>
-  
-1. <span data-ttu-id="2b3ee-103">Selecteer **bestand** in Outlook \> **Accountinstellingen** \> **Profielen beheren**.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-103">In Outlook, select **File** \> **Account Settings** \> **Manage Profiles**.</span></span>
-    
-2. <span data-ttu-id="2b3ee-104">Selecteer de **Profielen weergeven**.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-104">Select **Show Profiles**.</span></span>
-    
-3. <span data-ttu-id="2b3ee-105">In het dialoogvenster **e-mailberichten** , selecteer het profiel dat u wilt verwijderen en klik op **verwijderen**.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-105">In the **Mail** dialog, select the profile you want to delete, then click **Remove**.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="2b3ee-106">Outlook kan u waarschuwen dat uw profiel, off line gegevens verwijdert worden.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-106">Outlook may warn you that deleting your profile will remove offline data.</span></span> <span data-ttu-id="2b3ee-107">U verliest geen gegevens zijn opgeslagen in uw Outlook-gegevensbestanden (.pst) of alle informatie opgeslagen in uw online accounts, zoals Outlook.com, Exchange of Office 365-accounts.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-107">You won't lose any information stored in your Outlook Data Files (.pst) or any information stored in your online accounts, for example Outlook.com, Exchange, or Office 365 accounts.</span></span> 
-  
-<span data-ttu-id="2b3ee-108">Voor \*\* Outlook voor Mac \*\* profiel beheer, Zie [profielen beheren of identiteiten in Outlook voor Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) of gebruik de volgende stappen.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-108">For \*\* Outlook for Mac \*\* profile management, see [Manage profiles or identities in Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) or use the following steps.</span></span> 
-  
-1. <span data-ttu-id="2b3ee-109">Open in de Finder de map **toepassingen** .</span><span class="sxs-lookup"><span data-stu-id="2b3ee-109">From Finder, open the **Applications** folder.</span></span> 
-    
-2. <span data-ttu-id="2b3ee-110">CTRL + klik of klik met de rechtermuisknop, **Microsoft Outlook**en selecteer **Toon pakketinhoud**.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-110">Ctrl+click or right-click **Microsoft Outlook**, and then select **Show Package Contents**.</span></span>
-    
-3. <span data-ttu-id="2b3ee-111">Selecteer **inhoud** \> **Ondersteuning voor gedeelde**en vervolgens Start **Profielbeheer van Outlook**.</span><span class="sxs-lookup"><span data-stu-id="2b3ee-111">Select **Contents** \> **Shared Support**, and then launch **Outlook Profile Manager**.</span></span>
-    
+# <a name="delete-a-profile"></a><span data-ttu-id="723f4-102">Een profiel verwijderen</span><span class="sxs-lookup"><span data-stu-id="723f4-102">Delete a profile</span></span>
 
+<span data-ttu-id="723f4-103">Gebruik de volgende stappen uit om een profiel verwijdert.</span><span class="sxs-lookup"><span data-stu-id="723f4-103">To delete a profile, use the following steps.</span></span>
+  
+1. <span data-ttu-id="723f4-104">Selecteer **bestand** in Outlook \> **Accountinstellingen** \> **Profielen beheren**.</span><span class="sxs-lookup"><span data-stu-id="723f4-104">In Outlook, select **File** \> **Account Settings** \> **Manage Profiles**.</span></span>
+
+2. <span data-ttu-id="723f4-105">Selecteer de **Profielen weergeven**.</span><span class="sxs-lookup"><span data-stu-id="723f4-105">Select **Show Profiles**.</span></span>
+
+3. <span data-ttu-id="723f4-106">In het dialoogvenster **e-mailberichten** , selecteer het profiel dat u wilt verwijderen en klik op **verwijderen**.</span><span class="sxs-lookup"><span data-stu-id="723f4-106">In the **Mail** dialog, select the profile you want to delete, then click **Remove**.</span></span>
+
+    > [!NOTE]
+    > <span data-ttu-id="723f4-107">Outlook kan u waarschuwen dat uw profiel, off line gegevens verwijdert worden.</span><span class="sxs-lookup"><span data-stu-id="723f4-107">Outlook may warn you that deleting your profile will remove offline data.</span></span> <span data-ttu-id="723f4-108">U verliest geen gegevens zijn opgeslagen in uw Outlook-gegevensbestanden (.pst) of alle informatie opgeslagen in uw online accounts, zoals Outlook.com, Exchange of Office 365-accounts.</span><span class="sxs-lookup"><span data-stu-id="723f4-108">You won't lose any information stored in your Outlook Data Files (.pst) or any information stored in your online accounts, for example Outlook.com, Exchange, or Office 365 accounts.</span></span>
+  
+<span data-ttu-id="723f4-109">Zie [profielen beheren of identiteiten in Outlook voor Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) voor **Outlook voor Mac** Profielbeheer, of Voer de volgende stappen uit.</span><span class="sxs-lookup"><span data-stu-id="723f4-109">For **Outlook for Mac** profile management, see [Manage profiles or identities in Outlook for Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) or use the following steps.</span></span>
+  
+1. <span data-ttu-id="723f4-110">Open in de Finder de map **toepassingen** .</span><span class="sxs-lookup"><span data-stu-id="723f4-110">From Finder, open the **Applications** folder.</span></span>
+
+2. <span data-ttu-id="723f4-111">CTRL + klik of klik met de rechtermuisknop, **Microsoft Outlook**en selecteer **Toon pakketinhoud**.</span><span class="sxs-lookup"><span data-stu-id="723f4-111">Ctrl+click or right-click **Microsoft Outlook**, and then select **Show Package Contents**.</span></span>
+
+3. <span data-ttu-id="723f4-112">Selecteer **inhoud** \> **Ondersteuning voor gedeelde**en vervolgens Start **Profielbeheer van Outlook**.</span><span class="sxs-lookup"><span data-stu-id="723f4-112">Select **Contents** \> **Shared Support**, and then launch **Outlook Profile Manager**.</span></span>
