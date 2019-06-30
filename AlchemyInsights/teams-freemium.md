@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771409"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354000"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Ik wil mij aanmelden voor gratis Teams, maar niet voor.
 
@@ -23,5 +25,3 @@ ms.locfileid: "34771409"
 - Academische instellingen zijn niet in aanmerking voor deze gratis aanbieding. Docenten en studenten, maar krijgt een gratis versie van Office 365, inclusief een volledige versie van Microsoft-Teams. Zie [Office 365 licenties voor Microsoft-Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 
 - Amerikaanse overheidsinstellingen worden niet in aanmerking voor deze gratis aanbieding. Lees meer over Office 365 plannen voor overheidsorganisaties (inclusief een gratis proefversie), [Office 365 licenties voor Microsoft-Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing).
-
-

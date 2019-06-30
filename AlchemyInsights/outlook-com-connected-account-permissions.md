@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417943"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375784"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Bij het herstellen van 'Het lijkt erop dat we niet gemachtigd'
 
 Als u het foutbericht ziet "het lijkt erop dat we niet gemachtigd om e-mail voor..." Doe het volgende:
 
-1. Open uw [Account verbonden instellingen](https://outlook.live.com/mail/options/mail/accounts) en verwijdert of de verbonden account die wordt vermeld in de fout. 
+1. Open uw [Account verbonden instellingen](https://outlook.live.com/mail/options/mail/accounts) en verwijdert of de verbonden account die wordt vermeld in de fout.
 2. De verbonden account opnieuw toevoegen.
 3. Ga [terug naar uw Postvak](https://outlook.live.com/mail/inbox).
 

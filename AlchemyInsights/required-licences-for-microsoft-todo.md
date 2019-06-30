@@ -9,53 +9,54 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "164"
+- "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2f368be8419e9b3ed949ace9c26562a66db6113e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383984"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370021"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Vereiste licenties voor Microsoft-ToDo
 
 [Vereiste licenties voor Microsoft-ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Een gebruiker moet een van de volgende certificaten gebruiken Microsoft ToDo:
+Een gebruiker moet een van de volgende licenties voor Microsoft ToDo gebruiken:
   
 - Business Essentials
-    
+
 - Business Premium
-    
+
 - Microsoft 365 Firstline F1
-    
+
 - Alle Office 365 Enterprise-serviceplan
-    
+
 - Beveiligde productieve Business
-    
+
 - Secure Enterprise productieve E3
-    
+
 - Secure Enterprise productieve E5
-    
+
 - Alle Office 365 Education plan
-    
+
 - Microsoft 365 A3
-    
+
 - Microsoft 365 A5
-    
-Naast een geldige productcode beschikt, is een van de volgende versies van Exchange Online nodig voor ToDo kunnen gebruikersgegevens synchroniseren: 
+
+Naast een geldige productcode beschikt, is een van de volgende versies van Exchange Online nodig voor ToDo kunnen gebruikersgegevens synchroniseren:
   
 - Exchange Online Abonnement 1
-    
+
 - Exchange Online Abonnement 2
-    
+
 - Exchange Essentials
-    
+
 - Exchange Online Kiosk
-    
+
 - Exchange Online POP
-    
+
 [Licenties toewijzen aan gebruikersaccounts met Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
-
