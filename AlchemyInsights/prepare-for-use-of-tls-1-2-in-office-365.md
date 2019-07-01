@@ -1,5 +1,5 @@
 ---
-title: Voorbereiden voor gebruik van TLS 1.2 in Office 365
+title: Voorbereiden voor het gebruik van TLS 1.2 in Office 365
 ms.author: pebaum
 author: pebaum
 ms.date: 10/30/2018
@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29465473"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370922"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Voorbereiden voor gebruik van TLS 1.2 in Office 365
+# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Voorbereiden voor het gebruik van TLS 1.2 in Office 365
 
-Op 31 oktober 2018 gaan Office 365 overstappen naar TLS 1.2. Dit betekent dat Microsoft geen nieuwe problemen die zijn gevonden in clients, apparaten of services die verbinding met Office 365 maken via TLS 1.0 en 1.1 wordt verholpen. **Dit betekent niet dat Office 365 TLS 1.0 en 1.1 verbindingen blokkeert.** De datum van de uiteindelijke afschrijving wordt bepaald door het gebruik van de klant en de huidige status van de oude TLS beveiliging. Nadat een beslissing is genomen, zal er een aankondiging zes maanden van tevoren tenzij we op de hoogte van een inbreuk op een bekend geworden, in dat geval moeten we wellicht te handelen in minder dan zes maanden om klanten die gebruikmaken van de services te beschermen. 
+Vanaf 31 oktober 2018 wordt de overstap naar TLS 1.2 in Office 365 voortgezet. Dit betekent dat Microsoft geen nieuwe problemen zal oplossen die worden gevonden in clients, apparaten of services die verbinding maken met Office 365 met behulp van TLS 1.0 en 1.1. **Dit betekent niet dat TLS 1.0- en 1.1-verbindingen worden geblokkeerd in Office 365.** De uiteindelijke datum voor afschaffing wordt bepaald door het klantgebruik en de huidige status van verouderde TLS-beveiliging. Nadat een beslissing hierover is genomen, ontvangt u zes maanden ervóór een melding, tenzij er sprake is van een bekende inbreuk. In dit geval kunnen we worden gedwongen om in minder dan 6 maanden te handelen, om de gebruikers van de services te beveiligen.
   
-Het is raadzaam dat alle servers en clients die verbinding maken met Office 365 moeten zo spoedig mogelijk TLS 1.2 inschakelen.
+U wordt sterk aangeraden om TLS 1.2 zo snel mogelijk in te schakelen voor alle servers en clients die zijn verbonden met Office 365.
   
-Zie voor meer informatie [voorbereiden voor TLS 1.2 in Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+Zie [Voorbereiden voor TLS 1.2 in Office 365](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365) voor meer informatie.
   
-
