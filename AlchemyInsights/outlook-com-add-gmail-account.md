@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377620"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614165"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Uw Gmail-account toevoegen aan Outlook.com
 
@@ -30,4 +30,4 @@ Synchroniseren van een gekoppelde account op de Outlook.com-account kan niet wor
 
 U kunt e-mail verzenden in Outlook.com uit uw Gmail-account verbonden. Wanneer u een e-mailbericht opstelt, selecteert u **in** en kiest u uw Gmail-adres of [uw standaard Verzendadres bijwerken](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Zie voor meer informatie [toevoegen uw andere e-mailaccounts op Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Zie voor meer informatie [toevoegen uw andere e-mailaccounts op Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

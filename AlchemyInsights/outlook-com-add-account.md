@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377764"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614129"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Uw andere e-mailaccounts toevoegen aan Outlook.com
 
@@ -32,6 +32,6 @@ Een gekoppelde account toevoegen:
 
 U kunt een e-mail sturen van een account dat u hebt verbonden met uw Outlook.com-account. Wanneer u een e-mailbericht opstelt, selecteert u **in** en kiest u welke e-mailadres u wilt gebruiken, of [uw standaard Verzendadres bijwerken](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Lees voor meer informatie [toevoegen uw andere e-mailaccounts op Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Lees voor meer informatie [toevoegen uw andere e-mailaccounts op Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Als u een nieuw e-mailadres maken die gebruikmaakt van dezelfde Outlook.com-account [toevoegen of verwijderen van een e-mailalias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)worden gelezen.
+Als u een nieuw e-mailadres maken die gebruikmaakt van dezelfde Outlook.com-account [toevoegen of verwijderen van een e-mailalias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)worden gelezen.
