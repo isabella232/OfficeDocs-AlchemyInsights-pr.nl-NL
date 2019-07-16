@@ -12,27 +12,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35062057"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701426"
 ---
-# <a name="change-your-email-name"></a><span data-ttu-id="cd9a2-102">De naam van uw e-mailadres wijzigen</span><span class="sxs-lookup"><span data-stu-id="cd9a2-102">Change your email name</span></span>
+# <a name="change-your-email-name"></a><span data-ttu-id="14ee7-102">De naam van uw e-mailadres wijzigen</span><span class="sxs-lookup"><span data-stu-id="14ee7-102">Change your email name</span></span>
 
-<span data-ttu-id="cd9a2-103">Als u een e-mailadres en wijzigingen wilt aanbrengen in zien de naam geadresseerden in uw berichten:</span><span class="sxs-lookup"><span data-stu-id="cd9a2-103">If you have one email address and want to change the name recipients will see in your messages:</span></span>
+<span data-ttu-id="14ee7-103">Als u een e-mailadres en wijzigingen wilt aanbrengen in zien de naam geadresseerden in uw berichten:</span><span class="sxs-lookup"><span data-stu-id="14ee7-103">If you have one email address and want to change the name recipients will see in your messages:</span></span>
   
-1. <span data-ttu-id="cd9a2-104">Selecteer de afbeelding in de rechterbovenhoek van de pagina.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-104">Select your account picture at the top right corner of the page.</span></span>
-2. <span data-ttu-id="cd9a2-105">**Mijn profiel**selecteren.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-105">Select **My profile**.</span></span>
-3. <span data-ttu-id="cd9a2-106">Selecteer **bewerken naam** wijzigen en selecteer **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-106">Select **Edit name** to make changes and select **Save**.</span></span>
+1. <span data-ttu-id="14ee7-104">Selecteer de afbeelding in de rechterbovenhoek van de pagina.</span><span class="sxs-lookup"><span data-stu-id="14ee7-104">Select your account picture at the top right corner of the page.</span></span>
+2. <span data-ttu-id="14ee7-105">**Mijn profiel**selecteren.</span><span class="sxs-lookup"><span data-stu-id="14ee7-105">Select **My profile**.</span></span>
+3. <span data-ttu-id="14ee7-106">Selecteer **bewerken naam** wijzigen en selecteer **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="14ee7-106">Select **Edit name** to make changes and select **Save**.</span></span>
 
-<span data-ttu-id="cd9a2-107">Wacht 24 uur voor wijzigingen in de profielnaam van uw worden toegepast.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="14ee7-107">Wacht 24 uur voor wijzigingen in de profielnaam van uw worden toegepast.</span><span class="sxs-lookup"><span data-stu-id="14ee7-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
   
-<span data-ttu-id="cd9a2-108">Als u meer dan één e-mailalias of adres verbonden met uw Outlook.com-account hebt, kunt u e-mail verzenden vanaf een van de adressen.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
+<span data-ttu-id="14ee7-108">Als u meer dan één e-mailalias of adres verbonden met uw Outlook.com-account hebt, kunt u e-mail verzenden vanaf een van de adressen.</span><span class="sxs-lookup"><span data-stu-id="14ee7-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
   
-1. <span data-ttu-id="cd9a2-109">Wanneer u een bericht opstelt, selecteert u "..." onderaan in het venster opstellen.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
-1. <span data-ttu-id="cd9a2-110">Selecteer **Weergeven uit** voor een overzicht van de regel.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-110">Select **Show From** to see the From line.</span></span>
-1. <span data-ttu-id="cd9a2-111">Boven de regel, **selecteren** en kies welk e-mailadres dat u wilt gebruiken.</span><span class="sxs-lookup"><span data-stu-id="cd9a2-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
+1. <span data-ttu-id="14ee7-109">Wanneer u een bericht opstelt, selecteert u "..." onderaan in het venster opstellen.</span><span class="sxs-lookup"><span data-stu-id="14ee7-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
+1. <span data-ttu-id="14ee7-110">Selecteer **Weergeven uit** voor een overzicht van de regel.</span><span class="sxs-lookup"><span data-stu-id="14ee7-110">Select **Show From** to see the From line.</span></span>
+1. <span data-ttu-id="14ee7-111">Boven de regel, **selecteren** en kies welk e-mailadres dat u wilt gebruiken.</span><span class="sxs-lookup"><span data-stu-id="14ee7-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
 
-<span data-ttu-id="cd9a2-112">Zie voor meer informatie [per E-mail vanaf een ander adres in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="cd9a2-112">For more information, see [Send email from a different address in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span></span>
+<span data-ttu-id="14ee7-112">Zie voor meer informatie [per E-mail vanaf een ander adres in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="14ee7-112">For more information, see [Send email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
