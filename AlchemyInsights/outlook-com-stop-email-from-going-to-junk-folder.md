@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371788"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35696934"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Berichten uit te gaan naar de map Ongewenste E-mail stoppen
 
@@ -31,4 +31,4 @@ Als u voorkomen dat berichten van een afzender naar de map Ongewenste E-mail wil
 1. Open de [Instellingen voor ongewenste e-mail](https://go.microsoft.com/fwlink/?linkid=2035804).
 1. In de **lijsten Veilige afzenders en domeinen** **toevoegen**selecteert, voert u het e-mailadres of domein dat u wilt toevoegen en selecteer **Opslaan**.
 
-Voor meer informatie, Lees [e-mail als ongewenste e-mail of blokkeren van afzenders in Outlook.com markeren](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Voor meer informatie, Lees [e-mail als ongewenste e-mail of blokkeren van afzenders in Outlook.com markeren](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

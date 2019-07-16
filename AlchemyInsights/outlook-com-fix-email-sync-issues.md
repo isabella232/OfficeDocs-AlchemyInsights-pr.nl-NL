@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: ad2603be9f2a154daa18ebbab01f22988b434dcb
-ms.sourcegitcommit: 9f2869118b70ac3918d699474452bef2ff615e11
+ms.openlocfilehash: 68df24c1de3cc2395f3de60944250d6822ef64bc
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34116438"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704123"
 ---
 # <a name="fix-outlookcom-email-sync-issues"></a>E-mail van Outlook.com problemen met synchronisatie oplossen
 
@@ -26,4 +26,4 @@ Als u geen e-mailadres van een specifieke afzender ontvangt, zoals berichten opn
   
 Als de afzender niet in uw lijst met geblokkeerde afzenders, moet u contact opnemen met de afzender en laten weten dat u geen e-mail ontvangt op je Outlook.com-account. Raadpleeg de afzender te [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409), waar zij informatie over beste praktijken, aanbevolen oplossingen, en een koppeling naar Neem contact op met het ondersteuningsteam van Outlook.com afzender kunnen vinden.
   
-Als u geen e-mailadres op alle ontvangt, Zie [problemen met synchronisatie oplossen Outlook.com e-mailadres](https://go.microsoft.com/fwlink/p/?linkid=2001207&amp;clcid=0x409).
+Als u geen e-mailadres op alle ontvangt, Zie [problemen met synchronisatie oplossen Outlook.com e-mailadres](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
