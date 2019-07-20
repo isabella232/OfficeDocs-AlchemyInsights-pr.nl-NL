@@ -11,22 +11,23 @@ ms.custom:
 - "1012"
 - "5300012"
 ms.assetid: 50249bb9-3c28-408f-946b-2caab6b1b9f4
-ms.openlocfilehash: 88086a37b30448b6849f78f7504e64f5c38ecbee
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4915604747f504ddc321f6f845940218743c6c4f
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360444"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802781"
 ---
-# <a name="associate-a-hub-site"></a><span data-ttu-id="94f35-102">Een hubsite koppelen</span><span class="sxs-lookup"><span data-stu-id="94f35-102">Associate a Hub site</span></span>
+# <a name="associate-a-hub-site"></a><span data-ttu-id="24b80-102">Een hubsite koppelen</span><span class="sxs-lookup"><span data-stu-id="24b80-102">Associate a Hub site</span></span>
 
-<span data-ttu-id="94f35-103">Als wilt koppelen aan een bestaande site op uw hubsite, het volgende doen:</span><span class="sxs-lookup"><span data-stu-id="94f35-103">To associate an existing site to your hub site, do the following:</span></span>
+<span data-ttu-id="24b80-103">Als wilt koppelen aan een bestaande site op uw hubsite, het volgende doen:</span><span class="sxs-lookup"><span data-stu-id="24b80-103">To associate an existing site to your hub site, do the following:</span></span>
   
-1. <span data-ttu-id="94f35-104">Klik op uw site op **instellingen (** vistuig-pictogram in de rechterbovenhoek), en klik vervolgens op **Site-informatie**.</span><span class="sxs-lookup"><span data-stu-id="94f35-104">On your site, click **Settings (** gear icon in the top right corner), and then click **Site information**.</span></span>
+1. <span data-ttu-id="24b80-104">Selecteer **Instellingen** (het vistuig-pictogram in de rechterbovenhoek) op uw site, en vervolgens selecteert u **Site-informatie**.</span><span class="sxs-lookup"><span data-stu-id="24b80-104">On your site, select **Settings** (the gear icon in the top right corner), and then select **Site information**.</span></span>
 
-2. <span data-ttu-id="94f35-105">In het deelvenster bewerken site informatie, onder Hub site-koppeling, selecteer de hubsite die u wilt dat uw site wilt koppelen en klik op **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="94f35-105">In the Edit site information panel, under Hub site association, select the hub site with which you want to associate your site, and then click **Save**.</span></span> <span data-ttu-id="94f35-106">Het uiterlijk van uw site wordt aangepast aan die van de hubsite en de hub site-navigatiebalk boven aan het weergegeven.</span><span class="sxs-lookup"><span data-stu-id="94f35-106">The look of your site will change to match that of the hub site and the hub site navigation bar will appear at the top.</span></span>
+2. <span data-ttu-id="24b80-105">Selecteer de hubsite die u wilt koppelen in het paneel **sitegegevens bewerken** in het menu **site-koppeling Hub** u bent uw site en selecteer vervolgens **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="24b80-105">In the **Edit site information** panel, in the **Hub site association** menu, select the hub site that you want to associate your your site, and then select **Save**.</span></span> <span data-ttu-id="24b80-106">Het uiterlijk van uw site wordt aangepast aan die van de hubsite en de hub site-navigatiebalk boven aan het weergegeven.</span><span class="sxs-lookup"><span data-stu-id="24b80-106">The look of your site will change to match that of the hub site and the hub site navigation bar will appear at the top.</span></span>
 
- <span data-ttu-id="94f35-107">**Opmerking**: als de optie Hub site-koppeling niet aanwezig is of geen sites staan, hub sites mogelijk niet ingeschakeld of u bent niet gemachtigd sites koppelen aan een hubsite.</span><span class="sxs-lookup"><span data-stu-id="94f35-107">**Note**: If the Hub site association option is not present or no sites are listed there, hub sites may not be enabled or you may not have permission to associate sites with a hub site.</span></span> <span data-ttu-id="94f35-108">Neem contact op met uw beheerder voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="94f35-108">Contact your administrator for more information.</span></span>
-  
- <span data-ttu-id="94f35-109">**Opmerking:** Er is geen limiet op het aantal sites dat gekoppeld met een hubsite worden kan.</span><span class="sxs-lookup"><span data-stu-id="94f35-109">**Note:** There is no limit on the number of sites that can be associated with a hub site.</span></span>
+ > [!Note]
+><span data-ttu-id="24b80-107">Als de optie Hub site-koppeling niet aanwezig is of geen sites staan, hub sites mogelijk niet ingeschakeld of u bent niet gemachtigd sites koppelen aan een hubsite.</span><span class="sxs-lookup"><span data-stu-id="24b80-107">If the Hub site association option is not present or no sites are listed there, hub sites may not be enabled or you may not have permission to associate sites with a hub site.</span></span> <span data-ttu-id="24b80-108">Neem contact op met uw beheerder voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="24b80-108">Contact your administrator for more information.</span></span>
+
+><span data-ttu-id="24b80-109">Er is geen limiet op het aantal sites dat gekoppeld met een hubsite worden kan.</span><span class="sxs-lookup"><span data-stu-id="24b80-109">There is no limit on the number of sites that can be associated with a hub site.</span></span>
   
