@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132718"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903933"
 ---
 # <a name="edit-a-read-only-file"></a>Een alleen-lezen bestand bewerken
 
@@ -25,7 +25,7 @@ Klik op **Menu openen** (de drie puntjes) in plaats van te klikken op de titel v
 
 Opmerkingen:
 
-- Als u liever documenten zijn geopend voor bewerken in Office Online als u op de titel klikt, kunt u de bibliotheek instellen doen (als u gemachtigd bent om de instellingen van documentbibliotheek wijzigen).
+- Als u liever documenten openen in Office bewerken wanneer u klikt op de titel, kunt u de bibliotheek instellen dat moet doen (als u gemachtigd bent om de instellingen van documentbibliotheek wijzigen).
 
 - Hebt u de bibliotheken met Afhandeling, vereiste kolommen of als alleen de gebruikers die u in de instellingen van de versie van een SharePoint bewerken kunnen-documentbibliotheek, worden deze items worden gesynchroniseerd als alleen-lezen.
 
