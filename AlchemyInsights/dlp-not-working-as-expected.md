@@ -13,34 +13,38 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 3d8316502b4e51a101197a908cf691f0ab7f845a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389608"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941063"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP, werken niet zoals verwacht
 
 Hebt u problemen met **Gegevens verlies te voorkomen (DLP)** in Office 365 werkt niet zoals verwacht? Als dat zo is, zorg ervoor dat uw **DLP-beleid** correct is ingesteld en dat de gegevens welke het **DLP-beleid bevatten** is op zoek naar wanneer wordt geëvalueerd.
   
- **DLP instellen:**
+ **DLP instellen**
   
 DLP-beleid kunt u te identificeren en het beschermen van gevoelige informatie in uw organisatie. DLP-beleid instellen, gebruikt u de informatie [hier](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **Wat DLP-beleid zoekt:**
+ **DLP-beleid zoeken naar**
   
 Wanneer u de **ingebouwde gevoelige informatietypen** in Office 365 beveiliging en naleving center, zoek DLP-beleid specifieke patronen en elementen bij het opsporen van deze gevoelige soorten.
   
-- **Ingebouwde gevoelige informatietypen:**
+- **Ingebouwde gevoelige informatietypen**
 
     Zie voor meer informatie over de ingebouwde typen gevoelige en wat een DLP-beleid naar zoekt wanneer de gevoelige type detecteren: [de gevoelige informatie welke zoekt](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Aangepaste gevoelige informatietypen:**
+- **Typen aangepaste gevoelige informatie**
 
     Als u probeert te maken van aangepaste gevoelige gegevenstypen, gebruikt u het volgende artikel voor informatie over het maken van een aangepast type gevoelige: [een type aangepaste gevoelige informatie maken](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
- **Rapporten:**
+**Een DLP-beleid testen**
+
+Gebruik de optie **type Test** onder **categorieën**om te testen uw gegevens met een ingebouwde of aangepaste gevoelige informatie, > **gevoelige informatietypen**. Zie [aangepaste gevoelige informatietypen](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)voor meer informatie.
+
+ **Rapporten**
   
 - Krijg inzicht met gevoelige gegevens [DLP rapporten.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
