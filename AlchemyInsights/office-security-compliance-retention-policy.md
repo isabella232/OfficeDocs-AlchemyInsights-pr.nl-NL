@@ -1,25 +1,24 @@
 ---
-title: Nieuwe inhouding labels automatisch gemaakt
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Meer info over bewaarbeleid
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222987"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448830"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nieuwe inhouding labels automatisch gemaakt
+# <a name="more-info-about-retention-policies"></a>Meer info over bewaarbeleid
 
 Voor de meeste organisaties, de omvang en de complexiteit van hun gegevens stijgt dagelijks - e-mail, documenten, berichten en meer.
-
-Effectief beheren of ten opzichte van deze informatie is belangrijk, een bewaarbeleid kan u helpen bij deze doelstellingen te verwezenlijken. Ga naar de onderstaande koppelingen voor meer informatie over bewaarbeleid.
+Effectief beheren of ten opzichte van deze informatie is belangrijk en een bewaarbeleid kan u helpen bij deze doelstellingen te verwezenlijken. Ga naar deze koppelingen voor meer informatie over bewaarbeleid:
 
 - [Overzicht van het bewaarbeleid](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
