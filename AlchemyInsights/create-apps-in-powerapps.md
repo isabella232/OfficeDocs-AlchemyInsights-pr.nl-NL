@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404958"
 ---
 # <a name="create-apps-with-powerapps"></a>Apps maken met PowerApps
 
-PowerApps is een ontwikkelplatform voor zakelijke toepassingen. Het heeft drie hoofdonderdelen: 
+PowerApps is een ontwikkelingsplatform voor zakelijke apps. Het bestaat uit drie hoofdonderdelen: 
   
-- [Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) starten met uw gebruikerservaring besteed hier een uiterst op maat gemaakte interface met de kracht van een leeg canvas en verbonden met uw keuze van 200 gegevensbronnen. U kunt apps canvas voor web, mobiele en Tablet PC-toepassingen bouwen. 
+- [Canvas-apps](https://go.microsoft.com/fwlink/?linkid=874495) beginnen bij de gebruikerservaring. Ontwerp een op maat gemaakte interface met de kracht van een leeg canvas en koppel deze aan een van de 200 gegevensbronnen. U kunt canvas-apps maken voor web-, telefoon- en tablettoepassingen. 
     
-- [Model driven apps](https://go.microsoft.com/fwlink/?linkid=874496) beginnen met het gegevensmodel van uw - bouwen in de vorm van uw core business gegevens en processen in de algemene Service gegevens naar model formulieren, weergaven en andere onderdelen. Model driven apps automatisch genereren fantastische UI die goed is voor alle apparaten. 
+- [Modelgestuurde apps](https://go.microsoft.com/fwlink/?linkid=874496) beginnen bij uw gegevensmodel. Ontwerp formulieren, weergaven en andere componenten aan de hand van de structuur van uw kernbedrijfsgegevens en -processen in de Common Data Service. Modelgestuurde apps genereren automatisch prachtige gebruikersinterfaces die op alle apparaten kunnen worden gebruikt. 
     
-- [Gemeenschappelijke gegevens-Service](https://go.microsoft.com/fwlink/?linkid=874497) is het gegevens-platform dat wordt geleverd met PowerApps en kunt u opslaan en het model van zakelijke gegevens. Het is het platform waarop Dynamics 365 toepassingen worden gebouwd. Als u een Dynamics-klant bent, is uw gegevens al in de Common Data Service. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is het gegevensplatform van PowerApps waarop u bedrijfsgegevens kunt opslaan en ontwerpen. Op dit platform worden Dynamics 365-toepassingen gebouwd. Als u een Dynamics-klant bent, zijn uw gegevens al opgeslagen in de Common Data Service. 
     
-[Meer info over PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[Meer informatie over PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
