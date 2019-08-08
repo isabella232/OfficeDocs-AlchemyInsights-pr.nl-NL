@@ -1,31 +1,34 @@
 ---
-title: Problemen tijdens de migratie van machtiging
-ms.author: kirks
-author: Techwriter40
+title: Problemen tijdens het migreren van gegevens in SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735453"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232518"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemen tijdens het migreren van gegevens in SharePoint Online
 
-U wilt meer dan 100TB aan gegevens migreren naar SharePoint Online wordt weergegeven.
+U wilt meer dan 100TB aan gegevens migreren naar SharePoint Online wordt weergegeven. Volg de onderstaande stappen zodat wij u zo snel mogelijk kunnen helpen. 
 
-Klik op **New Service Request** via telefoon/e-mail hieronder en laat de query als SharePoint migratie van meer dan 100 TB in het tekstvak.
+1. Selecteer **nieuwe Service aanvragen**en vervolgens **nieuwe Service aanvragen**. 
+2. Laat de titel en beschrijving als **SharePoint migratie van meer dan 100 TB**.
+3. Zodra het ticket is ingediend, moet werken met de volgende informatie: 
 
-Zodra het ticket is ingediend, moet werken met de volgende informatie: 
-
-- Uw bedrijfsnaam en de URL van de huurder
-- Geschatte grootte van uw migratie
-- Een schatting van wanneer u wilt beginnen en voltooien van de migratie
-- Beschrijf waar u de inhoud migreert van, zoals SharePoint Server, vak, GDrive, bestandsshares, enz.
+    - Geschatte omvang van de migratie.
+    - Een schatting van wanneer u wilt beginnen en voltooien van de migratie.
+    - Beschrijf waar u de inhoud migreert van, zoals SharePoint Server, vak, GDrive, bestandsshares, enz...
 
 
   

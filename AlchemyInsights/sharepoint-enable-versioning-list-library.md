@@ -1,20 +1,24 @@
 ---
-title: Versiebeheer in een lijst of bibliotheek inschakelen
-ms.author: kirks
-author: Techwriter40
+title: Met versiebeheer in SharePoint en OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223599"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232653"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Versiebeheer voor een SharePoint-lijst of bibliotheek inschakelen
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Met versiebeheer in SharePoint en OneDrive 
 
 
 Als versiebeheer is ingeschakeld in uw SharePoint-lijst of bibliotheek, kunt u opslaan, bijhouden en herstellen van bestanden in een bibliotheek en items in een lijst wanneer zij deze wijzigen. Versiebeheer, gecombineerd met andere instellingen, zoals de afhandeling, hebt u veel controle van de inhoud die is geboekt op de site en de reële waarde kan bieden als u ooit een noodzaak om te kijken of een oude versie van een item of bestand herstellen.

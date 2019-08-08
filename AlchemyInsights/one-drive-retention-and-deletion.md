@@ -1,27 +1,37 @@
 ---
 title: OneDrive bewaren en verwijderen van gegevens
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119684"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232596"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Behoud van OneDrive en verwijdering
 
-[In dit artikel](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) wordt beschreven wat er gebeurt met de OneDrive van een gebruiker wanneer u Office 365-account van de gebruiker voor uw organisatie verwijdert.
+- U kunt [een verwijderde gebruikers OneDrive zetten](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) zelf. Ze zijn in de Prullenbak 93 dagen. 
 
-Zie voor meer informatie over OneDrive vasthouden en verwijderen:
+- Raadpleeg [dit artikel](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) voor meer informatie over:
+    - Hoe u een andere gebruikerstoegang te verlenen tot een verwijderde gebruiker OneDrive.
+    - Wat gebeurt er met de OneDrive van een gebruiker wanneer u Office 365-account van de gebruiker voor uw organisatie verwijdert.
+    - Het configureren van automatische toegang delegeren.
+    - Hoe werkt de verwijdering van OneDrive.
 
-- [Een andere gebruikerstoegang verlenen tot een verwijderde gebruiker OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [Delegatie automatisch toegang configureren](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [Een beschrijving van de verwijdering van OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [Herstelt een verwijderde OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- Geïnteresseerd in beveiliging en conformiteit bewaren en vasthouden?:
+    - [Het bewaarbeleid voor OneDrive en SharePoint-sites](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [eDiscovery geblokkeerd voor OneDrive en SharePoint-sites](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+
