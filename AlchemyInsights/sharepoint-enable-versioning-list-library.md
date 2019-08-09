@@ -2,6 +2,7 @@
 title: Met versiebeheer in SharePoint en OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232653"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270415"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Met versiebeheer in SharePoint en OneDrive 
 
@@ -37,6 +38,7 @@ Ga voor meer informatie over versiebeheer de onderstaande artikelen.
 
 - [Limieten voor versiebeheer](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Opmerking:** Als u een klant van Office 365, is versiebeheer nu standaard ingeschakeld wanneer u nieuwe OneDrive voor Business bibliotheken maken en deze automatisch de laatste 500 versies van een document wordt opgeslagen. Hierdoor kunt u voorkomen dat het verlies van belangrijke documenten of gegevens. Als u bestaande bibliotheken op de OneDrive voor Business-site of op uw teamsite die geen versiebeheer is ingeschakeld, kunt u versiebeheer op deze op elk gewenst moment.
+>[!Note] 
+>Als u een klant van Office 365, is versiebeheer nu standaard ingeschakeld wanneer u nieuwe OneDrive voor Business bibliotheken maken en deze automatisch de laatste 500 versies van een document wordt opgeslagen. Hierdoor kunt u voorkomen dat het verlies van belangrijke documenten of gegevens. Als u bestaande bibliotheken op de OneDrive voor Business-site of op uw teamsite die geen versiebeheer is ingeschakeld, kunt u versiebeheer op deze op elk gewenst moment.
 
 

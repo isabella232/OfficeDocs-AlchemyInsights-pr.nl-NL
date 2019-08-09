@@ -1,9 +1,9 @@
 ---
 title: Problemen met “Openen met Verkenner“ oplossen in SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803033"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270703"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Problemen met “Openen met Verkenner“ oplossen in SharePoint Online
 
@@ -31,9 +31,9 @@ Als u ervoor hebt gekozen om de Verkenner-weergave te gebruiken in plaats van de
 
 > [!Note]  
 > De knop **Openen in Verkenner** verschijnt niet in de nieuwe bibliotheekervaring. Selecteer de vervolgkeuzelijst **Weergave** in de rechterbovenhoek (de naam van de vervolgkeuzelijst is afhankelijk van de huidige weergave) en selecteer vervolgens **Weergeven in Verkenner**.
-
+>
  >De functie Openen met Verkenner van SharePoint maakt gebruik van ActiveX-besturingselementen en wordt daarom alleen ondersteund in Internet Explorer 10 of 11. Openen met Explorer werkt in Windows niet in Microsoft Edge, Google Chrome of Mozilla Firefox, of met het Mac-platform. Om deze reden is de optie Verkennerweergave mogelijk niet beschikbaar.
-
+>
 > - [Waarom knoppen niet beschikbaar zijn op het lint van SharePoint](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 

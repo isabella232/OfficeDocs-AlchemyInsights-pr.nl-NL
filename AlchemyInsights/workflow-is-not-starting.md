@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: efd17c302ae6d857207e87e94d74d3794e94a83a
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: a3bac74c19a77b7703f948c1d8b6bcd182e9b075
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171773"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270775"
 ---
 # <a name="workflow-is-not-starting"></a>Workflow wordt niet gestart.
 
 - SharePoint 2010 en SharePoint 2013 werkstromen zijn niet gestart.
 
-    Als de werkstroom niet wordt gestart, kan er een tijdelijke service probleem waar gebruikers periodieke vertragingen met de voortgang van de workflow ondervinden. Controleer of de [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien als uw organisatie wordt beïnvloed.
+    - Als de werkstroom niet wordt gestart, kan er een tijdelijke service probleem waar gebruikers periodieke vertragingen met de voortgang van de workflow ondervinden. Controleer of de [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien als uw organisatie wordt beïnvloed.
 
-    Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, meld u een support ticket. In veel gevallen hebben werkt we aan een oplossing. Geef ons ten minste 24 uur om een oplossing te voltooien.
+    - Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, meld u een support ticket. In veel gevallen hebben werkt we aan een oplossing. Geef ons ten minste 24 uur om een oplossing te voltooien.
 
 - Werkstromen in SharePoint 2010 vertraagd op start.
 
-    Dit gebeurt als de werkstroom wordt geactiveerd in grote hoeveelheden. (bijvoorbeeld wanneer meerdere items worden toegevoegd in een keer).
+    - Dit gebeurt als de werkstroom wordt geactiveerd in grote hoeveelheden. (bijvoorbeeld wanneer meerdere items worden toegevoegd in een keer).
 
-    Werkstromen zijn niet ontworpen real-time, zodat een vertraging inherent aan het ontwerp gedrag is.
+    - Werkstromen zijn niet ontworpen real-time, zodat een vertraging inherent aan het ontwerp gedrag is.
 
-    Als de werkstroom wordt complexe Extensible Object Markup Language (XMOL), compilatie traag worden. Controleer [Dit](https://support.microsoft.com/en-us/kb/3043697) artikel.
+   -  Als de werkstroom wordt complexe Extensible Object Markup Language (XMOL), compilatie traag worden. Controleer [Dit](https://support.microsoft.com/en-us/kb/3043697) artikel.
 
-    U moet de werkstroom te vereenvoudigen of ontwerpen met behulp van het type Microsoft SharePoint 2013 Workflow platform.
+    - U moet de werkstroom te vereenvoudigen of ontwerpen met behulp van het type Microsoft SharePoint 2013 Workflow platform.
 
-    Ook als de workflowgeschiedenis grote is gegroeid, kunt u de items permanent verwijderen of een nieuw geschiedenisoverzicht maken.
+    - Als de workflowgeschiedenis grote is gegroeid, kunt u de items permanent verwijderen of een nieuw geschiedenisoverzicht maken.
 
-    Meer informatie: [workflowgeschiedenis leegmaken](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Meer informatie: [workflowgeschiedenis leegmaken](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Verwante onderwerpen
-Wilt u proberen Microsoft stroom in SharePoint Online?
+Wilt u proberen Microsoft Flow in SharePoint Online?
 - [Stroom maken](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint en stroom](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 

@@ -1,30 +1,36 @@
 ---
-title: De woordenlijsten zoeken in SharePoint Online beheren
-ms.author: kirks
-author: Techwriter40
+title: Zoekschema in SharePoint Online beheren
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 6c019de453a2185f42fa2fcffd8510fd06a33759
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f49195bec64f115063ccfb5256e27fbecd4a54f6
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758446"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270094"
 ---
 # <a name="manage-search-schema-in-sharepoint-online"></a>Zoekschema in SharePoint Online beheren
 
 Het zoekschema bepaalt wat gebruikers kunnen zoeken, hoe gebruikers daarin kunnen zoeken en de resultaten op uw websites zoeken aanbieden. 
 
-Zie het zoekschema wijzigen en verkende eigenschappen toewijzen aan beheerde eigenschappen maken van beheerde eigenschappen, [beheren het zoekschema in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema). Als er een waarschuwing 'de toepassing is onderbroken' bij het maken van een schemawijziging, dit is slechts tijdelijk is service onderhoud plaatsvindt. 
+Zie [het zoekschema in SharePoint Online beheren](https://docs.microsoft.com/sharepoint/manage-search-schema) voor meer informatie over hoe u kunt: 
+- Wijzig het zoekschema.
+- Beheerde eigenschappen maakt.
+- Kaart verkende toegewezen verkende eigenschappen aan beheerde eigenschappen.
 
-Als u meer dan 24 uur zijn verstreken en de waarschuwing nog steeds optreedt, meld u een aanvraag voor ondersteuning.
+Let op het volgende met betrekking tot uw zoekschema beheren:
 
-Als u beheerde eigenschappen wijzigen of nieuwe toevoegen, de wijzigingen van kracht nadat u de inhoud hebt opnieuw verkende. In SharePoint Online verkennen gebeurt automatisch op basis van de gedefinieerde verkenningsschema.
+- Als er een waarschuwing weergegeven waarin **de toepassing wordt onderbroken** wanneer u een schemawijziging, dit is slechts tijdelijk onderhoud service optreedt. 
 
-Om ervoor te zorgen dat uw wijzigingen worden verkend, kunt u speciaal [verzoek een opnieuw indexeren van de lijst of bibliotheek](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Als u meer dan 24 uur zijn verstreken en de waarschuwing nog steeds optreedt, meld u een aanvraag voor ondersteuning.
+- Als u beheerde eigenschappen wijzigen of nieuwe toevoegen, de wijzigingen van kracht nadat u de inhoud hebt opnieuw verkende. In SharePoint Online verkennen gebeurt automatisch op basis van de gedefinieerde verkenningsschema.
+- Om ervoor te zorgen dat uw wijzigingen worden verkend, kunt u speciaal [verzoek een opnieuw indexeren van de lijst of bibliotheek](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
 Zie voor een volledig overzicht van het zoekschema [Zoekschema introductie](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+
 
