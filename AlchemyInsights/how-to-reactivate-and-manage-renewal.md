@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383524"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389931"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Het activeren en beheren van periodieke facturering
 
 Waarschijnlijk hebt u een abonnement is verlopen. Als u wilt activeren, hier de hoe.
   
-1. In de Admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of Ga naar **Facturering** \> **abonnementen**.
+1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Kies het abonnement dat is **vervallen** of is **uitgeschakeld**.
 
@@ -36,11 +36,10 @@ Waarschijnlijk hebt u een abonnement is verlopen. Als u wilt activeren, hier de 
 
 Voor het beheren van facturering u maandelijks of jaarlijks schakelen **terugkerende facturering** in- of uitschakelen.
   
-1. In de Admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of Ga naar **Facturering** \> **abonnementen**.
+1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Kies het abonnement waarvoor u wilt beheren, terugkerende facturering.
 
 3. Activeer de **terugkerende factuur** weergeven/verbergen **in** - of **uitschakelen**.
 
-Zie voor meer informatie: [terugkerende facturering voor uw abonnement beheren](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)voor meer informatie.

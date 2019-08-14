@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354072"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388172"
 ---
 # <a name="subscription-recurring-billing"></a>Terugkerende Facturering abonnement
 
 Als u weten wanneer uw abonnement maandelijks of jaarlijks wordt gefactureerd wilt (als **terugkerende facturering** is ingeschakeld) of verlopen (als **terugkerende facturering** is uitgeschakeld):
   
-1. Ga in het beheercentrum naar de pagina [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **Abonnementen**.
+1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Kies het abonnement dat u meer weten wilt over.
 
@@ -33,3 +33,5 @@ Als u weten wanneer uw abonnement maandelijks of jaarlijks wordt gefactureerd wi
 4. Als u wilt doorgaan met de service na deze datum, activeer de **terugkerende facturering instellingen** in-of uitschakelen **op**. De status wordt weergegeven van de volgende factuurdatum voor het abonnement.
 
 5. Om service te stoppen op deze datum, activeer de **terugkerende factuur** weergeven/verbergen **uit**. De status van weergegeven de datum waarop dat het abonnement afloopt.
+
+Gebruikt u het nieuwe admin center? Nieuwe Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
