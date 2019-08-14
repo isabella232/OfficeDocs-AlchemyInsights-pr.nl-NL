@@ -13,16 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 934312fdf790a9f51bb3882c460b8b984f98a310
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383956"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390147"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="8a09f-102">Het aanschaffen van Office 365 Education plannen</span><span class="sxs-lookup"><span data-stu-id="8a09f-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="f62b1-102">Het aanschaffen van Office 365 Education plannen</span><span class="sxs-lookup"><span data-stu-id="f62b1-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="8a09f-103">We uw aanvraag bekeken en vastgesteld deze organisatie niet in aanmerking komen als een gekwalificeerde onderwijsinstelling van Microsoft.</span><span class="sxs-lookup"><span data-stu-id="8a09f-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="8a09f-104">De huidige academische aanbiedingen verloopt aan het einde van de proefperiode.</span><span class="sxs-lookup"><span data-stu-id="8a09f-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
+<span data-ttu-id="f62b1-103">We uw aanvraag bekeken en vastgesteld deze organisatie niet in aanmerking komen als een gekwalificeerde onderwijsinstelling van Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f62b1-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Academic Institution.</span></span> <span data-ttu-id="f62b1-104">De huidige academische aanbiedingen verloopt aan het einde van de proefperiode.</span><span class="sxs-lookup"><span data-stu-id="f62b1-104">Your current academic trial offers will expire at the end of the trial period.</span></span>
   
-<span data-ttu-id="8a09f-105">Zie Office 365 commercieel aanschaffen, [voorstellen](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="8a09f-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>
-  
+<span data-ttu-id="f62b1-105">Zie Office 365 commercieel aanschaffen, [voorstellen](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="f62b1-105">To purchase Office 365 commercially, please see [available offers](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>  
