@@ -13,18 +13,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: cfb1012b644d3fa54d385636642b8f7d02a09c0c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367644"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388171"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Overschakelen naar een ander Office 365 voor zakelijke planning
 
 Als uw wijzigingen, of als u meer Office 365 functies nodig hebt, kunt u schakelen plannen.
   
-1. Ga in het beheercentrum naar de pagina [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **Abonnementen**.
+1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Kies **Switch plannen** voor de lijst met nieuwe regelingen beschikbaar zijn.
 
@@ -32,7 +32,6 @@ Als uw wijzigingen, of als u meer Office 365 functies nodig hebt, kunt u schakel
 
 De knop schakelen plannen wordt niet ondersteund in alle situaties. In sommige gevallen is het mogelijk om over te schakelen plannen handmatig.
   
-Als de knop **schakelen plannen** niet beschikbaar is, kunt u probeert te [plannen voor handmatig overschakelen](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) of gebruikt u de optie 'laat ons u bellen' contact opnemen met een ondersteuningstechnicus.
+Als de knop **schakelen plannen** niet beschikbaar is, kunt u probeert te [plannen voor handmatig overschakelen](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) of gebruikt u de optie 'laat ons u bellen' contact opnemen met een ondersteuningstechnicus.
   
-Zie [overschakelen naar een ander Office-3635 voor Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)voor alle variaties van het overschakelen naar een andere plannen.
-  
+Gebruikt u het nieuwe admin center? Zie [een upgrade uitvoeren naar een ander schema](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)voor nieuwe stappen.  

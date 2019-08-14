@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358824"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385860"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Een licentie voor Microsoft Office 365 Volume activeren
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358824"
 
 5. Aanmelden bij Office 365 ([https://portal.office.com](https://portal.office.com)) met uw bestaande Office 365 administrator-referenties. Nadat u met succes zich aanmeldt, ontvangt u een ander e-mailadres bevestigen van uw aankoop.
 
-6. Nadat u zich heeft aangemeld, kunt u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) gaan, of kies **Facturering**  - \> - **abonnementen** om te verifiëren dat uw gekochte Office 365-abonnementen worden geactiveerd binnen de huurder. (U kunt ook het tabblad **abonnementen** in de VLSC om te controleren dat uw abonnement is nedergelegd details te bekijken.) 
+6. Nadat u zich heeft aangemeld, gaat u naar de **Facturering** \> pagina om te controleren dat uw gekochte Office 365-abonnementen worden geactiveerd binnen de huurder [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) . (U kunt ook het tabblad **abonnementen** in de VLSC om te controleren dat uw abonnement is nedergelegd details te bekijken.)

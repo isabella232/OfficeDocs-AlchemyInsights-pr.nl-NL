@@ -13,22 +13,21 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 046a753bcea55e4419f562cbf9a5a7e94cfa5c32
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380716"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389787"
 ---
 # <a name="manage-recurring-billing"></a>Terugkerende facturen beheren
 
 Voor het beheren van periodieke facturering, kunt u schakelen **terugkerende facturering** in- of uitschakelen.
   
-1. In de Admin center, gaat u naar de pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) of Ga naar **Facturering** \> **abonnementen**.
+1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Kies het abonnement waarvoor u wilt beheren, terugkerende facturering.
 
 3. Activeer de **terugkerende factuur** weergeven/verbergen **in** - of **uitschakelen**.
 
-Zie voor meer informatie: [terugkerende facturering voor uw abonnement beheren](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)voor meer informatie.

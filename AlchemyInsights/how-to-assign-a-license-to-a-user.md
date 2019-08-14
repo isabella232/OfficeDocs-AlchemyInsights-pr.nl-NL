@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385684"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386291"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Een licentie toewijzen aan een gebruiker
 
 Een gebruiker moet een licentie toegang hebben tot de services. Hier volgen de stappen voor het toevoegen, wijzigen of verwijderen van een licentie van een gebruiker.
   
-1. In de Admin center, gaat u naar de pagina [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of **gebruikers** kiezen \> **actieve gebruikers**.
+1. Ga naar de **gebruikers** in het beheercentrum \> pagina [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
 2. Selecteer in het vak naast de naam van de gebruiker aan wie u wilt toewijzen, wijzigen of verwijderen van een licentie.
 
@@ -38,5 +38,4 @@ Een gebruiker moet een licentie toegang hebben tot de services. Hier volgen de s
 
 5. Kies onderaan het deelvenster **Productlicenties** de opties **Opslaan** \> **Sluiten** \> **Sluiten**.
 
-Voor meer informatie Zie [licenties aan gebruikers in Office 365 voor bedrijven toewijzen](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)en [verwijderen van licenties van gebruikers in Office 365 voor bedrijven](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Voor meer informatie Zie [licenties aan gebruikers in Office 365 voor bedrijven toewijzen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)en [verwijderen van licenties van gebruikers in Office 365 voor bedrijven](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

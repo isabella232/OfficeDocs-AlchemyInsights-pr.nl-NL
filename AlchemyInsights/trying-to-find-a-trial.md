@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366744"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387839"
 ---
 # <a name="trying-to-find-a-trial"></a>Het zoeken naar een evaluatieversie?
 
-Als u wilt proberen een nieuwe service vindt u een lijst met beschikbare abonnementen voor evaluatie in het Microsoft 365 admin center.
+Als u wilt proberen een nieuwe service vindt u een lijst met beschikbare abonnementen voor evaluatie in het admin center.
   
-1. Ga naar de pagina [Services voor aankoop](https://go.microsoft.com/fwlink/p/?linkid=868433) of kies **Facturering** \> **Inkoop services**.
+1. In het admin center, gaat u naar de **Facturering** \> [Inkoop Services](https://go.microsoft.com/fwlink/p/?linkid=868433) pagina.
 
 2. Zoek het abonnement dat voldoet aan uw behoeften, muis, en kies **gratis proefperiode starten**.
 

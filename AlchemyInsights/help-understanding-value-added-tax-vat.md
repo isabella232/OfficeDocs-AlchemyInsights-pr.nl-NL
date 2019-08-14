@@ -13,12 +13,12 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386332"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390507"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Help begrip waarde (btw) belasting over de toegevoegde
 
@@ -27,4 +27,3 @@ Als u in een land dat gewaardeerd btw (btw), zoals het Verenigd Koninkrijk wordt
 Omwille van de btw, moet u ook uw btw-nummer opgeven in de instellingen voor facturering.
   
 U kan toevoegen of verwijderen van de btw-tarieven, maar u kunt de standaard btw-tarief in de instellingen wijzigen. Facturering gebruikt een service voor het valideren van btw-nummers, maar wordt aangeraden [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) gepubliceerd door de Europese Commissie te lezen. Als u de service uitschakelt, moet u controleren of alle btw-nummers.
-  

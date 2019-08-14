@@ -13,12 +13,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 84ff84ab5f4c43f45e64c542f1df3f3232ac986e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3a0b1c52c54773d51467c6c427374c9270ac6938
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386260"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389063"
 ---
 # <a name="help-understanding-your-bill"></a>Help-informatie over uw factuur
 
@@ -32,5 +32,4 @@ Als het bedrag in rekening gebracht dan wordt verwacht er zijn diverse redenen w
 
 - Het abonnement voor een nieuwe periode worden verlengd en de prijs van de licentie gewijzigd.
 
-Zie voor meer informatie over de factuur: [begrijp wat uw factuur](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)
-  
+Zie voor meer informatie over de factuur: [begrijp wat uw factuur](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice)

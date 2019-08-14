@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 89178c32cfd9d5b7cd5985122b1509b0d9c5d648
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365073"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387519"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Wanneer wordt mijn creditcard in rekening gebracht?
 
@@ -26,4 +26,4 @@ Het kost maximaal twee dagen voor de kosten die optreden bij een eerste aankoop.
   
 Terugkerende kosten gebeuren binnen één dag van de factuur wordt gemaakt.
   
-Als de toeslag mislukt is, blijft het systeem probeert te vereffenen het saldo in de volgende paar weken. U kunt updates voor uw betalingsgegevens op elk gewenst moment om ervoor te zorgen dat de volgende toeslag poging is geslaagd. Zie voor meer informatie [toevoegen, bijwerken of verwijderen van een creditcard of bankrekening in Office 365 voor bedrijven](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Als de toeslag mislukt is, blijft het systeem probeert te vereffenen het saldo in de volgende paar weken. U kunt updates voor uw betalingsgegevens op elk gewenst moment om ervoor te zorgen dat de volgende toeslag poging is geslaagd. Zie voor meer informatie [toevoegen, bijwerken of verwijderen van een creditcard of bankrekening in Office 365 voor bedrijven](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 9f448e8927f60c6045831805ee238a1762531fd6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365232"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387565"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Wat gebeurt er met mijn gegevens en access wanneer mijn Office 365 voor zakelijke abonnement eindigt?
 
@@ -26,8 +26,6 @@ Als je Office 365-abonnement afloopt, omdat het is verlopen, of omdat u wilt ann
   
 Voordat het abonnement daadwerkelijk is de vervaldatum bereikt, hebt u een paar opties voor **terugkerende facturering van het abonnement beheren**.
   
-- Als de **terugkerende facturering** al actief is, er geen geen actie te ondernemen. Uw abonnement op de factuurdatum **periodiek** wordt gefactureerd en u zult in rekening gebracht voor een extra jaar of maand, afhankelijk van uw huidige frequentie van betaling. Als u om welke reden u hebt uitgeschakeld **terugkerende facturering** , kunt u altijd [terugkerende facturering weer in te schakelen](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- Als de **terugkerende facturering** al actief is, er geen geen actie te ondernemen. Uw abonnement op de factuurdatum **periodiek** wordt gefactureerd en u zult in rekening gebracht voor een extra jaar of maand, afhankelijk van uw huidige frequentie van betaling. Als u om welke reden u hebt uitgeschakeld **terugkerende facturering** , kunt u altijd [terugkerende facturering weer in te schakelen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Als u een Open Volume Licensing-klanten met een prepaid abonnement van één jaar, neem dan contact op met uw partner als u wilt een nieuwe productcode aanschaffen. U ontvangt per e-mail instructies activeren de sleutel in het [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Meer informatie over het zoeken naar een nieuwe partner of de partner die u hebt gewerkt in het verleden, Zie [uw Office 365 partner of leverancier te zoeken](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).
-
-- Als u Office 365 Business, Zie [terugkerende facturering voor uw abonnement beheren](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- Als u een Open Volume Licensing-klanten met een prepaid abonnement van één jaar, neem dan contact op met uw partner als u wilt een nieuwe productcode aanschaffen. U ontvangt per e-mail instructies activeren de sleutel in het [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Meer informatie over het zoeken naar een nieuwe partner of de partner die u hebt gewerkt in het verleden, Zie [uw Office 365 partner of leverancier te zoeken](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).
