@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903691"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387740"
 ---
 # <a name="update-payment-details"></a>Betalingsgegevens bijwerken
 
-1. Ga in het beheercentrum naar de pagina [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) of kies **Facturering** \> **Betalingsmethoden**.
+1. Ga in het beheercentrum naar de pagina **Facturering**\>[Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Als u in een lus terechtkomt waardoor u weer terugkomt op de startpagina van het beheercentrum voordat uw updates zijn voltooid, probeer dan de InPrivate- of incognitomodus.
@@ -37,4 +37,4 @@ ms.locfileid: "35903691"
 
 5. Als u deze betalingsmethode wilt verwijderen, kiest u **Verwijderen**.
 
-Zie [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) en [Problemen met creditcards en bankrekeningen oplossen](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) voor meer informatie.
+Zie [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://docs.microsoft.com/nl-NL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) en [Problemen met creditcards en bankrekeningen oplossen](https://docs.microsoft.com/nl-NL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) voor meer informatie.
