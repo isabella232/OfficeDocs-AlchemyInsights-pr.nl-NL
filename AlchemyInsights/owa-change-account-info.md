@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 472386634e3a2c0b6f7886cc449df53fee313942
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34933976"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510582"
 ---
-# <a name="change-your-account-information"></a>Accountgegevens wijzigen
+# <a name="change-account-information-in-outlook-on-the-web"></a>Accountgegevens wijzigen in Outlook op het web
 
 1. Selecteer uw afbeelding naam of het profiel aan de bovenkant van de pagina.
 1. Selecteer **Mijn account**.

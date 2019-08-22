@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bdb4997d6e3b837725d766565c39201ff7c3b04d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364647"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516738"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Een hub SharePoint-site maken
 
@@ -27,7 +27,7 @@ ms.locfileid: "35364647"
 3. Voer een weergavenaam voor de hubsite en geeft u de afzonderlijke gebruikers of beveiligingsgroepen die u wilt toestaan websites aan de hub te koppelen.
 
     > [!NOTE]
-    >  Wij adviseren u een communicatiesite of een site die gebruikmaakt van de nieuwe sjabloon selecteren. Als u een klassieke teamsite, de navigatie van de hub, verschijnt alleen op pagina's met moderne en hub site-instellingen alleen op moderne's weergegeven wordt. sites die al gekoppeld met een andere hub zijn > kan niet worden geregistreerd als een hubsite.
+    >  Wij adviseren u een communicatiesite of een site die gebruikmaakt van de nieuwe sjabloon selecteren. Als u een klassieke teamsite, de navigatie van de hub, verschijnt alleen op pagina's met moderne en hub site-instellingen alleen op moderne's weergegeven wordt. Sites die al gekoppeld met een andere hub zijn kunnen niet worden geregistreerd als een hubsite.
   
 [Meer informatie over de hub](https://go.microsoft.com/fwlink/?linkid=869149)
   

@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059247"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507626"
 ---
-# <a name="search-in-sharepoint-online"></a>Zoeken in SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Inhoud doorzoeken en te indexeren in SharePoint Online
 
 Inhoud moet worden verkend en toegevoegd aan de zoekindex kunnen vinden wat ze zoekt in SharePoint Online. Inhoud wordt automatisch verkend op basis van een vooraf gedefinieerde verkenningsschema (de planning voor verkenning kan niet worden gewijzigd). Inhoud die is gewijzigd sinds de laatste verkenning en werkt de index hervat de crawler. Houd rekening met de volgende inhoud wordt verkend en de index wordt bijgewerkt, zodat:
 
@@ -30,7 +30,8 @@ Inhoud moet worden verkend en toegevoegd aan de zoekindex kunnen vinden wat ze z
 
     Als u meer dan 24 uur zijn verstreken sinds u de verkenning en volledig opnieuw indexeren gestart, meld u een aanvraag voor ondersteuning. In veel gevallen hebben werkt we aan een oplossing. Geef ons ten minste 24 uur om een oplossing te voltooien.
 
->[! Belangrijk!]: als een site, een document (bibliotheek) of een lijst verwijderd en nog steeds wordt getoond in de zoekresultaten is, moeten ontvangen gebruikers een **Foutbericht 404 bestand niet gevonden** wanneer u probeert toegang te krijgen tot deze. Dit probleem moet zijn aangemeld als een aanvraag voor ondersteuning voor verder onderzoek. 
+> [!IMPORTANT]
+> Als een site document (bibliotheek) of een lijst is verwijderd en wordt nog steeds weergegeven in de zoekresultaten moeten ontvangen gebruikers een **Foutbericht 404 bestand niet gevonden** wanneer u probeert te openen. Dit probleem moet zijn aangemeld als een aanvraag voor ondersteuning voor verder onderzoek. 
 
 
 

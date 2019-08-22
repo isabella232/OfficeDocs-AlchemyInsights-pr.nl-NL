@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270739"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501074"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>De hoofdsite is klassiek met een moderne site wisselen
 
 Als uw omgeving vóór April 2019 is ingesteld, kunt u uw hoofdsite met een moderne site met Microsoft PowerShell:
 
 - Als u een andere site die u wilt gebruiken als uw hoofdsite hebt, kunt u (swap) de hoofdmap van de site kunt vervangen door deze. 
-    - Gebruik [Invoke SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) te verwisselen van de locatie van een site met een andere site bij het archiveren van de oorspronkelijke site. Beschikbaar voor zowel Team Site (niet verbonden aan een groep) en communicatie-Site. 
+    - Gebruik [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) te verwisselen van de locatie van een site met een andere site bij het archiveren van de oorspronkelijke site. Beschikbaar voor zowel Team Site (niet verbonden aan een groep) en communicatie-Site. 
 
 - Extra functies geïntroduceerd spoedig waarmee u te houden met de inhoud op de site, maar de bestaande site converteren naar een communicatiesite. 
 >[!Important]

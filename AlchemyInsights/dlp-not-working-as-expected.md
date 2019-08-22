@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
-ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
+ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35941063"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530274"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP, werken niet zoals verwacht
 
@@ -42,7 +42,7 @@ Wanneer u de **ingebouwde gevoelige informatietypen** in Office 365 beveiliging 
 
 **Een DLP-beleid testen**
 
-Gebruik de optie **type Test** onder **categorieën**om te testen uw gegevens met een ingebouwde of aangepaste gevoelige informatie, > **gevoelige informatietypen**. Zie [aangepaste gevoelige informatietypen](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)voor meer informatie.
+Gebruik de optie **type Test** onder **categorieën**om te testen uw gegevens met een ingebouwde of aangepaste gevoelige informatie, > **gevoelige informatietypen**. Zie [aangepaste gevoelige informatietypen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)voor meer informatie.
 
  **Rapporten**
   
