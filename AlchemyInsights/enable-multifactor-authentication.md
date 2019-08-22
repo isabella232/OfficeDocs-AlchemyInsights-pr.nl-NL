@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403670"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527466"
 ---
 # <a name="enable-multi-factor-authentication"></a>Meerledige verificatie inschakelen
 
-1. Ga naar **gebruikers** \> **actieve gebruikers**
+Meerledige verificatie in het Microsoft 365 admin center inschakelen:
+
+1. Ga naar de **gebruikers** \> pagina **actieve gebruikers** .
     
-2. Klik op **meer** \> **Setup Azure meerledige verificatie**. 
+2. Selecteer **meerledige verificatie**aan de bovenkant van de pagina. 
     
-3. Zoeken naar de gebruiker of gebruikers die u wilt inschakelen voor de MVR gesloten. Wilt weergeven van alle gebruikers, moet u mogelijk meerledige verificatie status weer boven.
+3. Zoeken naar de gebruiker of gebruikers die u wilt inschakelen voor een meerledige verificatie. Overzicht van alle gebruikers, moet u mogelijk het filter **meerledige verificatie status** boven wijzigen.
     
 4. Schakel het selectievakje in naast de gebruikers die u wilt inschakelen.
     
-5.  In het Informatiedeelvenster rechts gebruiker onder **Snelle stappen** u ziet inschakelen en beheren van gebruikersinstellingen. Kies **Inschakelen**. 
+5.  Selecteer **inschakelen**in het Informatiedeelvenster rechts gebruiker onder **Snelle stappen**. 
     
-6. In het dialoogvenster dat wordt geopend, **klikt u op meerledige verificatie inschakelen**. 
+6. Selecteer in het dialoogvenster **meerledige verificatie inschakelen**. 
     
 

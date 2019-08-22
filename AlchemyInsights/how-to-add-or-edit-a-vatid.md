@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386399"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522606"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Het toevoegen of bewerken van een identificatienummer
 
-- In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  In het Microsoft 365 admin center, gaat u naar de **Facturering** \> [& servicces van producten](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
-- Kies het abonnement dat u wilt bewerken en kies vervolgens **Meer acties** op de pagina **abonnementen** \> **bewerken btw-nummer**.
+2. Zoek de abonnementskaart voor het abonnement dat u wilt bijwerken.
 
-- Onderaan in het deelvenster **bewerken van uw gebruik van het adres** invoeren of bewerken van uw btw-nummer in het **BTW-nummer** en kies vervolgens **indienen**.
+3. Selecteer **service gebruik adres bewerken**in de sectie **Instellingen & acties** .
+
+4. Voer uw btw-nummer in het **BTW-nummer** op de pagina **uw service gebruik adres bewerken** en selecteer **Opslaan**.
 
     Na afloop btw niet berekend wordt op uw volgende factuur.
 
-Zie voor meer informatie [welke btw ik brengt voor Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Gebruikt u het nieuwe admin center? Nieuwe Zie [je BTW-Identificatienummer toevoegen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Zie voor meer informatie [welke btw ik brengt voor Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) of [je BTW-Identificatienummer toevoegen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
