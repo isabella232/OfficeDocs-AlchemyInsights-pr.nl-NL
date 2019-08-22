@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385607"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495026"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Zitplaatsen aan een prepaid abonnement toevoegen
 
-1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Vooruitbetaalde Office 365 licenties worden uitgegeven aan u als een alfanumerieke code van 25 tekens. Nadat u de benodigde licenties hebt aangeschaft, kunt u deze toevoegen aan uw abonnement. 
 
-2. Kies de prepaid abonnement dat u wilt toevoegen van gebruikers.
+1. In het admin center, gaat u naar de **Facturering** > [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
-3. Kies in het menu **meer acties** **verlengen of licentie met een token toevoegen**.
+2. Zoek het abonnement waarvoor u licenties wilt toevoegen. Selecteer de vervolgkeuzelijst **meer acties** en kies vervolgens **verlengen of licentie met een token toevoegen**.
 
-4. Selecteer de optie **nieuwe en niet-gebruikte productcode** . (Als dit abonnement is gemaakt met een productcode gekocht tegen een retail-locatie, u mogelijk de optie voor het toevoegen van gebruikers met een andere betalingsmethode.)
+3. Op de **verlengen of gebruikerslicenties toevoegen** pagina, selecteer **een nieuwe en ongebruikte product sleutel gebruiken**en selecteer vervolgens **volgende**.
 
-5. Kies **Volgende**.
+4. Voer de productcode in en selecteer vervolgens **volgende**.
 
-6. Voer de productcode in en klik op **volgende**.
+    > [!NOTE]
+    > Als u meer dan één productcode hebt, kunt u **een andere productcode toevoegen** aan deze invoeren.
 
-7. Kies de optie meer gebruikers toevoegen, kies **volgende**en vervolgens kiest u **verzilveren**.
+5. Wilt u gebruikers toevoegen aan het abonnement en klik op **volgende**.
 
-Gebruikt u het nieuwe admin center? Nieuwe Zie [licenties toevoegen of uitbreiden van een abonnement met een productcode betaald](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Gegevens van uw bestelling controleren en selecteer vervolgens **verzilveren**.
+
+Zie [licenties dat u wilt toevoegen of een abonnement betaald met een productcode uitbreiden](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)voor meer informatie.
