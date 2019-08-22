@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383092"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539096"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Bepalen wanneer externe e-mail doorsturen is geconfigureerd op de postvakken
 
-Wanneer een gebruiker configureert externe e-mail doorsturen voor een postbus, wordt de activiteit gecontroleerd als onderdeel van de cmdlet **Set-Mailbox** . Hier ziet u de activiteit met audit-logboek zoeken in de & beveiliging conformiteit.
+Wanneer een gebruiker Office 365 configureert externe e-mail doorsturen voor een postbus, wordt de activiteit gecontroleerd als onderdeel van de cmdlet **Set-Mailbox** . Hier ziet u de activiteit met audit-logboek zoeken in de & beveiliging conformiteit.
 
-1. Log in op de [Office 365 & conformiteit Beveiligingscentrum](https://protection.office.com/)
+1. Log in op de [Office 365 & conformiteit Beveiligingscentrum](https://protection.office.com/).
 
-2. Klik op **Zoeken en onderzoek** en **Audit-logboek zoeken**selecteren.
+2. Ga naar de **Search** > **Audit log** zoekpagina.
 
 3. Selecteer het datumbereik in de velden **begindatum** en **einddatum** . U hoeft niet een gebruikersnaam opgeven. Controleer of dat de **activiteiten** -veld is ingesteld op het **weergeven van resultaten voor alle activiteiten**.
 

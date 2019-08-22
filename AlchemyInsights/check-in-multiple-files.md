@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754271"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520518"
 ---
 # <a name="check-in-several-files-at-once"></a>In de verschillende bestanden in één keer controleren
 
-Bestanden in-en uitchecken is een fantastische manier om te houden en te bepalen hoe inhoud wordt bijgewerkt. Als u wijzigingen wilt aanbrengen in een bestand op een site en u wilt zorgen dat niemand anders kan worden bewerkt, het bestand uitchecken. Wanneer u het bestand uitgecheckt hebt, kunt u deze on line of off line en sla deze meerdere keren indien nodig.
+Controle van bestanden en naar een SharePoint is library een uitstekende manier om bij te houden en een besturingselement hoe inhoud wordt bijgewerkt. Als u wijzigingen wilt aanbrengen in een bestand op een site en u wilt zorgen dat niemand anders kan worden bewerkt, het bestand uitchecken. Wanneer u het bestand uitgecheckt hebt, kunt u deze on line of off line en sla deze meerdere keren indien nodig.
 
 Hieronder zijn enkele nuttige links met betrekking tot deze functie.
 
-- [Het selectievakje out, inchecken of negeren van wijzigingen in bestanden](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Het uitchecken, inchecken of negeren van wijzigingen in bestanden](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [De vragen over het uitchecken, inchecken en versies](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 

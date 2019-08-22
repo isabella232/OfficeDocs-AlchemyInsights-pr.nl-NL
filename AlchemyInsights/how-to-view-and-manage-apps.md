@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389859"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539492"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Het weergeven en beheren van apps
 
-Als u wilt uw apps weergeven, moet u in het nieuwe admin center.  U kunt dit op de introductiepagina van admin center heen.  
+In het Microsoft 365 admin center kunt u uw apps bekijken. 
 
-1. Met nieuwe admin center ingeschakeld, gaat u naar de **Facturering** > [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. In het admin center, gaat u naar de **Facturering** > [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
 2. Selecteer het tabblad **Apps** op de pagina **producten & Services** .

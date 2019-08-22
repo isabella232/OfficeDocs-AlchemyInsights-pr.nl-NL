@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388172"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501360"
 ---
 # <a name="subscription-recurring-billing"></a>Terugkerende Facturering abonnement
 
-Als u weten wanneer uw abonnement maandelijks of jaarlijks wordt gefactureerd wilt (als **terugkerende facturering** is ingeschakeld) of verlopen (als **terugkerende facturering** is uitgeschakeld):
+Als u weten wanneer uw maandelijks of jaarlijks Office 365-abonnement wordt gefactureerd wilt (als **terugkerende facturering** is ingeschakeld) of verlopen (als **terugkerende facturering** is uitgeschakeld):
   
-1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
-2. Kies het abonnement dat u meer weten wilt over.
+2. Zie voor het abonnement dat u meer weten wilt over, onder de **Facturering**, de datum **vernieuwt op** of **verloopt op** .
 
-3. Aan de rechterkant van de abonnementskaart is informatie over de status van het abonnement, de instelling van de **terugkerende facturering** en de datum van de volgende factuur- of vervaldatum.
+4. Selecteer **bewerken** om deze te wijzigen, en in het venster instellingen **terugkerende facturering** Selecteer **Uitschakelen** uit te schakelen. Als terugkerende facturering al is uitgeschakeld, selecteert u **maandelijks** of **eenmaal** te worden ingeschakeld.
 
-4. Als u wilt doorgaan met de service na deze datum, activeer de **terugkerende facturering instellingen** in-of uitschakelen **op**. De status wordt weergegeven van de volgende factuurdatum voor het abonnement.
-
-5. Om service te stoppen op deze datum, activeer de **terugkerende factuur** weergeven/verbergen **uit**. De status van weergegeven de datum waarop dat het abonnement afloopt.
-
-Gebruikt u het nieuwe admin center? Nieuwe Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)voor meer informatie.
