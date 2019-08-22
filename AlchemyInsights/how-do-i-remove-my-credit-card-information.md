@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390291"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523146"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Hoe verwijder ik mijn creditcardgegevens?
 
-1. In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. In het Microsoft 365 admin center, gaat u naar de **Facturering** \> pagina [betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
 
-2. Kies een abonnement en kies vervolgens **Betalingsgegevens bijwerken**.
+2. Kies op de pagina **betalingsmethoden** de creditcard of bankrekening te verwijderen.
 
-3. Kies de vervolgkeuzepijl onder **Betalingswijze toevoegen of selecteren** en kies de creditcard of bankrekening die u wilt verwijderen. Kies vervolgens **Verwijderen**.
-
-4. Kies nogmaals **Verwijderen** om de creditcard of bankrekening te verwijderen.
+3. Als de creditcard of bankrekening, selecteert **verwijdert betalingsmethode.**
 
 > [!NOTE]
-> U kunt een creditcard of bankrekening verwijderen, zolang er geen bedrag openstaat op de creditcard of bankrekening en u deze niet gebruikt om te betalen voor een actief abonnement.
+> U kunt een creditcard of bankrekening niet verwijderen als deze momenteel wordt gebruikt voor het betalen van een abonnement.
 
-Gebruikt u het nieuwe admin center? Zie voor nieuwe stappen [toevoegen, bijwerken, of verwijderen van een creditcard of bankrekening in Office 365 voor bedrijven](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+4. Selecteer **verwijderen**in het deelvenster **betalingsmethode verwijderen** .
+
+Zie voor meer informatie [toevoegen, bijwerken, of verwijderen van een creditcard of bankrekening in Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
