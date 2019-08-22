@@ -13,15 +13,15 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: f808750f5a993c128dbe8d32dd3f4c2f3d2a492b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388492"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527574"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="c83c8-102">Inschakelen en gebruiken van de Microsoft-Teams</span><span class="sxs-lookup"><span data-stu-id="c83c8-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="60b73-102">Inschakelen en gebruiken van de Microsoft-Teams</span><span class="sxs-lookup"><span data-stu-id="60b73-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="c83c8-103">Als u geen toegang tot Microsoft-Teams helemaal, Bekijk [hoe krijg ik toegang tot Microsoft-Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="c83c8-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
+<span data-ttu-id="60b73-103">Als u geen toegang tot Microsoft-Teams helemaal, Bekijk [hoe krijg ik toegang tot Microsoft-Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span><span class="sxs-lookup"><span data-stu-id="60b73-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)</span></span>
 
-<span data-ttu-id="c83c8-104">Als u al Microsoft-Teams en weten hoe moet te configureren en beheren, Zie [beheerdersinstellingen voor Microsoft-Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="c83c8-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
+<span data-ttu-id="60b73-104">Als u al Microsoft-Teams en weten hoe moet te configureren en beheren, Zie [beheerdersinstellingen voor Microsoft-Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span><span class="sxs-lookup"><span data-stu-id="60b73-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Administrator settings for Microsoft Teams](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)</span></span>
