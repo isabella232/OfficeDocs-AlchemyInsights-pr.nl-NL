@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696934"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511914"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Berichten uit te gaan naar de map Ongewenste E-mail stoppen
 
-Als u ontdekt dat een e-mailbericht in de map Ongewenste E-mail niet ongewenste e-mail:
+Als u ontdekt dat een e-mailbericht in de map voor ongewenste E-mail van Outlook.com geen ongewenste e-mail:
 
 1. Open de [map Ongewenste E-mail](https://outlook.live.com/mail/junkemail).
 1. Selecteer het bericht. (*Opmerking:* Items in de map Ongewenste E-mail worden verwijderd na 30 dagen.)

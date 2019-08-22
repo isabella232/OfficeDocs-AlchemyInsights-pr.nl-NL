@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527826"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Het verlaten van een werknemer en moet voor het blokkeren van toegang tot gegevens en e-mailadres?
+# <a name="block-access-to-a-former-employee"></a>Toegang tot een vroegere werknemer blokkeren
+
+Verlaten van een werknemer en moet toegang tot Office 365-gegevens en e-mail blokkeren? Voer de volgende handelingen uit.
   
-1. Ga in het beheercentrum op **gebruikers** \> pagina [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. Ga naar de **gebruikers** in het beheercentrum \> pagina [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Selecteer de gebruiker die u wilt blokkeren.
+2. Selecteer de naam van de gebruiker die u wilt blokkeren.
 
-3. Kies **bewerken**naast Sign-in status.
+3. Selecteer **deze gebruiker blokkeren**onder de naam van de gebruiker.
 
-4. Kiest **de gebruiker aanmelden blokkeren** \> **Opslaan**.
+4. Kiest **de gebruiker aanmelden blokkeren** \> **wijzigingen opslaan**.
 
-**Opmerking**: afmelden voor bepaalde toepassingen mogelijk niet direct. Neem contact op met meer acties in dit artikel: [verwijderen van een voormalig medewerker van Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**Opmerking**: afmelden voor bepaalde toepassingen mogelijk niet direct. Neem contact op met meer acties in dit artikel: [verwijderen van een voormalig medewerker van Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

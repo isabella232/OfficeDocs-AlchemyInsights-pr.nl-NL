@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059168"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507878"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Extern delen, instellingen voor SharePoint & OneDrive
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Waarschuwing: de beleidsregels van uw organisatie kunnen u geen delen met gebruikers van deze
 
 Gebruikers ondervinden een waarschuwing weergegeven wanneer u probeert te delen met externe gebruikers van uw organisatie. Dit bericht is **de beleidsregels van uw organisatie kunnen u geen delen met deze gebruikers. Ga naar het externe delen in het Office 365 admin center te kunnen**. Vaak gebeurt dit de eerste keer probeert te delen met externe gebruikers of wanneer u met de nieuwe externe gebruikers deelt.
 
