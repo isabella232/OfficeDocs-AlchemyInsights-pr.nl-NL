@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601994"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535350"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Berichten uit te gaan naar uw map Ongewenste E-mail stoppen
 
-Er zijn tijden wanneer u niet dat berichten van een bepaalde persoon of het domein wilt om uiteindelijk in de map Ongewenste E-mail. Berichten van adressen of domeinen in de lijst met veilige afzenders won't naar de map Ongewenste E-mail verplaatst.
+Er zijn tijden wanneer u niet dat berichten van een bepaalde persoon of het domein wilt om uiteindelijk in de map voor ongewenste E-mail van Outlook.com. Berichten van adressen of domeinen in de lijst met veilige afzenders won't naar de map Ongewenste E-mail verplaatst.
 
 1. Open de [Instellingen voor veilige afzenders](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. In de **lijsten Veilige afzenders en domeinen**, voer het e-mailadres of domein dat u wilt toevoegen en selecteer **toevoegen**.

@@ -9,14 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389590"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495998"
 ---
-Als u wilt dat alle wachtwoorden nooit verlopen, Ga naar [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Klik op **bewerken** naast **Het wachtwoordbeleid**en zet de schuifregelaar **aan**.
+# <a name="set-passwords-to-never-expire"></a>Set wachtwoorden nooit verlopen. 
+
+Ga naar de **Instellingen**als u wilt instellen dat alle wachtwoorden nooit verlopen in het beheercentrum van Microsoft 365 > [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security) pagina. Selecteer **bewerken** naast **wachtwoordbeleid**, en de schuifregelaar **aan**.
   
 Zie voor meer informatie: [stelt het verloopbeleid wachtwoord voor uw organisatie.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

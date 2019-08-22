@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f6ecb4c2db6f7fc8165089a5c3b8483c6b11558
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389931"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540032"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Het activeren en beheren van periodieke facturering
 
@@ -42,4 +42,4 @@ Voor het beheren van facturering u maandelijks of jaarlijks schakelen **terugker
 
 3. Activeer de **terugkerende factuur** weergeven/verbergen **in** - of **uitschakelen**.
 
-Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)voor meer informatie.
+Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)voor meer informatie.
