@@ -12,22 +12,22 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 58e43416a86dd3fb478dbb89e3ea3a8953a01c2f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d317791c4710453abe0a6eaa4f3e8a5b907c9cf5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385219"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542048"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Het aanschaffen van licenties voor uw abonnement op Office 365 business
 
 Bij het toewijzen van licenties voor Office 365 voor uw gebruikers, kunt u wellicht hebt u de noodzaak van extra licenties kopen. Om dit te doen:
   
-- In het Microsoft 365 admin center, gaat u naar de pagina [abonnementen]( https://go.microsoft.com/fwlink/p/?linkid=842054) of kies **Facturering** \> **abonnementen**.
+1.  In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
-- Selecteer op de pagina **Abonnementen** het abonnement waaraan u licenties wilt toevoegen en kies vervolgens **Licenties toevoegen/verwijderen**.
+2. Zoek het abonnement waarvoor u licenties wilt toevoegen en selecteer vervolgens de **licenties toevoegen of verwijderen**.
 
-- Voer in het vak **Totaal aantal licenties** het totale aantal licenties in dat u nodig hebt voor dit abonnement en kies **Verzenden** \> **Sluiten**. Als u bijvoorbeeld 100 licenties hebt en u 5 extra licenties wilt toevoegen, voert u 105 in.
+3. Typ het totale aantal licenties dat u nodig hebt voor dit abonnement en selecteer vervolgens **indienen wijzigen**in het **Totaal aantal licenties** . Als u bijvoorbeeld 100 licenties hebt en u 5 extra licenties wilt toevoegen, voert u 105 in.
 
-Voor meer informatie: [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+Zie [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)voor meer informatie.
   

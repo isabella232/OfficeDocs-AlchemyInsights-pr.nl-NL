@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422710"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531002"
 ---
 # <a name="who-has-a-file-checked-out"></a>Wie een bestand heeft uitgecheckt?
 
-Als u wilt zien wie een bestand heeft uitgecheckt, kunt u een van de volgende stappen uitvoeren:
+Als u wilt zien wie een bestand heeft uitgecheckt in SharePoint, kunt u een van de volgende stappen uitvoeren:
   
 1. De muisaanwijzer **Uitgecheckt laten** zien van de knopinfo aangeeft die het bestand uitgecheckt heeft. 
     
-2. Toevoegen de ** gecontroleerd uit door ** kolom aan de standaardweergave van de documentbibliotheek. Op deze manier kunt iedereen eenvoudig zien wie een document uitgecheckt is. 
+2. De kolom **Uitgecheckt uit door** toevoegen aan de standaardweergave van de documentbibliotheek. Op deze manier kunt iedereen eenvoudig zien wie een document uitgecheckt is. 
     
 Zie informatie over het toevoegen van een kolom gecontroleerd uit door in SharePoint, [een kolom in een lijst of bibliotheek maken](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
