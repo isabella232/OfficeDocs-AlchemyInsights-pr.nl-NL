@@ -12,13 +12,15 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: 83050b05cffacd3e81d34f05383c213eb0042fae
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a32708b5ac8d95ec6777ada2d151a15f90d65bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389464"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529857"
 ---
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>Problemen met ons bankrekeningnummers DLP
+
 Ondervindt u problemen met **Gegevens verlies te voorkomen (DLP)** werkt niet voor inhoud met een **Amerikaanse bankrekeningnummer** wanneer u een type DLP gevoelige informatie in O365? Als dat zo is, zorg ervoor dat uw inhoud bevat de benodigde informatie voor wat het DLP-beleid is op zoek naar wanneer deze wordt geëvalueerd.
   
 Bijvoorbeeld voor een **Amerikaanse Bank Account Number** beleid is geconfigureerd met een betrouwbaarheidsniveau van 85%, het volgende worden geëvalueerd en moet worden vastgesteld voor de regel te activeren:

@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3a5ca84f6e7e0173bdaef5222033d25abbced8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360336"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516162"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Het postvak van een gebruiker converteren naar een gedeeld postvak
 
-Wanneer u het postvak van een gebruiker converteert naar een gedeeld postvak, blijven alle bestaande e-mailberichten en de agenda behouden. Het is nu alleen een gedeeld postvak waartoe meerdere personen toegang hebben in plaats van één persoon. U kunt een gedeelde postbus terug naar het postvak van een gebruiker (particuliere) converteren op een later tijdstip.
+Wanneer u een postbus van een individuele gebruiker naar een gedeeld postvak converteert, worden alle bestaande e-mail en agenda-items in een gedeelde postbus waar meerdere mensen toegang behouden. U kunt een gedeeld postvak ook converteren naar het postvak van een gebruiker (privé).
   
-[Meer informatie...](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
+[Meer informatie...](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   
