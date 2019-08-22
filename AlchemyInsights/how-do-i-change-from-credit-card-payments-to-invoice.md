@@ -13,27 +13,24 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: da38d20aca2b367a423250cda997ee09ed42b25a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523110"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hoe wijzig ik van creditcardbetalingen te factureren
 
 > [!NOTE]
-> De optie om per factuur te betalen is alleen beschikbaar als de kosten van uw Office 365-abonnement boven een bepaald bedrag liggen (dat verschilt per servicelocatie). Bij grotere factuurbetalingen kan kredietcontrole vereist zijn. Zie [Uw Office 365 voor Bedrijven-abonnement betalen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription) voor meer informatie.
+> De optie om per factuur te betalen is alleen beschikbaar als de kosten van uw Office 365-abonnement boven een bepaald bedrag liggen (dat verschilt per servicelocatie). Bij grotere factuurbetalingen kan kredietcontrole vereist zijn. Zie [Uw Office 365 voor Bedrijven-abonnement betalen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription) voor meer informatie.
   
-1. In de Admin Center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
-2. Kies het abonnement dat u wilt wijzigen. In de sectie **Betalingswijze** kiest u de optie **Betalingsgegevens wijzigen**.
+2. Selecteer het abonnement dat u wilt wijzigen. Selecteer de optie **bewerken** voor de huidige betalingsmethode in het gedeelte **Facturering** .
 
-3. In het deelvenster **Betalingsgegevens wijzigen** kiest u **Uw betalingswijze wijzigen**.
+3. Selecteer **wijzigen**, kiest of een andere betalingsmethode toevoegen en selecteert u **Opslaan**in het vak **wijzigen hoe u voor dit abonnement betalen** .
 
-> [!NOTE]
-> Als de koppeling **uw betalingsmethode wijzigen** niet wordt weergegeven, betekent dit dat overschakelen van creditcard of bankrekening te factureren is niet beschikbaar voor het abonnement omdat het abonnement niet voldoet aan de minimale kostprijs voor betaling per factuur. De minimale kostprijs moet worden gefactureerd per factuur is afhankelijk van de geografische location.*
+   > [!NOTE]
+   > Als deze optie niet wordt weergegeven, betekent dit dat overschakelen van creditcard of bankrekening te factureren is niet beschikbaar voor het abonnement omdat het abonnement niet voldoet aan de minimale kostprijs voor betaling per factuur. De minimale kostprijs moet worden gefactureerd per factuur verschilt per geografische locatie.
   
-4. In het dialoogvenster **Uw betalingswijze wijzigen** kiest u **Doorgaan**.
-
-5. Klik op **OK** om terug te keren naar het beheercentrum.

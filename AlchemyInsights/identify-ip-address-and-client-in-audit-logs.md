@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382948"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539024"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-adres en de client in de controlelogboeken geïdentificeerd
 
-Het IP-adres dat overeenkomt met een activiteit van een gebruiker of beheerder wordt weergegeven in de controlelogboeken. Ook de informatie over de client is vastgelegd. Hier volgen de stappen voor het identificeren van dergelijke informatie
+Het IP-adres dat overeenkomt met een activiteit van een Office 365-gebruiker of beheerder wordt weergegeven in de controlelogboeken. Ook de informatie over de client is vastgelegd. Hier volgen de stappen voor het identificeren van dergelijke informatie
 
-1. Log in op de [Office 365 & conformiteit Beveiligingscentrum](https://protection.office.com/)
+1. Log in op de [Office 365 & conformiteit Beveiligingscentrum](https://protection.office.com/).
 
-2. Klik op **Zoeken en onderzoek** en **Audit-logboek zoeken**selecteren.
+2. Ga naar de **Search** > **Audit log** zoekpagina.
 
    Als u geïnteresseerd in een bepaalde activiteit bent, selecteert u deze uit de lijst met **activiteiten** . Niet alle activiteiten worden geretourneerd voor de geselecteerde gebruiker (standaardinstelling).
 

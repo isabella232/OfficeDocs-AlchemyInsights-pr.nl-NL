@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270667"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530863"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Werkstroom e-mailbericht wordt niet verzonden
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Werkstroom e-mailbericht wordt niet verzonden voor een SharePoint-lijst of -bibliotheek
 
 1. E-mailadres van werkstromen worden niet verzonden naar alle gebruikers of alleen bepaalde gebruikers of ziet u dat de fout **het e-mailbericht kan niet worden verzonden. Controleer of het e-mailbericht heeft een geldige geadresseerde**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270667"
     - Als de gebruiker in de machtigingsgroep bestaat, moet dat het e-mailadres juist is.
     - Als de gebruikers e-mailadres hier niet is ingesteld, maakt u een waarschuwing voor een monster voor die gebruiker, waardoor de synchronisatie van die account van gebruikers profielen van SharePoint voor deze siteverzameling.
  
-2. E-mailadres van werkstromen worden verzonden naar beheerders van de siteverzameling, maar niet voor andere gebruikers en Zie de fout **verboden HTTP- <spam> <spam> ** <spam> <spam>.
+2. E-mailadres van werkstromen worden verzonden naar beheerders van de siteverzameling, maar niet voor andere gebruikers en Zie de fout **HTTP verboden <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Zie [De toegang geweigerd wanneer verzonden e-mail naar groepen](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Zie [De toegang geweigerd wanneer u een e-mail naar een SharePoint-groep sturen](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Controleer ook of de **modus met beperkte toegang gebruiker machtiging lockdown** siteverzamelingfunctie is niet actief.
 

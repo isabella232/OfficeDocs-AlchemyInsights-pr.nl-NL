@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382876"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538759"
 ---
-Beschikt u over inhoud die wordt **bewaard** door **bevatten** die u niet identificeren? Wilt u **weten** waar zich de wachtruimte op het **Postvak** ? Wachtruimten ( *behoud functies* ) kunnen worden toegepast door een van de volgende methoden in Office 365:
+# <a name="identify-holds-placed-on-mailboxes"></a>Wachtruimten op postvakken geplaatst identificeren
+
+Hebt u Office 365-inhoud die wordt **bewaard** door **bevatten** die u niet identificeren? Wilt u **weten** waar zich de wachtruimte op het **Postvak** ? Wachtruimten (*behoud functies*) kunnen worden toegepast door een van de volgende methoden in Office 365:
   
 - Blokkering van de rechtszaak
 
