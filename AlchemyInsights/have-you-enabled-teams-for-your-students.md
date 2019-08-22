@@ -12,14 +12,14 @@ ms.custom:
 - "1576"
 - "9000067"
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 17a23719271df9b0b4a61f6cf5cf69efebb931ba
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f8931b8a59b7310b008d7d3aecd344c411ce97d4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386476"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523506"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="edb09-102">Hebt u Teams ingeschakeld voor uw leerlingen?</span><span class="sxs-lookup"><span data-stu-id="edb09-102">Have you enabled Teams for your students?</span></span>
+# <a name="have-you-enabled-teams-for-your-students"></a><span data-ttu-id="a0c3a-102">Hebt u Teams ingeschakeld voor uw leerlingen?</span><span class="sxs-lookup"><span data-stu-id="a0c3a-102">Have you enabled Teams for your students?</span></span>
 
-<span data-ttu-id="edb09-103">Faculteit en personeel Teams toegang tot zijn, maar niet van uw leerlingen?</span><span class="sxs-lookup"><span data-stu-id="edb09-103">Are faculty and staff able to access Teams, but your students can't?</span></span> <span data-ttu-id="edb09-104">Teams moet ingeschakeld zijn voor uw leerlingen en docenten en personeel.</span><span class="sxs-lookup"><span data-stu-id="edb09-104">Teams needs to be explicitly enabled for your students, as well as for faculty and staff.</span></span> <span data-ttu-id="edb09-105">Zie hiervoor [Microsoft-Teams inschakelen voor uw school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="edb09-105">To do this, please see [Enable Microsoft Teams for your school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
+<span data-ttu-id="a0c3a-103">Faculteit en personeel Teams toegang tot zijn, maar niet van uw leerlingen?</span><span class="sxs-lookup"><span data-stu-id="a0c3a-103">Are faculty and staff able to access Teams, but your students can't?</span></span> <span data-ttu-id="a0c3a-104">Teams moet ingeschakeld zijn voor uw leerlingen en docenten en personeel.</span><span class="sxs-lookup"><span data-stu-id="a0c3a-104">Teams needs to be explicitly enabled for your students, as well as for faculty and staff.</span></span> <span data-ttu-id="a0c3a-105">Zie hiervoor [Microsoft-Teams inschakelen voor uw school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="a0c3a-105">To do this, please see [Enable Microsoft Teams for your school](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).</span></span>
   
