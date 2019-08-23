@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423098"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506167"
 ---
 # <a name="trying-to-verify-your-domain"></a>Wilt u uw domein verifiëren?
 
-Voeg een TXT-record aan uw domeinregistrar toe als u wilt verifiëren of u eigenaar bent van het domein. Volg de wizard Domein toevoegen door achtereenvolgens te klikken op **Instellingen** \> **Domein** en **Domein toevoegen**. 
+Voeg een TXT-record aan uw domeinregistrar toe als u wilt verifiëren of u eigenaar bent van het domein. Volg de wizard Nieuw domein in het Microsoft 365-beheercentrum door naar **Installatie** \> **Domeinen** te gaan en vervolgens **Domein toevoegen** te selecteren. 
   
 Volg de instructies in het onderstaande artikel om een TXT-record toe te voegen om uw domein te verifiëren. Selecteer uw domeinregistrar voor specifieke instructies voor uw domein.
   

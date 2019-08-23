@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390435"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523038"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Hoe voeg ik een creditcard toe?
 
-1. Ga in het beheercentrum naar de pagina **Facturering**\>[Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Ga in het Microsoft 365-beheercentrum naar de pagina **Facturering** \> [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Kies het abonnement waarvoor u wilt betalen met de nieuwe creditcard of bankrekening en kies vervolgens **Betalingsgegevens bijwerken**.
+2. Selecteer **Betaalmethode toevoegen**.
 
-3. Kies de vervolgkeuzepijl onder **Betalingswijze toevoegen of selecteren** en kies **Nieuwe creditcard** of **Nieuwe bankrekening**.
+3. Kies op de pagina **Betalingsmethoden** een betalingsmethode uit het vervolgkeuzemenu.
 
-4. Voer de gegevens voor de nieuwe creditcard of bankrekening in en kies vervolgens Verzenden.
+4. Voer de gegevens voor de nieuwe creditcard of bankrekening in en selecteer vervolgens **Opslaan**.
 
-Gebruikt u het nieuwe beheercentrum? Zie voor nieuwe stappen [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://docs.microsoft.com/nl-NL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Zie [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) voor meer informatie.

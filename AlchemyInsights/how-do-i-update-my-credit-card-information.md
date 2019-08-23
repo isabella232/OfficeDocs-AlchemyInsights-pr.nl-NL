@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388991"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522786"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hoe kan ik mijn creditcardgegevens bijwerken?
 
-1. Ga in het beheercentrum naar de pagina **Factureringsabonnementen**\>[](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Ga in het Microsoft 365-beheercentrum naar de pagina **Facturering** \> [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Kies het abonnement dat u hebt gekocht met de creditcard of via de bankrekening die u wilt bijwerken en kies vervolgens **Betalingsgegevens bijwerken**.
+2. Kies op de pagina **Betalingsmethoden** de creditcard of bankrekening die u wilt bijwerken.
 
-3. Kies de vervolgkeuzepijl onder **Betalingswijze toevoegen of selecteren** en kies de creditcard of bankrekening die u wilt bijwerken. Kies vervolgens **Gegevens bewerken**.
+3. Als u de creditcard- of bankrekeninggegevens wilt wijzigen, selecteert u **Betalingsgegevens bewerken**.
 
-4. Werk uw creditcard- of bankrekeninggegevens (naam op de creditcard of van de bankrekening, factuuradres, telefoonnummer of vervaldatum) waar nodig bij en kies vervolgens **Verzenden**.
+> [!NOTE]
+> Als een abonnement is gekocht door een andere beheerder in uw organisatie, kunt u de creditcard- of bankrekeninggegevens voor dat abonnement niet bijwerken. Als de creditcard binnenkort vervalt en de andere beheerder deze niet kan bijwerken, kunt u voorkomen dat de service wordt onderbroken door een andere creditcard of een nieuwe bankrekening toe te voegen voor het abonnement.
 
-5. Er zou een bevestigingsbericht moeten worden weergegeven.
+4. Werk uw creditcard- of bankrekeninggegevens (naam op de creditcard of van de bankrekening, factuuradres, telefoonnummer of vervaldatum) waar nodig bij en selecteer vervolgens **Opslaan** > **Gereed**.
 
-Zie [Problemen met creditcards en bankrekeningen oplossen](https://docs.microsoft.com/nl-NL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) voor meer informatie.
-
-Gebruikt u het nieuwe beheercentrum? Zie voor nieuwe stappen [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://docs.microsoft.com/nl-NL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Zie [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) voor meer informatie.
