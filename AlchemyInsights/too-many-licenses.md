@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388019"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549070"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="5b552-102">Te veel licenties?</span><span class="sxs-lookup"><span data-stu-id="5b552-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="9e3a1-102">Te veel licenties?</span><span class="sxs-lookup"><span data-stu-id="9e3a1-102">Too many licenses?</span></span>
 
-<span data-ttu-id="5b552-103">Als u denkt dat u bent in rekening wordt gebracht voor te veel licenties dat, is dit meestal door meer licenties die aangeschaft moet u.</span><span class="sxs-lookup"><span data-stu-id="5b552-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="9e3a1-103">Als u denkt dat u bent in rekening wordt gebracht voor te veel Office 365 licenties dat, is dit meestal door meer licenties die aangeschaft moet u.</span><span class="sxs-lookup"><span data-stu-id="9e3a1-103">If you think you're being billed for too many Office 365 licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="5b552-104">**Verminder het aantal aangeschafte licenties**</span><span class="sxs-lookup"><span data-stu-id="5b552-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="9e3a1-104">**Verminder het aantal aangeschafte licenties**</span><span class="sxs-lookup"><span data-stu-id="9e3a1-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="5b552-105">In het admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="5b552-105">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="9e3a1-105">In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.</span><span class="sxs-lookup"><span data-stu-id="9e3a1-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="5b552-106">Kies het abonnement waarvan u wilt verwijderen van licenties aan de linkerkant.</span><span class="sxs-lookup"><span data-stu-id="5b552-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
+2. <span data-ttu-id="9e3a1-106">Zoek het abonnement waarvan u licenties wilt verwijderen en selecteer vervolgens **licenties toevoegen of verwijderen**.</span><span class="sxs-lookup"><span data-stu-id="9e3a1-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="5b552-107">Kies **Licenties toevoegen/verwijderen**.</span><span class="sxs-lookup"><span data-stu-id="5b552-107">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="9e3a1-107">In het **Totaal aantal licenties** geeft het totale aantal licenties die u nodig hebt voor dit abonnement en selecteer vervolgens **indienen wijzigen**.</span><span class="sxs-lookup"><span data-stu-id="9e3a1-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="9e3a1-108">Als u bijvoorbeeld 110 licenties hebt en u wilt 5 van deze licenties verwijderen, voert u 105 in.</span><span class="sxs-lookup"><span data-stu-id="9e3a1-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-4. <span data-ttu-id="5b552-108">Voer het totale aantal gebruikers dat nodig is.</span><span class="sxs-lookup"><span data-stu-id="5b552-108">Enter the total number of users needed.</span></span> <span data-ttu-id="5b552-109">Bijvoorbeeld, als u momenteel 25 licenties hebt en u wilt verwijderen, 5, geef 20 op in dit veld.</span><span class="sxs-lookup"><span data-stu-id="5b552-109">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="5b552-110">Kies **Verzenden**.</span><span class="sxs-lookup"><span data-stu-id="5b552-110">Choose **Submit**.</span></span>
-
-<span data-ttu-id="5b552-111">Gebruikt u het nieuwe admin center?</span><span class="sxs-lookup"><span data-stu-id="5b552-111">Are you using the new admin center?</span></span> <span data-ttu-id="5b552-112">Zie [licenties voor uw Office 365 voor zakelijke abonnement verwijderen](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)voor nieuwe stappen.</span><span class="sxs-lookup"><span data-stu-id="5b552-112">For new steps, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
+<span data-ttu-id="9e3a1-109">Zie [Licenties verwijderen uit uw abonnement voor Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="9e3a1-109">For more information, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>

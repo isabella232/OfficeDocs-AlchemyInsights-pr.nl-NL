@@ -17,19 +17,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 17516d9e40c39d7825d5dddcd8500a34900987d6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4c139d72ca6370af1b28bfa9883669a7a1d4da88
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355692"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551014"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="deb70-102">Service-Incident in uitvoering</span><span class="sxs-lookup"><span data-stu-id="deb70-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="5a196-102">Service-Incident in uitvoering</span><span class="sxs-lookup"><span data-stu-id="5a196-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="deb70-103">U kan worden beïnvloed door een incident service of advies dat wordt momenteel onderzocht.</span><span class="sxs-lookup"><span data-stu-id="deb70-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="deb70-104">Door te gaan naar de pagina [Status van de Service](https://admin.microsoft.com/adminportal/home#/servicehealth) kunt u de meest recente status controleren.</span><span class="sxs-lookup"><span data-stu-id="deb70-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="5a196-103">U kan worden beïnvloed door een incident service of advies dat wordt momenteel onderzocht.</span><span class="sxs-lookup"><span data-stu-id="5a196-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="5a196-104">Door te gaan naar de pagina [Status van de Service](https://admin.microsoft.com/adminportal/home#/servicehealth) kunt u de meest recente status controleren.</span><span class="sxs-lookup"><span data-stu-id="5a196-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="deb70-105">Voor uw gemak vindt u een overzicht van dit incident hieronder:</span><span class="sxs-lookup"><span data-stu-id="deb70-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="5a196-105">Voor uw gemak vindt u een overzicht van dit incident hieronder:</span><span class="sxs-lookup"><span data-stu-id="5a196-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="deb70-106">**Incident nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="deb70-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="5a196-106">**Incident nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="5a196-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
  
-> <span data-ttu-id="deb70-107">Beschrijving van invloed: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="deb70-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="5a196-107">Beschrijving van invloed: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="5a196-107">Impact description: {ImpactDescription}</span></span>
