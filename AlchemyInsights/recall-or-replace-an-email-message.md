@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356592"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553427"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Intrekken of vervangen van een e-mailbericht
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Intrekken of vervangen van een e-mailbericht in Office 365
 
 - U kunt **alleen berichten intrekken die zijn verzonden naar personen in uw organisatie**. Als het bericht is verzonden naar een Gmail-adres, bijvoorbeeld, kan niet u deze intrekken.
 - U kunt **alleen berichten intrekken verzonden vanuit Outlook 2016 voor de PC**. Als een gebruiker een bericht met behulp van Outlook voor Mac of Outlook op het web verzendt, kunt u deze niet meer intrekken.
 - Als u een beheerder bent, kunt u **berichten intrekken voor gebruikers met PowerShell**. U kunt berichten van de admin center kan niet intrekken. Ga naar 'Zoeken en verwijderen: e-mailberichten in uw organisatie' voor meer informatie.
 
-***Intrekken of vervangen van een e-mailbericht dat u hebt verzonden***
+**Intrekken of vervangen van een e-mailbericht dat u hebt verzonden**
 
 1. In het deelvenster mappen aan de linkerzijde van het Outlook-venster, kies de map Verzonden Items.
 2. Open het bericht dat u wilt intrekken. U moet dubbelklikken om het bericht te openen. Het bericht te selecteren zodat deze wordt weergegeven in het leesvenster niet mogelijk het bericht in te trekken.

@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444767"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555228"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Het uitvoeren van zoekopdrachten naar de inhoud en eDiscovery zoekopdrachten
 
@@ -32,6 +32,6 @@ Gebruik het gereedschap Zoeken in inhoud in de & beveiliging conformiteit snel v
 4. Voer de vereiste zoekcriteria met inbegrip van trefwoorden en locaties van inhoud.  
 5. Klik op **Opslaan & uitvoeren** om de zoekopdracht een naam, het starten en vervolgens de resultaten bekijken.
 
-Zie [Inhoud zoeken](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) en [eDiscovery aanvragen](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)voor gedetailleerde instructies over zoekopdrachten naar de inhoud resultaten exporteren en eDiscovery gevallen voor het opslaan van gegevens maken.
+Zie [Inhoud zoeken](https://docs.microsoft.com/office365/securitycompliance/content-search) en [eDiscovery aanvragen](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)voor gedetailleerde instructies over zoekopdrachten naar de inhoud resultaten exporteren en eDiscovery gevallen voor het opslaan van gegevens maken.
 
-Over inhoud zoeken aan de hand van de [vereisten en beperkingen](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) en [onderzoekt gedeeltelijk geïndexeerd artikelen](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten van begrijpen.
+Over inhoud zoeken aan de hand van de [vereisten en beperkingen](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) en [onderzoekt gedeeltelijk geïndexeerd artikelen](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten van begrijpen.

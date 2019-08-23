@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388595"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554616"
 ---
-# <a name="prepaid-renewal"></a>Vooruitbetaalde vernieuwing
+# <a name="prepaid-office-365-renewal"></a>Vernieuwing van de vooruitbetaalde Office 365
 
-1. In de Admin center, gaat u naar de **Facturering** \> pagina [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
-2. Kies de prepaid abonnement dat u wilt uitbreiden, klik op **uitbreiden**.
+2. Zoek het abonnement dat u wilt uitbreiden. Selecteer in het gedeelte **Facturering** **einddatum uitbreiden**.
 
-3. Kies de optie voor de **productcode**. (Als dit een productcode gekocht tegen een retail-locatie is, u mogelijk de optie om uit te breiden met andere betalingsmethoden.)
+3. In het venster **abonnement uitbreiden** Selecteer **een nieuwe en niet-gebruikte productcode gebruiken**en selecteer vervolgens **volgende**.
 
-4. De productcode invoeren.
+4. Voer de productcode in en selecteer vervolgens **volgende**.
 
-5. Zorg ervoor dat de informatie juist is en klik op **volgende**.
+> [!NOTE]
+> Als u meer dan één productcode hebt, kunt u **een andere productcode toevoegen** aan deze invoeren.
 
-6. Kies het keuzerondje om de einddatum van de bestaande licenties uitbreiden en klik op **volgende**.
+5. Gegevens van uw bestelling controleren en selecteer vervolgens **verzilveren**.
 
-Gebruikt u het nieuwe admin center? Nieuwe Zie [licenties toevoegen of uitbreiden van een abonnement met een productcode betaald](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Zie [licenties dat u wilt toevoegen of een abonnement betaald met een productcode uitbreiden](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)voor meer informatie.

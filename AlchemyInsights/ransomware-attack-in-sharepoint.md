@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 2dc5a497fdb59acb58068e2db3f25293ee63995f
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269479"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553391"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware-aanvallen in SharePoint of OneDrive
 
@@ -36,12 +36,12 @@ Zie voor meer informatie over het herstellen van:
 - [Herstellen van een documentbibliotheek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
 
 Zie voor meer informatie over geavanceerde bedreiging (ATB):
-- [ATP voor SharePoint, OneDrive en Teams](https://docs.microsoft.com/en-us/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Bedreiging Verkenner, weergaven](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [ATP voor SharePoint, OneDrive en Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Bedreiging Verkenner, weergaven](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Meer informatie:
 
-- [Met Virus Detection in gesimuleerde Productieorder](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Codering van gegevens in ODBC en gesimuleerde Productieorder](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Met Virus Detection in gesimuleerde Productieorder](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Codering van gegevens in ODBC en gesimuleerde Productieorder](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Ransomware detecteren en herstellen van bestanden](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Bedreiging Explorer en Realtime detectie](https://docs.microsoft.com/en-us/office365/securitycompliance/threat-explorer-views)
+- [Bedreiging Explorer en Realtime detectie](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

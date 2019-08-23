@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171332"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557496"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Het uiterlijk van uw postvak wijzigen
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Het uiterlijk van uw Outlook-postvak wijzigen
 
 U kunt het uiterlijk van het berichtvenster voor lezen en lijst wijzigen zodat het eruitziet en zich gedraagt zoals u dat wilt. Kies of uw berichten afzonderlijk of als gesprekken, moeten worden weergegeven als nieuwe berichten moeten worden weergegeven boven of onder aan de lijst met berichten, en nog veel meer.
 

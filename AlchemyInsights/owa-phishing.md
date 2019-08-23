@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34682996"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556567"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Het omgaan met een malafide e-mailbericht
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Het omgaan met een malafide e-mailbericht in Outlook op het web
 
 Een phishing-truc is een e-mailbericht dat legitiem lijkt, maar is eigenlijk een poging om te stelen uw persoonlijke gegevens of geld. Oplichters kunnen ook gebruik van een techniek spoofing om te zorgen dat het lijkt alsof u van uzelf een e-mailbericht hebt ontvangen.
 
