@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388667"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555264"
 ---
-# <a name="payment-options"></a>Betalingsopties
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Betalingsopties voor Office 365 voor Bedrijven-abonnementen
 
 **Betalingsopties**
   
@@ -30,7 +30,7 @@ Creditcard, bankrekening (automatische incasso) en factuur (via cheque of elektr
   
 Als u via een creditcard of bankrekening betaalt, worden automatisch kosten in rekening gebracht voor uw abonnement vanaf de dag na de factuurdatum tot het einde van uw abonnementsperiode. U kunt [uw creditcard- of bankrekeninggegevens bijwerken](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) wanneer dat nodig is. U kunt ook [Een kopie van uw factuuroverzicht per e-mail ontvangen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Als uw creditcard is geweigerd of een achterstallig saldo heeft, kunt u de optie **Nu betalen** kiezen op de **pagina**\> Factureringsabonnementen[](https://portal.office.com/adminportal/home#/subscriptions).
+Als uw creditcard is geweigerd of een achterstallig saldo heeft, kunt u de optie **Saldo vereffenen** kiezen op de pagina **Facturering** \> [Producten en services](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Betalen per factuur (via cheque of elektronische betaling)**
   
