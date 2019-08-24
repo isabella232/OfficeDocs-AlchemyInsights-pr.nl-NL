@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840510"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620718"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Alleen-lezen voor onderhoud wordt weergegeven wanneer u probeert te gebruiken van SharePoint of OneDrive
 
-Gebruikers kunnen een bericht **Voor het onderhoud van het kenmerk alleen-lezen** wanneer u probeert om SharePoint of OneDrive te gebruiken.  Controleer of er actieve onderhoud die plaatsvinden op de huurder door te gaan met het [berichtencentrum](https://portal.office.com/adminportal/home#/MessageCenter)is. Zorg ervoor dat u controleert het dashboard [Gezondheid Service](https://portal.office.com/adminportal/home#/servicehealth) om te controleren op eventuele aanbevelingen/incidenten die zich zou kunnen voordoen.
+Gebruikers kunnen een bericht **Alleen-lezen voor onderhoud** tijdens het gebruik van SharePoint of OneDrive voor een van de volgende scenario's. 
 
-Dit kan een browser caching probleem zijn als het Message Center, noch gezondheid Service dashboard hebt vermeld over de huidige onderhoud voor de huurder.
+-   Een geplande of actieve onderhoudsactiviteiten.  Controleer of ze door te gaan met het [Berichtencentrum](https://portal.office.com/adminportal/home#/messagecenter).
+-   Een hoge prioriteit actieve service incident dat zich zou kunnen voordoen. Controleren op eventuele aanbevelingen/incidenten door te gaan voor de [Gezondheid van de Service](https://portal.office.com/adminportal/home#/servicehealth).
+-   Een kleine automatische retoucheren herstelscenario dat kan gebeuren als gevolg van een onverwachte gebeurtenissen op de servers die voor minder dan 30 minuten of zo mogelijk laatste. 
+    
+    Er zijn geen Message Center of Health Service post voor deze kleine terugvorderingen, maar moet worden zeer binnenkort weer in de normale.
+
+In enkele gevallen waargenomen we dat een van de drie scenario's hierboven vermeld zijn de oorzaak, en service is hersteld, maar de gebruikers browsercache nog niet is gewist van.
 
 Probeer om de cache van de browser wissen voordat u naar de site navigeren.
 

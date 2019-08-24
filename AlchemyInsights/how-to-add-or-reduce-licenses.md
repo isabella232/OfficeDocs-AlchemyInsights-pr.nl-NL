@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522426"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574937"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Het toevoegen of licenties te verminderen
 
@@ -39,7 +39,7 @@ Hier is het verwijderen of meer Office 365 licenties aan te schaffen.
 > [!NOTE]
 > Een nieuwe toeslag (licentie verhoging) of creditnota (afname licentie) wordt weergegeven op uw volgende factuur.
 
-Zie [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)voor meer informatie.
+Gebruikt u het oude admin center? Zie [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)voor oude werk, of voor meer informatie.
 
  **Aanvullende bronnen**
   

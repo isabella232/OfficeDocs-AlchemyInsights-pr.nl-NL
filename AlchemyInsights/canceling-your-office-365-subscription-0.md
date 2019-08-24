@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 90f7a879b823648973ef52d9d34914871c046141
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518502"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575747"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Uw abonnement op Office 365 annuleren?
 
 Helaas u gaan zien!
   
-Op basis van de gegevens van uw organisatie, wij denken dat uw huidige abonnementen hebben minder dan 25 zitplaatsen. Ga naar de **Facturering** om online uw abonnement opzegt, \> [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina en kies vervolgens **meer acties** \> **opzeggen**.
+Op basis van de gegevens van uw organisatie, wij denken dat uw huidige abonnementen hebben minder dan 25 zitplaatsen. Ga naar de **Facturering** om online uw abonnement opzegt, \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina. Kies **abonnement annuleren**in het gedeelte **Instellingen & acties** .
   
-Voor meer informatie over het annuleren van een abonnement of voor stapsgewijze instructies, Zie dit artikel: [uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Gebruikt u het oude admin center? Voor oude stappen, of voor meer informatie, raadpleegt u [uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
