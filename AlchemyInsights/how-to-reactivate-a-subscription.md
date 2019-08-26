@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539924"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574757"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Een abonnement opnieuw activeren
 
@@ -26,10 +26,10 @@ Als uw abonnement is verlopen, geannuleerd of uitgeschakeld door Microsoft, kunt
   
 1. Ga in het beheercentrum naar de pagina **Facturering** \> [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Selecteer onder **Facturering**, naast **Wordt verlengd op** of **Verloopt op**, de optie **Bewerken**.
+2. Kies het abonnement dat u opnieuw wilt activeren. Klik in de sectie **Facturering** op **Opnieuw activeren**.
 
-3. Selecteer de gewenste optie in het deelvenster **Instellingen voor terugkerende facturering**. Als terugkerende facturering al is uitgeschakeld, selecteert u **Maandelijks** of **Eenmaal** om deze in te schakelen.
+    Als u **Opnieuw activeren** niet als een beschikbare actie ziet, bel ondersteuning om uw abonnement opnieuw te activeren.
 
-4. Selecteer **Wijziging verzenden**.
+3. Bevestig uw betalingsgegevens. U kunt uw bestaande betalingsgegevens hier bijwerken. Wanneer u klaar bent met het invoeren van uw betalingsmethode, kies **Opnieuw activeren**.
 
-Zie voor meer informatie: [Office 365 voor Bedrijven verlengen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
+Gebruikt u nog steeds het oude beheercentrum? Voor oude stappen of voor meer informatie, raadpleeg uw [Abonnement opnieuw activeren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
