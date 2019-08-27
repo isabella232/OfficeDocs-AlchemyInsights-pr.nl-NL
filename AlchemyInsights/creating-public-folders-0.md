@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514866"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631783"
 ---
 # <a name="creating-public-folders"></a>Openbare mappen maken
 
 Voordat uw gebruikers openbare mappen in Office 365 gebruiken kunnen, moet u ten minste één openbare map Postvak maken. Maken:
   
-1. In de portal O365 via het linkernavigatiemenu Ga naar **Admin Centers** \> **Exchange**.
+1. In het Microsoft 365 admin center, gaat u naar de **Admin centers** \> **Exchange**.
 
 2. Ga naar **openbare mappen** \> **postvakken voor openbare map**en klik vervolgens op **toevoegen**.
 
