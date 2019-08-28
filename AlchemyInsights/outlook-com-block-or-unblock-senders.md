@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537871"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643689"
 ---
 # <a name="block-or-unblock-senders"></a>Blokkeren of de blokkering opheffen van afzenders
 
-Berichten van e-mailadressen of domeinen in uw geblokkeerde afzenders gaat rechtstreeks naar de map Ongewenste E-mail. E-mail wordt automatisch verwijderd uit de map Ongewenste E-mail na 14 dagen en kan niet worden hersteld.
+Berichten van e-mailadressen of domeinen in uw geblokkeerde afzenders gaat rechtstreeks naar de map Ongewenste E-mail. E-mail wordt automatisch verwijderd uit de map Ongewenste E-mail na 30 dagen en kan niet worden hersteld. SE; ect een item om te zien wanneer deze worden verwijderd.
 
 **Uit uw postvak in:**
 
 - Selecteer het bericht in de berichtenlijst en selecteert u **ongewenste** > **blokkeren**.
+- **Opmerking:** Een item dat al in de map Ongewenste E-mail blokkeren wordt niet verwijderd.
 
 **Van de instellingen:**
 
