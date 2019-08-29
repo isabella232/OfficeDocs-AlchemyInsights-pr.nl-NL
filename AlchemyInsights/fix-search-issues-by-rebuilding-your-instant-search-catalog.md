@@ -1,9 +1,8 @@
 ---
-title: Problemen met 1800005 fix zoeken door de catalogus van Direct zoeken opnieuw samenstellen
+title: 1800005 problemen met zoeken oplossen door uw catalogus voor direct zoeken opnieuw te bouwen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 6/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +12,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: dc0bf1e51e603a63904d0478fe7bdc13019eac26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf167548c81b11e16aa98cd9a83b619a8087dcb0
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524874"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664891"
 ---
-# <a name="troubleshoot-search-issues"></a><span data-ttu-id="76b2d-102">Problemen met zoeken oplossen</span><span class="sxs-lookup"><span data-stu-id="76b2d-102">Troubleshoot search issues</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="c9291-102">Problemen met zoekopdrachten oplossen</span><span class="sxs-lookup"><span data-stu-id="c9291-102">Troubleshoot search issues</span></span>
 
-<span data-ttu-id="76b2d-103">Als u met de zoekfunctie in Outlook problemen hebt, raadpleegt u de onderstaande koppelingen voor het oplossen van help.</span><span class="sxs-lookup"><span data-stu-id="76b2d-103">If you're having problems with search in Outlook, please see the links below for help troubleshooting.</span></span>
+<span data-ttu-id="c9291-103">Als u problemen ondervindt met zoeken in Outlook, raadpleegt u de onderstaande koppelingen voor hulp en probleemoplossing.</span><span class="sxs-lookup"><span data-stu-id="c9291-103">If you're having problems with search in Outlook, please see the links below for help and troubleshooting.</span></span>
 
-<span data-ttu-id="76b2d-104">Dit zijn de meest voorkomende problemen en zijn een goede plaats om te starten:</span><span class="sxs-lookup"><span data-stu-id="76b2d-104">These are the most common issues, and are a good place to start:</span></span>
+<span data-ttu-id="c9291-104">Dit zijn de meest voorkomende problemen, en zijn een goede plek om te beginnen:</span><span class="sxs-lookup"><span data-stu-id="c9291-104">These are the most common issues, and are a good place to start:</span></span>
 
-- [<span data-ttu-id="76b2d-105">Outlook-zoekopdracht oplevert geen resultaten</span><span class="sxs-lookup"><span data-stu-id="76b2d-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [<span data-ttu-id="76b2d-106">Zoeken in Outlook retourneert onvolledige resultaten</span><span class="sxs-lookup"><span data-stu-id="76b2d-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [<span data-ttu-id="76b2d-107">Oudere e-mailberichten kan niet zoeken in Outlook vinden</span><span class="sxs-lookup"><span data-stu-id="76b2d-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [<span data-ttu-id="c9291-105">Outlook Search retourneert geen resultaten</span><span class="sxs-lookup"><span data-stu-id="c9291-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="c9291-106">Outlook Search retourneert onvolledige resultaten</span><span class="sxs-lookup"><span data-stu-id="c9291-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="c9291-107">Outlook Search kan geen oudere e-mails vinden</span><span class="sxs-lookup"><span data-stu-id="c9291-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-<span data-ttu-id="76b2d-108">Mogelijke oplossingen voor minder gangbare problemen vindt u hier:</span><span class="sxs-lookup"><span data-stu-id="76b2d-108">Possible solutions for less common problems can be found here:</span></span>
+<span data-ttu-id="c9291-108">Mogelijke oplossingen voor minder veelvoorkomende problemen u hier vinden:</span><span class="sxs-lookup"><span data-stu-id="c9291-108">Possible solutions for less common problems can be found here:</span></span>
 
-- [<span data-ttu-id="76b2d-109">Alleen in Outlook 2016: tabblad Zoeken is niet beschikbaar</span><span class="sxs-lookup"><span data-stu-id="76b2d-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [<span data-ttu-id="76b2d-110">Gedeelde postbus: Problemen met zoekresultaten</span><span class="sxs-lookup"><span data-stu-id="76b2d-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [<span data-ttu-id="76b2d-111">Fout: Het zoeken worden beïnvloed door een probleem met de manier waarop Outlook is geconfigureerd</span><span class="sxs-lookup"><span data-stu-id="76b2d-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [<span data-ttu-id="76b2d-112">Zoekmappen weergeven onverwachte PersonMetadata items geen onderwerp</span><span class="sxs-lookup"><span data-stu-id="76b2d-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [<span data-ttu-id="c9291-109">Alleen Outlook 2016: het tabblad Zoeken is grijs weergegeven</span><span class="sxs-lookup"><span data-stu-id="c9291-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="c9291-110">Gedeelde postbus: problemen met zoekresultaten</span><span class="sxs-lookup"><span data-stu-id="c9291-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="c9291-111">Fout: de zoekprestaties worden beïnvloed door een probleem met de manier waarop Outlook is geconfigureerd</span><span class="sxs-lookup"><span data-stu-id="c9291-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="c9291-112">In Zoekmappen worden onverwachte PersonMetadata-items weergegeven zonder onderwerp</span><span class="sxs-lookup"><span data-stu-id="c9291-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
