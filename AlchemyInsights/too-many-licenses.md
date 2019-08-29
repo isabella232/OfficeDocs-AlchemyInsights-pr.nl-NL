@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549070"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665935"
 ---
 # <a name="too-many-licenses"></a>Te veel licenties?
 
@@ -32,4 +32,4 @@ Als u denkt dat u bent in rekening wordt gebracht voor te veel Office 365 licent
 
 3. In het **Totaal aantal licenties** geeft het totale aantal licenties die u nodig hebt voor dit abonnement en selecteer vervolgens **indienen wijzigen**. Als u bijvoorbeeld 110 licenties hebt en u wilt 5 van deze licenties verwijderen, voert u 105 in.
 
-Zie [Licenties verwijderen uit uw abonnement voor Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription) voor meer informatie.
+Voor meer informatie, Zie [licenties voor uw Office 365 voor zakelijke abonnement verwijderen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

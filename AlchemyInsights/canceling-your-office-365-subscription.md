@@ -3,7 +3,6 @@ title: Uw abonnement op Office 365 annuleren?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519664"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665431"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Uw abonnement op Office 365 annuleren?
 
-We vinden het jammer om te zien dat u gaat, maar hier volgen uw opties om uw abonnement:
+We zien je gaat je zult zijn, maar als u uw abonnement opzegt, Hier volgen uw opties:
   
 - Als u een evaluatieversie klant bent, is er niets om te annuleren. Evaluatieversie abonnementen verlopen automatisch tenzij u een betalingsmethode opgeven.
 
-- Als u minder dan 25 toegewezen licenties hebt, kunt u online uw abonnement annuleren. Ga naar de **Facturering** \> [abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina en kies vervolgens **meer acties** \> **opzeggen**.
+- Als u minder dan 25 toegewezen licenties hebt, kunt u online uw abonnement annuleren. Ga naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina. Kies **abonnement annuleren**in het gedeelte **Instellingen & acties** .
 
 - Als er meer dan 25 toegewezen licenties, kunt u gebruikers verwijderen totdat u minder dan 25 hebt of gebruikt u de optie 'laat ons u bellen' contact opnemen met een ondersteuningstechnicus.
 
-- Voor meer informatie over het annuleren van een abonnement of voor stapsgewijze instructies, Zie [je abonnement opzegt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Voor meer informatie, Zie [je abonnement opzegt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

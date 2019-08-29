@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fc58e79d98a8ec617d065f147d12171a472573b8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359976"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661399"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Wijzigen van machtigingen voor een postbus
 
-Als gebruikers toegang tot postvakken niet op hun eigen moeten, moeten ze worden gemachtigd om te werken met deze postbussen. Hoe u de machtigingen wilt toewijzen, is afhankelijk van het Postvaktype. Als gebruikers toegang tot moeten:
+Als gebruikers toegang tot Office 365 postbussen niet op hun eigen moeten, moeten ze worden gemachtigd om te werken met deze postbussen. Hoe u de machtigingen wilt toewijzen, is afhankelijk van het Postvaktype. Als gebruikers toegang tot moeten:
   
 - Postbussen van andere gebruiker - Zie [Postvak machtigingen aan een andere gebruiker in Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
     

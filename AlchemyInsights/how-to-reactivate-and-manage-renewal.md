@@ -1,5 +1,5 @@
 ---
-title: Het activeren en beheren van vernieuwing
+title: Vernieuwing opnieuw activeren en beheren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574537"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663955"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Het activeren en beheren van periodieke facturering
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Terugkerende facturering opnieuw activeren en beheren
 
-Waarschijnlijk hebt u een abonnement is verlopen. Als u wilt activeren, hier de hoe.
+Het lijkt erop dat je een abonnement hebt dat is verlopen. Als u wilt opnieuw activeren, hier is hoe.
   
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het Admin Center naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Zoek het abonnement dat u wilt activeren. Selecteer in het gedeelte **Facturering** **opnieuw activeren**.
+2. Zoek het abonnement dat u wilt activeren. Selecteer in het gedeelte **facturering** de optie **opnieuw activeren**.
 
-    Als er geen **opnieuw activeren** als een optie, gebruik de knop "Hulp" contact opnemen met een ondersteuningstechnicus van uw abonnement opnieuw activeren.
+    Als u de optie **opnieuw activeren** niet ziet, gebruikt u de knop ' hulp nodig ' om met een ondersteuningstechnicus te praten om uw abonnement opnieuw te activeren.
 
-3. Controleer uw betalingsgegevens. U kunt hier uw bestaande betalingsgegevens bijwerken. Wanneer u klaar bent met het invoeren van uw betalingsmethode, selecteer **opnieuw activeren**.
+3. Bevestig uw betalingsgegevens. U uw bestaande betalingsgegevens hier bijwerken. Wanneer u klaar bent met het invoeren van uw betaalmethode, selecteert u **opnieuw activeren**.
 
-Gebruikt u het oude admin center? Voor oude werk, of voor meer informatie, raadpleegt u [uw abonnement opnieuw activeren](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Zie [uw abonnement opnieuw activeren](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)voor meer informatie. 
 
-Voor het beheren van facturering u maandelijks of jaarlijks schakelen **terugkerende facturering** in- of uitschakelen.
+Om maandelijkse of jaarlijkse facturering te beheren, u **terugkerende facturering** in-of uitschakelen.
   
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het Admin Center naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Kies het abonnement waarvoor u wilt beheren, terugkerende facturering.
+2. Kies het abonnement waarvoor u terugkerende facturering wilt beheren.
 
-3. **Facturering**, naast **vernieuwt op** of **verloopt op**, selecteer **bewerken**.
+3. Selecteer **bewerken**onder **facturering**, naast **vernieuwd op** of **verloopt op**.
 
-4. Selecteer in het deelvenster **terugkerende facturering instellingen** **Uitschakelen** uit te schakelen. Als terugkerende facturering al is uitgeschakeld, selecteert u **maandelijks** of **eenmaal** te worden ingeschakeld.
+4. **Selecteer in** het deelvenster **instellingen voor terugkerende facturering** de optie uitschakelen om deze optie uit te schakelen. Als terugkerende facturering al is uitgeschakeld, selecteert u **maandelijks** of **één keer** om deze in te schakelen.
 
-5. Selecteer **indienen wijzigen**.
+5. Selecteer **wijziging verzenden**.
 
-Gebruikt u het oude admin center? Oude werk of voor meer informatie Zie [terugkerende facturering uit- of inschakelen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Zie [terugkerende facturering uitschakelen of](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)inschakelen voor meer informatie.

@@ -1,32 +1,31 @@
 ---
-title: 305 vergroten de archiefmap Postvak
+title: 305 de grootte van het archief postvak vergroten
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391217"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661795"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Vergroot de postbus archief
+# <a name="increase-the-archive-mailbox-size"></a>De grootte van het archief postvak vergroten
 
-Office 365 [limieten voor](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) de grootte van postvakken archiveren op basis van de licentie die toegewezen aan de gebruikersaccount. Als de archiefmap Postvak 90% van de toegestane grootte is bereikt, ontvangt de gebruiker een e-mailbericht. Als een archief-postbus de opslaglimiet heeft bereikt, kan de gebruiker meer items verplaatsen naar de archiefmap Postvak. Office 365 won't vergroten van een postbus archiveren zodra de limiet wordt bereikt. In plaats daarvan kunnen gebruikers de volgende handelingen uit om de vrije ruimte in de archiefmap Postvak:
+Office 365 [beperkt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) de grootte van postbussen archiveren op basis van de licentie die toegewezen aan de gebruikersaccount. Wanneer de postbus archiveren 90% van de toegestane grootte bereikt, ontvangt de gebruiker een e-mailmelding. Wanneer een postbus archiveren de maximale grootte bereikt, kan de gebruiker niet meer items verplaatsen naar de postbus archiveren. Office 365 vergroot de grootte van een archiefmap niet als de maximale grootte is bereikt. In plaats daarvan kunnen gebruikers de volgende acties uitvoeren om ruimte vrij te maken in het archief postvak:
 
-- Exporteert de items naar een PST-bestand met Outlook
+- Exporteer de items naar een PST-bestand met Outlook.
 
-- Items verwijderen uit het postvak van het archief.
+- Items uit het postvak archiveren verwijderen.
 
-Office 365 biedt **onbeperkte archivering** voor Office 365 Enterprise E3 en E5-licenties. Een beheerder moet deze functie inschakelen voordat de archiefmap Postvak de maximumgrootte bereikt. Bij het archiveren van onbeperkt is ingeschakeld, kan het 30 dagen voordat de vrije ruimte wordt toegevoegd aan de archiefmap Postvak duren. Daarom is het raadzaam dat beheerders controleren of de vrije ruimte in de postbus archiveren, waarmee de gebruiker om door te gaan met de archiefmap Postvak terwijl het wordt uitgebreid. Zie [overzicht van onbeperkte archiveren in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) en [onbeperkt archivering in Office 365 inschakelen](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)voor meer informatie.
+Office 365 biedt **onbeperkte archivering** voor Office 365 Enterprise E3-en E5-licenties. Een beheerder moet deze functie inschakelen voordat de postbus archiveren de maximale grootte bereikt. Wanneer onbeperkte archivering is ingeschakeld, kan het tot 30 dagen duren voordat de vrije ruimte wordt toegevoegd aan de archiefmap Postvak. Daarom raden we aan dat beheerders de vrije ruimte in het postvak archiveren controleren, zodat de gebruiker de archiefmailbox kan blijven gebruiken terwijl deze wordt uitgevouwen. Zie voor meer informatie, [overzicht van onbeperkte archivering in office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) en [onbeperkte archivering in Office 365 inschakelen](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
 
-Zie voor meer informatie over het verkrijgen van toegang tot de postbus archiveren vanuit Outlook, [Outlook-vereisten voor het weergeven van items in een archiefbestand automatisch uitgevouwen](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Zie [instellen van een beleid voor archiveren en verwijderen van postvakken in uw organisatie Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)een bewaarbeleid die items automatisch naar de archiefmap Postvak verplaatst configureren.
+Zie voor meer informatie over het openen van de postbus archiveren vanuit Outlook [Outlook vereisten voor toegang tot items in een automatisch uitgevouwen archief](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Voor het configureren van een bewaarbeleid dat items automatisch verplaatst naar de postbus archiveren, Zie [instellen van een beleid voor archiveren en verwijderen voor postvakken in uw organisatie van Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
 
-**Opmerking**: automatisch uitvouwen archieven worden niet ondersteund voor primaire postbussen in Exchange 2010.
+**Opmerking**: automatisch uitbreidende archieven worden niet ondersteund voor primaire postvakken op Exchange 2010.

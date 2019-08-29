@@ -1,8 +1,7 @@
 ---
-title: Het postvak van de gebruiker wordt gemaakt.
+title: Het postvak van uw gebruiker wordt gemaakt
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 01d13109604410ba8ca201acb7e3b3bc2aaf6cca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557748"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665647"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>De postbus van de gebruiker wordt gemaakt.
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Het maken van gebruikers postvakken duurt lang
 
-Het kost maximaal 24 uur voordat u een nieuw postvak is klaar voor gebruik.
+Het kan tot 24 uur duren voordat een nieuw postvak klaar is voor gebruik.
   
-Als het postvak van de gebruiker heeft zijn 'voorbereidingen' voor meer dan een uur, de Exchange-licentie van de gebruiker verwijderen en opnieuw toe te voegen back of gebruikt u de optie 'laat ons u bellen' contact opnemen met een ondersteuningstechnicus.
+Als het postvak van de gebruiker meer dan een uur is ' voorbereid ', probeert u de Exchange-licentie van de gebruiker te verwijderen en opnieuw toe te voegen of [contact op te nemen met de ondersteuning](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).

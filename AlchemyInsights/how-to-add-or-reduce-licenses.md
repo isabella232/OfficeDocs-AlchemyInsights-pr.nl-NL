@@ -3,7 +3,6 @@ title: Het toevoegen of licenties te verminderen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574937"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664279"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Het toevoegen of licenties te verminderen
 
-Hier is het verwijderen of meer Office 365 licenties aan te schaffen.
+Hier is het verwijderen van Office 365 licenties of meer licenties aan te schaffen.
   
 1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
 
@@ -39,7 +38,7 @@ Hier is het verwijderen of meer Office 365 licenties aan te schaffen.
 > [!NOTE]
 > Een nieuwe toeslag (licentie verhoging) of creditnota (afname licentie) wordt weergegeven op uw volgende factuur.
 
-Gebruikt u het oude admin center? Zie [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)voor oude werk, of voor meer informatie.
+Voor meer informatie, Zie [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Aanvullende bronnen**
   

@@ -1,9 +1,8 @@
 ---
-title: Facturering cyclus creditcard
+title: Creditcard voor factureringscyclus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc8d7dce6fdd1afc51424ecfd6e8359d2b793b6f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517746"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664783"
 ---
-# <a name="billing-cycle-credit-card"></a>Facturering cyclus creditcard
+# <a name="payment-methods-for-office-365-for-business"></a>Betalingsmethoden voor Office 365 voor bedrijven
 
-Wanneer u een Office 365 voor zakelijke abonnement rechtstreeks van Microsoft koopt, kunt u betalen met een creditcard of bankkaart. In sommige landen of regio's kunt u ook betalen met een bankrekening.
+Wanneer u een Office 365 voor zakelijk abonnement rechtstreeks bij Microsoft koopt, u betalen met een creditcard of betaalpas. In sommige landen of regio's u ook betalen met een bankrekening.
   
-Als u een creditcard als betalingsmethode te gebruiken, kunt u leren beheren en oplossen van [toevoegen, bijwerken, of verwijderen van een creditcard of bankrekening in Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Als u ervoor kiest om een creditcard te gebruiken als uw betalingsmethode, u leren hoe u [een creditcard of bankrekening in Office 365 voor bedrijven moet beheren en oplossen via toevoegen, bijwerken of verwijderen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
   
-Dit omvat het oplossen van problemen als uw creditcard is geweigerd en creditcardgegevens wijzigen zodat de kaart is geaccepteerd.
+Dit artikel bevat ook suggesties voor het oplossen van problemen wanneer uw creditcard wordt geweigerd en informatie over het wijzigen van creditcardgegevens, zodat de kaart wordt geaccepteerd.

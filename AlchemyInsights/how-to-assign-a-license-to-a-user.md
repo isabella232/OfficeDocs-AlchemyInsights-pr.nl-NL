@@ -3,7 +3,6 @@ title: Een licentie toewijzen aan een gebruiker
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +12,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522462"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664243"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Een licentie toewijzen aan een gebruiker
 
-Een gebruiker moet een licentie voor Office 365 toegang hebben tot de services. Hier volgen de stappen voor het toevoegen, wijzigen of verwijderen van een licentie van een gebruiker.
+Een gebruiker heeft een licentie voor Office 365 nodig om toegang te hebben tot services. Hier volgen stappen om een licentie van een gebruiker toe te voegen, te wijzigen of te verwijderen.
   
-1. Ga naar de **gebruikers** in het beheercentrum \> pagina [actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. In het Admin Center, gaat u naar de **gebruikers** \> [actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) pagina.
 
-2. Selecteer de naam van de gebruiker aan wie u wilt toewijzen, wijzigen of verwijderen van een licentie.
+2. Selecteer de naam van de gebruiker aan wie u een licentie wilt toewijzen, wijzigen of verwijderen.
 
-3. Selecteer de licentieserver die u wilt toewijzen aan deze gebruiker op het tabblad **licenties en Apps** .
+3. Selecteer op het tabblad **licenties en apps** de licentie die u aan deze gebruiker wilt toewijzen.
 
-    De standaardinstelling is dat alle services die zijn gekoppeld aan die licentie, automatisch worden toegewezen aan de gebruiker. Om te beperken welke services beschikbaar zijn voor de gebruiker, schakelt u het selectievakje in voor de services die u niet wilt hebben voor die gebruiker.
+    De standaardinstelling is dat alle services die zijn gekoppeld aan die licentie, automatisch worden toegewezen aan de gebruiker. Als u wilt beperken welke services beschikbaar zijn voor de gebruiker, schakelt u het selectievakje uit voor de services die de gebruiker niet wilt hebben.
 
-4. Kies **wijzigingen opslaan**onder aan het deelvenster.
+4. Kies onder in het deelvenster **wijzigingen opslaan**.
 
-Voor meer informatie Zie [licenties aan gebruikers in Office 365 voor bedrijven toewijzen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)en [verwijderen van licenties van gebruikers in Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Zie [licenties toewijzen aan gebruikers](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)en [licenties verwijderen van gebruikers](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)voor meer informatie.

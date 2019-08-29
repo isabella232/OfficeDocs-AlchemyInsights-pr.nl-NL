@@ -1,9 +1,8 @@
 ---
-title: Het maken van een Office 365-inkoop
+title: Een Office 365-aankoop doen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +12,25 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: b2d3a26f0761cd8e36f39c6a346a72eaf4331537
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574721"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664093"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Het maken van een Office 365-inkoop
+# <a name="how-to-make-an-office-365-purchase"></a>Een Office 365-aankoop doen
 
-Inkopen in Office 365 kunnen worden gemaakt in het beheercentrum.
+Aankopen in Office 365 kunnen worden gemaakt in het Admin Center.
   
-- Een Office 365-abonnement aanschaffen, gaat u naar de **Facturering** \> [services kopen](https://go.microsoft.com/fwlink/p/?linkid=868433) pagina.
+- Als u een abonnement op Office 365 wilt aanschaffen, gaat u naar de pagina **facturering** \> [Inkoop Services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-- Als u extra licenties aanschaft, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina. Kies het abonnement dat u licenties wilt toevoegen aan en selecteer vervolgens **de licenties toevoegen of verwijderen**.
+- Als u extra licenties wilt aanschaffen, gaat u naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . Kies het abonnement waaraan u licenties wilt toevoegen en selecteer vervolgens **licenties toevoegen/verwijderen**.
   
-Gebruikt u het oude admin center? Zie [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)voor oude werk, of voor meer informatie.
+Zie [licenties kopen voor uw abonnement op Office 365 voor bedrijven voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)meer informatie.
 
 **Aanvullende bronnen**
   
 - [Licenties toewijzen aan gebruikers in Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) .
 
-- [Office 365 voor zakelijke annuleren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Office 365 voor bedrijven annuleren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

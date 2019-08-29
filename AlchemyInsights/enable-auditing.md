@@ -3,7 +3,6 @@ title: Het controlelogboek inschakelen en zoeken
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527718"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665071"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Inschakelen en het controlelogboek zoeken
+
+**Office 365**
 
 Ga als volgt [te werk](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)als u wilt zoeken in het controlelogboek voor Office 365.
 
@@ -28,7 +29,7 @@ Ga als volgt [te werk](https://docs.microsoft.com/office365/securitycompliance/s
 
 - Beheeractiviteiten voor Exchange worden standaard gecontroleerd.
 
-- We zijn aan het postvak in Office 365 standaard controle inschakelen. Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)als u wilt controleren voor alle postvakken in uw organisatie of voor een afzonderlijke postbus, tot die tijd.
+- Postvak-controle is standaard ingeschakeld in Office 365. Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)voor meer informatie.
 
 - Registratie in het controlelogboek ondersteuning geen voor Office 365 groep postbussen en openbare mappen postvakken in Exchange Online.
 

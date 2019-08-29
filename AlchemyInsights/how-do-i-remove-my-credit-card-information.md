@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575373"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664423"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Hoe verwijder ik mijn creditcardgegevens?
 
-1. In het Microsoft 365 admin center, gaat u naar de **Facturering** \> pagina [betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. In de Microsoft 365 Admin Center, gaat u naar de **facturering** \> [betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) pagina.
 
-2. Kies op de pagina **betalingsmethoden** de creditcard of bankrekening te verwijderen.
+2. Kies op de pagina **betalingsmethoden** de creditcard of bankrekening die u wilt verwijderen.
 
-3. Als de creditcard of bankrekening, selecteert **verwijdert betalingsmethode.**
+3. Selecteer **betalingsmethode verwijderen** om de creditcard of bankrekening te verwijderen.
 
 > [!NOTE]
 > U kunt een creditcard of bankrekening niet verwijderen als deze momenteel wordt gebruikt voor het betalen van een abonnement.
 
-4. Selecteer **verwijderen**in het deelvenster **betalingsmethode verwijderen** .
+4. Selecteer in het deelvenster **betalingsmethode verwijderen** de optie **verwijderen**.
 
-Gebruikt u het oude admin center? Oude werk of voor meer informatie Zie [toevoegen, bijwerken, of verwijderen van een creditcard of bankrekening in Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Zie voor meer informatie, [toevoegen, bijwerken of verwijderen van een creditcard of bankrekening in Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

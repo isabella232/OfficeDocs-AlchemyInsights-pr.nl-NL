@@ -1,5 +1,5 @@
 ---
-title: Uw abonnement op Office 365 annuleren?
+title: Uw Office 365-abonnement opzeggen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575747"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665527"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Uw abonnement op Office 365 annuleren?
+# <a name="canceling-your-office-365-subscription"></a>Uw Office 365-abonnement opzeggen?
 
-Helaas u gaan zien!
+Het spijt ons te zien dat je gaat!
   
-Op basis van de gegevens van uw organisatie, wij denken dat uw huidige abonnementen hebben minder dan 25 zitplaatsen. Ga naar de **Facturering** om online uw abonnement opzegt, \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina. Kies **abonnement annuleren**in het gedeelte **Instellingen & acties** .
+Op basis van uw organisatiegegevens zijn wij van mening dat al uw huidige abonnementen minder dan 25 seats hebben. Als u uw abonnement online wilt opzeggen, gaat u naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . In de **instellingen & acties** sectie, kiest u **abonnement opzeggen**.
   
-Gebruikt u het oude admin center? Voor oude stappen, of voor meer informatie, raadpleegt u [uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Zie [uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)voor meer informatie.

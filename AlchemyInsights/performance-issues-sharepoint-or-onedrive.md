@@ -1,8 +1,7 @@
 ---
-title: Problemen met prestaties van SharePoint of OneDrive
+title: Prestatieproblemen-SharePoint of OneDrive
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: a7e84ef41c5c3486eb0bc15ddf4f550c797b5f0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554963"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666727"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint of OneDrive traag, niet toegankelijk of niet beschikbaar voor meerdere gebruikers
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint of OneDrive traag, ontoegankelijk of niet beschikbaar voor meerdere gebruikers
 
-SharePoint of OneDrive kan traag, niet toegankelijk of niet beschikbaar zijn om verschillende redenen:
+SharePoint of OneDrive is mogelijk traag, ontoegankelijk of niet beschikbaar om verschillende redenen:
   
-- Als de SharePoint- of OneDrive-site traag of vertraagde voor meerdere gebruikers is, kan er een tijdelijke service probleem waar gebruikers ondervinden met vertragingen of fouten navigatie bij toegang tot SharePoint-sites of OneDrive inhoud. Controleer of de [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien als uw organisatie wordt beïnvloed.
+- Als uw SharePoint-of OneDrive-site traag of vertraagd is voor meerdere gebruikers, is er mogelijk een tijdelijk serviceprobleem waarbij gebruikers onregelmatige vertragingen of Navigatiefouten ondervinden bij het openen van SharePoint-sites of OneDrive-inhoud. Controleer de [service status dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of uw organisatie wordt beïnvloed.
   
-- Als u traag met een **klassieke** SharePoint-site of pagina, maken gebruik van de [pagina het diagnostisch hulpprogramma](https://aka.ms/perftool) voor het analyseren van de pagina's.
+- Als u trage prestaties met een **klassieke** SharePoint-site of pagina ondervindt, maakt u gebruik van de [pagina diagnostisch hulpprogramma](https://aka.ms/perftool) voor het analyseren van de pagina's.
   
-- Als u nog steeds traag algemeen, bekijk de bronnen onderaan in dit artikel: [Prestaties afstemmen voor SharePoint Online-inleiding](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Als u nog steeds algemene trage prestaties ondervindt, raadpleegt u de resources aan de onderkant van dit artikel: [Inleiding tot prestatieafstemming Voorsharepoint online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

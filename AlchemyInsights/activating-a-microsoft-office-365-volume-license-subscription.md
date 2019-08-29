@@ -1,5 +1,5 @@
 ---
-title: Een licentie voor Microsoft Office 365 Volume activeren
+title: Een Microsoft Office 365 Volume License-abonnement activeren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574465"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661183"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Een licentie voor Microsoft Office 365 Volume activeren
+# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Een Microsoft Office 365 Volume License-abonnement activeren
 
-1. Log in om uw [portal Volume Licensing Service Center (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Aanmelden bij uw [Volume Licensing Service Center (VLSC)-Portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).
 
-2. Ga naar de Office 365-abonnement en kies **activeren**.
+2. Navigeer naar uw Office 365-abonnement en kies **activeren**.
 
-3. U ontvangt een e-mailbericht naar uw contactpersoon Online Services (OLS).
+3. Er wordt een e-mail verzonden naar uw contact persoon voor online diensten (OLS).
 
-4. De activering van e-mail biedt u twee opties: **aanmelden**of **inloggen**. Als u eerder een evaluatieversie hebt gemaakt, kiest u **aanmelden**. Als u een huurder Office 365 nog niet hebt, kiest u **aanmelden**.
+4. De activeringsmail biedt u twee opties: **Meld**u aan of **Meld**u aan. Als u eerder een proefversie hebt gemaakt, kiest u **Aanmelden**. Als u nog geen Office 365-Tenant hebt, kiest u **registreren**.
 
-5. Aanmelden bij Office 365 ([https://portal.office.com](https://portal.office.com)) met uw bestaande Office 365 administrator-referenties. Nadat u met succes zich aanmeldt, ontvangt u een ander e-mailadres bevestigen van uw aankoop.
+5. Meld u aan bij het Microsoft 365 admin[https://admin.microsoft.com](https://admin.microsoft.com)Center () met uw bestaande Office 365-beheerdersreferenties. Nadat je je hebt aangemeld, ontvang je nog een e-mail ter bevestiging van je aankoop.
 
-6. Nadat u zich heeft aangemeld, gaat u naar de **Facturering** \> [producten & diensten](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina om te bevestigen dat uw gekochte Office 365-abonnementen worden geactiveerd binnen de huurder. (U kunt ook het tabblad **abonnementen** in de VLSC om te controleren dat uw abonnement is nedergelegd details te bekijken.)
+6. Nadat u zich hebt aangemeld, gaat u naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) om te controleren of uw aangeschafte Office 365-abonnementen zijn geactiveerd in uw Tenant. (U ook het tabblad **abonnement** in de VLSC om te bekijken van de details controleren of uw abonnement is gedeponeerd.)

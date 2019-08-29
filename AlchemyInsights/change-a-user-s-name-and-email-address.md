@@ -3,7 +3,6 @@ title: Van een gebruiker naam en e-mailadres wijzigen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 5fad24c48aeafbc0724b9462a489644dc5ef0643
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519870"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665395"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Van een gebruiker naam en e-mailadres wijzigen
 
-Wijzigen van een gebruiker naam en e-mailadres is heel eenvoudig! Ga naar de **gebruikers** \> [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) en selecteert u de gebruiker om de informatie te bewerken. U kunt dit artikel ook gebruiken voor stapsgewijze instructies:
+Wijzigen van een gebruikersnaam en e-mailadres in Office 365 is eenvoudig. Ga naar de **gebruikers** \> pagina [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) en selecteert u de gebruiker om de informatie te bewerken. U kunt dit artikel ook gebruiken voor stapsgewijze instructies:
   
 [Wijzigen van een gebruikersnaam en e-mailadres in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   

@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575583"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665035"
 ---
 # <a name="expired-subscription"></a>Verlopen abonnement
 
@@ -34,7 +34,7 @@ Als er geen **opnieuw activeren** als een beschikbare actie, belt u ondersteunin
 
 3. Controleer uw betalingsgegevens. U kunt hier uw bestaande betalingsgegevens bijwerken. Wanneer u klaar bent met het invoeren van uw betalingsmethode, kies dan **opnieuw activeren**.
 
-Gebruikt u het oude admin center? Voor oude werk, of voor meer informatie, raadpleegt u [uw abonnement opnieuw activeren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Voor meer informatie, Zie [je abonnement opnieuw activeren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Een nieuwe aankoop**
   
@@ -46,4 +46,4 @@ Gebruikt u het oude admin center? Voor oude werk, of voor meer informatie, raadp
 
 4. Volg de resterende stappen uit uitchecken.
 
-Gebruikt u het oude admin center? Zie [een ander abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)voor oude werk, of voor meer informatie.
+Voor meer informatie, Zie [een ander abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
