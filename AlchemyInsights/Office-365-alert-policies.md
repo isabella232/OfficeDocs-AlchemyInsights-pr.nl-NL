@@ -1,9 +1,8 @@
 ---
-title: 1385-office-365-waarschuwing-beleid
+title: 1385-Office-365-alert-beleid
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496324"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661291"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 Alert beleid
+# <a name="office-365-alert-policies"></a>Waarschuwings beleid voor Office 365
 
-De beveiliging van Office 365 & conformiteit aanbiedingen [alert standaardbeleid](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) dat waarschuwingen voor organisaties met een abonnement op Office 365 Enterprise of Office 365 ons overheid E1/G1, E3/G3 of E5/G5 activeren. Beheerders wordt daarom een e-mailmelding die door Office365Alerts@microsoft.com worden verzonden met een onderwerpregel zoals ' een waarschuwing voor een lage prioriteit:*naam van waarschuwing beleid*". Meldingen worden verzonden wanneer waarschuwingen worden gegenereerd voor veelvoorkomende activiteiten, zoals wanneer een waarschuwing gebruikers:
+Het Office 365 Security & compliance Center biedt [standaard waarschuwings beleid](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) dat waarschuwingen activeert voor organisaties met een Office 365 Enterprise of Office 365 US Government E1/G1, E3/G3 of E5/G5-abonnement. Daarom kunnen beheerders een waarschuwing e-mail bericht verzonden door Office365Alerts@microsoft.com met een onderwerpregel zoals ' een waarschuwing met een lage prioriteit: *naam van waarschuwings beleid*' ontvangen. Waarschuwingsmeldingen worden verzonden wanneer waarschuwingen worden geactiveerd voor veelvoorkomende activiteiten, zoals wanneer gebruikers:
 
-- Maak regels voor postvak in die e-mail doorsturen.
-- Machtigingen toewijzen in hun postvak.
-- Delen of verwijderen van een groot aantal bestanden in een SharePoint-bestand delen.
-- EDiscovery zoekacties maken en exporteren van zoekresultaten.
+- Regels voor Postvak in maken die e-mail doorsturen.
+- Machtigingen voor hun postbus toewijzen.
+- Deel of verwijder een groot aantal bestanden in SharePoint-bestandsdeling.
+- EDiscovery-zoekopdrachten maken en resultaten exporteren.
 
-Bekijken en reageren op een signaal:
+Een waarschuwing bekijken en hierop reageren:
 
-1. Ga naar de [Security & conformiteit](https://protection.office.com) en log in.
-2. Klik op **meldingen van waarschuwingen > weergeven**.
-3. Klik op een signaal om een doel pagina met informatie over de waarschuwing weer te geven.
+1. Ga naar de [Security & compliance Center](https://protection.office.com) en meld u aan.
+2. Klik op **waarschuwingen** > waarschuwingen**weergeven**.
+3. Klik op een waarschuwing om een flyout-pagina met informatie over de waarschuwing weer te geven.
 
-U kunt een waarschuwing, zoals het [verwijderen van een verdachte postvak in-regel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)actie ondernemen. Of u kunt de waarschuwing gewoon sluiten door te klikken op de pagina Waarschuwing doel op **oplossen** .
+U actie ondernemen op een waarschuwing, zoals het [verwijderen van een regel voor verdachte inbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Of u gewoon sluiten de waarschuwing door te klikken op **oplossen** op de waarschuwing flyout pagina.
 
-Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies)voor meer informatie over het configureren en beheren van waarschuwingen beleid.
+Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies)voor meer informatie over het configureren en beheren van waarschuwings beleid.
 
-**Belangrijk**: e-mailmeldingen van Microsoft zal nooit vragen u het volgende doen:
+**Belangrijk**: waarschuwing e-mail meldingen van Microsoft zal u nooit vragen om het volgende te doen:
 
-- Een wachtwoord opgeven.
-- Controleer of u de details van de beveiliging van uw account.
-- Zichzelf opnieuw moeten valideren.
+- Geef een wachtwoord op
+- De beveiligingsgegevens van uw account controleren
+- Uzelf opnieuw authenticeren
 
-Als u een e-mailbericht als volgt ontvangt, niet door Microsoft werd verzonden en moet worden beschouwd als een phishing-truc. Als dat gebeurt, kunt u het [rapporteren aan Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Als u een e-mail bericht als deze ontvangt, het is niet verzonden door Microsoft en moet worden beschouwd als een phishing scam. Als dat gebeurt, meld [het dan aan Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
