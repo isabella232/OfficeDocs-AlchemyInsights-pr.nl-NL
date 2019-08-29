@@ -13,19 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553571"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666655"
 ---
-# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="9556b-102">Vragen over uw licentie voor Office 365</span><span class="sxs-lookup"><span data-stu-id="9556b-102">Questions about your Office 365 license</span></span>
+# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="ed190-102">Vragen over uw Office 365-licentie</span><span class="sxs-lookup"><span data-stu-id="ed190-102">Questions about your Office 365 license</span></span>
 
-<span data-ttu-id="9556b-103">Als u weten hoeveel licenties die u hebt aangeschaft of hoeveel licenties van een abonnement zijn toegewezen wilt:</span><span class="sxs-lookup"><span data-stu-id="9556b-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="ed190-103">Als u wilt weten hoeveel licenties u hebt aangeschaft of hoeveel licenties zijn toegewezen via een abonnement:</span><span class="sxs-lookup"><span data-stu-id="ed190-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="9556b-104">In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.</span><span class="sxs-lookup"><span data-stu-id="9556b-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="ed190-104">Ga in het Admin Center naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="ed190-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="9556b-105">Onder de naam van het abonnement dat u meer weten wilt over, ziet u het aantal licenties dat u betaalt voor en hoeveel beschikbaar zijn om te worden toegewezen.</span><span class="sxs-lookup"><span data-stu-id="9556b-105">Under the name of the subscription you want to know more about, you can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
+2. <span data-ttu-id="ed190-105">Zoek het abonnement waarover u meer wilt weten.</span><span class="sxs-lookup"><span data-stu-id="ed190-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="ed190-106">U het aantal licenties zien waarvoor u betaalt en hoeveel er beschikbaar zijn om te worden toegewezen.</span><span class="sxs-lookup"><span data-stu-id="ed190-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-<span data-ttu-id="9556b-106">Als u meer licenties toevoegen, of als er te veel, kiest u **Software licenties** aan te passen het bedrag gekocht.</span><span class="sxs-lookup"><span data-stu-id="9556b-106">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="ed190-107">Als u meer licenties wilt toevoegen of als u te veel hebt, kiest u **licenties toevoegen/verwijderen** om het gekochte bedrag aan te passen.</span><span class="sxs-lookup"><span data-stu-id="ed190-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
