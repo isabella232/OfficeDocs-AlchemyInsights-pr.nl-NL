@@ -3,7 +3,6 @@ title: Uitbreiden van uw evaluatieversie van Office 365 voor bedrijven
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575619"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664999"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Uitbreiden van uw evaluatieversie van Office 365 voor bedrijven
+# <a name="extend-your-trial-for-office-365-for-business"></a>Uw proefabonnement voor Office 365 voor Bedrijven verlengen
 
 Als uw proefabonnement is binnen 15 dagen na die verstrijkt voordat de evaluatieperiode nog niet uitgebreid, kunt u de evaluatieversie voor een andere periode van 30 dagen kunt uitbreiden. Dit is slechts één keer mogelijk.
   
@@ -32,4 +31,4 @@ Als uw proefabonnement is binnen 15 dagen na die verstrijkt voordat de evaluatie
 
 4. U moet creditcardgegevens om uit te breiden van de evaluatieversie. We niet in rekening brengt uw creditcard voor de uitbreiding van de evaluatieversie.
 
-Gebruikt u het oude admin center? Oude werk of voor meer informatie Zie [uitbreiden uw evaluatieversie van Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Zie voor meer informatie kunt [uitbreiden uw evaluatieversie van Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

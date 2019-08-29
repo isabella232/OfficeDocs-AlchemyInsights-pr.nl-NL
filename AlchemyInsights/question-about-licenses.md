@@ -13,19 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553571"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666655"
 ---
-# <a name="questions-about-your-office-365-license"></a>Vragen over uw licentie voor Office 365
+# <a name="questions-about-your-office-365-license"></a>Vragen over uw Office 365-licentie
 
-Als u weten hoeveel licenties die u hebt aangeschaft of hoeveel licenties van een abonnement zijn toegewezen wilt:
+Als u wilt weten hoeveel licenties u hebt aangeschaft of hoeveel licenties zijn toegewezen via een abonnement:
   
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het Admin Center naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Onder de naam van het abonnement dat u meer weten wilt over, ziet u het aantal licenties dat u betaalt voor en hoeveel beschikbaar zijn om te worden toegewezen.
+2. Zoek het abonnement waarover u meer wilt weten. U het aantal licenties zien waarvoor u betaalt en hoeveel er beschikbaar zijn om te worden toegewezen.
 
-Als u meer licenties toevoegen, of als er te veel, kiest u **Software licenties** aan te passen het bedrag gekocht.
+Als u meer licenties wilt toevoegen of als u te veel hebt, kiest u **licenties toevoegen/verwijderen** om het gekochte bedrag aan te passen.

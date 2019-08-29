@@ -1,9 +1,8 @@
 ---
-title: 3800017 oplossen van problemen met het apparaat gesynchroniseerd kalender
+title: 3800017 problemen met het synchroniseren van agenda op uw apparaat oplossen
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 3/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "619"
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: ac534f2308ed031e59fac7d8888f758481f77fad
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533766"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665791"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Problemen met het synchroniseren van uw agenda naar uw apparaat
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Problemen oplossen met het synchroniseren van uw agenda naar uw apparaat
 
-Als u problemen met synchronisatie ondervindt bij het instellen van uw mobiele e-mailadres voor het eerst, Zie [agenda en contactpersonen met mijn telefoon of tablet kunnen niet worden gesynchroniseerd](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Als u synchronisatieproblemen ondervindt bij het instellen van uw mobiele e-mail voor de eerste keer, Zie [kan agenda en contactpersonen niet synchroniseren met mijn telefoon of Tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
   
