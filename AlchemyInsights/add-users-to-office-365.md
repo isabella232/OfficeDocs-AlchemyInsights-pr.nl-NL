@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903068"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660679"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="7cfcb-102">Gebruiker toevoegen aan Office 365</span><span class="sxs-lookup"><span data-stu-id="7cfcb-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="bcb50-102">Gebruiker toevoegen aan Office 365</span><span class="sxs-lookup"><span data-stu-id="bcb50-102">Add a user to Office 365</span></span>
 
-<span data-ttu-id="7cfcb-103">Gebruik deze stappen om een gebruiker toe te voegen aan Office 365:</span><span class="sxs-lookup"><span data-stu-id="7cfcb-103">Use these steps to add a user to Office 365:</span></span>
-  
-1. <span data-ttu-id="7cfcb-104">Ga naar [Actieve gebruikers](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (of kies in het linker navigatievenster **Gebruikers** \> **Actieve gebruikers**).</span><span class="sxs-lookup"><span data-stu-id="7cfcb-104">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Or, on the left nav choose **Users** \> **Active users**).</span></span>
+1. <span data-ttu-id="bcb50-103">Ga in het Microsoft 365-beheercentrum naar **Gebruikers** >  [Actieve gebruikers](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="bcb50-103">In the Microsoft 365 admin center, go to **Users** >  [Active users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
 
-2. <span data-ttu-id="7cfcb-105">Klik op **Een gebruiker toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="7cfcb-105">Click **Add a user**.</span></span>
+2. <span data-ttu-id="bcb50-104">Klik op **Een gebruiker toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="bcb50-104">Click **Add a user**.</span></span>
 
-3. <span data-ttu-id="7cfcb-p101">Vul de gegevens voor de gebruiker in. Kies **Toevoegen** wanneer u klaar bent.</span><span class="sxs-lookup"><span data-stu-id="7cfcb-p101">Fill in the information for the user. Choose **Add** when you are done.</span></span>
+3. <span data-ttu-id="bcb50-105">Vul de gegevens voor de gebruiker in.</span><span class="sxs-lookup"><span data-stu-id="bcb50-105">Fill in the information for the user.</span></span> <span data-ttu-id="bcb50-106">Kies **Toevoegen voltooien** wanneer u klaar bent.</span><span class="sxs-lookup"><span data-stu-id="bcb50-106">Choose **Add** when you are done.</span></span>
 
-[<span data-ttu-id="7cfcb-108">Meer informatie...</span><span class="sxs-lookup"><span data-stu-id="7cfcb-108">Read more...</span></span>](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+<span data-ttu-id="bcb50-107">Gebruikt u nog steeds het oude beheercentrum?</span><span class="sxs-lookup"><span data-stu-id="bcb50-107">Are you using the old admin center?</span></span> <span data-ttu-id="bcb50-108">Zie [Gebruikers afzonderlijk of bulksgewijs toevoegen aan Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec) voor oude stappen of voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="bcb50-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).</span></span>
   

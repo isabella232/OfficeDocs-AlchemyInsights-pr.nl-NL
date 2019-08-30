@@ -3,7 +3,6 @@ title: Office installeren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,26 +12,26 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 8283183eb4f151711180dd4aebc187cb7be42fe0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a200db8ea5dcfc4a1da0c984f299028ebc3b0f6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540248"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663861"
 ---
-# <a name="how-to-install-office"></a><span data-ttu-id="aaf8b-102">Office installeren</span><span class="sxs-lookup"><span data-stu-id="aaf8b-102">How to install Office</span></span>
+# <a name="how-to-install-office"></a><span data-ttu-id="cd2fe-102">Office installeren</span><span class="sxs-lookup"><span data-stu-id="cd2fe-102">How to install Office</span></span>
 
-<span data-ttu-id="aaf8b-103">Als u de Office-clientapps wilt installeren, hebt u een zakelijk abonnement nodig, zoals Office 365 Business Premium, Office 365 Business of Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="aaf8b-103">To install the Office client apps, ensure you have a business subscription such as Office 365 Business Premium, Office 365 Business, or Office 365 Education.</span></span>
+<span data-ttu-id="cd2fe-103">Als u de Office-clientapps wilt installeren, hebt u een zakelijk abonnement nodig, zoals Office 365 Business Premium, Office 365 Business of Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-103">To install the Office client apps, ensure you have a business subscription such as Office 365 Business Premium, Office 365 Business, or Office 365 Education.</span></span>
   
-<span data-ttu-id="aaf8b-104">*Opmerking: [Office 2016 voor Thuisgebruik en Zelfstandigen](https://products.office.com/home-and-business) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en geen onderdeel van een zakelijk abonnement. Zie [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) of [Project installeren](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281) voor specifieke instructies voor Visio of Project.*</span><span class="sxs-lookup"><span data-stu-id="aaf8b-104">*NOTE: [Office Home and Business 2016](https://products.office.com/home-and-business) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription. For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*</span></span>
+<span data-ttu-id="cd2fe-104">*Opmerking: [Office voor Thuisgebruik en Zelfstandigen](https://products.office.com/home-and-business) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en geen onderdeel van een zakelijk abonnement. Zie [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) of [Project installeren](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281) voor specifieke instructies voor Visio of Project*.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-104">*NOTE: [Office Home and Business 2016](https://products.office.com/home-and-business) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription. For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*</span></span>
 
-<span data-ttu-id="aaf8b-105">Maak de gebruikersaccounts en voeg uw domein toe.</span><span class="sxs-lookup"><span data-stu-id="aaf8b-105">Create the user accounts and add your domain.</span></span> <span data-ttu-id="aaf8b-106">Zorg ervoor dat de gebruiker een [toegewezen licentie](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA) heeft.</span><span class="sxs-lookup"><span data-stu-id="aaf8b-106">Make sure the user has an [assigned license](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="cd2fe-105">Maak de gebruikersaccounts en voeg uw domein toe.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-105">Create the user accounts and add your domain.</span></span> <span data-ttu-id="cd2fe-106">Zorg ervoor dat de gebruiker een [toegewezen licentie](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA) heeft.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-106">Make sure the user has an [assigned license](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-<span data-ttu-id="aaf8b-107">Zorg dat elke gebruiker:</span><span class="sxs-lookup"><span data-stu-id="aaf8b-107">Have each user:</span></span>
+<span data-ttu-id="cd2fe-107">Zorg dat elke gebruiker:</span><span class="sxs-lookup"><span data-stu-id="cd2fe-107">Have each user:</span></span>
 
-1. <span data-ttu-id="aaf8b-108">Naar de portalpagina gaat: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="aaf8b-108">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
-2. <span data-ttu-id="aaf8b-109">Zich indien nodig aanmeldt met een werk- of schoolaccount.</span><span class="sxs-lookup"><span data-stu-id="aaf8b-109">Sign in with their work or school account if not already signed in.</span></span>
-3. <span data-ttu-id="aaf8b-110">Kies de taal in de sectie Office.</span><span class="sxs-lookup"><span data-stu-id="aaf8b-110">Under the Office section, select the language.</span></span> <span data-ttu-id="aaf8b-111">Kies **Geavanceerd** om een 32-bits of 64-bits versie te kiezen.</span><span class="sxs-lookup"><span data-stu-id="aaf8b-111">Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span>
-4. <span data-ttu-id="aaf8b-112">Kies **Installeren**.</span><span class="sxs-lookup"><span data-stu-id="aaf8b-112">Select **Install**.</span></span>
+1. <span data-ttu-id="cd2fe-108">Naar de portalpagina gaat: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="cd2fe-108">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+2. <span data-ttu-id="cd2fe-109">Zich indien nodig aanmeldt met een werk- of schoolaccount.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-109">Sign in with their work or school account if not already signed in.</span></span>
+3. <span data-ttu-id="cd2fe-110">Kies de taal in de sectie Office.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-110">Under the Office section, select the language.</span></span> <span data-ttu-id="cd2fe-111">Kies **Geavanceerd** om een 32-bits of 64-bits versie te kiezen.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-111">Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span>
+4. <span data-ttu-id="cd2fe-112">Kies **Installeren**.</span><span class="sxs-lookup"><span data-stu-id="cd2fe-112">Select **Install**.</span></span>
 
-<span data-ttu-id="aaf8b-113">Raadpleeg [Office download en installeren of opnieuw installeren op een pc of Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) voor uitgebreide instructies en oplossingen voor problemen bij het installeren van Office. </span><span class="sxs-lookup"><span data-stu-id="aaf8b-113">For detailed steps and troubleshooting solutions when installing Office, see: [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="cd2fe-113">Raadpleeg [Office download en installeren of opnieuw installeren op een pc of Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) voor uitgebreide instructies en oplossingen voor problemen bij het installeren van Office. </span><span class="sxs-lookup"><span data-stu-id="cd2fe-113">For detailed steps and troubleshooting solutions when installing Office, see: [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
