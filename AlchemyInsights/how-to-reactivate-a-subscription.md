@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574757"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663991"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Een abonnement opnieuw activeren
 
@@ -32,4 +32,4 @@ Als uw abonnement is verlopen, geannuleerd of uitgeschakeld door Microsoft, kunt
 
 3. Bevestig uw betalingsgegevens. U kunt uw bestaande betalingsgegevens hier bijwerken. Wanneer u klaar bent met het invoeren van uw betalingsmethode, kies **Opnieuw activeren**.
 
-Gebruikt u nog steeds het oude beheercentrum? Voor oude stappen of voor meer informatie, raadpleeg uw [Abonnement opnieuw activeren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Raadpleeg [Uw abonnement opnieuw activeren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) voor meer informatie.

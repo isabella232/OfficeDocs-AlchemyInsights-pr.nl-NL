@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529626"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665116"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Hebt u legitieme berichten die worden gemarkeerd als ongewenste e-mail?
 
-Probeer de bovenstaande diagnose of probeer deze [stapsgewijze handleiding voor het oplossen van goede berichten die worden gemarkeerd als spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Probeer de bovenstaande diagnose of probeer deze [stapsgewijze handleiding voor het oplossen van goede berichten die worden gemarkeerd als spam in Office 365](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
 De beste manier om dit soort problemen te melden is door:
   

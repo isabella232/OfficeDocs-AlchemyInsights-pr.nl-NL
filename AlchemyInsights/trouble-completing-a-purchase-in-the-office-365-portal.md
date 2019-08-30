@@ -1,5 +1,5 @@
 ---
-title: Problemen met het voltooien van een aankoop in de Office 365-portal
+title: Problemen met het voltooien van een aankoop in het Microsoft 365-beheercentrum
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: bd6b3ed9354394761cb6168a538a5c8b46cf5459
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f343b5b8fc5361b845095667a46e609591f33a6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507230"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665863"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Problemen met het voltooien van een aankoop in de Office 365-portal
+# <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Problemen met het voltooien van een aankoop in het Microsoft 365-beheercentrum
 
-Wanneer u een aankoop probeert te doen en u meerdere keren bent gevraagd u aan te melden bij het Microsoft 365-beheercentrum of u ontvangt een bericht dat er een probleem is gevonden, kunt u het beste eerst de InPrivate-/incognitomodus van uw browser proberen. Na het openen van een InPrivate-/incognitovenster, gaat u naar de site [portal.office.com](https://portal.office.com) en meldt u zich aan met uw beheerdersreferenties. Ga vervolgens verder met uw aankoop.
+Wanneer u een aankoop probeert te doen en u meerdere keren bent gevraagd u aan te melden bij het Microsoft 365-beheercentrum of u ontvangt een bericht dat er een probleem is gevonden, kunt u het beste eerst de InPrivate-/incognitomodus van uw browser proberen. Na het openen van een InPrivate-/incognitovenster, gaat u naar de site [admin.microsoft.com](https://admin.microsoft.com) en meldt u zich aan met uw beheerdersreferenties. Ga vervolgens verder met uw aankoop.
