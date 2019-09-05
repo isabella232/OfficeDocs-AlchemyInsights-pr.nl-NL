@@ -1,5 +1,5 @@
 ---
-title: Verwijderde bestanden of mappen herstellen
+title: Een verwijderd bestand of verwijderde map herstellen
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,33 +12,33 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666115"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744564"
 ---
-# <a name="restore-deleted-items-from-sharepoint"></a>Verwijderde items herstellen vanuit SharePoint
+# <a name="restore-deleted-items-from-sharepoint"></a>Verwijderde items terugzetten vanuit SharePoint
 
-Wanneer u een item of een site uit Sharepoint verwijderen, is niet het onmiddellijk verwijderd. Verwijderde items gaat u naar de Prullenbak voor een bepaalde tijdsperiode. Gedurende die tijd kunt u de items die u hebt verwijderd terugzetten op hun oorspronkelijke locatie. Ga naar de onderstaande koppelingen voor meer informatie.
+Wanneer u een item of site uit SharePoint verwijdert, wordt deze niet onmiddellijk verwijderd. Verwijderde items gaan in de Prullenbak voor een periode van tijd. Gedurende die tijd u de verwijderde items herstellen naar de oorspronkelijke locatie. Voor meer informatie u terecht op de onderstaande links.
 
-- [Items in de Prullenbak van een SharePoint-site herstellen](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Items terugzetten in de Prullenbak van een SharePoint-site](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [Herstellen van verwijderde bestanden of mappen in OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Herstel verwijderde bestanden of mappen in OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 - [Items verwijderen of de Prullenbak leegmaken](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-- [Herstellen van verwijderde siteverzameling (met inbegrip van de groep, communicatie en andere sites)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
+- [Een verwijderde siteverzameling herstellen (inclusief groep, communicatie en andere sites)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
 
-- [Herstelt een verwijderde OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- [Een verwijderde OneDrive herstellen](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-- [SharePoint Online-PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+- [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Functie voor het terugzetten van bestanden**
+**Functie bestanden terugzetten**
 
-Als veel van uw bestanden met OneDrive of Sharepoint ophalen verwijderd, overschreven, beschadigd of door schadelijke software besmet, kunt u uw gehele OneDrive of Sharepoint-bibliotheek op een eerder tijdstip met behulp van de functie voor het terugzetten van bestanden terugzetten.
+Als veel van uw OneDrive-of SharePoint-bestanden worden verwijderd, overschreven, beschadigd of geïnfecteerd door malware, u uw volledige OneDrive-of SharePoint-bibliotheek naar een eerdere tijd herstellen met de functie bestanden terugzetten.
 
 - [Een OneDrive-bibliotheek herstellen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Herstellen van een documentbibliotheek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Een document bibliotheek herstellen](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

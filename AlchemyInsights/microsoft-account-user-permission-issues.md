@@ -1,6 +1,6 @@
 ---
-title: Oplossen van probleem - gebruiker is niet gevonden in de directory
-ms.author: kirks
+title: Probleem oplossen-gebruiker niet gevonden in map
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544858"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754187"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Oplossen van probleem - gebruiker is niet gevonden in de directory
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Probleem oplossen-gebruiker niet gevonden in map
 
-Als gebruikers fout bericht "gebruiker kan niet worden gevonden' in de map ontvangt. Probeer het opnieuw wanneer het Type probleem is gebruiker niet in de directory.
+Als gebruikers ontvangen foutbericht ' gebruiker kan niet worden gevonden ' in de map. Probeer het opnieuw waar het probleem type is gebruiker niet in de map.
 
-De volgende stappen kunnen worden uitgevoerd voor het oplossen van het probleem.
+De volgende stappen kunnen worden voltooid om het probleem op te lossen.
 
-- Controleer de account die de e-mailuitnodiging dezelfde account die wordt gebruikt voor het later inloggen is geaccepteerd. Zorg ervoor dat de gebruiker de uitnodiging accepteren en inloggen op de site gebruikt dezelfde account. 
+- Zorg ervoor dat het account dat de e-mail uitnodiging heeft geaccepteerd hetzelfde account is dat wordt gebruikt om later aan te melden. Zorg ervoor dat de gebruiker hetzelfde account gebruikt om de uitnodiging te accepteren en zich aan te melden bij de site. 
 
-Zie voor meer info [aliassen voor uw Microsoft-account beheren</a> voor het beheren van aanmelding bij de Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Zie voor meer informatie, [over het beheren van aliassen voor uw micro</a> Soft-account voor het beheren van de aanmelding bij Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Ga naar elke site (s) waarin de fout wordt ontvangen van de gebruiker. 
+- Blader naar elke site (s) waarin de gebruiker de fout ontvangt. 
 
-Toevoegen "/ _layouts/15/people.aspx/membershipgroupid=0" (tussen de dubbele aanhalingstekens) aan het einde van de URL van de site. 
+Voeg '/_layouts/15/people.aspx/membershipgroupid = 0 ' (binnen de dubbele aanhalingstekens) toe aan het einde van de site-URL. 
 
-Voorbeeld: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Voorbeeld: https:/_Lt_ "contoso">. SharePoint. com/_layouts/15/people. aspx/membershipGroupId = 0.
 
-- Selecteer de gebruiker uit de lijst.
+- Selecteer de gebruiker in de lijst.
 
 - Klik op **Gebruikersmachtigingen verwijderen** uit het lint. 
--  Toevoegen van de gebruiker en de uitnodiging te verzenden naar de gebruiker.
+-  Voeg de gebruiker terug en verzend de uitnodiging opnieuw naar de gebruiker.
 

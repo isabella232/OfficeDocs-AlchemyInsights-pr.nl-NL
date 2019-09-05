@@ -1,5 +1,5 @@
 ---
-title: AAD identiteit synchronisatiestatus controleren
+title: Synchronisatie status van AAD-identiteit controleren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520554"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738516"
 ---
-# <a name="check-aad-identity-sync-status"></a>De synchronisatiestatus van AAD identiteit controleren
+# <a name="check-aad-identity-sync-status"></a>Synchronisatiestatus van AAD-identiteit controleren
 
-Sync-status controleren is eenvoudig:
+De synchronisatiestatus controleren is eenvoudig:
   
-- Aanmelden bij het beheercentrum van Microsoft 365 en kies **DirSync Status** op de introductiepagina.
+- Meld u aan bij het Microsoft 365 Admin Center en kies **Dirsync status** op de startpagina.
 
-- Ook gaat u naar de gebruikers \> actieve gebruikers, en kies op de pagina actieve gebruikers meer \> Directory-synchronisatie.
+- U als alternatief naar gebruikers \> actieve gebruikers gaan en op de pagina actieve gebruikers de optie meer \> adreslijstsynchronisatie kiezen.
 
-- Kies in het deelvenster adreslijstsynchronisatie Ga naar DirSync management.
+- Kies in het deelvenster Directory-synchronisatie, ga naar DirSync beheer.
 
-Als er een probleem met uw adreslijstsynchronisatie, worden de fouten vermeld op deze pagina. Zie voor meer informatie over andere fouten die kunnen optreden, [identificeren directory synchronisatiefouten in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Als er een probleem is met de adreslijstsynchronisatie, worden de fouten op deze pagina weergegeven. Zie [mapsynchronisatie fouten weergeven in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)voor meer informatie over verschillende fouten die u tegenkomen.
   

@@ -1,5 +1,5 @@
 ---
-title: De hoofdsite is klassiek met een moderne site wisselen
+title: Ruil je klassieke root site met een moderne site
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501074"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749255"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>De hoofdsite is klassiek met een moderne site wisselen
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Ruil je klassieke root site met een moderne site
 
-Als uw omgeving vóór April 2019 is ingesteld, kunt u uw hoofdsite met een moderne site met Microsoft PowerShell:
+Als uw omgeving is ingesteld vóór 2019 april, u uw hoofdsite wijzigen naar een moderne site met behulp van Microsoft PowerShell:
 
-- Als u een andere site die u wilt gebruiken als uw hoofdsite hebt, kunt u (swap) de hoofdmap van de site kunt vervangen door deze. 
-    - Gebruik [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) te verwisselen van de locatie van een site met een andere site bij het archiveren van de oorspronkelijke site. Beschikbaar voor zowel Team Site (niet verbonden aan een groep) en communicatie-Site. 
+- Als u een andere site die u wilt gebruiken als uw hoofdsite hebt, u vervangen [(wisselen) de hoofdsite](https://docs.microsoft.com/sharepoint/modern-root-site) met deze. 
+    - Gebruik [invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) om de locatie van een site met een andere site te wisselen tijdens het archiveren van de oorspronkelijke site. Beschikbaar voor beide team sites (niet verbonden met een groep) en een communicatiesite. 
 
-- Extra functies geïntroduceerd spoedig waarmee u te houden met de inhoud op de site, maar de bestaande site converteren naar een communicatiesite. 
+- Er zullen binnenkort extra mogelijkheden worden geïntroduceerd waarmee u de inhoud op de site blijven gebruiken, maar de bestaande site naar een communicatiesite moet converteren. 
 >[!Important]
->Deze mogelijkheden zullen geleidelijk worden uitgerold. Houd het berichtencentrum van Office 365 voor updates. 
+>Deze mogelijkheden zullen geleidelijk worden uitgerold. Ga door met het controleren van het Office 365-berichtencentrum voor updates. 
 
-## <a name="known-issues-with-swapping-sites"></a>Bekende problemen bij het wisselen van sites
+## <a name="known-issues-with-swapping-sites"></a>Bekende problemen met het uitwisselen van sites
 
-- De doelsite retourneert gedurende korte tijd een "niet gevonden" (HTTP 404)-fout.
-- Inhoud moet opnieuw worden verkend om het bijwerken van de zoekindex. Er is geen handmatige stap vereist - dit wordt automatisch gedaan.
-- Alles wat afhankelijk is van een 'static' koppelingen (zoals bestand synchroniseren als OneNote-bestanden) moeten handmatig worden gecorrigeerd.
-- Als de bronsite een organisatie-nieuwssite is, werken de URL.Een lijst van alle organisatie-nieuwssites opvragen.
-- Project Server-sites mogelijk moet worden gevalideerd om ervoor te zorgen dat ze nog steeds gekoppeld correct worden.
+- De doelsite kan een fout ' niet gevonden ' (HTTP 404) retourneren voor een korte periode.
+- De inhoud moet opnieuw worden verkend om de zoekindex bij te werken. Er is geen handmatige stap vereist-dit wordt automatisch gedaan.
+- Alles wat afhankelijk is van ' statische ' koppelingen (zoals bestandssynchronisatie en OneNote-bestanden) moet handmatig worden gecorrigeerd.
+- Als de bronsite een nieuwssite voor de organisatie was, werkt u de URL bij.Krijg een lijst van alle organisatorische nieuwssites.
+- Project Server-sites moeten mogelijk worden gevalideerd om ervoor te zorgen dat ze nog steeds correct zijn gekoppeld.
 
 
 

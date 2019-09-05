@@ -1,5 +1,5 @@
 ---
-title: '404 fout: Bestand niet gevonden'
+title: 'Fout 404: bestand niet gevonden'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527394"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740208"
 ---
-# <a name="error-404-file-not-found"></a>404 fout: Bestand niet gevonden
+# <a name="error-404-file-not-found"></a>Fout 404: bestand niet gevonden
 
-**404 fout: bestand niet gevonden** wanneer gebruikers toegang proberen te krijgen tot een site of bestand in SharePoint of OneDrive wordt ontvangen. Dit wordt vaak veroorzaakt door een site of bestand of een groep ophalen hernoemd, verplaatst of verwijderd.
-Gebruikers wordt de fout optreden wanneer u probeert toegang te krijgen tot de hoofdmapwebsiteverzameling en is verwijderd.
+**Fout 404: bestand niet gevonden** wordt ontvangen wanneer gebruikers probeert toegang te krijgen tot een site of bestand in SharePoint of OneDrive. Dit wordt vaak veroorzaakt door een site of bestand of groep die een andere naam krijgt, verplaatst of verwijderd.
+Gebruikers ondervinden de fout bij het proberen toegang te krijgen tot de hoofdmap van de siteverzameling en deze is verwijderd.
 
 Het volgende kan helpen bij het oplossen van dit probleem:
-- [Weergave maken en terugzetten van verwijderde sites in het nieuwe SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): voor moderne sites (communicatie, groep verbonden of andere sites) die aanwezig zijn in het nieuwe voorbeeld van admin center.
-- [Items in de Prullenbak van een SharePoint-site herstellen](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): om op te lossen-bestand (of een ander item) die de naam is gewijzigd, verplaatst of verwijderd-Ga naar de SharePoint- of OneDrive-site en de weergave het recyclen bak van de inhoud van de Site.
-- [Het controlelogboek te zoeken in de beveiliging van Office 365 &amp; Conformiteitscentrum](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): het controlelogboek (als logboekregistratie is ingeschakeld) zoeken als u nog steeds niet om het item te vinden.
+- [Weergeven en herstellen van verwijderde sites in het nieuwe SharePoint Admin Center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): voor moderne sites (communicatie, groep verbonden of andere sites) die aanwezig zijn in de nieuwe Admin Center voorbeeld.
+- [Items in de Prullenbak van een SharePoint-site herstellen](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): om het bestand (of een ander item) te herleiden dat is hernoemd, verplaatst of verwijderd, ga naar de SharePoint-of OneDrive-site en Bekijk de Prullenbak van de inhoud van de site.
+- [Zoek in het controlelogboek in het &amp; Security compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): Zoek in het controlelogboek (als logboekregistratie is ingeschakeld) als u het item nog steeds niet vinden.

@@ -1,5 +1,5 @@
 ---
-title: Oplossingen voor de fout 30068 39
+title: Oplossingen voor fout 30068-39
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501686"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743340"
 ---
-# <a name="solutions-for-error-30068-39"></a>Oplossingen voor de fout 30068 39
+# <a name="solutions-for-error-30068-39"></a>Oplossingen voor fout 30068-39
 
-Probeer de volgende oplossingen om op te lossen fout [30068 39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Probeer deze oplossingen om fout [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)op te lossen:
   
-- Start de computer opnieuw en probeert [u Office installeert](https://portal.office.com/OLS/MySoftware.aspx).
+- Start de computer opnieuw op en probeer [Office te installeren](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Controleren of de **Microsoft Klik-en-klaar**[-service is uitgeschakeld](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) en als deze is uitgeschakeld, de status wijzigen in **handmatig** of **automatisch**.
+- Controleer of de service **Microsoft klik-en-klaar** [is uitgeschakeld](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) en als deze is uitgeschakeld, wijzigt u de status in **handmatig** of **automatisch**.
 
-- Download en installeer de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Download en installeer de [ondersteunings-en herstelassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Wanneer het wordt geopend, selecteert u de versie die u wilt verwijderen en selecteer **volgende**uit het **verwijderen van Office-producten** .
+1. Wanneer deze wordt geopend, van **Office-producten verwijderen** selecteert u de versie die u wilt verwijderen en selecteer **volgende**.
 
-2. Verder gaan door schermen en start de computer desgevraagd opnieuw op.
+2. Ga door met het doorlopen van schermen en start de computer opnieuw op wanneer hierom wordt gevraagd.
 
-    Na het opnieuw opstarten, ondersteuning en herstel-assistent automatisch opnieuw geopend om het verwijderingsproces te voltooien.
+    Na het opnieuw starten wordt de ondersteunings-en Herstelassistent automatisch opnieuw geopend om het verwijderingsproces te voltooien.
 
-3. Volg de resterende prompts en [opnieuw installeren van Office](https://portal.office.com/OLS/MySoftware.aspx) of de Office-assistent sluiten.
+3. Volg de resterende prompts en [Installeer Office opnieuw](https://portal.office.com/OLS/MySoftware.aspx) of sluit de assistent.

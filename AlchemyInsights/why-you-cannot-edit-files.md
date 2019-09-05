@@ -1,6 +1,6 @@
 ---
 title: Bestanden zijn vergrendeld voor bewerking
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/26/2018
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558216"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748355"
 ---
-# <a name="why-cant-i-edit-files"></a>Waarom kan ik bestanden niet bewerken?
+# <a name="why-cant-i-edit-files"></a>Waarom kan ik geen bestanden bewerken?
 
-Als een document, werkblad of presentatie bewerken is vergrendeld en kan niet worden geopend in het Windows-bureaublad-toepassingen, kan het zijn dat het bestand wordt al door iemand anders bewerkt, of ze het bestand uitgecheckt. Laten we een kort overzicht van enkele van de redenen [Waarom u niet mogelijk om het bestand te bewerken](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Als een document, werkblad of presentatie is vergrendeld voor bewerking en niet kan worden geopend in de bureaubladtoepassingen van Windows, kan het zijn dat het bestand al door iemand anders wordt bewerkt of dat het bestand is uitgecheckt. Laten we eens kijken naar enkele redenen [Waarom u het bestand mogelijk niet bewerken](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Als u bibliotheken met **Afhandeling, vereist** of **validatie** kolommen of metagegevens of wanneer de **Beveiliging van conceptitems** is ingesteld op **alleen gebruikers die kunnen bewerken** of **alleen gebruikers die items kunnen goedkeuren** in de instellingen van de versie van de bibliotheek:
+Als u bibliotheken met **betaal-, vereiste** -of **validatie** kolommen of metagegevens hebt, of als **concept-item beveiliging** is ingesteld op **alleen gebruikers die kunnen bewerken** of **alleen gebruikers die items kunnen goedkeuren** in versie-instellingen van de Bibliotheek:
 
-- Voor SharePoint-documentbibliotheken, worden deze items gesynchroniseerd als alleen-lezen.
+- Voorsharepoint-documentbibliotheken worden deze items als alleen-lezen gesynchroniseerd.
 
-- Bibliotheken, OneDrive, OneDrive wordt weergeven voor het pictogram van een hangslot (OneDrive bestand vergrendeld pictogram) naast de sync status en de gebruiker kan niet worden gesynchroniseerd van de bibliotheek totdat de genoemde instellingen zijn verwijderd. 
+- Voor OneDrive-bibliotheken toont OneDrive een vergrendelingspictogram (pictogram voor OneDrive-bestand vergrendeld) naast de synchronisatiestatus en kan de gebruiker de bibliotheek pas synchroniseren nadat de genoemde instellingen zijn verwijderd. 
 
-Verwijzen naar de volgende artikelen voor meer informatie over vergrendelde bestanden voor Word of Excel.
+Raadpleeg de onderstaande artikelen voor meer informatie over vergrendelde bestanden voor Word of Excel.
 
-- [Excel-bestand is voor bewerking door een andere gebruiker vergrendeld](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel-bestand is vergrendeld voor bewerking door een andere gebruiker](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Word-bestand is voor bewerking door een andere gebruiker vergrendeld](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word-bestand is vergrendeld voor bewerking door een andere gebruiker](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

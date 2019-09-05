@@ -1,6 +1,6 @@
 ---
-title: Access services pensioen
-ms.author: kirks
+title: Toegang tot pensioendiensten
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495746"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747779"
 ---
-# <a name="access-services-retirement"></a>Access services pensioen
+# <a name="access-services-retirement"></a>Toegang tot pensioendiensten
 
-Zoals oorspronkelijk aangekondigd in MC97576, in maart 2017, en we communiceren in het afgelopen jaar wederom wordt toegang tot Services van Office 365 teruggetrokken. De volgende fase in dit proces is het verwijderen van Databases van Access Web die SharePoint-lijsten als hun onderliggende gegevensopslag gebruiken.
+Zoals we oorspronkelijk aankondigden in MC97576, in maart 2017, en bleven communiceren over het afgelopen jaar, worden de toegangsdiensten buiten gebruik gesteld van Office 365. De volgende fase in dit proces is het verwijderen van Access Web-databases die gebruikmaken van SharePoint-lijsten als onderliggende gegevensopslag.
 
-**Wat betekent dit voor mij?**
+**Hoe beïnvloedt dit mij?**
 
-Begin juni 2019, we stoppen met het maken van een nieuwe Access-databases in SharePoint Online en de service en eventuele resterende apps afsluiten in April 2020.
+Vanaf juni 2019 zullen we stoppen met het maken van nieuwe Access-databases in SharePoint Online en de service en eventuele resterende apps afsluiten door 2020 april.
 
-**Wat moet ik doen als voorbereiding op deze wijziging?**
+**Wat moet ik doen om voor te bereiden op deze wijziging?**
 
-We raden u aan een overgang maken voor Access web-databases van de organisatie. Beheerders kunt de [toegang tot SharePoint app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) ophalen een inventarisatie van de toegang tot toepassingen die door sites wordt gebruikt.
+We raden u aan een overgangsplan voor de Access-webdatabases van uw organisatie te maken. Beheerders kunnen de [SharePoint Access app-scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) gebruiken om een inventaris op te vragen van de Access-apps die sites gebruiken.
 
-Er zijn verschillende manieren om gegevens van Access web databases te migreren:
+Er zijn verschillende manieren om gegevens van Access-webdatabases te migreren:
 
-- Importeren van een lokale Access-database (. ACCDB-bestand) of een Excel-bestand.
-- Ook wordt aangeraden Microsoft PowerApps verkennen als een alternatief platform zonder code zakelijke oplossingen voor web en mobiele apparaten maken.
+- Importeren in een lokale Access-database (. ACCDB) of naar een Excel-bestand.
+- We raden u ook aan Microsoft PowerApps te verkennen als alternatief platform voor het maken van niet-code zakelijke oplossingen voor web-en mobiele apparaten.

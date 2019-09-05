@@ -1,6 +1,6 @@
 ---
-title: Beheerde Metadata Service-foutbericht
-ms.author: kirks
+title: Foutbericht over beheerde metagegevens service
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541989"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754295"
 ---
-# <a name="managed-metadata-service-error-message"></a>Beheerde Metadata Service-foutbericht
+# <a name="managed-metadata-service-error-message"></a>Foutbericht over beheerde metagegevens service
 
-Wanneer u de Term winkel opent, wordt er een foutbericht wordt weergegeven: 'de verbinding of Managed Metadata Service is momenteel niet beschikbaar. De groep van toepassingen of de webservice voor beheerde metagegevens is mogelijk niet gestart. Neem contact op met uw beheerder."
+Wanneer u het Termenarchief opent, ziet u mogelijk een foutbericht: ' de service of verbinding voor beheerde metagegevens is momenteel niet beschikbaar. De groep van toepassingen of de webservice voor beheerde metagegevens is mogelijk niet gestart. Neem contact op met uw beheerder. "
   
-Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, meld u een aanvraag voor ondersteuning. Wij begrijpen dat 24 uur misschien een lange tijd lijkt. In veel gevallen hebben we werkt aan een oplossing dus Geef ons ten minste 24 uur.
+Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst hebt gezien, logt u een ondersteuningsaanvraag in. We begrijpen dat 24 uur misschien een lange tijd lijkt. In veel gevallen zijn we al bezig met een oplossing, dus geef ons minstens 24 uur.
   

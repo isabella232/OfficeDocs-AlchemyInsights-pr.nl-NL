@@ -1,6 +1,6 @@
 ---
-title: De woordenlijsten zoeken in SharePoint Online beheren
-ms.author: kirks
+title: Zoekwoorden boeken in SharePoint Online beheren
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542090"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754403"
 ---
-# <a name="manage-search-dictionaries"></a>De woordenlijsten zoeken beheren
+# <a name="manage-search-dictionaries"></a>Zoekwoorden boeken beheren
 
-Zoeken woordenboeken in SharePoint online worden beheerd in SharePoint Online Term winkel die in het nieuwe SharePoint admin center bevindt zich. Zie voor meer informatie over het toevoegen of bewerken van de woordenlijsten zoeken [Zoeken-woordenlijsten beheren](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Zoekwoorden boeken in SharePoint Online worden beheerd in de SharePoint Online term Store die zich in het nieuwe SharePoint-Beheercentrum bevindt. Zie [Zoek woordenboeken beheren](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)voor meer informatie over het toevoegen of bewerken van zoekwoorden lijsten.
   
-Als u een zoekterm woordenlijst instellen niet ziet verschijnen in de winkel term, Wacht 24 uur. Als de woordenlijst die nog niet voorkomen na 24 uur Meld een support ticket.
+Als u niet ziet dat een zoekwoordenlijst een termenset in het termenarchief wordt weergegeven, wacht u 24 uur. Als het woordenboek na 24 uur nog steeds niet verschijnt, log dan een ondersteuningsticket in.
   

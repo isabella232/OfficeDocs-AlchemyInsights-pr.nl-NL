@@ -1,6 +1,6 @@
 ---
-title: On-premises Online migreren naar SharePoint
-ms.author: kirks
+title: On-premises migreren naar SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
-ms.openlocfilehash: 07b35405b6078f4940b87bd0d1c576164a478bad
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a063184a4662bc311c91b50a62456f40728b854d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544533"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754043"
 ---
-# <a name="migrate-on-premises-to-sharepoint-online"></a>On-premises Online migreren naar SharePoint
+# <a name="migrate-on-premises-to-sharepoint-online"></a>On-premises migreren naar SharePoint Online
 
-Als u wilt migreren van een SharePoint-Farm op ruimten naar SharePoint Online, kunt u het hulpprogramma SharePoint Migration. Zie voor meer informatie over het hulpprogramma [migreren naar SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)
+Als u wilt migreren van een on-premises SharePoint-farm naar SharePoint Online, u het hulpprogramma SharePoint-migratie gebruiken. Zie [migreren naar SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2019574) voor meer informatie over het hulpprogramma.
   
 

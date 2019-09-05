@@ -1,6 +1,6 @@
 ---
-title: Toegang geweigerd bij het bekijken van een werkstroom
-ms.author: kirks
+title: Toegang geweigerd bij het bekijken van een workflow
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495818"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747743"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Toegang geweigerd bij het bekijken van een werkstroom
+# <a name="access-denied-when-viewing-a-workflow"></a>Toegang geweigerd bij het bekijken van een workflow
 
-SharePoint 2013 werkstromen die probeert een e-mailbericht verzenden naar een SharePoint-groep kan mislukken met het foutbericht 'Toegang geweigerd' wordt weergegeven als het lidmaatschap van de SharePoint-groep niet is ingesteld op iedereen.
+SharePoint 2013-werkstromen die proberen te verzenden van een e-mail bericht naar een SharePoint-groep kan mislukken met een ' toegang geweigerd ' foutmelding als het lidmaatschap van de SharePoint-groep niet is ingesteld op iedereen.
   
- **Voer deze stappen uit dit probleem op te lossen:**
+ **Voer de volgende stappen uit om dit probleem op te lossen:**
   
- 1. Laat iedereen zien de leden van de SharePoint-groep.
+ 1. Laat iedereen de leden van de SharePoint-groep zien.
   
- 2. De SharePoint-groep verwijderen uit aan of CC regel van het e-mailbericht.
+ 2. Verwijder de SharePoint-groep van de regel aan of CC van de e-mail.
   
- 3. De gebruikers expliciet toevoegen aan het aan of CC regel als de zichtbaarheid van het lidmaatschap voor de SharePoint-groep kan niet worden gewijzigd.
+ 3. Voeg de gebruikers expliciet toe aan de regel aan of CC als de zichtbaarheid van het lidmaatschap niet kan worden gewijzigd voorsharepoint Group.
   
-Als u wilt bekijken Zie meer details [Onbevoegde HTTP te /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Voor meer informatie verwijzen wij u naar [http ongeautoriseerde naar/_vti_bin/client.SVC/SP.Utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

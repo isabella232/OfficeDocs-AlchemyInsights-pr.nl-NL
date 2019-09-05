@@ -1,5 +1,5 @@
 ---
-title: Een andere e-mailalias toevoegen
+title: Een andere e-mail alias toevoegen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495098"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737328"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Maken of een e-mailalias voor een gebruiker toevoegen
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Een e-mail alias voor een gebruiker maken of toevoegen
 
-Nodig voor het maken van een e-mailalias voor een gebruiker of een extra e-mailadres toevoegen? Volg deze stappen!
+Moet u een e-mail alias voor een gebruiker maken of een extra e-mailadres toevoegen? Volg gewoon deze stappen!
   
-1. In het Microsoft 365 admin center, gaat u naar de pagina [gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of **gebruikers** kiezen \> **Actieve gebruikers**.
+1. Ga in het Microsoft 365 Admin Center naar de pagina [gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of kies **gebruikers** \> **actieve gebruikers**.
     
 2. Selecteer op de pagina **Actieve gebruikers** de gebruikersnaam die u wilt bewerken. 
     
 3. Kies rechts in de rij **Gebruikersnaam/E-mailaliassen** de optie **Bewerken**.
     
-4. Typ een nieuw e-mailadres in het vak **Alias** vervolgens kiest u **toevoegen**. Als u uw abonnement bij GoDaddy of een andere partner hebt aangeschaft, moet u naar de beheerconsole van GoDaddy of de andere partner gaan om de nieuwe alias als het primaire e-mailadres in te stellen. 
+4. Typ een nieuwe e-mail in het vak **alias** en kies vervolgens **toevoegen**. Als u uw abonnement bij GoDaddy of een andere partner hebt aangeschaft, moet u naar de beheerconsole van GoDaddy of de andere partner gaan om de nieuwe alias als het primaire e-mailadres in te stellen. 
     
     **BELANGRIJK**: als het foutbericht **Een parameter die overeenkomt met de parameternaam 'EmailAddresses' kan niet worden gevonden** wordt weergegeven, betekent dit dat Office 365 nog wat tijd nodig heeft om uw tenant of uw aangepaste domein in te stellen, als u er onlangs een hebt toegevoegd. Het instellen kan 4 uur duren. Wacht even, zodat de instellingsprocedure kan worden voltooid en probeer het vervolgens opnieuw. Als het probleem aanhoudt, bel dan de Ondersteuning; zij voeren dan een volledige synchronisatie voor u uit.
     
-    Het duurt meestal ongeveer 30 minuten voor de nieuwe alias te activeren.
+    Het duurt meestal ongeveer 30 minuten voordat de nieuwe alias van kracht wordt.
     
-    **Voor meer details, Zie dit artikel:** [Extra e-mail-aliassen toevoegen aan een gebruiker](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Zie dit artikel voor meer informatie:** Een [andere e-mail alias voor een gebruiker toevoegen](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

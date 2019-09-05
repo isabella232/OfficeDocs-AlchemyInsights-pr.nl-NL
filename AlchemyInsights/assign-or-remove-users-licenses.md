@@ -1,5 +1,5 @@
 ---
-title: Toewijzen of verwijderen van gebruikers licenties
+title: Licenties voor gebruikers toewijzen of verwijderen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574429"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736968"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Toewijzen of verwijderen van gebruikers licenties
+# <a name="assign-or-remove-users-licenses"></a>Licenties voor gebruikers toewijzen of verwijderen
 
-Als administrator, kunt u licenties voor uw gebruikers naar wens aanpassen. De artikelen hieronder wordt beschreven hoe u voor het beheren van licenties voor uw gebruikers, met inbegrip van:
+Als beheerder u de licenties van uw gebruikers desgewenst aanpassen. In de onderstaande artikelen wordt beschreven hoe u de licenties van uw gebruikers beheert, waaronder:
   
-- [Licenties toewijzen aan gebruikers in Office 365 voor Bedrijven](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users) .
+- [Licenties toewijzen aan gebruikers in Office 365 voor Bedrijven](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users) .
 
-- [Licenties intrekken van gebruikers in Office 365 voor bedrijven](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Toewijzing van licenties van gebruikers in Office 365 voor bedrijven intrekken](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Antwoord op uw vraag niet? Geen probleem! Neem contact op met een ondersteuningstechnicus via de knop "Hulp".
+Heeft u uw vraag niet beantwoord? Geen probleem! Gebruik de knop ' hulp nodig ' om met een ondersteuningstechnicus te praten.

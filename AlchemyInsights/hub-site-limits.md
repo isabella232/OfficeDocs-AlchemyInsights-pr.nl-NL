@@ -1,28 +1,28 @@
 ---
-title: Hub site-grenzen en beperkingen
-ms.author: kirks
+title: Limieten en beperkingen voor hubsites
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539348"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754583"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint-hub site-grenzen en beperkingen
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Beperkingen en beperkingen voorsharepoint hub-sites
 
-- Het is raadzaam een communicatiesite of een teamsite die gebruikmaakt van de nieuwe moderne sjabloon te selecteren. Als u een klassieke teamsite, de navigatie van de hub, verschijnt alleen op pagina's met moderne en hub site-instellingen alleen op moderne's weergegeven wordt.
+- Het wordt aanbevolen om een communicatiesite of een team site te selecteren die de nieuwe moderne sjabloon gebruikt. Als u een klassieke team site gebruikt, wordt de hubnavigatie alleen op moderne pagina's weergegeven en worden de hubsite-instellingen alleen op moderne pagina's weergegeven.
 
-- Sites die al gekoppeld aan een andere hub die **niet kan zijn** worden geconverteerd naar een hubsite. 
+- Sites die al aan een andere hub zijn gekoppeld, kunnen **niet** worden geconverteerd naar een hubsite. 
 
-- U kunt maximaal 100 hub sites maken voor uw organisatie. Er is geen limiet op het aantal sites dat gekoppeld met een hubsite worden kan.
+- U maximaal 100 hubsites maken voor uw organisatie. Er is geen limiet voor het aantal sites dat kan worden gekoppeld aan een hubsite.
 
-- Wanneer gebruikers verbinding maken met een hubsite hun sites, niet deze van invloed op de machtigingen van de hubsite of de gekoppelde sites. Het is belangrijk om ervoor te zorgen dat alle gebruikers, kunt u sites aan de hub te koppelen zijn gemachtigd op de hub.
+- Wanneer gebruikers hun sites aan een hubsite koppelen, heeft dit geen invloed op de machtigingen van de hubsite of de bijbehorende sites. Het is belangrijk om ervoor te zorgen dat alle gebruikers die u toestaat om sites aan de hub te koppelen, gemachtigd zijn voor de hub.
 
 
 

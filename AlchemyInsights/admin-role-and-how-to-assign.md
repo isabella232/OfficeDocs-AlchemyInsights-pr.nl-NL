@@ -1,5 +1,5 @@
 ---
-title: Rol Admin en het toewijzen van
+title: Beheerdersrol en toewijzen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493911"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737076"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Wat zijn de rollen beheerder en hoe ze toewijzen?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Wat zijn beheerdersrollen en hoe wijs je ze toe?
 
-Waarschijnlijk hebt u enkele vragen over de rollen beheerder. Deze artikelen dienen alle uw vragen te beantwoorden.
+Het lijkt erop dat u enkele vragen hebt over beheerdersrollen. Deze artikelen moeten al uw vragen beantwoorden.
   
-- [Informatie over beheerdersrollen in Office 365](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Informatie over beheerdersrollen](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Admin rollen toewijzen](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Beheerdersrollen toewijzen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Antwoord op uw vraag niet? Geen probleem! Gebruik de optie 'laat ons u bellen' contact opnemen met een ondersteuningstechnicus.
+Heeft u uw vraag niet beantwoord? Geen probleem! Gebruik de optie ' laat ons bellen ' om met een ondersteuningstechnicus te praten.
   

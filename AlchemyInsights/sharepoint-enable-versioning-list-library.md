@@ -1,5 +1,5 @@
 ---
-title: Met versiebeheer in SharePoint en OneDrive
+title: Versiebeheer in SharePoint en OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,33 +12,33 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 9c1ffe8c384a76d3df425623285fa4f9ebf757f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 606dcbb1523e54d6edeeb59573d1e98dda0ac88e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503954"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744348"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>Met versiebeheer in SharePoint en OneDrive 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Versiebeheer in SharePoint en OneDrive 
 
 
-Als versiebeheer is ingeschakeld in uw SharePoint-lijst of bibliotheek, kunt u opslaan, bijhouden en herstellen van bestanden in een bibliotheek en items in een lijst wanneer zij deze wijzigen. Versiebeheer, gecombineerd met andere instellingen, zoals de afhandeling, hebt u veel controle van de inhoud die is geboekt op de site en de reële waarde kan bieden als u ooit een noodzaak om te kijken of een oude versie van een item of bestand herstellen.
+Wanneer versiebeheer is ingeschakeld in uw SharePoint-lijst of-bibliotheek, u items in een lijst en bestanden in een bibliotheek opslaan, bijhouden en herstellen wanneer deze worden gewijzigd. Versiebeheer, gecombineerd met andere instellingen, zoals afhandeling, geeft u veel controle over de inhoud die op uw site wordt gepost en kan echte waarde bieden als u ooit een oude versie van een item of bestand moet bekijken of herstellen.
 
-Ga voor meer informatie over versiebeheer de onderstaande artikelen.
+Voor meer informatie over versiebeheer u de onderstaande artikelen bezoeken.
 
-- [Hoe werkt versiebeheer in een SharePoint-lijst of -bibliotheek](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [Hoe werkt versiebeheer in een SharePoint-lijst of-bibliotheek](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-- [Inschakelen en configureren van een lijst of bibliotheek versiebeheer](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Versiebeheer inschakelen en configureren voor een lijst of bibliotheek](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
 - [Versiegeschiedenis weergeven](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-- [Terugzetten van een vorige versie van een bestand in OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Een vorige versie van een bestand herstellen in OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
 
 - [Eerdere versies van Office-bestanden weergeven](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 - [Limieten voor versiebeheer](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Als u een klant van Office 365, is versiebeheer nu standaard ingeschakeld wanneer u nieuwe OneDrive voor Business bibliotheken maken en deze automatisch de laatste 500 versies van een document wordt opgeslagen. Hierdoor kunt u voorkomen dat het verlies van belangrijke documenten of gegevens. Als u bestaande bibliotheken op de OneDrive voor Business-site of op uw teamsite die geen versiebeheer is ingeschakeld, kunt u versiebeheer op deze op elk gewenst moment.
+>Als u een klant van Office 365 bent, is versiebeheer nu standaard ingeschakeld wanneer u nieuwe OneDrive voor bedrijven-bibliotheken maakt en worden de laatste 500-versies van een document automatisch opgeslagen. Dit zal u helpen voorkomen dat belangrijke documenten of gegevens verloren gaan. Als u bestaande bibliotheken op uw OneDrive voor bedrijven-site of op uw team site hebt waarop versiebeheer niet is ingeschakeld, u op elk gewenst moment versiebeheer inschakelen.
 
 

@@ -1,26 +1,25 @@
 ---
 title: Kan geen documenten openen in SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
-ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ba9cb05aec6718b5aa347be9d0300600a2f7395c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9534aaa07e54d35f6600053e88f2072936c1c461
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533171"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748509"
 ---
 # <a name="unable-to-open-documents-in-sharepoint"></a>Kan geen documenten openen in SharePoint
 
-Hebt u problemen met het openen van Office-bestanden en documenten uit documentbibliotheken van SharePoint of OneDrive, vindt hier u enkele suggesties om problemen op te lossen:
+Als u problemen ondervindt bij het openen van Office-bestanden en documenten uit SharePoint-of OneDrive-documentbibliotheken, vindt u hier enkele suggesties om deze te verhelpen:
 
-- [Beperkingen, zodat het bestand wordt ondersteund bestand controleren](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
-- [De cache van uw office-document verwijderen](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
-- [Een reparatie uitgevoerd op Office](https://support.office.com/en-US/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Controleer de bestandsbeperkingen om te controleren of het bestand wordt ondersteund](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [De Office-document cache verwijderen](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Een reparatie uitvoeren op kantoor](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Zie voor meer informatie of details [oplossen van problemen met het openen van documenten in SharePoint-bibliotheken](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
+Zie [problemen met het openen van documenten in SharePoint-bibliotheken oplossen](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)voor meer informatie of Details.

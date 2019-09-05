@@ -1,5 +1,5 @@
 ---
-title: Het uitschakelen van externe groepen
+title: Externe groepen uitschakelen
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541209"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739560"
 ---
-# <a name="how-to-disable-external-groups"></a>Het uitschakelen van externe groepen
+# <a name="how-to-disable-external-groups"></a>Externe groepen uitschakelen
 
-Er zijn vier manieren externe gebruikers toegang uw netwerk in Yammer tot.
+Er zijn vier manieren waarop externe gebruikers toegang kunnen krijgen tot uw netwerk in Yammer.
   
-1. **Gastgebruikers** - beheerders Yammer contactpersonen van externe domeinen kunt uitnodigen als gebruikers op het thuisnetwerk. De gebruikers kunnen zien van het bedrijf alle diervoeders en worden toegevoegd aan andere groepen in de netwerken ook.
+1. **Gastgebruikers** -Yammer-beheerders kunnen contactpersonen uit externe domeinen uitnodigen als gebruikers op het thuisnetwerk. Deze gebruikers zullen de alle Bedrijfsfeed zien en kunnen ook lid worden van andere groepen in de netwerken.
 
-2. **Externe gebruikers in een externe groep** - externe groepen kunnen externe gebruikers. Het bereik van een externe gebruiker toegang is beperkt tot de externe groep. Met externe groepen, kunt u alleen contactpersonen van Yammer netwerken waarmee gebruikers kunnen deelnemen aan gesprekken met externe uitnodigen.
+2. **Externe gebruikers in een externe groep** -externe groepen kunnen externe gebruikers. Het bereik van de toegang van een externe gebruiker is beperkt tot de externe groep. Met externe groepen u alleen contactpersonen uit Yammer-netwerken uitnodigen waarmee gebruikers kunnen deelnemen aan externe gesprekken.
 
-3. **Externe gebruikers in een gesprek met Yammer in een interne groep** - met deze optie kunt externe deelnemers wilt toevoegen aan een bepaald gesprek. Externe deelnemers kunnen alleen deelnemen aan gesprekken die ze hebben expliciet uitgenodigd aan en eventuele bijlagen in dat gesprek. Zij toegang krijgen tot deze gesprekken via hun Postvak Yammer (op het netwerk). Ze hebben geen toegang tot de rest van het netwerk.
+3. **Externe gebruikers in een Yammer-gesprek in een interne groep** -met deze optie kunnen externe deelnemers worden toegevoegd aan een bepaald gesprek. Externe deelnemers kunnen alleen deelnemen aan gesprekken waarvoor ze expliciet zijn uitgenodigd en voor eventuele bijlagen in dat gesprek. Ze openen deze gesprekken via hun Yammer-inbox (op hun netwerk). Ze hebben geen toegang tot de rest van uw netwerk.
 
-4. **Externe netwerken** - met deze optie kunt u externe gebruikers uitnodigen voor een extern netwerk dat beheerders kunnen maken in uw netwerk gecontroleerd. Deze optie is vooral geschikt voor het hosten van externe Gemeenschappen.
+4. **Externe netwerken** -met deze optie u externe gebruikers uitnodigen voor een extern netwerk dat geverifieerde beheerders in uw netwerk kunnen maken. Deze optie is het meest geschikt voor het hosten van externe community's.
 
-Voor meer informatie Zie [externe messaging deelnemers toevoegen aan je gesprekken Yammer](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) en [Externe Messaging Veelgestelde vragen (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Zie voor meer informatie [externe messaging-deelnemers toevoegen aan uw Yammer-gesprekken](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) en [externe messaging-Veelgestelde vragen (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

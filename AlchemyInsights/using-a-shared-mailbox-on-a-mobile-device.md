@@ -1,5 +1,5 @@
 ---
-title: 1800014 met behulp van een gedeelde postbus op een mobiel apparaat
+title: 1800014 het gebruik van een gedeelde postbus op een mobiel apparaat
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,20 +15,20 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531858"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741828"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Met behulp van een gedeelde postbus op een mobiel apparaat
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Een gedeeld postvak gebruiken op een mobiel apparaat
 
-U geen toegang tot een gedeeld postvak uit de Outlook-app op het mobiele apparaat geïnstalleerd. Wilt u deze functie gebruiken? Laat het Outlook Engineering team in kennis. [Stem hier](https://go.microsoft.com/fwlink/?linked=862116)!
+U hebt geen toegang tot een gedeeld postvak vanuit de Outlook-app die op het mobiele apparaat is geïnstalleerd. Wilt u deze functie gebruiken? Laat het technische team van Outlook weten. [Stem hier](https://go.microsoft.com/fwlink/?linked=862116)!
   
-U kunt een gedeeld postvak alleen gebruiken op een mobiel apparaat door uw browser te openen, het aanmelden bij Office 365 en gaat u naar Outlook op het web. Zie [een gedeelde postbus in Outlook op het web toevoegen](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)voor instructies.
+U alleen een gedeelde postbus op een mobiel apparaat gebruiken door uw browser te openen, u aan te melden bij Office 365 en vervolgens naar Outlook op het web te gaan. Zie [een gedeeld postvak toevoegen in Outlook op het web](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)voor instructies.
   
-Als u toegang gedeelde postvakken met behulp van de Outlook-app op een mobiel apparaat tot moet, kunt u een Office 365-groep in plaats van een gedeeld postvak maken. Zie [Groepen vergelijken](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx)voor meer informatie.
+Als u toegang hebt tot gedeelde postvakken met behulp van de Outlook-app op een mobiel apparaat, u overwegen een Office 365-groep te maken in plaats van een gedeeld postvak te gebruiken. Zie [Groepen vergelijken](https://docs.microsoft.com/office365/admin/create-groups/compare-groups)voor meer informatie.
   
-Meer informatie: [de hulp - app voor Outlook voor iOS en Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Meer informatie: [in-app-hulp krijgen voor Outlook voor IOS en Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   

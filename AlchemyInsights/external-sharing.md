@@ -12,34 +12,34 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2389"
-ms.openlocfilehash: 25276298935449e93ac07d132e4ff4d726516c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f22e17b9951ee119093444a6d5d7e9a6087da646
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526062"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735924"
 ---
 # <a name="external-sharing"></a>Extern delen
 
-Als uw organisatie werk waarbij delen van documenten of samenwerken met leveranciers, klanten of klanten uitvoert en vervolgens kunt u de [externe functies van SharePoint Online delen](https://docs.microsoft.com/sharepoint/external-sharing-overview) inhoud delen met mensen buiten uw de organisatie.
+Als uw organisatie werk uitvoert waarbij documenten worden gedeeld of rechtstreeks samenwerken met leveranciers, klanten of klanten, u de [externe functies voordelen van SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) gebruiken om inhoud te delen met mensen buiten uw Organisatie.
 
-Ga naar de onderstaande koppelingen voor meer informatie over het delen van externe:
+Meer informatie over extern delen vindt u op de onderstaande links:
 
 - [Extern delen in- of uitschakelen voor SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Externe delen in- of uitschakelen voor een site inschakelen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [Standaard instellingen voor delen per type site](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [Sharepoint Online gebruiken als een oplossing voor het extranet van business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [SharePoint-bestanden of mappen delen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [OneDrive of SharePoint-bestanden of mappen delen beëindigen of wijzigen van machtigingen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
-- [Microsoft-Teams toegang voor gasten](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft Gast delen instellingen-naslag (Azure Active Directory, Microsoft 365 en SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Extern delen in-of uitschakelen voor een site](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Standaardinstellingen voordelen per site type](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [SharePoint Online gebruiken als Business-to-Business (B2B) extranet oplossing](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [SharePoint-bestanden of-mappen delen](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Het delen van OneDrive-of SharePoint-bestanden of-mappen beëindigen of machtigingen wijzigen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Toegang voor gasten in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Naslaginformatie voor Microsoft-gastinstellingen voordelen (Azure Active Directory, Microsoft 365 en SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Een fout met een externe gebruiker ontvangen?Controleer de onderstaande koppelingen:
+Ontvangt u een fout met een externe gebruiker?Controleer de onderstaande links:
 
-- ['Toegang geweigerd', 'U moet de machtiging voor toegang tot deze site', of 'Gebruiker niet gevonden, in de map' fouten in SharePoint Online en OneDrive voor bedrijven](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Fout bij het delen van een item of een site in SharePoint Online of OneDrive voor Business "beleidsregels van uw organisatie kunt u niet delen met deze gebruikers"](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Opties voor delen grijs worden weergegeven wanneer u delen van SharePoint Online of OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Foutbericht wanneer een externe gebruiker een SharePoint Online uitnodiging accepteert met behulp van een andere account](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE delen fouten in SharePoint en OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [' Toegang geweigerd ', ' u moet gemachtigd zijn voor toegang tot deze site ' of ' gebruiker niet gevonden in de map ' fouten in SharePoint Online en OneDrive voor bedrijven](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Het beleid van uw organisatie staat niet toe dat u delen met deze gebruikers" fout bij het delen van een item of site in SharePoint Online of OneDrive voor bedrijven](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Opties voordelen worden grijs weergegeven bij het delen van SharePoint Online of OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Foutbericht wanneer een externe gebruiker een SharePoint Online-uitnodiging accepteert met een ander account](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE delen van fouten in SharePoint en OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

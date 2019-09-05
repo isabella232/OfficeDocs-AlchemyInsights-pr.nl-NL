@@ -1,24 +1,24 @@
 ---
-title: SharePoint Online of OneDrive u instelt
-ms.author: kirks
+title: SharePoint Online of OneDrive ' instellen '
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535136"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750443"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online of OneDrive "Instellen"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online of OneDrive ' instellen '
 
-Wanneer een gebruiker wordt toegevoegd aan een bestaande Office 365 huurder, kunnen ze SharePoint Online of OneDrive voor Business-pictogrammen weergegeven als 'Instellen' totdat het inrichtingsproces is voltooid zien.
+Wanneer een gebruiker wordt toegevoegd aan een bestaande Office 365-Tenant, zien ze de SharePoint Online-of OneDrive voor Business-pictogrammen worden weergegeven als ' instellen ' totdat het inrichtingsproces is voltooid.
 
-Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, meld u een aanvraag voor ondersteuning.
+Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst hebt gezien, logt u een ondersteuningsaanvraag in.
 
-Wij begrijpen dat 24 uur misschien een lange tijd lijkt. In veel gevallen hebben werkt we aan een oplossing. Geef ons ten minste 24 uur om een oplossing te voltooien.
+We begrijpen dat 24 uur misschien een lange tijd lijkt. In veel gevallen werken we nu al aan een oplossing. Gelieve ons ten minste 24 uur te geven om een oplossing te voltooien.
 

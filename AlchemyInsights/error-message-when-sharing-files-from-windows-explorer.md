@@ -1,6 +1,6 @@
 ---
 title: Foutbericht bij het delen van bestanden vanuit Windows Verkenner
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/19/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 1460a73a0365c4fd170f6aea3a30cc4d6dcefce2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8fe007084883b125b0ca538156a1576deb1c28e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527250"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755987"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Foutbericht bij het delen van bestanden vanuit Windows Verkenner
 
-Als u probeert te delen vanuit Windows Verkenner, wordt het volgende foutbericht weergegeven:
+Wanneer u probeert te delen vanuit Windows Verkenner, kan het volgende foutbericht worden weergegeven:
   
-"Helaas, dat kon niet worden nu de server bereiken. Probeer het later opnieuw'
+"Sorry, we zijn niet in staat om de server te bereiken op dit moment. Probeer het later opnieuw "
   
-Fout op te lossen bericht vanuit Internet Explorer gaat u naar **Extra** \> **Internet-opties** \> Klik op het tabblad **Geavanceerd** en schakel vervolgens het selectievakje met de titel **niet gecodeerde pagina's op schijf opslaan**.
+Als u het foutbericht wilt oplossen, gaat u vanuit Internet Explorer naar **extra** \> **Internet-opties** \> Klik op het tabblad **Geavanceerd** en schakel het selectievakje **gecodeerde pagina's niet op schijf opslaan**uit.
   
- **Opmerking**: mogelijk moet u opnieuw opstarten van uw browser voor de instelling van kracht te laten worden. Zie voor meer informatie ['Kan niet de server nu bereiken' foutbericht bij het delen van bestanden](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Opmerking**: mogelijk moet u de browser opnieuw opstarten om de instelling van kracht te laten worden. Zie [Foutbericht ' kan de server nu niet bereiken ' bij het delen van bestanden](https://go.microsoft.com/fwlink/?linkid=2022914)voor meer informatie.
   

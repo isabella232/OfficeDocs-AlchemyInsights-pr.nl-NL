@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a13c5d7066e6a703e627adfbef1157e85138f447
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a0e896567eda5845913e51d4e01d6959f8f5a98b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502370"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749435"
 ---
-# <a name="workflows-in-sharepoint"></a>Werkstromen in SharePoint
+# <a name="workflows-in-sharepoint"></a>Workflows in SharePoint
 
-SharePoint-werkstromen zijn vooraf geprogrammeerde mini-toepassingen die stroomlijnen en automatiseren van een groot aantal bedrijfsprocessen. Werkstromen kunnen variëren van handtekeningen verzamelen, feedback en goedkeuringen voor een plan of document, de huidige status van een lopende procedure bijhouden.
+SharePoint-workflows zijn voorgeprogrammeerde minitoepassingen die een breed scala aan bedrijfsprocessen stroomlijnen en automatiseren. Workflows kunnen variëren van het verzamelen van handtekeningen, feedback of goedkeuringen voor een plan of document, tot het bijhouden van de huidige status van een routineprocedure.
 
-**Aan de slag:** Als u zich gewoon aan de slag met SharePoint-werkstromen, raadpleegt u [Inleiding tot SharePoint-werkstromen voor meer informatie](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+Aan de **slag:** Als u net bent begonnen met SharePoint-workflows, raadpleegt u [Inleiding tot SharePoint-workflows voor meer informatie](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Microsoft Flow**: Flow Microsoft overwegen in plaats van de klassieke SharePoint workflow-oplossingen. Zie voor meer info, [maken een overdracht voor een lijst of bibliotheek in SharePoint Online of OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+**Microsoft flow**: overweeg het gebruik van Microsoft flow in plaats van de klassieke SharePoint-workflowoplossingen. Zie voor meer informatie, [een stroom maken voor een lijst of bibliotheek in SharePoint Online of OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 
-**Workflow probleemoplossing en foutopsporing**:
+**Probleemoplossing en foutopsporing in werkstroom**:
 
-Workflows voor foutopsporing lijkt op die van eerdere versies. Zie [Foutopsporing in SharePoint-werkstromen](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)voor meer informatie. Zie voor meer informatie over het oplossen van [problemen met SharePoint Server-werkstroom validatiefouten](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Werkstromen voor foutopsporing lijken op die van eerdere versies. Zie voor meer informatie, [Foutopsporing in SharePoint-werkstromen](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Zie [problemen met workflowvalidatie van SharePoint Server oplossen](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)voor meer informatie over het oplossen van problemen.
 

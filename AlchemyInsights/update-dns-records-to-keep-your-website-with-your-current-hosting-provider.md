@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 7ca04d81dd4ca2e094b5ac14a2949ffa3a88e987
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532902"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742260"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS-records bijwerken als u uw website bij uw huidige hostingprovider wilt houden
 
-Als onderdeel van het proces van uw Office 365 openbare Website verplaatsen naar een andere hosting provider, moet u waarschijnlijk om de domeinrecords van uw te wijzigen.
+Als onderdeel van het proces van het verplaatsen van uw Office 365 openbare website naar een andere hosting provider, moet u waarschijnlijk wijzigingen aanbrengen in uw domeinrecords.
   
-1. In het admin center, gaat u naar **Setup** \> **domeinen** en kiest u de naam van het domein dat u wilt wijzigen.
+1. Ga in het Beheercentrum naar domeinen **instellen** \> **** en kies de domeinnaam die u wilt wijzigen.
 
-2. Voer de informatie die overeenstemt met uw website met uw nieuwe hosting provider.
+2. Voer de informatie in die overeenstemt met uw website met uw nieuwe hosting provider.
 
-Voor meer informatie, Zie [Update DNS-records van uw website met uw huidige hostingprovider houden](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).
+Zie [DNS-records updaten om uw website bij uw huidige hosting provider te houden](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider)voor meer informatie.
   
-Zie voor meer informatie over de beëindiging van de openbare site, [SharePoint Online openbare Websites worden gestaakt](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).
+Zie voor meer informatie over de beëindiging van de openbare site, [SharePoint Online openbare websites worden stopgezet](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).

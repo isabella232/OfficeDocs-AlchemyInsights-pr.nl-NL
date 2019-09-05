@@ -1,5 +1,5 @@
 ---
-Title: Vernieuwen Web connector niet correct werkt gebruiken
+title: Vernieuwen met behulp van web connector werkt niet goed
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753283"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748895"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Vernieuwen Web connector niet correct werkt gebruiken
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Vernieuwen met behulp van web connector werkt niet goed
 
-Als u een webscript connector die door de functie [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) wordt gebruikt en u de dataset of het rapport na de 18e November 2016 bijgewerkt hebt moet u een gateway gebruiken om vernieuwing goed te laten werken.
+Als u een webconnectorscript hebt dat gebruikmaakt van de functie [Web. page](https://msdn.microsoft.com/library/mt260924.aspx) en u uw gegevensset of rapport hebt bijgewerkt na 18 november 2016, moet u een gateway gebruiken om de vernieuwing goed te laten werken.
 
 Voor meer informatie:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

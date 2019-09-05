@@ -1,5 +1,5 @@
 ---
-title: Waarschuwingen van SharePoint niet bezorgd
+title: SharePoint-waarschuwingsmeldingen niet afgeleverd
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504458"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744636"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Waarschuwingen van SharePoint niet bezorgd
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-waarschuwingsmeldingen niet afgeleverd
 
-Controleer de map Ongewenste E-mail in uw e-mailadres, zoals soms waarschuwingen kunnen bezoeken.
+Controleer de map ' ongewenste e-mail ' in uw e-mail bericht, omdat er soms waarschuwingen kunnen worden ontvangen.
 
-Bepalen of **alle waarschuwingen niet zijn verzonden** of als **een afzonderlijke bericht** uit een bepaald bestand of de bibliotheek niet is bezorgd.
+Bepaal of **alle waarschuwingen niet worden bezorgd** of dat **een afzonderlijke waarschuwing** van een bepaald bestand of een bepaalde bibliotheek niet wordt bezorgd.
 
-- **Afzonderlijke berichten niet worden bezorgd**: als een afzonderlijke waarschuwing uit een specifiek bestand of de bibliotheek niet wordt geleverd, kunt u proberen te verwijderen en opnieuw te maken. Zie [beheren, bekijken, of SharePoint-waarschuwingen verwijderen](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) om de waarschuwing opnieuw te maken.
-- **Alle waarschuwingen worden niet bezorgd**: niet alle meldingen van meerdere bestanden of bibliotheken worden geleverd, gaat u naar het [dashboard gezondheid Service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te controleren op eventuele aanbevelingen/incidenten die zich kunnen met de SharePoint- of voordoen zou. Het probleem kan zijn met de SharePoint-waarschuwing mogelijkheid of vertragingen in e-mails via Exchange. Ook is het belangrijk te weten of andere e-mail wordt bezorgd, en zo niet, het probleem is waarschijnlijk met Exchange vertragingen.
+- **Afzonderlijke waarschuwingen worden niet bezorgd**: als een afzonderlijke waarschuwing van een bepaald bestand of een bepaalde bibliotheek niet wordt bezorgd, u proberen deze te verwijderen en opnieuw te maken. Zie [beheren, weergeven of verwijderen van SharePoint-waarschuwingen](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) voor het opnieuw maken van de waarschuwing.
+- **Alle waarschuwingen worden niet bezorgd**: als alle waarschuwingen van meerdere bestanden of bibliotheken niet worden afgeleverd, gaat u naar het [Dashboard service status](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te controleren op eventuele adviezen/incidenten die kunnen optreden met SharePoint of Exchange. Het probleem kan zijn met de SharePoint-waarschuwings mogelijkheid of vertragingen in e-mails via Exchange. Het is ook belangrijk om te zien of er andere e-mail wordt bezorgd, en zo niet, dan is het probleem waarschijnlijk met Exchange vertragingen.
 
 Veelgestelde vragen over waarschuwingen:
 
-- Het is niet mogelijk om waarschuwingen te verzenden naar een distributiegroep alleen beveiliging en O365 groepen worden ondersteund.
-- U kunt e-mailwaarschuwingen sjablonen; niet aanpassen u moet Microsoft FLOW of SharePoint Designer Workflow te bereiken die gebruiken.
+- Het is niet mogelijk om waarschuwingen te verzenden naar de distributiegroep, alleen beveiligings-en O365-groepen worden ondersteund.
+- U geen e-mailsjablonen voor waarschuwingen aanpassen. u moet Microsoft FLOW of SharePoint Designer-werkstroom gebruiken om deze te bereiken.
 
 Meer informatie:
 
-- **Waarschuwingen instellen**: Zie voor meer informatie over het instellen van waarschuwingen [maken een waarschuwing om u te waarschuwen wanneer een bestand of map wordt gewijzigd in SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Problemen met waarschuwingen**: Zie voor meer informatie over het oplossen van waarschuwingen [gebruikers SharePoint Online meldingen niet ontvangen](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Geavanceerde O365 naleving Alert beleid**: voor meer informatie over het instellen van deze waarschuwingen Zie [Waarschuwingen beleid voldoen](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint en OneDrive Audit Logs**: Zie [Zoeken het controlelogboek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)voor meer informatie over het ophalen van deze gebeurtenissen.
-- **Waarschuwingen worden verzonden door Advanced Threat Protection**: Zie [ATP voor SharePoint en OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Beleid voor waarschuwingen verzonden door gegevensverlies voorkomen**: Zie [e-mailberichten voor DLP-beleid](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Waarschuwingen **instellen**: Zie voor meer informatie over het instellen van waarschuwingen [een waarschuwing maken om een melding te ontvangen wanneer een bestand of map in SharePoint wordt gewijzigd](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Problemen met waarschuwingen oplossen**: Zie [gebruikers geen SharePoint Online-waarschuwingsmeldingen ontvangen](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)voor meer informatie over het oplossen van waarschuwingen.
+- **Geavanceerde O365 naleving alert beleid**: Zie voor meer informatie over het instellen van deze waarschuwingen [beleid voor nalevings](https://docs.microsoft.com/office365/securitycompliance/alert-policies)waarschuwingen.
+- **Controlelogboeken voorsharepoint en OneDrive**: Zie [het controlelogboek doorzoeken](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)voor meer informatie over het ophalen van deze gebeurtenissen.
+- **Waarschuwingen verzonden door geavanceerde bedreigingsbeveiliging**: Zie [ATP voorsharepoint en OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Waarschuwingen verzonden door beleid voor preventie van gegevensverlies**: Zie [e-mail meldingen voor DLP-beleid](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Verwante onderwerpen
 
-Wilt u proberen Microsoft Flow in SharePoint Online?
+Wilt u Microsoft flow uitproberen in SharePoint Online?
 
-- [Stroom maken](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Stroom maken](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint en stroom](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint en flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

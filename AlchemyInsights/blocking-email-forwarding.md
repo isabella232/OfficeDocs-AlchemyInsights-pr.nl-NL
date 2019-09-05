@@ -1,5 +1,5 @@
 ---
-title: 726 blokkeren e-mail doorsturen
+title: 726 e-mail doorsturen blokkeren
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517602"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737724"
 ---
-# <a name="block-email-forwarding"></a>Blokkeren e-mail doorsturen
+# <a name="block-email-forwarding"></a>E-mail doorsturen blokkeren
 
-Zie [e-mail doorsturen](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6)Schakel e-mail doorsturen voor een bepaalde postbus.
+Zie [e-mail doorsturen configureren](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding)om het doorsturen van e-mails voor een specifieke postbus uit te schakelen.
 
-Blokkeren e-mail doorsturen voor de hele organisatie, [de vele manieren te blokkeren automatische e-mail doorsturen in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+E-mail doorsturen voor de hele organisatie blokkeren, [de vele manieren om het automatisch doorsturen van e-mails in Exchange Online te blokkeren](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).

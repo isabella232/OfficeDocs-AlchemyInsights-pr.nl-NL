@@ -1,6 +1,6 @@
 ---
-title: Problemen met prestaties van SharePoint of OneDrive
-ms.author: kirks
+title: Prestatieproblemen-SharePoint of OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535164"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750551"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint of OneDrive traag, niet toegankelijk of niet beschikbaar voor meerdere gebruikers
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint of OneDrive traag, ontoegankelijk of niet beschikbaar voor meerdere gebruikers
 
-Als een OneDrive of een SharePoint-site niet beschikbaar voor meerdere gebruikers die eerder toegang had is, kan er een tijdelijke service-probleem. [Controleer de gezondheid servicedashboard](https://portal.office.com/adminportal/home#/servicehealth).
+Als een OneDrive-of SharePoint-site niet beschikbaar is voor meerdere gebruikers die eerder toegang hadden, is er mogelijk een tijdelijk serviceprobleem. [Controleer de servicestatus dashboard](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Toevoegen en een licentie van de gebruiker**
+**De gebruiker toevoegen en licentiëren**
 
-Zorg ervoor dat u [licenties aan gebruikers in Office 365 voor bedrijven toewijzen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Zorg ervoor dat u [licenties toewijst aan gebruikers in Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
 **Machtigingen toewijzen**
 
-Als de gebruiker een licentie van Sharepoint is toegewezen wordt steeds toegang geweigerd, Controleer of dat het [juiste machtigingsniveau](https://docs.microsoft.com/sharepoint/understanding-permission-levels) toegewezen hebben.
+Als aan de gebruiker een SharePoint-licentie is toegewezen en nog steeds een bericht over toegang geweigerd wordt ontvangen, moet u ervoor zorgen dat ze het [juiste machtigingsniveau](https://docs.microsoft.com/sharepoint/understanding-permission-levels) hebben toegewezen.
 
-**Overweeg het gebruik van de functie voor aanvraag**
+**Overweeg het gebruik van de Access Request-functie**
 
-De [functie voor aanvraag](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) kunnen mensen voor het aanvragen van toegang tot inhoud die ze momenteel geen toestemming om te zien.
+De [Access Request-functie](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) stelt mensen in staat om toegang te vragen tot inhoud die ze momenteel geen toestemming hebben om te zien.
 
-**Aangepast script toegang geweigerd problemen kan veroorzaken toestaan**
+**Aangepast script toestaan kan problemen met toegang geweigerd veroorzaken**
 
-Er zijn bepaalde scenario's waarin de functie *aangepast script toestaan* kan worden presenteert de toegang is geweigerd. Voor een lijst van deze functies, beveiligingsoverwegingen en de mogelijkheid om de functie uit te schakelen. Ga naar [toestaan of voorkomen van aangepast script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Er zijn bepaalde scenario's waarbij de functie *aangepast script toestaan* mogelijk een toegang geweigerd. Voor een lijst met getroffen functies, beveiligingsoverwegingen en de mogelijkheid om de functie uit te schakelen. Ga naar [aangepast script toestaan of voorkomen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

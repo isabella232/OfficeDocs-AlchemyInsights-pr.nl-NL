@@ -1,5 +1,5 @@
 ---
-title: Maken en gebruiken van een gedeeld postvak
+title: Een gedeeld postvak maken en gebruiken
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515946"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736500"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Maken en gebruiken van een gedeeld postvak
+# <a name="create-and-use-a-shared-mailbox"></a>Een gedeeld postvak maken en gebruiken
 
-Een gedeeld postvak kunt meer dan één persoon verzenden en ontvangen van e-mail voor een alias, zoals **sales@contoso.com**, zonder een andere licentie toewijzen.
+Met een gedeeld postvak kan meer dan één persoon e-mail verzenden en ontvangen voor een alias, zoals **Sales@contoso.com**, zonder een andere licentie toe te wijzen.
   
-[Een gedeeld postvak maken](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) wordt uitgelegd hoe u kunt: 
+[Een gedeeld postvak maken](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) legt uit hoe u: 
   
 - Een gedeeld postvak maken
     
-- Geef uw gebruikers machtigingen voor het gebruik van een gedeeld postvak
+- Gebruikersmachtigingen geven voor het gebruik van een gedeeld postvak
     
 - Toegang tot de gedeelde postbus in Outlook of in Outlook op het web
     

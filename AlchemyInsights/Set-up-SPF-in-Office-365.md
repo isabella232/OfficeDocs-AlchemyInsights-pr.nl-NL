@@ -1,5 +1,5 @@
 ---
-title: Instellen van de SPF in Office 365
+title: SPF instellen in Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebb83c3cced55856963fa1784dd72760838366ca
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495998"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736356"
 ---
-# <a name="set-passwords-to-never-expire"></a>Set wachtwoorden nooit verlopen. 
+# <a name="set-passwords-to-never-expire"></a>Wachtwoorden instellen op nooit verlopen 
 
-Ga naar de **Instellingen**als u wilt instellen dat alle wachtwoorden nooit verlopen in het beheercentrum van Microsoft 365 > [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security) pagina. Selecteer **bewerken** naast **wachtwoordbeleid**, en de schuifregelaar **aan**.
+Als u wilt instellen dat alle wachtwoorden nooit verlopen, gaat u in het Microsoft 365 Admin Center naar de pagina **instellingen** > [beveiliging &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) . Selecteer **bewerken** naast **Wachtwoordbeleid**en schakel de schuifregelaar in **op**aan.
   
-Zie voor meer informatie: [stelt het verloopbeleid wachtwoord voor uw organisatie.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+Zie voor meer gedetailleerde informatie: [het beleid voor wachtwoord verloop instellen voor uw organisatie.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Instellen van het wachtwoord nooit verloopt voor specifieke gebruikers](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[Wachtwoord instellen op nooit verlopen voor specifieke gebruikers](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

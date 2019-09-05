@@ -1,5 +1,5 @@
 ---
-title: Suggesties voor het oplossen van fouten "Niet-gelicentieerde Product"
+title: Suggesties voor het oplossen van fouten met een ' niet-gelicentieerd product '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501038"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743268"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggesties voor het oplossen van fouten "Niet-gelicentieerde Product"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggesties voor het oplossen van fouten met een "niet-gelicentieerd product"
 
-Controleer of er een abonnement waarmee clients licenties, zoals Office 365 Business of Business Premium en [ervoor zorgen dat de gebruiker een licentie is toegewezen](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Uitschakelen van een installatie](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) om te controleren als u het aantal installaties worden ondersteund door uw abonnement hebt overschreden.
+Zorg ervoor dat u een abonnement hebt dat clientlicenties toestaat, zoals Office 365 Business of Business Premium, en [Zorg ervoor dat aan de gebruiker een licentie is toegewezen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deactiveer een installatie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) om te controleren of u het aantal installaties dat door uw abonnement wordt ondersteund, hebt overschreden.
   
-Controleer dat de gebruiker zich aanmeldt met dezelfde account waarvoor de licentie is toegewezen.
+Zorg ervoor dat de gebruiker zich aanmeldt met hetzelfde account waaraan de licentie is toegewezen.
   
-Start de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy)uit.
   
-Controleer of de status van uw licentie is verlopen
+Controleer of uw abonnementsstatus is verlopen
   
-Controleer de [pagina Office 365 Service gezondheid](https://docs.microsoft.com/office365/enterprise/view-service-health) om te zien of er bekende problemen zijn met de service.
+Controleer de [servicestatus van Office 365 pagina](https://docs.microsoft.com/office365/enterprise/view-service-health) om te zien of er bekende problemen met de service zijn.
   
-[Online herstellen van Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Een online reparatie van Office uitvoeren](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Zie voor aanvullende oplossingen voor probleemoplossing: [niet-gelicentieerde Product en activeringsfouten in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Voor aanvullende oplossingen voor probleemoplossing raadpleegt u: [niet-gelicentieerde product-en activeringsfouten in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

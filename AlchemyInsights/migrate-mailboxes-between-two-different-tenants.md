@@ -1,5 +1,5 @@
 ---
-title: Migreren, postbussen tussen twee verschillende huurders
+title: Postbussen migreren tussen twee verschillende tenants
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544642"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734448"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migreren, postbussen tussen twee verschillende huurders
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Postbussen migreren tussen twee verschillende tenants
 
-U wilt migreren van postbussen tussen twee verschillende huurders in Office 365, bijvoorbeeld wanneer een fusie van de organisatie. Deze migraties moeten zorgvuldig worden gepland. Raadpleeg de volgende richtlijnen:
+U moet mogelijk postbussen migreren tussen twee verschillende tenants in Office 365, bijvoorbeeld wanneer er organisatie fusies zijn. Deze migraties moeten zorgvuldig worden gepland. Raadpleeg de volgende richtlijnen:
   
-[Postvakken migreren van een Office 365-huurder naar de andere](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Het migreren van postvakken van een Office 365-Tenant naar een andere](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

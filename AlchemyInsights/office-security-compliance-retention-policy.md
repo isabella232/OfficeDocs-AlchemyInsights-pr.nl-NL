@@ -1,7 +1,7 @@
 ---
-title: Meer info over bewaarbeleid
+title: Meer informatie over bewaarbeleid
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521670"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753755"
 ---
-# <a name="more-info-about-retention-policies"></a>Meer info over bewaarbeleid
+# <a name="more-info-about-retention-policies"></a>Meer informatie over bewaarbeleid
 
-Voor de meeste organisaties, de omvang en de complexiteit van hun gegevens stijgt dagelijks - e-mail, documenten, berichten en meer. Effectief beheren of ten opzichte van deze informatie is belangrijk en een bewaarbeleid kan u helpen bij deze doelstellingen te verwezenlijken. Ga naar deze koppelingen voor meer informatie over bewaarbeleid:
+Voor de meeste organisaties neemt het volume en de complexiteit van hun gegevens dagelijks toe-e-mail, documenten, expresberichten en meer. Het effectief beheren of beheersen van deze informatie is belangrijk en een bewaarbeleid kan u helpen deze doelen te bereiken. Ga voor meer informatie over bewaarbeleid naar deze links:
 
-## <a name="a-from-security-and-compliance-center"></a>A) van veiligheid en conformiteit
+## <a name="a-from-security-and-compliance-center"></a>A) van Security and Compliance Center
 
-- Ga naar beveiliging en naleving > Data governance > bewaren
+- Ga naar beveiliging en naleving > data governance > retentie
   - Zie [Dit](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artikel
 
-- Ga naar beveiliging en naleving > eDiscovery> geavanceerde eDiscovery 
+- Ga naar beveiliging en naleving > eDiscovery> Advanced eDiscovery 
   - Zie [Dit](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artikel
 
-- Ga naar beveiliging en naleving > classificaties > bewaren
-  - Raadpleeg de volgende artikelen
+- Ga naar beveiliging en naleving > classificaties > retentie
+  - Zie deze artikelen
     - [Gevoeligheidslabels](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Overzicht labels](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Labels-overzicht](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) legacy eDiscovery beleid
+## <a name="b-legacy-ediscovery-policies"></a>B) Legacy eDiscovery-beleid
 
 - Zie [Dit](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikel
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) sluiting en het verwijderen van beleid
+## <a name="c-site-closure-and-deletion-policies"></a>C) beleid voor sluiting en verwijdering van sites
 
 - Zie [Dit](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikel  
 
-## <a name="d-information-rights-management-irm"></a>D) information Rights Management (IRM)
+## <a name="d-information-rights-management-irm"></a>D) Information Rights Management (IRM)
 
-- Raadpleeg de volgende artikelen
+- Zie deze artikelen
   - [IRM op een lijst/bibliotheek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [IRM-overzicht](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Wij raden verplaatsen naar beveiliging en naleving van beleid als u nog steeds eDiscovery Legacy of IRM of sluiting van de Site en het verwijderen van beleid.
+> We raden ten zeerste aan om over te stappen op beveiligings-en nalevingsbeleid als u nog steeds gebruikmaakt van verouderde eDiscovery-of IRM-of site-sluitings-en verwijderings beleidsregels.

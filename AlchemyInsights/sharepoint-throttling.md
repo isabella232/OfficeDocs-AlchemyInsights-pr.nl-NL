@@ -1,30 +1,30 @@
 ---
-title: SharePoint Online beperken
-ms.author: kirks
+title: SharePoint Online-beperking
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6c940f3277e39c955adc24f22d5d9ef1591561ba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cbe6799e5b7f415e560449485ce09518c6ac2999
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502703"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749939"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online beperken
+# <a name="sharepoint-online-throttling"></a>SharePoint Online-beperking
 
-SharePoint Online maakt gebruik van bandbreedtebeperking onderhouden voor optimale prestaties en betrouwbaarheid van de SharePoint Online-service. Bandbreedtebeperking beperkt roept het aantal acties van de gebruiker of gelijktijdige (door script of code) om te voorkomen dat overmatig gebruik van bronnen. Ga naar de onderstaande koppelingen voor meer informatie.
+SharePoint Online gebruikt beperking om optimale prestaties en betrouwbaarheid van de SharePoint Online-service te behouden. Beperking beperkt het aantal gebruikersacties of gelijktijdige aanroepen (per script of code) om overmatig gebruik van resources te voorkomen. Voor meer informatie u terecht op de onderstaande links.
 
-- [Voorkomen dat beperkte bandbreedte of geblokkeerd in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Vermijd het krijgen van beperkingen of geblokkeerd in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- [Gegevensmigratie en gesimuleerde Productieorder beperken](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [Data migratie en SPO throttling](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
 
-- [Online SharePoint en OneDrive migratie snelheid](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Migratiesnelheid van SharePoint Online en OneDrive](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
- - [Verwerken van SharePoint Online beperken met behulp van exponentiële weer af](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+ - [SharePoint Online-beperking afhandelen met exponentieel uitstel](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
 
-- [Capaciteit plannen en testen van SharePoint Online laden](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [Capaciteitsplanning en laden testen van SharePoint Online](https://docs.microsoft.com/office365/enterprise/capacity-planning-and-load-testing-sharepoint-online)
 

@@ -1,6 +1,6 @@
 ---
-title: Externe delen inschakelen
-ms.author: kirks
+title: Extern delen inschakelen
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527646"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756023"
 ---
-# <a name="enable-external-sharing"></a>Externe delen inschakelen
+# <a name="enable-external-sharing"></a>Extern delen inschakelen
 
- Om ervoor te zorgen dat het delen is ingeschakeld voor SharePoint Online:
+ Om ervoor te zorgen dat delen is ingeschakeld voorsharepoint online:
   
-- **Algemene delen**
+- **Wereldwijd delen**
     
-  - Portal -\> externe delen -\> laten delen-overzicht - Sites, externe gebruikers toegang tot uw sites: ON
+  - Portaal-\> extern delen-\> overzicht-sites, laat externe mensen toegang krijgen tot uw sites: op
     
-  - Portal -\> externe delen -\> Sites - selectievakje "Externe gebruikers toegang krijgen tot uw sites laten"
+  - Portaal-\> extern delen-\> sites-"laat externe mensen toegang tot uw sites" selectievakje
     
-- **Administratieve delen - SharePoint Admin Center**
+- **Beheer delen-SharePoint Admin Center**
     
-    Externe delen - een van de twee opties zijn ingeschakeld:
+    Extern delen-zorg ervoor dat een van de twee opties is geselecteerd:
     
-  - "Externe gebruikers die delen uitnodigingen en meld u aan als geverifieerde gebruikers accepteren toestaan"
+  - ' Externe gebruikers toestaan die uitnodigingen voordelen accepteren en zich aanmelden als geverifieerde gebruikers '
     
-  - "Beide externe gebruikers die delen accepteren uitnodigingen en anonieme Gast koppelingen"
+  - "Sta zowel externe gebruikers toe die uitnodigingen voordelen accepteren als anonieme gast links"
     
-- **Afzonderlijke siteverzamelingen**
+- **Afzonderlijke site verzamelingen**
     
-  - De siteverzamelingen - Selecteer siteverzameling in kwestie en klik vervolgens op delen - van het lint -\> dienen beide opties voor delen zijn ingeschakeld.
+  - Siteverzamelingen-Selecteer siteverzameling in kwestie en klik vervolgens op delen-van het lint-\> zorg ervoor dat beide opties voordelen zijn geselecteerd.
     
-Zie voor meer informatie over het inschakelen van het delen van externe [inschakelen externe delen in- of uitschakelen voor SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Zie [extern delen in-of uitschakelen Voorsharepoint online](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409) voor meer informatie over het inschakelen van extern delen.
   
 

@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665115"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736284"
 ---
 # <a name="enable-an-archive-mailbox"></a>Een postbus archiveren inschakelen
 
-Postbussen archiveren in Office 365 (ook wel *Online archieven*) bieden de gebruikers extra e-opslag. Gebruikers kunnen items verplaatsen of kopiëren naar de archiefmap Postvak en beheerders een archiveringsbeleid die automatisch items archiveren postbussen verplaatst kunt maken.
+Archiveren van postvakken in Office 365 (ook wel *online archieven*genoemd) bieden gebruikers extra e-mail opslag. Gebruikers kunnen items verplaatsen of kopiëren naar hun postbus archiveren en beheerders kunnen een archief beleid maken waarmee items automatisch worden verplaatst naar postvakken archiveren.
   
-Dit is het maken van een postbus archiveren:
+U maakt als volgt een archiefmailbox:
   
 1. Ga naar [https://protection.office.com](https://protection.office.com).
 
-2. Aanmelden bij Office 365 met uw beheerdersaccount.
+2. Meld u aan bij Office 365 met uw beheerdersaccount.
 
-3. Klik in het linkerdeelvenster van de beveiliging &amp; conformiteit, selecteer **Data governance** \> **archief**.
+3. Selecteer in het linkerdeelvenster van de &amp; Security compliance Center, **Data Governance** \> **Archief**.
 
-4. Selecteer de gebruiker wiens archief postvak dat u wilt inschakelen.
+4. Selecteer de gebruiker wiens archief postvak u wilt inschakelen.
 
-5. Selecteer **inschakelen** en vervolgens selecteert u **Ja** in het waarschuwingsbericht inschakelen van de archiefmap Postvak in het detailvenster aan de rechterkant.
+5. Selecteer in het detailvenster aan de rechterkant **inschakelen** en selecteer vervolgens **Ja** in het waarschuwingsbericht om in te schakelen van de postbus archiveren.
 
-U kunt ook bulksgewijs inschakelen postbussen archiveren door meerdere gebruikers (met behulp van de toetsen **Shift** of **Ctrl** ) te selecteren **inschakelen** in het detaildeelvenster.
+U postbussen archiveren ook bulksgewijs inschakelen door meerdere gebruikers te selecteren (met de toetsen **SHIFT** of **CTRL** ) en vervolgens **inschakelen** in het detailvenster te selecteren.
   
 Zie voor meer informatie:
   
-- [Inschakelen, archiveren postvakken in Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Archiveren van postvakken inschakelen in Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Instellen van een beleid voor archiveren en verwijderen in Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Een beleid voor archiveren en verwijderen instellen in Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

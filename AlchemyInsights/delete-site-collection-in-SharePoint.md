@@ -1,6 +1,6 @@
 ---
-title: Een siteverzameling van SharePoint verwijderen
-ms.author: kirks
+title: Een siteverzameling in SharePoint verwijderen
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513102"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748175"
 ---
 # <a name="delete-a-site-collection"></a>Een siteverzameling verwijderen
 
-Wanneer u een globale of SharePoint admin in Office 365, een site (eerder een siteverzameling"" genoemd) verwijderen, verplaatst naar de Prullenbak van de siteverzameling en 93 dagen bewaard. 
+Wanneer u als globale of SharePoint-beheerder in Office 365 een site verwijdert (voorheen een ' siteverzameling ' genoemd), wordt deze verplaatst naar de Prullenbak van de siteverzameling en gedurende 93 dagen bewaard. 
 
-Wanneer u een site verwijdert, wordt alles in het verwijderd met inbegrip van:
+Wanneer u een site verwijdert, wordt alles binnen het verwijderd, inclusief:
 
-- Documentbibliotheken en bestanden.
+- Document bibliotheken en-bestanden.
 - Lijsten en lijstgegevens.
-- Site-instellingen en de geschiedenis.
-- Alle onderliggende sites en hun inhoud.
+- Site-instellingen en geschiedenis.
+- Subsites en de inhoud ervan.
 
-U moet de site beheerders en eigenaren van een subsite waarschuwen voordat u een site verwijdert, zodat ze hun gegevens naar een andere locatie verplaatsen en gebruikers ook informeren wanneer de sites worden verwijderd. 
+U moet de sitebeheerders en eventuele subsite-eigenaren waarschuwen voordat u een site verwijdert, zodat ze hun gegevens naar een andere locatie kunnen verplaatsen en gebruikers ook laten weten wanneer de sites worden verwijderd. 
 
 Zie [een siteverzameling verwijderen](https://docs.microsoft.com/sharepoint/delete-site-collection)voor meer informatie. 

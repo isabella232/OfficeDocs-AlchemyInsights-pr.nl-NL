@@ -1,6 +1,6 @@
 ---
-title: Anonieme delen
-ms.author: kirks
+title: Anoniem delen
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512454"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747815"
 ---
-# <a name="anonymous-sharing"></a>Anonieme delen
+# <a name="anonymous-sharing"></a>Anoniem delen
 
  **Anonieme toegang inschakelen**
   
-In het nieuwe SharePoint admin center, klikt u op **delen** in het linkerdeelvenster. 
+Klik in het nieuwe SharePoint-Beheercentrum op **delen** in het linkerdeelvenster. 
   
-- Selecteer het volgende: **delen geverifieerde externe gebruikers toestaan en anonieme toegang gebruiken.**
+- Selecteer het volgende: **delen toestaan aan geverifieerde externe gebruikers en anonieme toegang gebruiken.**
   
-(Indien gewenst, kunt u instellen koppelingen naar verlopen na een bepaald aantal dagen en selecteer hoe de koppelingen door geadresseerden kunnen gebruiken.)
+(U desgewenst links instellen om te vervallen in een bepaald aantal dagen en selecteren hoe geadresseerden de koppelingen kunnen gebruiken.)
     
- **Anoniem delen van een bestand of map**
+ **Een bestand of map anoniem delen**
   
-- Selecteer het bestand of de map die u wilt delen en klik vervolgens op **delen**. 
+- Selecteer het bestand of de map die u wilt delen en klik op **delen**. 
     
-- Wie wilt u dat deze koppeling werkt voor? Klik op **Iedereen.**
+- Voor wie zou u deze link willen werken? Klik op **iedereen.**
   
- **Opmerking**: **Iedereen** maakt een koppeling die iedereen gebruiken kan voor toegang tot het document of de map, zelfs als ze niet bent aangemeld bij Office 365 of OneDrive. Gebruik deze optie om te delen met iedereen, binnen of buiten uw bedrijf. Deze koppeling kan ook worden doorgestuurd om voor iedereen. 
+ **Opmerking**: **iedereen** maakt een link die iedereen kan gebruiken om toegang te krijgen tot het document of de map, zelfs als ze niet zijn aangemeld bij Office 365 of OneDrive. Gebruik dit om te delen met iedereen, binnen of buiten uw bedrijf. Deze link kan ook worden doorgestuurd naar iedereen. 
     
 
