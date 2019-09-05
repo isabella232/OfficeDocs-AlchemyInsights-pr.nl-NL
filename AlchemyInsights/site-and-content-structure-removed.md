@@ -1,26 +1,26 @@
 ---
-title: Site en inhoud structuur verwijderd
-ms.author: kirks
+title: Site-en inhoudsstructuur verwijderd
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502262"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749471"
 ---
-# <a name="site-and-content-structure-removed"></a><span data-ttu-id="e5504-102">Site en inhoud structuur verwijderd</span><span class="sxs-lookup"><span data-stu-id="e5504-102">Site and content structure removed</span></span>
+# <a name="site-and-content-structure-removed"></a><span data-ttu-id="382f3-102">Site-en inhoudsstructuur verwijderd</span><span class="sxs-lookup"><span data-stu-id="382f3-102">Site and content structure removed</span></span>
 
-<span data-ttu-id="e5504-103">Vanaf oktober 2018, Site-inhoud en structuur pagina wordt niet langer ondersteund of functie-updates ontvangen.</span><span class="sxs-lookup"><span data-stu-id="e5504-103">Starting in October 2018, the Site Content and Structure page will no longer be supported or receive feature updates.</span></span> <span data-ttu-id="e5504-104">De koppeling instellingen op de pagina SiteManager.aspx wordt verwijderd uit SharePoint Online en directe toegang tot maart 2019, op welk moment de pagina Site-inhoud en -structuur wordt volledig ingetrokken zal worden beperkt tot beheerders voor Site-collectie.</span><span class="sxs-lookup"><span data-stu-id="e5504-104">The settings link to the SiteManager.aspx page will be removed from SharePoint Online and direct access will be restricted to Site Collection Admins until March 2019, at which time the Site Content and Structure page will be fully retired.</span></span> 
+<span data-ttu-id="382f3-103">Vanaf oktober 2018 wordt de pagina site-inhoud en-structuur niet meer ondersteund of worden er functie-updates ontvangen.</span><span class="sxs-lookup"><span data-stu-id="382f3-103">Starting in October 2018, the Site Content and Structure page will no longer be supported or receive feature updates.</span></span> <span data-ttu-id="382f3-104">De instellingen koppeling naar de pagina SiteManager. aspx wordt verwijderd uit SharePoint Online en directe toegang wordt beperkt tot site verzamelings beheerders tot maart 2019, op dat moment de site-inhoud en structuur pagina volledig buiten gebruik wordt gesteld.</span><span class="sxs-lookup"><span data-stu-id="382f3-104">The settings link to the SiteManager.aspx page will be removed from SharePoint Online and direct access will be restricted to Site Collection Admins until March 2019, at which time the Site Content and Structure page will be fully retired.</span></span> 
 
-<span data-ttu-id="e5504-105">Opmerking: Als een tijdelijke oplossing totdat u de functie volledig is ingetrokken, beheerders van siteverzamelingen kunt gaat u naar de Office 365 Portal-> Klik op SharePoint naast elkaar - > toevoegen of bewerken van de URL door de ' / Sharepoint.aspx' met ' / Sitemanager.aspx'.</span><span class="sxs-lookup"><span data-stu-id="e5504-105">Note: As a workaround until the feature is fully retired, Site Collection Administrators can navigate to the Office 365 Portal -> click on SharePoint tile -> append or edit the URL by replacing '/Sharepoint.aspx' with '/Sitemanager.aspx'.</span></span> 
+<span data-ttu-id="382f3-105">Opmerking: als tijdelijke oplossing totdat de functie volledig is ingetrokken, beheerders van site verzameling kunnen navigeren naar het Microsoft 365 Admin Center, selecteert u de SharePoint-tegel en toevoegen of bewerken van de URL door te vervangen '/SharePoint.aspx ' met '/sitemanager.aspx '.</span><span class="sxs-lookup"><span data-stu-id="382f3-105">Note: As a workaround until the feature is fully retired, Site Collection Administrators can navigate to the Microsoft 365 admin center, select the SharePoint tile, and append or edit the URL by replacing '/Sharepoint.aspx' with '/Sitemanager.aspx'.</span></span> 
 
 
-<span data-ttu-id="e5504-106">Bestand verplaatsen en kopiëren gebruiken voor het beheren van site-inhoud en -structuur.</span><span class="sxs-lookup"><span data-stu-id="e5504-106">Use File Move and Copy to manage site content and structure.</span></span> <span data-ttu-id="e5504-107">Zie voor meer informatie [kopiëren van bestanden en mappen tussen OneDrive en SharePoint-sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span><span class="sxs-lookup"><span data-stu-id="e5504-107">For more information, see [Copy files and folders between OneDrive and SharePoint sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span></span> 
+<span data-ttu-id="382f3-106">Gebruik bestand verplaatsen en kopiëren om site-inhoud en-structuur te beheren.</span><span class="sxs-lookup"><span data-stu-id="382f3-106">Use File Move and Copy to manage site content and structure.</span></span> <span data-ttu-id="382f3-107">Zie [bestanden en mappen kopiëren tussen OneDrive en SharePoint-sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="382f3-107">For more information, see [Copy files and folders between OneDrive and SharePoint sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span></span> 
 
-<span data-ttu-id="e5504-108">Raadpleeg [werken met site-inhoud en -structuur](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="e5504-108">For more information, please refer to [Work with site content and structure](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span></span>
+<span data-ttu-id="382f3-108">Raadpleeg voor meer informatie [werken met site-inhoud en-structuur](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span><span class="sxs-lookup"><span data-stu-id="382f3-108">For more information, please refer to [Work with site content and structure](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span></span>

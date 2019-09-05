@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online openbare websites worden wordt stopgezet.
-ms.author: kirks
+title: Openbare websites van SharePoint Online worden stopgezet
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 1/2/2019
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 079a63defe8b5e21d84f042ef32231a2e34d1c2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534594"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750299"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="feb05-102">SharePoint Online openbare websites zijn stopgezet.</span><span class="sxs-lookup"><span data-stu-id="feb05-102">SharePoint Online public websites have been discontinued</span></span>
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a><span data-ttu-id="d74da-102">Openbare websites van SharePoint Online zijn niet meer leverbaar</span><span class="sxs-lookup"><span data-stu-id="d74da-102">SharePoint Online public websites have been discontinued</span></span>
 
-<span data-ttu-id="feb05-103">SharePoint Online openbare websites zijn stopgezet.</span><span class="sxs-lookup"><span data-stu-id="feb05-103">SharePoint Online public websites have been discontinued.</span></span>
+<span data-ttu-id="d74da-103">Openbare websites van SharePoint Online zijn stopgezet.</span><span class="sxs-lookup"><span data-stu-id="d74da-103">SharePoint Online public websites have been discontinued.</span></span>
 
-<span data-ttu-id="feb05-104">Als u een openbare SharePoint Online website gemaakt, konden u blijven gebruiken tot en met 31 maart 2018.</span><span class="sxs-lookup"><span data-stu-id="feb05-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="feb05-105">Als u doorgaan met het hebben van een openbare website wilt, moet u een nieuw bestand maken met een nieuwe provider.</span><span class="sxs-lookup"><span data-stu-id="feb05-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="feb05-106">De inhoud van uw SharePoint Online openbare website is verwijderd.</span><span class="sxs-lookup"><span data-stu-id="feb05-106">The content on your SharePoint Online public website has been deleted.</span></span>
+<span data-ttu-id="d74da-104">Als u een openbare SharePoint Online-website hebt gemaakt, u deze blijven gebruiken via 31 maart 2018.</span><span class="sxs-lookup"><span data-stu-id="d74da-104">If you created a SharePoint Online public website, you were able to continue using it thru March 31, 2018.</span></span> <span data-ttu-id="d74da-105">Als u wilt doorgaan met een openbare website, moet u een nieuwe maken met een nieuwe provider.</span><span class="sxs-lookup"><span data-stu-id="d74da-105">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="d74da-106">De inhoud op de openbare website van SharePoint Online is verwijderd.</span><span class="sxs-lookup"><span data-stu-id="d74da-106">The content on your SharePoint Online public website has been deleted.</span></span>
 
-<span data-ttu-id="feb05-107">Zie voor meer info over de beëindiging van de openbare website, [Details over het proces functie stopzetting](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="feb05-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>
+<span data-ttu-id="d74da-107">Zie voor meer informatie over het stoppen van de openbare website [Details over het proces voor het beëindigen van functies](https://go.microsoft.com/fwlink/?linkid=866980).</span><span class="sxs-lookup"><span data-stu-id="d74da-107">For info about the public website discontinuation, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span>

@@ -1,6 +1,6 @@
 ---
-title: Access services pensioen
-ms.author: kirks
+title: Toegang tot pensioendiensten
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495746"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747779"
 ---
-# <a name="access-services-retirement"></a><span data-ttu-id="aba14-102">Access services pensioen</span><span class="sxs-lookup"><span data-stu-id="aba14-102">Access services retirement</span></span>
+# <a name="access-services-retirement"></a><span data-ttu-id="7b567-102">Toegang tot pensioendiensten</span><span class="sxs-lookup"><span data-stu-id="7b567-102">Access services retirement</span></span>
 
-<span data-ttu-id="aba14-103">Zoals oorspronkelijk aangekondigd in MC97576, in maart 2017, en we communiceren in het afgelopen jaar wederom wordt toegang tot Services van Office 365 teruggetrokken.</span><span class="sxs-lookup"><span data-stu-id="aba14-103">As we originally announced in MC97576, in March 2017, and continued to communicate over the past year Access Services are being retired from Office 365.</span></span> <span data-ttu-id="aba14-104">De volgende fase in dit proces is het verwijderen van Databases van Access Web die SharePoint-lijsten als hun onderliggende gegevensopslag gebruiken.</span><span class="sxs-lookup"><span data-stu-id="aba14-104">The next phase in this process will be the removal of Access Web Databases that use SharePoint lists as their underlying data storage.</span></span>
+<span data-ttu-id="7b567-103">Zoals we oorspronkelijk aankondigden in MC97576, in maart 2017, en bleven communiceren over het afgelopen jaar, worden de toegangsdiensten buiten gebruik gesteld van Office 365.</span><span class="sxs-lookup"><span data-stu-id="7b567-103">As we originally announced in MC97576, in March 2017, and continued to communicate over the past year Access Services are being retired from Office 365.</span></span> <span data-ttu-id="7b567-104">De volgende fase in dit proces is het verwijderen van Access Web-databases die gebruikmaken van SharePoint-lijsten als onderliggende gegevensopslag.</span><span class="sxs-lookup"><span data-stu-id="7b567-104">The next phase in this process will be the removal of Access Web Databases that use SharePoint lists as their underlying data storage.</span></span>
 
-<span data-ttu-id="aba14-105">**Wat betekent dit voor mij?**</span><span class="sxs-lookup"><span data-stu-id="aba14-105">**How does this affect me?**</span></span>
+<span data-ttu-id="7b567-105">**Hoe beïnvloedt dit mij?**</span><span class="sxs-lookup"><span data-stu-id="7b567-105">**How does this affect me?**</span></span>
 
-<span data-ttu-id="aba14-106">Begin juni 2019, we stoppen met het maken van een nieuwe Access-databases in SharePoint Online en de service en eventuele resterende apps afsluiten in April 2020.</span><span class="sxs-lookup"><span data-stu-id="aba14-106">Starting June 2019, we will stop creation of new Access databases in SharePoint Online and shut down the service and any remaining apps by April 2020.</span></span>
+<span data-ttu-id="7b567-106">Vanaf juni 2019 zullen we stoppen met het maken van nieuwe Access-databases in SharePoint Online en de service en eventuele resterende apps afsluiten door 2020 april.</span><span class="sxs-lookup"><span data-stu-id="7b567-106">Starting June 2019, we will stop creation of new Access databases in SharePoint Online and shut down the service and any remaining apps by April 2020.</span></span>
 
-<span data-ttu-id="aba14-107">**Wat moet ik doen als voorbereiding op deze wijziging?**</span><span class="sxs-lookup"><span data-stu-id="aba14-107">**What do I need to do to prepare for this change?**</span></span>
+<span data-ttu-id="7b567-107">**Wat moet ik doen om voor te bereiden op deze wijziging?**</span><span class="sxs-lookup"><span data-stu-id="7b567-107">**What do I need to do to prepare for this change?**</span></span>
 
-<span data-ttu-id="aba14-108">We raden u aan een overgang maken voor Access web-databases van de organisatie.</span><span class="sxs-lookup"><span data-stu-id="aba14-108">We encourage you to create a transition plan for your organization’s Access web databases.</span></span> <span data-ttu-id="aba14-109">Beheerders kunt de [toegang tot SharePoint app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) ophalen een inventarisatie van de toegang tot toepassingen die door sites wordt gebruikt.</span><span class="sxs-lookup"><span data-stu-id="aba14-109">Admins can use the [SharePoint Access app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) to obtain an inventory of the Access apps that sites are using.</span></span>
+<span data-ttu-id="7b567-108">We raden u aan een overgangsplan voor de Access-webdatabases van uw organisatie te maken.</span><span class="sxs-lookup"><span data-stu-id="7b567-108">We encourage you to create a transition plan for your organization’s Access web databases.</span></span> <span data-ttu-id="7b567-109">Beheerders kunnen de [SharePoint Access app-scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) gebruiken om een inventaris op te vragen van de Access-apps die sites gebruiken.</span><span class="sxs-lookup"><span data-stu-id="7b567-109">Admins can use the [SharePoint Access app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) to obtain an inventory of the Access apps that sites are using.</span></span>
 
-<span data-ttu-id="aba14-110">Er zijn verschillende manieren om gegevens van Access web databases te migreren:</span><span class="sxs-lookup"><span data-stu-id="aba14-110">There are several ways to migrate Access web databases data:</span></span>
+<span data-ttu-id="7b567-110">Er zijn verschillende manieren om gegevens van Access-webdatabases te migreren:</span><span class="sxs-lookup"><span data-stu-id="7b567-110">There are several ways to migrate Access web databases data:</span></span>
 
-- <span data-ttu-id="aba14-111">Importeren van een lokale Access-database (. ACCDB-bestand) of een Excel-bestand.</span><span class="sxs-lookup"><span data-stu-id="aba14-111">Importing to a local Access database (.ACCDB) or to an Excel file.</span></span>
-- <span data-ttu-id="aba14-112">Ook wordt aangeraden Microsoft PowerApps verkennen als een alternatief platform zonder code zakelijke oplossingen voor web en mobiele apparaten maken.</span><span class="sxs-lookup"><span data-stu-id="aba14-112">We also recommend exploring Microsoft PowerApps as an alternative platform to create no-code business solutions for web and mobile devices.</span></span>
+- <span data-ttu-id="7b567-111">Importeren in een lokale Access-database (. ACCDB) of naar een Excel-bestand.</span><span class="sxs-lookup"><span data-stu-id="7b567-111">Importing to a local Access database (.ACCDB) or to an Excel file.</span></span>
+- <span data-ttu-id="7b567-112">We raden u ook aan Microsoft PowerApps te verkennen als alternatief platform voor het maken van niet-code zakelijke oplossingen voor web-en mobiele apparaten.</span><span class="sxs-lookup"><span data-stu-id="7b567-112">We also recommend exploring Microsoft PowerApps as an alternative platform to create no-code business solutions for web and mobile devices.</span></span>

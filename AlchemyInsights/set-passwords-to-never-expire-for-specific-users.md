@@ -1,5 +1,5 @@
 ---
-title: Instellen van de SPF in Office 365
+title: SPF instellen in Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509103"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744780"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="92665-102">Set wachtwoorden nooit verlopen.</span><span class="sxs-lookup"><span data-stu-id="92665-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="e0040-102">Wachtwoorden instellen op nooit verlopen</span><span class="sxs-lookup"><span data-stu-id="e0040-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="92665-103">Ga naar de **Instellingen**als u wilt instellen dat alle wachtwoorden nooit verlopen in het beheercentrum van Microsoft 365 > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) pagina.</span><span class="sxs-lookup"><span data-stu-id="92665-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="92665-104">Selecteer **bewerken** naast **wachtwoordbeleid**, en de schuifregelaar **aan**.</span><span class="sxs-lookup"><span data-stu-id="92665-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="e0040-103">Als u wilt instellen dat alle wachtwoorden nooit verlopen, gaat u in het Microsoft 365 Admin Center naar de pagina **instellingen** > [beveiliging &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="e0040-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="e0040-104">Selecteer **bewerken** naast **Wachtwoordbeleid**en schakel de schuifregelaar in **op**aan.</span><span class="sxs-lookup"><span data-stu-id="e0040-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="92665-105">Zie voor meer informatie: [stelt het verloopbeleid wachtwoord voor uw organisatie.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="92665-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="e0040-105">Zie voor meer gedetailleerde informatie: [het beleid voor wachtwoord verloop instellen voor uw organisatie.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span><span class="sxs-lookup"><span data-stu-id="e0040-105">For more detailed information see: [Set the password expiration policy for your organization.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span></span>
   
-[<span data-ttu-id="92665-106">Instellen van het wachtwoord nooit verloopt voor specifieke gebruikers</span><span class="sxs-lookup"><span data-stu-id="92665-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="e0040-106">Wachtwoord instellen op nooit verlopen voor specifieke gebruikers</span><span class="sxs-lookup"><span data-stu-id="e0040-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

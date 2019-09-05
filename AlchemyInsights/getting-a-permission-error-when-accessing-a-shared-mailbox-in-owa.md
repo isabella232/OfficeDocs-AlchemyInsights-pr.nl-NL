@@ -1,5 +1,5 @@
 ---
-title: 124 een machtigingsfout ophalen bij de toegang tot een gedeeld postvak in van OWA?
+title: 124 het verkrijgen van een machtigingsfout bij het openen van een gedeelde postbus in OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: af3f4f55332d5332d00fddd3f7d6a3bf60523ada
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523902"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735757"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="97bc7-102">De fout toestemming krijgen wanneer een gedeeld postvak openen in Outlook op het web?</span><span class="sxs-lookup"><span data-stu-id="97bc7-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="d165f-102">Krijgt u een machtigingsfout bij het openen van een gedeelde postbus in Outlook op het web?</span><span class="sxs-lookup"><span data-stu-id="d165f-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
 
-<span data-ttu-id="97bc7-103">Als u het foutbericht **is er iets misgegaan. U hebt geen machtiging voor het openen van deze mailbox.**</span><span class="sxs-lookup"><span data-stu-id="97bc7-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="97bc7-104">Wanneer u een gedeeld postvak openen in Outlook op het web, uw account mogelijk niet gemachtigd voor toegang tot de gedeelde postbus.</span><span class="sxs-lookup"><span data-stu-id="97bc7-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="97bc7-105">De beheerder van uw organisatie kunt uw machtigingen toewijzen aan de gedeelde postbus door de instructies in het onderwerp [een gedeeld postvak maken](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="97bc7-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
+<span data-ttu-id="d165f-103">Als je de fout krijgt er **iets misgegaan. U bent niet gemachtigd om dit postvak te openen.**</span><span class="sxs-lookup"><span data-stu-id="d165f-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="d165f-104">Wanneer u probeert te openen van een gedeelde postbus in Outlook op het web, is uw account mogelijk niet gemachtigd voor toegang tot de gedeelde postbus.</span><span class="sxs-lookup"><span data-stu-id="d165f-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="d165f-105">De beheerder van uw organisatie kan uw accountmachtigingen toewijzen aan het gedeelde Postvak door de instructies in het onderwerp [een gedeeld postvak maken](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)te volgen.</span><span class="sxs-lookup"><span data-stu-id="d165f-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

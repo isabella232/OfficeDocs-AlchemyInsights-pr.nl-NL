@@ -1,5 +1,5 @@
 ---
-title: De hoofdsite is klassiek met een moderne site wisselen
+title: Ruil je klassieke root site met een moderne site
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501074"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749255"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a><span data-ttu-id="2c03e-102">De hoofdsite is klassiek met een moderne site wisselen</span><span class="sxs-lookup"><span data-stu-id="2c03e-102">Swap your Classic root site with a Modern site</span></span>
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a><span data-ttu-id="a56c6-102">Ruil je klassieke root site met een moderne site</span><span class="sxs-lookup"><span data-stu-id="a56c6-102">Swap your Classic root site with a Modern site</span></span>
 
-<span data-ttu-id="2c03e-103">Als uw omgeving vóór April 2019 is ingesteld, kunt u uw hoofdsite met een moderne site met Microsoft PowerShell:</span><span class="sxs-lookup"><span data-stu-id="2c03e-103">If your environment was set up before April 2019, you can change your root site to a modern site by using Microsoft PowerShell:</span></span>
+<span data-ttu-id="a56c6-103">Als uw omgeving is ingesteld vóór 2019 april, u uw hoofdsite wijzigen naar een moderne site met behulp van Microsoft PowerShell:</span><span class="sxs-lookup"><span data-stu-id="a56c6-103">If your environment was set up before April 2019, you can change your root site to a modern site by using Microsoft PowerShell:</span></span>
 
-- <span data-ttu-id="2c03e-104">Als u een andere site die u wilt gebruiken als uw hoofdsite hebt, kunt u (swap) de hoofdmap van de site kunt vervangen door deze.</span><span class="sxs-lookup"><span data-stu-id="2c03e-104">If you have a different site that you want to use as your root site, you can replace (swap) the root site with it.</span></span> 
-    - <span data-ttu-id="2c03e-105">Gebruik [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) te verwisselen van de locatie van een site met een andere site bij het archiveren van de oorspronkelijke site.</span><span class="sxs-lookup"><span data-stu-id="2c03e-105">Use [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) to swap the location of a site with another site while archiving the original site.</span></span> <span data-ttu-id="2c03e-106">Beschikbaar voor zowel Team Site (niet verbonden aan een groep) en communicatie-Site.</span><span class="sxs-lookup"><span data-stu-id="2c03e-106">Available for both Team Site (not connected to a group) and Communication Site.</span></span> 
+- <span data-ttu-id="a56c6-104">Als u een andere site die u wilt gebruiken als uw hoofdsite hebt, u vervangen [(wisselen) de hoofdsite](https://docs.microsoft.com/sharepoint/modern-root-site) met deze.</span><span class="sxs-lookup"><span data-stu-id="a56c6-104">If you have a different site that you want to use as your root site, you can replace [(swap) the root site](https://docs.microsoft.com/sharepoint/modern-root-site) with it.</span></span> 
+    - <span data-ttu-id="a56c6-105">Gebruik [invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) om de locatie van een site met een andere site te wisselen tijdens het archiveren van de oorspronkelijke site.</span><span class="sxs-lookup"><span data-stu-id="a56c6-105">Use [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) to swap the location of a site with another site while archiving the original site.</span></span> <span data-ttu-id="a56c6-106">Beschikbaar voor beide team sites (niet verbonden met een groep) en een communicatiesite.</span><span class="sxs-lookup"><span data-stu-id="a56c6-106">Available for both Team Site (not connected to a group) and Communication Site.</span></span> 
 
-- <span data-ttu-id="2c03e-107">Extra functies geïntroduceerd spoedig waarmee u te houden met de inhoud op de site, maar de bestaande site converteren naar een communicatiesite.</span><span class="sxs-lookup"><span data-stu-id="2c03e-107">Additional capabilities will be introduced soon that will allow you to keep using the content on the site, but convert the existing site to a communication site.</span></span> 
+- <span data-ttu-id="a56c6-107">Er zullen binnenkort extra mogelijkheden worden geïntroduceerd waarmee u de inhoud op de site blijven gebruiken, maar de bestaande site naar een communicatiesite moet converteren.</span><span class="sxs-lookup"><span data-stu-id="a56c6-107">Additional capabilities will be introduced soon that will allow you to keep using the content on the site, but convert the existing site to a communication site.</span></span> 
 >[!Important]
-><span data-ttu-id="2c03e-108">Deze mogelijkheden zullen geleidelijk worden uitgerold.</span><span class="sxs-lookup"><span data-stu-id="2c03e-108">These capabilities will be rolled out gradually.</span></span> <span data-ttu-id="2c03e-109">Houd het berichtencentrum van Office 365 voor updates.</span><span class="sxs-lookup"><span data-stu-id="2c03e-109">Continue to check the Office 365 Message Center for updates.</span></span> 
+><span data-ttu-id="a56c6-108">Deze mogelijkheden zullen geleidelijk worden uitgerold.</span><span class="sxs-lookup"><span data-stu-id="a56c6-108">These capabilities will be rolled out gradually.</span></span> <span data-ttu-id="a56c6-109">Ga door met het controleren van het Office 365-berichtencentrum voor updates.</span><span class="sxs-lookup"><span data-stu-id="a56c6-109">Continue to check the Office 365 Message Center for updates.</span></span> 
 
-## <a name="known-issues-with-swapping-sites"></a><span data-ttu-id="2c03e-110">Bekende problemen bij het wisselen van sites</span><span class="sxs-lookup"><span data-stu-id="2c03e-110">Known issues with swapping sites</span></span>
+## <a name="known-issues-with-swapping-sites"></a><span data-ttu-id="a56c6-110">Bekende problemen met het uitwisselen van sites</span><span class="sxs-lookup"><span data-stu-id="a56c6-110">Known issues with swapping sites</span></span>
 
-- <span data-ttu-id="2c03e-111">De doelsite retourneert gedurende korte tijd een "niet gevonden" (HTTP 404)-fout.</span><span class="sxs-lookup"><span data-stu-id="2c03e-111">The target site may return a "not found" (HTTP 404) error for a short period of time.</span></span>
-- <span data-ttu-id="2c03e-112">Inhoud moet opnieuw worden verkend om het bijwerken van de zoekindex.</span><span class="sxs-lookup"><span data-stu-id="2c03e-112">Content will need to be recrawled to update the search index.</span></span> <span data-ttu-id="2c03e-113">Er is geen handmatige stap vereist - dit wordt automatisch gedaan.</span><span class="sxs-lookup"><span data-stu-id="2c03e-113">There is no manual step required - this will be done automatically.</span></span>
-- <span data-ttu-id="2c03e-114">Alles wat afhankelijk is van een 'static' koppelingen (zoals bestand synchroniseren als OneNote-bestanden) moeten handmatig worden gecorrigeerd.</span><span class="sxs-lookup"><span data-stu-id="2c03e-114">Anything dependent on "static" links (such as File Sync and OneNote files) will need to be manually corrected.</span></span>
-- <span data-ttu-id="2c03e-115">Als de bronsite een organisatie-nieuwssite is, werken de URL.</span><span class="sxs-lookup"><span data-stu-id="2c03e-115">If the source site was an organizational news site, update the URL.</span></span><span data-ttu-id="2c03e-116">Een lijst van alle organisatie-nieuwssites opvragen.</span><span class="sxs-lookup"><span data-stu-id="2c03e-116"> Get a list of all organizational news sites.</span></span>
-- <span data-ttu-id="2c03e-117">Project Server-sites mogelijk moet worden gevalideerd om ervoor te zorgen dat ze nog steeds gekoppeld correct worden.</span><span class="sxs-lookup"><span data-stu-id="2c03e-117">Project Server sites may need to be validated to ensure that they are still associated correctly.</span></span>
+- <span data-ttu-id="a56c6-111">De doelsite kan een fout ' niet gevonden ' (HTTP 404) retourneren voor een korte periode.</span><span class="sxs-lookup"><span data-stu-id="a56c6-111">The target site may return a "not found" (HTTP 404) error for a short period of time.</span></span>
+- <span data-ttu-id="a56c6-112">De inhoud moet opnieuw worden verkend om de zoekindex bij te werken.</span><span class="sxs-lookup"><span data-stu-id="a56c6-112">Content will need to be recrawled to update the search index.</span></span> <span data-ttu-id="a56c6-113">Er is geen handmatige stap vereist-dit wordt automatisch gedaan.</span><span class="sxs-lookup"><span data-stu-id="a56c6-113">There is no manual step required - this will be done automatically.</span></span>
+- <span data-ttu-id="a56c6-114">Alles wat afhankelijk is van ' statische ' koppelingen (zoals bestandssynchronisatie en OneNote-bestanden) moet handmatig worden gecorrigeerd.</span><span class="sxs-lookup"><span data-stu-id="a56c6-114">Anything dependent on "static" links (such as File Sync and OneNote files) will need to be manually corrected.</span></span>
+- <span data-ttu-id="a56c6-115">Als de bronsite een nieuwssite voor de organisatie was, werkt u de URL bij.</span><span class="sxs-lookup"><span data-stu-id="a56c6-115">If the source site was an organizational news site, update the URL.</span></span><span data-ttu-id="a56c6-116">Krijg een lijst van alle organisatorische nieuwssites.</span><span class="sxs-lookup"><span data-stu-id="a56c6-116"> Get a list of all organizational news sites.</span></span>
+- <span data-ttu-id="a56c6-117">Project Server-sites moeten mogelijk worden gevalideerd om ervoor te zorgen dat ze nog steeds correct zijn gekoppeld.</span><span class="sxs-lookup"><span data-stu-id="a56c6-117">Project Server sites may need to be validated to ensure that they are still associated correctly.</span></span>
 
 
 

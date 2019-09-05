@@ -1,5 +1,5 @@
 ---
-title: hulpprogramma voor het exporteren van eDiscovery
+title: eDiscovery export tool
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528258"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736320"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="018e5-102">Kan niet installeren of uitvoeren van het hulpprogramma voor het exporteren van eDiscovery?</span><span class="sxs-lookup"><span data-stu-id="018e5-102">Can't install or run the eDiscovery Export Tool?</span></span>
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="c1416-102">Kan het eDiscovery-export programma niet installeren of uitvoeren?</span><span class="sxs-lookup"><span data-stu-id="c1416-102">Can't install or run the eDiscovery Export Tool?</span></span>
 
-<span data-ttu-id="018e5-103">Als u niet kunt installeren of de Office 365 eDiscovery Tool voor het downloaden van de zoekresultaten exporteren uitvoert, controleert u de volgende zaken:</span><span class="sxs-lookup"><span data-stu-id="018e5-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
+<span data-ttu-id="c1416-103">Als u de Office 365 eDiscovery-export tool niet installeren of uitvoeren om zoekresultaten te downloaden, controleert u de volgende dingen:</span><span class="sxs-lookup"><span data-stu-id="c1416-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
   
-- <span data-ttu-id="018e5-104">De computer voldoet aan de volgende minimumvereisten:</span><span class="sxs-lookup"><span data-stu-id="018e5-104">The computer you're using meets these pre-requisites:</span></span>
+- <span data-ttu-id="c1416-104">De computer die u gebruikt, voldoet aan deze vereisten:</span><span class="sxs-lookup"><span data-stu-id="c1416-104">The computer you're using meets these pre-requisites:</span></span>
 
-  - <span data-ttu-id="018e5-105">32 - of 64-bits versies van Windows 7 en hoger</span><span class="sxs-lookup"><span data-stu-id="018e5-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
+  - <span data-ttu-id="c1416-105">32-of 64-bits versies van Windows 7 en latere versies</span><span class="sxs-lookup"><span data-stu-id="c1416-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
 
-  - <span data-ttu-id="018e5-106">Microsoft .NET Framework 4.7</span><span class="sxs-lookup"><span data-stu-id="018e5-106">Microsoft .NET Framework 4.7</span></span>
+  - <span data-ttu-id="c1416-106">Microsoft .NET Framework 4,7</span><span class="sxs-lookup"><span data-stu-id="c1416-106">Microsoft .NET Framework 4.7</span></span>
 
-  - <span data-ttu-id="018e5-107">Een ondersteunde browser:</span><span class="sxs-lookup"><span data-stu-id="018e5-107">A supported browser:</span></span>
+  - <span data-ttu-id="c1416-107">Een ondersteunde browser:</span><span class="sxs-lookup"><span data-stu-id="c1416-107">A supported browser:</span></span>
 
-  - <span data-ttu-id="018e5-108">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="018e5-108">Microsoft Edge</span></span>
+  - <span data-ttu-id="c1416-108">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="c1416-108">Microsoft Edge</span></span>
 
-    <span data-ttu-id="018e5-109">Of</span><span class="sxs-lookup"><span data-stu-id="018e5-109">Or</span></span>
+    <span data-ttu-id="c1416-109">Of</span><span class="sxs-lookup"><span data-stu-id="c1416-109">Or</span></span>
 
-  - <span data-ttu-id="018e5-110">Internet Explorer 10 en hoger</span><span class="sxs-lookup"><span data-stu-id="018e5-110">Internet Explorer 10 and later versions</span></span>
+  - <span data-ttu-id="c1416-110">Internet Explorer 10 en latere versies</span><span class="sxs-lookup"><span data-stu-id="c1416-110">Internet Explorer 10 and later versions</span></span>
 
-    <span data-ttu-id="018e5-111">Andere browsers, zoals Google Chrome en Mozilla Firefox worden niet ondersteund.</span><span class="sxs-lookup"><span data-stu-id="018e5-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
+    <span data-ttu-id="c1416-111">Andere browsers, zoals Google Chrome en Mozilla Firefox worden niet ondersteund.</span><span class="sxs-lookup"><span data-stu-id="c1416-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
 
-- <span data-ttu-id="018e5-112">Uw organisatie kan verbinding maken met het eindpunt in Azure, namelijk \*\* \*. blob.core.windows.net\*\* (het jokerteken staat voor een unieke id voor de taak voor het exporteren).</span><span class="sxs-lookup"><span data-stu-id="018e5-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
+- <span data-ttu-id="c1416-112">Uw organisatie kan verbinding maken met het eindpunt in azure, dit is \*\* \*. blob.core.Windows.net\*\* (het jokerteken vertegenwoordigt een unieke id voor uw exporttaak).</span><span class="sxs-lookup"><span data-stu-id="c1416-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
 
-- <span data-ttu-id="018e5-113">Krijgt u de functie exporteren in de Office 365-beveiliging &amp; conformiteit.</span><span class="sxs-lookup"><span data-stu-id="018e5-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="018e5-114">Deze functie is standaard alleen toegewezen aan de rolgroep eDiscovery Manager.</span><span class="sxs-lookup"><span data-stu-id="018e5-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="018e5-115">Zie [eDiscovery machtigingen toe te wijzen](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).</span><span class="sxs-lookup"><span data-stu-id="018e5-115">See [Assign eDiscovery permissions](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).</span></span>
+- <span data-ttu-id="c1416-113">U hebt de rol exporteren in het Office 365 Security &amp; compliance Center toegewezen.</span><span class="sxs-lookup"><span data-stu-id="c1416-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="c1416-114">Deze rol is standaard alleen toegewezen aan de rol groep eDiscovery Manager.</span><span class="sxs-lookup"><span data-stu-id="c1416-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="c1416-115">Zie [eDiscovery-machtigingen toewijzen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span><span class="sxs-lookup"><span data-stu-id="c1416-115">See [Assign eDiscovery permissions](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span></span>
 
-<span data-ttu-id="018e5-116">Zie [Inhoud zoekresultaten exporteren](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="018e5-116">For more information, see [Export Content Search results](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).</span></span>
+<span data-ttu-id="c1416-116">Zie [Zoekresultaten voor inhoud exporteren](https://docs.microsoft.com/office365/securitycompliance/export-search-results)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="c1416-116">For more information, see [Export Content Search results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
   
