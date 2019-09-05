@@ -1,33 +1,33 @@
 ---
-title: De profielfoto van een gebruiker worden gesynchroniseerd
-ms.author: kirks
+title: De profielfoto van een gebruiker synchroniseren
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d2a3d08a6ee20cd4f62457b5365449fc5781606
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521850"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753833"
 ---
-# <a name="sync-a-users-profile-picture"></a>De profielfoto van een gebruiker worden gesynchroniseerd
+# <a name="sync-a-users-profile-picture"></a>De profielfoto van een gebruiker synchroniseren
 
-U kunt toevoegen of wijzigen van uw profielfoto in Office 365 op [Office.com](http://www.office.com)of tijdens het gebruik van Office 365-toepassingen op uw computer of in een browser op uw telefoon. Uw foto verschijnt dat overal er is een profiel foto cirkel in Office 365.
+U uw profielfoto toevoegen aan of wijzigen in Office 365 vanaf [Office.com](http://www.office.com)of tijdens het gebruik van Office 365-toepassingen op uw computer of in een browser op uw telefoon. Uw foto wordt overal weergegeven er is een profielfoto cirkel in Office 365.
 
 Uw profielfoto toevoegen aan Office 365 voor bedrijven
 
-- Een foto die u wilt gebruiken en sla deze op uw computer, OneDrive of een andere locatie die u om te krijgen kunt zoeken
+- Zoek een foto die u wilt gebruiken en bewaar deze op uw computer, OneDrive of een andere locatie die u krijgen
 
-- Aanmelden bij Office 365 met uw werk of school-account op [office.com](http://www.office.com).
+- Meld u aan bij Office 365 met uw werk-of schoolaccount op [Office.com](http://www.office.com).
 
-- Selecteer de cirkel in de rechterbovenhoek van de pagina met uw initialen of een pictogram van een persoon.
+- Selecteer de cirkel in de rechterbovenhoek van de pagina die uw initialen of een pictogram van een persoon weergeeft.
 
-- In het deelvenster met mijn accounts de cirkel waarin uw initialen of een pictogram van een persoon te selecteren. Uw foto in het pop-upmenu dat wordt weergegeven te wijzigen.
+- Selecteer in het deelvenster mijn accounts de cirkel waarin uw initialen of een pictogram van een persoon worden weergegeven. Verander je foto in de pop-up die verschijnt.
 
-Opmerking: Als u al een afbeelding hebt geüpload u misschien wilt proberen te klikken op de SharePoint- of OneDrive tegel om de afbeelding opnieuw te synchroniseren.
+Opmerking: als u al een afbeelding hebt geüpload, u proberen te klikken op de tegel SharePoint of OneDrive om die afbeelding opnieuw te synchroniseren.
 
-Ga naar [informatie over synchronisatie van de profiel afbeelding in Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)voor meer informatie.
+Voor meer informatie gaat u naar [informatie over synchronisatie van profielfoto's in Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

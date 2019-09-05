@@ -1,5 +1,5 @@
 ---
-title: Netwerkverbinding verbroken
+title: Verbinding met toegewezen station verbroken
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496826"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734844"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePoint-bibliotheken die zijn toegewezen aan netwerkstations worden verbroken.
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePoint-bibliotheken die zijn toegewezen aan netwerkstations, worden verbroken
 
-Een SharePoint-documentbibliotheek toewijzen aan een netwerkstation is tijdelijk. Soms moet u de SharePoint-site openen in Internet Explorer en selecteer **aangemeld blijven** om te voorkomen dat de sessie verloopt. 
+Het toewijzen van een SharePoint-documentbibliotheek aan een netwerkstation is tijdelijk. U moet de SharePoint-site in Internet Explorer af en toe openen en **aangemeld blijven** selecteren om te voorkomen dat de sessie verloopt. 
   
-[Hulp bij het configureren en het oplossen van de toegewezen netwerkstations](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Hulp bij het configureren en oplossen van problemen met toegewezen netwerkstations](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Werken met een bibliotheek in File Explorer, [SharePoint-bestanden met de nieuwe OneDrive sync client synchroniseren](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) met [Bestanden op aanvraag](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Toegang tot alle bestanden in OneDrive zonder lokale opslagruimte.
+Als u met een bibliotheek in Verkenner wilt werken, [synchroniseert u SharePoint-bestanden met de nieuwe OneDrive-synchronisatieclient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) die [bestanden op aanvraag](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)bevat. Toegang tot al uw bestanden in OneDrive zonder gebruik te maken van lokale opslagruimte.
   
 

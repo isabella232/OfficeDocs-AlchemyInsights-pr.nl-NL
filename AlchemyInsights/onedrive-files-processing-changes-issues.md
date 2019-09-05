@@ -1,21 +1,21 @@
 ---
-title: 'OneDrive: Er ontbreken bestanden of mappen'
-ms.author: kirks
+title: 'OneDrive: ontbrekende bestanden of mappen'
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: d111986696ba0977deed4309d267e3775916162b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c38d323bd021ded8eccb3f12a46c9d04a3bcd13
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521418"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753323"
 ---
-# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: 'Wijzigingen verwerken' oplossen
+# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: problemen met ' verwerking van wijzigingen ' oplossen
 
-Als "verwerking" voor gewijzigd langere tijd, kan het zijn dat u een on line bestand geopend hebt, raadpleegt veel vastzitten in een wachtrij of een heel groot bestand synchroniseren bestanden u [OneDrive vast op verwerking](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
+Als u ' wijzigingen verwerken ' voor een langere periode ziet, kan het zijn omdat u een online bestand geopend hebt, veel bestanden in een wachtrij, of een zeer grote bestandssynchronisatie, Zie [OneDrive geplakt op verwerking](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
 
-Lees dit artikel voor het oplossen van "Wijzigingen in behandeling." Ook ziet u dit bericht als u een bestand dat u de tijd (zoals een in Outlook wijzigt. PST-bestand of database). Meer informatie over het [verplaatsen van uw Outlook-gegevensbestanden](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) die u regelmatig van OneDrive gebruikt.
+Lees dit artikel voor het oplossen van ' wijzigingen verwerken '. U ziet dit bericht ook als u een bestand hebt dat de hele tijd verandert (zoals Outlook. PST-bestand of een database). Informatie over het [verplaatsen van uw Outlook-gegevensbestanden](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) die u regelmatig uit OneDrive gebruikt.

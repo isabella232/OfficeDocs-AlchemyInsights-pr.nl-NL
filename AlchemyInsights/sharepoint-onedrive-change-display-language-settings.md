@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online of OneDrive u instelt
-ms.author: kirks
+title: SharePoint Online of OneDrive ' instellen '
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 9b73688dc536c6e95e70071cc456cbaae4fbf50b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 22e2a6d4a86f7ee2ceecdab874c1daf865959090
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503252"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751091"
 ---
-# <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>Weergave taal-instellingen wijzigen in SharePoint of OneDrive 
+# <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>Instellingen voor de weergavetaal wijzigen in SharePoint of OneDrive 
 
-U bent niet kunnen wijzigen van de standaardinstellingen voor de taal voor de SharePoint- of OneDrive omdat deze instellingen zijn gedefinieerd bij het maken van uw abonnement op Office 365. U kunt echter de taalinstellingen van uw beeldscherm wijzigen.
+U de standaardtaal instellingen voorsharepoint of OneDrive niet wijzigen omdat deze instellingen zijn gedefinieerd toen u uw abonnement op Office 365 maakte. U de instellingen voor de weergavetaal echter wijzigen.
 
-Zie uw persoonlijke instellingen wijzigen, [uw persoonlijke taal en regio-instellingen wijzigen](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
+Als u uw persoonlijke instellingen wilt wijzigen, raadpleegt u [uw persoonlijke taal-en regio-instellingen wijzigen](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
 
-Zie de gebruikersinterface van de site wijzigen, [Kies de talen die u beschikbaar wilt maken voor de gebruikersinterface van de site](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
+Als u de gebruikersinterface van de site wilt wijzigen, raadpleegt [u de talen kiezen die u beschikbaar wilt maken voor de gebruikersinterface van een site](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
 
-Zie [u kunt de standaardtaal voor een siteverzameling van SharePoint Online niet wijzigen](https://support.office.com/article/you-can-t-change-the-default-language-for-a-sharepoint-online-site-collection-40dda07e-6b41-49e9-9828-8805dcb92964)voor meer informatie over het oplossen van de taalinstellingen.
+Zie voor meer informatie over het oplossen van taalinstellingen, [u de standaardtaal voor een siteverzameling van SharePoint Online niet wijzigen](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection).
 

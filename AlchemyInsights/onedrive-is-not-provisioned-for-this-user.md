@@ -1,6 +1,6 @@
 ---
 title: OneDrive is niet ingericht voor deze gebruiker
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a059c1d743b7b1c1ba19025a81049c6a8363bcde
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543627"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753359"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive is niet ingericht voor deze gebruiker
 
-Voor nieuwe accounts moeten gebruikers zich aanmelden bij de Office 365 portal met hun eigen account en OneDrive handmatig wilt starten de bepaling van de OneDrive-site op.
+Voor nieuw gemaakte accounts, moeten gebruikers zich aanmelden bij de Microsoft 365 Admin Center met hun eigen account en klik op OneDrive om handmatig de levering van de OneDrive-site te starten.
   
-Echter, als de gebruiker OneDrive al heeft geklikt en hun persoonlijke site niet binnen 24 uur ingericht is, meld een ticket support voor verdere ondersteuning.
+Als de gebruiker echter al op OneDrive heeft geklikt en zijn persoonlijke site niet binnen 24 uur is ingericht, logt u een ondersteuningsticket in voor verdere ondersteuning.
   
 
