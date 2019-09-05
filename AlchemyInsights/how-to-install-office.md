@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 5a200db8ea5dcfc4a1da0c984f299028ebc3b0f6
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663861"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735456"
 ---
 # <a name="how-to-install-office"></a>Office installeren
 
@@ -25,7 +25,7 @@ Als u de Office-clientapps wilt installeren, hebt u een zakelijk abonnement nodi
   
 *Opmerking: [Office voor Thuisgebruik en Zelfstandigen](https://products.office.com/home-and-business) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en geen onderdeel van een zakelijk abonnement. Zie [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) of [Project installeren](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281) voor specifieke instructies voor Visio of Project*.
 
-Maak de gebruikersaccounts en voeg uw domein toe. Zorg ervoor dat de gebruiker een [toegewezen licentie](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA) heeft.
+Maak de gebruikersaccounts en voeg uw domein toe. Zorg ervoor dat de gebruiker een [toegewezen licentie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) heeft.
 
 Zorg dat elke gebruiker:
 

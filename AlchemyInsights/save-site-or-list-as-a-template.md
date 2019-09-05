@@ -1,46 +1,46 @@
 ---
-title: Site of lijst opslaan als een sjabloon
-ms.author: kirks
+title: Site of lijst opslaan als sjabloon
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551626"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752027"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Site of lijst opslaan als een sjabloon
+# <a name="save-site-or-list-as-a-template"></a>Site of lijst opslaan als sjabloon
 
-SharePoint-sitesjablonen zijn vooraf gedefinieerde definities ontworpen rond een bepaalde zakelijke behoefte. Zie [werken met sjablonen voor verschillende typen SharePoint-sites maken](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)voor meer informatie.
+SharePoint-sitesjablonen zijn vooraf gedefinieerde definities die zijn ontworpen rond een bepaalde zakelijke behoefte. Zie [sjablonen gebruiken om verschillende soorten SharePoint-sites te maken](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)voor meer informatie.
 
-Hier vindt u enkele algemene problemen/oplossingen met betrekking tot het opslaan van een Site of lijst als sjabloon in SharePoint Online.
+Hier volgen enkele veelvoorkomende problemen/oplossingen met betrekking tot het opslaan van een site of lijst als een sjabloon in SharePoint Online.
 
-**Opslaan/sitelijst sjabloonknop is niet beschikbaar of ontbreekt**. 
+De **knop site/lijstsjabloon opslaan is niet beschikbaar of ontbreekt**. 
 
-- Aangepast Script dat moet beheerders waarmee de sjabloonfuncties. Zie voor gedetailleerde stappen, voorbeelden en overwegingen [toestaan of voorkomen van aangepast script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- De site opslaan als sjabloon, opdracht wordt niet ondersteund en kan problemen veroorzaken op sites die gebruikmaken van de SharePoint Server Publishing infrastructuur.
+- Beheerders moeten het aangepaste script toestaan om de sjabloonfuncties in te schakelen. Zie voor gedetailleerde stappen, voorbeelden en overwegingen [toestaan of voorkomen dat aangepast script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
 
-**De sitesjabloon kan niet worden gemaakt of niet goed werkt**
-
-- De sjabloon een [onderdeel](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ontbreekt en won't activeren. Als de functie niet beschikbaar in de huidige siteverzameling activeren is, kunt u de sjabloon niet gebruiken om een site te maken.
+- De opdracht site opslaan als sjabloon wordt niet ondersteund en kan problemen veroorzaken op sites die gebruikmaken van de SharePoint Server Publishing-infrastructuur.
 
 
-- Controleer als lijsten of bibliotheken meer dan de [Drempelwaarde voor lijstweergave limiet](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) van 5000 artikelen als dit het maken van een sitesjabloon kunt blokkeren.
+**De sitesjabloon kan niet worden gemaakt of werkt niet correct**
+
+- De sjabloon ontbreekt mogelijk een [functie](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) en wordt niet geactiveerd. Als de functie niet beschikbaar is om te activeren in de huidige siteverzameling, u de sitesjabloon niet gebruiken om een site te maken.
 
 
-- De site mogelijk te veel bronnen gebruikt en daarom de sitesjabloon bevat meer dan 50 megabyte (MB).
+- Controleer of er lijsten of bibliotheken zijn die de [limiet drempel voor lijstweergave](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) van 5000 items overschrijden, omdat hierdoor het maken van een sitesjabloon kan worden geblokkeerd.
 
 
-- Er zijn problemen bij het weergeven van gegevens uit een lijst die een opzoekkolom gebruikt. Zie voor meer informatie de [lijst sjabloon gegenereerde gegevens in de juiste opzoeklijst in SharePoint Online niet wordt weergegeven](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- De site gebruikt mogelijk te veel bronnen en daarom overschrijdt de sitesjabloon de limiet van 50 megabyte (MB).
 
 
-Neem voor meer informatie over bekende problemen en oplossingen verwijzing, [sitesjablonen maken en gebruiken](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- Er zijn problemen met het weergeven van gegevens uit een lijst die gebruikmaakt van een opzoekkolom. Zie voor meer informatie, [sjabloon gegenereerde lijstgegevens uit de juiste opzoeklijst in SharePoint Online niet weergegeven](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+Voor meer gedetailleerde informatie over veelvoorkomende problemen en oplossingen raadpleegt u [sitesjablonen maken en gebruiken](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

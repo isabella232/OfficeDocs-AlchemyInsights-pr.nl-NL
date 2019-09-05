@@ -1,6 +1,6 @@
 ---
-title: Delen van OSE fouten in SharePoint en OneDrive
-ms.author: kirks
+title: OSE delen van fouten in SharePoint en OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543128"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752963"
 ---
-# <a name="ose-sharing-errors"></a>Delen van OSE-fouten
+# <a name="ose-sharing-errors"></a>OSE delen fouten
 
-Het artikel heeft betrekking op de verschillende fouten die u tegenkomen kunt bij het delen van bestanden of mappen van SharePoint Online of OneDrive voor bedrijven in Office 365. U moet een globale of SharePoint-beheerder in uw organisatie deze fouten te herstellen. Als u geen beheerder bent, neem contact op met de helpdesk en geeft u de foutcode.
+Het artikel behandelt de verschillende fouten die kunnen optreden bij het delen van bestanden of mappen van SharePoint Online of OneDrive voor bedrijven in Office 365. U moet een globale of SharePoint-beheerder in uw organisatie zijn om deze fouten te verhelpen. Als u geen beheerder bent, neem dan contact op met uw helpdesk en geef ze uw foutcode.
 
-Zie voor meer informatie over foutcodes OSE [delen fouten in SharePoint en OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Zie [fouten delen in SharePoint en OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)voor meer informatie over ose-foutcodes.

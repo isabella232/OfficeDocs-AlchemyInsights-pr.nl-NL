@@ -1,22 +1,22 @@
 ---
-title: Desktop app voor SharePoint
-ms.author: kirks
+title: Desktopapp voorsharepoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 036efbec52fecefe709bf8e50372adf380933a7f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504170"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751631"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Desktop app voor SharePoint
+# <a name="desktop-app-for-sharepoint"></a>Desktopapp voorsharepoint
 
-Uw organisatie wordt ingevoerd in het particuliere Preview program voor de Desktop App voor SharePoint.
+Uw organisatie wordt ingevoerd in het private preview-programma voor de Desktopapp voorsharepoint.
 
-Microsoft ondersteunt momenteel geen de Desktop App voor SharePoint (persoonlijke voorbeeld). Gebruik uw aangemelde Preview Microsoft particuliere partners voor hulp bij de Desktop App voor SharePoint.
+Microsoft biedt momenteel geen ondersteuning voor de Desktopapp voorsharepoint (private preview). Gebruik uw opgenomen Microsoft Private preview-partners om hulp te krijgen bij de Desktopapp voorsharepoint.
 

@@ -1,5 +1,5 @@
 ---
-title: Installatie loopt vast of er niet verder komt dan
+title: De installatie loopt vast of komt vast te zitten
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498626"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735420"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Installatie van Office vastloopt of niet verder komt dan
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office-installatie loopt vast of wordt vastgelopen
 
-U ziet dit probleem door de verbinding met het netwerk, de antivirussoftware of de Windows Update-instellingen op uw computer. Hier volgen enkele dingen die u proberen kunt het probleem op te lossen.
+Mogelijk ziet u dit gedrag als gevolg van netwerkverbinding, antivirussoftware of Windows Update-instellingen op uw computer. Hier zijn enkele dingen die u proberen om het probleem op te lossen.
   
-- De computer opnieuw opstarten en controleren of Office is geïnstalleerd
+- Start de computer opnieuw op en controleer of Office is geïnstalleerd
 
-- Gebruik een bekabelde verbinding
+- Een bekabelde verbinding gebruiken
 
-- Als u op een langzame internetverbinding, [met behulp van de Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) van Office installeren[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Als u een trage internetverbinding hebt, installeert u Office [met het Office offline-installatieprogramma](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
 - Antivirussoftware tijdelijk uitschakelen
 
-- On line herstelprocedure uitvoert vanuit het Configuratiescherm
+- Online reparatie uitvoeren vanuit het Configuratiescherm
 
-- Verwijderen en opnieuw installeren van Office
+- Office verwijderen en opnieuw installeren
 
-[Office duurt installeren lang](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office duurt lang om te installeren](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

@@ -1,5 +1,5 @@
 ---
-title: Migratie van netwerk
+title: Netwerk migratie
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538451"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734700"
 ---
-# <a name="network-migration"></a>Migratie van netwerk
+# <a name="network-migration"></a>Netwerk migratie
 
-De huurder O365 is mogelijk gekoppeld aan meerdere Yammer-netwerken in een huurder 1: veel configuratie van netwerken. Vanaf 16 oktober 2018, ondersteunt Yammer niet langer meerdere Yammer-netwerken die zijn gekoppeld aan een huurder voor Office 365. U kunt een netwerk migratie naar een voorkeur 1:1-configuratie uitvoeren.
+Uw O365-Tenant is mogelijk gekoppeld aan meerdere Yammer-netwerken in een 1-Tenant: veel netwerken configuratie. Vanaf 16 oktober 2018 ondersteunt Yammer niet langer meerdere Yammer-netwerken die zijn gekoppeld aan één Office 365-Tenant. U een netwerk migratie uitvoeren om naar de gewenste 1:1-configuratie te gaan.
   
-- Een overzicht van de netwerken die zijn gekoppeld aan uw huurder aanmelden bij Yammer als Office 365 globale beheerder en Ga naar **Netwerk Admin**, vervolgens **Netwerk migratie**. Kies **Volgende**.
+- Als u een lijst wilt weergeven van de netwerken die aan uw Tenant zijn gekoppeld, meldt u zich aan bij Yammer als een globale beheerder van Office 365 en bladert u naar **netwerkbeheer**en vervolgens naar **netwerk migratie**. Kies **Volgende**.
 
-- Als er meerdere netwerken die worden vermeld in stap 2 van 3, hebt u meerdere Yammer-netwerken die zijn gekoppeld aan uw huurder O365.
+- Als u meerdere netwerken die worden vermeld op stap 2 van 3 ziet, hebt u meerdere Yammer-netwerken die zijn gekoppeld aan uw O365 huurder.
 
-- U kunt de configuratie in de configuratie van een 1:1, doorgaan met het migratieprogramma van netwerk.
+- Ga door met het hulpprogramma voor netwerk migratie om de configuratie te corrigeren naar een 1:1-configuratie.
 
-- Zie voor meer informatie over het migreren van netwerk [netwerk migratie: samenvoegen van meerdere netwerken met Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Voor meer informatie over netwerk migratie raadpleegt u [netwerk migratie: Consolideer meerdere Yammer-netwerken](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Let op:
+Let:
   
-- **Hiermee wordt de migratie van een netwerk alleen de actieve en in afwachting van gebruikers.** De gebruikers informatie, zoals een afbeelding, naam en het profiel, wordt samen met de actieve gebruikers ook gemigreerd. Alle netwerkinhoud, met inbegrip van groepen, niet gemigreerd.
+- **Met een netwerk migratie worden alleen de actieve en in behandeling zijnde gebruikers gemigreerd.** Samen met de actieve gebruikers worden de gegevens van de gebruikers, zoals de naam en de profielfoto, ook gemigreerd. Alle netwerk inhoud, inclusief groepen, wordt niet gemigreerd.
 
-- **Netwerk-migreren kan niet ongedaan worden gemaakt.** Niet mogelijk toegang te krijgen tot het netwerk van dochterondernemingen en de inhoud na de migratie. Voordat u een migratie, wilt u dus een zorgvuldige planning.
+- **Netwerk migratie kan niet ongedaan worden gemaakt.** Na de migratie hebt u geen toegang meer tot het netwerk van uw dochteronderneming en de inhoud ervan. Dus voordat u een migratie overweegt, wilt u zorgvuldig plannen.
