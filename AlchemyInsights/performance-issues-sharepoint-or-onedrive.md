@@ -1,6 +1,6 @@
 ---
 title: Prestatieproblemen-SharePoint of OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666727"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752711"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="968d2-102">SharePoint of OneDrive traag, ontoegankelijk of niet beschikbaar voor meerdere gebruikers</span><span class="sxs-lookup"><span data-stu-id="968d2-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="8ae0b-102">SharePoint of OneDrive traag, ontoegankelijk of niet beschikbaar voor meerdere gebruikers</span><span class="sxs-lookup"><span data-stu-id="8ae0b-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
 
-<span data-ttu-id="968d2-103">SharePoint of OneDrive is mogelijk traag, ontoegankelijk of niet beschikbaar om verschillende redenen:</span><span class="sxs-lookup"><span data-stu-id="968d2-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
+<span data-ttu-id="8ae0b-103">SharePoint of OneDrive is mogelijk traag, ontoegankelijk of niet beschikbaar om verschillende redenen:</span><span class="sxs-lookup"><span data-stu-id="8ae0b-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
   
-- <span data-ttu-id="968d2-104">Als uw SharePoint-of OneDrive-site traag of vertraagd is voor meerdere gebruikers, is er mogelijk een tijdelijk serviceprobleem waarbij gebruikers onregelmatige vertragingen of Navigatiefouten ondervinden bij het openen van SharePoint-sites of OneDrive-inhoud.</span><span class="sxs-lookup"><span data-stu-id="968d2-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="968d2-105">Controleer de [service status dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of uw organisatie wordt beïnvloed.</span><span class="sxs-lookup"><span data-stu-id="968d2-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+- <span data-ttu-id="8ae0b-104">Als uw SharePoint-of OneDrive-site traag of vertraagd is voor meerdere gebruikers, is er mogelijk een tijdelijk serviceprobleem waarbij gebruikers onregelmatige vertragingen of Navigatiefouten ondervinden bij het openen van SharePoint-sites of OneDrive-inhoud.</span><span class="sxs-lookup"><span data-stu-id="8ae0b-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="8ae0b-105">Controleer de [service status dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of uw organisatie wordt beïnvloed.</span><span class="sxs-lookup"><span data-stu-id="8ae0b-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
   
-- <span data-ttu-id="968d2-106">Als u trage prestaties met een **klassieke** SharePoint-site of pagina ondervindt, maakt u gebruik van de [pagina diagnostisch hulpprogramma](https://aka.ms/perftool) voor het analyseren van de pagina's.</span><span class="sxs-lookup"><span data-stu-id="968d2-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
+- <span data-ttu-id="8ae0b-106">Als u trage prestaties met een **klassieke** SharePoint-site of pagina ondervindt, maakt u gebruik van de [pagina diagnostisch hulpprogramma](https://aka.ms/perftool) voor het analyseren van de pagina's.</span><span class="sxs-lookup"><span data-stu-id="8ae0b-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
   
-- <span data-ttu-id="968d2-107">Als u nog steeds algemene trage prestaties ondervindt, raadpleegt u de resources aan de onderkant van dit artikel: [Inleiding tot prestatieafstemming Voorsharepoint online](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="968d2-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
+- <span data-ttu-id="8ae0b-107">Als u nog steeds algemene trage prestaties ondervindt, raadpleegt u de resources aan de onderkant van dit artikel: [Inleiding tot prestatieafstemming Voorsharepoint online](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="8ae0b-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
   
