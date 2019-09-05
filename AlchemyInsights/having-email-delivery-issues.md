@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7aefc3606bd81d5ce8b9cf9443e3c5deaade11ac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523398"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735748"
 ---
 # <a name="having-email-delivery-issues"></a>Hebt u problemen met het bezorgen van e-mail?
 
@@ -21,10 +21,8 @@ We hebben ontdekt dat uw gebruikers geen e-mails kunnen ontvangen die naar de vo
   
 {HealthCheckString}
   
-De NS- of MX-records van de DNS-instellingen zijn niet correct geconfigureerd voor het bezorgen van e-mail naar uw Office 365-service. Zie [DNS-records bijwerken in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) voor uitgebreide instructies. 
+De NS- of MX-records van de DNS-instellingen zijn niet correct geconfigureerd voor het bezorgen van e-mail naar uw Office 365-service. Gedetailleerde instructies vindt u in [DNS-records maken bij een DNS-hostingprovider voor Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
 Om dit op te lossen, gaat u naar de pagina [Domeinen](https://admin.microsoft.com/adminportal/home#/Domains) in het beheercentrum van Microsoft 365 en wij helpen u hiermee. 
-  
-Zie [Veelgestelde vragen over domeinen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) voor andere veelgebruikte oplossingen. 
-  
+
 
