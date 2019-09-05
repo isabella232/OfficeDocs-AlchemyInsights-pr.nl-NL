@@ -1,5 +1,5 @@
 ---
-title: Terugzetten van verwijderde gebruiker
+title: Herstel verwijderde gebruiker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551806"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745068"
 ---
 # <a name="restore-a-user-in-office-365"></a>Een gebruiker herstellen in Office 365
 
-Herstellen van een gebruiker in Office 365 met behulp van de volgende stappen uit:
+Herstel een gebruiker in Office 365 met behulp van deze stappen:
   
-1. Ga naar [gebruikers \> gebruikers verwijderd](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Ga naar [gebruikers \> verwijderde](https://admin.microsoft.com/adminportal/home#/deletedusers)gebruikers.
 
-2. De gebruiker kiezen en selecteer vervolgens **herstellen**.
+2. Kies de gebruiker en selecteer vervolgens **herstellen**.
 
 3. Volg de aanwijzingen voor het instellen van uw wachtwoord.
 
-4. Klik op **e-mail verzenden en sluiten**, en u bent klaar!
+4. Klik op **E-mail verzenden en sluiten**, en je bent klaar!
 
-Is niet eenvoudig? Bekijk dit artikel voor meer informatie en stappen met schermopnamen: [herstellen van een gebruiker in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Als u in plaats daarvan moet u de postbus van gebruiker herstellen beseft, Zie: [verwijderen of terugzetten postbussen van gebruikers met Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Was dat niet zo makkelijk? Voor meer informatie en stappen met schermopnamen, Bekijk dit artikel: [een gebruiker herstellen in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Als u zich realiseert dat u in plaats daarvan het postvak van de gebruiker moet herstellen, raadpleegt u: [verwijderen of herstellen van gebruikers postvakken in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
