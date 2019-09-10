@@ -1,5 +1,5 @@
 ---
-title: 1800029 verbonden accounts worden niet ondersteund in Outlook op het web
+title: 1800029 verbonden accounts die niet worden ondersteund in Outlook op het web
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504758"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821797"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Verbonden accounts worden niet langer ondersteund.
+# <a name="connected-accounts-are-no-longer-supported"></a>Verbonden accounts worden niet meer ondersteund
 
-Microsoft heeft de mogelijkheid om het toevoegen van nieuwe accounts met Outlook op het web met behulp van de functie verbonden accounts op 15 September 2018 verwijderd en wordt niet meer synchroniseren van bestaande accounts op 30 oktober 2018 die vóór 15 September 2018 zijn verbonden. Op 15 November de optie verbonden accounts ( **Instellingen** \> **e** \> **Accounts**) worden verwijderd uit Outlook op het web.Zie voor meer informatie, [verbonden accounts wordt niet langer ondersteund in Outlook op het web (Office 365 voor zakelijke accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft heeft de mogelijkheid om nieuwe accounts toevoegen aan Outlook op het web met behulp van de functie verbonden accounts op 15 september 2018 verwijderd en zal stoppen met het synchroniseren van bestaande accounts op 30 oktober 2018 die zijn verbonden vóór 15 september 2018. Op 15 november wordt de optie verbonden accounts ( **instellingen** \> **e-mail** \> **accounts**) verwijderd uit Outlook op het web.Zie voor meer informatie, [verbonden accounts wordt niet meer ondersteund in Outlook op het web (Office 365 voor zakelijke accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Om door te gaan met het bekijken van e-mail van andere accounts: u kunt nog steeds e-mail doorsturen van die accounts met Outlook op het web. Zie voor meer informatie:
+Doorgaan met het zien van e-mail van andere accounts: u nog steeds e-mail van die accounts doorsturen naar Outlook op het web. Zie voor meer informatie:
   
-[In-of uitschakelen automatisch doorsturen in Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Automatisch doorsturen in-of uitschakelen in Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Gmail-berichten naar een andere account automatisch doorsturen](https://support.google.com/mail/answer/10957?hl=en)
+[Gmail-berichten automatisch doorsturen naar een ander account](https://aka.ms/forward-gmail-messages)
   
-[Automatische e-mail doorsturen in Yahoo mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Automatische e-mail forwarding in Yahoo mail](https://aka.ms/yahoo-email-forwarding)
   

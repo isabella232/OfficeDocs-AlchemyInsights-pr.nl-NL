@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Facebook-codes
+title: Outlook.com Facebook codes
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546766"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822301"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ontvangt geen Facebook codes met Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Geen Facebook-codes ontvangen via Outlook.com
 
-Als u een nieuw wachtwoord aangevraagd bij Facebook maar niet ontvangen uw wachtwoord opnieuw moet worden ingesteld:
+Als je een nieuw wachtwoord hebt aangevraagd bij Facebook, maar je e-mailadres voor wachtwoordherstel niet hebt ontvangen:
 
-- Controleer de [spam of ongewenste e-mail map](https://outlook.live.com/mail/junkemail).
-- Probeer [nogmaals uw Facebook-wachtwoord](https://www.facebook.com/help/213395615347144?helpref=faq_content)opnieuw instellen.
+- Controleer uw [map met ongewenste e-mail](https://outlook.live.com/mail/junkemail).
+- Probeer [je Facebook-wachtwoord opnieuw](https://aka.ms/facebook-password-reset)in te stellen.
 
-Als u het wachtwoord niet herstellen omdat u geen toegang het e-mailadres of het mobiele telefoonnummer van uw account tot, kunt u [Tips van Facebook wachtwoord opnieuw instellen](https://www.facebook.com/help/218815984812734).
+Als je je wachtwoord niet resetten omdat je geen toegang hebt tot het e-mailadres of mobiele telefoonnummer in je account, probeer dan de [Tips voor wachtwoordherstel van Facebook](https://aka.ms/facebook-password-help).

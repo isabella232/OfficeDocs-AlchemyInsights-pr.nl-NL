@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536970"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822069"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook-meldingen met Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook-meldingen via Outlook.com
 
-Als u niet ontvangen van meldingen van Facebook wilt, kunt u uw [Facebook-instellingen](https://www.facebook.com/settings?tab=notifications) wijzigen of een regel voor postvak in instellen.
+Als je geen meldingen van Facebook wilt ontvangen, kun je je [Facebook-instellingen](https://aka.ms/facebook-notifications-settings) wijzigen of een regel voor inbox instellen.
 
-1. Ga naar de [Regelinstellingen](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Selecteer **de nieuwe regel toevoegen**.
-1. De naam van de regel 'Facebook'.
-1. Een voorwaarde van de "Van" toevoegen en voer "notification@facebookmail.com"
-1. Toevoegen van een actie van 'Verwijderen'. Als u kiest, verwijderen de berichten in de Verwijderde Items blijven en kunnen worden hersteld. Als u 'Markeren als ongewenste' selecteert, worden de berichten automatisch worden verwijderd en kunnen niet worden hersteld.
+1. Ga naar [regels instellingen](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Selecteer **nieuwe regel toevoegen**.
+1. Noem uw regel "Facebook".
+1. Voeg een voorwaarde van "van" en voer "notification@facebookmail.com"
+1. Voeg een actie ' verwijderen ' toe. Als u delete kiest, blijven de berichten in uw verwijderde items staan en kunnen ze worden hersteld. Als u ' markeren als ongewenste reclame ' selecteert, worden de berichten automatisch verwijderd en kunnen ze niet worden hersteld.
 1. Selecteer **Opslaan**.

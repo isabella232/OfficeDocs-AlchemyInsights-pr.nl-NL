@@ -1,5 +1,5 @@
 ---
-title: Bestand alleen-lezen wordt geopend
+title: Bestand openen, alleen-lezen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,43 +9,46 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525666"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822229"
 ---
-# <a name="file-open-read-only"></a>Bestand alleen-lezen wordt geopend
+# <a name="file-open-read-only"></a>Bestand openen, alleen-lezen
 
-Kan het gebeuren dat bij het openen van bestanden, ze als alleen-lezen openen. In sommige gevallen is dit voor extra beveiliging, zoals bij het openen van bestanden van het internet en andere tijden, deze kan worden veroorzaakt door een instelling die kan worden gewijzigd. Hier zijn enkele scenario's waarbij een bestand alleen-lezen wordt geopend en enkele stappen die u nemen kunt om die te wijzigen.
+Het kan zijn dat wanneer u bestanden opent, deze als alleen-lezen worden geopend. In sommige gevallen is dit voor extra beveiliging, bijvoorbeeld wanneer u bestanden van het Internet opent en andere tijden, kan dit worden veroorzaakt door een instelling die kan worden gewijzigd. Hier volgen enkele scenario's waarin een bestand alleen-lezen wordt geopend en enkele stappen die u nemen om dat te wijzigen.
   
- **Mijn antivirus wordt veroorzaakt door deze alleen-lezen openen**
+ **Mijn antivirusprogramma zorgt ervoor dat ze alleen-lezen openen**
   
-Sommige antivirusprogramma's kunnen u beschermen tegen mogelijk onveilige bestanden door deze alleen-lezen te openen. Wellicht moet u contact op met uw antivirusleverancier voor meer informatie over het aanpassen van deze instellingen. BitDefender, heeft bijvoorbeeld de inhoud op aanvraag uitsluitingen hier toe te voegen: [het toevoegen van toepassing of proces uitsluitingen in Bitdefender Control Center](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Sommige antivirusprogramma's beschermen u tegen mogelijk onveilige bestanden door ze alleen-lezen te openen. U moet mogelijk controleren met uw antivirus provider om te leren hoe u deze instellingen aanpassen. BitDefender heeft bijvoorbeeld inhoud over het toevoegen van uitsluitingen van toepassingen: [hoe u applicatie-of proces uitsluitingen toevoegt in het BitDefender Control Center](https://aka.ms/AA6098i).
   
- **Worden de eigenschappen ingesteld op alleen-lezen?**
+ **Zijn de bestandseigenschappen ingesteld op alleen-lezen?**
   
-De bestandseigenschappen kunt u controleren door met de rechtermuisknop op het bestand klikken en eigenschappen te kiezen. U kunt als het kenmerk alleen-lezen is ingeschakeld, schakelt u het uit en klik op OK.
+U de bestandseigenschappen controleren door met de rechtermuisknop op het bestand te klikken en eigenschappen te kiezen. Als het kenmerk alleen-lezen is aangevinkt, u het vinkje verwijderen en op OK klikken.
   
  **De inhoud is in de beveiligde weergave**
   
-Bestanden van het Internet en van andere mogelijk onveilige locaties kunnen bevatten virussen, wormen of andere vormen van malware die uw computer kunnen beschadigen. Dit is ook vaak het geval met e-mailbijlagen of bestanden die u hebt gedownload. Ter bescherming van uw computer worden bestanden op deze locaties mogelijk onveilige geopend in de beveiligde weergave. Via de beveiligde weergave kunt u bestanden lezen en de inhoud ervan bekijken terwijl de risico's te beperken. Zie voor meer informatie over beveiligde weergave en het wijzigen van instellingen in dit artikel: [Wat is beveiligd?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Bestanden van het internet en van andere mogelijk onveilige locaties kunnen virussen, wormen of andere vormen van malware bevatten die schadelijk kunnen zijn voor uw computer. Dit is ook vaak het geval met e-mailbijlagen of bestanden die u hebt gedownload. Om uw computer te helpen beveiligen, worden bestanden van deze potentieel onveilige locaties geopend in de beveiligde weergave. Met de beveiligde weergave u een bestand lezen en de inhoud ervan bekijken terwijl u de Risico's verkleint. Zie voor meer informatie over de beveiligde weergave en het wijzigen van instellingen in dit artikel: [Wat is beveiligde weergave?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive vol is?**
+ **Is OneDrive volledig?**
   
-Als het bestand is opgeslagen op OneDrive en uw opslagruimte OneDrive vol is, kunt u zich niet het document opslaan voordat u onder de toegewezen ruimte. U kunt de vrije ruimte op de OneDrive controleren door te klikken op het pictogram in het midden van de melding van OneDrive en opslag beheren te kiezen, of gaat u naar [http://onedrive.live.com](http://onedrive.live.com), aanmelden en noteer de hoeveelheid gebruikte ruimte in de onderste links van het scherm.
+Als het bestand is opgeslagen op OneDrive en je OneDrive-opslagruimte vol is, kun je het document niet opslaan totdat je onder de toegewezen ruimte bent. U uw vrije ruimte op OneDrive controleren door op het OneDrive-pictogram in het meldingscentrum te klikken en opslag beheren te kiezen, of [http://onedrive.live.com](http://onedrive.live.com)u gaan naar, inloggen en de hoeveelheid gebruikte ruimte linksonder op het scherm noteren.
   
- **Office is geactiveerd**
+ **Is Office geactiveerd?**
   
-Als Office niet is geactiveerd of als uw licentie is verlopen, kan u zich in de alleen-lezen modus van verminderde functionaliteit. Zie voor meer informatie over het activeren van Office: [niet-gelicentieerde Product en activeringsfouten in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Als Office niet is geactiveerd of als uw abonnement is verlopen, u de modus voor verminderde functionaliteit alleen-lezen hebben. Voor informatie over het activeren van Office raadpleegt u: [niet-gelicentieerde product-en activeringsfouten in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Als laatste redmiddel...**
+ **Als al het andere faalt...**
   
-- Start de computer opnieuw op
+- Probeer de computer opnieuw op te starten
     
 - Office-updates installeren
     
-- Online herstellen van Office
+- Een online reparatie van Office uitvoeren
     
 

@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com Agenda Bèta
+title: 9000198 Outlook.com kalender bèta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548134"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821977"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nieuwe agenda ervaringen naar Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nieuwe kalender ervaringen komen naar Outlook.com
 
-Het nieuwe uiterlijk biedt de beste ontwerpen en geleerde lessen van het e-mailbericht zich aan de agenda.
+De nieuwe look brengt de beste ontwerpen en geleerde lessen van de e-mail ervaring naar de kalender.
 
-U kunt genieten van een modern ontwerp dat minder overzichtelijker en krijgt u snellere manieren om te navigeren van uw agenda. Ook is het gemakkelijker om te zoeken naar interessante agenda's voor uw favoriete activiteiten — op TV-programma met sportclubs en evenementen.
+Je zult genieten van een modern ontwerp dat visuele rommel vermindert en je snellere manieren biedt om door je agenda te navigeren. Het is ook makkelijker om interessante agenda's te vinden voor je favoriete activiteiten-van TV-Programma's tot sportteams en evenementen.
 
-We uitgebreid onze collectie pictogrammen gebeurtenis en het uiterlijk van bestaande bijgewerkt, en we nu automatisch relevante pictogrammen toevoegen aan uw gebeurtenissen, zodat u gemakkelijk kunt zien wat er gebeurt in een oogopslag.
+We hebben onze collectie van Event-iconen uitgebreid en de look en feel van bestaande evenementen geactualiseerd-en we voegen nu automatisch relevante iconen toe aan je Events, zodat je gemakkelijk zien wat er in een oogopslag gebeurt.
 
-U kunt feedback geven over nieuwe functies via het [kanaal van Outlook.com agenda UserVoice](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+U feedback geven over nieuwe functies via de [Outlook.com calendar UserVoice Channel](https://go.microsoft.com/fwlink/?linkid=2103075).
