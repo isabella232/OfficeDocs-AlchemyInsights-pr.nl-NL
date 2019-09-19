@@ -1,5 +1,5 @@
 ---
-title: 1374 oplossen twee postvakken procedure
+title: 1374 twee mailboxen oplossen procedure
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1374"
+- "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
+ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369840"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37026589"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Een gebruiker heeft twee postvakken
 
-Hybride omgevingen die gebruikmaken van Azure Active Directory verbinding (AAD verbinding) of DirSync mogelijk per ongeluk een gebruiker twee postvakken: in de organisatie van gebouwen en in de cloud.
+Hybride omgevingen die gebruikmaken van Azure Active Directory Connect (AAD Connect) of DirSync kunnen per ongeluk leiden tot een gebruiker twee postvakken: één on-premises en één in de Cloud. Een dubbele postbus kan worden gemaakt op een van beide plaatsen.
 
-Zie [Permanent wissen vorige Postvak-Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/)dit probleem op te lossen.
+Zie voor het oplossen van dit probleem, [Hoe te herstellen wanneer een postbus in zowel Exchange Online en on-premises bestaat](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Als u meer wilt weten over hoe u voorkomen dat dit in de toekomst gebeurt, Zie [mijn gebruiker heeft een postbus zowel on-premises en in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
