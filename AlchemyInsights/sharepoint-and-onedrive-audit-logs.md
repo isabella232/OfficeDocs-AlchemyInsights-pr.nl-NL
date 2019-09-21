@@ -1,5 +1,5 @@
 ---
-title: Klassieke SharePoint Controleverslagrapporten
+title: Rapporten van de klassieke SharePoint-auditlogboeken
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504386"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068018"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Controlelogboeken SharePoint en OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Auditlogboeken van SharePoint en OneDrive
 
-**SharePoint en OneDrive moderne Unified Audit logs van conformiteit**
+**SharePoint en OneDrive moderne uniforme audit logs van compliance**
 
-- [In-of uitschakelen Unified registratie in het controlelogboek](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Schakel registratie van Unified audit in/uit](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Er is geen extra configuratie vereist in SharePoint of OneDrive.
+Er is geen aanvullende configuratie vereist in SharePoint of OneDrive.
 
-- Registratie in het controlelogboek zoeken gebruikt om te controleren van de activiteit van de bestanden, mappen, gebruikers, machtigingen:
+- Gebruik controlelogboekregistratie zoeken om te controleren van de activiteit van de bestanden, map (s), gebruiker (s), machtigingen:
 
-    - [Bestands- en activiteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Map-activiteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Delen en toegang aanvragen activiteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Synchronisatie-activiteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Site beheer activiteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Zie voor meer informatie over het ophalen van deze gebeurtenissen, [Zoeken het controlelogboek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Bestands-en pagina-activiteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Mapactiviteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Activiteiten voordelen en toegang aanvragen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Synchronisatieactiviteiten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Activiteiten voor site beheer](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- Zie [het controlelogboek doorzoeken](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)voor meer informatie over het ophalen van deze gebeurtenissen.
 
-**Klassieke SharePoint-controlelogboek geregistreerd**
+**Klassieke SharePoint-audit logboeken**
 
-- [Weergeven en het inschakelen van controlelogboeken voor klassieke SharePoint](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+We migreerden SPO legacy auditing naar Unified audit log (UAL). Dit betekent in wezen dat alle SPO verouderde auditverslagen nu worden gevoed via UAL, en de verouderde controle signalen zijn gemigreerd naar UAL.
 
-Controle moet worden per elke siteverzameling worden ingeschakeld. 
+Belangrijke wijzigingen:
 
-**Opmerking**: gebruik van moderne Unified Audit logs voor beter en geavanceerde controleopties dan deze klassieke controlelogboeken aangeraden.
+- Trimmen als een mogelijkheid is niet beschikbaar.
+- De sectie waarin u specifieke gebeurtenissen voor controle kiest, is niet beschikbaar. Raadpleeg [dit document](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) voor een volledige lijst met gecontroleerde gebeurtenissen die standaard beschikbaar zijn.
+- De optie ' locatie ' onder **aangepaste rapporten** is niet beschikbaar. 
+- "Openen of downloaden van documenten" gebeurtenissen is niet beschikbaar. 
 
