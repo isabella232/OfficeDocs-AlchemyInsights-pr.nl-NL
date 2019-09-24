@@ -1,5 +1,5 @@
 ---
-title: 2637 bypass gefilterd op ongewenste e-mail berichten toestaan?
+title: 2637 bypass spam filtering om specifieke berichten toe te staan?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406526"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122153"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Ongewenste e-mail filteren zodat bepaalde berichten negeren?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Spam filtering omzeilen om specifieke berichten toe te staan?
 
-Het is raadzaam [voorzichtig te werk](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) wanneer u een lijst maakt. Bijvoorbeeld, als u uw eigen domein, is schadelijke afzenders mogelijk te vervalsen en te verzenden als uw domein.  Wij raden deze [onjuiste positieve detecties probleemoplossingsgids](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), waarmee u kunt bepalen waarom een legitiem bericht is gemarkeerd als spam en wat u kunt doen om veilig kunt u het bericht.
+We raden u aan [voorzichtig](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) te zijn wanneer u een lijst met toestaan maakt. Als u bijvoorbeeld uw eigen domein toestaat, kunnen kwaadwillende afzenders spoofen verzenden als uw domein.  In plaats daarvan raden we deze [fout-positieven gids voor probleemoplossing](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), die u zal helpen om te bepalen waarom een legitiem bericht is gemarkeerd als spam en wat u doen om veilig de bezorging van het bericht toe te staan.
