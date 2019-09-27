@@ -1,8 +1,7 @@
 ---
-title: Gegevenslocatie
+title: Locatie van gegevens
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514120"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207256"
 ---
-# <a name="data-location"></a><span data-ttu-id="f1d39-102">Gegevenslocatie</span><span class="sxs-lookup"><span data-stu-id="f1d39-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="bf386-102">Locatie van gegevens</span><span class="sxs-lookup"><span data-stu-id="bf386-102">Data location</span></span>
 
-<span data-ttu-id="f1d39-103">We behouden meerdere exemplaren van uw gegevens tussen datacenters voor redundantie.</span><span class="sxs-lookup"><span data-stu-id="f1d39-103">We maintain multiple copies of your data across datacenters for redundancy.</span></span> <span data-ttu-id="f1d39-104">[Zie waar de gegevens zich bevindt](https://office.com/datamaps).</span><span class="sxs-lookup"><span data-stu-id="f1d39-104">[See where your data is located](https://office.com/datamaps).</span></span> <span data-ttu-id="f1d39-105">Als we de locatie van de gegevens in een nieuw land of regio, geven wij u een maand tevoren.</span><span class="sxs-lookup"><span data-stu-id="f1d39-105">If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
-  
-<span data-ttu-id="f1d39-106">Zie voor meer informatie over beveiliging, privacy en naleving van Office 365 [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="f1d39-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span>
-  
+<span data-ttu-id="bf386-103">U de locatie van uw Office 365-Tenant weergeven in het Admin Center of door verbinding te maken met Exchange Online via PowerShell.</span><span class="sxs-lookup"><span data-stu-id="bf386-103">You can view the location of your Office 365 tenant in the admin center or by connecting to Exchange Online via PowerShell.</span></span>
+
+
+<span data-ttu-id="bf386-104">**Admin Center:**</span><span class="sxs-lookup"><span data-stu-id="bf386-104">**Admin center:**</span></span>
+1. <span data-ttu-id="bf386-105">Meld u aan bij het [Admin Center](https://admin.microsoft.com/Adminportal/Home).</span><span class="sxs-lookup"><span data-stu-id="bf386-105">Log in to the [admin center](https://admin.microsoft.com/Adminportal/Home).</span></span>
+2. <span data-ttu-id="bf386-106">Selecteer **instellingen** > **organisatie profiel**.</span><span class="sxs-lookup"><span data-stu-id="bf386-106">Select **Settings** > **Organization profile**.</span></span>
+3. <span data-ttu-id="bf386-107">Selecteer onder **gegevenslocatie**de optie **Details weergeven**.</span><span class="sxs-lookup"><span data-stu-id="bf386-107">Under **Data location**, select **View details**.</span></span>
+
+
+<span data-ttu-id="bf386-108">**Powershell:**</span><span class="sxs-lookup"><span data-stu-id="bf386-108">**PowerShell:**</span></span>
+1. <span data-ttu-id="bf386-109">Verbinding maken met Exchange Online met behulp van Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="bf386-109">Connect to Exchange Online by using Windows PowerShell.</span></span>
+2. <span data-ttu-id="bf386-110">Voer de cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) om een lijst met de eigenschappen van uw Tenant weer te geven.</span><span class="sxs-lookup"><span data-stu-id="bf386-110">Execute the [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet to display a list of your tenant’s properties.</span></span> 
+3. <span data-ttu-id="bf386-111">Bekijk de eigenschap OrganizationId.</span><span class="sxs-lookup"><span data-stu-id="bf386-111">Look at the OrganizationId property.</span></span>
+
+<span data-ttu-id="bf386-112">Wanneer u de gegevenslocatie voor EXO en SPO hebt, u de gegevenslocatie bepalen voor andere services die u gebruiken vanaf [waar uw gegevens zich bevinden](https://products.office.com/where-is-your-data-located).</span><span class="sxs-lookup"><span data-stu-id="bf386-112">When you have the data location for EXO and SPO, you can determine the data location for other services you may use from [Where your data is located](https://products.office.com/where-is-your-data-located).</span></span>
