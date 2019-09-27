@@ -1,8 +1,7 @@
 ---
-title: Gegevenslocatie
+title: Locatie van gegevens
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514120"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207256"
 ---
-# <a name="data-location"></a>Gegevenslocatie
+# <a name="data-location"></a>Locatie van gegevens
 
-We behouden meerdere exemplaren van uw gegevens tussen datacenters voor redundantie. [Zie waar de gegevens zich bevindt](https://office.com/datamaps). Als we de locatie van de gegevens in een nieuw land of regio, geven wij u een maand tevoren.
-  
-Zie voor meer informatie over beveiliging, privacy en naleving van Office 365 [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).
-  
+U de locatie van uw Office 365-Tenant weergeven in het Admin Center of door verbinding te maken met Exchange Online via PowerShell.
+
+
+**Admin Center:**
+1. Meld u aan bij het [Admin Center](https://admin.microsoft.com/Adminportal/Home).
+2. Selecteer **instellingen** > **organisatie profiel**.
+3. Selecteer onder **gegevenslocatie**de optie **Details weergeven**.
+
+
+**Powershell:**
+1. Verbinding maken met Exchange Online met behulp van Windows PowerShell.
+2. Voer de cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) om een lijst met de eigenschappen van uw Tenant weer te geven. 
+3. Bekijk de eigenschap OrganizationId.
+
+Wanneer u de gegevenslocatie voor EXO en SPO hebt, u de gegevenslocatie bepalen voor andere services die u gebruiken vanaf [waar uw gegevens zich bevinden](https://products.office.com/where-is-your-data-located).
