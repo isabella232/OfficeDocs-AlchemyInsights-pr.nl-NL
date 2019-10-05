@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-Enable-litigation-Hold
+title: 976-hoe te activeren-rechtszaak-Hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540752"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398622"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Een postbus in de juridische wachtstand plaatsen
+# <a name="place-a-mailbox-on-legal-hold"></a>Een postbus in de juridische Hold plaatsen
 
-- Om een postbus op een rechtszaak houdt of op de plaats houdt, is een licentie voor Exchange Online Plan 2 [Exchange Online Plan 2 licentie](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) vereist. Als een postvak een licentie voor Plan 1 toegewezen is, kunt u een aparte Exchange Online Archiving invoegtoepassing licentie voor [Exchange Online Archiving toegevoegde licentie](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)toewijzen.
+- Voor het plaatsen van een postbus op rechtszaak hold of in-place Hold, een Exchange Online plan 2 licentie [Exchange Online plan 2 licentie](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is vereist. Als een postbus een licentie plan 1 is toegewezen, u een afzonderlijke Exchange Online archiveren add-on licentie [Exchange Online archivering add-on licentie](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)toewijzen.
 
-- Om te schakelen rechtszaak houdt voor één gebruiker, [gaat u als volgt te werk](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Wanneer de rechtszaak houdt is ingeschakeld, wordt alle inhoud in het postvak behouden.
+- Om in te schakelen rechtszaak blokkering voor één gebruiker, [Volg deze stappen](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Wanneer rechtszaak vasthouden is ingeschakeld, wordt alle inhoud in het postvak behouden.
 
-- Plaats een wachtruimte in alle postvakken in uw organisatie, kunt u een bewaarbeleid Office 365 via de [volgende stappen](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Houd er rekening mee dat voor het bewaarbeleid voor de gehele organisatie, nieuwe gebruikers automatisch aan het beleid toegewezen wordt.
+- Als u inhoud in alle postvakken in uw organisatie wilt behouden, u een [bewaarbeleid voor Office 365 voor de hele organisatie](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)gebruiken. Houd er rekening mee dat voor organisatiebreed bewaarbeleid nieuwe gebruikers automatisch worden toegewezen aan het beleid.
