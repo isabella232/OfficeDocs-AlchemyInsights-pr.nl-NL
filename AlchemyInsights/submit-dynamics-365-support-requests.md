@@ -18,9 +18,9 @@ ms.contentlocale: nl-NL
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36666043"
 ---
-# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="e0804-102">Dynamics 365 ondersteuningsaanvragen indienen</span><span class="sxs-lookup"><span data-stu-id="e0804-102">Submit Dynamics 365 support requests</span></span>
+# <a name="submit-dynamics-365-support-requests"></a><span data-ttu-id="234af-102">Dynamics 365 ondersteuningsaanvragen indienen</span><span class="sxs-lookup"><span data-stu-id="234af-102">Submit Dynamics 365 support requests</span></span>
 
-<span data-ttu-id="e0804-103">Als u klant bent bij **Microsoft Dynamics Customer Engagement**, dient u uw ticket in via het nieuwe [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="e0804-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
+<span data-ttu-id="234af-103">Als u klant bent bij **Microsoft Dynamics Customer Engagement**, dient u uw ticket in via het nieuwe [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span><span class="sxs-lookup"><span data-stu-id="234af-103">If you are a **Microsoft Dynamics Customer Engagement** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/?ref=officemodern).</span></span>
   
-<span data-ttu-id="e0804-104">De nieuwe portal biedt een directer pad naar ondersteuning die is geoptimaliseerd voor klantbetrokkenheid bij Dynamics en andere Power Platform-producten.</span><span class="sxs-lookup"><span data-stu-id="e0804-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
+<span data-ttu-id="234af-104">De nieuwe portal biedt een directer pad naar ondersteuning die is geoptimaliseerd voor klantbetrokkenheid bij Dynamics en andere Power Platform-producten.</span><span class="sxs-lookup"><span data-stu-id="234af-104">The new portal provides a more direct path to assisted support that is optimized for Dynamics customer engagement and other Power platform products.</span></span>
   
