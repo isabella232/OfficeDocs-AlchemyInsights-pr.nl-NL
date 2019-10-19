@@ -1,5 +1,5 @@
 ---
-title: Een verwijderde site terugzetten
+title: Een verwijderde site herstellen
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552459"
 ---
-# <a name="restore-a-deleted-site"></a><span data-ttu-id="7b14b-102">Een verwijderde site terugzetten</span><span class="sxs-lookup"><span data-stu-id="7b14b-102">Restore a deleted site</span></span>
+# <a name="restore-a-deleted-site"></a><span data-ttu-id="c50bf-102">Een verwijderde site herstellen</span><span class="sxs-lookup"><span data-stu-id="c50bf-102">Restore a deleted site</span></span>
 
-<span data-ttu-id="7b14b-103">Wanneer een beheerder een site verwijdert, wordt het geplaatst in de Prullenbak geplaatst, waar het blijft 93 dagen voordat het definitief wordt verwijderd van de siteverzameling.</span><span class="sxs-lookup"><span data-stu-id="7b14b-103">When an admin deletes a site , it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span></span> <span data-ttu-id="7b14b-104">De site herstellen:</span><span class="sxs-lookup"><span data-stu-id="7b14b-104">To restore the site:</span></span>
+<span data-ttu-id="c50bf-103">Wanneer een beheerder een site verwijdert, wordt deze in de Prullenbak van de siteverzameling geplaatst, waar deze gedurende 93 dagen wordt bewaard voordat deze definitief wordt verwijderd.</span><span class="sxs-lookup"><span data-stu-id="c50bf-103">When an admin deletes a site , it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted.</span></span> <span data-ttu-id="c50bf-104">Om de site te herstellen:</span><span class="sxs-lookup"><span data-stu-id="c50bf-104">To restore the site:</span></span>
   
-1. <span data-ttu-id="7b14b-105">In het nieuwe SharePoint admin center, klikt u op **Prullenbak** op het lint.</span><span class="sxs-lookup"><span data-stu-id="7b14b-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
+1. <span data-ttu-id="c50bf-105">Klik in het nieuwe SharePoint-Beheercentrum op **Prullenbak** op het lint.</span><span class="sxs-lookup"><span data-stu-id="c50bf-105">In the new SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
     
-2. <span data-ttu-id="7b14b-106">Schakel het selectievakje in naast de siteverzameling die u wilt terugzetten.</span><span class="sxs-lookup"><span data-stu-id="7b14b-106">Select the check box next to the site collection you want to restore.</span></span>
+2. <span data-ttu-id="c50bf-106">Schakel het selectievakje in naast de siteverzameling die u wilt herstellen.</span><span class="sxs-lookup"><span data-stu-id="c50bf-106">Select the check box next to the site collection you want to restore.</span></span>
     
-3. <span data-ttu-id="7b14b-107">Klik op **Verwijderde Items herstellen**.</span><span class="sxs-lookup"><span data-stu-id="7b14b-107">Click **Restore Deleted Items**.</span></span>
+3. <span data-ttu-id="c50bf-107">Klik op **Verwijderde items herstellen**.</span><span class="sxs-lookup"><span data-stu-id="c50bf-107">Click **Restore Deleted Items**.</span></span>
     
-<span data-ttu-id="7b14b-108">Als u een verwijderde communicatiesite herstellen, kunt u de nieuwe SharePoint-admin center.</span><span class="sxs-lookup"><span data-stu-id="7b14b-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span></span> <span data-ttu-id="7b14b-109">Anders moet u Microsoft PowerShell gebruiken.</span><span class="sxs-lookup"><span data-stu-id="7b14b-109">Otherwise, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="7b14b-110">Om terug te zetten op een site die tot een Office 365-groep behoort, moet u de groep in het beheercentrum van Exchange terugzetten.</span><span class="sxs-lookup"><span data-stu-id="7b14b-110">To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center.</span></span> <span data-ttu-id="7b14b-111">Groepen kunnen worden hersteld voor 30 dagen nadat ze zijn verwijderd.</span><span class="sxs-lookup"><span data-stu-id="7b14b-111">Groups can be restored for 30 days after they're deleted.</span></span>
+<span data-ttu-id="c50bf-108">Als u een verwijderde communicatiesite wilt herstellen, u het nieuwe SharePoint-Beheercentrum gebruiken.</span><span class="sxs-lookup"><span data-stu-id="c50bf-108">To restore a deleted communication site, you can use the new SharePoint admin center.</span></span> <span data-ttu-id="c50bf-109">Anders moet u Microsoft PowerShell gebruiken.</span><span class="sxs-lookup"><span data-stu-id="c50bf-109">Otherwise, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="c50bf-110">Als u wilt herstellen van een site die deel uitmaakt van een Office 365-groep, moet u de groep in het Beheercentrum van Exchange herstellen.</span><span class="sxs-lookup"><span data-stu-id="c50bf-110">To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center.</span></span> <span data-ttu-id="c50bf-111">Groepen kunnen worden hersteld voor 30 dagen nadat ze zijn verwijderd.</span><span class="sxs-lookup"><span data-stu-id="c50bf-111">Groups can be restored for 30 days after they're deleted.</span></span>
   
 

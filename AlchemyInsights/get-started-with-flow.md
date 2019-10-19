@@ -1,5 +1,5 @@
 ---
-title: Aan de slag met stroom
+title: Aan de slag met Flow
 ms.author: toresing
 author: tomresing
 ms.date: 5/18/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
 ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36524190"
 ---
-# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="48b08-102">Aan de slag met Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="48b08-102">Get started with Microsoft Flow</span></span>
+# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="6e341-102">Aan de slag met Microsoft flow</span><span class="sxs-lookup"><span data-stu-id="6e341-102">Get started with Microsoft Flow</span></span>
 
-<span data-ttu-id="48b08-103">U kunt met Microsoft-Flow:</span><span class="sxs-lookup"><span data-stu-id="48b08-103">With Microsoft Flow, you can:</span></span>
+<span data-ttu-id="6e341-103">Met Microsoft flow u:</span><span class="sxs-lookup"><span data-stu-id="6e341-103">With Microsoft Flow, you can:</span></span>
   
-- <span data-ttu-id="48b08-104">Eenvoudig zoeken naar sjablonen en services.</span><span class="sxs-lookup"><span data-stu-id="48b08-104">Easily search for templates and services.</span></span>
+- <span data-ttu-id="6e341-104">Eenvoudig zoeken naar sjablonen en services.</span><span class="sxs-lookup"><span data-stu-id="6e341-104">Easily search for templates and services.</span></span>
     
-- <span data-ttu-id="48b08-105">Kies uit de meest populaire services.</span><span class="sxs-lookup"><span data-stu-id="48b08-105">Choose from the most popular services.</span></span>
+- <span data-ttu-id="6e341-105">Kies uit de populairste Services.</span><span class="sxs-lookup"><span data-stu-id="6e341-105">Choose from the most popular services.</span></span>
     
-- <span data-ttu-id="48b08-106">Een overzicht van de stroom.</span><span class="sxs-lookup"><span data-stu-id="48b08-106">See an overview of each flow.</span></span>
+- <span data-ttu-id="6e341-106">Bekijk een overzicht van elke stroom.</span><span class="sxs-lookup"><span data-stu-id="6e341-106">See an overview of each flow.</span></span>
     
-[<span data-ttu-id="48b08-107">Meer informatie over Microsoft-Flow</span><span class="sxs-lookup"><span data-stu-id="48b08-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
+[<span data-ttu-id="6e341-107">Meer informatie over Microsoft flow</span><span class="sxs-lookup"><span data-stu-id="6e341-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
   
 

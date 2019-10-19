@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
 ms.openlocfilehash: a1c0f8bf1ea220e5e8d3efc98451abb0fd352c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512079"
 ---
-# <a name="star-wars-day"></a><span data-ttu-id="d567c-102">Star Wars-dag</span><span class="sxs-lookup"><span data-stu-id="d567c-102">Star Wars day</span></span>
+# <a name="star-wars-day"></a><span data-ttu-id="df5a1-102">Star Wars-dag</span><span class="sxs-lookup"><span data-stu-id="df5a1-102">Star Wars day</span></span>
 
-<span data-ttu-id="d567c-103">Dit is nieuwsgierig bent u.</span><span class="sxs-lookup"><span data-stu-id="d567c-103">Hmmm, curious you are.</span></span>
+<span data-ttu-id="df5a1-103">Hmmm, nieuwsgierig je bent.</span><span class="sxs-lookup"><span data-stu-id="df5a1-103">Hmmm, curious you are.</span></span>
 
-<span data-ttu-id="d567c-104">De kracht kan met u zijn.</span><span class="sxs-lookup"><span data-stu-id="d567c-104">May the Force be with you.</span></span>
+<span data-ttu-id="df5a1-104">Moge de kracht met u zijn.</span><span class="sxs-lookup"><span data-stu-id="df5a1-104">May the Force be with you.</span></span>

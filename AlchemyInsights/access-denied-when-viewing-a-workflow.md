@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747743"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="63e86-102">Toegang geweigerd bij het bekijken van een workflow</span><span class="sxs-lookup"><span data-stu-id="63e86-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="4b285-102">Toegang geweigerd bij het bekijken van een workflow</span><span class="sxs-lookup"><span data-stu-id="4b285-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="63e86-103">SharePoint 2013-werkstromen die proberen te verzenden van een e-mail bericht naar een SharePoint-groep kan mislukken met een ' toegang geweigerd ' foutmelding als het lidmaatschap van de SharePoint-groep niet is ingesteld op iedereen.</span><span class="sxs-lookup"><span data-stu-id="63e86-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="4b285-103">SharePoint 2013-werkstromen die proberen te verzenden van een e-mail bericht naar een SharePoint-groep kan mislukken met een ' toegang geweigerd ' foutmelding als het lidmaatschap van de SharePoint-groep niet is ingesteld op iedereen.</span><span class="sxs-lookup"><span data-stu-id="4b285-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="63e86-104">**Voer de volgende stappen uit om dit probleem op te lossen:**</span><span class="sxs-lookup"><span data-stu-id="63e86-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="4b285-104">**Voer de volgende stappen uit om dit probleem op te lossen:**</span><span class="sxs-lookup"><span data-stu-id="4b285-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="63e86-105">Laat iedereen de leden van de SharePoint-groep zien.</span><span class="sxs-lookup"><span data-stu-id="63e86-105">Allow everybody to see the members of the SharePoint group.</span></span>
+ 1. <span data-ttu-id="4b285-105">Laat iedereen de leden van de SharePoint-groep zien.</span><span class="sxs-lookup"><span data-stu-id="4b285-105">Allow everybody to see the members of the SharePoint group.</span></span>
   
- 2. <span data-ttu-id="63e86-106">Verwijder de SharePoint-groep van de regel aan of CC van de e-mail.</span><span class="sxs-lookup"><span data-stu-id="63e86-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
+ 2. <span data-ttu-id="4b285-106">Verwijder de SharePoint-groep van de regel aan of CC van de e-mail.</span><span class="sxs-lookup"><span data-stu-id="4b285-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
   
- 3. <span data-ttu-id="63e86-107">Voeg de gebruikers expliciet toe aan de regel aan of CC als de zichtbaarheid van het lidmaatschap niet kan worden gewijzigd voorsharepoint Group.</span><span class="sxs-lookup"><span data-stu-id="63e86-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
+ 3. <span data-ttu-id="4b285-107">Voeg de gebruikers expliciet toe aan de regel aan of CC als de zichtbaarheid van het lidmaatschap niet kan worden gewijzigd voorsharepoint Group.</span><span class="sxs-lookup"><span data-stu-id="4b285-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
   
-<span data-ttu-id="63e86-108">Voor meer informatie verwijzen wij u naar [http ongeautoriseerde naar/_vti_bin/client.SVC/SP.Utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="63e86-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="4b285-108">Voor meer informatie verwijzen wij u naar [http ongeautoriseerde naar/_vti_bin/client.SVC/SP.Utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="4b285-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   

@@ -1,5 +1,5 @@
 ---
-title: Het wijzigen van de taal in Outlook.com
+title: Taal wijzigen in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541661"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="ca2e8-102">Uw taal wijzigen</span><span class="sxs-lookup"><span data-stu-id="ca2e8-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="27291-102">Uw taal wijzigen</span><span class="sxs-lookup"><span data-stu-id="27291-102">Change your language</span></span>
 
-1. <span data-ttu-id="ca2e8-103">Chang de taal in Outlook, Ga naar de [**taal**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) -en (**Instellingen** \> **alle Outlook-instellingen weergeven** > **Algemeen** > **en de tijd**).</span><span class="sxs-lookup"><span data-stu-id="ca2e8-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="27291-103">Om de taal in Outlook te Chang, gaat u naar [**taal-en tijd**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) instellingen (**instellingen** \> **bekijken alle Outlook-instellingen** > **algemene** > **taal en tijd**).</span><span class="sxs-lookup"><span data-stu-id="27291-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="ca2e8-104">Kies uw taal.</span><span class="sxs-lookup"><span data-stu-id="ca2e8-104">Choose your language.</span></span>
+2. <span data-ttu-id="27291-104">Kies uw taal.</span><span class="sxs-lookup"><span data-stu-id="27291-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="ca2e8-105">Selecteer **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="ca2e8-105">Select **Save**.</span></span>
+3. <span data-ttu-id="27291-105">Selecteer **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="27291-105">Select **Save**.</span></span>
 
-<span data-ttu-id="ca2e8-106">Voor meer informatie, Zie [de taalinstellingen in Outlook.com en tijdzone wijzigen](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="ca2e8-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="27291-106">Zie [de tijdzone en taalinstellingen wijzigen in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="27291-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
