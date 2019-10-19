@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753755"
 ---
 # <a name="more-info-about-retention-policies"></a>Meer informatie over bewaarbeleid
@@ -26,13 +26,13 @@ Voor de meeste organisaties neemt het volume en de complexiteit van hun gegevens
 
 ## <a name="a-from-security-and-compliance-center"></a>A) van Security and Compliance Center
 
-- Ga naar beveiliging en naleving > data governance > retentie
+- Ga naar beveiliging en compliance > data governance > retentie
   - Zie [Dit](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artikel
 
-- Ga naar beveiliging en naleving > eDiscovery> Advanced eDiscovery 
+- Ga naar beveiliging en compliance > eDiscovery-> geavanceerde eDiscovery 
   - Zie [Dit](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artikel
 
-- Ga naar beveiliging en naleving > classificaties > retentie
+- Ga naar beveiliging en compliance > classificaties > retentie
   - Zie deze artikelen
     - [Gevoeligheidslabels](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Labels-overzicht](https://docs.microsoft.com/office365/securitycompliance/labels)
