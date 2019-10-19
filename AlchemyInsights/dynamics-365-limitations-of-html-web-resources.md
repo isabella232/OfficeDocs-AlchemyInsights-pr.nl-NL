@@ -1,5 +1,5 @@
 ---
-title: XML-Schema voor Dynamics 365 formulier
+title: Dynamics 365 Form XML-schema
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528510"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Webpagina (HTML) web resources beperkingen
+# <a name="webpage-html-web-resources-limitations"></a>Beperkingen voor webresources op webpagina's (HTML)
 
-* Een HTML-web-bron kan niet bevatten code die moet worden uitgevoerd op de server. ASP.NET-pagina's kunnen niet worden geüpload als HTML-bronnen op het web.
+* Een HTML-WebResource mag geen code bevatten die op de server moet worden uitgevoerd. ASP.NET pagina's kunnen niet worden geüpload als HTML-webresources.
 
-* HTML-bronnen op het web kunnen slechts een beperkt aantal queryreeksparameters accepteren. Meer informatie: [doorgeven van parameters voor HTML-bronnen op het web](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML-webresources kunnen slechts een beperkt aantal queryreeksparameters accepteren. Meer informatie: [parameters doorgeven aan HTML-webresources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Bronnen op het web webpagina (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Webresources voor webpagina's (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

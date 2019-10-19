@@ -1,5 +1,5 @@
 ---
-title: De spelling controleren in Outlook op het web
+title: Spellingcontrole in Outlook op het web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510546"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Spelling controleren met behulp van uw browser
+# <a name="use-your-browser-to-check-spelling"></a>Gebruik uw browser om de spelling te controleren
 
-Er is geen optie van het selectievakje spellingcontrole in Outlook op het web. Als u de spelling controleert, moet u uw webbrowser. Spellingcontrole is beschikbaar in Microsoft Edge, Internet Explorer 10 en latere versies en de huidige versies van Firefox, Chrome en Safari. Controleer de opties voor uw webbrowser voor meer informatie over het controleren van spelling.
+Er is geen optie voorspelling controle in Outlook op het web. Als u de spelling wilt controleren, moet u de webbrowser gebruiken. Spellingcontrole is beschikbaar in Microsoft Edge, Internet Explorer 10 en latere versies en in de huidige versies van Firefox, Chrome en Safari. Raadpleeg de opties voor uw webbrowser voor meer informatie over het controleren van de spelling.

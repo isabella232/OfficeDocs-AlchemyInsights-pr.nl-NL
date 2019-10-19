@@ -1,5 +1,5 @@
 ---
-title: Het maken van een site in SharePoint Online
+title: Een site maken in SharePoint Online
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515897"
 ---
 # <a name="create-a-site"></a>Een site maken
 
-U kunt verschillende typen sites maken in SharePoint Online. Als u wilt weten hoe u dit doet in het nieuwe SharePoint admin center, ziet u [een-site maken](https://go.microsoft.com/fwlink/?linkid=866295). Zie voor informatie over het toestaan van gebruikers om hun eigen sites te maken, [maken van de site beheren in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+U verschillende typen sites maken in SharePoint Online. Zie [een site maken](https://go.microsoft.com/fwlink/?linkid=866295)voor meer informatie over hoe u dit doet in het nieuwe SharePoint-Beheercentrum. Zie [site maken in SharePoint Online beheren](https://go.microsoft.com/fwlink/?linkid=866296)voor meer informatie over het toestaan van gebruikers om hun eigen sites te maken.
  
-Zie voor meer info over de nieuwe site typen, [groep verbonden teamsites](https://go.microsoft.com/fwlink/?linkid=866292) of [sites voor communicatie](https://go.microsoft.com/fwlink/?linkid=866294).
+Zie [verbonden team sites](https://go.microsoft.com/fwlink/?linkid=866292) of [Communicatiesites](https://go.microsoft.com/fwlink/?linkid=866294)groeperen voor meer informatie over de nieuwe site typen.
     
 
 

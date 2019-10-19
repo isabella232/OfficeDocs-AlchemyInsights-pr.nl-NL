@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529662"
 ---
 # <a name="does-visio-work-on-a-mac"></a>Werkt Visio op een Mac?
 
-Er is geen desktop toepassing Visio voor Mac. Als de gebruiker die de toepassing moet een [Online Visio-licentie toegewezen heeft](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), kunnen ze [maken, en bewerken van diagrammen in Visio Online weergave](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in een webbrowser.
+Er is geen Visio Desktop-toepassing voor Mac. Zolang de gebruiker die de app nodig heeft echter een [Visio Online-licentie heeft toegewezen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), kunnen ze [diagrammen in Visio online in een webbrowser bekijken, maken en bewerken](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) .
   
   

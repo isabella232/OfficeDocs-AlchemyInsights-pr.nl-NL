@@ -1,5 +1,5 @@
 ---
-title: Zelfde als filename is de beste
+title: hetzelfde als bestandsnaam is het beste
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800040"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vereist Alchemie kop H1, H2 van werken niet.
-Aanbevelingen en richtlijnen voor het ontwerpen van Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vereiste Alchemy-header H1, H2's niet werken.
+Best practices en richtlijnen voor het ontwerpen van Alchemy:
 
-1. **Alchemy inzichten in mappen sluiten niet op elkaar**- dit, de url-structuur worden verbroken. We zijn op zoek naar deze vaststelling.
-1. Bestanden in de map **AlchemyInsights** moeten in kleine letters bestandsnamen met afbreekstreepjes Spaces ex hebben. ***how-naar-enable-rechtszaak-hold***.
-    1. De regel-ID of bucket-ID van de [Alchemie Partner portal](https://alchemyportal.azurewebsites.net) in het veld ms.custom opnemen. ex. ***MS.Custom: 100021***
-1. De rest van de metagegevens aan de bovenkant van dit bestand gebruiken als uw sjabloon.
-1. Ga naar de sectie in de [Alchemie Partner portal](https://alchemyportal.azurewebsites.net) **klant inzicht titel:** en gebruik die als een startpunt voor uw H1 titel voor het inzicht. 
+1. **Nest Alchemy Insights in mappen niet nesten**-hierdoor wordt de URL-structuur verbroken. We zijn op zoek naar de vaststelling van dit.
+1. Bestanden in de map **Alchemyinsights** moeten kleine bestandsnamen met afbreekstreepjes voor spaties ex hebben. ***Hoe te activeren-Litigation-Hold***.
+    1. Neem de regel-ID of Bucket-ID op uit de [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net) in het veld MS. custom. Ex. ***MS. aangepast: 100021***
+1. Gebruik de rest van de metagegevens boven aan dit bestand als sjabloon.
+1. Navigeer in de [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net)naar de sectie **Customer Insight-Titel:** en gebruik dat als uitgangspunt voor uw H1-titel voor het inzicht. 
     > [!NOTE]
-    > Alchemy inzichten moet alleen een enkele H1 boven of ze in de productie worden verbroken. H2s weergeven niet in dat geval gebruik **vet** of andere overeenkomsten om aparte secties aan te geven.
-1. Vul vervolgens de platte tekst met behulp van het materiaal van het concept in de sectie Customer Insights van de pagina regel Alchemy
-    1. Lijsten met opsommingstekens zijn fijn
+    > Alchemy Insights moet slechts één H1 aan de bovenkant hebben of ze breken in de productie. H2s niet renderen dus gebruik **vet** of andere conventies om afzonderlijke secties te duiden.
+1. Vul vervolgens de hoofdtekst in met het concept materiaal in het gedeelte Customer Insights van de pagina Alchemy-regel
+    1. Lijsten met opsommingstekens zijn prima
     1. Genummerde lijsten te
-    1. **Vet** en *cursief* zijn a-ok
-    1. Koppelingen moet altijd een **'koppelingen naar webpagina' / externe** of **diep-koppelingen naar de elementen van de gebruikersinterface**, geen interne koppelingen.
-    1. Afbeeldingen worden niet officieel ondersteund op dit moment, maar het is op de routekaart.
+    1. **Vet** en *cursief* zijn a-OK
+    1. Koppelingen moeten altijd zijn **' koppelingen naar web '/externe** of **Deep-links naar UI-elementen**, niet interne koppelingen.
+    1. Foto's worden op dit moment niet officieel ondersteund, maar het is op de roadmap.
 
-En dit is echt al een beetje te lang. Beste is ongeveer 400 tekens---
+En dit is echt al een beetje te lang. Best Practice is ongeveer 400 tekens---------------------------------
 
-Zodra de inhoud gereed is, voeg alles aan levende tak. Vervolgens gaat u naar de [Alchemie Partner portal](https://alchemyportal.azurewebsites.net) en voer de bestandsnaam in het veld url. 
+Zodra uw inhoud klaar is, trekt u deze naar de Live-vertakking. Ga vervolgens naar de [Alchemy-Partner Portal](https://alchemyportal.azurewebsites.net) en voer de bestandsnaam in het URL-veld in. 

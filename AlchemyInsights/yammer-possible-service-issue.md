@@ -1,5 +1,5 @@
 ---
-title: Yammer - mogelijke Service probleem
+title: Yammer-mogelijk service probleem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,12 +12,12 @@ ms.custom:
 - "1338"
 - "2800001"
 ms.openlocfilehash: 7d89ce9a13430ac85fe3f634ccd106ef3f1e5532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557820"
 ---
-# <a name="yammer---possible-service-issue"></a>Yammer - mogelijke service probleem
+# <a name="yammer---possible-service-issue"></a>Yammer-mogelijk serviceprobleem
 
-Kan er een tijdelijk probleem waar gebruikers fouten optreden kunnen bij het openen van Yammer. Controleer of de [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien als dit van invloed is op uw netwerk.
+Er kan een tijdelijk probleem zijn waarbij gebruikers fouten kunnen ondervinden bij het benaderen van Yammer. Controleer het [Dashboard voor service status](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of dit van invloed is op uw netwerk.
