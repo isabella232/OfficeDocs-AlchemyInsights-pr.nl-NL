@@ -1,5 +1,5 @@
 ---
-title: Downloaden en installeren van Office
+title: Office downloaden en installeren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
 ms.openlocfilehash: 0cf7d60fb0e2d5a64b8df07dbb07060de3e111a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529482"
 ---
-# <a name="download-and-install-office"></a><span data-ttu-id="e526a-102">Downloaden en installeren van Office</span><span class="sxs-lookup"><span data-stu-id="e526a-102">Download and install Office</span></span>
+# <a name="download-and-install-office"></a><span data-ttu-id="1bed3-102">Office downloaden en installeren</span><span class="sxs-lookup"><span data-stu-id="1bed3-102">Download and install Office</span></span>
 
-<span data-ttu-id="e526a-103">Uw abonnement **Bedrijfsfuncties** bevat geen Office apps.</span><span class="sxs-lookup"><span data-stu-id="e526a-103">Your **Business Essentials** subscription does not include the Office apps.</span></span> <span data-ttu-id="e526a-104">Om Office, moet u een upgrade uitvoeren naar de **Business** of **Business Premium** -abonnement.</span><span class="sxs-lookup"><span data-stu-id="e526a-104">In order to get Office, you will need to upgrade to the **Business** or **Business Premium** subscription.</span></span> <span data-ttu-id="e526a-105">Bekijk hier de beschikbare abonnementen met Office: [Office 365 Business Plan](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span><span class="sxs-lookup"><span data-stu-id="e526a-105">Check out the available subscriptions with Office here: [Office 365 Business Plans](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span></span>
+<span data-ttu-id="1bed3-103">Uw **Business Essentials** -abonnement omvat niet de Office-apps.</span><span class="sxs-lookup"><span data-stu-id="1bed3-103">Your **Business Essentials** subscription does not include the Office apps.</span></span> <span data-ttu-id="1bed3-104">Als u Office wilt ophalen, moet u een upgrade uitvoeren naar het **Business** -of **Business Premium** -abonnement.</span><span class="sxs-lookup"><span data-stu-id="1bed3-104">In order to get Office, you will need to upgrade to the **Business** or **Business Premium** subscription.</span></span> <span data-ttu-id="1bed3-105">Bekijk de beschikbare abonnementen met Office hier: [office 365 Business Plans](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span><span class="sxs-lookup"><span data-stu-id="1bed3-105">Check out the available subscriptions with Office here: [Office 365 Business Plans](https://products.office.com/compare-all-microsoft-office-products?tab=2)</span></span>
   
 

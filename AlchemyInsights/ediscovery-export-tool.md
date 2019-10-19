@@ -16,35 +16,35 @@ ms.custom:
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
 ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736320"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="c1416-102">Kan het eDiscovery-export programma niet installeren of uitvoeren?</span><span class="sxs-lookup"><span data-stu-id="c1416-102">Can't install or run the eDiscovery Export Tool?</span></span>
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="2b3e5-102">Kan het eDiscovery-export programma niet installeren of uitvoeren?</span><span class="sxs-lookup"><span data-stu-id="2b3e5-102">Can't install or run the eDiscovery Export Tool?</span></span>
 
-<span data-ttu-id="c1416-103">Als u de Office 365 eDiscovery-export tool niet installeren of uitvoeren om zoekresultaten te downloaden, controleert u de volgende dingen:</span><span class="sxs-lookup"><span data-stu-id="c1416-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
+<span data-ttu-id="2b3e5-103">Als u de Office 365 eDiscovery-export tool niet installeren of uitvoeren om zoekresultaten te downloaden, controleert u de volgende dingen:</span><span class="sxs-lookup"><span data-stu-id="2b3e5-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
   
-- <span data-ttu-id="c1416-104">De computer die u gebruikt, voldoet aan deze vereisten:</span><span class="sxs-lookup"><span data-stu-id="c1416-104">The computer you're using meets these pre-requisites:</span></span>
+- <span data-ttu-id="2b3e5-104">De computer die u gebruikt, voldoet aan deze vereisten:</span><span class="sxs-lookup"><span data-stu-id="2b3e5-104">The computer you're using meets these pre-requisites:</span></span>
 
-  - <span data-ttu-id="c1416-105">32-of 64-bits versies van Windows 7 en latere versies</span><span class="sxs-lookup"><span data-stu-id="c1416-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
+  - <span data-ttu-id="2b3e5-105">32-of 64-bits versies van Windows 7 en latere versies</span><span class="sxs-lookup"><span data-stu-id="2b3e5-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
 
-  - <span data-ttu-id="c1416-106">Microsoft .NET Framework 4,7</span><span class="sxs-lookup"><span data-stu-id="c1416-106">Microsoft .NET Framework 4.7</span></span>
+  - <span data-ttu-id="2b3e5-106">Microsoft .NET Framework 4,7</span><span class="sxs-lookup"><span data-stu-id="2b3e5-106">Microsoft .NET Framework 4.7</span></span>
 
-  - <span data-ttu-id="c1416-107">Een ondersteunde browser:</span><span class="sxs-lookup"><span data-stu-id="c1416-107">A supported browser:</span></span>
+  - <span data-ttu-id="2b3e5-107">Een ondersteunde browser:</span><span class="sxs-lookup"><span data-stu-id="2b3e5-107">A supported browser:</span></span>
 
-  - <span data-ttu-id="c1416-108">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="c1416-108">Microsoft Edge</span></span>
+  - <span data-ttu-id="2b3e5-108">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="2b3e5-108">Microsoft Edge</span></span>
 
-    <span data-ttu-id="c1416-109">Of</span><span class="sxs-lookup"><span data-stu-id="c1416-109">Or</span></span>
+    <span data-ttu-id="2b3e5-109">Of</span><span class="sxs-lookup"><span data-stu-id="2b3e5-109">Or</span></span>
 
-  - <span data-ttu-id="c1416-110">Internet Explorer 10 en latere versies</span><span class="sxs-lookup"><span data-stu-id="c1416-110">Internet Explorer 10 and later versions</span></span>
+  - <span data-ttu-id="2b3e5-110">Internet Explorer 10 en latere versies</span><span class="sxs-lookup"><span data-stu-id="2b3e5-110">Internet Explorer 10 and later versions</span></span>
 
-    <span data-ttu-id="c1416-111">Andere browsers, zoals Google Chrome en Mozilla Firefox worden niet ondersteund.</span><span class="sxs-lookup"><span data-stu-id="c1416-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
+    <span data-ttu-id="2b3e5-111">Andere browsers, zoals Google Chrome en Mozilla Firefox worden niet ondersteund.</span><span class="sxs-lookup"><span data-stu-id="2b3e5-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
 
-- <span data-ttu-id="c1416-112">Uw organisatie kan verbinding maken met het eindpunt in azure, dit is \*\* \*. blob.core.Windows.net\*\* (het jokerteken vertegenwoordigt een unieke id voor uw exporttaak).</span><span class="sxs-lookup"><span data-stu-id="c1416-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
+- <span data-ttu-id="2b3e5-112">Uw organisatie kan verbinding maken met het eindpunt in azure, dit is \*\* \*. blob.core.Windows.net\*\* (het jokerteken vertegenwoordigt een unieke id voor uw exporttaak).</span><span class="sxs-lookup"><span data-stu-id="2b3e5-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
 
-- <span data-ttu-id="c1416-113">U hebt de rol exporteren in het Office 365 Security &amp; compliance Center toegewezen.</span><span class="sxs-lookup"><span data-stu-id="c1416-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="c1416-114">Deze rol is standaard alleen toegewezen aan de rol groep eDiscovery Manager.</span><span class="sxs-lookup"><span data-stu-id="c1416-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="c1416-115">Zie [eDiscovery-machtigingen toewijzen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span><span class="sxs-lookup"><span data-stu-id="c1416-115">See [Assign eDiscovery permissions](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span></span>
+- <span data-ttu-id="2b3e5-113">U hebt de rol exporteren in het Office 365 Security &amp; compliance Center toegewezen.</span><span class="sxs-lookup"><span data-stu-id="2b3e5-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="2b3e5-114">Deze rol is standaard alleen toegewezen aan de rol groep eDiscovery Manager.</span><span class="sxs-lookup"><span data-stu-id="2b3e5-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="2b3e5-115">Zie [eDiscovery-machtigingen toewijzen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span><span class="sxs-lookup"><span data-stu-id="2b3e5-115">See [Assign eDiscovery permissions](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span></span>
 
-<span data-ttu-id="c1416-116">Zie [Zoekresultaten voor inhoud exporteren](https://docs.microsoft.com/office365/securitycompliance/export-search-results)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="c1416-116">For more information, see [Export Content Search results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
+<span data-ttu-id="2b3e5-116">Zie [Zoekresultaten voor inhoud exporteren](https://docs.microsoft.com/office365/securitycompliance/export-search-results)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="2b3e5-116">For more information, see [Export Content Search results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
   
