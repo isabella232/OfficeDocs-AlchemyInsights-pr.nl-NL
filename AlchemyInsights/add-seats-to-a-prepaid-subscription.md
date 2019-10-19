@@ -1,5 +1,5 @@
 ---
-title: Zitplaatsen aan een prepaid abonnement toevoegen
+title: Seats toevoegen aan een prepaid-abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660967"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Zitplaatsen aan een prepaid abonnement toevoegen
+# <a name="add-seats-to-a-prepaid-subscription"></a>Seats toevoegen aan een prepaid-abonnement
 
-Vooruitbetaalde Office 365 licenties worden uitgegeven aan u als een alfanumerieke code van 25 tekens. Nadat u de benodigde licenties hebt aangeschaft, kunt u deze toevoegen aan uw abonnement. 
+Prepaid Office 365-licenties worden aan u verstrekt als een alfanumerieke code van 25 tekens. Nadat u de licenties hebt aangeschaft die u nodig hebt, u deze aan uw abonnement toevoegen. 
 
-1. In het admin center, gaat u naar de **Facturering** > [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het Beheercentrum naar de pagina **facturerings** > [producten & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Het abonnement dat u licenties wilt toevoegen te zoeken. Selecteer in de sectie **licenties** **meer licenties toevoegen**.
+2. Zoek het abonnement waaraan u licenties wilt toevoegen. Selecteer in het gedeelte **licenties** de optie **meer licenties toevoegen**.
 
-3. In het deelvenster **licenties meer toevoegen** , selecteert u **een nieuwe en ongebruikte product sleutel gebruiken**en selecteer vervolgens **volgende**.
+3. In de **meer licenties toevoegen** deelvenster, selecteer **een nieuwe en ongebruikte productcode gebruiken**, selecteer vervolgens **volgende**.
 
 4. Voer de productcode in en selecteer vervolgens **volgende**.
 
     > [!NOTE]
-    > Als u meer dan één productcode hebt, kunt u **een andere productcode toevoegen** aan deze invoeren.
+    > Als u meer dan één productcode hebt, u **een andere productcode toevoegen** selecteren om deze in te voeren.
 
-5. Gegevens van uw bestelling controleren en selecteer vervolgens **verzilveren**.
+5. Controleer uw bestelgegevens en selecteer vervolgens **inwisselen**.
 
-Voor meer informatie, Zie [licenties toevoegen of uitbreiden van een abonnement met een productcode betaald](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Zie [licenties toevoegen aan of verlengen voor een abonnement dat is betaald voor het gebruik van een productcode](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)voor meer informatie.

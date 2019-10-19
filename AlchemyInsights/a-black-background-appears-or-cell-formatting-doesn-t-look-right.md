@@ -1,5 +1,5 @@
 ---
-title: Een zwarte achtergrond wordt weergegeven of celopmaak niet naar wens
+title: Er verschijnt een zwarte achtergrond of de celopmaak ziet er niet goed uit
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495962"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Een zwarte achtergrond wordt weergegeven of celopmaak niet naar wens
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Er verschijnt een zwarte achtergrond of de celopmaak ziet er niet goed uit
 
-In Excel 2016, ziet u mogelijk een onverwachte zwarte achtergrond of ziet u celopmaak die niet goed wordt weergegeven. Dit kan gebeuren na het toevoegen van een koptekst of voettekst in de weergave pagina-indeling en een patroonvulling toepassen op een cel. Dit probleem is opgelost in versie 1708 (Build 8431.2094). U kunt dit verhelpen bijwerken naar de nieuwste versie van Office. Selecteer **bestand** \> **Account** \> **Opties bijwerken** \> **Nu bijwerken**.
+In Excel 2016 ziet u mogelijk een onverwachte zwarte achtergrond of ziet u de celopmaak die niet goed wordt weergegeven. Dit kan gebeuren na het toevoegen van een koptekst of voettekst in de pagina-indelingsweergave en het toepassen van een patroon vulling op een cel. Dit probleem is opgelost in versie 1708 (build 8431,2094). U dit oplossen door de nieuwste versie van Office te updaten. Selecteer **** \> **** \> update **** opties \> voor bestands account **Nu bijwerken**.
   
 

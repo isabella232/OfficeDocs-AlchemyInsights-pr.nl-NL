@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498194"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ongeldige bestands- en mapnamen in OneDrive en SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ongeldige bestands-en mapnamen in OneDrive en SharePoint
 
-Deze tekens zijn niet toegestaan in namen van bestanden en mappen " \* : \< \> ? / \ | 
+Deze tekens zijn niet toegestaan in bestands-en mapnamen \< \> ' \* :? / \ | 
   
-Sommige organisaties nog geen Microsoft ondersteuning voor # en % ingeschakeld. Zie informatie over het toestaan van deze tekens in uw organisatie, [# en % ondersteuning inschakelen](https://go.microsoft.com/fwlink/?linkid=862611). 
+Sommige organisaties hebben nog geen ondersteuning voor # en% ingeschakeld. Zie voor meer informatie over het toestaan van deze tekens in uw organisatie, [# en% ondersteuning inschakelen](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Meer informatie over beperkingen voor bestanden en mappen](https://go.microsoft.com/fwlink/?linkid=866430)
+[Meer informatie over beperkingen voor bestands-en mapnamen](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

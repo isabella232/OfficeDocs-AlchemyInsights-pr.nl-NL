@@ -13,15 +13,15 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661291"
 ---
 # <a name="office-365-alert-policies"></a>Waarschuwings beleid voor Office 365
 
-Het Office 365 Security & compliance Center biedt [standaard waarschuwings beleid](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) dat waarschuwingen activeert voor organisaties met een Office 365 Enterprise of Office 365 US Government E1/G1, E3/G3 of E5/G5-abonnement. Daarom kunnen beheerders een waarschuwing e-mail bericht verzonden door Office365Alerts@microsoft.com met een onderwerpregel zoals ' een waarschuwing met een lage prioriteit: *naam van waarschuwings beleid*' ontvangen. Waarschuwingsmeldingen worden verzonden wanneer waarschuwingen worden geactiveerd voor veelvoorkomende activiteiten, zoals wanneer gebruikers:
+De Office 365 Security & compliance Center biedt [standaard waarschuwings beleid](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) dat waarschuwingen voor organisaties met een Office 365 Enterprise of Office 365 US Government E1/G1, E3/G3 of E5/G5-abonnement activeert. Daarom kunnen beheerders een waarschuwing e-mail bericht verzonden door Office365Alerts@microsoft.com met een onderwerpregel zoals ' een waarschuwing met een lage prioriteit: *naam van waarschuwings beleid*' ontvangen. Waarschuwingsmeldingen worden verzonden wanneer waarschuwingen worden geactiveerd voor veelvoorkomende activiteiten, zoals wanneer gebruikers:
 
 - Regels voor Postvak in maken die e-mail doorsturen.
 - Machtigingen voor hun postbus toewijzen.

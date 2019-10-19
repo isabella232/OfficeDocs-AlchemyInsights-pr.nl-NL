@@ -1,5 +1,5 @@
 ---
-title: 1800001 maken of een profiel bewerken
+title: 1800001 een profiel maken of bewerken
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515154"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Een Outlook-profiel maken of bewerken
 
-Gebruik de volgende stappen uit om een nieuw Outlook-profiel maken, profiel bewerken of hernoemen van een profiel.
+Als u een nieuw Outlook-profiel wilt maken, een profiel wilt bewerken of de naam van een profiel wilt wijzigen, gebruikt u de volgende stappen.
   
-1. Selecteer **bestand** in Outlook \> **Accountinstellingen** \> **Profielen beheren**.
+1. Selecteer in Outlook **instellingen** \> voor **Bestands** \> account **beheren profielen**.
     
-2. Selecteer in het dialoogvenster **E-mailinstellingen** **Profielen weergeven**.
+2. Selecteer **profielen weergeven**in het dialoogvenster **e-mail instellingen** .
     
 3. Voer een van de volgende handelingen uit:
     
-  - Om een nieuw profiel wilt maken, selecteert u **toevoegen**.
+  - Als u een nieuw profiel wilt maken, selecteert u **toevoegen**.
     
-  - Als u wilt bewerken of de naam van een profiel wijzigen, selecteer **Eigenschappen**.
+  - Als u een profiel wilt bewerken of hernoemen, selecteert u **Eigenschappen**.
     
-Als u problemen bij het maken of bewerken van een Outlook-profiel ondervindt, kunt u het [hulpprogramma van Outlook-profiel](https://aka.ms/SaRA-OutlookSetupProfile) op de desbetreffende computer uitvoeren. Sommige controles wordt uitgevoerd en maakt een Outlook-profiel als u klaar bent met uw e-mailadres. 
+Als u problemen ondervindt bij het maken of bewerken van een Outlook-profiel, u de [Outlook-profiel tool](https://aka.ms/SaRA-OutlookSetupProfile) op de desbetreffende computer uitvoeren. Het zal een aantal controles uit te voeren, en als je klaar bent zal een Outlook-profiel te maken met uw e-mailadres. 
   
 

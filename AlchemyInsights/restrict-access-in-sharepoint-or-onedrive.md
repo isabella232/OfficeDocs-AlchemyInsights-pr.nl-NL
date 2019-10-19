@@ -1,5 +1,5 @@
 ---
-title: Beperk de toegang in de SharePoint- of OneDrive
+title: Toegang beperken in SharePoint of OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 8/7/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551446"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Beperk de toegang in de SharePoint- of OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Toegang beperken in SharePoint of OneDrive
 
-In SharePoint en OneDrive beperken u toegang tot items zoals bestanden, mappen en lijsten door toegang alleen voor groepen of personen die u toegang wilt verlenen. Standaard worden machtigingen in SharePoint worden overgenomen van hogere omhoog in de hiërarchie. Een bestand wordt dus de machtigingen overneemt van de map de machtigingen worden overgenomen uit de bibliotheek waarvan de machtigingen worden overgenomen van de site.
+In SharePoint en OneDrive beperkt u de toegang tot items zoals bestanden, mappen en lijsten door alleen toegang te verlenen aan groepen of personen die u toegang wilt geven. Machtigingen in SharePoint worden standaard overgenomen van hoger in de hiërarchie. Een bestand neemt dus zijn machtigingen over van de map, die zijn machtigingen overneemt van de bibliotheek, die zijn machtigingen overneemt van de site.
   
-U kunt delen op een hoger niveau (bijvoorbeeld door het delen van een hele site) en vervolgens overnemen als u niet wilt dat de artikelen op de site delen. Echter niet aangeraden dit omdat het onderhoud van de machtigingen meer complex en verwarrend zijn in de toekomst maakt. Dit is wat u in plaats daarvan kan doen:
+U op een hoger niveau delen (bijvoorbeeld door een hele site te delen) en vervolgens overname verbreken als u niet alle items op de site wilt delen. We raden dit echter niet aan omdat het het onderhouden van de machtigingen in de toekomst complexer en verwarrend maakt. Dit is wat je in plaats daarvan zou kunnen doen:
   
-- Als u bijvoorbeeld de inhoud van een map, met uitzondering van één bestand delen wilt, verplaatst u dat bestand naar een nieuwe locatie die niet wordt gedeeld.
+- Als u bijvoorbeeld alle inhoud van een map wilt delen, behalve één bestand erin, verplaatst u dat bestand naar een nieuwe locatie die niet wordt gedeeld.
     
-- Als u twee submappen in een map hebt en u wilt een submap delen met groepen A en B en alleen groep A toegang tot het tweede mapniveau, delen van de bovenliggende map bij groep A en B-groep toevoegen aan de eerste submap.
+- Als u twee submappen in een map hebt en u een submap met groepen A en B wilt delen en alleen groepstoegang tot de tweede submap wilt toestaan, deelt u de bovenliggende map met groep A en voegt u groep B toe aan de eerste submap.
     
-[Delen van een bestand of map beëindigen](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Het delen van een bestand of map beëindigen](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

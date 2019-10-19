@@ -1,5 +1,5 @@
 ---
-title: Aanvragen beheren
+title: Toegangsaanvragen beheren
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542491"
 ---
-# <a name="manage-access-requests"></a>Aanvragen beheren
+# <a name="manage-access-requests"></a>Toegangsaanvragen beheren
 
-Wanneer een gebruiker probeert toegang te krijgen tot een SharePoint-item en geen machtiging hebben, ziet ze een bericht dat ze machtiging moeten voor toegang tot het item. De gebruiker kan aanvragen toegang (in sommige gevallen op het item of lid worden van de groep) en een site-eigenaar kunnen goedkeuren of afwijzen van de aanvraag. Als iemand die geen eigenaar van een site een site met iemand anders deelt, wordt de site-eigenaar een toegangsaanvraag ook ophalen voor de nieuwe gebruiker. Goedkeuren of weigeren van toegangsaanvragen:
+Wanneer een gebruiker probeert toegang te krijgen tot een item in SharePoint en ze geen machtiging hebben, wordt een bericht weergegeven dat ze toestemming nodig hebben voor toegang tot het item. De gebruiker kan toegang aanvragen (in sommige gevallen naar het specifieke item of lid worden van de groep) en een site-eigenaar kan de aanvraag goedkeuren of afwijzen. Als iemand die geen site-eigenaar is, een site deelt met een andere persoon, krijgt de site-eigenaar ook een toegangsaanvraag voor de nieuwe gebruiker. Toegangsaanvragen goedkeuren of afwijzen:
   
-1. Ga naar de site, klikt u op het pictogram in de rechterbovenhoek en klik op **Site-instellingen**. (Als u Site-instellingen niet ziet, klikt u op **machtigingen voor de Site**en klik vervolgens op **Geavanceerde machtigingen**. Zoek naar een spandoek met een koppeling genaamd "Weergeven-aanvragen en uitnodigingen".)
+1. Ga naar de site, klik op het pictogram instellingen in de rechterbovenhoek en klik vervolgens op **site-instellingen**. (Als u site-instellingen niet ziet, klikt u op **site machtigingen**, en klik vervolgens op **instellingen voor geavanceerde machtigingen**. Zoek naar een banner met een koppeling met de naam ' toegangsaanvragen en uitnodigingen weergeven '.)
     
-2. Klik onder **gebruikers en machtigingen**, **toegangsaanvragen en uitnodigingen**. (Als dit niet wordt weergegeven, geen aanvragen zijn aangebracht.)
+2. Klik onder **gebruikers en machtigingen**op **toegangsaanvragen en uitnodigingen**. (Als dit niet wordt weergegeven, zijn er geen toegangsaanvragen ingediend.)
     
-3. Als de gebruiker afzonderlijk machtigen, klikt u op **goedkeuren** of **weigeren**. Als u wilt een bepaald machtigingsniveau selecteren, klikt u eerst op het weglatingsteken (...) naast de naam van de persoon. U kunt ook de gebruiker toevoegen aan een groep die gemachtigd om de site te is. Voor Communicatiesites en klassieke teamsites, kunt u dit doen op de pagina Site-instellingen. Voor sites die tot een groep van Office 365 behoren, kunt u de gebruiker toevoegen aan de groep.
+3. Klik op **goedkeuren** of **afwijzen**om de gebruikers machtiging afzonderlijk te geven. Als u een bepaald machtigingsniveau wilt selecteren, klikt u eerst op het beletselteken (...) naast de naam van de persoon. U ook de gebruiker toevoegen aan een groep die gemachtigd is voor de site. Voor Communicatiesites en klassieke team sites u dit doen op de pagina Site-instellingen. Voor sites die deel uitmaken van een Office 365-groep, u de gebruiker toevoegen aan de groep.
     
-    [Aanvragen beheren](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Toegangsaanvragen beheren](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [Meer info over machtigingsniveaus](https://go.microsoft.com/fwlink/?linkid=867071)
+    [Meer informatie over machtigingsniveaus](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

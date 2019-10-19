@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503486"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576666"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Moderniseren van de klassieke SharePoint-site
+# <a name="modernize-your-classic-sharepoint-site"></a>Moderniseer uw klassieke SharePoint-site
 
-Zie de volgende onderwerpen voor meer informatie over het gebruik van het nieuwe moderne ontwerp:
+Als u de overstap naar een moderne gebruikersinterface wilt maken, moet u zich concentreren op het volgende:
 
-- Zie voor een stapsgewijs overzicht van uw SharePoint-Sites op de ervaring van moderne klassieke modernisering [Modernize uw klassieke SharePoint-Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Uw **lijsten en bibliotheken** overstappen om de moderne gebruikersinterface te gebruiken (ook wel de moderne lijst en bibliotheek ervaring genoemd).
+- Uw **site pagina's** transformeren van klassieke wiki-en webonderdeelpagina's naar moderne pagina's aan de clientzijde.
+- Het maken van **moderne sites** (team site of communicatiesite).
 
-- Optimaliseer het gebruik van de moderne gebruikersinterface voor uw site pagina's en pagina's voor lijsten en bibliotheken, Zie [Modernize de gebruikersinterface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Moderniseer uw ervaring door:
+- [Het inschakelen van lijsten en bibliotheken om weer te geven in de moderne gebruikersinterface door het](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) vervangen van aanpassingen, het verwijderen van incompatibele kolommen uit de gebruikte weergaven of (als laatste redmiddel) verplaatsen van gegevens naar een moderne gebruiker interface compatibele lijst Type.
+- [Uw site verbinden met een Office 365-groep](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), die uw site een moderne startpagina geeft en uw site in staat stelt om bijvoorbeeld een postbus of Microsoft planner te gebruiken. Hiermee u een moderne versie van een agenda en takenlijst gebruiken.
+- [Het maken van moderne pagina's](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)is een geweldige manier om ideeën te delen met afbeeldingen, Excel-, Word-en PowerPoint-documenten, video en meer.
+- [Het maken van moderne pagina's](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) op de client en het configureren van deze om "vergelijkbaar" te zijn met uw belangrijkste klassieke wiki-en webonderdeelpagina's. Programmatische pagina transformatie moet worden uitgevoerd voor de belangrijkste pagina's van uw sites, als het transformeren van alle pagina's is resource-intensieve en vaak niet nodig. Om u te helpen in deze triage, kan de SharePoint moderniserings scanner u gebruiksinformatie geven over de huidige wiki-en webonderdeelpagina's.
+- [Het maken van moderne sites](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Moet ik een team site of een communicatiesite maken?
 
-- Zie voor meer informatie over het deblokkeren van lijsten en bibliotheken bij het gebruik van de moderne gebruikersinterface, [maximaliseren van moderne lijsten en bibliotheken gebruiken](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Aanvullende informatie: 
+- Voor een stapsgewijze overzicht van het moderniseren van uw klassieke SharePoint-sites naar de moderne ervaring, raadpleegt u [uw klassieke SharePoint-sites moderniseren](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Zie een gids voor [moderne ervaring](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Bekijk de [klassieke en moderne ervaringen van SharePoint](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Zie voor meer informatie over verbinding maken met een Office 365-groep en het uitvoeren van een groep-verbinding [verbinding maken met een Office 365-groep](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

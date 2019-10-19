@@ -12,19 +12,19 @@ ms.custom:
 - "1400"
 - "8000089"
 ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535350"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Berichten uit te gaan naar uw map Ongewenste E-mail stoppen
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Voorkom dat berichten naar de map Ongewenste E-mail gaan
 
-Er zijn tijden wanneer u niet dat berichten van een bepaalde persoon of het domein wilt om uiteindelijk in de map voor ongewenste E-mail van Outlook.com. Berichten van adressen of domeinen in de lijst met veilige afzenders won't naar de map Ongewenste E-mail verplaatst.
+Er zijn momenten waarop u niet wilt dat berichten van een specifieke persoon of domein in uw map voor ongewenste E-mail in Outlook.com. Berichten van adressen of domeinen in de lijst met veilige afzenders worden niet verplaatst naar de map Ongewenste E-mail.
 
-1. Open de [Instellingen voor veilige afzenders](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. In de **lijsten Veilige afzenders en domeinen**, voer het e-mailadres of domein dat u wilt toevoegen en selecteer **toevoegen**.
-3. Een verzendlijst toevoegen aan de veilige afzenders, voert u de mailing-lijst onder **Veilige mailinglijsten** en selecteer **toevoegen**.
+1. Open de [instellingen van uw veilige afzenders](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Voer onder **veilige afzenders en domeinen**het e-mailadres of domein in dat u wilt toevoegen en selecteer **toevoegen**.
+3. Als u een mailinglijst wilt toevoegen aan uw veilige afzenders, voert u de mailinglijst in onder **Veilige mailinglijsten** en selecteert u **toevoegen**.
 4. Selecteer **Opslaan**.
 
-Lees meer bij [blokkeren of de blokkering opheffen van afzenders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Lees meer op [blokkeren of deblokkeren van afzenders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

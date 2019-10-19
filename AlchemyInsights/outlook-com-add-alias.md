@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542696"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Het toevoegen van een e-mailalias in Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Een e-mail alias toevoegen in Outlook.com
 
-Een alias is een extra e-mailadres met de hetzelfde postvak in, accountinstellingen en lijst met contactpersonen als uw primaire e-mailadres. U kunt kiezen welke e-mailadres voor het verzenden van e-mail van en kunt u bij uw Outlook.com-account met een van de aliassen aanmelden zich, ze allemaal hetzelfde wachtwoord gebruiken.
+Een alias is een extra e-mailadres dat dezelfde inbox, contactpersonenlijst en accountinstellingen gebruikt als uw primaire e-mailadres. U kiezen op welk e-mailadres u e-mail wilt verzenden, en u zich aanmelden bij uw Outlook.com-account met een van uw aliassen-ze gebruiken allemaal hetzelfde wachtwoord.
 
 Een e-mailadres toevoegen:
 
-1. Ga naar [een alias toevoegen](https://go.microsoft.com/fwlink/p/?linkid=864833). Aanmelden bij uw Microsoft-account als u wordt gevraagd.
-2. Onder **een alias toevoegen**, hetzij:
-    1. Maak een nieuw e-mailadres voor Outlook.com en als een alias toevoegen.
-    2. Een bestaand e-mailadres als alias toevoegen.
+1. Ga naar [een alias toevoegen](https://go.microsoft.com/fwlink/p/?linkid=864833). Meld u aan bij uw Microsoft-account als u hierom wordt gevraagd.
+2. Onder **een alias toevoegen**, ofwel:
+    1. Maak een nieuw Outlook.com e-mailadres en voeg het toe als een alias.
+    2. Voeg een bestaand e-mailadres toe als alias.
 3. Selecteer **alias toevoegen**.
 
-Meer informatie over het [toevoegen](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)of verwijderen van een e-mailalias in Outlook.com.  
+Lees meer over het [toevoegen of verwijderen van een e-mail alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Lees [hoe u kunt verbinding maken met een ander e-mailaccount](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) aan uw Outlook.com-account.
+Lees [hoe u een ander e-mail account aansluit](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) op uw Outlook.com-account.

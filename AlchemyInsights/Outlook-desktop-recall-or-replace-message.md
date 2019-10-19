@@ -1,5 +1,5 @@
 ---
-title: Outlook Desktop intrekken of vervangen van een e-mailbericht
+title: Outlook Desktop terugroepen of vervangen van een e-mail bericht
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496106"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Intrekken of vervangen van een e-mailbericht van Outlook
+# <a name="recall-or-replace-an-outlook-email-message"></a>Een Outlook-e-mail bericht intrekken of vervangen
 
-- Als de beheerder kunt u **berichten intrekken voor gebruikers met PowerShell**. U kunt berichten van de admin center kan niet intrekken.
-- U kunt **alleen berichten intrekken die zijn verzonden naar personen in uw organisatie**. Als het bericht is verzonden naar een Gmail-adres, bijvoorbeeld, kan niet u deze intrekken.
-- U kunt **alleen berichten intrekken verzonden vanuit Outlook 2016 op de PC**. Als een gebruiker een bericht met behulp van Outlook voor Mac of Outlook op het web verzendt, kunt u deze niet meer intrekken.
+- Als beheerder u **berichten intrekken namens gebruikers die PowerShell gebruiken**. U geen berichten terughalen uit het Admin Center.
+- U **alleen berichten terughalen die worden verzonden naar mensen in uw organisatie**. Als het bericht bijvoorbeeld naar een Gmail-adres is verzonden, u het niet meer terughalen.
+- U **alleen berichten terughalen die vanuit Outlook 2016 op de PC zijn verzonden**. Als een gebruiker een bericht verzendt met Outlook voor Mac of Outlook op het web, u het niet meer intrekken.
 
-Intrekken of vervangen van een e-mailbericht:
+Een e-mail bericht intrekken of vervangen:
 
-1. In het deelvenster mappen aan de linkerzijde van het Outlook-venster, selecteert u de map Verzonden Items.
-1. Dubbelklik op het bericht dat u wilt intrekken om deze te openen.
-1. Klik op het tabblad **bericht** en selecteer vervolgens **Acties** > **Dit bericht intrekken**.
-1. Selecteer **Ongelezen kopieën van dit bericht verwijderen** of **Ongelezen kopieën verwijderen en vervangen door een nieuw bericht**en klik vervolgens op **OK**.
-1. Als u een vervangend bericht verzendt het bericht opstelt, en selecteer vervolgens **verzenden**.
-1. Het slagen of mislukken van een bericht intrekken is afhankelijk van de instellingen van de ontvanger in Outlook. Raadpleeg [dit artikel](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)om te controleren op het intrekken.
+1. Selecteer in het mappenvenster aan de linkerkant van het Outlook-venster de map Verzonden items.
+1. Dubbelklik op het bericht dat u wilt intrekken om het te openen.
+1. Selecteer het tabblad **bericht** en selecteer vervolgens **acties** > **intrekken dit bericht**.
+1. Selecteer **Ongelezen kopieën van dit bericht verwijderen** of **Ongelezen kopieën verwijderen en vervangen door een nieuw bericht**en selecteer vervolgens **OK**.
+1. Als u een vervangend bericht verzendt, moet u het bericht opstellen en vervolgens **verzenden**selecteren.
+1. Het slagen of mislukken van een bericht intrekken is afhankelijk van de instellingen van de geadresseerde in Outlook. Zie [dit artikel](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)voor stappen om te controleren op de terugroepactie.
 
-Zoeken en verwijderen van e-mailberichten in uw organisatie
+E-mail berichten in uw organisatie zoeken en verwijderen
 
-- Als u niet een globale beheerder bent, moet uw account worden toegevoegd aan de eDiscovery managerrol of de rol van conformiteit zoeken om te zoeken naar berichten. Om berichten te verwijderen, moet u deel te nemen aan de rolgroep Management van de organisatie of de rol zoeken en verwijderen. Machtigingen voor deze rollen zijn toegewezen in het [midden van beveiliging en naleving](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Maken een inhoud zoeken](https://docs.microsoft.com/office365/securitycompliance/content-search) om te zoeken naar het bericht te verwijderen.
-- [Verbinding maken met de veiligheid en conformiteit PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Als u geen globale beheerder bent, moet uw account worden toegevoegd aan de rol van eDiscovery Manager of beheer van naleving zoeken om te zoeken naar berichten. Als u wilt verwijderen van berichten, moet u deelnemen aan de organisatiemanagement rol groep of de Search and purge Management rol. Machtigingen voor deze rollen worden toegewezen in het [beveiligings-en compliancecentrum](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Maak een zoekopdracht voor inhoud](https://docs.microsoft.com/office365/securitycompliance/content-search) om het bericht te zoeken dat u wilt verwijderen.
+- [Verbinding maken met Security and Compliance Center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Als u een meerledige verificatie gebruikt, Zie [verbinding maken met Office 365-beveiliging en naleving Center PowerShell meerledige verificatie](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Als u multi-factor Authentication gebruikt, Zie [verbinding maken met Office 365 Security and Compliance Center PowerShell met behulp van meervoudige verificatie](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

@@ -1,5 +1,5 @@
 ---
-title: Yammer alle bedrijf groep beheren
+title: Yammer alle bedrijfsgroep beheren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1019"
 - "6000003"
 ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558036"
 ---
-# <a name="all-company-group"></a>Alle bedrijf
+# <a name="all-company-group"></a>Alle bedrijfsgroep
 
-De groep **Alle bedrijf** wordt automatisch gemaakt wanneer u een netwerk Yammer maakt. Het is een standaardgroep systeem dat niet kan worden gewijzigd of verwijderd. Iedereen kan posten naar de groep **Alle bedrijf** , maar alleen Yammer netwerkbeheerders aankondigingen aan de groep kunnen boeken. **Groep inzichten**gebruiken om informatie te bekijken over engagement in de groep **Alle bedrijf** .
+De groep **alle bedrijven** wordt automatisch gemaakt wanneer u een Yammer-netwerk maakt. Het is een standaard systeemgroep die niet kan worden hernoemd of verwijderd. Iedereen kan posten naar de groep **alle bedrijven** , maar alleen Yammer-netwerkbeheerders kunnen aankondigingen naar de groep posten. Gebruik **groepsstatistieken**om informatie weer te geven over betrokkenheid in de groep **alle bedrijven** .
 
-Voor meer informatie, Zie [beheren van een groep in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+Zie [een groep in Yammer beheren](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)voor meer informatie.

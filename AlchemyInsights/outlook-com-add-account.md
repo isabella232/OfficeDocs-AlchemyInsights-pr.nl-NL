@@ -1,5 +1,5 @@
 ---
-title: 9000236 Outlook.com-account toevoegen
+title: 9000236 Outlook.com account toevoegen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538195"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Uw andere e-mailaccounts toevoegen aan Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Voeg je andere e-mail accounts toe aan Outlook.com
 
-Als u andere e-mailaccounts op Outlook.com toevoegt, kunt u Outlook.com voor het verzenden en lezen van e-mailberichten van deze accounts zonder Outlook.com. Elke account die u aan de Outlook.com toevoegt heet een gekoppelde account.
+Wanneer u andere e-mail accounts aan Outlook.com toevoegt, u Outlook.com gebruiken om e-mail berichten van die accounts te verzenden en te lezen zonder Outlook.com te verlaten. Elk account dat u toevoegt aan Outlook.com wordt een verbonden account genoemd.
 
-Opmerking: Synchroniseren van uw gekoppelde account op de Outlook.com-account kan niet worden teruggedraaid. E-mail verzonden vanuit uw verbonden met Outlook.com-account wordt niet weergegeven in uw verbonden account verzonden Items.
+Opmerking: het synchroniseren van uw verbonden account met uw Outlook.com-account is slechts één manier. E-mail verzonden vanaf uw verbonden account met behulp van Outlook.com wordt niet weergegeven in uw verbonden account verzonden items.
 
-Een gekoppelde account toevoegen:
+Een verbonden account toevoegen:
 
-1. Open uw [E-mail synchronisatie-instellingen](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Selecteer onder **verbonden accounts**, **Gmail** of **andere e-mailaccounts**.
-3. Voer een weergavenaam (de naam zien de ontvangers wanneer ze een e-mailbericht van u ontvangen) en het volledige e-mailadres en wachtwoord van de e-mailaccount die u wilt verbinding maken met uw Outlook.com-account op de pagina uw verbinding maken.
+1. Open de [instellingen voor synchronisatie-e-mail](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Selecteer onder **verbonden accounts**de optie **Gmail** of **andere e-mail accounts**.
+3. Op de Connect your account pagina, voer een weergavenaam (de naam ontvangers zullen zien wanneer ze een e-mail bericht van u ontvangen) en het volledige e-mailadres en wachtwoord van het e-mail account dat u wilt verbinden met uw Outlook.com-account.
 
-U kunt een e-mail sturen van een account dat u hebt verbonden met uw Outlook.com-account. Wanneer u een e-mailbericht opstelt, selecteert u **in** en kiest u welke e-mailadres u wilt gebruiken, of [uw standaard Verzendadres bijwerken](https://go.microsoft.com/fwlink/?linkid=875264).
+U e-mail verzenden vanuit een account dat u hebt gekoppeld aan uw Outlook.com-account. Wanneer u een e-mail opstelt, selecteert u **uit** en kiest u welk e-mailadres u wilt gebruiken of werkt u het [standaardadres](https://go.microsoft.com/fwlink/?linkid=875264)bij.
 
-Lees voor meer informatie [toevoegen uw andere e-mailaccounts op Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Lees voor meer informatie [uw andere e-mail accounts toevoegen aan Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Als u een nieuw e-mailadres maken die gebruikmaakt van dezelfde Outlook.com-account [toevoegen of verwijderen van een e-mailalias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)worden gelezen.
+Als u een nieuw e-mailadres wilt maken dat gebruikmaakt van hetzelfde Outlook.com-account, leest u [een e-mail alias toevoegen of verwijderen](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

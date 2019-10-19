@@ -1,5 +1,5 @@
 ---
-title: Microsoft taak inschakelen
+title: Microsoft to-do inschakelen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527538"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Het inschakelen van Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>Microsoft to-do inschakelen
 
-Microsoft To-Do gebruiken, moet een beheerder de app aan elke account inschakelen. Ga naar de [Services &amp; Add-ins pagina](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) van de pagina Office 365 beheer instellingen waarmee de taak voor elke gebruiker. 
+Om Microsoft to-do te kunnen gebruiken, moet een beheerder de app inschakelen voor het account van elke gebruiker. Ga naar de [pagina &amp; Services-invoegtoepassingen](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) van de pagina Office 365-beheerinstellingen om de functie voor elke gebruiker in te schakelen. 
   
-Microsoft To-Do maakt gebruik van functies in Exchange Online voor synchronisatie en taakitems gebruikers worden opgeslagen. Microsoft To-Do gebruiken, moet een gebruiker een geldig Exchange Online-postvak.
+Microsoft to-do maakt gebruik van functies in Exchange Online voor het synchroniseren en opslaan van gebruikers items. Als u Microsoft to-do wilt gebruiken, moet een gebruiker een geldige Exchange Online-postbus hebben.
   
-Zie [Microsoft taak Preview-beheer](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)voor meer informatie.
+Zie voor meer informatie, [Microsoft to-do preview beheer](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Opmerking**: als u een fout 501 ontvangt wanneer u probeert aan te melden bij [http://todo.microsoft.com](http://todo.microsoft.com), probeer [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Opmerking**: als u een fout 501 ontvangt wanneer u probeert in [http://todo.microsoft.com](http://todo.microsoft.com)te loggen, [https://to-do.microsoft.com](https://to-do.microsoft.com)probeert u het.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Delen met externe gebruikers werkt niet.
+title: Delen met externe gebruikers werkt niet
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502226"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>SharePoint-inhoud delen met externe gebruikers problemen oplossen
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Problemen met het delen van SharePoint-inhoud met externe gebruikers oplossen
 
-Zorg ervoor dat externe delen is ingeschakeld voor uw organisatie:
+Zorg ervoor dat extern delen is ingeschakeld voor uw organisatie:
   
-1. Ga naar de [Services &amp; pagina-ins in het Microsoft 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), en op **websites**.
+1. Ga naar de [pagina &amp; Services-invoegtoepassingen in het Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)en klik op **sites**.
     
-2. Controleer of dat de instelling is ingeschakeld op 'Aan'. Als 'Alleen bestaande externe gebruikers' is ingeschakeld, controleert u of de externe gebruiker wordt weergegeven in het Microsoft 365 admin center.
+2. Zorg ervoor dat de instelling is ingeschakeld op ' aan '. Als ' alleen bestaande externe gebruikers ' is geselecteerd, controleert u of de externe gebruiker wordt vermeld in het Microsoft 365 Admin Center.
     
-Zorg ervoor dat extern delen die zijn ingeschakeld voor de site. Voor een klassieke siteverzameling:
+Zorg ervoor dat extern delen is ingeschakeld voor de site. Voor een klassieke siteverzameling:
   
-1. Klik in het nieuwe SharePoint admin center, in het linkerdeelvenster op **websites**.
+1. In het nieuwe SharePoint-Beheercentrum, in het linkerdeelvenster, klikt u op **sites**.
     
-2. Selecteer de site of sites en op het lint, klik op **delen**.
+2. Selecteer de site of sites en klik op het lint op **delen**.
     
-Voor een teamsite die behoort tot een groep van Office 365, of een communicatiesite:
+Voor een team site die behoort tot een Office 365-groep of een communicatiesite:
   
-- Deze nieuwe site typen hebben de dezelfde delen als u als instelling voor de hele organisatie, tenzij u de instelling van de hele organisatie ondersteunt het delen van bestanden via de koppelingen die niet vereisen-in. In dit geval kunnen de sites delen met nieuwe en bestaande externe gebruikers die zich aanmelden. U wijzigt de instelling voor specifieke sites, moet u de nieuwe SharePoint admin center of PowerShell gebruiken. [Meer informatie](https://go.microsoft.com/fwlink/?linkid=871863).
+- Deze nieuwe site typen hebben dezelfde instelling voordelen als de instelling voor de hele organisatie, tenzij de organisatiebrede instelling het delen van bestanden toestaat met behulp van koppelingen die niet hoeven te worden aangemeld. In dit geval kunnen de sites delen met nieuwe en bestaande externe gebruikers die zich aanmelden. Als u de instelling voor specifieke sites wilt wijzigen, gebruikt u het nieuwe SharePoint-Beheercentrum of PowerShell. [Meer informatie](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> De externe delen instellen voor elke site is meer beperkend zijn dan de instelling voor de hele organisatie, maar niet meer dan de instelling voor de hele organisatie strikte. 
+> De instelling voor extern delen voor elke site kan restrictiever zijn dan de instelling van de hele organisatie, maar niet meer toelaatbaar dan de organisatiebrede instelling. 
   
 

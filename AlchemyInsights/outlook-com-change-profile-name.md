@@ -1,5 +1,5 @@
 ---
-title: Wijzig de profielnaam van uw in Outlook.com
+title: Wijzig uw profielnaam in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546715"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Wijzig de profielnaam van uw in Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>Wijzig uw profielnaam in Outlook.com
 
-1. Ga naar [uw Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Ga naar [uw Microsoft-accountgegevens](https://go.microsoft.com/fwlink/p/?linkid=860841).
 2. Selecteer **naam bewerken**.
 3. Voer een voornaam en achternaam in en selecteer **Opslaan**.
 
-Wacht 24 uur voor wijzigingen in de profielnaam van uw worden toegepast.
+Het kan tot 24 uur duren voordat wijzigingen in uw profielnaam van kracht worden.

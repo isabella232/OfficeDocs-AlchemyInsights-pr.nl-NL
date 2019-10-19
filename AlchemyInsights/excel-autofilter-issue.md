@@ -1,5 +1,5 @@
 ---
-title: Probleem met AutoFilter in Excel
+title: Excel AutoFilter-probleem
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
 ms.openlocfilehash: 31a4294f7035f2ff69bb30b65261f5210fc1a3d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527045"
 ---
-# <a name="excel-autofilter-issue"></a>Probleem met AutoFilter in Excel
+# <a name="excel-autofilter-issue"></a>Excel AutoFilter-probleem
 
-Wanneer u Excel 2016, als de AutoFilter-keuzelijst geeft niet alle beschikbare selectievakjes weer, of de selectievakjes niet klikbaar, mogelijk vanwege een bekend probleem in eerdere versies van Excel. 
+Als u Excel 2016 gebruikt en uw AutoFilter-vervolgkeuzelijst niet alle beschikbare selectievakjes toont of als de selectievakjes niet aanklikbaar zijn, kan dit het gevolg zijn van een bekend probleem in eerdere versies van Excel. 
   
-Dit probleem is nu opgelost in **versie 1707 (8326.2073)** of hoger. Als u de update onmiddellijk, opent Excel en kiest u **bestand** \> **Account** \> **Opties voor bijwerken** \> **Nu bijwerken**.
+Dit probleem is nu opgelost in **versie 1707 (8326,2073)** of hoger. Als u de update onmiddellijk wilt ophalen, opent u Excel en kiest u update **Opties** \> voor **Bestands** \> **account** \> **Nu bijwerken**.
   
 

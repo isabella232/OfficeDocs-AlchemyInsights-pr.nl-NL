@@ -1,5 +1,5 @@
 ---
-title: App licentie hoeveelheid wijzigen
+title: Aantal app-licenties wijzigen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519762"
 ---
-# <a name="change-app-license-quantity"></a>App licentie hoeveelheid wijzigen
+# <a name="change-app-license-quantity"></a>Aantal app-licenties wijzigen
 
-U kunt weergeven of wijzigen van het aantal licenties dat u hebt en deze toewijzen aan gebruikers in het Microsoft 365 admin center. 
+U het aantal licenties dat u hebt en deze toewijzen aan gebruikers in het Microsoft 365 Admin Center weergeven of wijzigen. 
 
-## <a name="to-change-license-quantity"></a>Aantal licenties wijzigen
+## <a name="to-change-license-quantity"></a>De licentie hoeveelheid wijzigen
 
-1. Ga naar de **Facturering** > [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina en kies vervolgens het tabblad **Apps** .
+1. Ga naar de pagina **facturerings** > [producten & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) en kies vervolgens het tabblad **apps** .
 
-2. Zoek en selecteer de toepassing die u wilt beheren.  
+2. Zoek en selecteer de app die u wilt beheren.  
 
-3. Selecteer **licenties toevoegen of verwijderen**.
+3. Selecteer **licenties toevoegen/verwijderen**.
 
-4. Voer het nieuwe aantal licenties dat nodig is. Bijvoorbeeld, als u hebt momenteel 5 licenties hoeft slechts 4, Voer 4 in het **Totaal aantal licenties** . Als u op dit moment 5 licenties en 10 totaal aantal licenties nodig hebt, geef 10 op in het vak **Totaal aantal licenties** .
+4. Voer het nieuwe aantal licenties in dat nodig is. Als u momenteel bijvoorbeeld 5 licenties hebt en alleen 4 nodig hebt, voert u 4 in het vak **totale licenties** in. Als u momenteel 5 licenties hebt en 10 totaal licenties nodig hebt, voert u 10 in het vak **totale licenties** in.
 
-## <a name="to-assign-app-licenses"></a>Voor het toewijzen van licenties app
+## <a name="to-assign-app-licenses"></a>App-licenties toewijzen
 
-1. Ga naar de **Facturering** > [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina en kies vervolgens het tabblad **Apps** .
+1. Ga naar de pagina **facturerings** > [producten & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) en kies vervolgens het tabblad **apps** .
 
-2. Zoek en selecteer de toepassing die u wilt beheren.  
+2. Zoek en selecteer de app die u wilt beheren.  
 
-3. Selecteer de koppeling te **beheren in de portal van de uitgever van**onder **Instellingen & acties**.
+3. Selecteer onder **instellingen & acties**de koppeling die u wilt **beheren in de portal van Publisher**.

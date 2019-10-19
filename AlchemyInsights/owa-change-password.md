@@ -12,12 +12,12 @@ ms.custom:
 - "8000002"
 - "1990"
 ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510474"
 ---
-# <a name="change-your-office-365-password"></a>Wijzig uw wachtwoord voor Office 365
+# <a name="change-your-office-365-password"></a>Uw wachtwoord voor Office 365 wijzigen
 
-Als u wilt uw Office 365-wachtwoord opnieuw instellen of wijzigen, kunt u gaan rechtstreeks naar deze pagina: [Microsoft wachtwoord opnieuw instellen](https://go.microsoft.com/fwlink/p/?linkid=841910)
+Als u uw Office 365-wachtwoord moet wijzigen of opnieuw instellen, u rechtstreeks naar deze pagina gaan: [uw Microsoft-wachtwoord opnieuw instellen](https://go.microsoft.com/fwlink/p/?linkid=841910)

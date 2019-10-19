@@ -1,5 +1,5 @@
 ---
-title: XLS-bestand openen dubbelklikken niet
+title: XLS-bestand niet geopend bij dubbelklikken
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530742"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-bestand openen niet
+# <a name="excel-file-doesnt-open"></a>Excel-bestand niet geopend
 
-Probeer een van deze suggesties:
+Probeer een van de volgende suggesties:
 
-**Kies de optie Excel als standaard**
+**Kies Excel als standaard**
 
-* Klik met de rechtermuisknop op het werkblad, kies **openen met**en kies vervolgens in **Excel**
+* Klik met de rechtermuisknop op het werkblad, kies **openen met**en kies vervolgens **Excel**
 
-**Een snelle reparatie uitvoeren**
+**Voer een snelle reparatie uit**
 
-1. Ga naar **Configuratiescherm > programma > programma's en functies**.
+1. Ga naar **Configuratiescherm > Programma's > Programma's en onderdelen**.
 
 2. Selecteer het Office-product dat u wilt herstellen en kies vervolgens **wijzigen**.
 
-3. Kies de optie **Snel herstellen** en kies **herstellen**.
+3. Kies de optie **snel herstellen** en kies vervolgens **herstellen**.
 
-**Versies van Office die u niet gebruikt verwijderen**
+**Versies van Office verwijderen die u niet gebruikt**
 
 1. Ga naar **Configuratiescherm > een programma verwijderen**en selecteer vervolgens de versie van Office die u wilt verwijderen.
 
 2. Klik op **verwijderen**.
 
-3. Start de computer opnieuw.
+3. Start de computer opnieuw op.
 
-**Deze probleemoplosser u extensies te openen in Office Office instellen uitvoeren**
+**Voer deze probleemoplosser uit om Office-bestandsextensies in te stellen voor openen in Office**
 
-1. Deze probleemoplosser worden uitgevoerd: https://aka.ms/diag_officefile.
+1. Voer deze probleemoplosser https://aka.ms/diag_officefileuit:.
 
-2. Afhankelijk van uw browser, **openen** of **Opslaan** met de probleemoplosser het bureaublad en vervolgens **uitvoeren** het.
+2. Afhankelijk van uw browser **opent** of **slaat** u de probleemoplosser op het bureaublad op en voert u deze **uit** .

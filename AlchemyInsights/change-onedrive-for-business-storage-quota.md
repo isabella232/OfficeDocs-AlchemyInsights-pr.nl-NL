@@ -1,5 +1,5 @@
 ---
-title: OneDrive voor Business opslagquotum wijzigen
+title: Opslagquotum voor OneDrive voor bedrijven wijzigen
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519258"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>De standaard OneDrive opslagruimte voor gebruikers wijzigen
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>De standaard OneDrive-opslagruimte voor uw gebruikers wijzigen
 
-1. Ga naar de [pagina van het beheercentrum OneDrive opslag](https://admin.onedrive.com/?v=StorageSettings).
+1. Ga naar de [opslag pagina van het OneDrive-Beheercentrum](https://admin.onedrive.com/?v=StorageSettings).
     
-2. De standaardhoeveelheid opslag (in GB) invoeren in het vak **standaard opslag** en klik vervolgens op **Opslaan**.
+2. Voer het standaardopslagbedrag (in GB) in het vak **standaardopslag** in en klik op **Opslaan**.
     
-Deze opslag ruimte instelling is van toepassing op alle gebruikers voor wie u specifieke opslagbeperkingen nog niet ingesteld. Als u wilt wijzigen in de opslagruimte voor bepaalde gebruikers, moet u Microsoft PowerShell gebruiken. Zie voor informatie over hoe u dit doet, [gebruikers wijzigen OneDrive opslagruimte met PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Deze instelling voor opslagruimte is van toepassing op alle gebruikers voor wie u geen specifieke opslaglimieten hebt ingesteld. Als u de opslagruimte voor specifieke gebruikers wilt wijzigen, moet u Microsoft PowerShell gebruiken. Zie voor meer informatie over hoe u dit doet, [OneDrive-opslagruimte van gebruikers wijzigen met behulp van PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 
