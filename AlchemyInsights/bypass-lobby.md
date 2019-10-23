@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376597"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637772"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Controle lobby instellingen en participatiegraad
 
-Deze instellingen bepalen welke deelnemers aan de vergadering in de lobby wachten voordat ze worden toegelaten tot de vergadering en de mate van deelname die ze in een vergadering hebben toegestaan. U PowerShell gebruiken voor het bijwerken van vergadering beleidsinstellingen die nog niet zijn geïmplementeerd (met het label ' binnenkort beschikbaar ') in het Beheercentrum voor teams.  Zie hieronder voor een voorbeeld PowerShell-cmdlet waarmee alle gebruikers de lobby omzeilen.  
+Als u wilt dat iedereen, met inbegrip van inbellen, externe en anonieme gebruikers de lobby omzeilen, u PowerShell gebruiken om dit te doen. Hier is een voorbeeld van het wijzigen van het algemene vergaderings beleid voor uw organisatie:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Deze cmdlet vereist momenteel het gebruik van Skype voor Business PowerShell-module. Als u wilt instellen voor het gebruik van deze cmdlet, uitchecken beheerbeleid via PowerShell.
+
+U een nieuw beleid instellen, dat u vervolgens moet toepassen op gebruikers. Als u het algemene beleid wijzigt, wordt dit automatisch toegepast op gebruikers. Voor elke beleidswijziging moet u ten minste 4 uur en maximaal 24 uur wachten voordat het beleid van kracht wordt.
+
+Controleer de onderstaande documentatie voordat u deze wijzigingen aanbrengt om precies te begrijpen wat dit toestaat.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Informatie over teams die voldoen aan lobbyen voor het beleid
 
 - [Automatisch](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) toestaan dat mensen is een per-Organizer-beleid dat bepaalt of mensen rechtstreeks deelnemen aan een vergadering of wachten in de lobby totdat ze zijn toegestaan door een geverifieerde gebruiker.
 
@@ -30,15 +40,4 @@ Deze instellingen bepalen welke deelnemers aan de vergadering in de lobby wachte
 
 - [Organisatoren toestaan om de instellingen van de lobby te negeren](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (binnenkort**beschikbaar**) is een per-Organizer-beleid dat bepaalt of de organisator van de vergadering de lobby-instellingen kan overschrijven die een beheerder heeft ingesteld in **automatisch mensen toelaten** en **Inbellen toestaan gebruikers de lobby omzeilen** wanneer ze een nieuwe vergadering plannen.
 
-**Opmerking:** Lees [beleid voor vergadering beheren in teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) voor een volledig overzicht van Microsoft-teams vergadering beleid. 
-
-
-**PowerShell-voorbeeld**
-
-Als u wilt toestaan dat iedereen, met inbegrip van externe of anonieme gebruikers, voor het omzeilen van de lobby, u ook PowerShell gebruiken om deze taak te voltooien.  Hier is een voorbeeld van het wijzigen van het algemene vergaderings beleid voor uw organisatie.   
-
-(Controleer de bovenstaande documentatie voordat u deze wijzigingen aanbrengt om precies te begrijpen wat dit toelaat.)
-
-Set-CsTeamsMeetingPolicy-Identity Global-Autotoetedusers "iedereen"-AllowPSTNUsersToBypassLobby $True
-
-Zie voor meer informatie, [set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Opmerking:** Lees [beleid voor vergadering beheren in teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) voor een volledig overzicht van Microsoft-teams vergadering beleid.
