@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661039"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658288"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="8c419-102">De OneDrive opslag beheren</span><span class="sxs-lookup"><span data-stu-id="8c419-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="a1ea1-102">Uw OneDrive-opslag beheren</span><span class="sxs-lookup"><span data-stu-id="a1ea1-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="8c419-103">De standaard opslag voor nieuwe en bestaande gebruikers van OneDrive wijzigen:</span><span class="sxs-lookup"><span data-stu-id="8c419-103">To change the default storage for new and existing OneDrive users:</span></span>
-  
-- <span data-ttu-id="8c419-104">Ga naar de [pagina van het beheercentrum OneDrive opslag](https://admin.onedrive.com/?v=StorageSettings)en voer vervolgens een nieuw bedrag in GB.</span><span class="sxs-lookup"><span data-stu-id="8c419-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+<span data-ttu-id="a1ea1-103">OneDrive-opslagruimte telt niet mee voor het totale Tenant quotum.</span><span class="sxs-lookup"><span data-stu-id="a1ea1-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
 
-<span data-ttu-id="8c419-105">Deze opslag ruimte instelling is van toepassing op alle gebruikers voor wie u specifieke opslagbeperkingen nog niet ingesteld.</span><span class="sxs-lookup"><span data-stu-id="8c419-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="8c419-106">Als u wilt wijzigen in de opslagruimte voor bepaalde gebruikers, moet u Microsoft PowerShell gebruiken.</span><span class="sxs-lookup"><span data-stu-id="8c419-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="8c419-107">Voor informatie over hoe u dit doet, zien [gebruikers OneDrive opslagruimte met PowerShell wijzigen](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="8c419-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="8c419-108">Als u wilt controleren hoeveel opslagruimte u in uw eigen OneDrive, Zie [beheren van uw OneDrive voor Business-opslag](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="8c419-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="8c419-109">Zie voor informatie over de opslag die wordt geleverd bij elk plan, [OneDrive voor Business servicebeschrijving](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="8c419-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="a1ea1-104">Meer informatie over [hoe OneDrive-opslagruimte per gebruiker/abonnement wordt toegewezen](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="a1ea1-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
+
+<span data-ttu-id="a1ea1-105">Meer informatie over hoeveel [opslagruimte u gebruikt in uw OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="a1ea1-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
+
+<span data-ttu-id="a1ea1-106">Meer informatie over het [OneDrive-opslagquotum ophalen met behulp van PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="a1ea1-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
+
+<span data-ttu-id="a1ea1-107">Microsoft biedt in eerste instantie 1 TB per gebruiker, welke beheerders kunnen verhogen tot maximaal 5 TB per gebruiker.</span><span class="sxs-lookup"><span data-stu-id="a1ea1-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="a1ea1-108">Meer informatie over [het instellen van de standaardopslag ruimte voor OneDrive-gebruikers](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="a1ea1-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
+
+<span data-ttu-id="a1ea1-109">Meer informatie over het [wijzigen van de OneDrive-opslagruimte van een specifieke gebruiker](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="a1ea1-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
+
+<span data-ttu-id="a1ea1-110">Meer informatie over [hoe globale beheerders OneDrive-opslagquotum voor alle gebruikers met behulp van PowerShell instellen](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="a1ea1-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
   

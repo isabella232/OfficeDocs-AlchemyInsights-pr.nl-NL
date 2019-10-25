@@ -2,7 +2,6 @@
 title: De naam van een site wijzigen
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752171"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658360"
 ---
-# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="c56e0-102">De naam van een SharePoint-site wijzigen</span><span class="sxs-lookup"><span data-stu-id="c56e0-102">Rename a SharePoint site</span></span>
+# <a name="rename-a-sharepoint-site"></a><span data-ttu-id="97f7f-102">De naam van een SharePoint-site wijzigen</span><span class="sxs-lookup"><span data-stu-id="97f7f-102">Rename a SharePoint site</span></span>
 
-<span data-ttu-id="c56e0-103">Als u de naam van een site wilt wijzigen, bijvoorbeeld van https://contoso.sharepoint.com/sites/sample1 naar https://contoso.sharepoint.com/sites/sample2, moet u een nieuwe site maken en vervolgens alle inhoud van de oude site naar het nieuwe verplaatsen.</span><span class="sxs-lookup"><span data-stu-id="c56e0-103">To change the name of a site, for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, you need to create a new site and then move all the content from the old site to the new one.</span></span> <span data-ttu-id="c56e0-104">Zie [items uit een SharePoint-documentbibliotheek verplaatsen of kopiëren](https://go.microsoft.com/fwlink/?Linkid=2018691)voor meer informatie over het verplaatsen van items in documentbibliotheken.</span><span class="sxs-lookup"><span data-stu-id="c56e0-104">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?Linkid=2018691).</span></span>
-  
-<span data-ttu-id="c56e0-105">Opmerking: als u probeert te wijzigen van de domeinnaam (dat wil doen, de contoso deel van de URL hierboven) in een URL van SharePoint Online, dat is niet mogelijk.</span><span class="sxs-lookup"><span data-stu-id="c56e0-105">Note: If you are trying to change the domain name (that is, the contoso part of the URL above) in a SharePoint Online URL, that is not possible.</span></span> <span data-ttu-id="c56e0-106">Zie [uw domeinen wijzigen](https://go.microsoft.com/fwlink/?Linkid=2018696).</span><span class="sxs-lookup"><span data-stu-id="c56e0-106">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696).</span></span>
+<span data-ttu-id="97f7f-103">Volg de stappen in [dit artikel](https://docs.microsoft.com/sharepoint/change-site-address) om de naam van een site te wijzigen, bijvoorbeeld van https://contoso.sharepoint.com/sites/sample1 naar. https://contoso.sharepoint.com/sites/sample2</span><span class="sxs-lookup"><span data-stu-id="97f7f-103">Follow steps in [this article](https://docs.microsoft.com/sharepoint/change-site-address) to change the name of a site--for example, from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2.</span></span>
+
+<span data-ttu-id="97f7f-104">**Opmerking:** U de domeinnaam (in het bovenstaande voorbeeld, het gedeelte contoso van de URL) in een URL van SharePoint Online niet wijzigen.</span><span class="sxs-lookup"><span data-stu-id="97f7f-104">**Note:** You cannot change the domain name (in the example above, the contoso part of the URL) in a SharePoint Online URL.</span></span> <span data-ttu-id="97f7f-105">Zie [uw domeinen wijzigen](https://go.microsoft.com/fwlink/?Linkid=2018696) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="97f7f-105">See [Change your domains](https://go.microsoft.com/fwlink/?Linkid=2018696) for more information.</span></span>
   
