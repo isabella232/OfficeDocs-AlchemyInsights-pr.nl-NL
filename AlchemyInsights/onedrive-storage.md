@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661039"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658288"
 ---
-# <a name="manage-your-onedrive-storage"></a>De OneDrive opslag beheren
+# <a name="manage-your-onedrive-storage"></a>Uw OneDrive-opslag beheren
 
-De standaard opslag voor nieuwe en bestaande gebruikers van OneDrive wijzigen:
-  
-- Ga naar de [pagina van het beheercentrum OneDrive opslag](https://admin.onedrive.com/?v=StorageSettings)en voer vervolgens een nieuw bedrag in GB.
+OneDrive-opslagruimte telt niet mee voor het totale Tenant quotum. 
 
-Deze opslag ruimte instelling is van toepassing op alle gebruikers voor wie u specifieke opslagbeperkingen nog niet ingesteld. Als u wilt wijzigen in de opslagruimte voor bepaalde gebruikers, moet u Microsoft PowerShell gebruiken. Voor informatie over hoe u dit doet, zien [gebruikers OneDrive opslagruimte met PowerShell wijzigen](https://go.microsoft.com/fwlink/?linkid=866402). Als u wilt controleren hoeveel opslagruimte u in uw eigen OneDrive, Zie [beheren van uw OneDrive voor Business-opslag](https://go.microsoft.com/fwlink/?linkid=866429). Zie voor informatie over de opslag die wordt geleverd bij elk plan, [OneDrive voor Business servicebeschrijving](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Meer informatie over [hoe OneDrive-opslagruimte per gebruiker/abonnement wordt toegewezen](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Meer informatie over hoeveel [opslagruimte u gebruikt in uw OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Meer informatie over het [OneDrive-opslagquotum ophalen met behulp van PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Microsoft biedt in eerste instantie 1 TB per gebruiker, welke beheerders kunnen verhogen tot maximaal 5 TB per gebruiker. Meer informatie over [het instellen van de standaardopslag ruimte voor OneDrive-gebruikers](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Meer informatie over het [wijzigen van de OneDrive-opslagruimte van een specifieke gebruiker](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Meer informatie over [hoe globale beheerders OneDrive-opslagquotum voor alle gebruikers met behulp van PowerShell instellen](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   
