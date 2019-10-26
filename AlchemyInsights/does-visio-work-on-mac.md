@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36529662"
 ---
-# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="1aef8-102">Werkt Visio op een Mac?</span><span class="sxs-lookup"><span data-stu-id="1aef8-102">Does Visio work on a Mac?</span></span>
+# <a name="does-visio-work-on-a-mac"></a><span data-ttu-id="ff2b4-102">Werkt Visio op een Mac?</span><span class="sxs-lookup"><span data-stu-id="ff2b4-102">Does Visio work on a Mac?</span></span>
 
-<span data-ttu-id="1aef8-103">Er is geen Visio Desktop-toepassing voor Mac.</span><span class="sxs-lookup"><span data-stu-id="1aef8-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="1aef8-104">Zolang de gebruiker die de app nodig heeft echter een [Visio Online-licentie heeft toegewezen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), kunnen ze [diagrammen in Visio online in een webbrowser bekijken, maken en bewerken](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) .</span><span class="sxs-lookup"><span data-stu-id="1aef8-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
+<span data-ttu-id="ff2b4-103">Er is geen Visio Desktop-toepassing voor Mac.</span><span class="sxs-lookup"><span data-stu-id="ff2b4-103">There is no Visio desktop application for Mac.</span></span> <span data-ttu-id="ff2b4-104">Zolang de gebruiker die de app nodig heeft echter een [Visio Online-licentie heeft toegewezen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), kunnen ze [diagrammen in Visio online in een webbrowser bekijken, maken en bewerken](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) .</span><span class="sxs-lookup"><span data-stu-id="ff2b4-104">However, as long as the user who needs the app has a [Visio Online license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), they can [view, create, and edit diagrams in Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) in a web browser.</span></span>
   
   
