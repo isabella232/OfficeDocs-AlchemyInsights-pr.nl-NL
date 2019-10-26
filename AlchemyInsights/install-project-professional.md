@@ -13,19 +13,19 @@ ms.custom:
 - "9000695"
 - "2607"
 ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36739128"
 ---
-# <a name="install-project-professional"></a><span data-ttu-id="18807-102">Project Professional installeren</span><span class="sxs-lookup"><span data-stu-id="18807-102">Install Project Professional</span></span>
+# <a name="install-project-professional"></a><span data-ttu-id="239cd-102">Project Professional installeren</span><span class="sxs-lookup"><span data-stu-id="239cd-102">Install Project Professional</span></span>
 
-<span data-ttu-id="18807-103">Zie [Project installeren](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) voor meer informatie over het installeren van de abonnementsversie van project online en de versie zonder abonnement van project 2019, 2016 of 2013.</span><span class="sxs-lookup"><span data-stu-id="18807-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
+<span data-ttu-id="239cd-103">Zie [Project installeren](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) voor meer informatie over het installeren van de abonnementsversie van project online en de versie zonder abonnement van project 2019, 2016 of 2013.</span><span class="sxs-lookup"><span data-stu-id="239cd-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
 
-<span data-ttu-id="18807-104">Voor project 2010 of 2007 volgt u de stappen in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) of [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="18807-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
+<span data-ttu-id="239cd-104">Voor project 2010 of 2007 volgt u de stappen in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) of [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="239cd-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
 
-<span data-ttu-id="18807-105">Project wordt verkocht als een zelfstandige toepassing, dus als u het nog niet hebt, [koopt of probeert u project](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="18807-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
+<span data-ttu-id="239cd-105">Project wordt verkocht als een zelfstandige toepassing, dus als u het nog niet hebt, [koopt of probeert u project](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="239cd-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
 
 
 
