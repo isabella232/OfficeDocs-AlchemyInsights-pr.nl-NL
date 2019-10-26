@@ -1,5 +1,5 @@
 ---
-title: Een Site verwijderen
+title: Een site verwijderen
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
 ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36512814"
 ---
 # <a name="delete-a-sharepoint-site"></a>Een SharePoint-site verwijderen
 
-1. Klik in het nieuwe SharePoint admin center, op de pagina Sites het selectievakje in naast de site die u wilt verwijderen.
+1. Klik in het nieuwe SharePoint-Beheercentrum op de pagina sites op het selectievakje naast de site die u wilt verwijderen.
     
-2. Klik op **verwijderen**op de werkbalk van het lint.
+2. Klik op de werkbalk van het lint op **verwijderen**.
     
 

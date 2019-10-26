@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor gedrag
+title: Consistentie/bronanker gedrag
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36516971"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor gedrag
+# <a name="consistencyguid--sourceanchor-behavior"></a>Consistentie/bronanker gedrag
 
-Azure AD verbinden (versie 1.1.524.0 en na) nu vergemakkelijkt het gebruik van msDS-ConsistencyGuid als sourceAnchor-kenmerk. Wanneer u deze functie gebruikt, het Azure AD verbinden automatisch synchronisatieregels te configureren:
+Azure AD Connect (versie 1.1.524.0 en na) vereenvoudigt nu het gebruik van msDS-consistentie Cyguid als sourceAnchor kenmerk. Wanneer u deze functie gebruikt, configureert Azure AD Connect automatisch de synchronisatieregels om:
   
-- MsDS-ConsistencyGuid gebruiken als het kenmerk sourceAnchor voor gebruikersobjecten. ObjectGUID wordt gebruikt voor andere objecttypen.
+- Gebruik msDS-consistentie Cyguid als het kenmerk sourceAnchor voor gebruikersobjecten. ObjectGUID wordt gebruikt voor andere objecttypen.
     
-- Voor een gegeven op-premises AD gebruiker object waarvan het kenmerk msDS-ConsistencyGuid niet is ingevuld, Azure AD verbinden schrijft de kenmerken objectGUID waarde terug naar het kenmerk msDS-ConsistencyGuid in Active Directory voor gebouwen. Nadat het kenmerk msDS-ConsistencyGuid is gevuld, Azure AD verbinden het object vervolgens geëxporteerd naar Azure AD.
+- Voor een bepaalde on-premises AD-gebruikersobject waarvan het kenmerk msDS-consistentie Cyguid niet is ingevuld, schrijft Azure AD Connect de waarde objectGUID terug naar het kenmerk msDS-consistentie Cyguid in on-premises Active Directory. Nadat het kenmerk msDS-consistentie Cyguid is ingevuld, Azure AD Connect vervolgens exporteert het object naar Azure AD.
     
- **Opmerking:** Eenmaal een op-premises AD object wordt geïmporteerd in Azure AD Connect (die wordt geïmporteerd in de Connector AD ruimte en geprojecteerd in de Metaverse), u kunt de waarde sourceAnchor niet meer wijzigen. De sourceAnchor waarde voor een gegeven in de lokalen AD object, wordt het kenmerk msDS-ConsistencyGuid configureren voordat deze wordt geïmporteerd in Azure AD verbinden. 
+ **Opmerking:** Zodra een on-premises AD-object is geïmporteerd in azure AD Connect (dat is, geïmporteerd in de AD-connector ruimte en geprojecteerd in de Metaverse), u de waarde sourceAnchor niet meer wijzigen. Als u de waarde sourceAnchor voor een bepaalde on-premises AD-object, configureert u het kenmerk msDS-consistentie Cyguid voordat deze wordt geïmporteerd in azure AD Connect. 
   
-Raadpleeg voor meer informatie over SourceAnchor en ConsistencyGuid, de volgende: [Azure AD verbinden: concepten ontwerpen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Raadpleeg de volgende onderwerpen voor meer informatie over SourceAnchor en consistentie Cyguid: [Azure AD Connect: ontwerpconcepten](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
