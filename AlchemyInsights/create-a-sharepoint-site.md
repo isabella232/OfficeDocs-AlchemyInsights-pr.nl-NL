@@ -2,7 +2,6 @@
 title: Een SharePoint-site maken
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738192"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769586"
 ---
 # <a name="create-a-sharepoint-site"></a>Een SharePoint-site maken
 
@@ -31,10 +30,10 @@ U het volgende zien voor informatie over het maken van SharePoint-sites:
 
 
   
-> [! Tips
-> - U geen site maken met dezelfde URL van een bestaande site. Als u een site hebt verwijderd en de URL opnieuw wilt gebruiken, is het mogelijk dat de verwijderde site nog steeds bestaat onder **Verwijderde sites**. Als je verwijderde sites wilt beheren, zie je [een site verwijderen](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Als u een site met PowerShell volledig wilt verwijderen, raadpleegt u het voorbeeld van de cmdlet [Remove SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Het is mogelijk dat sommige gebruikers geen site kunnen maken. Zie [site maken in SharePoint Online beheren](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Het is mogelijk dat de site lijkt te zijn vastgelopen bij **het maken van** langer dan verwacht. Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, logt u een ondersteuningsticket in. In veel gevallen werken we nu al aan een oplossing. Gelieve ons ten minste 24 uur te geven om een oplossing te voltooien.
-> - Als u een nieuwe team site moet maken die geen Office 365-groep bevat, 
+**Tips:**
+- U geen site maken met dezelfde URL van een bestaande site. Als u een site hebt verwijderd en de URL opnieuw wilt gebruiken, is het mogelijk dat de verwijderde site nog steeds bestaat onder **Verwijderde sites**. Als je verwijderde sites wilt beheren, zie je [een site verwijderen](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Als u een site met PowerShell volledig wilt verwijderen, raadpleegt u het voorbeeld van de cmdlet [Remove SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Het is mogelijk dat sommige gebruikers geen site kunnen maken. Zie [site maken in SharePoint Online beheren](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Het is mogelijk dat de site lijkt te zijn vastgelopen bij **het maken van** langer dan verwacht. Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, logt u een ondersteuningsticket in. In veel gevallen werken we nu al aan een oplossing. Gelieve ons ten minste 24 uur te geven om een oplossing te voltooien.
+- Als u een nieuwe team site moet maken die geen Office 365-groep bevat, 
 
 

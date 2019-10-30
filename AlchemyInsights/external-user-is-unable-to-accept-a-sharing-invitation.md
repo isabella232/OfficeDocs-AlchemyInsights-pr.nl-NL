@@ -2,7 +2,6 @@
 title: Externe gebruiker kan een uitnodiging voordelen niet accepteren
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735888"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769118"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Externe gebruiker kan een uitnodiging voordelen niet accepteren
 
-Als een externe gebruiker een uitnodiging voordelen niet kan accepteren, probeer dan de onderstaande links te bezoeken: 
+Als een externe gebruiker een SharePoint-of OneDrive-uitnodiging voordelen niet kan accepteren, probeer dan de onderstaande links te bezoeken: 
 
 - [' Toegang geweigerd ', ' u moet gemachtigd zijn voor toegang tot deze site ' of ' gebruiker niet gevonden in de map ' fouten in SharePoint Online en OneDrive voor bedrijven](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["Het beleid van uw organisatie staat niet toe dat u delen met deze gebruikers" fout bij het delen van een item of site in SharePoint Online of OneDrive voor bedrijven](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528906"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769370"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>Bedrijfsregel die niet wordt geactiveerd voor een formulier
 
-* [Wordt uw bedrijfsregel niet geactiveerd voor een formulier?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+Een bedrijfsregel kan niet worden uitgevoerd omdat het veld waarnaar wordt verwezen in de bedrijfsregel niet is opgenomen in het formulier. Zie voor meer informatie, [is uw bedrijfsregel niet op een formulier wordt geactiveerd?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

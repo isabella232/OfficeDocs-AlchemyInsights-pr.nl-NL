@@ -3,7 +3,6 @@ title: Waar is Power Pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530937"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769838"
 ---
 # <a name="where-is-power-pivot"></a>Waar is Power Pivot?
 
-Er zijn drie redenen waarom er geen Power Pivot:
+Er zijn drie redenen waarom u Power Pivot mogelijk niet ziet:
   
-**Uw versie van Excel opnemen niet**
+**Uw versie van Excel bevat deze niet**
   
-Niet alle versies van Excel zijn Power Pivot. U moet een upgrade uitvoeren naar een versie van Office met Power Pivot. [Controleer de lijst met ondersteunde versies.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Niet alle versies van Excel bevatten Power Pivot. U moet een upgrade uitvoeren naar een versie van Office met Power Pivot. [Controleer de lijst met ondersteunde versies.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**U hebt geen Power Pivot ingeschakeld**
+**U hebt Power Pivot niet ingeschakeld**
   
-Als u in een versie van Excel die Power Pivot ondersteunt werkt, controleert u of de invoegtoepassing is ingeschakeld:
+Als u werkt in een versie van Excel die Power Pivot ondersteunt, controleert u of de invoegtoepassingen is ingeschakeld:
   
-1. Kies **bestand** \> **Opties** \> **- Invoegtoepassingen**.
+1. Kies invoeg **toepassingen**voor **Bestands** \> **Opties** \> .
 
-2. **COM-invoegtoepassingen** in de vervolgkeuzelijst **beheren** en klik op **Go**.
+2. In de **beheren** vervolgkeuzelijst, kiest u **COM-invoegtoepassingen** en klikt u op **gaan**.
 
-3. Schakel het selectievakje naast de **Microsoft Power Pivot voor Excel**in het dialoogvenster **Com-invoegtoepassingen** en klik vervolgens op **OK**.
+3. Schakel het selectievakje naast **Microsoft Power Pivot voor Excel**in het dialoogvenster **COM-invoegtoepassingen** en klik vervolgens op **OK**.
 
 **U hebt meerdere abonnementen of accounts**
   
-U kunt verschillende Office 365-abonnementen, toegewezen aan verschillende gebruikersaccounts hebben. Zorg ervoor dat u bent aangemeld bij een account met een versie van Excel die Power Pivot ondersteunt. Controleer de lijst met [ondersteunde versies](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)en volg de instructies om te [schakelen tussen verschillende accounts van Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Mogelijk hebt u verschillende Office 365-abonnementen toegewezen aan verschillende gebruikersaccounts. Zorg ervoor dat u bent aangemeld bij een account met een versie van Excel die Power Pivot ondersteunt. Controleer de lijst met [ondersteunde versies](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)en volg de instructies om te [schakelen tussen verschillende Office-accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

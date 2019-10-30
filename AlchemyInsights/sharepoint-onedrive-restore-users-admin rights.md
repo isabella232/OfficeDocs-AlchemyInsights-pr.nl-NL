@@ -1,28 +1,27 @@
 ---
-title: Problemen met toegang tot berichten geweigerd voor OneDrive voor Business-sites
+title: Problemen met toegang geweigerd berichten naar OneDrive voor bedrijven-sites
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 11/14/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 39f9b9b1ca22f6e5959e2b431fb373b0002c0a92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3c40ad76a8961a3d0b4963483291c2a1364c51d3
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507806"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766706"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Problemen met toegang tot berichten geweigerd voor OneDrive voor Business-sites
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Problemen met toegang geweigerd berichten naar OneDrive voor bedrijven-sites
 
-Dit probleem treedt meestal op wanneer een gebruiker is verwijderd en opnieuw met de dezelfde UPN (User Principal Name gemaakt). De nieuwe account is gemaakt met behulp van een andere waarde voor de PUID (unieke Passport-ID). Wanneer de gebruiker probeert toegang te krijgen tot een siteverzameling of hun OneDrive, heeft de gebruiker een onjuist PUID. Een tweede scenario heeft betrekking op directory synchronisatie met een organisatie-eenheid (OU) van Active Directory. Als gebruikers hebben al aangemeld bij SharePoint, worden verplaatst naar een andere organisatie-eenheid en resynced met SharePoint, kunnen zij dit probleem optreden.
+Dit probleem treedt meestal op wanneer een gebruiker wordt verwijderd en opnieuw gemaakt met de dezelfde UPN (User Principal Name). De nieuwe account wordt gemaakt met behulp van een andere waarde van de PUID (paspoort unieke ID). Wanneer de gebruiker probeert toegang te krijgen tot een siteverzameling of hun OneDrive, heeft de gebruiker een onjuiste PUID. Een tweede scenario heeft betrekking op adreslijstsynchronisatie met een Active Directory-organisatie-eenheid (OE). Als gebruikers al zijn aangemeld bij SharePoint en vervolgens worden verplaatst naar een andere organisatie-eenheid en opnieuw worden gesynchroniseerd met SharePoint, kunnen dit probleem optreden.
 
-1. Om dit probleem te verhelpen moet u weer de oorspronkelijke UPN met de stappen in het artikel, het[herstellen van een gebruiker in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Als u de oorspronkelijke gebruiker niet kunt herstellen, moet u de oude gebruiker verwijderen uit de OneDrive-site met behulp van deze stappen [verwijdert u een gebruiker uit de lijst met gebruikersgegevens](). 
-3. Nadat dit is gebeurd, kunt u controleren of dat de gebruiker heeft admin rechten op de OneDrive website met de volgende stappen om [admin toevoegen voor OneDrive van de gebruiker de](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. Om dit probleem op te lossen moet u de oorspronkelijke UPN herstellen met de stappen in het artikel, [een gebruiker herstellen in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Als u de oorspronkelijke gebruiker niet herstellen, moet u de oude gebruiker uit de OneDrive-site verwijderen met behulp van deze stappen, [een gebruiker verwijderen uit de lijst met gebruikersgegevens](). 
+3. Nadat dit is gebeurd, u controleren of de gebruiker beheerdersrechten heeft op de OneDrive-site door de stappen [voor het toevoegen van beheerders voor de onedrive van een gebruiker toe te voegen](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
 
-Zie voor meer informatie over machtigingsniveaus, het artikel, [Wat zijn machtigingsniveaus in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Zie voor meer informatie over machtigingsniveaus het artikel [machtigingsniveaus in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).

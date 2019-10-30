@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754187"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768796"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Probleem oplossen-gebruiker niet gevonden in map
 
-Als gebruikers ontvangen foutbericht ' gebruiker kan niet worden gevonden ' in de map. Probeer het opnieuw waar het probleem type is gebruiker niet in de map.
+Als gebruikersfout bericht ' gebruiker kan niet worden gevonden ' in de map ontvangt, probeert u opnieuw waar het probleem type is gebruiker niet in de map.
 
 De volgende stappen kunnen worden voltooid om het probleem op te lossen.
 
@@ -29,7 +29,7 @@ Zie voor meer informatie, [over het beheren van aliassen voor uw micro</a> Soft-
 
 Voeg '/_layouts/15/people.aspx/membershipgroupid = 0 ' (binnen de dubbele aanhalingstekens) toe aan het einde van de site-URL. 
 
-Voorbeeld: https:/_Lt_ "contoso">. SharePoint. com/_layouts/15/people. aspx/membershipGroupId = 0.
+Voorbeeld: https://< ' Contoso ' >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Selecteer de gebruiker in de lijst.
 

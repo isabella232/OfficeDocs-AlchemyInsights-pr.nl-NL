@@ -1,9 +1,8 @@
 ---
-title: Een extra e-mailadres toe te voegen aan een distributielijst 713
+title: 713 een extra e-mailadres toevoegen aan een distributielijst
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494774"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766202"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Een e-mailadres voor een distributiegroep toevoegen
 
-E-mailadressen voor een bestaande groep in de distributielijst toevoegen, volg deze stappen:
+Als u e-mailadressen voor een bestaande distributiegroep wilt toevoegen, volgt u deze stappen:
 
-1. Ga naar de **geadresseerden** in het [beheercentrum van Exchange](https://outlook.office365.com/ecp/), \> **groepen**.
+1. Ga in het [Beheercentrum van Exchange](https://outlook.office365.com/ecp/)naar **** \> **groepen**geadresseerden.
 
 2. Selecteer de distributiegroep die u wilt wijzigen en klik vervolgens op **bewerken**.
 
-3. Ga naar het tabblad **E-mail** e-mailadressen toevoegen in de eigenschappen van de groep. 
+3. Ga in de eigenschappen van de groep naar het tabblad **e-mail opties** om e-mailadressen toe te voegen. 
 
-Zie voor meer informatie [e-mailopties](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Zie [e-mail opties](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)voor meer informatie.

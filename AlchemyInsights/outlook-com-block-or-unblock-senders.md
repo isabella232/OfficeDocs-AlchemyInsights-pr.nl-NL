@@ -1,5 +1,5 @@
 ---
-title: Blokkeren of de blokkering opheffen van afzenders in Outlook.com
+title: Blokkeer of deblokkeer afzenders in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643689"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768723"
 ---
-# <a name="block-or-unblock-senders"></a>Blokkeren of de blokkering opheffen van afzenders
+# <a name="block-or-unblock-senders"></a>Afzenders blokkeren of deblokkeren
 
-Berichten van e-mailadressen of domeinen in uw geblokkeerde afzenders gaat rechtstreeks naar de map Ongewenste E-mail. E-mail wordt automatisch verwijderd uit de map Ongewenste E-mail na 30 dagen en kan niet worden hersteld. SE; ect een item om te zien wanneer deze worden verwijderd.
+Berichten van e-mailadressen of domeinen op uw geblokkeerde afzenders gaan rechtstreeks naar uw map voor ongewenste E-mail van Outlook. E-mail wordt na 30 dagen automatisch verwijderd uit de map Ongewenste E-mail en is niet herstelbaar. Selecteer een item om te zien wanneer het wordt verwijderd.
 
-**Uit uw postvak in:**
+**Vanuit je inbox:**
 
-- Selecteer het bericht in de berichtenlijst en selecteert u **ongewenste** > **blokkeren**.
-- **Opmerking:** Een item dat al in de map Ongewenste E-mail blokkeren wordt niet verwijderd.
+- Selecteer het bericht in de berichtenlijst en selecteer vervolgens **junk** > **Block**.
+- **Opmerking:** Als u een item blokkeert dat al in uw map voor ongewenste E-mail is, wordt het niet verwijderd.
 
-**Van de instellingen:**
+**Van instellingen:**
 
 1. Open instellingen voor [ongewenste e-mail](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. Selecteer onder **geblokkeerde afzenders en domeinen** **toevoegen**.
-3. Typ het e-mailadres van het domein dat u wilt blokkeren en druk op Enter.
+2. Onder **Geblokkeerde afzenders en domeinen**, selecteer **toevoegen**.
+3. Typ het e-mailadres van het domein dat u wilt blokkeren en druk op ENTER.
 4. Selecteer **Opslaan**.
 
-Als u wilt een afzender deblokkeren, selecteert u de prullenmand naast het e-mailadres of domein dat u wilt deblokkeren.
+Als u een afzender wilt deblokkeren, selecteert u het prullenbakpictogram naast het e-mailadres of domein dat u wilt deblokkeren.
 
-Voor meer informatie, Zie [e-mail als ongewenste e-mail of blokkeren van afzenders in Outlook.com markeren](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Zie [E-mail markeren als ongewenste reclame of afzenders blokkeren in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.
