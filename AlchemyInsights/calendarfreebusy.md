@@ -1,8 +1,7 @@
 ---
-title: 400 agenda - FreeBusy
+title: 400 kalender-FreeBusy
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +9,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c3e9f99f0132f3fffa492c995cd8c45959749ea
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396213"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768471"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="13649-102">Problemen met agenda-informatie omtrent vrije/bezette tijden weergeven</span><span class="sxs-lookup"><span data-stu-id="13649-102">Issues seeing calendar free/busy information</span></span>
+# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="ac832-102">Problemen met het zien van informatie over agenda vrije/bezette tijden</span><span class="sxs-lookup"><span data-stu-id="ac832-102">Issues seeing calendar free/busy information</span></span>
 
-<span data-ttu-id="13649-103">Gebruik [Ondersteunings- en herstelassistent voor Office 365](https://diagnostics.office.com/) als u geen beschikbaarheidsinfo in andere agenda’s kunt zien of als anderen geen beschikbaarheidsinfo in uw agenda kunnen zien.</span><span class="sxs-lookup"><span data-stu-id="13649-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="ac832-103">Als u agenda vrije/bezette tijden in andere Outlook-agenda's niet zien of als andere mensen geen beschikbaarheidsinfo in uw agenda kunnen zien, gebruikt u de [Microsoft-ondersteunings-en Herstelassistent voor Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="ac832-103">If you can't see calendar free/busy information in other Outlook calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
