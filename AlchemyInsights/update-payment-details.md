@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660931"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921809"
 ---
 # <a name="update-payment-details"></a>Betalingsgegevens bijwerken
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660931"
 4. Bewerk de gegevens en kies **Opslaan**.
 
 5. Als u deze betalingsmethode wilt verwijderen, kiest u **Verwijderen**.
+
+**Problemen oplossen**
+
+Indien u problemen ondervindt bij het laden van de pagina, kunt u de webpagina openen in een andere browser of in een privé browservenster, zoals een InPrivate-venster in Microsoft Edge of een incognito-venster in Google Chrome. 
 
 Zie [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) en [Problemen met creditcards en bankrekeningen oplossen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) voor meer informatie.
