@@ -14,15 +14,15 @@ ms.custom:
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
 ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36734448"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="60cde-102">Postbussen migreren tussen twee verschillende tenants</span><span class="sxs-lookup"><span data-stu-id="60cde-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="81599-102">Postbussen migreren tussen twee verschillende tenants</span><span class="sxs-lookup"><span data-stu-id="81599-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="60cde-103">U moet mogelijk postbussen migreren tussen twee verschillende tenants in Office 365, bijvoorbeeld wanneer er organisatie fusies zijn.</span><span class="sxs-lookup"><span data-stu-id="60cde-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="60cde-104">Deze migraties moeten zorgvuldig worden gepland.</span><span class="sxs-lookup"><span data-stu-id="60cde-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="60cde-105">Raadpleeg de volgende richtlijnen:</span><span class="sxs-lookup"><span data-stu-id="60cde-105">Please see the following guidance:</span></span>
+<span data-ttu-id="81599-103">U moet mogelijk postbussen migreren tussen twee verschillende tenants in Office 365, bijvoorbeeld wanneer er organisatie fusies zijn.</span><span class="sxs-lookup"><span data-stu-id="81599-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="81599-104">Deze migraties moeten zorgvuldig worden gepland.</span><span class="sxs-lookup"><span data-stu-id="81599-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="81599-105">Raadpleeg de volgende richtlijnen:</span><span class="sxs-lookup"><span data-stu-id="81599-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="60cde-106">Het migreren van postvakken van een Office 365-Tenant naar een andere</span><span class="sxs-lookup"><span data-stu-id="60cde-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[<span data-ttu-id="81599-106">Het migreren van postvakken van een Office 365-Tenant naar een andere</span><span class="sxs-lookup"><span data-stu-id="81599-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

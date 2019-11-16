@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36497582"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="479dc-102">Bestanden die niet kunnen worden geüpload naar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="479dc-102">Files that can't be uploaded to SharePoint Online</span></span>
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="27ba9-102">Bestanden die niet kunnen worden geüpload naar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="27ba9-102">Files that can't be uploaded to SharePoint Online</span></span>
 
-<span data-ttu-id="479dc-103">Als een bestand niet naar SharePoint Online wordt geüpload, controleert u of:</span><span class="sxs-lookup"><span data-stu-id="479dc-103">If a file won't upload to SharePoint Online, make sure:</span></span>
+<span data-ttu-id="27ba9-103">Als een bestand niet naar SharePoint Online wordt geüpload, controleert u of:</span><span class="sxs-lookup"><span data-stu-id="27ba9-103">If a file won't upload to SharePoint Online, make sure:</span></span>
   
-- <span data-ttu-id="479dc-104">Het is minder dan 15 GB groot.</span><span class="sxs-lookup"><span data-stu-id="479dc-104">It's less than 15 GB in size.</span></span>
+- <span data-ttu-id="27ba9-104">Het is minder dan 15 GB groot.</span><span class="sxs-lookup"><span data-stu-id="27ba9-104">It's less than 15 GB in size.</span></span>
     
-- <span data-ttu-id="479dc-105">Het volledige pad, inclusief de bestandsnaam, is minder dan 400 tekens.</span><span class="sxs-lookup"><span data-stu-id="479dc-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
+- <span data-ttu-id="27ba9-105">Het volledige pad, inclusief de bestandsnaam, is minder dan 400 tekens.</span><span class="sxs-lookup"><span data-stu-id="27ba9-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
     
-- <span data-ttu-id="479dc-106">De bestandsnaam bevat niet de tekens ' \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="479dc-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="479dc-107">/ \ | en staat niet in de lijst met [ongeldige namen](https://go.microsoft.com/fwlink/?linkid=866430).</span><span class="sxs-lookup"><span data-stu-id="479dc-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
+- <span data-ttu-id="27ba9-106">De bestandsnaam bevat niet de tekens ' \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="27ba9-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="27ba9-107">/ \ | en staat niet in de lijst met [ongeldige namen](https://go.microsoft.com/fwlink/?linkid=866430).</span><span class="sxs-lookup"><span data-stu-id="27ba9-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
     
-<span data-ttu-id="479dc-108">Als u het bestand probeert te uploaden met de OneDrive-desktopapp, raadpleegt u [beperkingen en beperkingen wanneer u bestanden en mappen synchroniseert](http://go.microsoft.com/fwlink/p/?LinkID=717734) of [OneDrive-synchronisatieproblemen oplost](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="479dc-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="27ba9-108">Als u het bestand probeert te uploaden met de OneDrive-desktopapp, raadpleegt u [beperkingen en beperkingen wanneer u bestanden en mappen synchroniseert](http://go.microsoft.com/fwlink/p/?LinkID=717734) of [OneDrive-synchronisatieproblemen oplost](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="27ba9-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 
