@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768363"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704348"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="38f85-102">Word een admin</span><span class="sxs-lookup"><span data-stu-id="38f85-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="b28e2-102">Word een admin</span><span class="sxs-lookup"><span data-stu-id="b28e2-102">Become an Admin</span></span>
 
-<span data-ttu-id="38f85-103">Als u de beheerdersrol voor uw organisatie wilt overnemen, moet u de Tenant overnemen in Office 365.</span><span class="sxs-lookup"><span data-stu-id="38f85-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
+<span data-ttu-id="b28e2-103">Als u de beheerdersrol voor uw organisatie wilt overnemen, moet u de Tenant overnemen in Office 365.</span><span class="sxs-lookup"><span data-stu-id="b28e2-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
   
-<span data-ttu-id="38f85-104">Volg de instructies in deze handleiding: [een admin overname in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="38f85-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="b28e2-104">Volg de instructies in deze handleiding: overname van de [beheerder](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)</span><span class="sxs-lookup"><span data-stu-id="b28e2-104">Follow the instructions in this guide: [Admin Takeover](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)</span></span>
