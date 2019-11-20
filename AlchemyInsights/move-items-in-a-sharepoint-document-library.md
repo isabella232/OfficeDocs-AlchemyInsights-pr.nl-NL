@@ -1,5 +1,5 @@
 ---
-title: Verplaatsen van items in een SharePoint-documentbibliotheek
+title: Items verplaatsen in een SharePoint-documentbibliotheek
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,24 +13,31 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549034"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711715"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="758db-102">Verplaatsen van items in een SharePoint-documentbibliotheek</span><span class="sxs-lookup"><span data-stu-id="758db-102">Move items in a SharePoint document library</span></span>
+# <a name="move-items-in-a-sharepoint-document-library"></a><span data-ttu-id="c23c1-102">Items verplaatsen in een SharePoint-documentbibliotheek</span><span class="sxs-lookup"><span data-stu-id="c23c1-102">Move items in a SharePoint document library</span></span>
 
-<span data-ttu-id="758db-103">U kunt objecten verplaatsen naar andere locaties in een documentbibliotheek.</span><span class="sxs-lookup"><span data-stu-id="758db-103">You can move items to different locations within a document library.</span></span> <span data-ttu-id="758db-104">Als u [ingesteld met de optie Targeted vrijgeven hebt](https://go.microsoft.com/fwlink/?linkid=622980), kunt u items ook verplaatsen tussen sites.</span><span class="sxs-lookup"><span data-stu-id="758db-104">If you've [set up the Targeted release option](https://go.microsoft.com/fwlink/?linkid=622980), you can also move items across sites.</span></span> <span data-ttu-id="758db-105">Als u documenten hebt verplaatst, wordt de geschiedenis ook verplaatst.</span><span class="sxs-lookup"><span data-stu-id="758db-105">When you move documents, their history is also moved.</span></span>
+<span data-ttu-id="c23c1-103">U items verplaatsen naar verschillende locaties in een documentbibliotheek.</span><span class="sxs-lookup"><span data-stu-id="c23c1-103">You can move items to different locations within a document library.</span></span>
   
-1. <span data-ttu-id="758db-106">Ga in een webbrowser naar de bestanden, mappen of koppelingen die u wilt verplaatsen en klik vervolgens op **verplaatsen naar**.</span><span class="sxs-lookup"><span data-stu-id="758db-106">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
+1. <span data-ttu-id="c23c1-104">Blader in een webbrowser naar de bestanden, mappen of koppelingen die u wilt verplaatsen en klik vervolgens op **verplaatsen naar**.</span><span class="sxs-lookup"><span data-stu-id="c23c1-104">In a web browser, browse to the files, folders, or links you want to move, and then click **Move to**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="758db-107">**Verplaatsen naar** is niet beschikbaar als u de klassieke ervaring van SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="758db-107">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
+    > <span data-ttu-id="c23c1-105">**Verplaatsen naar** is niet beschikbaar als u de klassieke ervaring van SharePoint Online gebruikt.</span><span class="sxs-lookup"><span data-stu-id="c23c1-105">**Move to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
   
-2. <span data-ttu-id="758db-108">Klik onder **Kies een bestemming**, selecteer de locatie waarnaar u wilt verplaatsen van de artikelen.</span><span class="sxs-lookup"><span data-stu-id="758db-108">Under **Choose a destination**, select the location to which you want to move the items.</span></span> <span data-ttu-id="758db-109">Als u naar een andere site verplaatsen wilt of subsite en deze niet ziet, klikt u op **Bladeren op sites** om de volledige lijst van sites die u naar verplaatsen kunt.</span><span class="sxs-lookup"><span data-stu-id="758db-109">If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span>
+2. <span data-ttu-id="c23c1-106">Selecteer onder **een bestemming kiezen**de locatie waarnaar u de items wilt verplaatsen.</span><span class="sxs-lookup"><span data-stu-id="c23c1-106">Under **Choose a destination**, select the location to which you want to move the items.</span></span> <span data-ttu-id="c23c1-107">Als u naar een andere site of subsite verhuist en deze niet ziet staan, klikt u op **Browse sites** om de volledige lijst met sites te bekijken waarnaar u gaan.</span><span class="sxs-lookup"><span data-stu-id="c23c1-107">If you're moving to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can move to.</span></span>
 
-    <span data-ttu-id="758db-110">Wilt maken in een nieuwe map voor de bestanden, selecteer een locatie in de hiërarchie verplaatsen, klikt u op **nieuwe map**, typ een naam voor de map en klikt u op het vinkje om de naam van de opgeslagen.</span><span class="sxs-lookup"><span data-stu-id="758db-110">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
+    <span data-ttu-id="c23c1-108">Als u een nieuwe map wilt maken waarnaar u de bestanden wilt verplaatsen, selecteert u een locatie in de mappenhiërarchie, klikt u op **nieuwe map**, voert u een naam voor de map in en klikt u op het vinkje om de naam op te slaan.</span><span class="sxs-lookup"><span data-stu-id="c23c1-108">To create a new folder to move the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
 
-3. <span data-ttu-id="758db-111">Klik **hier te verplaatsen**.</span><span class="sxs-lookup"><span data-stu-id="758db-111">Click **Move here**.</span></span>
+3. <span data-ttu-id="c23c1-109">Klik op **hier verplaatsen**.</span><span class="sxs-lookup"><span data-stu-id="c23c1-109">Click **Move here**.</span></span>
+
+ <span data-ttu-id="c23c1-110">Wanneer een bestand wordt verplaatst, wordt het nog steeds weergegeven in de bronmap totdat het volledig is verplaatst naar de bestemming en vervolgens wordt het verwijderd.</span><span class="sxs-lookup"><span data-stu-id="c23c1-110">When a file is moving, it will still appear in the source directory until its fully moved to the destination, and then it will be deleted.</span></span> <span data-ttu-id="c23c1-111">Het bestand blijft in de Prullenbak van de bronsites staan nadat de verplaatsing is voltooid en is onderhevig aan het normale Recycle schema, tenzij een gebruiker het herstelt van de Prullenbak.</span><span class="sxs-lookup"><span data-stu-id="c23c1-111">The file will remain in the source sites recycle bin after the move is complete and be subject to the normal recycle schedule unless a user recovers it from the recycle bin.</span></span>
+
+<span data-ttu-id="c23c1-112">Zie voor meer informatie:</span><span class="sxs-lookup"><span data-stu-id="c23c1-112">For more information, see:</span></span>
+
+ - <span data-ttu-id="c23c1-113">[Bestanden verplaatsen of kopiëren in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office Support-artikel)</span><span class="sxs-lookup"><span data-stu-id="c23c1-113">[Move or copy files in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office support article)</span></span>
+ - <span data-ttu-id="c23c1-114">[Verplaats bestanden vanuit elke map in Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog artikel)</span><span class="sxs-lookup"><span data-stu-id="c23c1-114">[Move files from any folder in Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog article)</span></span> 
