@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516352"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711787"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Items in een SharePoint-documentbibliotheek kopiëren
 
-1. Ga in een webbrowser naar de bestanden, mappen of koppelingen die u wilt kopiëren en klik vervolgens op **kopiëren naar**.
+1. Blader in een webbrowser naar de bestanden, mappen of koppelingen die u wilt kopiëren en klik vervolgens op **kopiëren naar**.
 
     > [!NOTE]
-    > **Kopiëren naar** is niet beschikbaar als u de klassieke ervaring van SharePoint Online.
+    > **Kopiëren naar** is niet beschikbaar als u de klassieke ervaring van SharePoint Online gebruikt.
   
-2. Klik onder **Kies een bestemming**, selecteer de locatie waarnaar u de items kopiëren. Als u naar een andere site kopieert of subsite en deze niet ziet, klikt u op **Bladeren op sites** om de volledige lijst van sites die u naar kopiëren kunt.
+2. Selecteer onder **een bestemming kiezen**de locatie waarnaar u de items wilt kopiëren. Als u naar een andere site of subsite kopieert en deze niet ziet staan, klikt u op **Browse sites** om de volledige lijst met sites te bekijken waarnaar u kopiëren.
 
     > [!NOTE]
-    > Als er geen andere sites weergegeven wanneer u items kopieert, is niet kopieert alle sites geconfigureerd. Ga naar de instellingenpagina van het SharePoint admin center inschakelen en klik op **OK**.
+    > Als u geen andere sites ziet die worden weergegeven wanneer u items kopieert, is kopiëren tussen sites niet geconfigureerd. Als u wilt inschakelen, gaat u naar de instellingen pagina van het SharePoint-Beheercentrum en klik op **OK**.
   
-    Om een nieuwe map als u de bestanden kopiëren, selecteer een locatie in de mapstructuur weer wilt maken, klikt u op **nieuwe map**, voer een naam voor de map en klikt u op het vinkje om de naam van de opgeslagen.
+    Als u een nieuwe map wilt maken waarnaar u de bestanden wilt kopiëren, selecteert u een locatie in de mappenhiërarchie, klikt u op **nieuwe map**, voert u een naam voor de map in en klikt u op het vinkje om de naam op te slaan.
 
-3. Klik op **Hierheen kopiëren**.
+3. Klik op **hier kopiëren**.
 
 > [!NOTE]
-> U kunt maximaal 500 MB aan bestanden en mappen in één keer kopiëren. > wanneer u **kopiëren naar** met documenten die de versiegeschiedenis, alleen de meest recente versie hebt gekopieerd.
+> U maximaal 500 MB aan bestanden en mappen tegelijk kopiëren. > wanneer u **kopiëren naar** gebruikt met documenten met versiegeschiedenis, wordt alleen de meest recente versie gekopieerd.
   
+Zie voor meer informatie:
+
+ - [Bestanden verplaatsen of kopiëren in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office Support-artikel)
+ - [Verplaats bestanden vanuit elke map in Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog artikel)   
