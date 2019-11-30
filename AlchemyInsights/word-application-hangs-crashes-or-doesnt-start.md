@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026919"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628165"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word crasht of reageert niet
 
@@ -31,7 +31,7 @@ Als Word niet wordt gestart, probeert u het volgende:
 1.   Sluit Outlook op een Windows-bureaublad en druk op CTRL + ALT + DEL om Taakbeheer te openen. 
 2. Op het tabblad **processen** , als Word-processen worden uitgevoerd, selecteert u deze en kiest u **taak beëindigen**. Het is ook raadzaam dat u opnieuw opstarten om alles uit het geheugen te wissen.
 
-    Als Word blijft vastlopen of vastloopt tijdens de lancering, raadpleegt u [Office-apps openen in de veilige modus op een Windows-PC](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) om deze in de veilige modus te starten.
+    Als Word blijft vastlopen of vastloopt tijdens de lancering, raadpleegt u [Office-apps openen in de veilige modus op een Windows-PC](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) om deze in de veilige modus te starten.
 
 Als u nog steeds problemen ondervindt, raadpleegt u de volgende artikelen: 
 - [Ik krijg een "gestopt met werken" fout bij het starten van Office-toepassingen op mijn PC](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
