@@ -30,5 +30,5 @@ ms.locfileid: "36745428"
 
 5. Verwijder het gebruikersaccount uit eventuele [beheerdersrolgroepen](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) totdat u zeker weet dat het account is veiliggesteld.
 
-Lees de [roadmap voor Office 365-beveiliging](https://docs.microsoft.com//office365/securitycompliance/security-roadmap) om gegevenslekken en inbraken bij accounts in de toekomst te voorkomen.
+Lees de [roadmap voor Office 365-beveiliging](https://docs.microsoft.com//office365/securitycompliance/security-roadmap) om gegevenslekken en gecompromitteerde accounts in de toekomst te voorkomen.
   

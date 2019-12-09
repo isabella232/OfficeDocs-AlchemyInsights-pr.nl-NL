@@ -22,4 +22,4 @@ ms.locfileid: "36665863"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Problemen met het voltooien van een aankoop in het Microsoft 365-beheercentrum
 
-Wanneer u een aankoop probeert te doen en u meerdere keren bent gevraagd u aan te melden bij het Microsoft 365-beheercentrum of u ontvangt een bericht dat er een probleem is gevonden, kunt u het beste eerst de InPrivate-/incognitomodus van uw browser proberen. Na het openen van een InPrivate-/incognitovenster, gaat u naar de site [admin.microsoft.com](https://admin.microsoft.com) en meldt u zich aan met uw beheerdersreferenties. Ga vervolgens verder met uw aankoop.
+Wanneer u een aankoop probeert te doen en u meerdere keren bent gevraagd u aan te melden bij het Microsoft 365-beheercentrum, of als u een bericht ontvangt dat er een probleem is gevonden, kunt u het beste eerst de InPrivate-/incognitomodus van uw browser proberen. Na het openen van een InPrivate-/incognitovenster, gaat u naar de site [admin.microsoft.com](https://admin.microsoft.com) en meldt u zich aan met uw beheerdersreferenties. Ga vervolgens verder met uw aankoop.
