@@ -1,7 +1,7 @@
 ---
-title: Alleen-lezen voor onderhoud wordt weergegeven wanneer u probeert te gebruiken van SharePoint of OneDrive
-ms.author: efrene
-author: efrene
+title: Alleen-lezen voor onderhouds bericht bij een poging om SharePoint of OneDrive te gebruiken
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620718"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051276"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a><span data-ttu-id="3fba2-102">Alleen-lezen voor onderhoud wordt weergegeven wanneer u probeert te gebruiken van SharePoint of OneDrive</span><span class="sxs-lookup"><span data-stu-id="3fba2-102">Read-Only for Maintenance message when attempting to use SharePoint or OneDrive</span></span>
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a><span data-ttu-id="b906d-102">Alleen-lezen voor onderhouds bericht bij een poging om SharePoint of OneDrive te gebruiken</span><span class="sxs-lookup"><span data-stu-id="b906d-102">Read-Only for Maintenance message when attempting to use SharePoint or OneDrive</span></span>
 
-<span data-ttu-id="3fba2-103">Gebruikers kunnen een bericht **Alleen-lezen voor onderhoud** tijdens het gebruik van SharePoint of OneDrive voor een van de volgende scenario's.</span><span class="sxs-lookup"><span data-stu-id="3fba2-103">Users may receive a **Read-Only for Maintenance** message when attempting to use SharePoint or OneDrive for one of the following scenarios.</span></span> 
+<span data-ttu-id="b906d-103">Gebruikers kunnen een **alleen-lezen voor onderhouds** bericht ontvangen wanneer u probeert te gebruiken van SharePoint of OneDrive voor een van de volgende scenario's.</span><span class="sxs-lookup"><span data-stu-id="b906d-103">Users may receive a **Read-Only for Maintenance** message when attempting to use SharePoint or OneDrive for one of the following scenarios.</span></span> 
 
--   <span data-ttu-id="3fba2-104">Een geplande of actieve onderhoudsactiviteiten.</span><span class="sxs-lookup"><span data-stu-id="3fba2-104">A planned or active maintenance activity.</span></span>  <span data-ttu-id="3fba2-105">Controleer of ze door te gaan met het [Berichtencentrum](https://portal.office.com/adminportal/home#/messagecenter).</span><span class="sxs-lookup"><span data-stu-id="3fba2-105">Check for them by navigating to the [Message Center](https://portal.office.com/adminportal/home#/messagecenter).</span></span>
--   <span data-ttu-id="3fba2-106">Een hoge prioriteit actieve service incident dat zich zou kunnen voordoen.</span><span class="sxs-lookup"><span data-stu-id="3fba2-106">A high-priority, active service incident that may be occurring.</span></span> <span data-ttu-id="3fba2-107">Controleren op eventuele aanbevelingen/incidenten door te gaan voor de [Gezondheid van de Service](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="3fba2-107">Check for any advisories/incidents by navigating to [Service Health](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
--   <span data-ttu-id="3fba2-108">Een kleine automatische retoucheren herstelscenario dat kan gebeuren als gevolg van een onverwachte gebeurtenissen op de servers die voor minder dan 30 minuten of zo mogelijk laatste.</span><span class="sxs-lookup"><span data-stu-id="3fba2-108">A minor auto-healing recovery scenario that could be happening due to any unexpected events on the servers which might last for less than 30 min or so.</span></span> 
+-   <span data-ttu-id="b906d-104">Een geplande of actieve onderhoudsactiviteit.</span><span class="sxs-lookup"><span data-stu-id="b906d-104">A planned or active maintenance activity.</span></span>  <span data-ttu-id="b906d-105">Controleer ze door naar het [berichtencentrum](https://portal.office.com/adminportal/home#/messagecenter)te navigeren.</span><span class="sxs-lookup"><span data-stu-id="b906d-105">Check for them by navigating to the [Message Center](https://portal.office.com/adminportal/home#/messagecenter).</span></span>
+-   <span data-ttu-id="b906d-106">Een actief service incident met hoge prioriteit dat kan optreden.</span><span class="sxs-lookup"><span data-stu-id="b906d-106">A high-priority, active service incident that may be occurring.</span></span> <span data-ttu-id="b906d-107">Controleer op eventuele adviezen/incidenten door te navigeren naar de [service status](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="b906d-107">Check for any advisories/incidents by navigating to [Service Health](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+-   <span data-ttu-id="b906d-108">Een kleine auto-Healing herstelscenario dat kan gebeuren als gevolg van onverwachte gebeurtenissen op de servers die kunnen duren voor minder dan 30 min of zo.</span><span class="sxs-lookup"><span data-stu-id="b906d-108">A minor auto-healing recovery scenario that could be happening due to any unexpected events on the servers which might last for less than 30 min or so.</span></span> 
     
-    <span data-ttu-id="3fba2-109">Er zijn geen Message Center of Health Service post voor deze kleine terugvorderingen, maar moet worden zeer binnenkort weer in de normale.</span><span class="sxs-lookup"><span data-stu-id="3fba2-109">There are no Message Center or Service Health posts for these minor recoveries but you should be back to normal very soon.</span></span>
+    <span data-ttu-id="b906d-109">Er zijn geen berichtencentrum of service Health Posts voor deze kleine terugvorderingen, maar je moet heel snel terug naar normaal.</span><span class="sxs-lookup"><span data-stu-id="b906d-109">There are no Message Center or Service Health posts for these minor recoveries but you should be back to normal very soon.</span></span>
 
-<span data-ttu-id="3fba2-110">In enkele gevallen waargenomen we dat een van de drie scenario's hierboven vermeld zijn de oorzaak, en service is hersteld, maar de gebruikers browsercache nog niet is gewist van.</span><span class="sxs-lookup"><span data-stu-id="3fba2-110">On very few occasions we observed that one of the three scenarios listed above have been the cause, and service has been restored, but the users browser cache hasn’t been cleared up.</span></span>
+<span data-ttu-id="b906d-110">Bij zeer weinig gelegenheden hebben we geconstateerd dat een van de drie hierboven genoemde scenario's de oorzaak zijn geweest, en de service is hersteld, maar de gebruikers browser cache is niet gewist.</span><span class="sxs-lookup"><span data-stu-id="b906d-110">On very few occasions we observed that one of the three scenarios listed above have been the cause, and service has been restored, but the users browser cache hasn’t been cleared up.</span></span>
 
-<span data-ttu-id="3fba2-111">Probeer om de cache van de browser wissen voordat u naar de site navigeren.</span><span class="sxs-lookup"><span data-stu-id="3fba2-111">Please attempt to clear the browser cache before navigating to the site.</span></span>
+<span data-ttu-id="b906d-111">Probeer de browser cache te wissen voordat u naar de site navigeert.</span><span class="sxs-lookup"><span data-stu-id="b906d-111">Please attempt to clear the browser cache before navigating to the site.</span></span>
 
-1. <span data-ttu-id="3fba2-112">Selecteer **Instellingen**en selecteer **Privacy en beveiliging**in de browser Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="3fba2-112">In your Microsoft Edge browser, select **Settings**, and then select **Privacy and Security**.</span></span>
-2. <span data-ttu-id="3fba2-113">Selecteer onder het **wissen bladeren**, **kiezen wat u wilt wissen**.</span><span class="sxs-lookup"><span data-stu-id="3fba2-113">Under **Clear browsing**, select **Choose what to clear**.</span></span>
-3. <span data-ttu-id="3fba2-114">Selecteer **Cookies en gegevens opgeslagen websites**en selecteer **wissen**.</span><span class="sxs-lookup"><span data-stu-id="3fba2-114">Select **Cookies and saved website data**, and select **Clear**.</span></span>
-
->[!Note] 
-> <span data-ttu-id="3fba2-115">Deze stappen kunnen verschillen bij het gebruik van andere browsers zoals Mozilla Firefox of Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="3fba2-115">These steps may differ when using other browsers such as Mozilla Firefox or Google Chrome.</span></span>
+1. <span data-ttu-id="b906d-112">Selecteer in de Microsoft Edge-browser **instellingen**en selecteer vervolgens **Privacy en beveiliging**.</span><span class="sxs-lookup"><span data-stu-id="b906d-112">In your Microsoft Edge browser, select **Settings**, and then select **Privacy and Security**.</span></span>
+2. <span data-ttu-id="b906d-113">Selecteer onder **wissen browsen** **de optie kiezen wat u wilt wissen**.</span><span class="sxs-lookup"><span data-stu-id="b906d-113">Under **Clear browsing**, select **Choose what to clear**.</span></span>
+3. <span data-ttu-id="b906d-114">Selecteer **cookies en opgeslagen website gegevens**en selecteer **Wis**.</span><span class="sxs-lookup"><span data-stu-id="b906d-114">Select **Cookies and saved website data**, and select **Clear**.</span></span>
 
 >[!Note] 
-> <span data-ttu-id="3fba2-116">Een andere optie zou zijn voor het openen van uw SharePoint-site of OneDrive in een nieuw venster voor InPrivate-navigatie.</span><span class="sxs-lookup"><span data-stu-id="3fba2-116">Another option would be to open your SharePoint site or OneDrive in a new InPrivate window.</span></span>
+> <span data-ttu-id="b906d-115">Deze stappen kunnen afwijken bij het gebruik van andere browsers zoals Mozilla Firefox of Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="b906d-115">These steps may differ when using other browsers such as Mozilla Firefox or Google Chrome.</span></span>
+
+>[!Note] 
+> <span data-ttu-id="b906d-116">Een andere optie is om uw SharePoint-site of OneDrive te openen in een nieuw InPrivate-venster.</span><span class="sxs-lookup"><span data-stu-id="b906d-116">Another option would be to open your SharePoint site or OneDrive in a new InPrivate window.</span></span>

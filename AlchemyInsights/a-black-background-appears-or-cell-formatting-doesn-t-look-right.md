@@ -1,7 +1,7 @@
 ---
 title: Er verschijnt een zwarte achtergrond of de celopmaak ziet er niet goed uit
-ms.author: dludwig
-author: dludwig
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f48094aae7e2d9e4c738da05412f812c15771cf9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36495962"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050592"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="5ad7b-102">Er verschijnt een zwarte achtergrond of de celopmaak ziet er niet goed uit</span><span class="sxs-lookup"><span data-stu-id="5ad7b-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="cf86c-102">Er verschijnt een zwarte achtergrond of de celopmaak ziet er niet goed uit</span><span class="sxs-lookup"><span data-stu-id="cf86c-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="5ad7b-103">In Excel 2016 ziet u mogelijk een onverwachte zwarte achtergrond of ziet u de celopmaak die niet goed wordt weergegeven.</span><span class="sxs-lookup"><span data-stu-id="5ad7b-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="5ad7b-104">Dit kan gebeuren na het toevoegen van een koptekst of voettekst in de pagina-indelingsweergave en het toepassen van een patroon vulling op een cel.</span><span class="sxs-lookup"><span data-stu-id="5ad7b-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="5ad7b-105">Dit probleem is opgelost in versie 1708 (build 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="5ad7b-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="5ad7b-106">U dit oplossen door de nieuwste versie van Office te updaten.</span><span class="sxs-lookup"><span data-stu-id="5ad7b-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="5ad7b-107">Selecteer \*\*\*\* \> \*\*\*\* \> update \*\*\*\* opties \> voor bestands account **Nu bijwerken**.</span><span class="sxs-lookup"><span data-stu-id="5ad7b-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="cf86c-103">In Excel 2016 ziet u mogelijk een onverwachte zwarte achtergrond of ziet u de celopmaak die niet goed wordt weergegeven.</span><span class="sxs-lookup"><span data-stu-id="cf86c-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="cf86c-104">Dit kan gebeuren na het toevoegen van een koptekst of voettekst in de pagina-indelingsweergave en het toepassen van een patroon vulling op een cel.</span><span class="sxs-lookup"><span data-stu-id="cf86c-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="cf86c-105">Dit probleem is opgelost in versie 1708 (build 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="cf86c-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="cf86c-106">U dit oplossen door de nieuwste versie van Office te updaten.</span><span class="sxs-lookup"><span data-stu-id="cf86c-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="cf86c-107">Selecteer \*\*\*\* \> \*\*\*\* \> update \*\*\*\* opties \> voor bestands account **Nu bijwerken**.</span><span class="sxs-lookup"><span data-stu-id="cf86c-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
