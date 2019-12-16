@@ -1,34 +1,34 @@
 ---
-title: Problemen oplossen met berichten die de toegang geweigerd
-ms.author: kaarins
-author: kaarins
+title: Problemen met geweigerde toegangs berichten oplossen
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500395"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050700"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Problemen oplossen met berichten die de toegang geweigerd
+# <a name="troubleshoot-access-denied-messages"></a>Problemen met geweigerde toegangs berichten oplossen
 
-Als iemand een 'Toegang geweigerd'-bericht met een gedeelde map in SharePoint, kan beheerder van de siteverzameling hebt ingeschakeld "beperkte toegang gebruiker machtiging lockdown-modus. Dit om uit te schakelen: 
+Als iemand het bericht ' toegang geweigerd ' heeft gekregen voor een gedeelde map in SharePoint, heeft de beheerder van de siteverzameling mogelijk de vergrendelingsmodus voor beperkte toegang tot gebruikers machtiging ingeschakeld. Om dit uit te schakelen: 
   
-1. Ga naar de site, klikt u op het pictogram en klik vervolgens op **Site-instellingen**.
+1. Blader naar de site, klikt u op het pictogram instellingen en klik vervolgens op **site-instellingen**.
     
-2. Klik onder **Beheer van de siteverzameling**op **onderdelen van de siteverzameling**.
+2. Klik onder **beheer van siteverzameling**op **site verzamelings functies**.
     
-3. Klik op **deactiveren**naast **lockdown modus met beperkte toegang gebruiker machtiging**.
+3. Klik naast **beperkte toegang tot de vergrendelingsmodus voor gebruikersmachtigingen**op **deactiveren**.
     
-Het bericht toegang geweigerd kan ook optreden voor gedeelde mappen als de site een publicerende site. Zie voor info, [Toegang geweigerd bij de toegang tot een gedeelde map](https://go.microsoft.com/fwlink/?linkid=2004317).
+Een bericht toegang geweigerd kan ook optreden voor gedeelde mappen als de site een publicerende site is. Zie [toegang geweigerd bij toegang tot een gedeelde map](https://go.microsoft.com/fwlink/?linkid=2004317)voor meer informatie.
   
-Als een iemand het bericht 'Toegang geweigerd' wanneer u probeert om aanvragen weer te geven, moet de gebruiker moet worden toegevoegd als beheerder van een siteverzameling of een lid van de groep Eigenaren voor de site. Zie [Toegang tot de lijst-aanvragen geweigerd](https://go.microsoft.com/fwlink/?linkid=2004220)voor meer info.
+Als een persoon het bericht ' toegang geweigerd ' heeft gekregen bij het bekijken van toegangsverzoeken, moet de gebruiker worden toegevoegd als beheerder van een siteverzameling of als lid van de groep eigenaren voor de site. Zie voor meer informatie, [toegang geweigerd voor toegang tot Aanvragenlijst](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Als een gebruiker een 'Toegang geweigerd' wordt weergegeven nadat ze zijn verwijderd uit Active Directory op ruimten en vervolgens opnieuw wordt toegevoegd, Zie [Toegang geweigerd wanneer een gebruikersaccount wordt gesynchroniseerd met Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Als een gebruiker een bericht ' toegang geweigerd ' nadat ze zijn verwijderd uit Active Directory on-premises en vervolgens weer toegevoegd, Zie [toegang geweigerd wanneer een gebruikersaccount wordt gesynchroniseerd met Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

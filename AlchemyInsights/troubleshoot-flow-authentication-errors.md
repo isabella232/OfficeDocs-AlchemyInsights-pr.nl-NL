@@ -1,32 +1,32 @@
 ---
-title: Stroom-verificatiefouten oplossen
-ms.author: kaarins
-author: kaarins
+title: Fouten met stroom verificatie oplossen
+ms.author: pebaum
+author: pebaum
 ms.date: 6/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d49d15d243dd98afc6f78b9e75f0cfa74c2cd7c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393608"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050628"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Stroom-verificatiefouten oplossen
+# <a name="troubleshoot-flow-authentication-errors"></a>Fouten met stroom verificatie oplossen
 
-In veel gevallen loopt niet vanwege een verificatiefout. Als u dit type fout, het foutbericht bevat 'Unauthorized' of een foutcode van 401 of 403 verschijnt. U kunt een verificatiefout meestal oplossen door de verbinding bij te werken:
+In veel gevallen mislukken stromen vanwege een verificatiefout. Als u dit type fout hebt, bevat het foutbericht ' niet geautoriseerd ' of een foutcode van 401 of 403 wordt weergegeven. U meestal een verificatiefout oplossen door de verbinding te updaten:
   
-1. Aan de bovenkant van het webportaal en klik of tik op het pictogram van het vistuig om open het menu instellingen en klik of tik op **verbindingen**.
+1. Klik of tik bovenaan het webportaal op het tandwielpictogram om het menu instellingen te openen en klik of tik vervolgens op **verbindingen**.
     
-2. Ga naar de verbinding waarvoor u het foutbericht niet-geautoriseerde gezien.
+2. Scrol naar de verbinding waarvoor u het niet-geautoriseerde foutbericht hebt gezien.
     
-3. Naast de verbinding, klik of tik op de koppeling **controleren** in het bericht over de verbinding niet geverifieerd. 
+3. Klik of tik naast de verbinding op de koppeling **wachtwoord bevestigen** in het bericht over de verbinding die niet wordt geverifieerd. 
     
-4. Controleer of uw referenties door de instructies die worden weergegeven, terug te keren naar uw storing stroom uitvoeren en klik of tik op **opnieuw indienen**.
+4. Verifieer uw referenties door de instructies te volgen die worden weergegeven, ga terug naar de stroomuitval en klik of tik vervolgens op **opnieuw verzenden**.
     
-Zie [problemen met een stroom](https://go.microsoft.com/fwlink/?linkid=872110)voor meer hulp.
+Zie [problemen met een stroom oplossen](https://go.microsoft.com/fwlink/?linkid=872110)voor meer informatie.
   
 
