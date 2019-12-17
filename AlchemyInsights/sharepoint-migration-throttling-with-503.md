@@ -1,7 +1,7 @@
 ---
-title: SharePoint-migratie met 503 fouten beperken
-ms.author: efrene
-author: efrene
+title: SharePoint migratie beperking met 503 fouten
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503594"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054048"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint-migratie met 503 fouten beperken
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint migratie beperking met 503 fouten
 
-Blijkt u migreren naar SharePoint Online en 503 fouten optreden. Volg de onderstaande stappen zodat wij u zo snel mogelijk kunnen helpen. 
+Het lijkt erop dat u migreert naar SharePoint Online en ontvangen van 503 fouten. Volg de onderstaande stappen om u zo snel mogelijk te helpen. 
 
-1. Klik op **contact opnemen met ondersteuning**, **nieuwe Service aanvragen**.
-2. De titel en beschrijving typt u **SharePoint Migration beperken met 503**.
-3. Zodra het ticket is ingediend, moet werken met de volgende informatie:
-    - Hoeveel links van migratie (bijvoorbeeld het aantal TBs?).
-    - Migratie start- en einddatum.
-    - Beschrijf waar u de inhoud migreert van, zoals SharePoint Server, vak, GDrive, bestandsshares, enz...
-    - Raming van het aantal bandbreedteregeling fouten (bijvoorbeeld x throttle per uur?) en heeft als beperking laten gebeuren.
-    - Hulpprogramma voor die u gebruikt (bijvoorbeeld SPMT of ShareGate).
+1. Klik op **contact opnemen met ondersteuning**en vervolgens op **nieuwe service aanvraag**.
+2. Voor de titel en beschrijving typt u **SharePoint-migratie beperking met 503**.
+3. Nadat het ticket is verzonden, moet u het bijwerken met de volgende informatie:
+    - Hoeveel links van de migratie (bijvoorbeeld, hoeveel TBs?).
+    - Begin-en einddatum van de migratie.
+    - Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, box, GDrive, bestandsshares, enz.
+    - Schatting van het aantal beperkingsfouten (bijvoorbeeld x Throttle per uur?) en wanneer de beperking is gebeurd.
+    - Welke migratie tool u gebruikt (bijvoorbeeld SPMT of ShareGate).
 
 
