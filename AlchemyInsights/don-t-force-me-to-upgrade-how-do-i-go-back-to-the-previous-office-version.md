@@ -1,7 +1,7 @@
 ---
-title: Niet dwingen me om te upgraden. Hoe ga ik terug naar de vorige versie van Office?
-ms.author: dludwig
-author: dludwig
+title: Forceer me niet om te upgraden. Hoe ga ik terug naar de vorige Office-versie?
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,17 +13,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: 8bba17b61485f6d856affde2c52b45522d0051dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4caf3e3c3a72b2ae59bb13982a2e45c53a7911f2
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529518"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052860"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="e5d53-103">Niet dwingen me om te upgraden.</span><span class="sxs-lookup"><span data-stu-id="e5d53-103">Don't force me to upgrade.</span></span> <span data-ttu-id="e5d53-104">Hoe ga ik terug naar de vorige versie van Office?</span><span class="sxs-lookup"><span data-stu-id="e5d53-104">How do I go back to the previous Office version?</span></span>
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="27757-103">Forceer me niet om te upgraden.</span><span class="sxs-lookup"><span data-stu-id="27757-103">Don't force me to upgrade.</span></span> <span data-ttu-id="27757-104">Hoe ga ik terug naar de vorige Office-versie?</span><span class="sxs-lookup"><span data-stu-id="27757-104">How do I go back to the previous Office version?</span></span>
 
-<span data-ttu-id="e5d53-105">Wanneer u een Office-bestand opent, kunt de evaluatieversie van een Office-toepassing openen, in plaats van een andere versie.</span><span class="sxs-lookup"><span data-stu-id="e5d53-105">When opening an Office file, the trial version of an Office app may open, instead of another version.</span></span> <span data-ttu-id="e5d53-106">Dit gebeurt als u de evaluatieversie van Office 365.</span><span class="sxs-lookup"><span data-stu-id="e5d53-106">This will happen if you have the Office 365 trial.</span></span>
+<span data-ttu-id="27757-105">Wanneer u een Office-bestand opent, kan de evaluatieversie van een Office-app worden geopend in plaats van een andere versie.</span><span class="sxs-lookup"><span data-stu-id="27757-105">When opening an Office file, the trial version of an Office app may open, instead of another version.</span></span> <span data-ttu-id="27757-106">Dit zal gebeuren als u de proefversie van Office 365 hebt.</span><span class="sxs-lookup"><span data-stu-id="27757-106">This will happen if you have the Office 365 trial.</span></span>
   
-<span data-ttu-id="e5d53-107">Tijdens de installatie van de evaluatieversie van Office 365 de 2016-evaluatieversie van de toepassingen zijn geïnstalleerd.</span><span class="sxs-lookup"><span data-stu-id="e5d53-107">When you install the Office 365 trial, the 2016 trial version of the apps are installed.</span></span> <span data-ttu-id="e5d53-108">Deze evaluatieversies, worden de standaardinstellingen voor het openen van bestanden van Word, Excel en PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="e5d53-108">These trial versions become the default for opening Word, Excel, and PowerPoint files.</span></span> <span data-ttu-id="e5d53-109">Bijvoorbeeld als u Excel 2013 geïnstalleerd en u de evaluatieversie van Office 365 ook geïnstalleerd, vervolgens uw werkmappen wordt geopend in de evaluatieversie van Excel 2016.</span><span class="sxs-lookup"><span data-stu-id="e5d53-109">For example, if you have Excel 2013 installed and you also installed the Office 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span>
+<span data-ttu-id="27757-107">Wanneer u de proefversie van Office 365 installeert, wordt de 2016-proefversies van de apps geïnstalleerd.</span><span class="sxs-lookup"><span data-stu-id="27757-107">When you install the Office 365 trial, the 2016 trial version of the apps are installed.</span></span> <span data-ttu-id="27757-108">Deze proefversies worden de standaard voor het openen van Word-, Excel-en PowerPoint-bestanden.</span><span class="sxs-lookup"><span data-stu-id="27757-108">These trial versions become the default for opening Word, Excel, and PowerPoint files.</span></span> <span data-ttu-id="27757-109">Als u bijvoorbeeld Excel 2013 hebt geïnstalleerd en u ook de proefversie van Office 365 hebt geïnstalleerd, worden uw werkmappen geopend in de evaluatieversies van Excel 2016.</span><span class="sxs-lookup"><span data-stu-id="27757-109">For example, if you have Excel 2013 installed and you also installed the Office 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span>
   
-<span data-ttu-id="e5d53-110">Als u dit probleem hebt, u kunt [verwijderen van](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) de apps 2016 en de oudere versies van de apps die u al hebt geïnstalleerd.</span><span class="sxs-lookup"><span data-stu-id="e5d53-110">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed.</span></span> <span data-ttu-id="e5d53-111">Of u kunt [verwijderen van](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) de oudere versies van de apps en upgraden naar de nieuwere versies geleverd bij Office 365.</span><span class="sxs-lookup"><span data-stu-id="e5d53-111">Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Office 365.</span></span>
+<span data-ttu-id="27757-110">Als u dit probleem ondervindt, u de 2016-apps [verwijderen](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) en de oudere versies van de apps gebruiken die u al hebt geïnstalleerd.</span><span class="sxs-lookup"><span data-stu-id="27757-110">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed.</span></span> <span data-ttu-id="27757-111">U ook de oudere versies van de apps [verwijderen](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) en een upgrade uitvoeren naar de nieuwere versies van Office 365.</span><span class="sxs-lookup"><span data-stu-id="27757-111">Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Office 365.</span></span>
