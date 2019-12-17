@@ -1,7 +1,7 @@
 ---
-title: Geavanceerde Threat Protection in SharePoint en OneDrive
-ms.author: efrene
-author: efrene
+title: Geavanceerde Bedreigingsbeveiliging in SharePoint en OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493874"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050412"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Geavanceerde Threat Protection (ATP) in SharePoint en OneDrive
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Advanced Threat Protection (ATP) in SharePoint en OneDrive
 
 Zie de volgende artikelen:
-- [ATP voor SharePoint, OneDrive en Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Bedreiging Explorer en Realtime detectie](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [ATP voorsharepoint, OneDrive en teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Threat Explorer en realtime detecties](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
-Meer informatie:
+Aanvullende informatie:
 
-- [Met Virus Detection in gesimuleerde Productieorder](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Codering van gegevens in ODBC en gesimuleerde Productieorder](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Bescherming van uw gegevens in SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware detecteren en herstellen van bestanden](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Virus detectie in SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Gegevenscodering in ODB en SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Uw gegevens in SharePoint beveiligen](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [Ransomware detectie en het herstellen van bestanden](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

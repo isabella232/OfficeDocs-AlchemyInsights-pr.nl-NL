@@ -1,7 +1,7 @@
 ---
-title: DLP moet mogelijk een aangepast type
-ms.author: stephow
-author: stephow-MSFT
+title: DLP heeft mogelijk een aangepast type nodig
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530346"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052896"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP moet mogelijk een aangepast type
+# <a name="dlp-might-need-a-custom-type"></a>DLP heeft mogelijk een aangepast type nodig
 
-U kunt met een beleid van gegevensverlies te voorkomen (DLP), identificeren en beschermen van vertrouwelijke gegevens in uw organisatie. In sommige gevallen moet u mogelijk uw eigen **aangepaste** type vertrouwelijke gegevens ter bescherming van de gegevens van uw organisatie te maken.
+Met een beleid voor preventie van gegevensverlies (DLP), u identificeren en beveiligen van gevoelige gegevens in uw organisatie. In sommige scenario's moet u mogelijk uw eigen **aangepaste** gevoelige gegevenstype maken om de gegevens van uw organisatie te beveiligen.
 
-Bijvoorbeeld, uw organisatie mogelijk te identificeren en de bescherming van werknemer-id's of andere gegevens in een indeling die specifiek zijn voor uw org. Als dat zo is, Zie de volgende artikelen voor meer informatie.
+Bijvoorbeeld, uw organisatie moet mogelijk identificeren en beveiligen van werknemer-Id's of andere gegevens in een bepaalde indeling die specifiek zijn voor uw organisatie. Raadpleeg de volgende artikelen voor meer informatie.
   
- **Een type ingebouwde gevoelige informatie aanpassen**
+ **Een ingebouwd gevoelig informatie type aanpassen**
   
-Als een soort ingebouwde gevoelige informatie zou voldoen aan uw behoeften met een paar trucs, kunt u [een ingebouwde gevoelige informatietype aanpassen](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Bijvoorbeeld, kunt u toevoegen of trefwoorden, verwijderen of toevoegen of verwijderen bewijsmateriaal zoals een datum of een adres.
+Als een ingebouwd gevoelig informatie type met slechts een paar tweaks aan uw behoeften voldoet, u [een ingebouwd gevoelig informatie type aanpassen](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). U bijvoorbeeld trefwoorden toevoegen of verwijderen, of ondersteunend bewijsmateriaal toevoegen of verwijderen, zoals een datum of adres.
   
- **Een aangepaste vertrouwelijke informatie maken**
+ **Een aangepast type voor gevoelige gegevens maken**
   
-Maar als u moet helemaal een ander type van gevoelige informatie beveiligen, kunt u [een aangepaste gevoelige informatie maken](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in de gebruikersinterface van de & beveiliging conformiteit.
+Maar als u nodig hebt om te identificeren en beveiligen van een ander type van gevoelige informatie helemaal, u [een aangepaste gevoelige gegevenstype](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in de gebruikersinterface van de Security & compliance Center.
   
-**Een aangepaste gevoelige informatie in & Security Center-PowerShell naleving maken**
+**Een aangepast type gevoelige gegevens maken in beveiligings & compliance Center PowerShell**
 
-Ten slotte, als de gebruikersinterface niet alle opties die u nodig hebt, kunt u [een aangepaste gevoelige informatie in & Security Center-PowerShell naleving maken](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Op basis van een XML-bestand, kunt u alle beschikbare opties.
+Ten slotte, als de GEBRUIKERSINTERFACE biedt niet alle opties die u nodig hebt, u [een aangepaste gevoelige gegevenstype in Security & compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Door te beginnen met een XML-bestand, u elke beschikbare optie gebruiken.

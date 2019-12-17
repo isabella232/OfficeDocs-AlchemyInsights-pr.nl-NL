@@ -1,7 +1,7 @@
 ---
-title: Problemen met SharePoint Designer
-ms.author: efrene
-author: efrene
+title: Verbindingsproblemen met SharePoint Designer
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: a4aeaeaea5743c276b907c78317ff30f5610be81
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508418"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051708"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>Problemen met SharePoint Designer 
+# <a name="sharepoint-designer-connection-issues"></a>Verbindingsproblemen met SharePoint Designer 
 
-Als u SharePoint Designer ondervindt problemen met de verbinding met de SharePoint-sites, probeert u de volgende algemene oplossingen.
+Als SharePoint Designer verbindingsproblemen ondervindt met SharePoint-sites, probeert u de volgende algemene oplossingen.
 
-Stap 1: Controleren of SharePoint Designer 2013 is bijgewerkt met [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) en [2 augustus 2016 bijwerken voor SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+Stap 1: Controleer of SharePoint Designer 2013 is bijgewerkt met [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) en de [Update 2, 2016 voorsharepoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-Stap 2: Wis de bestanden in de lokale cache:
+Stap 2: wis de lokale cachebestanden:
 
-1. Sluit de SharePoint Designer 2013.
+1. Sluit SharePoint Designer 2013.
 
-2. Verwijder alle bestanden in de volgende mappen op de lokale computer.
+2. Verwijder alle bestanden die in de volgende mappen zijn gevonden op de lokale computer.
 
-    - %AppData%\Microsoft\Web server Extensions\Cache
-    - %AppData%\Microsoft\SharePoint Designer\ProxyAssemblyCache
+    - %APPDATA%\Microsoft\Web server Extensions\Cache
+    - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-3. SharePoint Designer 2013 openen en geef de account opnieuw om te zien als het werkt.
+3. Open SharePoint Designer 2013 en voer het account opnieuw in om te zien of het werkt.
 
-Stap 3: [moderne-verificatie inschakelen voor Office 2013 op Windows-apparaten](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+Stap 3: [Schakel moderne verificatie voor Office 2013 op Windows-apparaten](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
 
-Stap 4: Beheerders moet **Toestaan aangepast Script** in de Admin Center van SharePoint instellingen voor de verbinding van SharePoint Designer toestaan. Zie [toestaan of voorkomen van aangepast script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) voor meer informatie.
+Stap 4: beheerders moeten het **aangepaste script toestaan** in de instellingen van het SharePoint Admin Center om de SharePoint Designer-verbinding toe te staan. Zie [aangepast script toestaan of voorkomen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) voor meer informatie.
 
 

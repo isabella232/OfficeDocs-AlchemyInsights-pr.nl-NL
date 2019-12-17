@@ -1,9 +1,8 @@
 ---
-title: Dagelijkse e-mail limiet overschreden. Workflow is geschorst.
-ms.author: efrene
-author: efrene
+title: Dagelijkse e-mail limiet overschreden. Werkstroom is onderbroken.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514442"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053112"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Dagelijkse e-mail limiet overschreden. Workflow is geschorst.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Dagelijkse e-mail limiet overschreden. Werkstroom is onderbroken.
 
 Deze fout kan worden ontvangen in de volgende scenario's:
 
-- U hebt een werkstroom in SharePoint Online die de SharePoint 2010 of SharePoint 2013 workflow platform wordt gebruikt.
-- De werkstroom is geconfigureerd voor een aangepast e-mailbericht verzenden naar meer dan 200 gebruikers op een moment, meer dan 10.000 geadresseerden per dag of meer dan 30 berichten per minuut.
-- Tijdens het uitvoeren van de werkstroom het e-mailbericht niet verzonden en u ziet het volgende gedrag:
-    - U bladert naar de pagina **Werkstroomstatus** voor een werkstroom met behulp van het type SharePoint 2013-platform. De **Interne Status** is ingesteld op **gestart**en de ballon van de informatie **kan niet worden verzonden naar een geadresseerde**wordt weergegeven op de pagina Werkstroomstatus.
+- U hebt een werkstroom in SharePoint Online die gebruikmaakt van het type SharePoint 2010 of SharePoint 2013 werkstroom platform.
+- De werkstroom is geconfigureerd voor het verzenden van een aangepast e-mail bericht naar meer dan 200 gebruikers tegelijk, meer dan 10.000 geadresseerden per dag of meer dan 30 berichten per minuut.
+- Wanneer u de werkstroom uitvoert, wordt het e-mail bericht niet verzonden en ziet u het volgende gedrag:
+    - Voor een werkstroom met behulp van het platformtype SharePoint 2013, bladert u naar de pagina **Workflowstatus** . Op de pagina Workflowstatus wordt de **interne status** ingesteld op **gestart**en wordt de informatieballon **niet verzonden naar een geadresseerde**.
 
-U kunt dit probleem omzeilen, kunt u uw workflow voor het verzenden van e-mailberichten zonder overschrijding van de [grenzen van Exchange Online afzender](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)configureren. Bijvoorbeeld een pauze in de workflow gebruikt het e-mailbericht verzenden naar een Office 365-groep, een distributiegroep of beveiligingsgroep e-mail is ingeschakeld of het bericht naar minder dan 200 geadresseerden per keer verzenden.
+U dit probleem omzeilen, configureert u uw werkstroom voor het verzenden van e-mail berichten zonder overschrijding van de [limieten voor Exchange Online-afzender](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Gebruik bijvoorbeeld een pauze in de werkstroom, stuur het e-mail bericht naar een groep van Office 365, een distributiegroep of een beveiligingsgroep met e-mailadres, of verzend de berichten naar minder dan 200 geadresseerden tegelijk.
 
 
-Raadpleeg het volgende [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)voor meer informatie.
+Zie het volgende [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)voor meer informatie.
 
 ## <a name="related-topics"></a>Verwante onderwerpen
 - [Stroom maken](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint en stroom](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint en flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

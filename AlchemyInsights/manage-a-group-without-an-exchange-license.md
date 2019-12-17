@@ -1,7 +1,7 @@
 ---
-title: Beheren van een groep zonder een licentie voor Exchange
-ms.author: dianef
-author: dianef77
+title: Een groep zonder Exchange-licentie beheren
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497455"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049260"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Beheren van een groep zonder een licentie voor Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Een groep zonder Exchange-licentie beheren
 
-Als je Office 365-account admin niet beschikt over een postvak, krijgt u mogelijk een foutbericht over een ontbrekende productlicentie wanneer u probeert een Office 365-groep bewerken.
+Als uw Office 365-beheerdersaccount geen postbus heeft, krijgt u mogelijk een foutbericht over een ontbrekende productlicentie wanneer u probeert een Office 365-groep te bewerken.
   
-Omdat u de huurder admin bent, is het mogelijk dat u een groep bewerken, zelfs als u een licentie voor Exchange niet hebt. NET Ga naar [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **groepen** voor het beheer van de groep van Office 365.
+Omdat u de tenantbeheerder bent, is het mogelijk om een groep te bewerken, ook al hebt u geen Exchange-licentie. Ga naar [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> - **groepen** voor het beheren van de Office 365-groep.
   
-Als u groepen in het admin center toevoegen een Exchange-licentie aan uw account admin. U moet wachten tot de postbus volledig gemaakt is voordat u een groep kunt bewerken.
+Als u groepen in het Admin Center wilt bewerken, voegt u een Exchange-licentie toe aan uw beheerdersaccount. U moet wachten totdat het postvak volledig is gemaakt voordat u een groep bewerken.
   

@@ -1,7 +1,7 @@
 ---
-title: Lettertype opmaak problemen in Excel 2016
-ms.author: dludwig
-author: dludwig
+title: Problemen met lettertypeopmaak in Excel 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 808fb5caefcd07885ac2b29d3f499cc5cb824fc3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524622"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051960"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemen met lettertype-opmaak in Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemen met lettertypeopmaak in Excel
 
-In Excel 2016, tekenopmaak mogelijk niet correct weergegeven in een cel. Dit kan gebeuren als een cel meer dan één soort tekenopmaak bevat. Als bijvoorbeeld sommige tekens zijn vette, en anderen niet vet, vet weergegeven mogelijk niet weergegeven. Of hebt u verschillende gekleurde tekens in dezelfde cel, ziet u niet de kleuren goed weergegeven. Onze engineering-team is zich bewust van dit probleem en werkt momenteel aan een oplossing. In de tussentijd, probeert u een ander lettertype. Of probeer te vermijden met behulp van meerdere soorten opmaak in dezelfde cel totdat dit probleem is opgelost.
+In Excel 2016 wordt lettertypeopmaak mogelijk niet goed weergegeven in een cel. Dit kan gebeuren als een cel meer dan één soort lettertypeopmaak bevat. Als sommige tekens bijvoorbeeld vetgedrukt zijn en andere niet vetgedrukt zijn, ziet u mogelijk niet dat de vetgedrukte indeling wordt weergegeven. Of als u verschillende gekleurde tekens in dezelfde cel hebt, ziet u mogelijk niet dat de kleuren correct worden weergegeven. Ons engineering team is op de hoogte van dit probleem en werkt momenteel aan een oplossing. Probeer ondertussen een ander lettertype te gebruiken. Of probeer te voorkomen dat u meerdere soorten opmaak binnen dezelfde cel gebruikt totdat dit probleem is opgelost.
   

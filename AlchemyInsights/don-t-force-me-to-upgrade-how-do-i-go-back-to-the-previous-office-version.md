@@ -1,7 +1,7 @@
 ---
-title: Niet dwingen me om te upgraden. Hoe ga ik terug naar de vorige versie van Office?
-ms.author: dludwig
-author: dludwig
+title: Forceer me niet om te upgraden. Hoe ga ik terug naar de vorige Office-versie?
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,17 +13,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: 8bba17b61485f6d856affde2c52b45522d0051dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4caf3e3c3a72b2ae59bb13982a2e45c53a7911f2
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529518"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052860"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Niet dwingen me om te upgraden. Hoe ga ik terug naar de vorige versie van Office?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Forceer me niet om te upgraden. Hoe ga ik terug naar de vorige Office-versie?
 
-Wanneer u een Office-bestand opent, kunt de evaluatieversie van een Office-toepassing openen, in plaats van een andere versie. Dit gebeurt als u de evaluatieversie van Office 365.
+Wanneer u een Office-bestand opent, kan de evaluatieversie van een Office-app worden geopend in plaats van een andere versie. Dit zal gebeuren als u de proefversie van Office 365 hebt.
   
-Tijdens de installatie van de evaluatieversie van Office 365 de 2016-evaluatieversie van de toepassingen zijn geïnstalleerd. Deze evaluatieversies, worden de standaardinstellingen voor het openen van bestanden van Word, Excel en PowerPoint. Bijvoorbeeld als u Excel 2013 geïnstalleerd en u de evaluatieversie van Office 365 ook geïnstalleerd, vervolgens uw werkmappen wordt geopend in de evaluatieversie van Excel 2016.
+Wanneer u de proefversie van Office 365 installeert, wordt de 2016-proefversies van de apps geïnstalleerd. Deze proefversies worden de standaard voor het openen van Word-, Excel-en PowerPoint-bestanden. Als u bijvoorbeeld Excel 2013 hebt geïnstalleerd en u ook de proefversie van Office 365 hebt geïnstalleerd, worden uw werkmappen geopend in de evaluatieversies van Excel 2016.
   
-Als u dit probleem hebt, u kunt [verwijderen van](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) de apps 2016 en de oudere versies van de apps die u al hebt geïnstalleerd. Of u kunt [verwijderen van](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) de oudere versies van de apps en upgraden naar de nieuwere versies geleverd bij Office 365.
+Als u dit probleem ondervindt, u de 2016-apps [verwijderen](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) en de oudere versies van de apps gebruiken die u al hebt geïnstalleerd. U ook de oudere versies van de apps [verwijderen](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) en een upgrade uitvoeren naar de nieuwere versies van Office 365.
