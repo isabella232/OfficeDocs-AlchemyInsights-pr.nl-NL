@@ -1,5 +1,5 @@
 ---
-title: Hoe u uw bureaublad Analytics-account sluiten
+title: Uw Desktop Analytics-account sluiten
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800284"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771102"
 ---
 # <a name="working-with-desktop-analytics"></a>Werken met Desktop Analytics
 
-Blijkbaar vraagt u over Analytics Desktop. Wij kunnen mogelijk helpen met een nauwkeuriger antwoord als u de vraag anders.
+Het lijkt erop dat je vraagt over Desktop Analytics. We kunnen misschien helpen met een nauwkeuriger antwoord als u uw vraag herformuleert.
 
-- [Wat is een Desktop Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Het instellen van Analytics Desktop](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Veelgestelde vragen](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Analytics bureaublad oplossen](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Wat is Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Bureaublad-analyse instellen](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Veelgestelde vragen](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Problemen met bureaubladanalyses oplossen](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

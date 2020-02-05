@@ -1,5 +1,5 @@
 ---
-title: Een beoordeling van de compatibiliteit kan niet worden gemaakt.
+title: Kan geen compatibiliteitsbeoordeling maken
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800290"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771066"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Een beoordeling van de compatibiliteit kan niet worden gemaakt.
+# <a name="cant-create-a-compatibility-assessment"></a>Kan geen compatibiliteitsbeoordeling maken
 
-Configuration Manager het apparaat is geconfigureerd, maar Analytics bureaublad niet maken een beoordeling van de compatibiliteit. Het hoeft niet een volledige set gegevens voor de configuratie van het apparaat (census) of apps (voorraad) geïnstalleerd.
+Microsoft Endpoint Configuration Manager heeft het apparaat geconfigureerd, maar Desktop Analytics kan geen compatibiliteitsbeoordeling maken. Er is geen volledige gegevensset voor de configuratie (telling) of geïnstalleerde apps (voorraad) van het apparaat.
 
-Dit probleem is vaak automatisch worden opgelost wanneer u het apparaat opnieuw proberen. Als dit zich blijft voordoen, moet dat het apparaat kan communiceren met de service. Zie voor meer informatie de [eindpunten](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) en [Ontbrekende gegevens](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Dit probleem wordt vaak automatisch opgelost wanneer het apparaat opnieuw wordt ingeleverd. Als het blijft bestaan, moet u ervoor zorgen dat het apparaat met de service kan communiceren. Zie [Eindpunten](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) en [ontbrekende gegevens](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)voor meer informatie.

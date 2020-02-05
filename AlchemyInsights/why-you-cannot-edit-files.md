@@ -13,24 +13,24 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049404"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771138"
 ---
 # <a name="why-cant-i-edit-files"></a>Waarom kan ik geen bestanden bewerken?
 
-Als een document, werkblad of presentatie is vergrendeld voor bewerking en niet kan worden geopend in de bureaubladtoepassingen van Windows, kan het zijn dat het bestand al door iemand anders wordt bewerkt of dat het bestand is uitgecheckt. Laten we eens kijken naar enkele redenen [Waarom u het bestand mogelijk niet bewerken](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Bekijk snel enkele redenen [waarom u het bestand mogelijk niet bewerken.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Als u bibliotheken met **betaal-, vereiste** -of **validatie** kolommen of metagegevens hebt, of als **concept-item beveiliging** is ingesteld op **alleen gebruikers die kunnen bewerken** of **alleen gebruikers die items kunnen goedkeuren** in versie-instellingen van de bibliotheek:
+Als u bibliotheken hebt met kolommen of metagegevens **van afhandeling, vereist** of **validatie,** of wanneer **conceptitembeveiliging** is ingesteld op **alleen gebruikers die items kunnen bewerken** of alleen gebruikers die items kunnen **goedkeuren** in versie-instellingen van de bibliotheek:
 
-- Voorsharepoint-documentbibliotheken worden deze items als alleen-lezen gesynchroniseerd.
+- Voor SharePoint-documentbibliotheken worden deze items gesynchroniseerd als alleen-lezen.
 
-- Voor OneDrive-bibliotheken toont OneDrive een vergrendelingspictogram (pictogram voor OneDrive-bestand vergrendeld) naast de synchronisatiestatus en kan de gebruiker de bibliotheek pas synchroniseren nadat de genoemde instellingen zijn verwijderd. 
+- Voor OneDrive-bibliotheken toont OneDrive een vergrendelingspictogram (pictogram met EenDrive-bestand) naast de synchronisatiestatus en kan de gebruiker de bibliotheek niet synchroniseren totdat de genoemde instellingen zijn verwijderd. 
 
-Raadpleeg de onderstaande artikelen voor meer informatie over vergrendelde bestanden voor Word of Excel.
+Voor meer informatie over vergrendelde bestanden voor Word of Excel verwijzen wij u naar de onderstaande artikelen.
 
 - [Excel-bestand is vergrendeld voor bewerking door een andere gebruiker](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

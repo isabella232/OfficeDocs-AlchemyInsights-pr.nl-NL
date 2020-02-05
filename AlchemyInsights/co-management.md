@@ -11,27 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: fe7dcebf847fbd7d91632e93e2253bf62ac659aa
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910246"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770886"
 ---
 # <a name="co-management"></a>Co-management
 
-**Vereisten voor het migreren van config manager hybride naar intune**
+**Vereisten voor het migreren van Config Manager Hybrid naar Intune**
 
-- Bekijk [dit artikel](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Een intune-licentie toevoegen aan uw gebruikers](https://docs.microsoft.com/intune/licenses-assign).
-- Gebruik de [Edge-browser](https://www.microsoft.com/windows/microsoft-edge) bij het configureren van co-beheer.
+- Bekijk [dit artikel](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
+- [Voeg een Intune-licentie toe aan uw gebruikers.](https://docs.microsoft.com/intune/licenses-assign)
+- Gebruik de [Edge-browser](https://www.microsoft.com/windows/microsoft-edge) bij het configureren van Co-management.
 
-**Hoe ik de config manager-client op door intune beheerde apparaten installeren**
+**Hoe installeer ik de Config Manager client op intune-beheerde apparaten**
 
-Zie door [INTUNE MDM beheerde Windows-apparaten](https://docs.microsoft.com/sccm/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Zie [Windows-apparaten die door Intune MDM worden beheerd.](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Wat als ik alleen MDM-instantie wil wijzigen?**
+**Wat als ik gewoon mdm autoriteit wil veranderen?**
 
-MDM-instantie kan worden gewijzigd zonder een ondersteuningsaanvraag te openen. Raadpleeg de volgende documentatie om te helpen bij het wijzigen van uw MDM-instantie:
-- [MDM-instantie van config manager naar zelfstandige versie van intune wijzigen](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
-- [MDM-instantie van zelfstandige versie van intune wijzigen in Configuratiebeheer](https://docs.microsoft.com/intune-classic/deploy-use/prerequisites-for-enrollment#what-to-do-if-you-choose-the-wrong-mdm-authority-setting)
+MDM Authority kan worden gewijzigd zonder een ondersteuningsaanvraag te openen. Bekijk de volgende documentatie om te helpen bij het wijzigen van uw MDM-autoriteit:
+
+- [MDM-autoriteit wijzigen van Configuratiebeheer naar Zelfstandig instemmen](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [MDM-autoriteit wijzigen van Intune standalone naar Configuration Manager](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
