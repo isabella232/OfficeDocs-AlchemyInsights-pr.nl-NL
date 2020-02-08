@@ -1,5 +1,5 @@
 ---
-title: Een SharePoint-site volgen of un volgen
+title: Een SharePoint-site volgen of niet meer volgen
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611692"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855546"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Een SharePoint-site volgen of un volgen
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Een SharePoint-site volgen of niet meer volgen
 
-Er zijn meerdere manieren om sites, nieuws en content te vinden en te volgen die u interesseert in SharePoint. Hiermee u de informatie gemakkelijk in uw lijst vinden en u activiteit van SharePoint bekijken.
+Als gebruikers problemen ondervinden bij het volgen of niet opvolgen van SharePoint-resources, voert u de volgende stappen uit:
 
-Bekijk de video om [sites en nieuws te vinden en te volgen](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Als u niet volgen of niet volgen van een site, nieuws of inhoud en het gevoel dat de resultaten niet wat wordt verwacht, zie als het probleem is gerelateerd aan een enkele gebruiker of alle gebruikers binnen uw organisatie. Als het probleem wordt aangetroffen door alle gebruikers, is er mogelijk een tijdelijk serviceprobleem.
-
-Controleer de [service status dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of uw organisatie wordt beïnvloed.
+* Vraag de gebruiker zich af te melden en zich af te melden bij SharePoint en probeer dezelfde stappen om de SharePoint-bron te volgen/ontvolgen.
+* Bepaal of het probleem is met een specifieke site of alle sites. Als het probleem zich voordoet met specifieke sites, moet u ervoor zorgen dat de functie 'Volgende inhoud' actief is voor de site door naar **site-instellingen**te gaan > Sitefuncties beheren > volgende inhoud te beheren. Als de functie is ingesteld op Actief, probeert u de functie opnieuw te deactiveren en te activeren voor de site.
+* Vraag de gebruiker om een andere internetbrowser te proberen om te zien of het probleem specifiek is voor de browser van de gebruiker.
+* Als alle gebruikers en alle sites hetzelfde probleem ondervinden, controleert u het [dashboard Servicestatus](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of uw organisatie wordt beïnvloed.
