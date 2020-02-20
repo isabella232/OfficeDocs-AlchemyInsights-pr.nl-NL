@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091686"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158556"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Kan het AllowSelfServicePurchase-beleid niet instellen of bekijken
 
@@ -29,11 +29,11 @@ Dit kan te wijten zijn aan een oudere versie van Transport Layer Security (TLS).
 Probeer de volgende stappen om het TLS-protocol in te schakelen/in te stellen op 1.2, te verifiëren en opnieuw te proberen.
  1. Voer bij de opdrachtprompt van\) PowerShell (PS C: voer de volgende opdracht in om het TLS-protocol in te stellen op versie 1.2:
 
-    \[Net.ServicePointManager]::SecurityProtocol = \[Net.SecurityProtocolType]::Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. Controleer het gebruikte TLS-protocol(en) met de volgende opdracht:
 
-    \[Net.ServicePointManager]::SecurityProtocol 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. Probeer de opdrachten Get of Update indien nodig opnieuw.
 
