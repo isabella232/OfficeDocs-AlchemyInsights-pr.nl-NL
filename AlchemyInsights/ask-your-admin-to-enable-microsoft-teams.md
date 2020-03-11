@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962292"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573127"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="f3766-102">Je mist het!</span><span class="sxs-lookup"><span data-stu-id="f3766-102">You're missing out!</span></span> <span data-ttu-id="f3766-103">Vraag uw beheerder om Microsoft Teams in te schakelen</span><span class="sxs-lookup"><span data-stu-id="f3766-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="d3538-102">Je mist het!</span><span class="sxs-lookup"><span data-stu-id="d3538-102">You're missing out!</span></span> <span data-ttu-id="d3538-103">Vraag uw beheerder om Microsoft Teams in te schakelen</span><span class="sxs-lookup"><span data-stu-id="d3538-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="f3766-104">Hebben faculteiten en medewerkers toegang tot teams, maar studenten kunnen of hebben uw F1-gebruikers geen toegang tot Teams?</span><span class="sxs-lookup"><span data-stu-id="f3766-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="d3538-104">Als u een EDU-tenant hebt, moet u Microsoft Teams handmatig inschakelen.</span><span class="sxs-lookup"><span data-stu-id="d3538-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="d3538-105">Ga hiervoor naar het Microsoft 365-beheercentrum > **Services en invoegins > Microsoft Teams.**</span><span class="sxs-lookup"><span data-stu-id="d3538-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="d3538-106">Als u het nieuwe beheercentrum teams gebruikt, moet u **het nieuwe beheercentrum** proberen uitschakelen om **Services en invoeggegevens**te vinden.</span><span class="sxs-lookup"><span data-stu-id="d3538-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="f3766-105">Teams moeten expliciet zijn ingeschakeld voor studenten en F1-licenties.</span><span class="sxs-lookup"><span data-stu-id="f3766-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="f3766-106">Meer gedetailleerde instructies over het inschakelen van Teams voor je school vindt u in [Teams voor onderwijs configureren.](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education)</span><span class="sxs-lookup"><span data-stu-id="f3766-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="d3538-107">**BELANGRIJK:** Het kan zijn dat u tot 24 uur moet wachten tot uw wijzigingen van kracht worden.</span><span class="sxs-lookup"><span data-stu-id="d3538-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
