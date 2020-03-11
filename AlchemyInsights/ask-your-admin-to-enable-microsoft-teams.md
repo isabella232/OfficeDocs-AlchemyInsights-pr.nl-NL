@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962292"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573127"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Je mist het! Vraag uw beheerder om Microsoft Teams in te schakelen
 
-Hebben faculteiten en medewerkers toegang tot teams, maar studenten kunnen of hebben uw F1-gebruikers geen toegang tot Teams?
+Als u een EDU-tenant hebt, moet u Microsoft Teams handmatig inschakelen. Ga hiervoor naar het Microsoft 365-beheercentrum > **Services en invoegins > Microsoft Teams.** Als u het nieuwe beheercentrum teams gebruikt, moet u **het nieuwe beheercentrum** proberen uitschakelen om **Services en invoeggegevens**te vinden. 
 
-Teams moeten expliciet zijn ingeschakeld voor studenten en F1-licenties. Meer gedetailleerde instructies over het inschakelen van Teams voor je school vindt u in [Teams voor onderwijs configureren.](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education) 
+**BELANGRIJK:** Het kan zijn dat u tot 24 uur moet wachten tot uw wijzigingen van kracht worden.
