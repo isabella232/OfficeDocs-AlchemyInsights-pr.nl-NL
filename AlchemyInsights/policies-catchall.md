@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274859"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599947"
 ---
-# <a name="teams-policies"></a>Beleid voor teams
+# <a name="teams-policies"></a>Teamsbeleid
 
-Microsoft-teams instellingen worden bepaald door het beleid. Als u een wijziging wilt aanbrengen, moet u het juiste beleid configureren en vervolgens toepassen op gebruikers. De snelste manier om dit voor al uw gebruikers te doen, is door het standaardbeleid met de naam Global te wijzigen. 
+Microsoft Teams-instellingen worden beheerd door beleidsregels. Als u een wijziging wilt aanbrengen, moet u het juiste beleid configureren en deze vervolgens toepassen op gebruikers. De snelste manier om dit te doen voor al uw gebruikers is door het standaardbeleid met de naam Global te wijzigen. 
 
-**Opmerking** Beleidswijzigingen nemen ***ten minste 4 tot 48 uur in beslag***. Als u een aangepast beleid maakt, moet u minimaal 4 uur wachten voordat u er extra wijzigingen in aanbrengen. Vervolgens u dat beleid toepassen op gebruikers. Dit betekent dat aangepaste beleidsregels tot 48 uur kunnen duren om van kracht te worden. Globaal beleid wordt ingesteld als standaard voor alle gebruikers en wijzigingen in het globale beleid kunnen tot 24 uur in beslag nemen. Als u een aangepast beleid hebt gemaakt, dit hebt toegepast op gebruikers en het na 48 uur nog steeds niet van kracht is, of als u het globale beleid hebt gewijzigd en ten minste 24 uur hebt gewacht, opent u een ondersteuningsaanvraag.
+**OPMERKING** Beleidswijzigingen duren ***minstens 4 tot 48 uur om van kracht te worden***. Als u een aangepast beleid maakt, moet u minstens 4 uur wachten voordat u er aanvullende wijzigingen in aanbrengen. Vervolgens u dat beleid toepassen op gebruikers. Dit betekent dat het tot 48 uur kan duren voordat aangepaste beleidsregels van kracht worden. Globaal beleid is ingesteld als standaard voor alle gebruikers en het kan tot 24 uur duren voordat wijzigingen in het globale beleid van kracht worden. Als u een aangepast beleid hebt gemaakt, het hebt toegepast op gebruikers en het nog steeds niet van kracht is geworden na 48 uur, of als u het globale beleid hebt gewijzigd en ten minste 24 uur hebt gewacht, opent u een ondersteuningsaanvraag.
 
-Teams beleid zijn onderverdeeld in de volgende gebieden:
+Het teambeleid is onderverdeeld in de volgende gebieden:
 
-- [Teams beleid](https://docs.microsoft.com/MicrosoftTeams/teams-policies) controle gebruikers ontdekking van particuliere teams in het zoeken en maken van privé-kanalen.  
-- [Vergaderings beleid](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) bepaalt wat gebruikers kunnen doen met teams-vergaderingen, waaronder het beheren van de lobby. Voor hulp bij problemen met de lobby, zoals het configureren van teams om iedereen toe te laten, Zie [controle lobby-instellingen en deelname niveaus](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
-- [Berichten beleid](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) bepaalt wat gebruikers kunnen doen met chatten en berichten, zoals chatten in-of uitschakelen, chats verwijderen, leesbevestigingen aanvragen, giphys en stickers gebruiken, en meer.
-- [App-instellings beleid](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) bepaalt welke apps beschikbaar zijn voor gebruikers, met inbegrip van aangepaste apps en toepassingen van derden, en de volgorde waarin ze worden weergegeven.  
-- Beleid voor gegevens [bewaring](https://docs.microsoft.com/microsoftteams/retention-policies) voor teams vindt u in het Office 365 Security and Compliance Center.
-- Beleid voor teams adresboek worden ingesteld via [Zoeken in bereik Directory](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Teamsbeleid](https://docs.microsoft.com/MicrosoftTeams/teams-policies) bepaalt de detectie van privéteams door gebruikers bij het zoeken en maken van privékanalen.  
+- [Het beleid voor vergaderingen](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) bepaalt wat gebruikers kunnen doen met Teams-vergaderingen, waaronder het beheren van de lobby. Zie Instellingen [voor controlelobby en deelnameniveaus](https://docs.microsoft.com/alchemyinsights/bypass-lobby)voor hulp bij lobbyproblemen, zoals het configureren van Teams om iedereen toe te laten.
+- [Berichtenbeleid](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) bepaalt wat gebruikers kunnen doen met chat en berichten, waaronder het in- of uitschakelen van chat, het verwijderen van chats, het aanvragen van leesbevestigingen, het gebruik van giphys en stickers en meer.
+- [Het installatiebeleid](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) voor apps bepaalt welke apps beschikbaar zijn voor gebruikers, inclusief aangepaste en apps van derden, en de volgorde waarin ze worden weergegeven.  
+- Beleid [voor gegevensbewaring](https://docs.microsoft.com/microsoftteams/retention-policies) voor teams vindt u in het Office 365 Security and Compliance Center.
+- Het adresboekbeleid van teams wordt ingesteld via het zoeken naar directory met [scoped.](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)
