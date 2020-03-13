@@ -11,15 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: e899d29da78b2820c4384252af162092b81e9391
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
+ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564208"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612342"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Verkennende ervaring van Microsoft Teams
 
 Met de verkennende ervaring van Microsoft Teams kunnen gebruikers in uw organisatie die Azure Active Directory (AAD) hebben en geen licentie hebben voor Teams, een verkennende ervaring van Teams initiëren. Beheerders kunnen deze functie in- of uitschakelen voor gebruikers in hun organisatie. (De eerdere Microsoft Commercial Cloud Trial heet nu The Teams Exploratory experience.)
+
+De verkennende ervaring van Microsoft Teams is zonder extra kosten beschikbaar tot uw volgende verjaardag of verlenging van uw ondernemingsovereenkomst op of na januari 2021. Op dat moment moeten eindgebruikers met een Microsoft Exploratory experience-licentie overstappen naar een betaalde licentie die Teams bevat.
 
 Zie [De verkennende licentie van Microsoft Teams beheren](https://docs.microsoft.com/microsoftteams/teams-exploratory/)voor meer informatie.
