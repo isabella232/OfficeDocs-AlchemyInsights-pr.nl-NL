@@ -1,5 +1,5 @@
 ---
-title: DLP-regel voor de Verenigde Staten / Verenigd Koninkrijk paspoortnummer werkt niet
+title: DLP-regel voor paspoortnummer VS/VK werkt niet
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,34 +12,40 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: bc91af8be58d49204f84cd7d22f481348af3c013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63e814059c897531109aa78725e9811b311fb27
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529914"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931257"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemen met DLP - US / UK Passport getallen
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemen met DLP - Paspoortnummers VS/VK
 
-Hebt u problemen met **Gegevens verlies te voorkomen (DLP)** werkt niet voor inhoud die een **VS / VK paspoortnummer** wanneer u een type DLP gevoelige informatie in O365? Als dat zo is, zorg ervoor dat uw inhoud bevat de benodigde informatie voor wat het DLP-beleid is op zoek naar wanneer deze wordt geëvalueerd.
+**Belangrijk:** veel SharePoint Online- en OneDrive-klanten draaien bedrijfskritieke toepassingen op de service die op de achtergrond wordt uitgevoerd. Deze omvatten contentmigratie, Data Loss Prevention (DLP) en back-upoplossingen. In deze ongekende tijden nemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services in externe werkscenario's zeer beschikbaar en betrouwbaar blijven voor uw gebruikers die afhankelijk zijn van de service.
+
+Ter ondersteuning van deze doelstelling hebben we strengere beperkingslimieten geïmplementeerd voor achtergrondapps (migratie, DLP en back-upoplossingen) tijdens daguren overdag. Je zou verwachten dat deze apps zeer beperkte doorvoer zullen bereiken tijdens deze tijden. Tijdens avond- en weekenduren voor de regio is de service echter klaar om een aanzienlijk groter aantal aanvragen van achtergrond-apps te verwerken.
+
+**DLP problemen met de VS / UK paspoortnummers**
+
+Heeft u problemen met **Data Loss Prevention (DLP)** die niet werkt voor inhoud die een **paspoortnummer tussen de VS en het VK** bevat bij het gebruik van een DLP-gevoelig informatietype in O365? Zorg er dan voor dat uw inhoud de benodigde informatie bevat voor wat het DLP-beleid zoekt wanneer deze wordt geëvalueerd.
   
-Bijvoorbeeld voor een **VS / VK paspoortnummer** beleid is geconfigureerd met een betrouwbaarheidsniveau van 75%, de volgende worden geëvalueerd en moet worden vastgesteld voor de regel te activeren
+Voor een **paspoortnummerbeleid tussen de VS en het VK** dat is geconfigureerd met een betrouwbaarheidsniveau van 75%, worden bijvoorbeeld de volgende geëvalueerd en moet worden gedetecteerd om de regel te activeren
   
 - **[Indeling:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Negen cijfers
 
 - **[Patroon:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** Negen opeenvolgende cijfers
 
-- **[Checksum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Nee, er is geen controlesom
+- **[Checksum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Nee, er is geen Checksum
 
-- **[Definitie:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** Een DLP-beleid is 75% ervan overtuigd dat zij dit soort gevoelige gegevens heeft gedetecteerd als binnen een afstand van 300 tekens:
+- **[Definitie:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** Een DLP-beleid is 75% ervan overtuigd dat het dit soort gevoelige informatie heeft gedetecteerd als, binnen een nabijheid van 300 tekens:
 
-  - De functie Func_usa_uk_passport wordt gezocht naar inhoud die overeenkomt met het patroon.
+  - De functie Func_usa_uk_passport vindt inhoud die overeenkomt met het patroon.
 
-  - Een sleutelwoord Keyword_passport is gevonden.
+  - Er wordt een trefwoord uit Keyword_passport gevonden.
 
-    Zoals in het volgende voorbeeld wordt voor de **VS / VK paspoortnummer** beleid: Amerikaans paspoort getal 123456789
+    De volgende steekproef zou bijvoorbeeld leiden tot het beleid van het paspoortnummer tussen de **VS en het Verenigd Koninkrijk:** Amerikaans paspoortnummer 123456789
 
-Voor meer informatie over wat nodig voor een Amerikaanse is / paspoortnummer UK waargenomen voor uw inhoud, Zie de volgende sectie in dit artikel: [Wat de gevoelige soorten informatie uiterlijk voor Amerikaanse / paspoortnummer UK](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
+Zie de volgende sectie in dit artikel voor meer informatie over wat er nodig is om een paspoortnummer tussen de VS en het VK te detecteren voor uw inhoud: [Wat de gevoelige informatietypen zoeken naar het paspoortnummer tussen de VS en het Vk](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
   
-Het volgende artikel voor meer informatie van wat is vereist voor andere typen met behulp van een type verschillende ingebouwde gevoelige informatie, Zie: [Wat de gevoelige soorten informatie zoeken](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Zie het volgende artikel voor informatie over wat er nodig is voor andere typen: [Waar de gevoelige informatietypen naar zoeken](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   

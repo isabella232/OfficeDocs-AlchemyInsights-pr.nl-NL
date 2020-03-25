@@ -1,5 +1,5 @@
 ---
-title: Problemen bij het migreren van gegevens naar SharePoint Online
+title: Problemen tijdens het migreren van gegevens naar SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051744"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931689"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemen bij het migreren van gegevens naar SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemen tijdens het migreren van gegevens naar SharePoint Online
 
-Het lijkt erop dat u migreert meer dan 100TB aan gegevens naar SharePoint Online. Volg de onderstaande stappen om u zo snel mogelijk te helpen. 
+**Belangrijk:** veel SharePoint Online- en OneDrive-klanten draaien bedrijfskritieke toepassingen op de service die op de achtergrond wordt uitgevoerd. Deze omvatten contentmigratie, Data Loss Prevention (DLP) en back-upoplossingen. In deze ongekende tijden nemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services in externe werkscenario's zeer beschikbaar en betrouwbaar blijven voor uw gebruikers die afhankelijk zijn van de service.
 
-1. Selecteer **nieuwe serviceaanvraag**, en vervolgens **nieuwe serviceaanvraag**. 
-2. Laat de titel en beschrijving als **SharePoint migratie over 100TB**.
-3. Nadat het ticket is verzonden, moet u het bijwerken met de volgende informatie: 
+Ter ondersteuning van deze doelstelling hebben we strengere beperkingslimieten geïmplementeerd voor achtergrondapps (migratie, DLP en back-upoplossingen) tijdens daguren overdag. Je zou verwachten dat deze apps zeer beperkte doorvoer zullen bereiken tijdens deze tijden. Tijdens avond- en weekenduren voor de regio is de service echter klaar om een aanzienlijk groter aantal aanvragen van achtergrond-apps te verwerken.
 
-    - Geschatte grootte van de migratie.
-    - Een schatting van wanneer u wilt starten en uw migratie wilt voltooien.
-    - Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, box, GDrive, bestandsshares, enz.
+**Meer dan 100 TB aan gegevens migreren**
+
+Het lijkt erop dat u meer dan 100 TB aan gegevens migreert naar SharePoint Online. Volg de onderstaande stappen zodat we u zo snel mogelijk kunnen helpen. 
+
+1. Selecteer **Nieuwe serviceaanvraag**en vervolgens **Nieuwe serviceaanvraag**. 
+2. Laat de titel en beschrijving als **SharePoint-migratie van meer dan 100 TB .**
+3. Zodra het ticket is ingediend, moet u het bijwerken met de volgende informatie: 
+
+    - Geschatte grootte van uw migratie.
+    - Een schatting van wanneer u uw migratie wilt starten en voltooien.
+    - Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, Box, GDrive, Bestandsshares, enz..
 
 
   

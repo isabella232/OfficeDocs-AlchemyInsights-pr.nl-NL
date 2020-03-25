@@ -13,27 +13,33 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 890bba57bc36c034c507e6124cd6593ef4d92af8
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052896"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932653"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP heeft mogelijk een aangepast type nodig
 
-Met een beleid voor preventie van gegevensverlies (DLP), u identificeren en beveiligen van gevoelige gegevens in uw organisatie. In sommige scenario's moet u mogelijk uw eigen **aangepaste** gevoelige gegevenstype maken om de gegevens van uw organisatie te beveiligen.
+**Belangrijk:** veel SharePoint Online- en OneDrive-klanten draaien bedrijfskritieke toepassingen op de service die op de achtergrond wordt uitgevoerd. Deze omvatten contentmigratie, Data Loss Prevention (DLP) en back-upoplossingen. In deze ongekende tijden nemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services in externe werkscenario's zeer beschikbaar en betrouwbaar blijven voor uw gebruikers die afhankelijk zijn van de service.
 
-Bijvoorbeeld, uw organisatie moet mogelijk identificeren en beveiligen van werknemer-Id's of andere gegevens in een bepaalde indeling die specifiek zijn voor uw organisatie. Raadpleeg de volgende artikelen voor meer informatie.
-  
- **Een ingebouwd gevoelig informatie type aanpassen**
-  
-Als een ingebouwd gevoelig informatie type met slechts een paar tweaks aan uw behoeften voldoet, u [een ingebouwd gevoelig informatie type aanpassen](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). U bijvoorbeeld trefwoorden toevoegen of verwijderen, of ondersteunend bewijsmateriaal toevoegen of verwijderen, zoals een datum of adres.
-  
- **Een aangepast type voor gevoelige gegevens maken**
-  
-Maar als u nodig hebt om te identificeren en beveiligen van een ander type van gevoelige informatie helemaal, u [een aangepaste gevoelige gegevenstype](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in de gebruikersinterface van de Security & compliance Center.
-  
-**Een aangepast type gevoelige gegevens maken in beveiligings & compliance Center PowerShell**
+Ter ondersteuning van deze doelstelling hebben we strengere beperkingslimieten geïmplementeerd voor achtergrondapps (migratie, DLP en back-upoplossingen) tijdens daguren overdag. Je zou verwachten dat deze apps zeer beperkte doorvoer zullen bereiken tijdens deze tijden. Tijdens avond- en weekenduren voor de regio is de service echter klaar om een aanzienlijk groter aantal aanvragen van achtergrond-apps te verwerken.
 
-Ten slotte, als de GEBRUIKERSINTERFACE biedt niet alle opties die u nodig hebt, u [een aangepaste gevoelige gegevenstype in Security & compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Door te beginnen met een XML-bestand, u elke beschikbare optie gebruiken.
+**DLP vereist mogelijk een aangepast informatietype**
+
+Met een DLP-beleid (Data Loss Prevention) u gevoelige gegevens in uw organisatie identificeren en beschermen. In sommige scenario's moet u mogelijk uw eigen **aangepaste** gevoelige informatietype maken om de gegevens van uw organisatie te beschermen.
+
+Uw organisatie moet bijvoorbeeld werknemers-id's of andere gegevens identificeren en beveiligen in een specifieke indeling voor uw organisatie. Zie in dat dan de volgende artikelen voor meer informatie.
+  
+ **Een ingebouwd gevoelig informatietype aanpassen**
+  
+Als een ingebouwd gevoelig informatietype met slechts een paar aanpassingen aan uw behoeften zou voldoen, u [een ingebouwd gevoelig informatietype aanpassen.](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type) U bijvoorbeeld zoekwoorden toevoegen of verwijderen of ondersteunend bewijsmateriaal toevoegen of verwijderen, zoals een datum of adres.
+  
+ **Een aangepast gevoelig informatietype maken**
+  
+Maar als u een ander type gevoelige informatie helemaal moet identificeren en beschermen, u [een aangepast gevoelig informatietype maken](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in de gebruikersinterface van het Security & Compliance Center.
+  
+**Een aangepast gevoelig informatietype maken in Security & Compliance Center PowerShell**
+
+Als de gebruikersinterface ten slotte niet alle opties biedt die u nodig hebt, u [een aangepast gevoelig informatietype maken in Security & Compliance Center PowerShell.](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell) Door te beginnen met een XML-bestand, u elke beschikbare optie gebruiken.

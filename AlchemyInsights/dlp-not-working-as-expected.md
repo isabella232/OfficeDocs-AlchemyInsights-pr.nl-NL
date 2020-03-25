@@ -1,5 +1,5 @@
 ---
-title: DLP, werken niet zoals verwacht
+title: DLP werkt niet zoals verwacht
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530274"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932617"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP, werken niet zoals verwacht
+# <a name="dlp-not-working-as-expected"></a>DLP werkt niet zoals verwacht
 
-Hebt u problemen met **Gegevens verlies te voorkomen (DLP)** in Office 365 werkt niet zoals verwacht? Als dat zo is, zorg ervoor dat uw **DLP-beleid** correct is ingesteld en dat de gegevens welke het **DLP-beleid bevatten** is op zoek naar wanneer wordt geëvalueerd.
-  
+**Belangrijk:** veel SharePoint Online- en OneDrive-klanten draaien bedrijfskritieke toepassingen op de service die op de achtergrond wordt uitgevoerd. Deze omvatten contentmigratie, Data Loss Prevention (DLP) en back-upoplossingen. In deze ongekende tijden nemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services in externe werkscenario's zeer beschikbaar en betrouwbaar blijven voor uw gebruikers die afhankelijk zijn van de service.
+
+Ter ondersteuning van deze doelstelling hebben we strengere beperkingslimieten geïmplementeerd voor achtergrondapps (migratie, DLP en back-upoplossingen) tijdens daguren overdag. Je zou verwachten dat deze apps zeer beperkte doorvoer zullen bereiken tijdens deze tijden. Tijdens avond- en weekenduren voor de regio is de service echter klaar om een aanzienlijk groter aantal aanvragen van achtergrond-apps te verwerken.
+
  **DLP instellen**
+
+Heeft u problemen met **Data Loss Prevention (DLP)** in Office 365 werkt niet zoals verwacht? Zorg er dan voor dat uw **DLP-beleid** correct is ingesteld en dat uw gegevens bevatten waar het **DLP-beleid** naar op zoek is wanneer het wordt geëvalueerd.
   
-DLP-beleid kunt u te identificeren en het beschermen van gevoelige informatie in uw organisatie. DLP-beleid instellen, gebruikt u de informatie [hier](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Met DLP-beleid u gevoelige informatie in uw organisatie identificeren en beveiligen. Als u DLP-beleid wilt instellen, gebruikt u de informatie [hier](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **DLP-beleid zoeken naar**
+ **Waar dlp-beleid naar zoekt**
   
-Wanneer u de **ingebouwde gevoelige informatietypen** in Office 365 beveiliging en naleving center, zoek DLP-beleid specifieke patronen en elementen bij het opsporen van deze gevoelige soorten.
+Wanneer u de **ingebouwde gevoelige informatietypen** in het Office 365 Security and Compliance Center gebruikt, zoekt het DLP-beleid naar specifieke patronen en elementen bij het detecteren van deze gevoelige typen.
   
 - **Ingebouwde gevoelige informatietypen**
 
-    Zie voor meer informatie over de ingebouwde typen gevoelige en wat een DLP-beleid naar zoekt wanneer de gevoelige type detecteren: [de gevoelige informatie welke zoekt](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Zie voor informatie over de ingebouwde gevoelige typen en waar een DLP-beleid naar zoekt bij het detecteren van het gevoelige type: [Waar de gevoelige informatietypen naar zoeken.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
 
-- **Typen aangepaste gevoelige informatie**
+- **Aangepaste gevoelige informatietypen**
 
-    Als u probeert te maken van aangepaste gevoelige gegevenstypen, gebruikt u het volgende artikel voor informatie over het maken van een aangepast type gevoelige: [een type aangepaste gevoelige informatie maken](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Als u aangepaste gevoelige informatietypen probeert te maken, gebruikt u het volgende artikel voor informatie over het maken van een aangepast gevoelig type: [Een aangepast gevoelig informatietype maken](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
 **Een DLP-beleid testen**
 
-Gebruik de optie **type Test** onder **categorieën**om te testen uw gegevens met een ingebouwde of aangepaste gevoelige informatie, > **gevoelige informatietypen**. Zie [aangepaste gevoelige informatietypen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)voor meer informatie.
+Als u uw gegevens wilt testen met een ingebouwd of aangepast gevoelig informatietype, gebruikt u de optie **Testtype** onder**Gevoelige infotypen** **classificaties** > . Zie [Aangepaste gevoelige informatietypen testen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)voor meer informatie .
 
  **Rapporten**
   
-- Krijg inzicht met gevoelige gegevens [DLP rapporten.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Krijg gevoelige gegevensinzichten met [DLP-rapporten.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-- Zie de specifieke details van de gebeurtenis met een [Incident rapport](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Zie specifieke details van de gebeurtenis met een [incidentrapport](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
