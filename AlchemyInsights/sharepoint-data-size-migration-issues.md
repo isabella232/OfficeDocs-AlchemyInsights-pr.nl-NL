@@ -1,5 +1,5 @@
 ---
-title: Problemen bij het migreren van gegevens naar SharePoint Online
+title: Problemen tijdens het migreren van gegevens naar SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051744"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931689"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="7e607-102">Problemen bij het migreren van gegevens naar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="7e607-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="c7013-102">Problemen tijdens het migreren van gegevens naar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="c7013-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="7e607-103">Het lijkt erop dat u migreert meer dan 100TB aan gegevens naar SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="7e607-103">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="7e607-104">Volg de onderstaande stappen om u zo snel mogelijk te helpen.</span><span class="sxs-lookup"><span data-stu-id="7e607-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="c7013-103">**Belangrijk:** veel SharePoint Online- en OneDrive-klanten draaien bedrijfskritieke toepassingen op de service die op de achtergrond wordt uitgevoerd.</span><span class="sxs-lookup"><span data-stu-id="c7013-103">**Important**: Many SharePoint Online and OneDrive customers run business-critical applications against the service that run in the background.</span></span> <span data-ttu-id="c7013-104">Deze omvatten contentmigratie, Data Loss Prevention (DLP) en back-upoplossingen.</span><span class="sxs-lookup"><span data-stu-id="c7013-104">These include content migration, Data Loss Prevention (DLP), and backup solutions.</span></span> <span data-ttu-id="c7013-105">In deze ongekende tijden nemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services in externe werkscenario's zeer beschikbaar en betrouwbaar blijven voor uw gebruikers die afhankelijk zijn van de service.</span><span class="sxs-lookup"><span data-stu-id="c7013-105">During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available and reliable for your users who depend on the service more than ever in remote work scenarios.</span></span>
 
-1. <span data-ttu-id="7e607-105">Selecteer **nieuwe serviceaanvraag**, en vervolgens **nieuwe serviceaanvraag**.</span><span class="sxs-lookup"><span data-stu-id="7e607-105">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="7e607-106">Laat de titel en beschrijving als **SharePoint migratie over 100TB**.</span><span class="sxs-lookup"><span data-stu-id="7e607-106">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="7e607-107">Nadat het ticket is verzonden, moet u het bijwerken met de volgende informatie:</span><span class="sxs-lookup"><span data-stu-id="7e607-107">Once the ticket has been submitted, please update it with the following information:</span></span> 
+<span data-ttu-id="c7013-106">Ter ondersteuning van deze doelstelling hebben we strengere beperkingslimieten geïmplementeerd voor achtergrondapps (migratie, DLP en back-upoplossingen) tijdens daguren overdag.</span><span class="sxs-lookup"><span data-stu-id="c7013-106">In support of this objective, we have implemented tighter throttling limits on background apps (migration, DLP and backup solutions) during weekday daytime hours.</span></span> <span data-ttu-id="c7013-107">Je zou verwachten dat deze apps zeer beperkte doorvoer zullen bereiken tijdens deze tijden.</span><span class="sxs-lookup"><span data-stu-id="c7013-107">You should expect that these apps will achieve very limited throughput during these times.</span></span> <span data-ttu-id="c7013-108">Tijdens avond- en weekenduren voor de regio is de service echter klaar om een aanzienlijk groter aantal aanvragen van achtergrond-apps te verwerken.</span><span class="sxs-lookup"><span data-stu-id="c7013-108">However, during evening and weekend hours for the region, the service will be ready to process a significantly higher volume of requests from background apps.</span></span>
 
-    - <span data-ttu-id="7e607-108">Geschatte grootte van de migratie.</span><span class="sxs-lookup"><span data-stu-id="7e607-108">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="7e607-109">Een schatting van wanneer u wilt starten en uw migratie wilt voltooien.</span><span class="sxs-lookup"><span data-stu-id="7e607-109">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="7e607-110">Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, box, GDrive, bestandsshares, enz.</span><span class="sxs-lookup"><span data-stu-id="7e607-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+<span data-ttu-id="c7013-109">**Meer dan 100 TB aan gegevens migreren**</span><span class="sxs-lookup"><span data-stu-id="c7013-109">**Migrating over 100TB of data**</span></span>
+
+<span data-ttu-id="c7013-110">Het lijkt erop dat u meer dan 100 TB aan gegevens migreert naar SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c7013-110">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="c7013-111">Volg de onderstaande stappen zodat we u zo snel mogelijk kunnen helpen.</span><span class="sxs-lookup"><span data-stu-id="c7013-111">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+
+1. <span data-ttu-id="c7013-112">Selecteer **Nieuwe serviceaanvraag**en vervolgens **Nieuwe serviceaanvraag**.</span><span class="sxs-lookup"><span data-stu-id="c7013-112">Select **New Service Request**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="c7013-113">Laat de titel en beschrijving als **SharePoint-migratie van meer dan 100 TB .**</span><span class="sxs-lookup"><span data-stu-id="c7013-113">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="c7013-114">Zodra het ticket is ingediend, moet u het bijwerken met de volgende informatie:</span><span class="sxs-lookup"><span data-stu-id="c7013-114">Once the ticket has been submitted, please update it with the following information:</span></span> 
+
+    - <span data-ttu-id="c7013-115">Geschatte grootte van uw migratie.</span><span class="sxs-lookup"><span data-stu-id="c7013-115">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="c7013-116">Een schatting van wanneer u uw migratie wilt starten en voltooien.</span><span class="sxs-lookup"><span data-stu-id="c7013-116">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="c7013-117">Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, Box, GDrive, Bestandsshares, enz..</span><span class="sxs-lookup"><span data-stu-id="c7013-117">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
 
 
   
