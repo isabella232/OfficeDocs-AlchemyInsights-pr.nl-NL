@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856462"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030395"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Bekende problemen en oplossingen van Teams
+
+** Belangrijk **: vanwege een recente toename van het Teams-gebruik, kan het ongeveer 24 uur duren voordat u een Teams-licentie aan een gebruiker toewijst voordat deze volledig is ingesteld. Tot die tijd kunt u hen geen Teams-beleid toewijzen en hebben ze mogelijk geen toegang tot bepaalde Teams-functies zoals bellen en audioconferenties.
+
+** Veelvoorkomende problemen en oplossingen **
 
 Probeer uw vraag anders te formuleren en alle fouten die u ziet of Teams-functies die u gebruikt op te nemen voor een specifieker antwoord.
 
