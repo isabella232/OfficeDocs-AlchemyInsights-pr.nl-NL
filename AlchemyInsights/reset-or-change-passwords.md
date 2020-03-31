@@ -8,23 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.custom:
+- "9002291"
+- "4428"
+- "1100004"
 - "735"
 - "826"
-- "1100004"
-ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: a07ceca6d1a39bc1517c12d9eb40ea50229aee33
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745284"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059839"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a>Zakelijke wachtwoorden van Office 365 opnieuw instellen of wijzigen
+# <a name="reset-or-change-passwords"></a>Wachtwoorden opnieuw instellen of wijzigen
 
-Een gebruiker kan zijn eigen wachtwoord wijzigen in de beveiliging van **Mijn account** > [& privacy](https://portal.office.com/account/#security).
+Een gebruiker kan zijn eigen wachtwoord wijzigen vanuit **Mijn account** > [Beveiliging & privacy.](https://portal.office.com/account/#security)
   
-Als de gebruiker zijn wachtwoord is vergeten, kan een beheerder het wachtwoord opnieuw instellen door naar **gebruikers** > [actieve gebruikers](https://portal.office.com/adminportal/home#/users)te gaan, de gebruiker (s) te selecteren en **wachtwoord opnieuw instellen**te selecteren.
+Als de gebruiker zijn wachtwoord is vergeten, kan een beheerder het wachtwoord opnieuw instellen door naar **Gebruikers** > [Actief-gebruikers](https://portal.office.com/adminportal/home#/users)te gaan, de gebruiker(s) te selecteren en op **Wachtwoord opnieuw instellen**te klikken.
   
-[Klik hier voor meer informatie](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), of om gebruikers hun eigen vergeten wachtwoorden te laten resetten.
-  
+[Klik hier voor meer informatie,](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)of om gebruikers hun eigen vergeten wachtwoorden te laten resetten.
