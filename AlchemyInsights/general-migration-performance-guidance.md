@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932474"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958533"
 ---
 # <a name="general-migration-performance-guidance"></a>Algemene richtlijnen voor migratieprestaties
 
-**Belangrijk**: Veel klanten met SharePoint Online en OneDrive voeren bedrijfskritische toepassingen uit op de service die op de achtergrond worden uitgevoerd. Dit zijn onder andere het migreren van inhoud, de preventie van gegevensverlies (DLP) en back-up-oplossingen. Tijdens deze ongekende tijden worden er stappen ondernomen om ervoor te zorgen dat de SharePoint Online-en OneDrive-services beschikbaar en betrouwbaar blijven voor uw gebruikers die afhankelijk zijn van werken op afstand.
-
-Ter ondersteuning van dit doel hebben we strengere limieten geïmplementeerd voor de achtergrond-apps (migratie, DLP-en back-up-oplossing) overdag gedurende weekdagen. U kunt verwachten dat deze apps zeer beperkte doorvoercapaciteit hebben gedurende deze momenten. Tijdens avond-en weekenduren voor de regio is de service echter gereed voor het verwerken van een aanzienlijk grotere hoeveelheid aanvragen van de achtergrond-apps.
+**Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
 
 **Richtlijnen voor migratieprestaties**
 
