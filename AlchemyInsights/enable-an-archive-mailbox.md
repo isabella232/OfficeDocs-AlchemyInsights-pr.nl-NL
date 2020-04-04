@@ -1,5 +1,5 @@
 ---
-title: Een postbus archiveren inschakelen
+title: Een archiefpostvak inschakelen
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,47 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736284"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132606"
 ---
-# <a name="enable-an-archive-mailbox"></a>Een postbus archiveren inschakelen
+# <a name="enable-an-archive-mailbox"></a>Een archiefpostvak inschakelen
 
-Archiveren van postvakken in Office 365 (ook wel *online archieven*genoemd) bieden gebruikers extra e-mail opslag. Gebruikers kunnen items verplaatsen of kopiëren naar hun postbus archiveren en beheerders kunnen een archief beleid maken waarmee items automatisch worden verplaatst naar postvakken archiveren.
+Archiefpostvakken in Office 365 (ook wel *Online Archieven* of *In-Place Archives*genoemd) bieden gebruikers extra e-mailopslag. Gebruikers kunnen items verplaatsen of kopiëren naar hun archiefpostvak en beheerders kunnen een archiefbeleid maken dat items automatisch verplaatst naar archiefpostvakken.
   
-U maakt als volgt een archiefmailbox:
+Zo maak je een archiefpostvak:
   
 1. Ga naar [https://protection.office.com](https://protection.office.com).
 
 2. Meld u aan bij Office 365 met uw beheerdersaccount.
 
-3. Selecteer in het linkerdeelvenster van de &amp; Security compliance Center, **Data Governance** \> **Archief**.
+3. Selecteer **Informatiebeheerarchief** \> **Archive**in &amp; het linkerdeelvenster van het Beveiligingscompliancecentrum .
 
-4. Selecteer de gebruiker wiens archief postvak u wilt inschakelen.
+4. Selecteer de gebruiker wiens archiefpostvak u wilt inschakelen.
 
-5. Selecteer in het detailvenster aan de rechterkant **inschakelen** en selecteer vervolgens **Ja** in het waarschuwingsbericht om in te schakelen van de postbus archiveren.
+5. Klik in het detailvenster aan de rechterkant op **Inschakelen** en klik vervolgens op **Ja** in het waarschuwingsbericht om het archiefpostvak in te schakelen.
 
-U postbussen archiveren ook bulksgewijs inschakelen door meerdere gebruikers te selecteren (met de toetsen **SHIFT** of **CTRL** ) en vervolgens **inschakelen** in het detailvenster te selecteren.
+U ook archivemailboxen in bulk inschakelen door meerdere gebruikers te selecteren (met de **Toetsen shift** of **Ctrl)** en vervolgens op **Inschakelen** in het detailvenster te klikken.
   
+### <a name="shared-mailboxes"></a>Gedeelde postvakken
+
+Om het archief in te schakelen voor een gedeeld postvak, is een Exchange Online Plan 2-licentie of een Exchange Online Plan 1-licentie met een Exchange Online Archiveringslicentie vereist.  
+
+Ga als lid van het archief naar een gedeeld postvak:
+
+1. Ga naar het [Exchange-beheercentrum](https://outlook.office365.com/ecp) en meld u aan met uw beheerdersaccount.
+
+2. Ga naar**Gedeelde** **geadresseerden** > .
+
+3. Selecteer het gedeelde postvak.
+
+4. Klik in het detailvenster aan de rechterkant onder **Archief op inplaats**, op **Inschakelen**en klik vervolgens op **Ja** om het archiefpostvak in te schakelen.
+
 Zie voor meer informatie:
   
-- [Archiveren van postvakken inschakelen in Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Archiefpostvakken inschakelen in Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Een beleid voor archiveren en verwijderen instellen in Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Een archief- en verwijderingsbeleid instellen in Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
