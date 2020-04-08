@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034197"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142984"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Aan de slag met live evenementen van Teams
 
@@ -24,7 +24,7 @@ Live-evenementen van Microsoft Teams zijn een uitbreiding van Teams-vergaderinge
 
 Om een live evenement te maken, heb je het volgende nodig:
 
-- Een [ Office 365 Enterprise E1-, E3- of E5-licentie of een Office 365 A3- of A5-licentie ](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- Een [ Office 365 Enterprise E1-, E3- of E5-licentie of een Office 365 A3- of A5-licentie ](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Let op**: vanwege een recente toename van het Teams-gebruik, kan het ongeveer 24 uur duren voordat u een Teams-licentie aan een gebruiker toewijst voordat deze volledig is ingesteld. Tot die tijd kunt u hen geen Teams-beleid toewijzen en hebben ze mogelijk geen toegang tot bepaalde Teams-functies zoals bellen en audioconferenties.
 
 - Toestemming om [ live evenementen te maken in het Microsoft Teams-beheercentrum ](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
