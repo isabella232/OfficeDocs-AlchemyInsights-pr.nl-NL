@@ -1,5 +1,5 @@
 ---
-title: Uitbreiden van uw evaluatieversie van Office 365 voor bedrijven
+title: Uw proefversie voor Office 365 voor Bedrijven uitbreiden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664999"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207332"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Uw proefabonnement voor Office 365 voor Bedrijven verlengen
 
-Als uw proefabonnement is binnen 15 dagen na die verstrijkt voordat de evaluatieperiode nog niet uitgebreid, kunt u de evaluatieversie voor een andere periode van 30 dagen kunt uitbreiden. Dit is slechts één keer mogelijk.
+U uw proefperiode met nog eens 30 dagen verlengen. Dit is slechts één keer mogelijk.
   
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het beheercentrum naar **Factureringsproducten** \> [& services](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Kies het proefabonnement op dat u wilt uitbreiden.
+2. Selecteer het proefabonnement dat u wilt verlengen.
 
-3. In de sectie **secties & acties** Kies **proefversie uitbreiden** en voer de resterende stappen uit.
+3. Klik **op Proef verlengen** en voer de stappen in de wizard uit.
 
-4. U moet creditcardgegevens om uit te breiden van de evaluatieversie. We niet in rekening brengt uw creditcard voor de uitbreiding van de evaluatieversie.
+4. U moet creditcardgegevens verstrekken om uw proefperiode uit te breiden. We brengen geen kosten in rekening voor de verlenging van de proefperiode.
 
-Zie voor meer informatie kunt [uitbreiden uw evaluatieversie van Office 365 voor bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Zie [Proefversie voor Office 365 voor Bedrijven uitbreiden voor](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)meer informatie over het verlengen van uw proefperiode of stapsgewijze instructies.

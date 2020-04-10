@@ -1,5 +1,5 @@
 ---
-title: Het toevoegen of licenties te verminderen
+title: Licenties toevoegen of verkleinen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664279"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207368"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Het toevoegen of licenties te verminderen
+# <a name="how-to-add-or-reduce-licenses"></a>Licenties toevoegen of verkleinen
 
-Hier is het verwijderen van Office 365 licenties of meer licenties aan te schaffen.
+U als u licenties toevoegen/verwijderen.
   
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Navigeer naar **abonnementen voor facturering > [Subscriptions](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Kies het abonnement dat u wilt toevoegen of verwijderen van licenties.
+2. Kies het abonnement waarvan u licenties wilt toevoegen/verwijderen.
 
-3. Selecteer **licenties toevoegen of verwijderen**.
+3. Klik **op Licenties toevoegen/verwijderen**.
 
-4. Voer het totale aantal gebruikers dat nodig is.
+4. Voer het totale aantal gebruikers in dat nodig is. Als u bijvoorbeeld momenteel 25 licenties hebt en u er 5 wilt verwijderen, voert u 20 in dit veld in.
 
-    Bijvoorbeeld, als u momenteel 25 licenties hebt en u wilt verwijderen, 5, geef 20 op in dit veld.
+5. Selecteer **Wijziging verzenden**.
 
-5. Kies **verzenden wijzigen**.
+**Opmerking:** Nieuwe kosten (licentieverhoging) of krediet (licentieverlaging) worden weergegeven op uw volgende factuur.
 
-> [!NOTE]
-> Een nieuwe toeslag (licentie verhoging) of creditnota (afname licentie) wordt weergegeven op uw volgende factuur.
+Zie [Licenties toewijzen aan gebruikers voor](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)informatie over het toewijzen van licenties.
 
-Voor meer informatie, Zie [licenties voor uw Office 365 voor zakelijke abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Aanvullende bronnen**
+ **Resources**
   
-- [Licenties verwijderen uit uw abonnement voor Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Abonnementslicenties beheren - kopen of verwijderen](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Office 365 voor Bedrijven opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Office 365 voor Bedrijven opzeggen](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Een ander Office 365 voor Bedrijven-abonnement kopen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Een ander Office 365 voor Bedrijven-abonnement kopen](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
