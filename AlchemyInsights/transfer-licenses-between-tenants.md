@@ -30,6 +30,6 @@ Het is niet mogelijk om Office 365-licenties tussen twee organisaties (tenants) 
 
     - [Migratie van postvakken](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
 
-    - [Migratie van SharePoint-](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)gegevens
+    - [Migratie van SharePoint-gegevens](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
 
 Zie [Abonnementslicenties beheren](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide) voor meer informatie.

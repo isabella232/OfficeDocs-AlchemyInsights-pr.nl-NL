@@ -26,7 +26,7 @@ ms.locfileid: "43191061"
 
 - Als er al een licentie aan u is toegewezen, kunt u op de pagina [Mijn account](https://portal.office.com/account/#installs) toepassingen vinden die u kunt downloaden. Op deze pagina vindt u een lijst met toepassingen die u kunt downloaden op basis van de licenties die zijn toegewezen.
 
-- Als u de Office-toepassingen al hebt gedownload, moet u zich mogelijk aanmelden bij de toepassingen met uw werk- of schoolaccount. U kunt dit in elke Office-toepassing (Word, Excel, enzovoort) doen door te klikken op **Bestand > Account** (aan de onderkant). Klik onder Gebruikersgegevens op **Overschakelen naar ander account**. Zie [Office-toepassingen installeren](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications) voor meer informatie.
+- Als u de Office-toepassingen al hebt gedownload, moet u zich mogelijk aanmelden bij de toepassingen met uw werk- of schoolaccount. U kunt dit in elke Office-toepassing (Word, Excel, enzovoort) doen door te klikken op **Bestand > Account** (onderaan). Klik onder Gebruikersgegevens op **Overschakelen naar ander account**. Zie [Office-toepassingen installeren](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications) voor meer informatie.
 
 **Een abonnement opnieuw activeren**
 
@@ -42,6 +42,6 @@ Zie [Uw abonnement opnieuw activeren](https://docs.microsoft.com/office365/admin
 
 **Een nieuw abonnement activeren met een productcode**
 
-- Als u een nieuw abonnement op Office 365 wilt activeren met uw productcode, start u [hier](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Als u een nieuw abonnement op Office 365 wilt activeren met uw productcode, begint u [hier](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
 - Voer de productcode voor Office 365 in en volg de prompts om uw abonnement te activeren. Als er problemen zijn bij het activeren, gaat u naar dit overzicht van [veelvoorkomende fouten met productcodes en oplossingen](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
