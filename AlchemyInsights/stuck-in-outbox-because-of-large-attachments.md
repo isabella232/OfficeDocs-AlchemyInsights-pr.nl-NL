@@ -1,5 +1,5 @@
 ---
-title: Vastgelopen in outbox vanwege grote bijlagen
+title: Stuck in Outbox vanwege grote bijlagen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,38 +11,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
-ms.openlocfilehash: d5fb20fcc146be67c5a04de0640ed4efd625311a
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+- "9002385"
+- "4645"
+ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
+ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441301"
+ms.lasthandoff: 04/12/2020
+ms.locfileid: "43232625"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Berichten herstellen die vastzitten in het postvak uit
 
-Het is raadzaam dat u begint met het uitvoeren van het scenario [' Ik heb problemen met het verzenden, ontvangen of vinden van e-mail berichten '](https://aka.ms/SaRA-OutlookSendReceive) van het hulpprogramma [Microsoft ondersteuning en herstel-assistent](https://diagnostics.office.com/#/) .
+We raden u aan eerst het scenario ['Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten'](https://aka.ms/SaRA-OutlookSendReceive) uit te voeren vanuit het hulpprogramma [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/#/) op de betreffende machine.
 
-Wanneer een bericht vastloopt in het postvak uit, zijn de meest waarschijnlijke oorzaken:
-- Grote bijlagen.
-- De optie **direct verzenden bij verbinding** is niet ingeschakeld.
+Wanneer een bericht vast komt te zitten in uw postvak IN, is de meest waarschijnlijke oorzaak een grote bijlage of is de optie 'Onmiddellijk verzenden wanneer verbonden' niet ingeschakeld.
 
-Grote bijlagen verwijderen: 
+**De grote bijlage verwijderen**
 
-1. Selecteer in Outlook**offline werk** **verzenden/ontvangen** > . 
-2. Selecteer **Postvak**uit in het navigatiedeelvenster. Vanaf hier u: 
-    - Verwijder het bericht (Selecteer het en selecteer vervolgens **verwijderen**).
-    - Sleep het bericht naar de map concepten, dubbelklik erop om het te openen en verwijder de bijlage Selecteer deze en selecteer vervolgens **verwijderen**).
-3. Als er een foutbericht wordt weergegeven dat Outlook probeert te verzenden, sluit u Outlook. Het kan enkele ogenblikken duren om af te sluiten. Als Outlook niet wordt gesloten, drukt u op CTRL + ALT + DELETE en selecteert u **Taakbeheer starten**. Selecteer in Taakbeheer het tabblad **processen** , Scrol omlaag naar Outlook. exe en selecteer **proces beëindigen**.
-4. Nadat Outlook is gesloten, start u het opnieuw en herhaalt u stap 2 en 3. 
-5. Nadat u de bijlage hebt verwijderd, klikt u op**offline werk** **verzenden/ontvangen** > om online te gaan werken. 
+1. Klik **op Werk verzenden / ontvangen** > **offline**. 
+2. Klik in het navigatiedeelvenster op **Uitvak**. Vanaf hier u: 
+    - Verwijder het bericht. Selecteer deze en klik op **Verwijderen**.
+    - Sleep het bericht naar de **conceptmap,** dubbelklik om het bericht te openen en verwijder de bijlage (klik erop en klik op **Verwijderen).**
+3. Als een fout aangeeft dat Outlook probeert het bericht te verzenden, sluit u Outlook. Het kan even duren voordat je het afgaat. Als Outlook niet wordt gesloten, drukt u op **Ctrl+Alt+Verwijderen** en klikt u op **Taakbeheer starten**. Selecteer in Taakbeheer het tabblad **Processen,** scrol omlaag naar outlook.exe en klik op **Proces beëindigen**.
+4. Nadat Outlook is gesloten, start u Outlook opnieuw op en herhaalt u stap 2-3. 
+5. Nadat u de bijlage hebt verwijderd, klikt u op Werk verzenden **/ ontvangen** > **offline** om de knop uit te kiezen en om verder te werken online. 
 
-Berichten komen ook vast te zitten in het postvak uit wanneer u op **verzenden**klikt, maar u bent niet verbonden. Klik op **verzenden/ontvangen** en Bekijk de knop **offline werken** . Als dit blauw is, wordt de verbinding verbroken. Selecteer deze om verbinding te maken (de knop wordt wit) en klik op **Alles verzenden**.
+Berichten komen ook vast te zitten in het postvak UIT wanneer u op **Verzenden**klikt, maar u bent niet verbonden. Klik **op Verzenden / Ontvangen** en kijk op de knop Offline **werken.** Als het blauw is, wordt de verbinding verbroken. Klik erop om verbinding te maken (de knop wordt wit) en klik op **Alles verzenden**.
  
-De optie **direct verzenden inschakelen wanneer deze is aangesloten**:
+**Verzenden onmiddellijk inschakelen wanneer deze is aangesloten**
  
-- Selecteer **Bestands** > **Opties** >  **Geavanceerd**.
-Selecteer in de sectie **verzenden en ontvangen** de optie **direct verzenden wanneer deze is verbonden**en kies vervolgens **OK**.
+1. Klik op het tabblad Bestand op **Opties**.
+
+2. Klik in het dialoogvenster Outlook-opties op **Geavanceerd**.
+
+3. Klik in de sectie Verzenden en ontvangen om verzenden onmiddellijk in te schakelen **wanneer deze is verbonden.** Klik op **OK**.
  
-Zie voor de volledige details:
-- [Video: een vastgelopen e-mail bericht verzenden of verwijderen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-mail blijft in de map Postvak uit totdat u handmatig een bewerking voor verzenden/ontvangen in Outlook start](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Zie voor meer informatie:
+- [Video: Een vastgelopen e-mail verzenden of verwijderen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [E-mail blijft in de map Outbox totdat u handmatig een verzend-/ontvangstbewerking in Outlook start](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
