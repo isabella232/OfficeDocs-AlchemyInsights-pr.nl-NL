@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7a2f2ae8bc80e3d66ab3227b8c675efcb23bc1e6
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664387"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231486"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hoe kan ik mijn creditcardgegevens bijwerken?
 
@@ -28,9 +28,8 @@ ms.locfileid: "36664387"
 
 3. Als u de creditcard- of bankrekeninggegevens wilt wijzigen, selecteert u **Betalingsgegevens bewerken**.
 
-> [!NOTE]
-> Als een abonnement is gekocht door een andere beheerder in uw organisatie, kunt u de creditcard- of bankrekeninggegevens voor dat abonnement niet bijwerken. Als de creditcard binnenkort vervalt en de andere beheerder deze niet kan bijwerken, kunt u voorkomen dat de service wordt onderbroken door een andere creditcard of een nieuwe bankrekening toe te voegen voor het abonnement.
-
 4. Werk uw creditcard- of bankrekeninggegevens (naam op de creditcard of van de bankrekening, factuuradres, telefoonnummer of vervaldatum) waar nodig bij en selecteer vervolgens **Opslaan** > **Gereed**.
 
 Zie [Een creditcard of bankrekening toevoegen, bijwerken of verwijderen in Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) voor meer informatie.
+
+**Opmerking**: als een abonnement is gekocht door een andere beheerder, kunt u de creditcard- of bankrekeninggegevens voor dat abonnement niet bijwerken. Als de creditcard binnenkort vervalt en de andere beheerder deze niet kan bijwerken, kunt u voorkomen dat de service wordt onderbroken door een andere creditcard of een nieuwe bankrekening toe te voegen voor het abonnement.
