@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232625"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241247"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Berichten herstellen die vastzitten in het postvak uit
 
-We raden u aan eerst het scenario ['Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten'](https://aka.ms/SaRA-OutlookSendReceive) uit te voeren vanuit het hulpprogramma [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/#/) op de betreffende machine.
+We raden u aan eerst het scenario ['Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten'](https://aka.ms/SaRA-OutlookSendReceive) uit te voeren vanuit het hulpprogramma [Microsoft Support and Recovery Assistant.](https://diagnostics.office.com/#/)
 
 Wanneer een bericht vast komt te zitten in uw postvak IN, is de meest waarschijnlijke oorzaak een grote bijlage of is de optie 'Onmiddellijk verzenden wanneer verbonden' niet ingeschakeld.
 
 **De grote bijlage verwijderen**
 
-1. Klik **op Werk verzenden / ontvangen** > **offline**. 
-2. Klik in het navigatiedeelvenster op **Uitvak**. Vanaf hier u: 
-    - Verwijder het bericht. Selecteer deze en klik op **Verwijderen**.
-    - Sleep het bericht naar de **conceptmap,** dubbelklik om het bericht te openen en verwijder de bijlage (klik erop en klik op **Verwijderen).**
-3. Als een fout aangeeft dat Outlook probeert het bericht te verzenden, sluit u Outlook. Het kan even duren voordat je het afgaat. Als Outlook niet wordt gesloten, drukt u op **Ctrl+Alt+Verwijderen** en klikt u op **Taakbeheer starten**. Selecteer in Taakbeheer het tabblad **Processen,** scrol omlaag naar outlook.exe en klik op **Proces beëindigen**.
-4. Nadat Outlook is gesloten, start u Outlook opnieuw op en herhaalt u stap 2-3. 
-5. Nadat u de bijlage hebt verwijderd, klikt u op Werk verzenden **/ ontvangen** > **offline** om de knop uit te kiezen en om verder te werken online. 
+1. Selecteer in Outlook **Offline verzenden / Ontvangen** > **van werk**. 
+2. Selecteer **Uitvak**in het navigatiedeelvenster . Vanaf hier u: 
+    - Verwijder het bericht (selecteer het bericht en selecteer **Verwijderen).**
+    - Sleep het bericht naar de map Concepten, dubbelklik om het te openen en verwijder de bijlage selecteer het bericht en selecteer **Verwijderen**).
+3. Als u een fout ontvangt waarin staat dat Outlook probeert het bericht te verzenden, sluit u Outlook. Het kan even duren voordat je het afgaat. Als Outlook niet wordt gesloten, drukt u op Ctrl+Alt+Verwijderen en selecteert **u Taakbeheer starten**. Selecteer in Taakbeheer het tabblad **Processen,** scrol omlaag naar outlook.exe en selecteer **Proces beëindigen**.
+4. Nadat Outlook is gesloten, start u het opnieuw op en herhaalt u stap 2 en 3. 
+5. Nadat u de bijlage hebt verwijderd, klikt u op Werk verzenden **/ ontvangen** > **offline** om verder te werken online. 
 
 Berichten komen ook vast te zitten in het postvak UIT wanneer u op **Verzenden**klikt, maar u bent niet verbonden. Klik **op Verzenden / Ontvangen** en kijk op de knop Offline **werken.** Als het blauw is, wordt de verbinding verbroken. Klik erop om verbinding te maken (de knop wordt wit) en klik op **Alles verzenden**.
  
