@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958533"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537736"
 ---
 # <a name="general-migration-performance-guidance"></a>Algemene richtlijnen voor migratieprestaties
 
+
 **Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
 
-**Richtlijnen voor migratieprestaties**
+**Opties voor migreren**
 
-Migratieprestaties kunnen worden beïnvloed door netwerkinfrastructuur, bestandsgrootte, migratietijd en beperking. Een beter begrip van deze factoren kan u helpen bij het plannen en maximaliseren van een efficiënte migratie.
+Er zijn verschillende opties beschikbaar voor het migreren van inhoud naar SharePoint Online, afhankelijk van grootte en aantal van de bestanden die u wilt verplaatsen. [Hier](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online) vindt u een lijst met de diverse opties.
 
-- [Algemene richtlijnen voor migratieprestaties](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Klik op deze koppelingen voor meer informatie over het migreren van inhoud.
+
+- [SharePoint-migratieprogramma](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Aan de slag met Migratiebeheer](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
