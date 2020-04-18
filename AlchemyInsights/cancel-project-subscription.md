@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 5ceae46c424222636367a4183740fdae353e92d1
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 82719a4764e081733ad3edf7336584b979c5fb86
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198803"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552815"
 ---
 # <a name="cancel-project-subscription"></a>Projectabonnement opzeggen
 
@@ -30,3 +30,9 @@ Beheerders kunnen het Project-abonnement voor hun organisatie opzeggen vanuit he
 3. Zoek het projectplan om te annuleren.
 
 4. Klik **op Abonnement annuleren**.
+
+**Terugbetaling: Elk prorata-tegoed wordt aan u geretourneerd binnen de volgende factureringscyclus.** 
+
+**Opmerking:** Als u de optie om op te zeggen niet ziet, klikt u op het abonnement om de details te bekijken en ziet u de optie **Abonnement annuleren** in Instellingen **& Acties**. 
+
+Zie [Uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)voor meer informatie. 

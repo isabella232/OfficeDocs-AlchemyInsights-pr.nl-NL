@@ -1,5 +1,5 @@
 ---
-title: Overschakelen naar een ander Office 365 voor zakelijke planning
+title: Overschakelen naar een ander Office 365 voor Bedrijven-abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665971"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43547993"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Overschakelen naar een ander Office 365 voor zakelijke planning
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Overschakelen naar een ander Office 365 voor Bedrijven-abonnement
 
-Als uw wijzigingen, of als u meer functies van Office 365, kunt u upgraden naar een nieuw plan.
+Wanneer uw bedrijf verandert of als u meer Office 365-functies nodig hebt, u upgraden naar een nieuw abonnement.
   
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het beheercentrum naar ** \> [Factureringsproducten & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Selecteer het abonnement dat u wilt bijwerken.
+2. Selecteer het abonnement dat u wilt upgraden.
 
-3. Selecteer op de detailpagina van abonnement **bijwerken**.
+3. Selecteer Op de [pagina met abonnementsgegevens](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)de optie **Upgrade**.
 
-4. Vinden van de planning die u wilt bijwerken en selecteer vervolgens de knop **bijwerken** .
+4. Zoek het abonnement waarop u wilt upgraden en selecteer vervolgens de knop **Upgrade.**
 
-5. Voer het aantal licenties die u nodig hebt, of u elke maand moet betalen of voor het hele jaar, en selecteer vervolgens **Uitchecken**.
+5. Voer het aantal licenties in dat u nodig hebt, kies of u elke maand of het hele jaar wilt betalen en selecteer **Afhandeling**.
 
-Voor meer informatie, Zie [upgraden naar een ander schema](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Zie [Upgraden naar een ander plan voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)meer informatie.
