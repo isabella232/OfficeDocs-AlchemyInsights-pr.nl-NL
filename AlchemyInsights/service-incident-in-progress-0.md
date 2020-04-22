@@ -1,8 +1,8 @@
 ---
-title: Service-Incident in uitvoering
+title: Serviceincident in uitvoering
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -17,19 +17,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 4c139d72ca6370af1b28bfa9883669a7a1d4da88
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9ce8d5cb969f20233565f778f3970b3ae77bd9c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551014"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716239"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="5a196-102">Service-Incident in uitvoering</span><span class="sxs-lookup"><span data-stu-id="5a196-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="f58f0-102">Serviceincident in uitvoering</span><span class="sxs-lookup"><span data-stu-id="f58f0-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="5a196-103">U kan worden beïnvloed door een incident service of advies dat wordt momenteel onderzocht.</span><span class="sxs-lookup"><span data-stu-id="5a196-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="5a196-104">Door te gaan naar de pagina [Status van de Service](https://admin.microsoft.com/adminportal/home#/servicehealth) kunt u de meest recente status controleren.</span><span class="sxs-lookup"><span data-stu-id="5a196-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="f58f0-103">U worden beïnvloed door een service-incident of advies dat momenteel wordt onderzocht.</span><span class="sxs-lookup"><span data-stu-id="f58f0-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="f58f0-104">U de laatste status controleren door naar de pagina [Servicestatus](https://admin.microsoft.com/adminportal/home#/servicehealth) te gaan.</span><span class="sxs-lookup"><span data-stu-id="f58f0-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="5a196-105">Voor uw gemak vindt u een overzicht van dit incident hieronder:</span><span class="sxs-lookup"><span data-stu-id="5a196-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="f58f0-105">Voor uw gemak vindt u hieronder een overzicht van dit incident:</span><span class="sxs-lookup"><span data-stu-id="f58f0-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="5a196-106">**Incident nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="5a196-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="f58f0-106">**Incidentnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="f58f0-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
  
-> <span data-ttu-id="5a196-107">Beschrijving van invloed: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="5a196-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="f58f0-107">Impactbeschrijving: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="f58f0-107">Impact description: {ImpactDescription}</span></span>

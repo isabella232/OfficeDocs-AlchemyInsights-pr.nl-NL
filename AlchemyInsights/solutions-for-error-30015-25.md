@@ -1,9 +1,9 @@
 ---
-title: Oplossingen voor de fout 30015-25
+title: Oplossingen voor fout 30015-25
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "830"
 - "2000020"
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: d6e2bfd1348c01c6300044b69040142bd4489607
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ac97343823c86b9b1031b9baea6cf2ce56efc05
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501874"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712705"
 ---
-# <a name="solutions-for-error-30015-25"></a><span data-ttu-id="1e540-102">Oplossingen voor de fout 30015-25</span><span class="sxs-lookup"><span data-stu-id="1e540-102">Solutions for error 30015-25</span></span>
+# <a name="solutions-for-error-30015-25"></a><span data-ttu-id="fe799-102">Oplossingen voor fout 30015-25</span><span class="sxs-lookup"><span data-stu-id="fe799-102">Solutions for error 30015-25</span></span>
 
-<span data-ttu-id="1e540-103">Probeer de volgende oplossingen om op te lossen fout [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="1e540-103">Try these solutions to fix error [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="fe799-103">Probeer deze oplossingen om fout [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)op te lossen:</span><span class="sxs-lookup"><span data-stu-id="fe799-103">Try these solutions to fix error [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="1e540-104">Start de computer opnieuw en probeert [u Office installeert](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="1e540-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="fe799-104">Start de computer opnieuw op en probeer [Office te installeren.](https://portal.office.com/OLS/MySoftware.aspx)</span><span class="sxs-lookup"><span data-stu-id="fe799-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="1e540-105">Download en installeer de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1e540-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="fe799-105">Download en installeer de [Ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="fe799-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="1e540-106">Wanneer het wordt geopend, selecteert u de versie die u wilt verwijderen en selecteer **volgende**uit het **verwijderen van Office-producten** .</span><span class="sxs-lookup"><span data-stu-id="1e540-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="fe799-106">Wanneer **office-producten** worden geopend, selecteert u de versie die u wilt verwijderen en selecteert u **Volgende**.</span><span class="sxs-lookup"><span data-stu-id="fe799-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="1e540-107">Verder gaan door schermen en start de computer desgevraagd opnieuw op.</span><span class="sxs-lookup"><span data-stu-id="1e540-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="fe799-107">Volg de aanwijzingen op het scherm en start de computer opnieuw op wanneer daarom wordt gevraagd.</span><span class="sxs-lookup"><span data-stu-id="fe799-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="1e540-108">Na het opnieuw opstarten, ondersteuning en herstel-assistent automatisch opnieuw geopend om het verwijderingsproces te voltooien.</span><span class="sxs-lookup"><span data-stu-id="1e540-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="fe799-108">Na het opnieuw opstarten wordt de ondersteunings- en herstelassistent automatisch opnieuw geopend om het verwijderen te voltooien.</span><span class="sxs-lookup"><span data-stu-id="fe799-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="1e540-109">Volg de resterende prompts en [opnieuw installeren van Office](https://portal.office.com/OLS/MySoftware.aspx) of de Office-assistent sluiten.</span><span class="sxs-lookup"><span data-stu-id="1e540-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="fe799-109">Volg de resterende aanwijzingen en [installeer Office opnieuw](https://portal.office.com/OLS/MySoftware.aspx) of sluit de assistent.</span><span class="sxs-lookup"><span data-stu-id="fe799-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>

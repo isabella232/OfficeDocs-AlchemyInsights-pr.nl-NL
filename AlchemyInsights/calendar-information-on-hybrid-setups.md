@@ -1,9 +1,9 @@
 ---
-title: 608 agendagegevens op hybride instellingen
+title: 608 Agenda-informatie over hybride opstellingen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 76463159f18d3cfd03828f834454bad7b8dfc76f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c2a31c31905393a78817b21e6580b4c4d76c3aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518142"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712094"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="b8ffa-102">Kalender-vrije/bezette tijden problemen in hybride omgevingen</span><span class="sxs-lookup"><span data-stu-id="b8ffa-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="de556-102">Agendavrije/drukke problemen in hybride omgevingen</span><span class="sxs-lookup"><span data-stu-id="de556-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="b8ffa-103">Voer de configuratiewizard hybride als gebruikers problemen met agenda beschikbaarheidsinfo in hybride omgevingen hebben.</span><span class="sxs-lookup"><span data-stu-id="b8ffa-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="b8ffa-104">Zie voor meer informatie over de wizard Configuratie van hybride [hybride configuratiewizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="b8ffa-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="de556-103">Als gebruikers problemen hebben met het zien van agendavrije/drukke informatie in hybride omgevingen, voert u de wizard Hybride configuratie opnieuw uit.</span><span class="sxs-lookup"><span data-stu-id="de556-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="de556-104">Zie Wizard [Hybride configuratie](https://go.microsoft.com/fwlink/p/?linkid=528149)voor meer informatie over de wizard Hybride configuratie.</span><span class="sxs-lookup"><span data-stu-id="de556-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="b8ffa-105">Raadpleeg voor meer stappen in hybride omgevingen, [problemen met de implementatie van een hybride](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="b8ffa-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="de556-105">Zie Problemen met een [hybride implementatie oplossen voor](https://technet.microsoft.com/library/jj659053.aspx)het oplossen van problemen in hybride omgevingen.</span><span class="sxs-lookup"><span data-stu-id="de556-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>

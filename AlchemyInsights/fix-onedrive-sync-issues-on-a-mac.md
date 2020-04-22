@@ -1,8 +1,8 @@
 ---
-title: OneDrive-synchronisatieproblemen oplossen op een Mac
+title: Synchronisatieproblemen met OneDrive oplossen op een Mac
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000178"
 - "1723"
-ms.openlocfilehash: c45832a6568084d520ae3bb06c19c46fac3e8321
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cdacf64748cc9b4e9884bd9fbf74c16ac9dee293
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716311"
 ---
-# <a name="fix-onedrive-sync-issues-on-a-mac"></a><span data-ttu-id="8f06a-102">OneDrive-synchronisatieproblemen oplossen op een Mac</span><span class="sxs-lookup"><span data-stu-id="8f06a-102">Fix OneDrive sync issues on a Mac</span></span>
+# <a name="fix-onedrive-sync-issues-on-a-mac"></a><span data-ttu-id="d199f-102">Synchronisatieproblemen met OneDrive oplossen op een Mac</span><span class="sxs-lookup"><span data-stu-id="d199f-102">Fix OneDrive sync issues on a Mac</span></span>
 
-<span data-ttu-id="8f06a-103">Als OneDrive niet synchroniseert bestanden zoals u verwacht op een Mac, Zie [Fix OneDrive Sync problemen op een Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span><span class="sxs-lookup"><span data-stu-id="8f06a-103">If OneDrive isn't syncing files the way you expect on a Mac, see [fix OneDrive sync problems on a Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
+<span data-ttu-id="d199f-103">Zie Synchronisatieproblemen van [OneDrive op](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)een Mac oplossen als OneDrive geen bestanden synchroniseert zoals u dat op een Mac verwacht.</span><span class="sxs-lookup"><span data-stu-id="d199f-103">If OneDrive isn't syncing files the way you expect on a Mac, see [fix OneDrive sync problems on a Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
 
 
 
