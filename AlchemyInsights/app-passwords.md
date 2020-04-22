@@ -1,9 +1,9 @@
 ---
-title: 500 app wachtwoorden
+title: 500 app-wachtwoorden
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517782"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707834"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="995f1-102">App-wachtwoorden</span><span class="sxs-lookup"><span data-stu-id="995f1-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="c05cc-102">App-wachtwoorden</span><span class="sxs-lookup"><span data-stu-id="c05cc-102">App passwords</span></span>
 
-<span data-ttu-id="995f1-103">Een app wachtwoord is een code waarmee een toepassing of apparaat toestemming voor toegang tot uw Office 365 werk of school account.</span><span class="sxs-lookup"><span data-stu-id="995f1-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="995f1-104">Als uw account is vereist voor meerledige verificatie (MVR gesloten) en de app maakt verbinding met uw account, moet u een app wachtwoord genereren, zodat de app verbinding met Office 365 maken kunt.</span><span class="sxs-lookup"><span data-stu-id="995f1-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="995f1-105">Outlook 2016 en eerdere versies, Outlook van een app wachtwoord nodig.</span><span class="sxs-lookup"><span data-stu-id="995f1-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
+<span data-ttu-id="c05cc-103">Een app-wachtwoord is een code die een app of apparaat toestemming geeft om toegang te krijgen tot uw Microsoft-werk- of schoolaccount.</span><span class="sxs-lookup"><span data-stu-id="c05cc-103">An app password is a code that gives an app or device permission to access your Microsoft work or school account.</span></span> <span data-ttu-id="c05cc-104">Als voor uw account multifactorauthenticatie (MFA) vereist is en de app verbinding maakt met uw account, moet u een app-wachtwoord genereren zodat de app verbinding kan maken met Microsoft.</span><span class="sxs-lookup"><span data-stu-id="c05cc-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Microsoft.</span></span> <span data-ttu-id="c05cc-105">Outlook 2016 en eerdere versies van Outlook vereisen bijvoorbeeld een app-wachtwoord.</span><span class="sxs-lookup"><span data-stu-id="c05cc-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
 
- <span data-ttu-id="995f1-106">**Opmerking**: voordat u de volgende stappen uit, controleert u of met uw admin Office 365 MVR gesloten is vereist voor uw account.</span><span class="sxs-lookup"><span data-stu-id="995f1-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="995f1-107">Dit niet het geval is, zijn de opties die worden beschreven in de stappen niet voor u beschikbaar.</span><span class="sxs-lookup"><span data-stu-id="995f1-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+ <span data-ttu-id="c05cc-106">**Opmerking:** voordat u de volgende stappen probeert, controleert u met uw Microsoft 365-beheerder of MFA vereist is voor uw account.</span><span class="sxs-lookup"><span data-stu-id="c05cc-106">**Note**: Before you try the following steps, verify with your Microsoft 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="c05cc-107">Als dit niet het is, zijn de opties die in de stappen worden beschreven, niet voor u beschikbaar.</span><span class="sxs-lookup"><span data-stu-id="c05cc-107">If it isn't, the options described in the steps won't be available to you.</span></span>
 
-1. <span data-ttu-id="995f1-108">Aanmelden bij Office 365 met uw werk of school en uw wachtwoord.</span><span class="sxs-lookup"><span data-stu-id="995f1-108">Sign in to Office 365 with your work or school account and your password.</span></span>
+1. <span data-ttu-id="c05cc-108">Meld u aan met uw werk- of schoolaccount en uw wachtwoord.</span><span class="sxs-lookup"><span data-stu-id="c05cc-108">Sign in with your work or school account and your password.</span></span>
 
-2. <span data-ttu-id="995f1-109">Kies **nu instellen**.</span><span class="sxs-lookup"><span data-stu-id="995f1-109">Choose **Set it up now**.</span></span>
+2. <span data-ttu-id="c05cc-109">Kies **Nu instellen**.</span><span class="sxs-lookup"><span data-stu-id="c05cc-109">Choose **Set it up now**.</span></span>
 
-3. <span data-ttu-id="995f1-110">Selecteer de verificatiemethode en volg de aanwijzingen.</span><span class="sxs-lookup"><span data-stu-id="995f1-110">Select your authentication method and follow the prompts.</span></span>
+3. <span data-ttu-id="c05cc-110">Selecteer uw verificatiemethode en volg de aanwijzingen.</span><span class="sxs-lookup"><span data-stu-id="c05cc-110">Select your authentication method and follow the prompts.</span></span>
 
-4. <span data-ttu-id="995f1-111">Na het controleren van de alternatieve methode van contact, kies **volgende**.</span><span class="sxs-lookup"><span data-stu-id="995f1-111">After you verify your alternate contact method, choose **Next**.</span></span>
+4. <span data-ttu-id="c05cc-111">Nadat u uw alternatieve contactmethode hebt geverifieerd, kiest u **Volgende**.</span><span class="sxs-lookup"><span data-stu-id="c05cc-111">After you verify your alternate contact method, choose **Next**.</span></span>
 
-5. <span data-ttu-id="995f1-112">U krijgt een wachtwoord app die u kunt gebruiken met Outlook, Apple Mail en andere apps die het nodig hebben.</span><span class="sxs-lookup"><span data-stu-id="995f1-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="995f1-113">Kies **kopiëren** voor het kopiëren van het wachtwoord zodat deze elders (u hoeft niet te onthouden) kunt plakken.</span><span class="sxs-lookup"><span data-stu-id="995f1-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
+5. <span data-ttu-id="c05cc-112">U krijgt een app-wachtwoord dat u gebruiken met Outlook, Apple Mail en andere apps waarvoor dit vereist is.</span><span class="sxs-lookup"><span data-stu-id="c05cc-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="c05cc-113">Kies **Kopiëren** om het wachtwoord te kopiëren, zodat u het elders plakken (u hoeft het niet te onthouden).</span><span class="sxs-lookup"><span data-stu-id="c05cc-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>

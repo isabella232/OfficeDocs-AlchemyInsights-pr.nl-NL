@@ -1,9 +1,9 @@
 ---
-title: 1049 antiSpam 4.5.3 te veel ontvangers (AS780090)
+title: 1049 AntiSpam 4.5.3 Te veel ontvangers (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: d8bd1e91fdc7975b128ee5d53198585cc97de418
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1afdc8682749a6e9f0c28428e09642269af66f84
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516882"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708014"
 ---
-# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="e6c88-102">4.5.3 te veel ontvangers (AS780090)</span><span class="sxs-lookup"><span data-stu-id="e6c88-102">4.5.3 Too many recipients (AS780090)</span></span>
+# <a name="453-too-many-recipients-as780090"></a><span data-ttu-id="123f2-102">4.5.3 Te veel ontvangers (AS780090)</span><span class="sxs-lookup"><span data-stu-id="123f2-102">4.5.3 Too many recipients (AS780090)</span></span>
 
-<span data-ttu-id="e6c88-103">Deze fout treedt op wanneer het volume van het verkeer van het IP-adres e-mailadres de limiet op basis van de reputatie of gebrek aan reputatie van bron-IP-adres overschrijdt.</span><span class="sxs-lookup"><span data-stu-id="e6c88-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="123f2-103">Deze fout treedt op wanneer het volume van e-mailverkeer vanaf het IP-adres van de bron de limiet overschrijdt op basis van de reputatie (of het gebrek aan reputatie) van het IP-adres van de bron.</span><span class="sxs-lookup"><span data-stu-id="123f2-103">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="e6c88-104">E-mailadres van het IP-adres te blokkeren verloopt binnen een uur.</span><span class="sxs-lookup"><span data-stu-id="e6c88-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="e6c88-105">Als het bron-IP-adres een e-mailserver voor op locatie waartoe u behoort is, controleert u of de configuratie van de stroom mail connector.</span><span class="sxs-lookup"><span data-stu-id="e6c88-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="e6c88-106">Als het probleem voor meer dan een uur blijft, neem dan contact op met ondersteuning voor het aanvragen van een uitzondering voor het bron-IP-adres.</span><span class="sxs-lookup"><span data-stu-id="e6c88-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="123f2-104">Het blokkeren van e-mail vanaf het ip-adres van de bron vervalt binnen een uur.</span><span class="sxs-lookup"><span data-stu-id="123f2-104">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="123f2-105">Als het bron-IP-adres een on-premises e-mailserver is die van u is, controleert u de configuratie van de e-mailstroomconnector.</span><span class="sxs-lookup"><span data-stu-id="123f2-105">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="123f2-106">Als het gedrag langer dan een uur duurt, neemt u contact op met de ondersteuning om een uitzondering voor het ip-adres van de bron aan te vragen.</span><span class="sxs-lookup"><span data-stu-id="123f2-106">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>

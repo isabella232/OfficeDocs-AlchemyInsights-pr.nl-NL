@@ -1,5 +1,5 @@
 ---
-title: Een nieuw abonnement met een productcode activeren
+title: Een nieuw abonnement activeren met een productcode
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766382"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707110"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="18c65-102">Een nieuw abonnement met een productcode activeren</span><span class="sxs-lookup"><span data-stu-id="18c65-102">Activate a new subscription with a product key</span></span>
+# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="ffc66-102">Een nieuw abonnement activeren met een productcode</span><span class="sxs-lookup"><span data-stu-id="ffc66-102">Activate a new subscription with a product key</span></span>
 
-1. <span data-ttu-id="18c65-103">Als u een nieuw Office 365-abonnement met uw productcode wilt activeren [https://office.com/setupkey](https://office.com/setupkey), gaat u naar.</span><span class="sxs-lookup"><span data-stu-id="18c65-103">To activate a new Office 365 subscription with your product key, go to [https://office.com/setupkey](https://office.com/setupkey).</span></span>
+1. <span data-ttu-id="ffc66-103">Als u een nieuw abonnement wilt [https://office.com/setupkey](https://office.com/setupkey)activeren met uw productcode, gaat u naar .</span><span class="sxs-lookup"><span data-stu-id="ffc66-103">To activate a new subscription with your product key, go to [https://office.com/setupkey](https://office.com/setupkey).</span></span>
 
-2. <span data-ttu-id="18c65-p101">Voer de productcode voor Office 365 in en volg de aanwijzingen om uw abonnement te activeren. Als er problemen zijn bij het activeren, gaat u naar [dit overzicht van veelvoorkomende fouten met productcodes en oplossingen](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span><span class="sxs-lookup"><span data-stu-id="18c65-p101">Enter your Office 365 product key and follow the prompts to activate your subscription. If you have problems with activation, check out this [list of common product key errors and solutions](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span></span>
+2. <span data-ttu-id="ffc66-104">Voer uw productcode in en volg de aanwijzingen om uw abonnement te activeren.</span><span class="sxs-lookup"><span data-stu-id="ffc66-104">Enter your product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="ffc66-105">Als er problemen zijn bij het activeren, gaat u naar [dit overzicht van veelvoorkomende fouten met productcodes en oplossingen](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span><span class="sxs-lookup"><span data-stu-id="ffc66-105">If you have problems with activation, check out this [list of common product key errors and solutions](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).</span></span>

@@ -1,9 +1,9 @@
 ---
-title: 761 verbinding maken met Exchange Online PowerShell wanneer MVR gesloten is ingeschakeld.
+title: 761 Verbinding maken met Exchange Online PowerShell wanneer MFA is ingeschakeld
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517062"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705800"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="58972-102">Verbinding maken met Exchange Online PowerShell wanneer MVR gesloten is ingeschakeld.</span><span class="sxs-lookup"><span data-stu-id="58972-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="9d311-102">Verbinding maken met Exchange Online PowerShell wanneer MFA is ingeschakeld</span><span class="sxs-lookup"><span data-stu-id="9d311-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
 
-<span data-ttu-id="58972-103">Als u uw account heeft een meerledige verificatie (MVR gesloten) is ingeschakeld, moet u als volgt verbinding maken met Exchange Online PowerShell: [verbinding maken met Exchange Online PowerShell meerledige verificatie gebruikt](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="58972-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
+<span data-ttu-id="9d311-103">Als uw account multi-factor authenticatie (MFA) heeft ingeschakeld, moet u deze instructies volgen om verbinding te maken met Exchange Online PowerShell: [Verbinding maken met Exchange Online PowerShell met behulp van multi-factor authenticatie.](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)</span><span class="sxs-lookup"><span data-stu-id="9d311-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
 
-<span data-ttu-id="58972-104">**Opmerking**: zelfs als u met Exchange Online PowerShell in het verleden verbonden bent met behulp van [de instructies van de regelmatige verbinding](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), moet u de instructies van de MVR gesloten nadat MVR gesloten is ingeschakeld voor uw account.</span><span class="sxs-lookup"><span data-stu-id="58972-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>
+<span data-ttu-id="9d311-104">**Opmerking:** Zelfs als u in het verleden verbinding hebt gemaakt met Exchange Online PowerShell met behulp van [de normale verbindingsinstructies,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)moet u de MFA-verbindingsinstructies gebruiken nadat MFA is ingeschakeld voor uw account.</span><span class="sxs-lookup"><span data-stu-id="9d311-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>

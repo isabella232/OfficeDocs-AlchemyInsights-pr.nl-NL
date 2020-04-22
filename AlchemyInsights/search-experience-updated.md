@@ -1,8 +1,8 @@
 ---
-title: 414 zoekervaring bijgewerkt
+title: 414 Zoekervaring bijgewerkt
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551482"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709294"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="01bd7-102">Zoekfunctie bijgewerkt</span><span class="sxs-lookup"><span data-stu-id="01bd7-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="2de44-102">Zoekervaring bijgewerkt</span><span class="sxs-lookup"><span data-stu-id="2de44-102">Search experience updated</span></span>
 
-<span data-ttu-id="01bd7-103">Zoeken is nu te vinden op de onderkant van de app.</span><span class="sxs-lookup"><span data-stu-id="01bd7-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="01bd7-104">Tikken op het hebt u rechtstreeks toegang tot bovenste contactpersonen, aanstaande routebeschrijvingen, pakket leveringen en recente bijlagen.</span><span class="sxs-lookup"><span data-stu-id="01bd7-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="01bd7-105">U kunt e-mailberichten, bestanden en contactpersonen zoeken in een van de rekeningen van één enkele zoekvak of onze nieuwe filters gebruiken om uw zoekopdracht te verfijnen.</span><span class="sxs-lookup"><span data-stu-id="01bd7-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="2de44-103">Zoeken bevindt zich nu onder aan de app.</span><span class="sxs-lookup"><span data-stu-id="2de44-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="2de44-104">Door erop te tikken heb je direct toegang tot je beste contacten, aankomende reisroutes, pakketleveringen en recente bijlagen.</span><span class="sxs-lookup"><span data-stu-id="2de44-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="2de44-105">U in een van uw accounts vanuit één zoekvak naar e-mailberichten, bestanden en contactpersonen zoeken of onze nieuwe filters gebruiken om uw zoekopdracht te beperken.</span><span class="sxs-lookup"><span data-stu-id="2de44-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
