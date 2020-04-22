@@ -1,9 +1,9 @@
 ---
-title: 2637 bypass spam filtering om specifieke berichten toe te staan?
+title: 2637 Spamfiltering omzeilen om specifieke berichten toe te staan?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122153"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712130"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Spam filtering omzeilen om specifieke berichten toe te staan?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Spamfiltering omzeilen om specifieke berichten toe te staan?
 
-We raden u aan [voorzichtig](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) te zijn wanneer u een lijst met toestaan maakt. Als u bijvoorbeeld uw eigen domein toestaat, kunnen kwaadwillende afzenders spoofen verzenden als uw domein.  In plaats daarvan raden we deze [fout-positieven gids voor probleemoplossing](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), die u zal helpen om te bepalen waarom een legitiem bericht is gemarkeerd als spam en wat u doen om veilig de bezorging van het bericht toe te staan.
+We raden u aan [voorzichtig te zijn](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) wanneer u een lijst met toegestane plaatsen maakt. Als u bijvoorbeeld uw eigen domein toestaat, kunnen kwaadwillende afzenders spoofen en verzenden als uw domein.  In plaats daarvan raden we deze handleiding voor [het oplossen van valse positieven](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam)aan, waarmee u bepalen waarom een legitiem bericht als spam is gemarkeerd en wat u doen om de bezorging van het bericht veilig toe te staan.

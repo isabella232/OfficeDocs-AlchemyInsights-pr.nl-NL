@@ -2,29 +2,29 @@
 title: Een communicatiesite maken
 ms.author: pebaum
 author: pebaum
-ms.date: 11/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: efd118352e2f7a137a489c69956b3eac11f1ffb7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049908"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715591"
 ---
 # <a name="create-a-communication-site"></a>Een communicatiesite maken
 
 Voer de volgende stappen uit om een communicatiesite in SharePoint Online te maken: 
   
-1. Klik in de linkerbovenhoek van de pagina op het startprogramma voor apps en selecteer de SharePoint-tegel. Als de SharePoint-tegel niet wordt weergegeven, klikt u op **sites** of **alle apps** als SharePoint niet zichtbaar is. 
+1. Klik in de linkerbovenhoek van de pagina op het startprogramma voor apps en selecteer de SharePoint-tegel. Als u de sharepoint-tegel niet ziet, klikt u op **Sites** of **Alle apps** als SharePoint niet zichtbaar is. 
     
-2. Aan de bovenkant van de SharePoint-pagina, klikt u op **site maken** en kiest u **communicatiesite**. Volg de stappen in de wizard site maken. 
+2. Klik boven aan de SharePoint-pagina op **Site maken** en kies **Communicatiesite**. Volg de stappen in de wizard Sitecreatie. 
     
- **Opmerking**: als u de optie voor **site maken**niet ziet, kan het maken van zelf sites worden uitgeschakeld in Office 365. Neem contact op met de persoon die Office 365 in uw organisatie beheert om een team site te maken. Als u een tenantbeheerder bent, Zie [site maken in SharePoint Online beheren om in te schakelen self-service site maken voor uw organisatie.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Opmerking:** Als u de optie voor **Site maken**niet ziet, kan het maken van selfservicesite worden uitgeschakeld. Neem contact op met de persoon die Microsoft 365 in uw organisatie beheert om een teamsite te maken. Zie [Sitemaken van de site beheren in SharePoint Online beheren om het maken van selfservicesite voor uw organisatie in te schakelen.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Opmerking:** Als u probeert te maken van een communicatie site en de URL wordt toegevoegd aan met willekeurige getallen, is het waarschijnlijk dat een site met dezelfde URL al in de SharePoint-omgeving bestaat of is verwijderd en nog steeds bestaat in de verwijderde sites (Prullenbak). Gebruik [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) deze om de Prullenbak te evalueren [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) en de site uit de Prullenbak te verwijderen. 
+ **Let op:** Als u een communicatiesite probeert te maken en de URL wordt toegevoegd aan willekeurige getallen, bestaat er waarschijnlijk al een site met dezelfde URL in de SharePoint-omgeving of is deze verwijderd en bestaat nog steeds in de verwijderde sites (Prullenbak). Gebruik [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) om de prullenbak [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) te evalueren en om de site uit de prullenbak te verwijderen. 
   
 

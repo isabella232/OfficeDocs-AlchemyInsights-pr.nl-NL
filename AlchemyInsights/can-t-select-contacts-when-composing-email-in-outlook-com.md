@@ -1,9 +1,9 @@
 ---
-title: Contactpersonen selecteren niet wanneer u e-mailberichten in Outlook.com
+title: Kan geen contactpersonen selecteren bij het samenstellen van e-mail in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518610"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711662"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Contactpersonen selecteren niet als e-mailbericht opstellen
+# <a name="cant-select-contacts-when-composing-email"></a>Kan geen contactpersonen selecteren bij het samenstellen van e-mail
 
-Wanneer u een nieuw e-mailbericht opstelt, ziet sommige klanten hun lijst met contactpersonen niet als ze klikken op de knoppen **aan** of **Cc** . Selecteer de contactpersoon, begint te typen in de **aan** of **Cc** velden en de bijbehorende contactpersonen wordt weergegeven.
+Bij het samenstellen van een nieuwe e-mail zien sommige klanten hun lijst met contactpersonen niet wanneer ze op de knoppen **Aan** of **Cc** klikken. Als u een contactpersoon wilt selecteren, typt u de velden **Aan** of **Cc** en worden de gerelateerde contactpersonen weergegeven.

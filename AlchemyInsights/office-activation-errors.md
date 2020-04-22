@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118443"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713317"
 ---
 # <a name="office-activation-errors"></a>Fouten bij activering van Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118443"
 
 3. Als u geen licentie voor Office ziet, kunt u de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) op de betreffende computer downloaden en uitvoeren om de activeringsproblemen op te lossen. 
 
-4. Als u geen licentie voor Office ziet, moet u de [activeringsstatus van Office opnieuw instellen](https://docs.microsoft.com/nl-NL/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Start Office vervolgens opnieuw op en meld u aan met uw werk- of schoolaccount als daarom wordt gevraagd.  
+4. Als u geen licentie voor Office ziet, moet u de [activeringsstatus van Office opnieuw instellen](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Start Office vervolgens opnieuw op en meld u aan met uw werk- of schoolaccount als daarom wordt gevraagd.  
 
 5. Zie [Activeringsfouten in Office voor niet-gelicentieerde producten](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380) voor meer informatie over het oplossen van problemen.

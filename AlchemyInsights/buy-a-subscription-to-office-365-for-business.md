@@ -1,5 +1,5 @@
 ---
-title: Een abonnement op Office 365 voor Bedrijven kopen
+title: Koop een abonnement op Microsoft 365 voor bedrijven via uw gratis proefversie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218118"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712202"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Een abonnement op Office 365 voor Bedrijven kopen
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Koop een abonnement op Microsoft 365 via uw gratis proefversie
 
-U hebt Office 365 uitgeprobeerd en u wilt het nu kopen. U hebt twee opties bij het kopen van Office 365 in uw proefversie:
+Je hebt geprobeerd Microsoft 365, en nu ben je klaar om te kopen. U hebt twee opties bij het kopen van Microsoft 365 in uw proefversie:
   
  **Hetzelfde abonnement kopen als uw proefabonnement**
   
@@ -35,7 +35,7 @@ U hebt Office 365 uitgeprobeerd en u wilt het nu kopen. U hebt twee opties bij h
 
 3. Zoek het abonnement dat u wilt kopen, selecteer **Kopen**en volg de stappen die u wilt bekijken.
 
-Zie [Een abonnement op Office 365 voor Bedrijven kopen via uw gratis proefversie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)voor meer informatie.
+Zie [Een abonnement op Microsoft 365 voor bedrijven kopen voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)meer informatie via uw gratis proefversie.
 
 **Problemen oplossen**
 

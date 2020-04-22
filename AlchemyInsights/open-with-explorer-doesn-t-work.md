@@ -3,7 +3,7 @@ title: Openen met Explorer werkt niet
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 7680766b53bd5e85789375d3f9e9ab635780ec6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538462"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713029"
 ---
 # <a name="open-with-explorer-isnt-working"></a>Openen met Explorer werkt niet
 
-Als **openen met Explorer** of **weergave in File Explorer** werkt niet controleren of dat de WebClient-service is ingesteld op **wordt uitgevoerd** door de onderstaande stappen te volgen. Het duurt zo lang voor het openen van een documentbibliotheek van SharePoint of OneDrive als de service niet wordt uitgevoerd. 
+Als **Openen met Verkenner** of Weergave in **Verkenner** niet werkt, moet u ervoor zorgen dat de WebClient-service is ingesteld op **Uitvoeren** door de onderstaande stappen te volgen. Het kan bijvoorbeeld lang duren voordat een SharePoint- of OneDrive-bibliotheek is geopend wanneer de service niet wordt uitgevoerd. 
   
-1. Selecteer in het zoekvak van Windows, type uitvoert, de desktop app Run, type services.msc en klik vervolgens op **Enter**.
+1. Typ in het zoekvak van Windows uitvoeren, selecteer de bureaublad-app uitvoeren, typ services.msc en selecteer **Enter**.
     
-2. Blader naar de WebClient-service en de kolom **Status** . Als de status van de WebClient-service niet **wordt uitgevoerd**, dubbelklikt u op de service, klikt u op **Start**en klik vervolgens op **OK**. Schakel de service, als deze nodig zijn, **handmatig** of **automatisch** selecteren in het vak **Opstarttype** . 
+2. Schuif omlaag naar de WebClient-service en controleer de kolom **Status.** Als de status van de WebClient-service niet **wordt uitgevoerd,** dubbelklikt u op de service, klikt u op **Start**en klikt u vervolgens op **OK**. Schakel de service indien nodig in door **Handmatig** of **automatisch** te selecteren in het vak **Opstarttype.** 
     
 > [!NOTE]
-> Zie [openen in Explorer](https://go.microsoft.com/fwlink/?linkid=871665)voor het oplossen van problemen in File Explorer te openen. Ontdek synchroniseren als een beter alternatief: [Sync SharePoint-bestanden met de nieuwe OneDrive synchronisatie-client](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Zie [Openen in Verkenner](https://go.microsoft.com/fwlink/?linkid=871665)voor het oplossen van problemen in Verkenner. Synchronisatie verkennen als een beter alternatief: [SharePoint-bestanden synchroniseren met de nieuwe Synchronisatieclient van OneDrive.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

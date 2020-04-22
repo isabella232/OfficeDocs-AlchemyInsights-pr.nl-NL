@@ -1,8 +1,8 @@
 ---
-title: Het gebruik van de SharePoint Online term Store
+title: Het SharePoint Online-termenarchief gebruiken
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: c11c9cd8d0777d2e5dbdad61fdb0b8e4a25e53ca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049656"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717371"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Het gebruik van de SharePoint Online term Store
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Het SharePoint Online-termenarchief gebruiken
 
-Het Termenarchief is beschikbaar voor een Office 365 Global admin, SharePoint admin en term Store admins en kan worden gevonden in het nieuwe SharePoint Online Admin Center.
+De Termenarchief is beschikbaar voor een globale beheerder, SharePoint-beheerder en beheerder van het termenarchief en is te vinden in het nieuwe SharePoint Online-beheercentrum.
   
-Zie voor meer informatie over het gebruik van de SharePoint Online term Store en taxonomie in SharePoint Online, [Inleiding tot beheerde metagegevens](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Zie [Inleiding tot beheerde metagegevens](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)voor meer informatie over het gebruik van het SharePoint Online-termenarchief en de taxonomie in SharePoint Online.
   
-Als u een probleem met de voorwaarden niet wordt weergegeven of met tussenpozen wordt weergegeven, raden wij u wacht 24 uur en meld u een ondersteuningsaanvraag als het probleem zich blijft voordoen. Hoewel 24 uur een lange tijd kan zijn, kan er een caching probleem zijn of we werken misschien al aan een oplossing voor dit probleem.
+Als u een probleem ondervindt met termen die niet met tussenpozen worden weergegeven of weergegeven, raden we u aan 24 uur te wachten en vervolgens een ondersteuningsverzoek in te loggen als het probleem blijft bestaan. Hoewel 24 uur kan een lange tijd, kan er een caching probleem of we kunnen al werken aan een oplossing voor dit probleem.
   

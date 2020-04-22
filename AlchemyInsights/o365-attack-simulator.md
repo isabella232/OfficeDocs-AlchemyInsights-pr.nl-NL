@@ -1,9 +1,9 @@
 ---
-title: 2681 aanvals Simulator in Office 365
+title: 2681 Attack Simulator in Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,31 +11,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305327"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713461"
 ---
-# <a name="attack-simulator-in-office-365"></a>Aanvals Simulator in Office 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator in Microsoft 365
 
-- Mist u Attack Simulator? Voor aanvals Simulator is **office 365 Advanced Threat Protection Plan 2 (ATP-abonnement 2)** of **Office 365 Enterprise E5**vereist. Aanvals Simulator is **niet** opgenomen in Office 365 Advanced Threat Protection Plan 1 (ATP-abonnement 1), Office 365 Enterprise E3 of Office 365 Business-abonnementen.
+- Mis je Attack Simulator? Attack Simulator vereist **Office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** of **Office 365 Enterprise E5**. Attack Simulator is **niet** opgenomen in Office 365 Advanced Threat Protection Plan 1 (ATP Plan 1), Office 365 Enterprise E3 of Microsoft 365 Apps voor zakelijke abonnementen.
 
-- Het account dat u gebruikt voor het starten van gesimuleerde aanvallen vereist globale beheerder of beveiligingsbeheerder machtigingen en multi-factor Authentication (MFA). Zie [dit onderwerp](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)voor meer informatie over de vereisten van de aanvals Simulator.
+- Voor het account dat u gebruikt om gesimuleerde aanvallen uit te voeren, zijn algemene machtigingen voor beheerders of beveiligingsbeheerders en multi-factor authenticatie (MFA) vereist. Zie [dit onderwerp](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)voor meer informatie over de vereisten van Attack Simulator.
 
-- Belangrijke dingen om te weten over **Brute Force Password** Attack simulaties:
+- Belangrijke dingen die u moet weten over **Brute Force Password** aanval simulaties:
 
-  - Als de doelaccount MFA is ingeschakeld en het wachtwoord correct is geraden, wordt het account niet weergegeven als gecompromitteerd (de tweede verificatiefactor is onvolledig).
+  - Als het doelaccount MFA heeft ingeschakeld en het wachtwoord correct is geraden, wordt het account niet weergegeven als gecompromitteerd (de tweede verificatiefactor is onvolledig).
 
-  - Het wachtwoordbestand mag niet groter zijn dan 10 MB. Gebruik één wachtwoord per regel en neem een lege regel (Return) op na het laatste wachtwoord in de lijst.
+  - Het wachtwoordbestand mag niet groter zijn dan 10 MB. Gebruik één wachtwoord per regel en voeg een lege regel (vervoer retour) toe na het laatste wachtwoord in de lijst.
 
-- Belangrijke dingen om te weten over **spear phishing** attach simulaties:
+- Belangrijke dingen die u moet weten over **Spear Phishing** voeg simulaties toe:
 
-  - U geen aangepaste waarde opgeven voor de URL van de **aanmeldingsserver van phishing**.
+  - Door het ontwerp u geen aangepaste waarde opgeven voor **de URL van de phishing-inlogserver.**
 
-  - Als een geadresseerde de [invoegtoepassingen rapportbericht inschakelen](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) gebruikt om het bericht als phishing te rapporteren, ontvangt u mogelijk geen waarschuwingen voor het bericht (omdat dit een gesimuleerde aanval is).
+  - Als een ontvanger de [invoegtoepassing Rapportbericht](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) inschakelen gebruikt om het bericht als phishing te melden, ontvangt u mogelijk geen waarschuwingen voor het bericht (omdat dit een gesimuleerde aanval is).
 
-- Rapporten: nadat de gesimuleerde aanval is voltooid, u op **aanvals Details** klikken om het rapport te bekijken.
+- Rapporten: Nadat de gesimuleerde aanval is voltooid, u op **Aanvalsdetails** klikken om het rapport te bekijken.
 
-- Zie [aanvals Simulator in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)voor gedetailleerde instructies en nieuwe functies in de aanvals Simulator.
+- Zie [Attack Simulator in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)voor gedetailleerde instructies en nieuwe functies in Attack Simulator.

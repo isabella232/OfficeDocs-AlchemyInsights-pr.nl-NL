@@ -1,9 +1,9 @@
 ---
-title: Nieuwe retentie labels automatisch gemaakt
+title: Nieuwe bewaarlabels die automatisch worden gemaakt
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054661"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713497"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nieuwe retentie labels automatisch gemaakt
+# <a name="new-retention-labels-created-automatically"></a>Nieuwe bewaarlabels die automatisch worden gemaakt
 
-U ziet mogelijk [drie nieuwe Office 365 retentie labels](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automatisch gemaakt in uw organisatie onder **labels voorbehoud** in de beveiliging of compliance Admin Center. De labelnamen zijn:
+Mogelijk worden [er drie nieuwe bewaarlabels](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automatisch in uw organisatie gemaakt onder **Bewaarlabels** in het beveiligings- of compliancebeheercentrum. De labelnamen zijn:
 
 - Operationele procedure
-- Business General
-- Contract overeenkomst
+- Bedrijfsgeneraal
+- Contractovereenkomst
 
-Dit gebeurt de eerste keer dat u **Bestands plan** kiest als er geen andere retentie labels zijn gemaakt. Deze labels worden automatisch gemaakt en kunnen, indien nodig, worden verwijderd als ze nog niet zijn toegepast op inhoud. De labels verwijderen:
+Dit gebeurt de eerste keer dat u **Bestandsplan** kiest als er geen andere bewaarlabels zijn gemaakt. Deze labels worden automatisch gemaakt en, indien nodig, kunnen worden verwijderd als ze nog niet zijn toegepast op de inhoud. Ga als u de etiketten verwijderen:
 
-1. In de beveiliging of naleving Admin Center, kies **classificaties** > **labels** > **retentie** tabblad.
+1. Kies het tabblad **Labels** > **behouden** van**labels** > in het beveiligings- of compliancebeheercentrum.
 
-1. Selecteer de inhoudings etiketten die u wilt verwijderen > **Verwijder label** > **Ja** om het label te verwijderen.
+1. Selecteer de bewaarlabels die u wilt verwijderen > **Label** > **Ja** verwijderen verwijderen om het label te verwijderen.
 
-Met Bestandsplan beheer u inhoudings etiketten en-beleid beheren in uw organisatie-Zie [overzicht van de bestandsplanbeheerder](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)voor meer informatie.
+Met Bestandsplanbeheer u bewaarlabels en -beleid in uw organisatie beheren - zie [Overzicht van bestandsplanbeheer](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)voor meer informatie.

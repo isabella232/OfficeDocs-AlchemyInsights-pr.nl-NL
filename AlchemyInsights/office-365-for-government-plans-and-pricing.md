@@ -1,9 +1,9 @@
 ---
-title: Office 365 voor het plannen van de overheid en de prijzen
+title: Office 365 voor overheidsabonnementen en -prijzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522114"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713353"
 ---
-# <a name="office-365-government-plans"></a>Office 365 regering plannen
+# <a name="office-365-government-plans"></a>Office 365-overheidsabonnementen
 
-Office 365 Amerikaanse overheid plannen zijn ontworpen voor de unieke behoeften van de Amerikaanse overheidsorganisaties. Ze bieden alle functies en mogelijkheden van Office 365 diensten in een gesegmenteerde overheid wolk communautaire waarmee organisaties kunnen voldoen aan de naleving van de Verenigde Staten en de veiligheidsnormen.
+Office 365 De plannen van de Amerikaanse overheid zijn ontworpen voor de unieke behoeften van Amerikaanse overheidsorganisaties. Ze bieden alle functies en mogelijkheden van Office 365-services in een gesegmenteerde cloudcommunity van de overheid waarmee organisaties kunnen voldoen aan de Amerikaanse nalevings- en beveiligingsnormen.
   
-- [Bekijk de plannen van de overheid](https://products.office.com/government/compare-office-365-government-plans)
+- [Bekijk de plannen van de regering](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Alle Office 365 plannen vergelijken](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Alle Microsoft 365-abonnementen vergelijken](https://products.office.com/business/compare-more-office-365-for-business-plans)

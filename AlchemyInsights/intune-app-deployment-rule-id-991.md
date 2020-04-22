@@ -1,8 +1,8 @@
 ---
-title: Implementatie van Intune App regel-Id 991 opgeven
+title: Intune App Deployment Rule Id 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498266"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714001"
 ---
-# <a name="intune-app-deployment"></a>Intune App distributie
+# <a name="intune-app-deployment"></a>App-implementatie intunen
 
-Implementatie van toepassingen met Intune is een proces van drie stappen:
+Het implementeren van toepassingen met Intune is een proces in drie stappen:
   
-1. Het **toevoegen van een app** - kunt u een App Store app of uploaden van een Line of Business app.
+1. **Een app toevoegen** - U een App Store-app toevoegen of een Line of Business-app uploaden.
 
-2. **Toewijzen van een app** - bepalend voor de omvang van de implementatie van de toepassing.
+2. **Een app toewijzen** : bepaal het bereik van de implementatie van de toepassing.
 
-3. **Apps monitoring** - de status van de installatie van apps, lijst ontdekte apps en apps app winkels gekocht beheren.
+3. **Apps controleren** : bekijk de installatiestatus van apps, vermeld gedetecteerde apps en beheer apps die zijn gekocht in app stores.
 
-Lees [Wat is Intune App beheren](https://docs.microsoft.com/intune/app-management) voor informatie over het configureren en beveiligen van toepassingen en scenario's.
+Lees [Wat is Intune App Management](https://docs.microsoft.com/intune/app-management) voor walkthroughs en informatie over het configureren en beschermen van applicaties.
   

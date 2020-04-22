@@ -1,31 +1,31 @@
 ---
-title: Intune voorwaardelijke toegang controleren
+title: Bewaking van voorwaardelijke toegang tot intune
 ms.author: pebaum
 author: pebaum
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 16da5065f510a32f18c1fde4aa2f0f7c0ac9f73e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 924dc9cc741697b3784203d5f441769f7601b8d1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548926"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713677"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Oplossen van problemen met Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Problemen met Microsoft Intune oplossen
 
-Bekijk de bronnen die worden vermeld onder het probleem nu oplossen.
+Bekijk de onderstaande bronnen om het probleem nu op te lossen.
   
-1. [Portal voor Intune problemen](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) opsporen en oplossen van enkele veelvoorkomende fouten gebruiken. Bekijk [Dit document ](https://docs.microsoft.com/intune/help-desk-operators)voor meer informatie.
+1. Gebruik [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) om een aantal veelvoorkomende fouten te diagnosticeren en op te lossen. Bekijk [dit document ](https://docs.microsoft.com/intune/help-desk-operators)voor meer informatie.
     
-2. [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)als u wilt zoeken naar antwoorden en oplossingen voor veelvoorkomende problemen bekijken.
+2. Bekijk [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)om antwoorden en oplossingen voor veelvoorkomende problemen te vinden.
     
-3. Uitchecken [Health Service](https://portal.office.com/AdminPortal/Home#/servicehealth) status van de service. 
+3. Bekijk [Service status](https://portal.office.com/AdminPortal/Home#/servicehealth) om de status van de service te zien. 
     
-4. [Intune documentatie](https://docs.microsoft.com/intune/) voor planning, procedures, artikelen en nog meer problemen controleren. 
+4. Bekijk [intune-documentatie](https://docs.microsoft.com/intune/) voor planning, how-to, probleemoplossingsartikelen en meer. 
     
 

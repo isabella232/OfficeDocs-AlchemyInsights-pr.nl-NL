@@ -1,9 +1,9 @@
 ---
-title: SMIME Blokinhoud wijzigen
+title: SMIME-inhoudswijziging blokkeren
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: 512778405b284432ccc7c6effae6065dbcc844d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8060dcb58cfb11592a0e367fcb71a23861fbc2a7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502082"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712741"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook wordt nu standaard externe inhoud blokkeren in S/MIME
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook blokkeert nu standaard externe inhoud in S/MIME
 
-We zijn beveiligingsmaatregelen in Outlook voor Windows invoering van door de externe inhoud in een S/MIME-gecodeerde en ondertekende berichten standaard en te blokkeren heeft voorrang op per bericht.
+We introduceren extra beveiligingsmaatregelen in Outlook voor Windows door externe inhoud in versleutelde en ondertekende berichten in S/MIME standaard te blokkeren en overschrijvingen per bericht te voorkomen.
 
-Zie [externe inhoud van Outlook voor Windows blokken in S/MIME-berichten](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e)voor meer informatie.
+Zie [Outlook voor Windows blokkeert externe inhoud in S/MIME-berichten](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e)voor meer informatie.

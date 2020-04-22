@@ -1,9 +1,9 @@
 ---
-title: Een app opzeggen
+title: Een app annuleren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2eb0e1f521baf1458530f8557f55fdda69d1a23f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711302"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Software-as-a-Service-apps annuleren 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Software-as-a-service-apps annuleren 
 
-1. In het Microsoft 365 Admin Center, naar de **facturerings** > [producten & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina en kies vervolgens de **apps** tabblad.
+1. Kies in het Microsoft 365-beheercentrum naar de pagina > [Factureringsproducten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) het tabblad **Billing** **Apps.**
 
 2. Zoek en selecteer de app die u wilt beheren.
 
-3. Selecteer onder **instellingen & acties**de optie **abonnement opzeggen**.
+3. Selecteer Onder **Instellingen & acties**de optie Abonnement **annuleren**.

@@ -1,9 +1,9 @@
 ---
-title: E-mail levering problemen oplossen naar e-mailadres van openbare mappen
+title: Problemen met e-mailbezorging oplossen in openbare mappen met e-mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525094"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716347"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>E-mail levering problemen oplossen naar e-mailadres van openbare mappen
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Problemen met e-mailbezorging oplossen in openbare mappen met e-mail
 
-Externe afzenders geen berichten verzenden naar uw e-mailadres openbare mappen als de afzenders, wordt het foutbericht: **(550 5.4.1) niet is gevonden**, controleert u of het e-maildomein voor de openbare map is geconfigureerd als een intern relay-domein in plaats van een gezaghebbende domein:
+Als externe afzenders geen berichten naar uw openbare mappen met e-mail kunnen verzenden en de afzenders de fout ontvangen: **kan niet worden gevonden (550 5.4.1),** controleert u of het e-maildomein voor de openbare map is geconfigureerd als een intern relaydomein in plaats van een gezaghebbend domein:
 
-1. Open het [beheercentrum van Exchange (SBV)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Open het [Exchange-beheercentrum (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Ga naar de **e-mailstroom** \> **geaccepteerde domeinen**, selecteert u het geaccepteerde domein en klik vervolgens op **bewerken**.
+2. Ga naar **Geaccepteerde domeinen** **e-mail,** \> selecteer het geaccepteerde domein en klik op **Bewerken**.
 
-3. In de eigenschappen pagina die wordt geopend als het domeintype **bindend**, wijzig de waarde in **interne relay** en klik op **Opslaan**.
+3. Als het domeintype op de pagina eigenschappen wordt geopend, **wijzigt**u de waarde in **Intern relay** en klikt u op **Opslaan**.
 
-Als externe afzenders ontvangt de fout- **u hebt geen machtiging (550 5.7.13)**, moet u de volgende opdracht uitvoeren in [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) om te zien welke machtigingen voor anonieme gebruikers in de openbare map:
+Als externe afzenders de fout ontvangen **die u niet hebt (550 5.7.13),** voert u de volgende opdracht uit in Exchange Online [PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) om de machtigingen voor anonieme gebruikers in de openbare map te bekijken:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Bijvoorbeeld `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Bijvoorbeeld. `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`
 
-Zodat externe gebruikers e-mail verzenden naar deze openbare map toevoegen de CreateItems toegang aan de gebruiker anoniem. Bijvoorbeeld `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Als u externe gebruikers wilt toestaan e-mail naar deze openbare map te verzenden, voegt u het toegangsrecht voor Items maken toe aan de gebruiker Anoniem. Bijvoorbeeld `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.

@@ -1,9 +1,9 @@
 ---
-title: IP-adres en de client in de controlelogboeken geïdentificeerd
+title: IP-adres en client identificeren in controlelogboeken
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539024"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716383"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-adres en de client in de controlelogboeken geïdentificeerd
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-adres en client identificeren in controlelogboeken
 
-Het IP-adres dat overeenkomt met een activiteit van een Office 365-gebruiker of beheerder wordt weergegeven in de controlelogboeken. Ook de informatie over de client is vastgelegd. Hier volgen de stappen voor het identificeren van dergelijke informatie
+Het IP-adres dat overeenkomt met een activiteit van een Microsoft 365-gebruiker of -beheerder wordt weergegeven in de controlelogboeken. De klantinformatie wordt ook geregistreerd. Hier volgen de stappen om dergelijke informatie te identificeren
 
-1. Log in op de [Office 365 & conformiteit Beveiligingscentrum](https://protection.office.com/).
+1. Meld u aan bij het [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
 
-2. Ga naar de **Search** > **Audit log** zoekpagina.
+2. Ga naar de**zoekpagina van het zoekcontrolelogboek.** **Search** > 
 
-   Als u geïnteresseerd in een bepaalde activiteit bent, selecteert u deze uit de lijst met **activiteiten** . Niet alle activiteiten worden geretourneerd voor de geselecteerde gebruiker (standaardinstelling).
+   Als u geïnteresseerd bent in een specifieke activiteit, selecteert u deze in de lijst **Activiteiten.** Als dit niet het zo is, worden alle activiteiten geretourneerd voor de geselecteerde gebruiker (standaardinstelling).
 
-   **Opmerking**: bepaalde activiteiten zijn mogelijk niet beschikbaar in het menu **activiteiten** ; echter die items controleren wordt geretourneerd als **Resultaat voor alle activiteiten weergeven** is geselecteerd (standaard instelling).
+   **Opmerking**: bepaalde activiteiten zijn mogelijk niet beschikbaar in het **menu Activiteiten;** Deze controleitems worden echter geretourneerd als **Resultaten weergeven voor alle activiteiten** is geselecteerd (standaardinstelling).
 
-3. Geef de gebruikersnaam op in het veld **gebruikers** , selecteert u het gewenste datumbereik voor de activiteit en klik op **Zoeken**.
+3. Geef de gebruikersnaam op in het veld **Gebruikers,** selecteer het juiste datumbereik voor de activiteit en klik op **Zoeken**.
 
-In de resultaten, kunt u het IP-adres voor die activiteit in het resultatendeelvenster te zien. Selecteer de record audit voor gedetailleerde informatie in het doel **Details** (bijvoorbeeld Client, gebruiker uitgevoerd, actie, enz.).
+In de resultaten ziet u het IP-adres voor die activiteit in het resultatenvenster. Selecteer de controlerecord om gedetailleerde informatie te zien in de **flyout Details** (bijvoorbeeld Client, Gebruiker die actie heeft uitgevoerd, enz.).
 
-Zie voor meer informatie, [Zoeken naar het IP-adres van de computer toegang krijgen tot een account die oneigenlijk wordt gebruikt](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Zie [Het IP-adres van de computer die wordt gebruikt om toegang te krijgen tot een gecompromitteerd account](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)voor meer informatie .

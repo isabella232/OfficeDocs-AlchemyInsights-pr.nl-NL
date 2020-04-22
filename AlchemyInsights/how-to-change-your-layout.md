@@ -1,9 +1,9 @@
 ---
-title: 8000059 hoe u uw lay-out wijzigen
+title: 8000059 Hoe wijzig je je lay-out?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: be859fdc896f1e0489f31ea8f5f9a16a0ceeb6b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 583f13900746f8fbc722bfceecaa56052efab369
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541698"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711194"
 ---
-# <a name="how-to-change-your-layout"></a>Het wijzigen van de lay-out
+# <a name="how-to-change-your-layout"></a>Uw lay-out wijzigen
 
-Het is eenvoudig om instellingen te wijzigen in Outlook.com zodat het eruitziet en zich gedraagt zoals u dat wilt. Selecteer de **Instellingen** op de werkbalk om de meest populaire opties.
+Het is gemakkelijk om instellingen te wijzigen in Outlook.com zodat het eruit ziet en zich gedraagt zoals u dat wilt. Selecteer **Instellingen** op de werkbalk voor de populairste opties.
 
-Overzicht van alle opties voor indeling, selecteert u **Instellingen** > **e** > [**lay-out**](https://outlook.live.com/mail/options/mail/layout).
+Als u alle indelingsopties wilt bekijken, selecteert u **Instellingen** > **e-mailindeling** > [**Layout**](https://outlook.live.com/mail/options/mail/layout).
   

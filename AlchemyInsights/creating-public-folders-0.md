@@ -3,7 +3,6 @@ title: Openbare mappen maken
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631783"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715355"
 ---
 # <a name="creating-public-folders"></a>Openbare mappen maken
 
-Voordat uw gebruikers openbare mappen in Office 365 gebruiken kunnen, moet u ten minste één openbare map Postvak maken. Maken:
+Voordat uw gebruikers openbare mappen kunnen gebruiken, moet u ten minste één postvak in openbare mappen maken. Ga als een te werk om het eerste nieuws te maken
   
-1. In het Microsoft 365 admin center, gaat u naar de **Admin centers** \> **Exchange**.
+1. Ga in het Microsoft 365-beheercentrum naar **Exchange-beheercentra** \> **.**
 
-2. Ga naar **openbare mappen** \> **postvakken voor openbare map**en klik vervolgens op **toevoegen**.
+2. Navigeer naar **postvakken voor openbare** **mappen** \> Openbare mappen en klik op **Toevoegen**.
 
-3. Geef een naam voor de openbare map Postvak in een **Openbare map Postvak**.
+3. Geef in **Postvak Openbare**map een naam op voor het postvak met de openbare map.
 
 4. Klik op **Opslaan**.
 
-Wanneer u een postvak hebt gemaakt, kunt u beginnen met het maken van afzonderlijke mappen of Vertel uw gebruikers [maken en gebruiken van openbare mappen in Outlook te starten](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Zodra een postvak is gemaakt, u beginnen met het maken van afzonderlijke mappen of uw gebruikers vertellen om te [beginnen met het maken en gebruiken van openbare mappen in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   

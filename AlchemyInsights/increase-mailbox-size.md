@@ -12,29 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068292"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714037"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Switch plannen om de postbus grootte te vergroten
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Van abonnement wisselen om de grootte van het postvak te vergroten
 
-Als de grootte van uw Office 365-postvak al 100 GB is, is er geen manier om deze te verhogen.
+Als de grootte van uw postvak al 100 GB is, is er geen manier om deze te verhogen.
   
-Als de grootte van de postbus 50 GB is, u deze verhogen naar 100 GB door over te schakelen naar [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) of [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Hier volgen de stappen om over te schakelen naar een ander Office 365-abonnement:
+Als de grootte van het postvak 50 GB is, u deze verhogen tot 100 GB door over te schakelen naar [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) of [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Dit zijn de stappen om over te schakelen naar een ander abonnement:
   
-1. Ga in het Microsoft 365 Admin Center naar de pagina **facturerings** \> [producten & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Ga in het Microsoft 365-beheercentrum naar de pagina \> **Factureringsproducten** [& services.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Selecteer het abonnement dat u wilt bijwerken.
+2. Selecteer het abonnement dat u wilt upgraden.
 
-3. Op de abonnementsgegevens weergeeft, schakelt **upgrade**.
+3. Selecteer op de pagina Met abonnementdetails de optie **Bijwerken**.
 
-4. Zoek het plan waarvoor u een upgrade wilt uitvoeren en selecteer vervolgens de knop **upgrade** .
+4. Zoek het abonnement waarop u wilt upgraden en selecteer vervolgens de knop **Upgrade.**
 
-5. Voer het aantal licenties in dat u nodig hebt, kies of u elke maand of voor het hele jaar wilt betalen en selecteer vervolgens **afrekenen**.
+5. Voer het aantal licenties in dat u nodig hebt, kies of u elke maand of het hele jaar wilt betalen en selecteer **Afhandeling**.
 
-Zie voor meer informatie, [upgraden naar een ander plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Zie [upgraden naar een ander plan voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)meer informatie.
 
-Als u een [Office 365-abonnement hebt dat een in-place archief ondersteunt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), u ook extra e-mail opslag krijgen door een archiefmailbox in te schakelen. Een postbus archiveren biedt u extra opslagruimte en u verplaatsen, kopiëren en zoeken naar berichten in zowel de primaire en archiveren postbus. Zie voor stappen over het inschakelen van een postbus archiveren [inschakelen van een postbus archiveren](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Als u een [abonnement hebt dat een in-place archief ondersteunt,](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)u ook extra e-mailopslag krijgen door een archiefpostvak in te schakelen. Een archiefpostvak geeft u extra opslagruimte en stelt u in staat om berichten te verplaatsen, te kopiëren en te zoeken in zowel het primaire als het archiefpostvak. Zie [Een archiefpostvak inschakelen](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)voor stappen over het inschakelen van een archiefpostvak.

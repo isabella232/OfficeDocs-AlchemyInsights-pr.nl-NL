@@ -1,8 +1,8 @@
 ---
-title: OneDrive-PUID komt niet overeen
+title: OneDrive PUID mismatch
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1fc50afa5b2e3d625c9136aac9bcb8ff24e00d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049080"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713137"
 ---
-# <a name="onedrive-puid-mismatch"></a>OneDrive-PUID komt niet overeen
-Het lijkt erop dat u een [PUID mismatch](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) ondervindt in OneDrive voor bedrijven. Volg de onderstaande stappen zodat we u zo snel mogelijk kunnen helpen:
+# <a name="onedrive-puid-mismatch"></a>OneDrive PUID mismatch
+Het lijkt erop dat u een [PUID-mismatch ondervindt](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) in OneDrive voor Bedrijven. Volg de onderstaande stappen zodat we u zo snel mogelijk kunnen helpen:
 
-1. Klik op **contact opnemen met ondersteuning**en vervolgens op **nieuwe service aanvraag**.
-2. Laat de titel en beschrijving achter als **PUID niet overeen komt op de OneDrive-site**.
-3. Nadat het ticket is verzonden, moet u het bijwerken met de volgende informatie:
-    - Site-URL van OneDrive die wordt beïnvloed.
-    - UPN (User Principal Name) van de betreffende gebruiker.
+1. Klik **op Contact opnemen met ondersteuning**en vervolgens op Nieuwe **serviceaanvraag**.
+2. Laat de titel en beschrijving achter als **PUID Mismatch op OneDrive-site**.
+3. Zodra het ticket is ingediend, moet u het bijwerken met de volgende informatie:
+    - URL van onedrive-site die wordt beïnvloed.
+    - Gebruikersnaam (UPN) van de getroffen gebruiker.
 
 
 
