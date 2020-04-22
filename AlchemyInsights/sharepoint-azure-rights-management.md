@@ -1,5 +1,5 @@
 ---
-title: Toegang beperken in SharePoint of OneDrive
+title: Toegang in SharePoint of OneDrive beperken
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,25 +7,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 4a04134c1e2e6569302756f3b6be213283638a0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40046738"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642247"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>IRM-beveiliging voorsharepoint-bestanden
+# <a name="irm-protection-to-sharepoint-files"></a>IRM-beveiliging voor SharePoint-bestanden
 
 
-In SharePoint Online wordt IRM-beveiliging toegepast op bestanden op het niveau van de lijst en de bibliotheek. Voordat uw organisatie IRM-beveiliging kan gebruiken, moet u eerst Rights Management instellen. IRM vertrouwt op de Azure Rights Management-service van Azure Information Protection voor het coderen en toewijzen van gebruiksbeperkingen. Sommige Office 365-abonnementen bevatten Azure Rights Management, maar niet alle. 
+Binnen SharePoint Online wordt IRM-beveiliging toegepast op bestanden op lijst- en bibliotheekniveau. Voordat uw organisatie IRM-beveiliging kan gebruiken, moet u eerst Rights Management instellen. IRM vertrouwt op de Azure Rights Management-service van Azure Information Protection om gebruiksbeperkingen te versleutelen en toe te wijzen. Sommige Microsoft 365-abonnementen bevatten Azure Rights Management, maar niet alle. 
 
 Hier vindt u meer informatie:
 
-- [Hoe Office-toepassingen en-services Azure Rights Management ondersteunen](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Hoe Office-toepassingen en -services Azure Rights Management ondersteunen.](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
 
-- [Information Rights Management (IRM) instellen in SharePoint Admin Center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [IRM (Information Rights Management) instellen in het SharePoint-beheercentrum](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-- Met [IRM u SharePoint-documentbibliotheken en-lijsten inschakelen](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [SharePoint-documentbibliotheken en -lijsten met IRM inschakelen](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
 - [Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 

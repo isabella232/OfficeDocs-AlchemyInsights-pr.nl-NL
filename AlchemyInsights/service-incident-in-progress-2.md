@@ -1,8 +1,8 @@
 ---
-title: Service-Incident in uitvoering
+title: Serviceincident in uitvoering
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 10/9/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 73545096f9f6c819162c82ff5c4d0e339fa4c6bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 539ed1bdbfbea60124d8fe05885b00900a597e83
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550546"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681639"
 ---
-# <a name="service-incident-in-progress"></a>Service-Incident in uitvoering
+# <a name="service-incident-in-progress"></a>Serviceincident in uitvoering
 
-U kan worden beïnvloed door een incident service of advies dat wordt momenteel onderzocht. Door te gaan naar de pagina [Status van de Service](https://admin.microsoft.com/adminportal/home#/servicehealth) kunt u de meest recente status controleren.
+U worden beïnvloed door een service-incident of advies dat momenteel wordt onderzocht. U de laatste status controleren door naar de pagina [Servicestatus](https://admin.microsoft.com/adminportal/home#/servicehealth) te gaan.
   
-Voor uw gemak vindt u een overzicht van dit incident hieronder:
+Voor uw gemak vindt u hieronder een overzicht van dit incident:
   
-> **Incident nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Incidentnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Beschrijving van invloed: {ImpactDescription}
+> Impactbeschrijving: {ImpactDescription}

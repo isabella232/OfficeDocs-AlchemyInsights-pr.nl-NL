@@ -1,9 +1,9 @@
 ---
-title: Vooruitbetaalde vernieuwing
+title: Prepaid verlenging
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666691"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666772"
 ---
-# <a name="prepaid-office-365-renewal"></a>Vernieuwing van de vooruitbetaalde Office 365
+# <a name="prepaid-microsoft-365-renewal"></a>Prepaid Microsoft 365 verlenging
 
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het beheercentrum naar de pagina **Facturering** \> [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Zoek het abonnement dat u wilt uitbreiden. Selecteer in het gedeelte **Facturering** **einddatum uitbreiden**.
+2. Zoek het abonnement dat u wilt verlengen. Selecteer **in** de sectie Facturering de optie **Einddatum verlengen**.
 
-3. In het venster **abonnement uitbreiden** Selecteer **een nieuwe en niet-gebruikte productcode gebruiken**en selecteer vervolgens **volgende**.
+3. Selecteer in het deelvenster **Abonnement verlengen** de optie Een nieuwe **en ongebruikte productcode gebruiken**en selecteer **Volgende**.
 
-4. Voer de productcode in en selecteer vervolgens **volgende**.
+4. Voer de productcode in en selecteer **Volgende**.
 
 > [!NOTE]
-> Als u meer dan één productcode hebt, kunt u **een andere productcode toevoegen** aan deze invoeren.
+> Als u meer dan één productcode hebt, u **Een andere productcode toevoegen** selecteren om deze in te voeren.
 
-5. Gegevens van uw bestelling controleren en selecteer vervolgens **verzilveren**.
+5. Bekijk uw bestelgegevens en selecteer **Inwisselen**.
 
-Voor meer informatie, Zie [licenties toevoegen of uitbreiden van een abonnement met een productcode betaald](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Zie [Licenties toevoegen aan of verlengen van een abonnement waarvoor een productcode is betaald.](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)

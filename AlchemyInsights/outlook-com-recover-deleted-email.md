@@ -1,9 +1,9 @@
 ---
-title: Recover verwijderde e-mailberichten in Outlook.com
+title: Verwijderde e-mail herstellen in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666952"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Recover verwijderde e-mail Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Verwijderde e-mail Outlook.com herstellen
 
-1. Selecteer in het linkerdeelvenster **Verwijderde Items**.
-2. Selecteer het item dat u wilt herstellen en kies **herstellen**.
-3. Als het bericht niet in Verwijderde Items, selecteert u **uit deze map Verwijderde items herstellen** op de bovenkant van het venster.
+1. Selecteer in het linkerdeelvenster **Deleted Items**.
+2. Selecteer het item dat u wilt herstellen en selecteer **Herstellen**.
+3. Als het bericht zich niet in Verwijderde items bevindt, selecteert u **Items herstellen die uit deze map** zijn verwijderd boven aan het venster.
 
  **Belangrijke informatie over verwijderde items:**
   
-- 30 dagen kunnen items verwijderd uit de map Verwijderde Items worden hersteld.
-- Als je nog niet hebt aangemeld bij uw account voor 365 dagen, wordt uw e-mailadres worden verwijderd en kan niet worden hersteld.
-- Het is niet mogelijk te herstellen, e-mailadres is verwijderd uit de onderliggende accounts.
+- Items die uit de map Verwijderde items zijn verwijderd, kunnen 30 dagen worden hersteld.
+- Als je je al 365 dagen niet hebt aangemeld bij je account, wordt je e-mail verwijderd en kan deze niet worden hersteld.
+- Het is niet mogelijk om e-mail te herstellen die is verwijderd uit kinderaccounts.
 
-Voor meer informatie, Zie [Verwijderde e-mailberichten in Outlook.com herstellen](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Zie [Verwijderde e-mailberichten herstellen in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.

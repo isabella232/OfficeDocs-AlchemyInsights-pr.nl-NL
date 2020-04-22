@@ -3,7 +3,7 @@ title: Gebruikers toevoegen aan een SharePoint-groep
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: 1734ddd75f090bd29c3d9cbaf93d6019e6a7a453
-ms.sourcegitcommit: 2591e1f56e8943bddb9d3b77ba5b494ac49d4f30
+ms.openlocfilehash: 4edf70c9f744fd7f4c1a99788da4cda60f413441
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38672985"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671272"
 ---
 # <a name="add-users-to-a-sharepoint-group"></a>Gebruikers toevoegen aan een SharePoint-groep
 
-Een SharePoint-groep is een verzameling gebruikers die allemaal dezelfde set machtigingen voor sites en inhoud hebben. In plaats van machtigingen toe te wijzen aan één persoon tegelijk, u groepen gebruiken om hetzelfde machtigingsniveau op een handige manier aan veel mensen tegelijk toe te wijzen.
+Een SharePoint-groep is een verzameling gebruikers die allemaal dezelfde set machtigingen hebben voor sites en inhoud. In plaats van machtigingen één persoon tegelijk toe te wijzen, u groepen gebruiken om gemakkelijk hetzelfde machtigingsniveau toe te wijzen aan veel mensen tegelijk.
 
-- [Gebruikers aan een groep toevoegen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [Leden toevoegen aan of verwijderen uit Office 365-groepen met behulp van het Admin Center](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)
+- [Gebruikers toevoegen aan een groep](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
+- [Leden uit Office 365-groepen toevoegen of verwijderen met behulp van het beheercentrum](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)
