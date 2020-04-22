@@ -1,8 +1,8 @@
 ---
-title: Voorwaarden ontbreken in SharePoint Online term Store
+title: Ontbrekende termen in SharePoint Online-termenarchief
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: a7d455a9efe675f4a56f920b220db32949c019a7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 773e68c7a9c9f89c94b280a05428be92cd8217a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053184"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736821"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a><span data-ttu-id="c9379-102">Voorwaarden ontbreken in SharePoint Online term Store</span><span class="sxs-lookup"><span data-stu-id="c9379-102">Terms missing from SharePoint Online Term Store</span></span>
+# <a name="terms-missing-from-sharepoint-online-term-store"></a><span data-ttu-id="3d1d3-102">Ontbrekende termen in SharePoint Online-termenarchief</span><span class="sxs-lookup"><span data-stu-id="3d1d3-102">Terms missing from SharePoint Online Term Store</span></span>
 
-<span data-ttu-id="c9379-103">De voorwaarden in het SharePoint Online-termenarchief die u verwacht te zien, verschijnen niet of worden af en toe weergegeven.</span><span class="sxs-lookup"><span data-stu-id="c9379-103">The terms in the SharePoint Online Term Store you are expecting to see do not appear or are intermittently appearing.</span></span>
+<span data-ttu-id="3d1d3-103">De termen in het SharePoint Online-termenarchief dat u verwacht te zien, worden niet weergegeven of worden met tussenpozen weergegeven.</span><span class="sxs-lookup"><span data-stu-id="3d1d3-103">The terms in the SharePoint Online Term Store you are expecting to see do not appear or are intermittently appearing.</span></span>
   
-<span data-ttu-id="c9379-104">Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst hebt gezien, logt u een ondersteuningsaanvraag in.</span><span class="sxs-lookup"><span data-stu-id="c9379-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="c9379-105">We begrijpen dat 24 uur misschien een lange tijd lijkt.</span><span class="sxs-lookup"><span data-stu-id="c9379-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="c9379-106">In veel gevallen zijn we al bezig met een oplossing, dus geef ons minstens 24 uur.</span><span class="sxs-lookup"><span data-stu-id="c9379-106">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="3d1d3-104">Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, dient u een ondersteuningsaanvraag in te loggen.</span><span class="sxs-lookup"><span data-stu-id="3d1d3-104">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="3d1d3-105">We begrijpen dat 24 uur een lange tijd lijkt.</span><span class="sxs-lookup"><span data-stu-id="3d1d3-105">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="3d1d3-106">In veel gevallen werken we al aan een oplossing, dus geef ons minstens 24 uur.</span><span class="sxs-lookup"><span data-stu-id="3d1d3-106">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   

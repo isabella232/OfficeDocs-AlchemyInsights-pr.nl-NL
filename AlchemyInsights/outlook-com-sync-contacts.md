@@ -3,7 +3,7 @@ title: Contactpersonen synchroniseren in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511770"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722263"
 ---
-# <a name="sync-contacts"></a><span data-ttu-id="b3663-102">Contactpersonen synchroniseren</span><span class="sxs-lookup"><span data-stu-id="b3663-102">Sync contacts</span></span>
+# <a name="sync-contacts"></a><span data-ttu-id="185ad-102">Contactpersonen synchroniseren</span><span class="sxs-lookup"><span data-stu-id="185ad-102">Sync contacts</span></span>
 
-<span data-ttu-id="b3663-103">Outlook wordt gesynchroniseerd met de contactpersonen die u in [mensen](https://outlook.live.com/people/) door andere apparaten en toepassingen, zoals Outlook voor Android en Outlook voor iOS maakt.</span><span class="sxs-lookup"><span data-stu-id="b3663-103">Outlook syncs the contacts you create in [People](https://outlook.live.com/people/) across other devices and apps, such as Outlook for Android and Outlook for iOS.</span></span> <span data-ttu-id="b3663-104">Meer informatie over het [maken van contactpersonen](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="b3663-104">Learn how to [create contacts](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
+<span data-ttu-id="185ad-103">Outlook synchroniseert de contactpersonen die u maakt in [Personen op](https://outlook.live.com/people/) andere apparaten en apps, zoals Outlook voor Android en Outlook voor iOS.</span><span class="sxs-lookup"><span data-stu-id="185ad-103">Outlook syncs the contacts you create in [People](https://outlook.live.com/people/) across other devices and apps, such as Outlook for Android and Outlook for iOS.</span></span> <span data-ttu-id="185ad-104">Meer informatie over het [maken van contactpersonen](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="185ad-104">Learn how to [create contacts](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
 
-<span data-ttu-id="b3663-105">Geïmporteerde contactpersonen (bijvoorbeeld contactpersonen vanuit een ander e-mailaccount die u hebt aangesloten op uw account Outlook.com) worden niet gesynchroniseerd.</span><span class="sxs-lookup"><span data-stu-id="b3663-105">Imported contacts (for example, contacts from another email account you've connected to your Outlook.com account) aren't synced.</span></span> <span data-ttu-id="b3663-106">Meer informatie over het [importeren van contactpersonen](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span><span class="sxs-lookup"><span data-stu-id="b3663-106">Learn how to [import contacts](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span></span>
+<span data-ttu-id="185ad-105">Geïmporteerde contactpersonen (bijvoorbeeld contactpersonen uit een ander e-mailaccount die u hebt gekoppeld aan uw Outlook.com-account) worden niet gesynchroniseerd.</span><span class="sxs-lookup"><span data-stu-id="185ad-105">Imported contacts (for example, contacts from another email account you've connected to your Outlook.com account) aren't synced.</span></span> <span data-ttu-id="185ad-106">Meer informatie over het [importeren van contactpersonen](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span><span class="sxs-lookup"><span data-stu-id="185ad-106">Learn how to [import contacts](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span></span>
