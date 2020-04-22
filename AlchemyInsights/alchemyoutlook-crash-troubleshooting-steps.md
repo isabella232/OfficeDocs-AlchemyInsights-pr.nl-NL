@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook crash stappen voor probleemoplossing
+title: Alchemie - Stappen voor het oplossen van problemen met outlook-crashen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737109"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708350"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook crash stappen voor probleemoplossing
+# <a name="outlook-crash-troubleshooting-steps"></a>Stappen voor probleemoplossing bij vastlopen van Outlook
 
-Als u Outlook Desktop crash problemen ondervindt, begint u met het volgen van de drie onderstaande stappen, die allemaal in detail in dit artikel worden vermeld: [het oplossen van problemen die ervoor zorgen dat Outlook vastloopt of niet meer reageert bij gebruik in combinatie met Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Als u problemen heeft met het bureaublad crashen van Outlook, begint u met het volgen van de onderstaande drie stappen, die allemaal in detail in dit artikel worden vermeld: [Problemen oplossen waardoor Outlook vastloopt of niet meer reageert.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Stap 1: onderzoek mogelijke problemen met invoegtoepassingen.
+Stap 1: Onderzoek mogelijke problemen met invoegingen.
   
-Stap 2: herstel Outlook en voer het [hulpprogramma support and Recovery Assistant](https://aka.ms/SaRA-OutlookWontStart) uit om opstartfouten van Outlook op de getroffen computer op te lossen.
+Stap 2: Herstel Outlook en voer het [hulpprogramma Voor ondersteuning en herstelassistent](https://aka.ms/SaRA-OutlookWontStart) uit om opstartfouten in Outlook op de getroffen machine op te lossen.
   
-Stap 3: Maak een nieuw Outlook-profiel of voer de [Outlook-profiel tool](https://aka.ms/SaRA-OutlookSetupProfile) uit op de getroffen machine.
+Stap 3: Maak een nieuw Outlook-profiel of voer het [Outlook-profielhulpprogramma](https://aka.ms/SaRA-OutlookSetupProfile) uit op de betreffende machine.
   
-Als het probleem is opgetreden na een update en de bovenstaande stappen niet werken, moet u mogelijk terugkeren naar een vorige build. Zie [hoe u terugkeren naar een eerdere versie van Office 2016 klik-en-klaar](https://support.microsoft.com/help/2770432).
+Als het probleem na een update is ontstaan en de bovenstaande stappen niet helpen, dient u wellicht een vorige versie terug te zetten. Zie [Hoe u terugkeren naar een eerdere versie van Office 2016 Klik-en-Uit](https://support.microsoft.com/help/2770432).
   

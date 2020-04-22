@@ -1,5 +1,5 @@
 ---
-title: De grootte van een bericht of bijlage wijzigen
+title: De grootte van berichten of bijlagen wijzigen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,19 +10,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769658"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706354"
 ---
-# <a name="changing-message-or-attachment-size"></a>De grootte van een bericht of bijlage wijzigen
+# <a name="changing-message-or-attachment-size"></a>De grootte van berichten of bijlagen wijzigen
 
-Als Office 365-beheerder u de maximale/minimale grootte van berichten (inclusief bijlagen) wijzigen die uw gebruikers verzenden. U dit doen voor afzonderlijke gebruikers of alle gebruikers (organisatie standaard). Nadat u deze instelling hebt gewijzigd, duurt het ongeveer 30 minuten om in werking te treden.
+Als Microsoft 365-beheerder u de maximale/minimale grootte van berichten (inclusief bijlagen) wijzigen die uw gebruikers verzenden. U dit doen voor individuele gebruikers of alle gebruikers (standaard organisatie). Nadat u deze instelling hebt gewijzigd, duurt het ongeveer 30 minuten voordat deze in werking treedt.
   
-- Als u wilt wijzigen van de berichtgrootte voor een specifieke gebruiker, gaat u naar **admin Centers** \> **Exchange** \> **geadresseerden** \> **postvakken**. Selecteer het postvak van een gebruiker. Selecteer het pictogram bewerken, selecteer **Mailbox-functies**en kies vervolgens onder **beperkingen voor berichtgrootte**de optie **Details weergeven** en nieuwe maximale berichtgrootte opgeven.
+- Als u de berichtgrootte voor een specifieke gebruiker wilt wijzigen, gaat u naar **Postvakken**voor ontvangers van **Exchange-ontvangers** \> **recipients** \> van de **beheercentra** \> . Selecteer het postvak van een gebruiker. Selecteer het pictogram bewerken, selecteer **postvakfuncties**en kies vervolgens onder **Beperkingen voor berichtgrootte**de optie **Details weergeven** en geef een nieuwe maximale berichtgrootte op.
 
-- Als u wilt weten hoe u dit voor alle postvakken wijzigen, raadpleegt u [dit artikel](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Zie [dit artikel](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)voor alle postvakken om te leren hoe u dit voor alle postvakken wijzigen.
 
-- Zie voor meer informatie over maximale limieten met behulp van Outlook of Outlook op het web, in [dit artikel](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile heeft een maximum limiet van 25MB. [Klik hier](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)om Outlook IOS-en Android-ondersteuning te krijgen.
+- Zie [dit artikel](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits)voor meer informatie over maximale limieten met Outlook of Outlook op de webversie. Outlook Mobile heeft een maximumvan 25MB. Klik [hier voor](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)ondersteuning voor Outlook iOS en Android.

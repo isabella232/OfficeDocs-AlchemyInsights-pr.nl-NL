@@ -1,9 +1,9 @@
 ---
-title: 125 een fout Ongeldige licentie ophalen in Outlook op het web?
+title: 125 Een ongeldige licentiefout krijgen in de webversie van Outlook?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523794"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708826"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Een fout Ongeldige licentie ophalen in Outlook op het web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Krijg je een ongeldige licentiefout in de webversie van Outlook?
 
-Als u Outlook op het web gebruikt en u een fout **iets verkeerd is gegaan** dat krijgt bevat **X-OWA-fout: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, de Exchange Online-licentie is niet correct toegewezen of heeft onlangs verlopen. De beheerder kunt een licentie toewijzen aan u door de volgende stappen:
+Als u outlook op het web gebruikt en u een fout hebt **gemaakt** met **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException,** is uw Exchange Online-licentie niet correct toegewezen of onlangs verlopen. Uw beheerder kan u een licentie toewijzen door de volgende stappen te volgen:
   
-1. Open het [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) en selecteer **een gebruiker bewerken**onder **actieve gebruikers**.
+1. Open het [Microsoft 365-beheercentrum](https://portal.office.com/adminportal/home#/homepage) en selecteer onder **Actieve gebruikers**de optie Een **gebruiker bewerken**.
 
-2. In de pagina voor **een gebruiker bewerken** dat nu wordt geopend, selecteert u de gebruiker. Klik op **bewerken** voor **productlicenties**in eigenschappenpagina gebruiker wordt geopend.
+2. Selecteer de gebruiker op de **pagina Een gebruiker** bewerken die wordt geopend. Klik op de pagina gebruikerseigenschappen die wordt geopend op **Bewerken** voor **productlicenties**.
 
-3. Selecteer de juiste **locatie** waarde pagina **productlicenties** wordt geopend en toewijzen van een licentie voor Exchange Online met (Vouw de licentie voor de details). Klik op **Opslaan** wanneer u gereed bent.
+3. Selecteer op de pagina **Productlicenties** die wordt geopend de juiste **locatiewaarde** en wijs een licentie toe die Exchange Online bevat (vouw de licentie uit om de details te zien). Klik op **Opslaan** wanneer u gereed bent.

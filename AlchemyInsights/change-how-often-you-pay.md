@@ -3,7 +3,7 @@ title: Wijzigen hoe vaak u betaalt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217859"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706822"
 ---
 # <a name="change-how-often-you-pay"></a>Wijzigen hoe vaak u betaalt
 
-Wanneer u een abonnement koopt, kiest u voor maandelijkse of jaarlijkse facturering. Als u wilt wijzigen hoe vaak u voor een abonnement wordt gefactureerd, gebruikt u de volgende stappen.
-
-1. Ga in het beheercentrum naar de pagina **Facturering> producten & [services.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
-
-2. Zoek het abonnement dat u wilt wijzigen. Klik **in** de sectie Facturering naast maandelijks **gefactureerd** of **jaarlijks gefactureerd**op **Bewerken**.
-
-3. Kies de optie voor hoe vaak u wilt worden gefactureerd en klik op **Wijzigen**.
+ **Wilt u de betalingsfrequentie aanpassen?** Als u wilt wijzigen hoe vaak u betaalt voor uw Microsoft 365 voor zakelijk abonnement, van jaarlijks naar maandelijks of maandelijks tot jaarlijks, kunnen wij u daarbij helpen. Je moet hetzelfde abonnement kopen met de nieuwe betalingsfrequentie en het oude abonnement opzeggen. Gebruik de optie 'Laat ons u bellen' om met een ondersteuningstechnicus te praten.

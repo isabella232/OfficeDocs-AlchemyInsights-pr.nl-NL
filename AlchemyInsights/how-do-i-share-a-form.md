@@ -1,5 +1,5 @@
 ---
-title: Hoe kan ik een formulier delen
+title: Hoe deel ik een formulier?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 656c3f05494abbe0f387dffec4bd36c4e337a317
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0517697073ca20fa73f41f6b142e50090c7fd2c2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522823"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709898"
 ---
 # <a name="share-a-form"></a>Een formulier delen
 
-Als u wilt delen een quiz of een formulier in Microsoft Forms, Zie [delen van een formulier om samen te werken](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+Zie [Een formulier delen om samen te werken](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)als u een quiz of formulier wilt delen in Microsoft Forms.
 
-Zie [Microsoft-formulieren](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?ui=en-US&rs=en-US&ad=US#PickTab=Configure)voor het beheren van de mogelijkheid om formulieren extern delen. 
+Zie [Microsoft Formulieren instellen](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240)als u de mogelijkheid om formulieren extern te delen beheren. 
 
-Ophalen van een Overzichtskoppeling resultaten delen met anderen:
+Ga als lid van het nieuwe overzicht naar een overzicht strekken om resultaten met anderen te delen:
 
-1. Klik op het tabblad **antwoorden** , klik op ellipsen (**...**).
-3. Kies **een samenvatting koppeling maken**.
-4. Klik op **kopiëren**.
+1. Klik op het tabblad **Reacties** op de knop ellipsen (**... ).**
+3. Kies **Een overzichtskoppeling maken**.
+4. Klik **op Kopiëren**.
 
-Een samenvatting van de antwoorden voor uw formulier, kan iedereen met wie u deze koppeling delen bekijken.
+Iedereen met wie je deze link deelt, kan een overzicht van de reacties voor je formulier bekijken.

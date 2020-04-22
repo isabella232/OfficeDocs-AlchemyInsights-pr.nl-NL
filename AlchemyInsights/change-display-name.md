@@ -1,8 +1,8 @@
 ---
-title: 959 weergavenaam wijzigen
+title: 959 Weergavenaam wijzigen
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736716"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706966"
 ---
-# <a name="change-your-display-name"></a>Uw weergavenaam wijzigen
+# <a name="change-your-display-name"></a>De weergavenaam wijzigen
   
-Gebruik de volgende stappen om uw weergavenaam in Outlook te wijzigen.
+Als u uw weergavenaam in Outlook wilt wijzigen, gebruikt u de volgende stappen.
   
-1. Selecteer in Outlook \> **account**instellingen voorinstellingen voor **Bestands** \> **account** .
+1. Selecteer in Outlook **accountinstellingen voor** \> **bestandsaccountinstellingen** \> **Account Settings**.
 
-2. Selecteer het e-mail account en selecteer vervolgens **wijzigen**.
+2. Selecteer het e-mailaccount en selecteer **Wijzigen**.
 
     > [!NOTE]
-    > Als u de optie om uw weergavenaam te wijzigen niet ziet, gebruikt u waarschijnlijk een e-mail account van Microsoft Exchange. In dit geval moet u contact opnemen met uw beheerder om uw weergavenaam te wijzigen. Zie [een gebruikersnaam en e-mailadres wijzigen in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Als u de optie om uw weergavenaam te wijzigen niet ziet, gebruikt u waarschijnlijk een Microsoft Exchange-e-mailaccount. In dit geval moet u contact opnemen met uw beheerder om uw weergavenaam te wijzigen. Zie [Een gebruikersnaam en e-mailadres wijzigen](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Nadat u uw weergavenaam hebt gewijzigd, klikt u op **OK** om uw wijzigingen op te slaan. Het kan enkele uren duren voordat uw wijzigingen in uw organisatie zijn doorgevoerd.
+3. Nadat u de weergavenaam hebt gewijzigd, klikt u op **OK** om de wijzigingen op te slaan. Het kan enkele uren duren voordat uw wijzigingen in uw hele organisatie worden doorgevoerd.
 
-Zie [de weergavenaam wijzigen die e-mail geadresseerden zien](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)voor meer informatie.
+Zie [De weergavenaam wijzigen die e-mailontvangers zien voor](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)meer informatie.
   

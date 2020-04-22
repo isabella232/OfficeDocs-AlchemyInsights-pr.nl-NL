@@ -1,9 +1,9 @@
 ---
-title: Migreren naar SharePoint Online via migratiebeheer
+title: Migreren naar SharePoint Online met Migratiebeheer
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964118"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707182"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migreren naar SharePoint Online via migratiebeheer
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migreren naar SharePoint Online met Migratiebeheer
 
-De migratie beheerder bevindt zich in het moderne SharePoint-Beheercentrum en begeleidt u bij het instellen van uw clients en het maken van uw taken. U instellingen voor globaal of taakniveau opgeven, de voortgang van alle taken weergeven en samengevoegde overzichten en rapporten op taakniveau downloaden.
+In het moderne SharePoint-beheercentrum begeleidt migratiebeheer u bij de configuratie van uw klanten en het opzetten van taken. U globale instellingen op taakniveau opgeven, de voortgang van de taak taak bekijken en geaggregeerde overzichts- en taakrapporten downloaden.
 
-* [Aan de slag met migratiebeheer](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Migratiebeheer-clients instellen](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Instellingen voor migratiebeheer](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Aan de slag met Migratiebeheer](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Migratiebeheer-klanten instellen](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Instellingen Migratiebeheer](https://docs.microsoft.com/sharepointmigration/mm-settings)

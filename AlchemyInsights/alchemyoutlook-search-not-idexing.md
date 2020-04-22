@@ -1,9 +1,9 @@
 ---
-title: Alchemie-Outlook zoeken niet idexing
+title: Alchemie - Outlook zoeken niet idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cc05a72ac0a79e285271d72b6670c547e1ff481e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36505826"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708314"
 ---
-# <a name="outlook-search-not-indexing"></a>Zoeken in Outlook niet indexeren
+# <a name="outlook-search-not-indexing"></a>Outlook Zoeken niet indexeren
 
-We zijn op de hoogte van Outlook-Zoek problemen met betrekking tot recente beveiligingsupdates voor Windows.
+We zijn ons bewust van zoekproblemen in Outlook in verband met recente beveiligingsupdates voor Windows.
   
-Wanneer u in Outlook zoekt, krijgt u mogelijk een van deze fouten: er is **iets misgegaan en uw zoekopdracht kan niet worden voltooid**, of **Zoekresultaten kunnen onvolledig zijn omdat items nog steeds worden geïndexeerd**. De correctie is uitgegeven als een optionele Windows-Update. Installeer het nummer dat overeenkomt met de versie van Windows waarop u dit probleem ziet: 
+Bij het zoeken in Outlook u een van deze fouten krijgen: **er is iets misgegaan en uw zoekopdracht kan niet worden voltooid**of zoekresultaten kunnen **onvolledig zijn omdat items nog steeds worden geïndexeerd.** De oplossing is uitgegeven als een optionele Windows-update. Installeer de versie die overeenkomt met de versie van Windows waarop u dit probleem ziet: 
   
-> [Windows 7-27 juni 2017 update](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7 - Update van 27 juni 2017](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8,1-27 juni 2017 bijwerken](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1 - 27 juni 2017-update](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Windows 10 versie 1703-27 juni 2017 bijwerken](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 Versie 1703 - 27 juni 2017-update](https://support.microsoft.com/kb/4022716.aspx)
     
-Voor de meest recente informatie raadpleegt u het artikel: [bekende problemen met Outlook in de beveiligingsupdates van juni 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) probleem #5. 
+Zie voor de meest recente informatie het artikel: Bekende problemen in outlook in de beveiligingsupdates van [juni 2017,](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) #5. 
   
 

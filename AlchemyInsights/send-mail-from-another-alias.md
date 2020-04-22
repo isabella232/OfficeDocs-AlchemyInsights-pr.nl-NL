@@ -1,9 +1,9 @@
 ---
-title: E-mail verzenden vanaf een andere alias
+title: E-mail verzenden vanuit een andere alias
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551518"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709186"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Verzenden van e-mail vanuit een alias of secundair adres
+# <a name="send-email-from-an-alias-or-secondary-address"></a>E-mail verzenden vanaf een alias of secundair adres
 
-Office 365 biedt momenteel geen ondersteuning voor verzenden van e-mail vanuit een alias of secundaire e-mailadres. E-mail-aliassen kunnen worden gebruikt voor het ontvangen van e-mailberichten alleen. Als u e-mail verzenden vanaf een ander e-mailadres wilt, moet u een gedeeld postvak maken. De gedeelde postbus, krijgt u een ander e-mailadres, zonder dat u een extra licentie nodig.
+Microsoft 365 ondersteunt momenteel geen ondersteuning voor het verzenden van e-mail vanaf een alias of secundair e-mailadres. E-mailaliassen kunnen alleen worden gebruikt om e-mails te ontvangen. Als u e-mail wilt verzenden vanaf een ander e-mailadres, moet u een gedeeld postvak maken. Het gedeelde postvak geeft u een ander e-mailadres, zonder dat u een andere licentie nodig hebt.
   
-- [Ga hier naar een gedeeld postvak maken](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Ga hier om een gedeeld postvak te maken](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-U kunt ook lezen het artikel en [een gedeeld postvak maken](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) die u alles wat die u weten over gedeelde postbussen vertelt moet, met inbegrip van het gebruik ervan.
+U ook het artikel [Een gedeeld postvak](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) maken lezen waarin u alles vertelt wat u moet weten over gedeelde postvakken, inclusief hoe u deze gebruiken.

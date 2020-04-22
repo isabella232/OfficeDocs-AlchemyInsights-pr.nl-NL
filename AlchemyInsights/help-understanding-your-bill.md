@@ -1,9 +1,9 @@
 ---
-title: Help-informatie over uw factuur
+title: Help uw factuur te begrijpen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523074"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710078"
 ---
-# <a name="help-understanding-your-bill"></a>Help-informatie over uw factuur
+# <a name="help-understanding-your-bill"></a>Help uw factuur te begrijpen
 
-De voor uw Office 365 voor zakelijke abonnement gefactureerd bedrag weerspiegelt de licentie prijs vermenigvuldigd met het aantal aangeschafte licenties en eventuele vereiste belastingen/kosten.
+Het bedrag dat voor uw abonnement wordt gefactureerd, weerspiegelt de licentieprijs vermenigvuldigd met het aantal gekochte licenties en de vereiste belastingen/kosten.
   
-Als het gefactureerd bedrag vervolgens verwacht is, zijn er diverse redenen waarom dat dit kan gebeuren:
+Als het gefactureerde bedrag anders is dan verwacht, zijn er een paar redenen waarom dit kan gebeuren:
   
-- Licenties zijn toegevoegd of verwijderd uit uw abonnement. Wanneer licenties gewijzigde halverwege de looptijd zijn, wordt dit weergegeven op de volgende factuur. Wordt er een creditnota en opnieuw in rekening brengen voor de vorige serviceperiode voor deze wijziging.
+- Licenties zijn toegevoegd of uit uw abonnement verwijderd. Wanneer licenties tussentijds worden gewijzigd, wordt dit weergegeven op de volgende factuur. Mogelijk ziet u vanwege deze wijziging een creditering en herfacturering voor de vorige serviceperiode.
 
-- Het abonnement is geannuleerd. U ontvangt een factuur na annulering met eventuele uitstaande saldo min crediteringen.
+- Het abonnement is geannuleerd. Na annulering ontvangt u een factuur met een eventueel openstaand saldo minus eventuele credits.
 
-- Het abonnement voor een nieuwe periode worden verlengd en de prijs van de licentie gewijzigd.
+- Uw abonnement is verlengd voor een nieuwe termijn en de licentieprijs is gewijzigd.
 
-Zie voor meer informatie over uw factuur: [begrijp wat uw factuur](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Zie Voor meer informatie over uw factuur: [Uw factuur begrijpen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

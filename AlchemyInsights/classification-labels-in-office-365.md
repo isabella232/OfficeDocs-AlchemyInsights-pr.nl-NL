@@ -1,5 +1,5 @@
 ---
-title: Classificatielabels in Office 365
+title: Classificatielabels
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,15 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 9cd9f2c76a7bd986b1962dcaa241d03ada0f8fea
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f1c457783eab79ecc810ef5c79671fbc40f7e64a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050088"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706268"
 ---
-# <a name="classification-labels-in-office-365"></a>Classificatielabels in Office 365
+# <a name="classification-labels"></a>Classificatielabels
 
-Met gevoeligheids-of classificatielabels in Office 365 u uw gevoelige inhoud classificeren en helpen beschermen, terwijl u ervoor zorgt dat de productiviteit en het vermogen van uw mensen om samen te werken niet worden belemmerd.
+Met gevoeligheids- of classificatielabels u uw gevoelige inhoud classificeren en helpen beschermen, terwijl u ervoor zorgt dat de productiviteit en het vermogen van uw mensen om samen te werken niet wordt belemmerd.
 
-Raadpleeg het volgende [artikel](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)voor meer informatie.
+Zie voor meer informatie het volgende [artikel.](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)

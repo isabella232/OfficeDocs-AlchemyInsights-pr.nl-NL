@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 682a00364063d395ef9053fc7f6d99a299451c1b
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706232"
 ---
 # <a name="comments-in-microsoft-planner"></a>Opmerkingen in Microsoft Planner
 
@@ -32,4 +32,4 @@ Hier vindt u enkele antwoorden op veelvoorkomende problemen met opmerkingen:
 
 - **Verwijderde gebruikers ontvangen e-mailberichten:** Als een gebruiker opmerkingen maakt bij een taak voordat de gebruiker uit het plan worden verwijderd, bevat de e-mailthread de gebruiker voor elke opmerking die bij de taak is gemaakt.
 
-Als u meer wilt weten over opmerkingen met Microsoft Planner raadpleegt u [Hoe Microsoft Planner werkt](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) en [Opmerkingen maken bij taken in Microsoft Planner](https://support.microsoft.com/nl-NL/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Als u meer wilt weten over opmerkingen met Microsoft Planner raadpleegt u [Hoe Microsoft Planner werkt](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) en [Opmerkingen maken bij taken in Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).

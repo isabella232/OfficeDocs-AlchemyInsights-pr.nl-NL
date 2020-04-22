@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100443"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706052"
 ---
 # <a name="conditional-access-policies"></a>Beleid voor voorwaardelijke toegang
 
@@ -24,7 +24,7 @@ Voorwaardelijke toegang is een mogelijkheid van Azure AD waarmee u de toegang to
 
 Meer informatie over [Azure AD-beleid voor voorwaardelijke toegang](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Opmerking**: als uw tenant na 21 oktober 2019 is gemaakt en u onverwacht om meervoudige verificatie wordt gevraagd, zijn in uw tenant waarschijnlijk [standaardinstellingen voor beveiliging](http://aka.ms/securitydefaults) ingeschakeld.
+**Opmerking**: als uw tenant na 21 oktober 2019 is gemaakt en u onverwacht om meervoudige verificatie wordt gevraagd, zijn in uw tenant waarschijnlijk [standaardinstellingen voor beveiliging](https://aka.ms/securitydefaults) ingeschakeld.
 
 **Standaardinstellingen voor beveiliging beheren**
 

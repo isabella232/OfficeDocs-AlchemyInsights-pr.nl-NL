@@ -1,9 +1,9 @@
 ---
-title: Een account aanvragen 123 fout in OWA uitgeschakeld?
+title: 123 Een fout met een account uitgeschakeld in OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708862"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Fout in Outlook op het web een account aanvragen worden uitgeschakeld?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Een fout met een account uitgeschakeld in de webversie van Outlook?
 
-Als u de fout **uw account is uitgeschakeld** met `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` wanneer u Outlook op het web (voorheen bekend als Outlook Web App) te openen, de beheerder van uw organisatie de toegang tot Outlook op het web mogelijk uitgeschakeld. Uw admin kunt deze fout oplossen door de stappen in het onderwerp [in- of uitschakelen van Outlook Web App voor een postbus](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Als u de fout krijgt Uw `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` account is **uitgeschakeld** wanneer u Outlook op de webprobeert te openen (voorheen outlook web-app genoemd), heeft de beheerder van de organisatie mogelijk de toegang tot de webversie van Outlook uitgeschakeld. Uw beheerder kan deze fout oplossen door de stappen in het onderwerp [Outlook Web App in- of uitschakelen voor een postvak te volgen.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

@@ -1,5 +1,5 @@
 ---
-title: Compliance van communicatie
+title: Communicatiecompliance
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274860"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706160"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Compliance van communicatie in Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Naleving van de communicatie in Microsoft 365
 
-Compliance van communicatie is een nieuwe Microsoft 365 compliance-oplossing die organisaties helpt te voldoen aan nalevingsvereisten voor toezicht en de communicatie Risico's te minimaliseren. Het is gebaseerd op de toezichtfunctie in Office 365 en bevat nieuwe verbeteringen, waaronder:
+Communicatiecompliance is een nieuwe Microsoft 365-complianceoplossing waarmee organisaties kunnen voldoen aan de nalevingsvereisten van het toezicht en communicatierisico's kunnen minimaliseren. Het is gebaseerd op de functie Toezicht en bevat nieuwe verbeteringen, waaronder:
 
 - Intelligente aanpasbare sjablonen
-- Flexibele herstel workflows
+- Flexibele herstelwerkstromen
 - Bruikbare inzichten
 
-Als u momenteel [toezicht beleid in Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)gebruikt, is het raadzaam dat u nu de nieuwe communicatie naleving gebruiken om te voldoen aan regelgevende behoeften.
+Als u momenteel [toezichtsbeleid](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)gebruikt, raden we u aan de nieuwe naleving van de communicatie nu te gebruiken om aan de wettelijke behoeften te voldoen.
 
-Zie voor het instellen van communicatie naleving communicatie [naleving configureren](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Zie Naleving van [de communicatieconfigureren](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)voor het instellen van communicatie.
 
-Zie voor het onderzoeken, controleren en verhelpen van naleving van communicatie, [communicatie nalevings waarschuwingen onderzoeken en herstellen](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Zie [Meldingen voor communicatiecompliance onderzoeken,](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)controleren en herstellen.
 
-Zie voor een overzicht van de functie communicatie naleving [communicatie naleving in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Zie Naleving van de communicatie [in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)voor een overzicht van de functie voor communicatienaleving.
 
-Licentievereisten: gebruikers die worden bewaakt door communicatiebeleid, moeten een van de volgende opties hebben:
+Licentievereisten: gebruikers die worden gecontroleerd door communicatiebeleid, moeten een van de volgende opties hebben:
 
-- Licentie voor naleving van Microsoft 365 E5
-- Office 365 Enterprise E3-licentie met de geavanceerde Complianceadd-on
-- Abonnement op Office 365 Enterprise E5
+- Microsoft 365 E5 Compliance-licentie
+- Office 365 Enterprise E3-licentie met de Invoegtoepassing Geavanceerde naleving
+- Office 365 Enterprise E5-abonnement
 
-Als u niet beschikt over een van de bovenstaande en wilt proberen communicatie naleving, **[Meld u aan voor een proefversie van Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Als u geen van de bovenstaande informatie hebt en de naleving van de communicatie wilt proberen, **[meldt u zich aan voor een proefversie van Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**

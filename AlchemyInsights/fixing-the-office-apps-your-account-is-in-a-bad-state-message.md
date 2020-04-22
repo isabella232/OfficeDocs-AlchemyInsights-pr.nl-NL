@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547957"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708682"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Fout in Office-apps herstellen 'Uw account is slecht
 
@@ -27,5 +27,5 @@ Als u deze fout wilt oplossen, probeert u de volgende opties op de betreffende c
   **Let op:** De registerpaden voor Office 2016 zijn gewijzigd in 16,0. \Software\Microsoft\Office\16.0\Common\Identity\
 - Als de fout optreedt tijdens een verbinding met Office 365 met Office 2013, [schakelt u moderne verificatie](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) in voor de Office-client.
 
-Zie [Problemen met niet-browserapps die zich niet kunnen aanmelden bij Office 365, Azure of Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)voor meer informatie.
+Zie [Problemen met niet-browserapps die zich niet kunnen aanmelden bij Microsoft 365, Azure of Intune voor](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)meer informatie.
 

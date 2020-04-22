@@ -1,5 +1,5 @@
 ---
-title: 714 externe afzenders toestaan om distributielijsten te e-mailen
+title: 714 Externe afzenders toestaan voor e-maildistributielijsten
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768219"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708206"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Externe afzenders toestaan berichten naar distributiegroepen te verzenden
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Externe afzenders toestaan om berichten naar distributiegroepen te verzenden
 
-Als gebruikers buiten uw organisatie fouten ontvangen wanneer ze berichten verzenden naar uw distributiegroepen, of u wilt controleren of uw distributiegroepen zijn geconfigureerd voor het ontvangen van e-mail van externe afzenders, als volgt te werk:
+Als gebruikers buiten uw organisatie fouten ontvangen wanneer ze berichten naar uw distributiegroepen verzenden of als u wilt controleren of uw distributiegroepen zijn geconfigureerd om e-mail van externe afzenders te ontvangen, voert u de volgende stappen uit:
 
-1. Ga in het Office 365-Beheercentrum naar de pagina **groeps** > [groepen.](https://portal.office.com/adminportal/home#/groups)  
+1. Ga in het Microsoft 365-beheercentrum naar de pagina > [Groepengroepen.](https://portal.office.com/adminportal/home#/groups) **Groups**  
 
-2. Selecteer de distributiegroep en selecteer in het deelvenster Groepseigenschappen het tabblad **instellingen** .
+2. Selecteer de distributiegroep en selecteer in het deelvenster Groepseigenschappen het tabblad **Instellingen.**
 
-3. Selecteer **externe afzenders toestaan deze groep te e-mailen**en selecteer vervolgens **Opslaan**.
+3. Selecteer **Externe afzenders toestaan om deze groep te e-mailen**en selecteer **Vervolgens Opslaan**.

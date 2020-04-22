@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: d03f9cd62a1867619f0b7ed8f449ff638164a836
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744581"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709654"
 ---
 # <a name="activating-windows-10-subscriptions"></a>Windows 10-abonnementen activeren
 
-Microsoft 365 Business, Microsoft 365 education, Microsoft 365 en Enterprise bieden digitale licenties voor Windows 10 als onderdeel van het abonnement. Om het abonnement te activeren, moet uw apparaat Windows 10 Pro (1703 of hoger) al hebben geactiveerd. Zie voor een volledige lijst met vereisten voor het activeren van een Windows 10-abonnement [Windows 10 abonnement activeringsvereisten](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).
+Microsoft 365 Business Premium, Microsoft 365 Education, Microsoft 365 en Enterprise bieden digitale licenties voor Windows 10 als onderdeel van het abonnement. Als u het abonnement wilt activeren, moet Windows 10 Pro (1703 of hoger) al op uw apparaat zijn geactiveerd. Zie De activeringsvereisten voor abonnementen voor Windows 10 voor het activeren van een volledige lijst met vereisten voor het activeren van een Windows [10-abonnement.](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)

@@ -1,9 +1,9 @@
 ---
-title: Domein wijzigen voor Office 365 groep
+title: Domein wijzigen voor Office 365-groep
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3454afe1e39ba7a0aad19a1d6494e56a40ff2e65
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706930"
 ---
 # <a name="change-the-domain-for-office-365-group"></a>Het domein voor Office 365-groep wijzigen
 
-Als u het domein voor een Office 365-groep wilt wijzigen tijdens het maken, volgt u de stappen in [Kies het domein dat moet worden gebruikt bij het maken van Office 365-groepen](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Als u het domein voor een Office 365-groep tijdens het maken wilt wijzigen, voert u de stappen uit in [Het domein kiezen dat u wilt gebruiken bij het maken van Office 365-groepen.](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)
   
-Nadat de Office 365-groep al is gemaakt, is er momenteel geen manier om het domein te wijzigen. De enige manier is het maken van een nieuwe Office 365 groep en verwijderen van de oude indien nodig (extra e-mailadressen kunnen worden toegevoegd via het [Beheercentrum van Exchange](https://outlook.office365.com/ecp.aspx)).
+Nadat de Office 365-groep al is gemaakt, is er momenteel geen manier om het domein te wijzigen. De enige manier is om een nieuwe Office 365-groep te maken en de oude indien nodig te verwijderen (extra e-mailadressen kunnen worden toegevoegd via het [Exchange Admin Center).](https://outlook.office365.com/ecp.aspx)

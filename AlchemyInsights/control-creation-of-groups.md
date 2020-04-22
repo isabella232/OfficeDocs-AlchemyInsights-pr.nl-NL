@@ -1,9 +1,9 @@
 ---
-title: Beheer groepen maken
+title: Beheer van het maken van groepen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516666"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705620"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Besturingselement Office 365-groepen maken
+# <a name="control-creation-of-office-365-groups"></a>Beheer van het maken van Office 365-groepen
 
-Standaard zijn alle gebruikers binnen het bedrijf kunnen groepen maken. Als dat nodig is, zijn dit wijzigen en toewijzen van het recht om groepen aan een aantal mensen binnen uw bedrijf te maken. Houd er rekening mee dat dit gevolgen voor het maken van groepen van een Office 365-service (zoals Outlook, Teams, Planner enzovoort heeft).
+Standaard kunnen alle gebruikers binnen het bedrijf groepen maken. Indien nodig u dit wijzigen en het recht toewijzen om groepen te maken aan een groep mensen binnen uw bedrijf. Houd er rekening mee dat dit gevolgen heeft voor het maken van groepen van een Microsoft 365-service (zoals Outlook, Teams, Planner enzovoort).
   
-Instructies: [beheren wie kan Office 365 groepen maken](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Instructies: [beheren wie Office 365-groepen kan maken](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

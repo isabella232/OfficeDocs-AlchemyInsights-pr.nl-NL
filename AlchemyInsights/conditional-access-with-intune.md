@@ -1,29 +1,29 @@
 ---
-title: Voorwaardelijke toegang met intune
+title: Voorwaardelijke toegang met Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36504989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706016"
 ---
-# <a name="conditional-access-with-intune"></a>Voorwaardelijke toegang met intune
+# <a name="conditional-access-with-intune"></a>Voorwaardelijke toegang met Intune
 
-Het gebruik van **voorwaardelijke toegang** met intune vereist 3 stappen: 
+Het gebruik **van voorwaardelijke toegang** met Intune vereist 3 stappen: 
   
-- Maak een **beleid voor voorwaardelijke toegang** waarin wordt gedefinieerd welke resources worden beveiligd en aan welke voorwaarden moet worden voldaan om toegang te krijgen tot deze resources. Een apparaat moet bijvoorbeeld compatibel zijn voordat u toegang tot zakelijke e-mail. 
+- Maak een **beleid voor voorwaardelijke toegang** waarin wordt gedefinieerd welke resources worden beschermd en aan welke voorwaarden moet worden voldaan om toegang te krijgen tot deze bronnen. Een apparaat moet bijvoorbeeld compatibel zijn voordat het bedrijfse-mail inziet. 
     
-- Maak een **nalevingsbeleid** om instellingen te definiëren waaraan moet worden voldaan voordat het apparaat als compatibel wordt beschouwd. Een apparaat moet bijvoorbeeld een pincode hebben van ten minste 6 cijfers voordat het als compatibel wordt beschouwd. 
+- Maak een **nalevingsbeleid** om instellingen te definiëren waaraan moet worden voldaan voordat het apparaat als compatibel wordt beschouwd. Een apparaat moet bijvoorbeeld een pin van ten minste 6 cijfers hebben voordat het als compatibel wordt beschouwd. 
     
-- Ervoor te zorgen dat zowel **nalevingsbeleid** en **beleid voor voorwaardelijke toegang** zijn gericht op de gewenste groepen gebruikers. Dit kan nodig zijn voor het maken van specifieke groepen gebruikers in azure Active Directory. 
+- Ervoor zorgen dat zowel **nalevingsbeleid** als **beleid voor voorwaardelijke toegang** zijn gericht op de gewenste groepen gebruikers. Hiervoor moeten mogelijk specifieke groepen gebruikers worden gemaakt in Azure Active Directory. 
     
 Lees meer:
   

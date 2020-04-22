@@ -1,9 +1,9 @@
 ---
-title: Organisatie-profiel wijzigen
+title: Organisatieprofiel wijzigen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: 00faf0bae2f1f3a5b032cdd796867da8e7351c48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f59aad4f971de7de55cc4a160c18b552527cd393
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519330"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706678"
 ---
-# <a name="change-organization-profile"></a>Organisatie-profiel wijzigen
+# <a name="change-organization-profile"></a>Organisatieprofiel wijzigen
 
-Meer in het midden van het beheer van de **instellingen van**uw bedrijfsnaam, adres en technische gegevens van contactpersoon wijzigen > [organisatie](https://go.microsoft.com/fwlink/p/?linkid=2067339) profielpagina.
+Wijzig uw bedrijfsnaam, adres, technische contactgegevens en meer in het beheercentrum op de[profielpagina Instellingenorganisatie.](https://go.microsoft.com/fwlink/p/?linkid=2067339) **Settings** > 
 
-Zorg ervoor dat u Vul alle vereiste velden zijn gemarkeerd met een *, zodat uw wijzigingen worden opgeslagen.
+Zorg ervoor dat u alle vereiste velden invult die zijn gemarkeerd met een * om het opslaan van uw wijzigingen in te schakelen.
 
-[Zie voor meer informatie op het adres of de wijzigingen in het factuuradres](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).
+[Zie meer informatie over adres- of factuuradreswijzigingen](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).

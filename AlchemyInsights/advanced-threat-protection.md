@@ -1,32 +1,32 @@
 ---
-title: Office 365 geavanceerde Bedreigingsbeveiliging
+title: Office 365 Advanced Threat Protection
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710330"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 geavanceerde Bedreigingsbeveiliging
+# <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
-- Veilige bijlagen, veilige koppelingen en anti-phishing zijn onderdeel van Office 365 Advanced Threat Protection (ATP). Enterprise E5, education A5 en Microsoft 365 Business omvatten ATP. Voor alle andere plannen is een ATP-abonnement voor extra kosten vereist.
+- Veilige bijlagen, veilige koppelingen en antiphishing maken deel uit van Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 en Microsoft 365 Business Premium omvatten ATP. Voor alle andere abonnementen is een ATP-abonnement vereist.
 
-- U moet de juiste licenties toewijzen om uw gebruikers te beschermen door Office 365 ATP. Zie [dit onderwerp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) voor instructies over het bulksgewijs toepassen van licenties voor uw gebruikers.
+- U moet de juiste licenties toewijzen om uw gebruikers te beschermen door Office 365 ATP. Zie [dit onderwerp](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) voor instructies over het bulktoepassen van licenties op uw gebruikers.
 
-- Office 365 globale beheerders of beveiligingsbeheerders kunnen toegang krijgen tot Office 365 ATP-functies in de Security _amp_ compliance Center bij **Threat managmeent** \> **beleid**.
+- Wereldwijde beheerders of beveiligingsbeheerders hebben toegang tot Office 365 ATP-functies in het Security & Compliance Center bij **Threat Managmeent** \> **Policy.**
 
-- Veilige bijlagen en beleid voor veilige koppelingen kunnen worden afgestemd op uw hele organisatie, specifieke domeinen of kleinere groepen gebruikers.
+- Veilige bijlagen en beleid voor veilige koppelingen kunnen worden scoped u uw hele organisatie, specifieke domeinen of kleinere groepen gebruikers.
 
-- Er is geen standaard ATP veilige bijlage beleid. U moet [een beleid maken](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) en dit toepassen op uw gebruikers.
+- Er is geen standaard beleid voor veilige bevestiging van ATP. U moet [een beleid maken](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) en toepassen op uw gebruikers.
 
-- Er is een standaard ATP Safe links-beleid dat van toepassing is op iedereen in uw organisatie. Als u dit beleid wilt bewerken of aangepaste beleidsregels wilt maken, raadpleegt u [dit onderwerp](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Er is een standaard BELEID voor veilige koppelingen van ATP dat van toepassing is op iedereen in uw organisatie. Zie [dit onderwerp](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)om dit beleid te bewerken of aangepaste beleidsregels te maken.
