@@ -1,5 +1,5 @@
 ---
-title: S/MIME in Outlook op het web
+title: S/MIME in de webversie van Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053220"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764867"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Codeer e-mail berichten in Outlook
+# <a name="encrypt-email-messages-in-outlook"></a>E-mailberichten versleutelen in Outlook
 
-Office 365-bericht versleuteling is gebaseerd op Microsoft Azure Rights Management (Azure RMS), dat deel uitmaakt van Azure Information Protection. Als uw abonnement Azure Rights Management of Azure Information Protection bevat, **hoeft u geen acties uit te voeren om de Rights Management-service handmatig in te schakelen of te activeren** .
+Microsoft 365-berichtversleuteling is gebouwd op Microsoft Azure Rights Management (Azure RMS), dat deel uitmaakt van Azure Information Protection. Als uw abonnement Azure Rights Management of Azure Information Protection bevat, hoeft u geen acties uit te voeren om de Rights Management Service **handmatig in te schakelen of te activeren.**
 
-Op basis van feedback van klanten, zullen we niet langer inschakelen Exchange mail flow regels voor het automatisch coderen van uitgaande e-mail met een bepaald type gevoelige informatie in uw Tenant standaard. In plaats daarvan geven we gedetailleerde instructies over hoe je dat zelf doen. Zie [dit artikel](https://aka.ms/OmeEtr)voor meer informatie over het maken van een transportregel voor het versleutelen van gevoelige informatie.
+Op basis van feedback van klanten kunnen de Exchange-mailstroomregels niet langer automatisch uitgaande e-mail versleutelen die standaard bepaalde soorten gevoelige informatie in uw tenant bevat. In plaats daarvan geven we gedetailleerde instructies over hoe jullie dat zelf kunnen doen. Zie [dit artikel](https://aka.ms/OmeEtr)voor meer informatie over het maken van een transportregel om gevoelige informatie te versleutelen.
 
-- Als u Outlook op het web (voorheen **OWA**): wanneer u een e-mail bericht opstelt, klikt u op **beveiligen** in OWA. Dit is van toepassing op de machtiging ' niet doorsturen '. Klik op **machtiging wijzigen** en kies **coderen** om het bericht alleen te versleutelen.
+- Als u Outlook on the Web gebruikt (voorheen **OWA):** Klik bij het opstellen van een e-mailbericht op **Beveiligen** in OWA. Dit geldt voor "Niet doorsturen" toestemming. Klik **op Machtigingen wijzigen** en kies **Versleutelen** om het bericht alleen te versleutelen.
 
-- Als u **Outlook-client**gebruikt: als u een gecodeerd bericht wilt verzenden vanuit Outlook 2013 of 2016 of Outlook 2016 voor Mac, selecteert u **Opties** > **machtigingen**en selecteert u vervolgens de gewenste beveiligingsoptie.
+- Als u **Outlook-client gebruikt:** Als u outlook-client wilt gebruiken: als u een versleuteld bericht wilt verzenden vanuit Outlook 2013 of 2016 of Outlook 2016 voor Mac, selecteert u **Optiesmachtigingen** > **Permissions**en selecteert u de gewenste beveiligingsoptie.
 
-- Als u **alle e-mail** die is verzonden naar bepaalde geadresseerden of externe partnerorganisaties automatisch wilt coderen, moet u een regel voor het transport van e-mail berichten in het Beheercentrum van Exchange maken. Gedetailleerde instructies zijn beschikbaar in [dit ondersteuningsartikel](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Als u **alle e-mail die** naar bepaalde ontvangers of externe partnerorganisaties wordt verzonden, automatisch wilt versleutelen, moet u een regel voor het transport van e-mailstromen maken in het Exchange-beheercentrum. Gedetailleerde instructies zijn opgenomen in [dit ondersteuningsartikel](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

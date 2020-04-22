@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 8787dbcbb802ea55498bc8a737e69bb54b6d8ff6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 75ae4368f0b63f375068dcd9f759527bfde689f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049692"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763453"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Ontbrekende of verwijderde siteverzamelingen herstellen
 
@@ -23,10 +23,10 @@ Zie de volgende artikelen voor informatie over het herstellen van ontbrekende of
 
 [Verwijderde sites herstellen](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Herstellen met behulp van SPO PowerShell-module](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[Herstellen met spo PowerShell-module](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Als u de site niet vinden, u [het controlelogboek zoeken in het Office 365 Security &amp; compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+Als u de site niet vinden, u [het &amp; controlelogboek zoeken in het Microsoft 365 Security Compliance Center.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
 
-**Opmerking:** "Moderne" team sites zijn niet zichtbaar in de **klassieke** SharePoint admin UI. U de lijst met ' moderne ' sites openen vanuit het [nieuwe SharePoint-Beheercentrum](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Let op:** 'Moderne' teamsites zijn niet zichtbaar in de **gebruikersinterface van de Klassieke** SharePoint-beheerder. U hebt toegang tot de lijst met 'moderne' sites vanuit het [Nieuwe Sharepoint-beheercentrum.](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)
 
 

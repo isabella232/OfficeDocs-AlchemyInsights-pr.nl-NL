@@ -1,28 +1,28 @@
 ---
-title: Omgaan met spam en ongewenste e-mail in Outlook op het web
+title: Omgaan met spam en ongewenste e-mail in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555588"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768252"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-mailberichten markeren als ongewenste e-mail in Outlook op het web
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-mailberichten markeren als ongewenste e-mailberichten in de webversie van Outlook
 
-Als u een bericht als ongewenste e-mail of spam, selecteert u het bericht in de berichtenlijst en selecteert u **ongewenste** > **ongewenste**.
+Als u een bericht wilt markeren als ongewenste e-mail of spam, selecteert u het bericht in uw berichtenlijst en selecteert u **Ongewenste e-mail** > **Junk**.
 
-Alle berichten van een specifiek e-mailadres wordt geblokkeerd, selecteert u het bericht of de berichten in de berichtenlijst en selecteer vervolgens de **ongewenste** > **blokkeren**.
+Als u alle berichten van een specifiek e-mailadres wilt blokkeren, selecteert u het bericht of de berichten in uw berichtenlijst en selecteert u **Ongewenste** > **blokkering**.
 
-Als u per ongeluk een bericht als ongewenste e-mail markeert, selecteert u het bericht in de map Ongewenste E-mail en selecteer **niet-ongewenste e-mail** > **niet-ongewenste e-mail**. (*Opmerking:* Items in de map Ongewenste E-mail worden verwijderd na 30 dagen.)
+Als u per ongeluk een bericht als ongewenste bericht markeert, selecteert u het bericht in de map Ongewenste e-mail en selecteert u **Geen ongewenste e-mail.** > **Not junk** (*Opmerking:* items in de map Ongewenste e-mail worden na 30 dagen verwijderd.)
 
-Meer informatie over het [te houden spam en ongewenste e-mail van Outlook op het web inbox.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Meer informatie over hoe [u spam en ongewenste e-mail uit uw postvak in](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d) het web houden.

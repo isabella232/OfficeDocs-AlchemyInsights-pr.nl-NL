@@ -1,9 +1,9 @@
 ---
-title: Oplossingen voor fout 30016 4
+title: Oplossingen voor fout 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757016"
 ---
-# <a name="solutions-for-error-30016-4"></a>Oplossingen voor fout 30016 4
+# <a name="solutions-for-error-30016-4"></a>Oplossingen voor fout 30016-4
 
-Wanneer u probeert Office 365 ProPlus verwijderen van een computer en u het foutbericht **er iets verkeerd 30016-4 is gegaan krijgt**, betekent dit dat het station **% temp %** verwijst naar een ander station dan **% ProgramFiles %**.
+Wanneer u Microsoft 365 Apps voor onderneming van een computer probeert te verwijderen en u de foutmelding krijgt, **ging er iets mis 30016-4**, betekent dit dat het station **%temp%** is toegewezen aan een ander station dan **%ProgramFiles%.**
   
-Als u wilt oplossen, downloadt en installeert de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+De [ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) downloaden en installeren
   
-1. Wanneer het wordt geopend, selecteert u de versie die u wilt verwijderen en selecteer **volgende**uit het **verwijderen van Office-producten** .
+1. Wanneer **office-producten** worden geopend, selecteert u de versie die u wilt verwijderen en selecteert u **Volgende**.
 
-2. Verder gaan door schermen en start de computer desgevraagd opnieuw op.
+2. Volg de aanwijzingen op het scherm en start de computer opnieuw op wanneer daarom wordt gevraagd.
 
-    Na het opnieuw opstarten, ondersteuning en herstel-assistent automatisch opnieuw geopend om het verwijderingsproces te voltooien.
+    Na het opnieuw opstarten wordt de ondersteunings- en herstelassistent automatisch opnieuw geopend om het verwijderen te voltooien.
 
-3. Volg de resterende prompts en [opnieuw installeren van Office](https://portal.office.com/OLS/MySoftware.aspx) of de Office-assistent sluiten.
+3. Volg de resterende aanwijzingen en [installeer Office opnieuw](https://portal.office.com/OLS/MySoftware.aspx) of sluit de assistent.

@@ -1,9 +1,9 @@
 ---
-title: Minecraft Edition met Office 365 opleidingen voor vrije
+title: Minecraft Edition met Gratis Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389643"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762060"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition met Office 365 opleidingen voor vrije
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition met Gratis Office 365 Education
 
-[Minecraft Edition met Office 365 opleidingen voor vrije](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition met Gratis Office 365 Education](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: Education Edition** Windows 10 vereist
+- **Minecraft: Education Edition** vereist Windows 10
 
-- Proeven of abonnementen van **Minecraft: Education Edition** worden aangeboden aan huurders onderwijs die worden beheerd door Azure Active Directory (AD Azure)
+- Proefversies of abonnementen van **Minecraft: Education Edition** worden aangeboden aan onderwijshuurders die worden beheerd door Azure Active Directory (Azure AD)
 
-  - Als uw school niet over een huurder Azure AD, de [IT-beheerder kan instellen](https://docs.microsoft.com/education/windows/school-get-minecraft) als onderdeel van het proces voor het ophalen van **Minecraft: Education Edition**.
+  - Als uw school geen Azure AD-tenant heeft, kan de [IT-beheerder er een instellen](https://docs.microsoft.com/education/windows/school-get-minecraft) als onderdeel van het proces om **Minecraft: Education Edition**te krijgen.
 
-  - Office 365 onderwijs, waaronder online versies van Office apps plus 1 TB online opslag is gratis voor docenten en studenten. [Meld uw school voor onderwijs voor Office 365](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education, dat online versies van Office-apps plus 1 TB online opslag bevat, is gratis voor docenten en studenten. [Meld u aan voor uw school voor Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
-  - Als uw school een abonnement op Office 365 Education heeft, bevat het een gratis abonnement op Azure AD. [Uw gratis advertentie Azure register abonnement](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Als uw school een Office 365 Education-abonnement heeft, bevat dit een gratis Azure AD-abonnement. [Registreer uw gratis Azure AD-abonnement](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Weten hoe docenten kunnen ophalen en distribueren van Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Meer informatie over hoe leerkrachten Minecraft: Education Edition kunnen krijgen en distribueren.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[Weten hoe IT-beheerders kunnen ophalen en distribueren Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), en het beheren van machtigingen voor Minecraft.
+[Ontdek hoe IT-beheerders Minecraft: Education Edition kunnen ophalen en distribueren](https://docs.microsoft.com/education/windows/school-get-minecraft)en hoe u machtigingen voor Minecraft beheren.

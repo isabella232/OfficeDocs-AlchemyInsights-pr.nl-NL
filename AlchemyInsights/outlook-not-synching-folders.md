@@ -1,9 +1,9 @@
 ---
-title: Outlook-mappen niet synchroniseren
+title: Outlook synchroniseert geen mappen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768684"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook-mappen niet synchroniseren
+# <a name="outlook-not-synching-folders"></a>Outlook synchroniseert geen mappen
 
-Als Outlook is niet mappen synchroniseren zoals verwacht, zijn er enkele dingen die u proberen kunt te herstellen.
+Als Outlook mappen niet synchroniseert zoals verwacht, u een aantal dingen proberen om mappen op te lossen.
 
-1. Verminder het aantal mappen in de primaire of gedeelde postbus. [Zie Outlook prestatieproblemen wanneer er te veel items of mappen in een OST in cache-modus of PST-bestandsmap](https://support.microsoft.com/help/2768656).
-2. Van alle gedeelde mappen in de cache uit te schakelen.
-3. De configuratie van de Exchange-postbus secundaire omzetten in een tweede Exchange-account in uw profiel.
+1. Verminder het aantal mappen in het primaire of gedeelde postvak. [Zie prestatieproblemen in Outlook wanneer er te veel items of mappen in de modus Cached (pst- of PST-bestandsmap) zijn.](https://support.microsoft.com/help/2768656)
+2. Caching van alle gedeelde mappen uitschakelen.
+3. Wijzig de configuratie van het secundaire Exchange-postvak in een tweede Exchange-account in uw profiel.
 
-Voor meer informatie raadpleegt u [problemen met synchronisatie en prestaties wanneer u met een secundaire postbus in Outlook-mappen werkt](https://support.microsoft.com/help/3115602).
+Zie [Prestatie- en synchronisatieproblemen wanneer u met mappen in een secundair postvak in Outlook werkt](https://support.microsoft.com/help/3115602)voor meer informatie.

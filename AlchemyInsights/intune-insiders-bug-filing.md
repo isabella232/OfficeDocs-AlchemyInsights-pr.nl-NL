@@ -1,9 +1,9 @@
 ---
-title: InTune Insider Bug-indiening
+title: Intune Insider bug filing
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663545"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765948"
 ---
-# <a name="intune-insider-bug-filing"></a>InTune Insider Bug-indiening
+# <a name="intune-insider-bug-filing"></a>Intune Insider bug filing
 
-Bedankt voor uw interesse in het intune insiders programma. Als u al onboarded bent voor het intune insiders-programma en een ondersteuningsverzoek moet indienen, gaat u als:
+Bedankt voor uw interesse in het Intune Insiders programma. Als u al bent aangesloten voor het Intune Insiders-programma en u een ondersteuningsverzoek moet indienen, moet u het als:
 
 1. Beschrijf uw probleem in het bovenstaande veld.
-2. Maak een nieuwe serviceaanvraag met behulp van de onderstaande opties.
+2. Maak een nieuwe serviceaanvraag met de onderstaande opties.
 
-Een ondersteuningstechnicus van intune neemt contact met u op.
+Een Intune support engineer neemt contact met je op.
 
-Als u niet in het intune insiders programma bent, dank u voor uw interesse. We werven momenteel geen nieuwe deelnemers aan.
+Als je niet in het Intune Insiders programma zit, bedankt voor je interesse. We werven momenteel geen nieuwe deelnemers.

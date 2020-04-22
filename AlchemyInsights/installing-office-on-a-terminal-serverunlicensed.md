@@ -1,5 +1,5 @@
 ---
-title: Office installeren op een Terminal Server-zonder licentie
+title: Kantoor installeren op een terminalserver - zonder licentie
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,47 +10,47 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37205404"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763212"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Office installeren op een Terminal Server
+# <a name="installing-office-on-a-terminal-server"></a>Office installeren op een terminalserver
 
-Voor het implementeren van Office 365 ProPlus op een Windows-Server met behulp van extern bureaublad-services (RDS), voorheen genaamd Terminal Services:
+Voor het implementeren van Microsoft 365 Apps for enterprise op een Windows Server met Remote Desktop Services (RDS), voorheen Terminal Services:
   
-- U moet beschikken over een Office 365-abonnement met Office 365 ProPlus, zoals Office 365 Enterprise E3 of Enterprise E5. De Office 365 Business en Office 365 Business Premium-abonnementen bevatten geen Office 365 ProPlus.
+- U moet een Microsoft 365-abonnement hebben dat Microsoft 365 Apps voor bedrijven bevat, zoals Office 365 Enterprise E3 of Enterprise E5. De Microsoft 365 Apps for Business en Microsoft 365 Apps for business Premium-abonnementen bevatten geen Microsoft 365 Apps voor bedrijven.
 
-- U moet de [Activering van gedeelde computers](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)inschakelen.
+- U moet [de activering van gedeelde computers](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)inschakelen.
 
-Als u wilt installeren van Office 365 ProPlus op RDS van de Microsoft 365 Admin Center, ***die gebruikmaakt van standaardinstallatie-instellingen***, gebruikt u de volgende stappen uit.
+Als u Microsoft 365 Apps voor bedrijven op RDS wilt installeren vanuit het Microsoft 365-beheercentrum, ***dat standaardinstallatie-instellingen gebruikt,*** gebruikt u de volgende stappen.
 
 > [!TIP]
-> U ook de [Microsoft-ondersteunings-en Herstelassistent](https://aka.ms/SaRA_OfficeSCA_M365Portal) downloaden en uitvoeren om Office 365 ProPlus te installeren in de activerings modus voor gedeelde computers.
+> U de [Microsoft Support- en Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) ook downloaden en uitvoeren om Microsoft 365 Apps voor bedrijven te installeren in de activeringsmodus voor gedeelde computers.
   
-1. Controleer welk Office 365-abonnement u hebt. [Leer hoe](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Controleer welk Microsoft 365-abonnement u hebt. [Meer informatie over hoe](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Schakel indien nodig naar een ander Office 365-abonnement. [Leer hoe](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Schakel indien nodig over naar een ander Microsoft 365-abonnement. [Meer informatie over hoe](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Als Office al is geïnstalleerd op de RDS-server met behulp van een andere Office 365-abonnementen, verwijdert u deze. Bijvoorbeeld, door te gaan naar het configuratie \> scherm een programma verwijderen. Verwijder met [Microsoft Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) als u problemen ondervindt.
+3. Als Office al is geïnstalleerd op de RDS-server met andere Microsoft 365-abonnementen, verwijdert u deze. Bijvoorbeeld door naar Configuratiescherm \> te gaan Een programma verwijderen. Verwijder met [Microsoft Support en Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) als u problemen ondervindt.
 
-4. Meld u op de RDS-server aan bij het Microsoft 365 Admin Center met uw beheerdersaccount en [Installeer Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Meld u op de RDS-server aan bij het Microsoft 365-beheercentrum met uw beheerdersaccount en [installeer Microsoft 365 Apps voor bedrijven.](https://portal.office.com/OLS/MySoftware.aspx)
 
-5. Nadat Office is geïnstalleerd, ***niet openen of aanmelden*** bij een Office-toepassingen.
+5. Nadat Office is geïnstalleerd, ***opent of meldt u zich niet*** aan bij Office-toepassingen.
 
-6. Schakel op de RDS-server de activering van gedeelde computers in door het register te bewerken door de volgende stappen uit te voeren:
+6. Schakel op de RDS-server de activering van gedeelde computers in door het register te bewerken door de volgende stappen te volgen:
 
-1. Klik met de rechtermuisknop op de Windows-knop in de linkerbenedenhoek van uw scherm en selecteer uitvoeren. Typ **regedit**in het vak openen en selecteer vervolgens OK.
+1. Klik met de rechtermuisknop op de Windows-knop in de linkerbenedenhoek van het scherm en selecteer Uitvoeren. Typ **regedit**in het vak Openen en selecteer OK.
 
-2. Selecteer Ja wanneer u wordt gevraagd de Register-editor toe te staan wijzigingen aan te brengen in uw apparaat.
+2. Selecteer Ja wanneer u wordt gevraagd om de registereditor toe te staan wijzigingen aan te brengen in uw apparaat.
 
-3. In de Register-editor, voeg een tekenreekswaarde van **Sharedcomputerlicensing** met een instelling van 1 onder HKEY_LOCAL_MACHINE \Software\microsoft \Office\ClickToRun\Configuration.
+3. Voeg in de registereditor een tekenreekswaarde van **SharedComputerLicensing** toe met een instelling van 1 onder HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Meld u op de RDS-server aan ***als eindgebruiker*** en [Controleer of de activering van gedeelde computers is ingeschakeld voor Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Meld u op de ***RDS-server aan als eindgebruiker*** en [controleer of de activering van gedeelde computers is ingeschakeld voor Microsoft 365 Apps for Enterprise.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
 
-Zie voor meer informatie over vereisten, installatie-instructies en richtlijnen voor aangepaste installaties met behulp van de Office Deployment Tool, [office 365 ProPlus implementeren met behulp van extern bureaublad-services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Zie [Microsoft 365 Apps voor bedrijven implementeren met Remote Desktop Services voor](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)meer informatie over vereisten, installatie-instructies en richtlijnen voor aangepaste installaties met behulp van het Office Deployment Tool.
   
-Als u fouten met betrekking tot de activering van gedeelde computers wilt oplossen, raadpleegt u [problemen met gedeelde computer activering voor Office 365 ProPlus oplossen](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Zie [Problemen met de activering van gedeelde computers oplossen voor microsoft 365 Apps voor bedrijven](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)om fouten in verband met de activering van gedeelde computers op te lossen.
   

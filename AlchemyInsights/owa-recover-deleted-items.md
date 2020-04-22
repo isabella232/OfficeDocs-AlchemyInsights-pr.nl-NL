@@ -1,9 +1,9 @@
 ---
-title: Herstellen van verwijderde e-mailberichten in Outlook op het web
+title: Verwijderde e-mail herstellen in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/9/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 730d0910302357ded8125e861a7827da204613c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765660"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Herstellen van verwijderde e-mailberichten in Outlook op het web
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Verwijderde e-mail herstellen in de webversie van Outlook
 
-1. Selecteer in het linkerdeelvenster de map Verwijderde Items of in de map Ongewenste E-mail.
+1. Selecteer in het linkerdeelvenster de map Verwijderde items of de map Ongewenste e-mail.
 
 2. Voer een van de volgende handelingen uit:
 
-    - Map Verwijderde Items: Selecteer het bericht dat u wilt herstellen en kies **herstellen**. Als het bericht niet in de map Verwijderde Items, selecteert u **vanuit deze map Verwijderde items herstellen** op de bovenkant van de lijst met berichten, selecteert u het bericht dat u wilt herstellen en **terugzetten**selecteren.
+    - Map Verwijderde items: selecteer het bericht dat u wilt herstellen en selecteer **Herstellen**. Als het bericht zich niet in de map Verwijderde items bevindt, selecteert u **Items herstellen die uit deze map** zijn verwijderd boven aan de berichtenlijst, selecteert u het bericht dat u wilt herstellen en selecteert u **Herstellen**.
 
-    - Map Ongewenste E-mail: Selecteer het bericht dat u wilt herstellen en **niet-ongewenste e-mail**.
+    - Map Ongewenste e-mail: selecteer het bericht dat u wilt herstellen en selecteer **Geen ongewenste e-mail**.
 
-Voor meer informatie, Zie [herstellen verwijderde e-mailberichten in Outlook op het web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Zie [Verwijderde e-mailberichten herstellen in de webversie van Outlook voor](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)meer informatie.

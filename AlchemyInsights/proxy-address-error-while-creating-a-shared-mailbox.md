@@ -1,8 +1,8 @@
 ---
-title: Proxy-adres fout tijdens het maken van een gedeelde postbus
+title: Proxyadresfout bij het maken van een gedeeld postvak
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: cd3236c71868c2b625de407a9e4f160a8d47ddd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a02c57da97e76cec1cd3bdcd84b92c73530bdfa1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554183"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767892"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Proxy-adres fout tijdens het maken van een gedeelde postbus
+# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Proxyadresfout bij het maken van een gedeeld postvak
 
-Als u probeert een gedeeld postvak maken en dit foutbericht 'De proxyadres 'SMTP:alias@domain.com' is al in gebruik...', wordt het e-mailadres dat u hebt gekozen wordt al gebruikt door een ander postvak in uw organisatie.
+Als u een gedeeld postvak hebt geprobeerd te maken en deze foutmelding 'Het proxyadres 'SMTP:alias@domain.com' hebt ontvangen, wordt al gebruikt...", wordt het gekozen e-mailadres al door een ander postvak in uw organisatie overgenomen.
   
-U moet de gebruiker, groep of gedeelde postbus waarvoor dit e-mailadres te vinden en verwijderen of het e-mailadres wijzigen. Vervolgens kunt u een gedeeld postvak maken met de vrijgegeven e-mailadres. Gebruik de zoekfunctie op de startpagina te vinden.
+U moet het gebruiker, groep of gedeeld postvak met dit e-mailadres vinden en het e-mailadres verwijderen of wijzigen. Vervolgens u een gedeeld postvak maken met het vrijgekomen e-mailadres. Gebruik Zoeken op de startpagina om deze te vinden.
   
-Als u niet dat de bestaande e-mailadres te verwijderen wilt, kiest u een nieuw e-mailadres voor uw gedeelde postbus.
+Als u het bestaande e-mailadres niet wilt verwijderen, kiest u een nieuw e-mailadres voor uw gedeelde postvak.
   

@@ -1,5 +1,5 @@
 ---
-title: 607 probleemoplosser voor vrije/bezette tijden
+title: 607 Gratis/drukke probleemoplosser
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664855"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765047"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problemen met agenda-informatie omtrent vrije/bezette tijden weergeven
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problemen met het bekijken van agendavrije/drukke informatie
 
-Gebruik [Ondersteunings- en herstelassistent voor Office 365](https://diagnostics.office.com/) als u geen beschikbaarheidsinfo in andere agenda’s kunt zien of als anderen geen beschikbaarheidsinfo in uw agenda kunnen zien.
+Als u agendavrije/drukke gegevens niet zien in andere agenda's of als andere mensen geen vrije/drukke informatie in uw agenda kunnen zien, gebruikt u de [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/).
   

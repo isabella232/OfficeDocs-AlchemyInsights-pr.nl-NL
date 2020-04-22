@@ -2,35 +2,35 @@
 title: Prestatieproblemen-SharePoint of OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 0b55008cc83b4302801150239926439d8d198ae2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049584"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763140"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Interne server fout bij het navigeren naar SharePoint-of OneDrive-sites
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Interne serverfout bij het navigeren naar Sharepoint- of OneDrive-sites
 
-Gebruikers kunnen een interne server fout 500 ontvangen wanneer u probeert te navigeren naar SharePoint-of OneDrive-sites. 
+Gebruikers kunnen een fout van 500 interne servers ontvangen wanneer ze naar SharePoint- of OneDrive-sites proberen te navigeren. 
 
-Probeer de browser cache te wissen voordat u naar de site navigeert.
+Probeer de cache van de browser te wissen voordat u naar de site navigeert.
 
 
-1. Ga in de Microsoft Edge-browser naar meer... > instellingen
+1. Ga in de Microsoft Edge-browser naar Meer...> Instellingen
 
-2. Selecteer onder browsegegevens wissen **de optie kiezen wat u wilt wissen**
+2. Selecteer onder Browsegegevens wissen de optie **Kiezen wat u wilt wissen**
 
-3. Schakel het selectievakje Cookies en opgeslagen website gegevens in en selecteer **wissen**.
+3. Schakel het selectievakje Cookies en opgeslagen websitegegevens in en schakel **Uit .**
 
-Opmerking: deze stappen kunnen afwijken bij het gebruik van andere browsers zoals Firefox of Chrome.
+Opmerking: Deze stappen kunnen verschillen bij het gebruik van andere browsers, zoals Firefox of Chrome.
 
-Als het probleem hiermee niet is opgelost, u controleren of er actief onderhoud plaatsvindt op uw Tenant door te navigeren naar het [berichtencentrum](https://portal.office.com/adminportal/home#/MessageCenter).
+Als dit het probleem niet oplost, u controleren of er actief onderhoud plaatsvindt op uw tenant door naar het [Berichtencentrum](https://portal.office.com/adminportal/home#/MessageCenter)te navigeren.
 
-Zorg er ten slotte voor dat u de pagina [service status](https://portal.office.com/adminportal/home#/servicehealth) bezoekt om te controleren op eventuele adviezen/incidenten die zich kunnen voordoen.
+Tot slot, zorg ervoor dat u de [pagina Service status](https://portal.office.com/adminportal/home#/servicehealth) bezoekt om te controleren op eventuele adviezen / incidenten die zich kunnen voordoen.
 

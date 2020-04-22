@@ -1,9 +1,9 @@
 ---
-title: Oplossingen voor 30034 4 fout
+title: Oplossingen voor fout 30034-4
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: c911c84b61363bf11d31c9e6d405e4324f1c0c92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e04f8a5028e3d174e6cb469a0f79cea19b4b20e7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501794"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756914"
 ---
-# <a name="solutions-for-error-30034-4"></a>Oplossingen voor 30034 4 fout
+# <a name="solutions-for-error-30034-4"></a>Oplossingen voor fout 30034-4
 
-Probeer de volgende oplossingen om op te lossen fout [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Probeer deze oplossingen om fout [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)op te lossen:
   
-- Start de computer opnieuw en probeert [u Office installeert](https://portal.office.com/OLS/MySoftware.aspx).
+- Start de computer opnieuw op en probeer [Office te installeren.](https://portal.office.com/OLS/MySoftware.aspx)
 
-- Download en installeer de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Download en installeer de [Ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Wanneer het wordt geopend, selecteert u de versie die u wilt verwijderen en selecteer **volgende**uit het **verwijderen van Office-producten** .
+1. Wanneer **office-producten** worden geopend, selecteert u de versie die u wilt verwijderen en selecteert u **Volgende**.
 
-2. Verder gaan door schermen en start de computer desgevraagd opnieuw op.
+2. Volg de aanwijzingen op het scherm en start de computer opnieuw op wanneer daarom wordt gevraagd.
 
-    Na het opnieuw opstarten, ondersteuning en herstel-assistent automatisch opnieuw geopend om het verwijderingsproces te voltooien.
+    Na het opnieuw opstarten wordt de ondersteunings- en herstelassistent automatisch opnieuw geopend om het verwijderen te voltooien.
 
-3. Volg de resterende prompts en [opnieuw installeren van Office](https://portal.office.com/OLS/MySoftware.aspx) of de Office-assistent sluiten.
+3. Volg de resterende aanwijzingen en [installeer Office opnieuw](https://portal.office.com/OLS/MySoftware.aspx) of sluit de assistent.
