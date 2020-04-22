@@ -12,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687613"
 ---
-# <a name="office-365-alert-policies"></a>Waarschuwings beleid voor Office 365
+# <a name="alert-policies"></a>Waarschuwingsbeleid
 
-De Office 365 Security & compliance Center biedt [standaard waarschuwings beleid](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) dat waarschuwingen voor organisaties met een Office 365 Enterprise of Office 365 US Government E1/G1, E3/G3 of E5/G5-abonnement activeert. Daarom kunnen beheerders een waarschuwing e-mail bericht verzonden door Office365Alerts@microsoft.com met een onderwerpregel zoals ' een waarschuwing met een lage prioriteit: *naam van waarschuwings beleid*' ontvangen. Waarschuwingsmeldingen worden verzonden wanneer waarschuwingen worden geactiveerd voor veelvoorkomende activiteiten, zoals wanneer gebruikers:
+Het Microsoft 365 security & Compliance Center biedt [standaardwaarschuwingsbeleid](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) dat waarschuwingen activeert voor organisaties met een Office 365 Enterprise- of Office 365-abonnement van de Amerikaanse overheid E1/G3, E3/G3 of E5/G5. Daarom kunnen beheerders een melding van een waarschuwingsbericht ontvangen dat door Office365Alerts@microsoft.com met een onderwerpregel wordt verzonden, zoals 'Een waarschuwing met een lage ernst: *naam van het waarschuwingsbeleid'.* Waarschuwingsmeldingen worden verzonden wanneer waarschuwingen worden geactiveerd voor veelvoorkomende activiteiten, zoals wanneer gebruikers:
 
-- Regels voor Postvak in maken die e-mail doorsturen.
-- Machtigingen voor hun postbus toewijzen.
-- Deel of verwijder een groot aantal bestanden in SharePoint-bestandsdeling.
-- EDiscovery-zoekopdrachten maken en resultaten exporteren.
+- Maak regels voor postvak IN die e-mail doorsturen.
+- Wijs machtigingen toe aan hun postvak.
+- Een groot aantal bestanden in SharePoint-bestanden delen of verwijderen.
+- EDiscovery-zoekopdrachten maken en zoekresultaten exporteren.
 
-Een waarschuwing bekijken en hierop reageren:
+Ga als een waarschuwingsbericht met een waarschuwing:
 
-1. Ga naar de [Security & compliance Center](https://protection.office.com) en meld u aan.
-2. Klik op **waarschuwingen** > waarschuwingen**weergeven**.
-3. Klik op een waarschuwing om een flyout-pagina met informatie over de waarschuwing weer te geven.
+1. Ga naar het [Security & Compliance center](https://protection.office.com) en meld je aan.
+2. Klik **op Waarschuwingen** > **Weergave waarschuwingen**.
+3. Klik op een waarschuwing om een flyout-pagina weer te geven met informatie over de waarschuwing.
 
-U actie ondernemen op een waarschuwing, zoals het [verwijderen van een regel voor verdachte inbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Of u gewoon sluiten de waarschuwing door te klikken op **oplossen** op de waarschuwing flyout pagina.
+U actie ondernemen bij een waarschuwing, zoals [het verwijderen van een verdachte inboxregel.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) U de waarschuwing ook gewoon sluiten door op De flyoutpagina **voor waarschuwingen** op te klikken.
 
-Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies)voor meer informatie over het configureren en beheren van waarschuwings beleid.
+Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies)voor meer informatie over het configureren en beheren van waarschuwingsbeleid.
 
-**Belangrijk**: waarschuwing e-mail meldingen van Microsoft zal u nooit vragen om het volgende te doen:
+**Belangrijk:** Waarschuwingse-mailmeldingen van Microsoft zullen u nooit vragen om het volgende te doen:
 
-- Geef een wachtwoord op
-- De beveiligingsgegevens van uw account controleren
-- Uzelf opnieuw authenticeren
+- Een wachtwoord opgeven
+- De beveiligingsgegevens van uw account verifiëren
+- Jezelf opnieuw authenticeren
 
-Als u een e-mail bericht als deze ontvangt, het is niet verzonden door Microsoft en moet worden beschouwd als een phishing scam. Als dat gebeurt, meld [het dan aan Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Als u een e-mailbericht als dit ontvangt, is het niet verzonden door Microsoft en moet het worden beschouwd als een phishing-scam. Als dat gebeurt, meld het dan [aan Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

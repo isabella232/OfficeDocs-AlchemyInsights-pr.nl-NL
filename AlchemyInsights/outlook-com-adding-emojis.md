@@ -1,9 +1,9 @@
 ---
-title: 8000045 toevoegen emojis
+title: 8000045 Emoji's toevoegen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1402"
 - "8000045"
-ms.openlocfilehash: 92de9a03b8fbb1a0d8a27ba1479e2b1dd5454b88
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fc30ba6d5e582ef2bab9a3484177559c8044b2c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538051"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681927"
 ---
-# <a name="adding-emojis-to-email-messages"></a>Emojis toevoegen aan e-mailberichten
+# <a name="adding-emojis-to-email-messages"></a>Emoji's toevoegen aan e-mailberichten
 
-U kunt emojis invoegen in uw berichten.
+Je emoji's in voegen in je berichten.
 
-1. Een bestaand e-mailbericht beantwoorden of **Nieuw bericht**selecteren.
-1. Klik op de knop **Invoegen emojis** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> onderaan in het venster opstellen om het deelvenster expressies te openen.
-1. Zoeken naar en kies de emoji- of GIF-bestand dat u wilt invoegen.
+1. Een bestaande e-mail beantwoorden of **selecteer Nieuw bericht**.
+1. De knop **Emoji's invoegen** selecteren <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> onder aan het componerenvenster om het deelvenster Expressies te openen.
+1. Zoek naar en kies de emoji of GIF die u wilt invoegen.

@@ -1,9 +1,9 @@
 ---
-title: Fout AttributeValueMustBeUnique
+title: FoutattribuutwaardeMustBeUnique
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fa1fdb35f1af250bc98aa61c0e5111f1f1b8aac4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36526980"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703169"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Fout: AttributeValueMustBeUnique
 
-De meest voorkomende reden voor de fout AttributeValueMustBeUnique is twee objecten met verschillende SourceAnchor (immutableId) dezelfde waarde voor de kenmerken ProxyAddresses en/of UserPrincipalName hebben. U de AttributeValueMustBeUnique-fout oplossen:
+De meest voorkomende reden voor de fout AttributeValueMustBeUnieke is twee objecten met verschillende SourceAnchor (immutableId) hebben dezelfde waarde voor de kenmerken ProxyAddresses en/of UserPrincipalName. Ga als volgende over de fout AttributeValueMustBeUnique te fixeren:
   
-1. Identificeer de gedupliceerde proxyAddresses, userPrincipalName of een andere kenmerkwaarde die de fout veroorzaakt. Bepaal ook welke twee (of meer) objecten bij het conflict betrokken zijn. Het rapport dat wordt gegenereerd door Azure AD Connect Health voor synchronisatie kan u helpen de twee objecten te identificeren.
+1. Identificeer de gedupliceerde proxyAdressen, userPrincipalName of andere kenmerkwaarde die de fout veroorzaakt. Bepaal ook welke twee (of meer) objecten betrokken zijn bij het conflict. Met het rapport dat is gegenereerd door Azure AD Connect Health for sync, u de twee objecten identificeren.
     
-2. Bepaal welk object moet blijven de gedupliceerde waarde en welk object moet niet.
+2. Bepaal welk object de gedupliceerde waarde moet blijven hebben en welk object dat niet mag.
     
-3. Verwijder de gedupliceerde waarde van het object dat deze waarde niet mag hebben. Houd er rekening mee dat u de wijziging moet aanbrengen in de map waar het object vandaan komt. In sommige gevallen moet u mogelijk een van de objecten in conflict verwijderen.
+3. Verwijder de gedupliceerde waarde uit het object dat niet die waarde zou moeten hebben. Houd er rekening mee dat u de wijziging moet aanbrengen in de map waar het object vandaan komt. In sommige gevallen moet u mogelijk een van de objecten in conflict verwijderen.
     
-4. Als u de wijziging hebt aangebracht in de on-premises AD, laat Azure AD Connect synchroniseren van de wijziging voor de fout te krijgen opgelost.
+4. Als u de wijziging hebt aangebracht in het ad op locatie, laat U Azure AD Connect de wijziging synchroniseren om de fout te laten oplossen.
     
 

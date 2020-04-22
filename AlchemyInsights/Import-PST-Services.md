@@ -1,9 +1,9 @@
 ---
-title: 1245-import-PST-Services
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496337"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687757"
 ---
-# <a name="office-365-import-service"></a>Import-service op Office 365
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Import-service
 
-De service Office 365 importeren kunt u de bulkimport meerdere PST-bestanden voor de postbussen van Exchange Online.
+Met de Microsoft 365 Import-service u meerdere PST-bestanden in bulk importeren in Exchange Online-postvakken.
 
-De Import-service en start het importproces:
+Ga als het gaat om toegang tot de importservice en start het importproces:
 
-1. Ga naar de [Security & conformiteit](https://protection.office.com) en meld u aan met de referenties voor een administrator-account in uw organisatie Office 365.
+1. Ga naar het [Security & Compliance Center](https://protection.office.com) en meld u aan met de referenties voor een beheerdersaccount in uw organisatie.
 
-2. Klik in het linkerdeelvenster van de **& beveiliging conformiteit** **Data governance > importeren**.
+2. Klik in het linkerdeelvenster van het **Beveiligings& Compliance Center**op **Gegevensbeheer > Importeren**.
 
-3. Klik op **Nieuw project importeren**op de pagina **importeren** .
+3. Klik **op** de pagina Importeren op **Nieuwe importtaak**.
 
-4. Volg de [Stapsgewijze instructies](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)om de stappen in de wizard.
+4. Volg deze [stapsgewijze instructies](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)om de stappen in de wizard uit te voeren.
 
-**Belangrijk**: toegang tot de pagina **importeren** in de & Security Center dat u [de juiste machtigingen](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin)hebt toegewezen.
+**Belangrijk:** als u toegang wilt krijgen tot de pagina **Importeren** in het Beveiligings& Compliance Center, hebt u [de juiste machtigingen](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin)toegewezen.
 
-Als u alleen een PST-bestand importeren in uw postvak wilt, Zie [dit artikel](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Als u alleen een PST in uw postvak wilt importeren, [raadpleegt](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)u dit artikel .

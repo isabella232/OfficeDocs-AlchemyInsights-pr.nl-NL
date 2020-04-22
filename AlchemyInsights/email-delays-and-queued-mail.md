@@ -1,22 +1,22 @@
 ---
-title: U ziet e-vertragingen zijn of in de wachtrij mail?
+title: Ziet u e-mailvertragingen of e-mail in de wachtrij?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764979"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703782"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>U ziet e-vertragingen zijn of in de wachtrij mail?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ziet u e-mailvertragingen of e-mail in de wachtrij?
 
-Onlangs begonnen oudere Office 365 SMTP-eindpunten bestandstypen. Deze bestemming Office 365 waarden zijn beschikbaar voor gebruik in de MX-records en smart hosts vóór 2012. Als u nog steeds een van deze oudere waarden gebruikt, moet u het Office 365-eindpunt op een ondersteunde waarde bijwerken. Zie dit [KB ondersteuning](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)voor meer informatie.
+We zijn onlangs begonnen met het afkeuren van oudere SMTP-eindpunten. Deze doelwaarden waren beschikbaar voor gebruik in MX-records en slimme hosts vóór 2012. Als u nog steeds een van deze oudere waarden gebruikt, moet u het eindpunt bijwerken naar een ondersteunde waarde. Zie deze ondersteuning [KB voor](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)meer informatie.

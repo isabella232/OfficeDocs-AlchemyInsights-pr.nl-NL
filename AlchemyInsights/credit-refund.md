@@ -1,9 +1,9 @@
 ---
-title: Creditcard/restitutie
+title: Krediet/terugbetaling
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 72b765ddd33d01be03c5dbd44600670fd26e5370
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389207"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705296"
 ---
-# <a name="creditrefund"></a>Creditcard/restitutie
+# <a name="creditrefund"></a>Krediet/terugbetaling
 
 **Annulering**
   
-Wanneer een abonnement wordt geannuleerd, ontvangt u een eindafrekening met een creditcard betalen op de volgende factuurdatum. Dit kan duren maximaal 30 dagen voor het ontvangen van de datum waarop die het abonnement is geannuleerd.
+Wanneer u een abonnement opzegt, ontvangt u een definitieve factuur met een tegoed dat verschuldigd is op de volgende factureringsdatum. Dit kan tot 30 dagen duren voordat u het abonnement ontvangt vanaf de datum waarop het abonnement is opgezegd.
   
-**Zitplaats wijzigen**
+**Stoelwijzigen**
   
-Wanneer licenties uit een abonnement zijn verwijderd, worden de niet-gebruikte tijd op deze licenties als een creditbedrag op de volgende rekening toegepast. Dit kan duren maximaal 30 dagen voor het ontvangen van de datum waarop die de licenties zijn verwijderd.
+Wanneer licenties uit een abonnement worden verwijderd, wordt de ongebruikte tijd voor deze licenties toegepast als een tegoed voor de volgende factuur. Dit kan tot 30 dagen duren voordat ze zijn ontvangen vanaf de datum waarop de licenties worden verwijderd.

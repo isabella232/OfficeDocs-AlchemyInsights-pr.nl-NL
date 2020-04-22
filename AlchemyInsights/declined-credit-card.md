@@ -1,9 +1,9 @@
 ---
-title: Creditcard geweigerd
+title: Geweigerde creditcard
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665175"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705080"
 ---
-# <a name="declined-credit-card"></a>Creditcard geweigerd
+# <a name="declined-credit-card"></a>Geweigerde creditcard
 
-Als u via creditcard betaalt maar uw creditcard wordt geweigerd, ontvangt u een e-mailbericht met de mededeling dat we de betaling niet konden verwerken. Controleer dat de [creditcardgegevens](https://go.microsoft.com/fwlink/p/?linkid=842054) - kaartnummer, vervaldatum, naam op de creditcard en adres, plaats, provincie en postcode - exact zo uitzien als op de creditcard en uw creditcardafschriften verschijnen. U kunt uw creditcardgegevens bijwerken en de betaling onmiddellijk verzenden met de optie **saldo te vereffenen** op de pagina [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Als u via creditcard betaalt maar uw creditcard wordt geweigerd, ontvangt u een e-mailbericht met de mededeling dat we de betaling niet konden verwerken. Controleer of de [creditcardgegevens](https://go.microsoft.com/fwlink/p/?linkid=842054) - kaartnummer, vervaldatum, naam op de creditcard en adres, inclusief plaats, staat en postcode - precies zo worden weergegeven als op de creditcard en uw creditcardafschrift. U uw creditcardgegevens bijwerken en de betaling onmiddellijk indienen met de optie **Saldo vereffenen** op de pagina [Producten & services.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-Voor meer informatie, Zie "Wat gebeurt er als mijn creditcard is verlopen en de betaaldatum is verstreken?" in [uw Office 365 voor zakelijke abonnement betalen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Zie 'Wat als mijn creditcard is verlopen en mijn betaling achterstallig is?' voor meer informatie. in [Betalen voor uw Microsoft 365 voor bedrijven-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Neem contact op met de bank als uw creditcard alsnog wordt geweigerd. Het kan zijn dat uw creditcard niet is geactiveerd. Als u bijvoorbeeld onlangs een creditcard met bijgewerkte vervaldatum via de post hebt ontvangen, moet u deze misschien nog activeren. U kunt ook bij uw bank navragen of uw creditcard mogelijk niet is goedgekeurd voor online, internationale of terugkerende transacties.  
   
-Voor meer informatie Zie [probleemoplossing, creditcards en bankrekeningen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Zie Creditcard [en bankrekeningen oplossen voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)meer informatie .

@@ -3,7 +3,7 @@ title: Een SharePoint-bibliotheek openen in Verkenner
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 381326b9edc8e3f56f443551b95f1410fd3752a8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 231b026c42fddd3957b01fc7e383d7161f525e91
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698485"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>Een SharePoint-bibliotheek openen in Verkenner
 
-1. Ga naar de bibliotheek in Internet Explorer 10 of Internet Explorer 11. 
+1. Blader naar de bibliotheek in Internet Explorer 10 of Internet Explorer 11. 
     
-2. Klik op het pictogram voor de weergave in de rechterbovenhoek en klik vervolgens op **weergeven in File Explorer**.
+2. Klik op het pictogram Weergave rechtsboven en klik vervolgens op **Weergeven in Verkenner**.
     
 > [!NOTE]
-> Een bibliotheek openen in Verkenner is handig als u wilt kopiëren of verplaatsen van meerdere bestanden en mappen na, maar als u regelmatig werkt in de bibliotheek wilt maken, wordt aangeraden deze te synchroniseren. Zie [openen in Explorer](https://go.microsoft.com/fwlink/?linkid=871665)voor het oplossen van problemen in File Explorer te openen. Zie voor informatie over het instellen van sync, [Sync SharePoint-bestanden met de nieuwe OneDrive synchronisatie-client](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Het openen van een bibliotheek in Verkenner is handig als u meerdere bestanden en mappen één keer wilt kopiëren of verplaatsen, maar als u regelmatig in de bibliotheek wilt werken, raden we u aan deze te synchroniseren. Zie [Openen in Verkenner](https://go.microsoft.com/fwlink/?linkid=871665)voor het oplossen van problemen in Verkenner. Zie [SharePoint-bestanden synchroniseren met de nieuwe Synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=871666)van OneDrive voor meer informatie over het instellen van synchronisatie. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Het controlelogboek inschakelen en zoeken
+title: Controlelogboek inschakelen en doorzoeken
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665071"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703638"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Inschakelen en het controlelogboek zoeken
+# <a name="enable-and-search-the-audit-log"></a>Het controlelogboek inschakelen en doorzoeken
 
-**Office 365**
+**Microsoft 365**
 
-Ga als volgt [te werk](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)als u wilt zoeken in het controlelogboek voor Office 365.
+Voer de [volgende stappen uit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)om in het controlelogboek van Microsoft 365 te zoeken.
 
 **Exchange**
 
-- Beheeractiviteiten voor Exchange worden standaard gecontroleerd.
+- Exchange-beheeractiviteiten worden standaard gecontroleerd.
 
-- Postvak-controle is standaard ingeschakeld in Office 365. Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)voor meer informatie.
+- Postvakcontrole is standaard ingeschakeld in Microsoft 365. Zie voor meer informatie [dit artikel.](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
 
-- Registratie in het controlelogboek ondersteuning geen voor Office 365 groep postbussen en openbare mappen postvakken in Exchange Online.
+- Postvakken van Office 365-groepen en postvakken voor openbare mappen in Exchange Online bieden geen ondersteuning voor controlelogboekregistratie.
 
 **SharePoint en OneDrive**
 
-- Er is geen aanvullende configuratie vereist voor het inschakelen van controle voor SharePoint en OneDrive.
+- Er is geen extra configuratie vereist om controle voor SharePoint en OneDrive in te schakelen.
 
-- SharePoint en OneDrive ondersteunen de volgende soorten activiteiten controleren:
+- SharePoint- en OneDrive-ondersteuning voor het controleren van de volgende soorten activiteiten:
 
-    - Bestanden, mappen en pagina activiteiten
-    - Delen en toegang aanvragen activiteiten
-    - Site beheer activiteiten
-    - Bestand synchronisatie activiteiten
+    - Bestands-, map- en pagina-activiteiten
+    - Activiteiten voor het delen en openen van aanvragen
+    - Activiteiten voor sitebeheer
+    - Bestandssynchronisatieactiviteiten
 
-- Zie [de tabel in dit artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)voor meer informatie over goedgekeurde activiteiten in andere Office 365 diensten.
+- Zie [de tabel in dit artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)voor informatie over gecontroleerde activiteiten in andere diensten.
 
-- Hier een lijst met veelgestelde vragen [Veelgestelde vragen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) over het zoeken van het controlelogboek.
+- Hier een lijst met veelgestelde vragen [over](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) het doorzoeken van het auditlogboek.

@@ -1,9 +1,9 @@
 ---
-title: 1314 dubbel Object herstellen
+title: 1314 Herstel van dubbel object
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529414"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703962"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Synchronisatiefouten object dupliceren
+# <a name="duplicate-object-synchronization-errors"></a>Synchronisatiefouten dupliceren
 
-Als u een van de volgende foutberichten tijdens een synchronisatie ontvangt:
+Als u een van de volgende fouten ontvangt tijdens een synchronisatie:
 
-- Een gesynchroniseerde-object met dezelfde proxyadres bestaat al in de map Microsoft Online Services.
+- Er bestaat al een gesynchroniseerd object met hetzelfde proxyadres in uw microsoft online services-map.
 
-- Een dergelijk bericht weergegeven voor UserPrincipalName.
+- Een soortgelijk bericht voor UserPrincipalName.
 
-Gebruik de nieuwe AADConnect gezondheid diagnostische duplicaat fouten oplossen. Zie voor meer informatie [Diagnose en een dubbel kenmerk synchronisatiefouten verhelpen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Gebruik de nieuwe AADConnect-statusdiagnose om dubbele objectfouten op te lossen. Zie [Dubbele foutschrijven en herstellen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)voor meer informatie .

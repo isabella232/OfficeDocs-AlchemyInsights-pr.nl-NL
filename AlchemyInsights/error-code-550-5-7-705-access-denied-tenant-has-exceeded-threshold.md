@@ -1,8 +1,8 @@
 ---
-title: 'Foutcode: 550 5.7.705 toegang geweigerd, de huurder de drempel heeft overschreden'
+title: Foutcode 550 5.7.705 Toegang geweigerd, tenant heeft drempeloverschreden
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527214"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702985"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 toegang geweigerd, de huurder de drempel heeft overschreden
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Toegang geweigerd, huurder heeft drempel overschreden
 
-Dit bericht verschijnt wanneer u te veel spam of bulk e-mail is verzonden door uw organisatie en we plaatsen een blok van uitgaande e-mail.
-Veel voorkomende oorzaken zijn gemanipuleerde op ruimten servers of gemanipuleerde admin accounts die zijn gebruikt voor het maken van aansluitingen. Beide voorwaarden mogen spam door uw organisatie.
+Dit bericht treedt op wanneer uw organisatie te veel spam of bulkmail heeft verzonden en we een blokkering plaatsen voor uitgaande e-mail.
+Veelvoorkomende oorzaken zijn gecompromitteerde on-premises servers of gecompromitteerde beheerdersaccounts die zijn gebruikt om connectoren te maken. Beide voorwaarden kunnen spam door uw organisatie laten gaan.
 
-U kunt dit blok verwijderen, moet u begrijpen en leg de oorzaak een supportmedewerker, alsmede het onderliggende probleem.
-Als u klaar bent, klikt u op **contact met ons** hieronder.
+Om dit blok te verwijderen, moet u de oorzaak aan een ondersteuningsmedewerker begrijpen en uitleggen en het onderliggende probleem corrigeren.
+Klik hieronder **op Neem contact met ons** op zodra je er klaar voor bent.

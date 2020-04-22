@@ -1,5 +1,5 @@
 ---
-title: Machtigingen voor een postbus wijzigen
+title: Machtigingen voor een postvak wijzigen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734376"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692508"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Machtigingen voor een postbus wijzigen
+# <a name="changing-permissions-on-a-mailbox"></a>Machtigingen voor een postvak wijzigen
 
-Als gebruikers toegang nodig hebben tot Office 365-postvakken die niet hun eigen zijn, moeten ze machtigingen krijgen om met deze postvakken te werken. Hoe u deze machtigingen toewijst, is afhankelijk van het type postbus. Als gebruikers toegang nodig hebben tot:
+Als gebruikers andere postvakken nodig hebben dan hun eigen postvakken, moeten ze machtigingen krijgen om met die postvakken te werken. Hoe u deze machtigingen toewijst, is afhankelijk van het type postvak. Als gebruikers toegang nodig hebben tot:
   
-- Postvakken van andere gebruikers-Zie [postbus machtigingen geven aan een andere gebruiker in Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Mailboxen van andere gebruikers - zie [Postvakmachtigingen geven aan een andere gebruiker](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Een gedeelde postbus-Zie [leden toevoegen of verwijderen uit een gedeeld postvak](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Een gedeeld postvak - zie [Leden toevoegen of verwijderen uit een gedeeld postvak](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Als machtigingen niet correct werken nadat u de bovenstaande stappen uitvoert, gaat u naar het Beheercentrum van Exchange en probeer de machtigingen van daaruit instellen (Zie [machtigingen voor geadresseerden beheren](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Als machtigingen niet correct werken nadat u de bovenstaande stappen hebt uitgevoerd, gaat u naar het Exchange-beheercentrum en probeert u de machtigingen van daaruit in te stellen (zie [Machtigingen voor geadresseerden beheren](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

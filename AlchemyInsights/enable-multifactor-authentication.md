@@ -1,8 +1,8 @@
 ---
-title: Multifactor-verificatie inschakelen
+title: Multifactorverificatie inschakelen
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527466"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703457"
 ---
-# <a name="enable-multi-factor-authentication"></a>Meerledige verificatie inschakelen
+# <a name="enable-multi-factor-authentication"></a>Meervoudige verificatie inschakelen
 
-Meerledige verificatie in het Microsoft 365 admin center inschakelen:
+Ga als bedoeld als u multi-factor authenticatie inschakelt in het Microsoft 365-beheercentrum:
 
-1. Ga naar de **gebruikers** \> pagina **actieve gebruikers** .
+1. Ga naar de pagina **Gebruikers** \> **Actieve gebruikers.**
     
-2. Selecteer **meerledige verificatie**aan de bovenkant van de pagina. 
+2. Selecteer boven aan de pagina **Multi-factor authenticatie**. 
     
-3. Zoeken naar de gebruiker of gebruikers die u wilt inschakelen voor een meerledige verificatie. Overzicht van alle gebruikers, moet u mogelijk het filter **meerledige verificatie status** boven wijzigen.
+3. Zoek de gebruiker of gebruikers die u wilt inschakelen voor meervoudige verificatie. Als u alle gebruikers wilt zien, moet u mogelijk het filter voor de **Multi-Factor Auth-status** bovenaan wijzigen.
     
 4. Schakel het selectievakje in naast de gebruikers die u wilt inschakelen.
     
-5.  Selecteer **inschakelen**in het Informatiedeelvenster rechts gebruiker onder **Snelle stappen**. 
+5.  Selecteer in het juiste deelvenster gebruikersgegevens onder **snelle stappen**de optie **Inschakelen**. 
     
-6. Selecteer in het dialoogvenster **meerledige verificatie inschakelen**. 
+6. Selecteer **multifactorauth inschakelen**in het dialoogvenster dat wordt geopend. 
     
 

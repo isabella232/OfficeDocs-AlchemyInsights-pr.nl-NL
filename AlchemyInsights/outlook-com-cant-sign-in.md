@@ -1,9 +1,9 @@
 ---
-title: Outlook.com kan niet aanmelden bij een Outlook.com
+title: Outlook.com kan zich niet aanmelden bij Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88526fdee1cf22380efd863bc808af613962e49a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537352"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698413"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Kan niet aanmelden bij een Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>Je je niet aanmelden bij Outlook.com
 
-Als u aanmelden bij uw account problemen hebt, moet u dat uw account niet meer dan 365 dagen inactief is. Na 365 dagen van inactiviteit, uw e-mail wordt verwijderd en kan niet worden hersteld.
+Als je problemen ondervindt bij het aanmelden bij je account, moet je ervoor zorgen dat je account langer dan 365 dagen niet actief is geweest. Na 365 dagen inactiviteit wordt uw e-mail verwijderd en kan deze niet worden hersteld.
   
-Uw account kan tijdelijk worden geblokkeerd, omdat het ons opgevallen dat sommige ongebruikelijke activiteiten aanmelden. Als uw account is geblokkeerd, te lezen hoe [Mijn Outlook.com-account deblokkeren](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Je account is mogelijk tijdelijk geblokkeerd omdat we een ongebruikelijke aanmeldingsactiviteit hebben opgemerkt. Als je account is geblokkeerd, lees je hoe je [mijn Outlook.com account deblokkeren.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Als u vermoedt dat uw Outlook.com-account heeft gekraakt, Zie [Mijn Outlook.com account heeft gekraakt](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Als u vermoedt dat uw Outlook.com-account is gehackt, raadpleegt u [Mijn Outlook.com-account is gehackt.](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Als u bent vergeten of uw wachtwoord verloren, kunt u [uw wachtwoord opnieuw instellen](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Als je je wachtwoord bent vergeten of kwijt bent, kun je [je wachtwoord opnieuw instellen.](https://go.microsoft.com/fwlink/p/?LinkID=242804)
   
-Meer informatie over [Wanneer u zich niet bij uw Microsoft-account aanmelden](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Lees meer over [Wanneer u zich niet aanmelden bij uw Microsoft-account](https://go.microsoft.com/fwlink/p/?linkid=837479).
   

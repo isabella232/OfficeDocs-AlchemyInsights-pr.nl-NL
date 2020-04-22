@@ -1,8 +1,8 @@
 ---
-title: Entiteitstype niet worden weergegeven in gecategoriseerd of relevantie van zoekresultaten in Dynamics 365 Unified Interface
+title: Entiteitstype wordt niet weergegeven in gecategoriseerde of relevante zoekresultaten in Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: 31389ac7a39d07e9c0b0f4e3e8d398616c3fa210
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 5a96797ef03659bc6cab665f170dee9a9c62872f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703277"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Entiteitstype niet wordt weergegeven in de zoekresultaten
+# <a name="entity-type-not-showing-in-search-results"></a>Entiteitstype wordt niet weergegeven in zoekresultaten
 
-Voor een entiteittype weer te geven in gecategoriseerde zoeken of tekst zoeken in de Dynamics 365 Unified Interface moet dat worden toegevoegd aan de module app.
+Als een entiteitstype in gecategoriseerdzoeken of relevantiezoeken in de Unified Interface Dynamics 365 moet worden weergegeven, moet deze eerst aan de app-module worden toegevoegd.
 
-Opmerking: Bij het zoeken naar bijlagen in de zoekopdracht relevant, de entiteit bijlage moet worden toegevoegd aan de module app zelfs als de bovenliggende record wat wordt weergegeven in de resultaten.
+Opmerking: Bij het zoeken naar bijlagen in relevantiezoeken, moet de bijlageentiteit worden toegevoegd aan de app-module, ook al is de bovenliggende record wat in de resultaten wordt weergegeven.
