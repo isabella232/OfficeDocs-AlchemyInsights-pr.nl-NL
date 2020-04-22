@@ -1,9 +1,9 @@
 ---
-title: Controleren of uw account Outlook.com
+title: Uw Outlook.com-account verifiëren
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743412"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Controleren of uw account Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>Uw Outlook.com-account verifiëren
 
-Verificatie in twee stappen beschermt u doordat het moeilijker voor iemand anders aan te melden bij uw Microsoft-account. Twee verschillende vormen van de identiteit wordt gebruikt: het wachtwoord en een methode van contact (ook bekend als Beveiligingsinfo).
+Verificatie in twee stappen helpt u te beschermen door het voor iemand anders moeilijker te maken zich aan te melden bij uw Microsoft-account. Het maakt gebruik van twee verschillende vormen van identiteit: uw wachtwoord, en een contact methode (ook wel bekend als beveiligingsgegevens).
   
-Verificatie in twee stappen in of uit te schakelen:
+Tweestapsverificatie in- of uitschakelen:
   
-1. Ga naar de [pagina van de grondbeginselen van beveiliging](https://go.microsoft.com/fwlink/?linkid=842325) en meld u aan met uw Microsoft-account.
-2. Selecteer **meer opties voor het beveiligingslogboek**.
-3. Selecteer **verificatie in twee stappen instellen** en volg de instructies onder **verificatie in twee stappen**.
+1. Ga naar de [basispagina Beveiliging](https://go.microsoft.com/fwlink/?linkid=842325) en meld u aan met uw Microsoft-account.
+2. Selecteer **Meer beveiligingsopties**.
+3. Selecteer onder **verificatie in twee stappen**de optie Verificatie in twee stappen **instellen** en volg de instructies.
 
-Als u verificatie in twee stappen, moet u altijd twee vormen van identificatie. Als u de methode van het contact verliest, kan uw wachtwoord alleen won't krijgt u terug naar uw rekening - en er u weer toegang hebt tot 30 dagen.
+Als u verificatie in twee stappen inschakelt, hebt u altijd twee vormen van identificatie nodig. Als u uw contactmethode verliest, krijgt u alleen uw wachtwoord niet terug in uw account - en het kan 30 dagen duren voordat u weer toegang hebt.
   
 Meer informatie over [verificatie in twee stappen](https://go.microsoft.com/fwlink/?linkid=872270).
   

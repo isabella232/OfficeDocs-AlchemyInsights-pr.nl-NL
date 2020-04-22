@@ -1,9 +1,9 @@
 ---
-title: Oplossen van problemen met Android apparaten in Microsoft Intune inschrijven
+title: Problemen met inschrijvende Android-apparaten in Microsoft Intune oplossen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500066"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759615"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Oplossen van problemen met Android apparaten in Microsoft Intune inschrijven
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Problemen met inschrijvende Android-apparaten in Microsoft Intune oplossen
 
-Bekijk de bronnen die worden vermeld onder het probleem nu oplossen.
+Bekijk de onderstaande bronnen om het probleem nu op te lossen.
   
-Enkele veelvoorkomende problemen en stappen voor het oplossen:
+Enkele veelvoorkomende problemen en stappen voor het oplossen van oplossingen:
   
- **Apparaat niet fout in de bedrijfsportal gecodeerd:** Nieuwere versies van Android, vooral vanaf v7.0, vereisen een passcode opstarten om te controleren of het apparaat wordt volledig gecodeerd. Algemene oplossingen zijn een pincode opstarten of het apparaat volledig te coderen. Bekijk [Dit document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) voor meer informatie.
+ **Apparaat niet versleutelde fout in bedrijfsportal:** Nieuwere versies van Android, met name te beginnen met v7.0, vereisen een opstartcode om ervoor te zorgen dat uw apparaat volledig is versleuteld. Veelvoorkomende oplossingen zijn het inschakelen van een opstartpin of het volledig versleutelen van het apparaat. Bekijk [dit document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) voor meer informatie.
   
- **Apparaten niet controleren met de service Intune of als "Unhealthy" weergeven in de beheerconsole van Intune:** Sommige Samsung 4.4 en 5.5 apparaten kunnen niet controleren in de service. Er zijn 3 mogelijke oplossingen voor dit probleem:
+ **Apparaten kunnen niet inchecken met de Intune-service of worden weergegeven als 'Niet in orde' in de Intune-beheerconsole:** Sommige Samsung 4.4- en 5.5-apparaten kunnen niet inchecken in de service. Er zijn 3 mogelijke oplossingen voor dit probleem:
   
-1. Open handmatig de bedrijfsportal Intune app, die een apparaat synchroniseren automatisch wordt gestart.
+1. Open handmatig de Intune Company Portal-app, waarmee automatisch een apparaatsynchronisatie wordt gestart.
 
-2. Werk het apparaat naar Android 6.0 of hoger.
+2. Werk het apparaat bij naar Android 6.0 of hoger.
 
-3. Samsung Smart Manager uitschakelen in de bedrijfsportal Intune beheren. Bekijk [Dit document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) voor meer informatie over deze problemen en oplossingen.
+3. Schakel Samsung Smart Manager uit om de Intune Company Portal te beheren. Bekijk [dit document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) voor meer informatie over deze kwesties en oplossingen.
 
- **Gebruiker licentie Type ongeldige** of **fout gebruiker naam niet herkend:** moet de gebruiker een licentie Intune of EMS worden toegewezen. Bekijk deze documenten een licentie toewijzen: Office Admin Center of Azure portal.
+ **Ongeldig type gebruikerslicentie** of **gebruikersnaam niet-herkende fout:** de gebruiker moet een Intune- of EMS-licentie toegewezen krijgen. Controleer deze documenten om een licentie toe te wijzen via: Office Admin Center of Azure portal.
   
-Aanvullende bronnen voor het oplossen van uw probleem:
+Aanvullende bronnen om uw probleem op te lossen:
   
-1. [Intune probleemoplossing Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) gebruiken om te bepalen en verhelpen van storingen in gemeenschappelijke inschrijving. Bekijk [Dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
+1. Gebruik [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) om veelvoorkomende inschrijvingsfouten te diagnosticeren en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
 
-2. Bekijk [Dit document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) voor een lijst met veelvoorkomende fouten die voorkomen dat de inschrijving en oplossingen voor elk.
+2. Controleer [dit document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) op een lijst met veelvoorkomende fouten die inschrijving en resoluties voor elke instelling voorkomen.
 
 3. [Meer informatie over het inschrijven van Android-apparaten in Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).

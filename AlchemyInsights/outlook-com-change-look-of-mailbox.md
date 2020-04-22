@@ -3,26 +3,26 @@ title: Outlook.com het uiterlijk van uw postvak wijzigen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547669"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721904"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Het uiterlijk van uw postbus Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Het uiterlijk van uw Outlook.com postvak wijzigen
 
-U kunt de weergave van het berichtvenster lezen en lijst in Outlook.com.
+U de weergave van de berichtenlijst en het leesvenster in Outlook.com wijzigen.
 
-- Om de indeling van het berichtvenster wijzigen, opties voor het [leesvenster](https://outlook.live.com/mail/options/mail/layout/readingPane) te openen.
-- **Filter**selecteren om te wijzigen hoe uw e-mailadres is gesorteerd, boven aan de lijst met > **sorteren op** en kies hoe u wilt sorteren van uw e-mailadres.
-- Als u wilt uw berichten groeperen per conversatie, open uw [organisatie bericht](https://outlook.live.com/mail/options/mail/layout/conversations) opties.
-- Open uw [lay](https://outlook.live.com/mail/options/mail/layout/focused) -outopties om gericht postvak in of uit te schakelen.
+- Als u de indeling van het berichtvenster wilt wijzigen, opent u de opties van het [leesvenster.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Als u wilt wijzigen hoe uw e-mail wordt gesorteerd, selecteert u boven aan de berichtenlijst**Sorteren op** **filteren** > en kiest u hoe u uw e-mail wilt sorteren.
+- Als u uw berichten wilt groeperen op gesprek, opent u de opties [van de berichtenorganisatie.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Als u Focused Inbox wilt in- of uitschakelen, opent u de [opties voor lay-out.](https://outlook.live.com/mail/options/mail/layout/focused)

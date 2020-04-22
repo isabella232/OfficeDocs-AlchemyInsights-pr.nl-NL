@@ -1,9 +1,9 @@
 ---
-title: Identificeren van wachtruimten op postvakken geplaatst
+title: Het identificeren van ruimen op brievenbussen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538759"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724771"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Wachtruimten op postvakken geplaatst identificeren
+# <a name="identify-holds-placed-on-mailboxes"></a>Houdingen op brievenbussen identificeren
 
-Hebt u Office 365-inhoud die wordt **bewaard** door **bevatten** die u niet identificeren? Wilt u **weten** waar zich de wachtruimte op het **Postvak** ? Wachtruimten (*behoud functies*) kunnen worden toegepast door een van de volgende methoden in Office 365:
+Heeft u Microsoft 365-inhoud die wordt **bewaard** door een **blokkering** die u niet identificeren? Wilt u **weten** waar de wacht stand op de **brievenbus ligt?** Holds (*bewaarfuncties*) kunnen worden toegepast op een van de volgende methoden:
   
-- Blokkering van de rechtszaak
+- Proceshouden
 
-- wachtruimte eDiscovery
+- eDiscovery-wachtstand
 
-- Plaats vasthouden
+- In-Place Hold
 
-- Office 365 bewaarbeleid 
+- Microsoft 365-bewaarbeleid 
 
-  - Specifieke locatie bewaarbeleid
+  - Specifiek beleid voor locatiebehoud
 
-  - Organisatiebrede bewaarbeleid
+  - Bewaarbeleid voor de hele organisatie
 
-- Etiketten voor Office 365
+- Microsoft 365-labels
 
-Als u wilt vaststellen welk type blokkering wordt toegepast op het postvak van een gebruiker, Zie [het identificeren van het type geplaatst op een Exchange Online-Postvak houdt](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Zie Het type wachtplaats in [een Exchange Online-postvak identificeren](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)als u wilt bepalen welk type wachtwaarde op het postvak van een gebruiker wordt toegepast.

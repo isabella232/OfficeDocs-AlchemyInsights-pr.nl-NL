@@ -1,9 +1,9 @@
 ---
-title: Aankondiging van het abonnement op Office-client
+title: Abonnementsbericht op Office-client
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559764"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741858"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Abonnement ziet u in uw Office-client?
+# <a name="subscription-notice-in-your-office-client"></a>Abonnement melding in uw Office-client?
 
-Lijkt u ziet een bericht in uw Office-client die verband houden met de status van uw abonnement op Office 365. U vindt meer informatie over het oplossen van het probleem in dit artikel: [de aankondiging van een abonnement wordt weergegeven wanneer ik een toepassing van Office 365 open](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Het lijkt erop dat u een bericht ziet in uw Office-client met betrekking tot de status van uw abonnement. U vindt informatie over het oplossen van het probleem in dit artikel: [er verschijnt een abonnement wanneer ik een Microsoft 365-toepassing open](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Als je Office 365-abonnement bijgewerkt is, hebt u mogelijk een tijdelijk probleem dat de activering van Office veroorzaakt niet raakt. Er zijn eenvoudige stappen die u nemen kunt om te voorkomen dat deze berichten, zoals de tijd van uw computer controleren, Office uitvoeren als Administrator en aanmelden om te activeren. U vindt gedetailleerde stappen voor het oplossen van deze problemen in dit artikel: [niet-gelicentieerde Product en activeringsfouten in Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Als uw abonnement up-to-date is, hebt u mogelijk een tijdelijk probleem veroorzaakt waardoor de Office-activering is mislukt. Er zijn eenvoudige stappen die u nemen om te voorkomen dat deze berichten, zoals het controleren van uw computer tijd, draait Office als administrator, en aanmelden om te activeren. In dit artikel vindt u gedetailleerde stappen om deze problemen op te lossen: [product- en activeringsfouten zonder licentie](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Als dit niet werkt, neem contact met ons met de onderstaande koppelingen en we zijn blij om te helpen.
-  
+Als deze niet voor u werken, neem dan contact met ons op via de onderstaande links en we helpen u graag verder.

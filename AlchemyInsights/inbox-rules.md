@@ -1,9 +1,9 @@
 ---
-title: 922 regels voor Postvak in
+title: 922 Regels voor Postvak IN
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36499634"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724551"
 ---
-# <a name="inbox-rules"></a>Regels voor Postvak in
+# <a name="inbox-rules"></a>Regels voor Postvak IN
 
-Zie voor meer informatie over het gebruik van regels voor Postvak in in uw eigen postbus:
+Zie voor meer informatie over het gebruik van Postvak IN in uw eigen postvak:
 
-- [E-mail berichten beheren met behulp van regels in Outlook voor PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
+- [E-mailberichten beheren met regels in Outlook voor pc](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
 
-- [Uw berichten beheren met behulp van regels voor Postvak in in Outlook op het web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
+- [Uw berichten beheren met regels voor postvak IN in de webversie van Outlook](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-U ook regels voor Postvak in in Exchange Online PowerShell beheren. Zie voor meer informatie, [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (weergave), [Nieuw-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (maken) [, verwijderen-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (verwijderen), [set-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (bestaande wijzigen), [uitschakelen-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (bestaande uitschakelen) en [inschakelen inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (bestaande inschakelen).
+U ook regels voor Postvak IN beheren in Exchange Online PowerShell. Zie [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (weergave), [Nieuw-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (maken), [InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) verwijderen (verwijderen), [Regel instellen](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (bestaand wijzigen), [InboxRule uitschakelen](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (bestaand uitschakelen) en [InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) inschakelen (bestaand inschakelen).

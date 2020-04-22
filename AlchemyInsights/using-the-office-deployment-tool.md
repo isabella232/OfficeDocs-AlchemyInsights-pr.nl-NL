@@ -1,8 +1,8 @@
 ---
-title: Met behulp van de Office Deployment Tool
+title: Het hulpprogramma voor Office-implementatie gebruiken
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531570"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726243"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Met behulp van de Office Deployment Tool (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Het Office Deployment Tool (ODT) gebruiken
 
-Met de Office Deployment Tool (ODT) kunt u het implementeren van Office 365-versies van Office. De Office Deployment Tool (setup.exe) wordt uitgevoerd vanaf de opdrachtregel en een XML-configuratiebestand gebruikt om te bepalen welke instellingen toe te passen bij het implementeren van Office.
+U gebruikt de ODT (Office Deployment Tool) om Office 365-versies van Office te implementeren. Het Office Deployment Tool (setup.exe) wordt uitgevoerd vanaf de opdrachtregel en gebruikt een configuratie-XML-bestand om te bepalen welke instellingen u moet toepassen bij het implementeren van Office.
   
-1. De nieuwste versie van de Office Deployment Tool downloaden van het [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Download de nieuwste versie van het Office Deployment Tool in het [Microsoft Downloadcentrum.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. Gebruik de [Office Customization Tool (OCT)](https://config.office.com) Selecteer uw voorkeuren voor de implementatie en het XML-configuratiebestand maken. Het configuratiebestand exporteren en lokaal op de map waarin zich de setup.exe bevindt.
+2. Gebruik het [Office Customization Tool (OCT)](https://config.office.com) om uw implementatievoorkeuren te selecteren en het XML-configuratiebestand te maken. Exporteer het configuratiebestand en plaats het lokaal op dezelfde map waar de setup.exe zich bevindt.
 
-    **Opmerking:** Malformatted configuratiebestanden of vaak verschuldigd aan onjuist geconfigureerde problemen Office-installatie. Om deze problemen te vermijden, is het raadzaam gebruik te maken van de Office Customization Tool voor het maken van het configuratiebestand. U kunt ook bestaande configuratiebestanden importeren in de Office Customization Tool.
+    **Let op:** Problemen met de installatie van Office komen vaak voor als gevolg van verkeerd geconfigureerde of verkeerd ingemaakte configuratiebestanden. Om dergelijke problemen te voorkomen, raden we u aan het Office Customization Tool te gebruiken om het configuratiebestand te maken. U ook bestaande configuratiebestanden importeren in het Office Customization Tool.
 
-3. Overschakelen naar de locatie waar de setup.exe bevindt zich vanaf een opdrachtprompt en de Office Deployment Tool uitvoeren in de downloadmodus en geef het configuratiebestand dat u zojuist hebt opgeslagen. In dit voorbeeld wordt het configuratiebestand met de naam Configuration.xml:
+3. Ga vanuit een opdrachtprompt met verhoogde bevoegdheid over naar de locatie waar setup.exe zich bevindt en voer het Office Deployment Tool uit in de downloadmodus en geef het configuratiebestand op dat u zojuist hebt opgeslagen. In dit voorbeeld wordt het configuratiebestand Configuration.xml genoemd:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. De Office Deployment Tool uitvoeren in modus configureren en geeft u het configuratiebestand.
+4. Voer het Office Deployment Tool uit in de configureermodus en geef het configuratiebestand op.
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **Opmerking:** U moet deze stap uitvoeren vanaf de clientcomputer waarop u Office wilt installeren en hebt u lokale beheerdersmachtigingen op de computer.
+    **Let op:** U moet deze stap uitvoeren vanaf de clientcomputer waarop u Office wilt installeren en u moet lokale beheerdersmachtigingen op die computer hebben.
 
-Zie voor meer informatie over het gebruik van de Office Deployment Tool voor uw Office 365 ProPlus implementatiescenario's, [overzicht van de Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Zie voor meer informatie over het gebruik van de Office Customization Tool [-overzicht van de Office Customization Tool](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Zie [Overzicht van het Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)voor meer informatie over het gebruik van Office Deployment Tool voor uw Microsoft 365 Apps voor bedrijfsimplementatiescenario's. Zie [Overzicht van het Office-aanpassingsprogramma](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)voor meer informatie over het gebruik van het Office-aanpassingsprogramma .

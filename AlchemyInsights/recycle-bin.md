@@ -3,7 +3,7 @@ title: Prullenbak
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36552972"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720204"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Items herstellen in SharePoint Online
 
-Wanneer u items in SharePoint Online verwijdert, worden ze bewaard voor een totaal van 93 dagen. Ze blijven de hele tijd in de Prullenbak van de site, tenzij je deze leegmaakt of de items ervan verwijdert. In dat geval gaan de artikelen naar de Prullenbak van de siteverzameling, waar ze voor de rest van de 93 dagen blijven. Aan het einde van de tijd worden de items definitief verwijderd. Verwijderde items herstellen van de Prullenbak van de site:
+Wanneer u items in SharePoint Online verwijdert, worden ze in totaal 93 dagen bewaard. Ze blijven de hele tijd in de prullenbak van de site, tenzij u deze leegmaakt of de items eruit verwijdert. In dat geval gaan de artikelen naar de prullenbak van de siteverzameling, waar ze de rest van de 93 dagen verblijven. Aan het einde van de tijd worden de items permanent verwijderd. Ga als volgt te werk om verwijderde items uit de prullenbak van de site te herstellen:
   
 1. Ga naar de site en klik op **Prullenbak** in het linkerdeelvenster. 
     
-    Als u **Prullenbak** niet ziet in het linkerdeelvenster, klikt u op het pictogram instellingen in de rechterbovenhoek en vervolgens op **site-inhoud**. De Prullenbak bevindt zich uiterst rechts op de opdrachtbalk bovenaan.
+    Als u **prullenbak** niet in het linkerdeelvenster ziet, klikt u op het pictogram Instellingen rechtsboven en klikt u vervolgens op **Site-inhoud**. De Prullenbak bevindt zich helemaal rechts van de opdrachtbalk bovenaan.
     
-2. Op de **Prullenbak** pagina, selecteert u de items die u wilt herstellen door erop te wijzen en te klikken op het vinkje dat verschijnt. 
+2. Selecteer **op** de pagina Prullenbak de items die u wilt herstellen door ze aan te wijzen en klik op het vinkje dat wordt weergegeven. 
     
 3. Klik op **Terugzetten**.
     
-[Verwijderde items uit de Prullenbak van de site verzameling herstellen](https://go.microsoft.com/fwlink/?linkid=866439)
+[Verwijderde items uit de prullenbak van de siteverzameling herstellen](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

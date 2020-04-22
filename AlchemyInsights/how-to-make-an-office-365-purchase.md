@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921845"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759111"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Een Office 365-aankoop doen
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Een Microsoft 365-aankoop doen
 
-Aankopen in Office 365 kunnen worden gemaakt in het Admin Center.
+Aankopen in Microsoft 365 kunnen worden gedaan in het beheercentrum.
   
-- Als u een abonnement op Office 365 wilt aanschaffen, gaat u naar de pagina **facturering** \> [Inkoop Services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+- Als u een abonnement wilt kopen, gaat u naar de pagina [Services voor factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing** \>
 
-- Als u extra licenties wilt aanschaffen, gaat u naar de pagina **facturerings** \> [producten & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . Kies het abonnement waaraan u licenties wilt toevoegen en selecteer vervolgens **licenties toevoegen/verwijderen**.
+- Als u extra licenties wilt aanschaffen, gaat u naar de pagina \> **Factureringsproducten** [& services.](https://go.microsoft.com/fwlink/p/?linkid=842054) Kies het abonnement waaraan u licenties wilt toevoegen en selecteer **licenties toevoegen/verwijderen.**
   
-Zie [licenties kopen voor uw abonnement op Office 365 voor bedrijven voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)meer informatie.
+Zie [Licenties kopen voor uw Microsoft 365 voor Bedrijven-abonnement voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)meer informatie.
 
 **Problemen oplossen**
 
-Als u problemen ondervindt met het laden van de pagina, probeert u de webpagina in een andere browser te openen of probeert u de pagina een privébrowser venster te openen, zoals een InPrivate-venster in Microsoft Edge of een incognitovenster in Google Chrome. 
+Indien u problemen ondervindt bij het laden van de pagina, kunt u de webpagina openen in een andere browser of in een privé browservenster, zoals een InPrivate-venster in Microsoft Edge of een incognito-venster in Google Chrome. 
 
 **Aanvullende bronnen**
   
-- [Licenties toewijzen aan gebruikers in Office 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) .
+- [Licenties toewijzen aan gebruikers in Microsoft 365 voor Bedrijven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Office 365 voor bedrijven annuleren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Microsoft 365 voor Bedrijven annuleren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

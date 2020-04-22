@@ -1,5 +1,5 @@
 ---
-title: Upgrade van Skype voor bedrijven op locatie naar teams
+title: Upgrade van Skype voor Bedrijven on-premises naar Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 6b3e7944a8035865fa8ef1a170b22a5aa39eb8b7
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: b78662e68e053b8b94349032d80ac9bb4fbc0d64
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305257"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43727282"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Upgrade van Skype voor bedrijven op locatie naar teams
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Upgrade van Skype voor Bedrijven on-premises naar Teams
 
-Als u Skype voor bedrijven of Microsoft Lync on-premises hebt geïmplementeerd en uw organisatie wil upgraden naar teams, volgt u de instructies in het onderstaande artikel. U moet hybride verbinding met uw Office 365-Tenant instellen en vervolgens uw gebruikers naar teams verplaatsen en ze de juiste samenwerking en de upgrademodus toewijzen. 
+Als u Skype voor Bedrijven of Microsoft Lync on-premises hebt geïmplementeerd en uw organisatie wilt upgraden naar Teams, volgt u de richtlijnen in het onderstaande artikel. U moet hybride connectiviteit met uw tenant instellen en uw gebruikers vervolgens naar Teams verplaatsen en ze de juiste coëxistentie- en upgrademodus toewijzen. 
 
-[Upgrade van Skype voor bedrijven on-premises naar teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Upgrade van Skype voor Bedrijven on-premises naar Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

@@ -1,29 +1,29 @@
 ---
-title: Outlook op het web-account toevoegen aan Outlook voor Windows
+title: Uw Outlook-webaccount toevoegen aan Outlook voor Windows
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510978"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743196"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Outlook op het web-account toevoegen aan Outlook
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Uw Outlook-webaccount toevoegen aan Outlook
 
-Deze stappen zijn hetzelfde als u uw eerste e-mailaccount of een andere e-mailaccounts aan Outlook toevoegt.
+Deze stappen zijn hetzelfde, of u nu uw eerste e-mailaccount of extra e-mailaccounts toevoegt aan Outlook.
 
-1. Selecteer **bestand** > **Account toevoegen**.
-1. U ziet vervolgens afhankelijk van uw versie van Outlook:
-    - Voer uw e-mailadres voor **Outlook voor Office 365** en **Outlook 2016**, en klik op **verbinding maken**.
-    - Voor **Outlook 2010**en **Outlook 2013** , uw naam, e-mailadres en wachtwoord, en klik op **volgende**.
-1. Als u wordt gevraagd, Voer uw wachtwoord opnieuw in en selecteer vervolgens **OK** > **Voltooien** om te starten met behulp van uw e-mailaccount in Outlook.
+1. Selecteer**Account toevoegen aan** **bestand** > .
+1. Wat u vervolgens ziet, is afhankelijk van uw versie van Outlook:
+    - Voer **voor Outlook voor Office 365** en Outlook **2016**uw e-mailadres in en klik op **Verbinden**.
+    - Voer voor **Outlook 2013** en **Outlook 2010**uw naam, e-mailadres en wachtwoord in en klik op **Volgende**.
+1. Als u daarom wordt gevraagd, voert u uw wachtwoord opnieuw in en selecteert u **OK** > **Voltooien** om uw e-mailaccount in Outlook te gebruiken.
 
-Zie voor meer informatie, [een e-mailaccount aan Outlook toevoegen](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
+Zie [Een e-mailaccount toevoegen aan Outlook voor](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)meer informatie.

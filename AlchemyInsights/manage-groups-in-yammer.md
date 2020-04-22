@@ -1,8 +1,8 @@
 ---
-title: Groepen in Yammer beheren
+title: Groepen beheren in Yammer
 ms.author: pebaum
 author: pebaum
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 439ac70683bb0bc6812de7a2919fb808ea034281
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735024"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762564"
 ---
-# <a name="manage-groups-in-yammer"></a>Groepen in Yammer beheren
+# <a name="manage-groups-in-yammer"></a>Groepen beheren in Yammer
 
-- **Machtiging voor het maken van groepen.** Yammer bepaalt niet wie een groep kan maken. Het is echter mogelijk om groeps creatie te beheren voor verbonden Office 365-groepen. Zie [beheren wie Office 365-groepen kan maken](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) voor meer informatie.
+- **Machtiging voor het maken van groepen.** Yammer bepaalt niet wie een groep kan maken. Het is echter mogelijk om groepscreatie voor verbonden Office 365-groepen te beheren. Zie [Beheren wie Office 365-groepen kan maken](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) voor meer informatie.
 
-- **Dynamisch groepslidmaatschap.** Raadpleeg [een dynamische groep maken in Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) voor informatie over het maken van een dynamisch lidmaatschap voor met Yammer verbonden Office 365-groepen.
+- **Dynamisch groepslidmaatschap.** Raadpleeg [Een dynamische groep maken in Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) voor informatie over het maken van dynamisch lidmaatschap voor met Yammer verbonden Office 365-groepen.
 
-- **Verwijderde groepen herstellen.** Het herstellen van Office 365 verbonden Yammer-groepen is mogelijk via [een verwijderde office 365 groep](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) niet-verbonden groepen kunnen niet worden hersteld na verwijdering.
+- **Verwijderde groepen herstellen.** Yammer-groepen herstellen is mogelijk via [Een verwijderde Office 365-groep herstellen](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) Niet-verbonden groepen kunnen niet worden hersteld na verwijdering.
 
-Zie [een groep in Yammer beheren](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)voor meer informatie over het beheren van een groep. Zie voor meer informatie over verbonden Office 365 groepen, [Yammer en office 365 groepen](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
+Zie [Een groep beheren in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)voor meer informatie over het beheren van een groep. Zie [Yammer- en Office 365-groepen](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)voor informatie over verbonden Office 365-groepen.
   

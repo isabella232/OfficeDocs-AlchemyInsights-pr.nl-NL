@@ -1,34 +1,34 @@
 ---
-title: Problemen met Office 365 geavanceerde Threat Protection
+title: Problemen met geavanceerde bedreigingsbeveiliging van Office 365 oplossen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764987"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732397"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Problemen met Office 365 geavanceerde Threat Protection
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Problemen met geavanceerde bedreigingsbeveiliging van Office 365 oplossen
 
-- Ziet u vertragingen in de bezorging van berichten? Gebruik de optie [Dynamische aflevering](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) in uw veilige bijlagen ATP-beleid. Dit helpt voorkomen bericht vertragingen bij ontvangers beschermen tegen schadelijke bestanden.
+- Merkt u vertragingen in de bezorging van berichten? Gebruik de optie [Dynamische bezorging](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) in uw beleid voor veilige bijlagen op ATP. Dit zal helpen voorkomen dat bericht vertragingen, terwijl de bescherming van ontvangers tegen schadelijke bestanden.
 
-- Wilt u een onjuiste positieve detecties of fout-negatieve resultaten rapporteren bij Microsoft? Gebruik deze [koppeling](https://www.microsoft.com/wdsi/filesubmission/) verzenden van bestanden voor analyse.
+- Wilt u valse positieven of valse negatieven melden aan Microsoft? Gebruik deze [link](https://www.microsoft.com/wdsi/filesubmission/) om bestanden in te dienen voor analyse.
 
-- Wist u dat u koppelingen voor veilige bescherming voor interne e-mail tussen geadresseerden in uw organisatie worden verzonden kunt? Voer de volgende stappen uit:
+- Wist u dat u beveiliging van veilige koppelingen inschakelen voor interne e-mail die wordt verzonden tussen ontvangers binnen uw organisatie? Volg deze stappen:
 
-  1. Ga naar [https://protection.office.com](https://protection.office.com) en meld u aan met een globale beheerder of security administrator-account.
+  1. Ga [https://protection.office.com](https://protection.office.com) naar en meld u aan met een account van een globale beheerder of beveiligingsbeheerder.
 
-  2. Kies **beleid** in het linkernavigatievenster onder **beheer van de bedreiging** \> **Veilige koppelingen**.
+  2. Kies **Veilig Links beleid** \> **Safe Links**in het linkernavigatiedeelvenster onder **Bedreigingsbeheer**.
 
-  3. Selecteer het beleid en klik op **bewerken**in de sectie **beleid die van toepassing zijn op de gehele organisatie** .
+  3. Selecteer in **het beleid dat van toepassing is op de hele organisatiesectie** het beleid en klik op **Bewerken**.
 
-  4. Schakel onder **Instellingen**, **veilige koppelingen toepassen op berichten die binnen de organisatie**.
+  4. Schakel **onder Instellingen**veilige koppelingen toepassen in voor berichten die binnen de organisatie worden **verzonden.**

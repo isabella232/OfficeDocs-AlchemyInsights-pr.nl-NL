@@ -1,9 +1,9 @@
 ---
-title: Herhaalde login om _vti_rpc te openen
+title: Herhaalde aanmelding om _vti_rpc te openen
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: d28370db130278074beb06a5379553f26b2c684c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 4b063c5524fdf36e4fa7eb6e774773ed701a8526
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722769"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>Herhaalde login om _vti_rpc te openen
+# <a name="repeated-login-to-open-_vti_rpc"></a>Herhaalde aanmelding om _vti_rpc te openen
 
-Wanneer u werkt aan OneDrive-bestanden met behulp van Office 2016, ziet u mogelijk het bericht: ' vertel ons het account dat u wilt gebruiken om _vti_rpc te openen. ' Dit probleem is opgelost in versie 1708 (16.0.8431.2094). U dit oplossen door de nieuwste versie van Office te updaten. Selecteer **** \> **** \> update **** opties \> voor bestands account **Nu bijwerken**.
+Wanneer u aan OneDrive-bestanden werkt met Office 2016, ziet u mogelijk het bericht: 'Vertel ons het account dat u wilt gebruiken om _vti_rpc te openen.' Dit probleem werd opgelost in versie 1708 (16.0.8431.2094). Update om dit op te lossen naar de nieuwste versie van Office. Selecteer **Nu bijvoegen**voor **File** \> **bestandsaccountupdate** \> **Update Options** \> .
   

@@ -1,9 +1,9 @@
 ---
-title: 8000047 het maken van een e-mailhandtekening in Outlook.com
+title: 8000047 Een e-mailhandtekening maken in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 0ba88b28f8f3754cdc6475a10b0df22ec87e654d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f331cc789a50f44fc62e22b5bf8f6f3e3daa6c00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541256"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724505"
 ---
-# <a name="how-to-create-an-email-signature"></a>Het maken van een e-mailhandtekening
+# <a name="how-to-create-an-email-signature"></a>Een e-mailhandtekening maken
 
-Ga naar de [instellingen van opstellen en beantwoorden](https://go.microsoft.com/fwlink/?linkid=2006164) (**Instellingen** \> **alle Outlook-instellingen weergeven** \> **opstellen en beantwoorden**).
+Ga naar de [instellingen Voor samenstellen en beantwoorden](https://go.microsoft.com/fwlink/?linkid=2006164) **(Instellingen** \> **Bekijk alle Outlook-instellingen** \> **Stel samen en beantwoord).**
   
- **Opmerking:** U kunt slechts één handtekening per account hebben.
+ **Let op:** U slechts één handtekening per account hebben.
   
-Meer informatie over het [maken en het toevoegen van een e-mailhandtekening in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).
+Meer informatie over het [maken en toevoegen van een e-mailhandtekening in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).

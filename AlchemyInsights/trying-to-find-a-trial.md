@@ -1,9 +1,9 @@
 ---
-title: Het zoeken naar een evaluatieversie?
+title: Probeer je een proces te vinden?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533082"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732325"
 ---
-# <a name="trying-to-find-a-trial"></a>Het zoeken naar een evaluatieversie?
+# <a name="trying-to-find-a-trial"></a>Probeer je een proces te vinden?
 
-Als u proberen een nieuwe service wilt, vindt u een lijst met beschikbare abonnementen voor evaluatie in het Microsoft 365 admin center.
+Als u een nieuwe service wilt proberen, u een lijst met abonnementen vinden die beschikbaar zijn voor proefversie in het Microsoft 365-beheercentrum.
   
-1. In het admin center, gaat u naar de **Facturering** \> [Inkoop services](https://go.microsoft.com/fwlink/p/?linkid=868433) pagina.
+1. Ga in het beheercentrum naar de pagina Services [voor factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing** \>
 
-2. Selecteer het abonnement die aan uw behoeften voldoet en selecteer vervolgens **ophalen gratis proefperiode**.
+2. Selecteer het abonnement dat aan uw behoeften voldoet en selecteer **Gratis proefversie krijgen.**
 
     > [!NOTE]
-    > Niet alle abonnementen zijn beschikbaar als een proef. Als u niet de **gratis proefversie ophalen** knop ziet wanneer u de muis over een abonnement, betekent dit dat een proef is niet beschikbaar.
+    > Niet alle abonnementen zijn beschikbaar als proefversie. Als u de gratis **proefabonnement** niet ziet wanneer u met de muis over een abonnement stapt, betekent dit dat er geen proefversie beschikbaar is.
   
-3. U wordt mogelijk gevraagd om in te voeren, een creditcard of een andere betalingsmethode om aanvullende verificatie als veiligheidsmaatregel. U geen bedrag afgeschreven voor deze gratis proefperiode. Wij blijven uw betalingsgegevens en niet gebruikt voor een aankoop zonder uw goedkeuring.
+3. Mogelijk wordt u gevraagd om een creditcard of andere betalingsmethode in te voeren om extra verificatie als beveiligingsmaatregel te bieden. Er worden geen kosten in rekening gebracht voor deze gratis proefperiode. We bewaren uw betalingsgegevens in het bestand en gebruiken deze niet voor een aankoop zonder uw toestemming.
 
-4. Kies **nu proberen**.
+4. Kies **Nu proberen**.

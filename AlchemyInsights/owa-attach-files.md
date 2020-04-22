@@ -1,25 +1,25 @@
 ---
-title: Bestandsbijlagen in Outlook op het web
+title: Bestanden in de webversie van Outlook toevoegen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 77497bdfe7b336c6453ce7e382482058fb09a0f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d6bced3e72b7853a9d826e76ac5acc24ba64ef23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743160"
 ---
-# <a name="how-to-attach-files-in-outlook-on-the-web"></a>Het koppelen van bestanden in Outlook op het web
+# <a name="how-to-attach-files-in-outlook-on-the-web"></a>Bestanden koppelen in de webversie van Outlook
 
-1. Selecteer het pictogram van een paperclip onderaan een bericht of agenda-gebeurtenis <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />
+1. Selecteer onder aan een bericht of agenda-afspraak het paperclippictogram <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QkaFhg7CMMZsgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABSklEQVQ4je2VL6+CUBiHH+/uBo1yZiSRHYlgwUBx00whWf0edj+HJGDqBpnMnMlZYM7ACFKs3CQbm+Auut1yf+2879nz/tt7zqCqqooP6+vTQIDvNkdRFOz3e7IsA0BVVRzHeQ+6Xq/J87w+p2lKWZYsl8t+0CAIyPOc0WiEbdt1kMPhQJIk6LreCX3a09vtBoBt2wghEEIwnU4BuFwuLzPtHJQQojVgb2hRFKxWK87nc8Puui5JkvSDnk4n0jRtDAwgDEOOx2M/aF/9Q/8Ier1eud/vAMiy/B50PB4jSRJhGLLZbABerih0PCgPLRYLttstAIZhoGlaP+ijxCiKsCyrkV0URY07z/S0/MlkgiRJeJ5HHMe1PY5jPM8DutswaPtOgiDA930AFEUBoCxLAObzObPZ7PfQR2a73a7e/eFwiGmaWJbVCgT4AfRAgmp2DdDrAAAAAElFTkSuQmCC' />
 .
-1. Selecteer **deze computer te bladeren** naar een bestand op uw computer of **cloud-locaties bladeren** om een bestand online te koppelen.
+1. Selecteer **Bladeren op deze computer** om een bestand op uw computer te koppelen of Blader door **cloudlocaties** om een online bestand bij te voegen.
 
-Voor meer informatie, Zie [bestanden bijvoegen in Outlook op het web](https://support.office.com/article/48b8dca1-7a76-43ce-97d1-e1cf73893f55).
+Zie [Bestanden in de webversie van Outlook bijvoegen](https://support.office.com/article/48b8dca1-7a76-43ce-97d1-e1cf73893f55)voor meer informatie.

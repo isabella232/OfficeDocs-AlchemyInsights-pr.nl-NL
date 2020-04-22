@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720168"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>De naam van uw onmicrosoft.com domein wijzigen
+# <a name="rename-your-onmicrosoftcom-domain"></a>De naam van uw onmicrosoft.com-domein wijzigen
 
- **U kunt de naam van het onmicrosoft-domein niet meer wijzigen nadat u zich hebt geregistreerd.** Als het eerste domein dat u hebt gekozen bijvoorbeeld *fourthcoffee.onmicrosoft.com*is, u het niet wijzigen in *fabrikam.onmicrosoft.com*. Als u een ander onmicrosoft.com-domein wilt gebruiken, moet u een nieuw abonnement nemen op Office 365.
+ **U kunt de naam van het onmicrosoft-domein niet meer wijzigen nadat u zich hebt geregistreerd.** Als het oorspronkelijke domein dat u hebt gekozen bijvoorbeeld *fourthcoffee.onmicrosoft.com*is, u het niet wijzigen om *fabrikam.onmicrosoft.com*te zijn. Als u een ander onmicrosoft.com-domein wilt gebruiken, moet u een nieuw abonnement starten met Microsoft 365.
   
-Als u een aangepast domein zoals *contoso.com* wilt gebruiken, u er een [toevoegen waarvan u de eigenaar bent](https://docs.microsoft.com/office365/admin/setup/add-domain) of er een [aanschaffen bij Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
+Als u een aangepast domein zoals *contoso.com* wilt gebruiken, u [er een toevoegen waarvan u eigenaar bent](https://docs.microsoft.com/office365/admin/setup/add-domain) of een domein bij Microsoft [kopen.](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name)
   

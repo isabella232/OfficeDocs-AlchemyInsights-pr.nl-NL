@@ -1,9 +1,9 @@
 ---
-title: Reparatie PST-bestand voordat u importeert
+title: PST-bestand herstellen voordat u importeert
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552418"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720132"
 ---
-# <a name="repair-pst-file-before-importing"></a>Reparatie PST-bestand voordat u importeert
+# <a name="repair-pst-file-before-importing"></a>PST-bestand herstellen voordat u importeert
 
-Voordat u een PST-bestand in Outlook importeert, moet u controleren of dat het bestand niet is beschadigd door het bestand te herstellen:
+Voordat u een PST-bestand importeert in Outlook, controleert u of het bestand niet beschadigd is door het bestand te herstellen:
 
-1. Sluit Outlook af.
+1. Outlook afsluiten.
 
-2. Zoek en start `Scanpst.exe` in de map van uw Office-programma (C:\Program Files (x86) \Microsoft Office\root\Office\<versie\> of in C:\Program Files\Microsoft Office\root\Office\<versie\>).
+2. Zoeken en `Scanpst.exe` \<uitvoeren in uw Office-programmamap (C:\Program Files (x86)\Microsoft Office\root\Office-versie\> of\<\>C:\Program Files\Microsoft Office\root\Office-versie).
 
-3. In het **hulpprogramma voor postvak van Microsoft Outlook**, klikt u op **Bladeren** om het PST-bestand (bijvoorbeeld in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook). Selecteer het PST-bestand en klik vervolgens op **openen**.
+3. Klik in het **hulpprogramma Microsoft Outlook Inbox Repair**op **Bladeren** om het PST-bestand te zoeken (bijvoorbeeld in C:\Gebruikers\\<gebruikersnaam\>\AppData\Local\Microsoft\Outlook). Selecteer het PST-bestand en klik op **Openen**.
 
-4. Klik op **Start** om te beginnen met het scannen.
+4. Klik **op Start** om de scan te starten.
 
-5. Als er fouten worden gevonden in het bestand, klikt u op **herstellen**en klik vervolgens op **OK** wanneer de herstelbewerking voltooid is.
+5. Als er fouten in het bestand worden gevonden, klikt u op **Herstellen**en klikt u vervolgens op **OK** wanneer de reparatie is voltooid.
 
-6. Probeer opnieuw te importeren het PST-bestand in Outlook.
+6. Probeer het PST-bestand opnieuw te importeren in Outlook.
 
-Zie [herstel Outlook-gegevensbestanden](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) en het [oplossen van problemen met het importeren van een PST-bestand van Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)voor meer informatie.
+Zie [Outlook-gegevensbestanden herstellen](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) en [problemen oplossen bij het importeren van een PST-bestand van Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

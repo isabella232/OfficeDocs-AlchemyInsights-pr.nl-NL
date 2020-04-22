@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626739"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758857"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>De upgrade van de door Microsoft gestuurde teams uitstellen
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>De microsoft-gestuurde Teams-upgrade uitstellen
 
-Als u communicatie over een door Microsoft gestuurde geautomatiseerde upgrade van Skype voor bedrijven naar Microsoft teams hebt ontvangen en u de automatische upgrade naar een latere datum wilt uitstellen, kan uw globale beheerder van Office 365 zich aanmelden bij de [teams-beheerportal](https://admin.teams.microsoft.com/dashboard) en de knop **uitstellen** selecteren. Vernieuw de pagina teams admin Portal om de nieuwe datum voor de automatische upgrade van uw Tenant naar Microsoft teams te bekijken.
+Als u communicatie hebt ontvangen over een geautomatiseerde upgrade van Skype voor Bedrijven door Microsoft naar Microsoft Teams en u de geautomatiseerde upgrade wilt uitstellen naar een latere datum, kan uw globale beheerder zich aanmelden bij de [portal Teams Admin](https://admin.teams.microsoft.com/dashboard) en de knop **Uitstellen** selecteren. Als u de nieuwe datum wilt zien voor de geautomatiseerde upgrade van uw tenant naar Microsoft Teams, vernieuwt u de portalpagina Teams Admin.
 
-**Opmerking:** De knop **uitstellen** is alleen beschikbaar als u de melding berichtencentrum met betrekking tot de automatische upgrade hebt ontvangen. 
+**Let op:** De knop **Uitstellen** is alleen beschikbaar als u de melding van het berichtencentrum met betrekking tot de geautomatiseerde upgrade hebt ontvangen. 
 
-Office 365 globale beheerders kunnen ook uitvoeren [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) voor meer informatie over hun huidige Upgradestatus. 
+Globale beheerders kunnen ook [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) uitvoeren voor meer informatie over hun huidige upgradestatus. 

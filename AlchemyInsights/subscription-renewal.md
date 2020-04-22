@@ -1,9 +1,9 @@
 ---
-title: Abonnementsverlenging
+title: Verlenging van het abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666007"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741822"
 ---
-# <a name="subscription-recurring-billing"></a>Abonnement terugkerende facturering
+# <a name="subscription-recurring-billing"></a>Terugkerende facturering van abonnementen
 
-Als u wilt weten wanneer uw maandelijkse of jaarlijkse Office 365-abonnement wordt gefactureerd (als **terugkerende facturering** is ingeschakeld) of verloopt (als **terugkerende facturering** is uitgeschakeld):
+Als u wilt weten wanneer uw maandelijkse of jaarlijkse abonnement in rekening wordt gebracht (als **terugkerende facturering** is ingeschakeld) of verloopt (als **terugkerende facturering** is uitgeschakeld):
   
-1. Ga in het Admin Center naar de pagina **facturerings** \> [producten _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Ga in het beheercentrum naar de pagina **Facturering** \> [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Voor het abonnement dat u meer wilt weten over, onder **facturering**, zie de **vernieuwt op** of **verloopt op** datum.
+2. Zie het op datum **verlengen op** of **aflopen op** datum voor het abonnement waarover u meer wilt weten. **Billing**
 
-4. Als u een wijziging wilt aanbrengen, selecteert u **bewerken** en selecteert u in het deelvenster instellingen voor **terugkerende facturering** de optie **uitschakelen om deze** optie uit te schakelen. Als terugkerende facturering al is uitgeschakeld, selecteert u **maandelijks** of **één keer** om deze in te schakelen.
+4. Als u een wijziging wilt aanbrengen, selecteert u **bewerken** en selecteert u vervolgens in het deelvenster **Terugkerende factureringsinstellingen** de optie **Uitschakelen** om deze uit te schakelen. Als terugkerende facturering al is uitgeschakeld, selecteert u **Maandelijks** of **Eenmaal** om deze in te schakelen.
 
-Zie [terugkerende facturering uitschakelen of](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)inschakelen voor meer informatie.
+Zie [Terugkerende facturering in- of uitschakelen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription) voor meer informatie.

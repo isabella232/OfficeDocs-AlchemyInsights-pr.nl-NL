@@ -1,9 +1,9 @@
 ---
-title: Problemen oplossen met de Inschrijvingsopties voor Microsoft Intune
+title: Problemen met inschrijvingsopties oplossen Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506726"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43735187"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Problemen oplossen met de Inschrijvingsopties voor Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Problemen met inschrijvingsopties oplossen Microsoft Intune
 
-Bekijk de bronnen die worden vermeld onder het probleem nu oplossen.
+Bekijk de onderstaande bronnen om het probleem nu op te lossen.
   
-- [Revisie Intune TechNet zoeken naar antwoorden en oplossingen voor algemene problemen](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Bekijk Intune TechNet om antwoorden en oplossingen voor veelvoorkomende problemen te vinden.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
 
-- [Intune probleemoplossing Portal](https://aka.ms/intunetroubleshooting) gebruiken om te bepalen en verhelpen van storingen in gemeenschappelijke inschrijving. Bekijk [Dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
+- Gebruik [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) om veelvoorkomende inschrijvingsfouten te diagnosticeren en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
 
-- Bekijk [Dit document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) voor een lijst met veelvoorkomende fouten die voorkomen dat de inschrijving en oplossingen voor elk.
+- Controleer [dit document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) op een lijst met veelvoorkomende fouten die inschrijving en resoluties voor elke instelling voorkomen.
 
-- [Meer informatie over Inschrijvingsopties voor in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Meer informatie over inschrijvingsopties in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
