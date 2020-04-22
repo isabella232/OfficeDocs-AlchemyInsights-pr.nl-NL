@@ -1,9 +1,9 @@
 ---
-title: Outlook.com zich niet afmelden?
+title: Outlook.com zich niet afmelden
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547810"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666844"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="be460-102">Aanmelden bij een Outlook.com</span><span class="sxs-lookup"><span data-stu-id="be460-102">Unable to sign out of Outlook.com</span></span>
+# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="236db-102">Kan zich niet afmelden bij Outlook.com</span><span class="sxs-lookup"><span data-stu-id="236db-102">Unable to sign out of Outlook.com</span></span>
 
-<span data-ttu-id="be460-103">Als u wilt afmelden bij Outlook.com, selecteert u uw naam of foto op de rechterbovenhoek van het scherm en selecteer vervolgens **Afmelden**.</span><span class="sxs-lookup"><span data-stu-id="be460-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
+<span data-ttu-id="236db-103">Als u zich wilt afmelden bij Outlook.com, selecteert u uw naam of afbeelding in de rechterbovenhoek van het scherm en selecteert u **Afmelden**.</span><span class="sxs-lookup"><span data-stu-id="236db-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
 
-<span data-ttu-id="be460-104">Als u uw afbeelding aan de bovenkant van het scherm niet ziet, controleren of de ad blokkeren is ingeschakeld.</span><span class="sxs-lookup"><span data-stu-id="be460-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="be460-105">Soms Hiermee voorkomt u dat de afbeelding wordt weergegeven.</span><span class="sxs-lookup"><span data-stu-id="be460-105">Sometimes this prevents the picture from showing.</span></span>
+<span data-ttu-id="236db-104">Als je de afbeelding boven aan het scherm niet ziet, controleert u of het blokkeren van advertenties is ingeschakeld.</span><span class="sxs-lookup"><span data-stu-id="236db-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="236db-105">Dit is soms de reden dat de afbeelding niet wordt weergegeven.</span><span class="sxs-lookup"><span data-stu-id="236db-105">Sometimes this prevents the picture from showing.</span></span>
 
-<span data-ttu-id="be460-106">Als u nog steeds zich niet bij een Outlook.com aanmelden, klikt u op [https://login.live.com/logout.srf](https://login.live.com/logout.srf) vervolgens alle browservensters sluiten.</span><span class="sxs-lookup"><span data-stu-id="be460-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>
+<span data-ttu-id="236db-106">Als u zich nog steeds niet [https://login.live.com/logout.srf](https://login.live.com/logout.srf) kunt afmelden bij Outlook.com, klikt u op alle browservensters sluiten.</span><span class="sxs-lookup"><span data-stu-id="236db-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>

@@ -1,28 +1,28 @@
 ---
-title: Uw accountgegevens wijzigen in Outlook op het web
+title: Uw accountgegevens wijzigen in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 861892a3e51727f00fcbbeedf1cf434589d7432a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36510582"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666988"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a><span data-ttu-id="25a8c-102">Accountgegevens wijzigen in Outlook op het web</span><span class="sxs-lookup"><span data-stu-id="25a8c-102">Change account information in Outlook on the web</span></span>
+# <a name="change-account-information-in-outlook-on-the-web"></a><span data-ttu-id="107de-102">Accountgegevens wijzigen in de webversie van Outlook</span><span class="sxs-lookup"><span data-stu-id="107de-102">Change account information in Outlook on the web</span></span>
 
-1. <span data-ttu-id="25a8c-103">Selecteer bovenaan de pagina je naam of profielfoto.</span><span class="sxs-lookup"><span data-stu-id="25a8c-103">At the top of the page, select your name or profile picture.</span></span>
-1. <span data-ttu-id="25a8c-104">Selecteer **Mijn account**.</span><span class="sxs-lookup"><span data-stu-id="25a8c-104">Select **My account**.</span></span>
-1. <span data-ttu-id="25a8c-105">Selecteer **persoonlijke gegevens**.</span><span class="sxs-lookup"><span data-stu-id="25a8c-105">Select **Personal info**.</span></span>
-1. <span data-ttu-id="25a8c-106">Informatie over uzelf wijzigen of toevoegen.</span><span class="sxs-lookup"><span data-stu-id="25a8c-106">Change or add information about yourself.</span></span>
+1. <span data-ttu-id="107de-103">Selecteer boven aan de pagina uw naam of profielfoto.</span><span class="sxs-lookup"><span data-stu-id="107de-103">At the top of the page, select your name or profile picture.</span></span>
+1. <span data-ttu-id="107de-104">Selecteer **Mijn account**.</span><span class="sxs-lookup"><span data-stu-id="107de-104">Select **My account**.</span></span>
+1. <span data-ttu-id="107de-105">Selecteer **Persoonlijke gegevens**.</span><span class="sxs-lookup"><span data-stu-id="107de-105">Select **Personal info**.</span></span>
+1. <span data-ttu-id="107de-106">Informatie over uzelf wijzigen of toevoegen.</span><span class="sxs-lookup"><span data-stu-id="107de-106">Change or add information about yourself.</span></span>
 
-<span data-ttu-id="25a8c-107">*Opmerking:* Sommige Details, zoals uw naam en functie, kunnen worden verstrekt door uw afdeling IT of human resources.</span><span class="sxs-lookup"><span data-stu-id="25a8c-107">*Note:* Some details, like your name and job title, might be provided by your IT or human resources department.</span></span> <span data-ttu-id="25a8c-108">Als u deze gegevens wilt bijwerken, neem dan contact op met hen of uw beheerder.</span><span class="sxs-lookup"><span data-stu-id="25a8c-108">If you want to update those details, contact them or your admin.</span></span>
+<span data-ttu-id="107de-107">*Let op:* Sommige gegevens, zoals uw naam en functietitel, kunnen worden verstrekt door uw IT- of personeelsafdeling.</span><span class="sxs-lookup"><span data-stu-id="107de-107">*Note:* Some details, like your name and job title, might be provided by your IT or human resources department.</span></span> <span data-ttu-id="107de-108">Als u deze gegevens wilt bijwerken, neemt u contact op met hen of uw beheerder.</span><span class="sxs-lookup"><span data-stu-id="107de-108">If you want to update those details, contact them or your admin.</span></span>
 
-<span data-ttu-id="25a8c-109">Zie [uw foto-en accountgegevens wijzigen in Outlook op het web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="25a8c-109">For more information, see [Change your photo and account information in Outlook on the web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span></span>
+<span data-ttu-id="107de-109">Zie [Uw foto en accountgegevens wijzigen in de webversie van Outlook voor](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="107de-109">For more information, see [Change your photo and account information in Outlook on the web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span></span>
