@@ -1,9 +1,9 @@
 ---
-title: Herstellen van verwijderde e-mailberichten in Outlook op het web
+title: Verwijderde e-mail herstellen in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/9/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 730d0910302357ded8125e861a7827da204613c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765660"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a><span data-ttu-id="5a01f-102">Herstellen van verwijderde e-mailberichten in Outlook op het web</span><span class="sxs-lookup"><span data-stu-id="5a01f-102">Recover deleted email in Outlook on the web</span></span>
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a><span data-ttu-id="855ac-102">Verwijderde e-mail herstellen in de webversie van Outlook</span><span class="sxs-lookup"><span data-stu-id="855ac-102">Recover deleted email in Outlook on the web</span></span>
 
-1. <span data-ttu-id="5a01f-103">Selecteer in het linkerdeelvenster de map Verwijderde Items of in de map Ongewenste E-mail.</span><span class="sxs-lookup"><span data-stu-id="5a01f-103">In the left pane, select the Deleted Items folder or the Junk Email folder.</span></span>
+1. <span data-ttu-id="855ac-103">Selecteer in het linkerdeelvenster de map Verwijderde items of de map Ongewenste e-mail.</span><span class="sxs-lookup"><span data-stu-id="855ac-103">In the left pane, select the Deleted Items folder or the Junk Email folder.</span></span>
 
-2. <span data-ttu-id="5a01f-104">Voer een van de volgende handelingen uit:</span><span class="sxs-lookup"><span data-stu-id="5a01f-104">Do one of the following:</span></span>
+2. <span data-ttu-id="855ac-104">Voer een van de volgende handelingen uit:</span><span class="sxs-lookup"><span data-stu-id="855ac-104">Do one of the following:</span></span>
 
-    - <span data-ttu-id="5a01f-105">Map Verwijderde Items: Selecteer het bericht dat u wilt herstellen en kies **herstellen**.</span><span class="sxs-lookup"><span data-stu-id="5a01f-105">Deleted Items folder: Select the message you want to recover and select **Restore**.</span></span> <span data-ttu-id="5a01f-106">Als het bericht niet in de map Verwijderde Items, selecteert u **vanuit deze map Verwijderde items herstellen** op de bovenkant van de lijst met berichten, selecteert u het bericht dat u wilt herstellen en **terugzetten**selecteren.</span><span class="sxs-lookup"><span data-stu-id="5a01f-106">If the message isn't in the Deleted Items folder, select **Recover items deleted from this folder** at the top of the message list, select the message you want to recover, and select **Restore**.</span></span>
+    - <span data-ttu-id="855ac-105">Map Verwijderde items: selecteer het bericht dat u wilt herstellen en selecteer **Herstellen**.</span><span class="sxs-lookup"><span data-stu-id="855ac-105">Deleted Items folder: Select the message you want to recover and select **Restore**.</span></span> <span data-ttu-id="855ac-106">Als het bericht zich niet in de map Verwijderde items bevindt, selecteert u **Items herstellen die uit deze map** zijn verwijderd boven aan de berichtenlijst, selecteert u het bericht dat u wilt herstellen en selecteert u **Herstellen**.</span><span class="sxs-lookup"><span data-stu-id="855ac-106">If the message isn't in the Deleted Items folder, select **Recover items deleted from this folder** at the top of the message list, select the message you want to recover, and select **Restore**.</span></span>
 
-    - <span data-ttu-id="5a01f-107">Map Ongewenste E-mail: Selecteer het bericht dat u wilt herstellen en **niet-ongewenste e-mail**.</span><span class="sxs-lookup"><span data-stu-id="5a01f-107">Junk Email folder: Select the message you want to recover, and select **Not junk**.</span></span>
+    - <span data-ttu-id="855ac-107">Map Ongewenste e-mail: selecteer het bericht dat u wilt herstellen en selecteer **Geen ongewenste e-mail**.</span><span class="sxs-lookup"><span data-stu-id="855ac-107">Junk Email folder: Select the message you want to recover, and select **Not junk**.</span></span>
 
-<span data-ttu-id="5a01f-108">Voor meer informatie, Zie [herstellen verwijderde e-mailberichten in Outlook op het web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span><span class="sxs-lookup"><span data-stu-id="5a01f-108">To learn more, see [Recover deleted email messages in Outlook on the web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span></span>
+<span data-ttu-id="855ac-108">Zie [Verwijderde e-mailberichten herstellen in de webversie van Outlook voor](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="855ac-108">To learn more, see [Recover deleted email messages in Outlook on the web](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).</span></span>
