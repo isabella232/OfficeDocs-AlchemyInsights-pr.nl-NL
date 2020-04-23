@@ -1,24 +1,24 @@
 ---
-title: 8000036 profiel pic/naam wijzigen in Outlook.com
+title: 8000036 Profiel pic/naam wijzigen in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511338"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719371"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Wijzig mijn profielfoto of naam in Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Mijn profielfoto of -naam wijzigen in Outlook.com
 
-1. Ga naar [uw Microsoft-accountgegevens](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Selecteer **naam bewerken** of **afbeelding wijzigen**.
+1. Ga naar [Uw Microsoft-accountgegevens](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Selecteer **Naam bewerken** of Afbeelding **wijzigen**.
 
-Het kan tot 24 uur duren voordat wijzigingen in je profielfoto of naam van kracht worden.
+Houd er rekening mee dat wijzigingen in uw profielfoto of -naam maximaal 24 uur in werking kunnen treden.

@@ -1,8 +1,8 @@
 ---
-title: De domeinnaamservers voor Office 365 bijwerken
+title: De domeinnaamservers bijwerken zodat ze verwijzen naar Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742170"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719988"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>De domeinnaamservers voor Office 365 bijwerken
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>De domeinnaamservers bijwerken zodat ze verwijzen naar Microsoft
 
 Opmerking: het kan soms 48 uur duren voordat wijzigingen in naamservers zijn doorgevoerd.
   
-De naamservers bij uw registrar moeten worden bijgewerkt als u uw domein in Office 365 wilt instellen. Maak uw naamserverrecords bij uw domeinregistrar of bewerk ze.
+Als u uw domein met Microsoft wilt instellen, moeten de naamservers bij uw registrar worden bijgewerkt. Maak uw naamserverrecords bij uw domeinregistrar of bewerk ze.
   
 1. Ga naar de website van uw domeinregistrar en zoek het gedeelte waar u de naamservers kunt bewerken.
 
@@ -34,5 +34,5 @@ De naamservers bij uw registrar moeten worden bijgewerkt als u uw domein in Offi
 
 3. Sla de wijzigingen op.
 
-Gedetailleerde instructies kunt u ook in het volgende artikel vinden: [Naamservers wijzigen voor het instellen van Office 365 bij een domeinregistrar](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+U vindt ook gedetailleerde instructies in dit artikel: [Naamservers wijzigen om Microsoft 365 in te stellen met elke domeinregistrar](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   
