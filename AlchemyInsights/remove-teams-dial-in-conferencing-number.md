@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027946"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784794"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Verwijder het inbelvergaderingsnummer van Teams
 
@@ -24,7 +24,7 @@ Heeft u hulp nodig bij het verwijderen van een inbelvergaderingsnummer van uw co
 
 Het standaard telefoonnummer van de conferentiebrug definieert de beller-ID die wordt gebruikt wanneer een uitgaande oproep wordt geplaatst door een deelnemer of de organisator vanuit een vergadering.
 
-1. Meld u aan bij Office 365 met uw werkaccount.
+1. Meld u aan met uw werkaccount.
 
 2. Ga naar ** Microsoft 365-beheercentrum **.
 
