@@ -1,31 +1,31 @@
 ---
-title: Problemen oplossen met de Inschrijvingsopties voor Microsoft Intune
+title: Problemen met inschrijvingsopties oplossen Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559332"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43734627"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Problemen oplossen met de Inschrijvingsopties voor Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Problemen met inschrijvingsopties oplossen Microsoft Intune
 
-Bekijk de bronnen die worden vermeld onder het probleem nu oplossen. Als deze bronnen niet helpen, neem dan contact op met ondersteuning door te klikken op [hier](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) en kiezen "maken een aanvraag voor ondersteuning." 
+Bekijk de onderstaande bronnen om het probleem nu op te lossen. Als deze bronnen niet helpen, neemt u contact op met ondersteuning door [hier](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) te klikken en 'Een ondersteuningsverzoek maken' te kiezen. 
   
-- [Revisie Intune TechNet zoeken naar antwoorden en oplossingen voor algemene problemen](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Bekijk Intune TechNet om antwoorden en oplossingen voor veelvoorkomende problemen te vinden.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
     
-- [Intune probleemoplossing Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) gebruiken om te bepalen en verhelpen van storingen in gemeenschappelijke inschrijving. Bekijk [Dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie. 
+- Gebruik [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) om veelvoorkomende inschrijvingsfouten te diagnosticeren en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie. 
     
-- Bekijk [Dit document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) voor een lijst met veelvoorkomende fouten die voorkomen dat de inschrijving en oplossingen voor elk. 
+- Controleer [dit document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) op een lijst met veelvoorkomende fouten die inschrijving en resoluties voor elke instelling voorkomen. 
     
-- [Meer informatie over Inschrijvingsopties voor in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Meer informatie over inschrijvingsopties in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

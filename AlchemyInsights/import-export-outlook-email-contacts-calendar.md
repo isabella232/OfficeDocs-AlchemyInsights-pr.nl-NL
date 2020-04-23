@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-Outlook-email-Contacts-Calendar
+title: 1221-import-export-outlook-e-mail-contacten-agenda
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545153"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724659"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importeren en exporteren van Outlook e-mail, contactpersonen en agenda-items
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook-e-mail, -contactpersonen en -agenda-items importeren en exporteren
 
-1. Klik op **bestand**in Outlook.
+1. Klik in Outlook op **Bestand**.
 
-2. Klik op **Open & exporteren**en klik vervolgens op **Importeren/exporteren**.
+2. Klik op **Openen en exporteren** en klik vervolgens op **Importeren/exporteren**.
 
-    Hiermee start u de wizard importeren en exporteren.
+    Hiermee wordt de wizard Importeren en exporteren gestart.
 
-Voor een complete set importeren en exporteren van instructies voor Outlook, Zie [dit artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Zie [dit artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)voor een volledige set import- en exportinstructies voor Outlook.
 
-Als u beheerder bent en wilt bulkimport meerdere PST-bestanden voor Office 365-postvakken, Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)als u een beheerder bent en meerdere PST-bestanden wilt importeren in Microsoft 365-postvakken.

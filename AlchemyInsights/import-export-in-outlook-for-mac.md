@@ -1,9 +1,9 @@
 ---
-title: Import-export-in-Outlook-for-Mac
+title: import-export-in-outlook-voor-mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629941"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724725"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Importeren/exporteren in Outlook voor Mac 
 
 Exporteren:
-1. Kies **exporteren**op het tabblad **Extra** .
-2. Kies de map **Downloads** in het vak **Opslaan als** onder **Favorieten**, en selecteer **Opslaan**.
-3. Wanneer er de melding dat het exporteren voltooid is, selecteert u **klaar bent**.
+1. Kies op het tabblad **Extra** de optie **Exporteren**.
+2. Kies in het vak **Opslaan als** onder **Favorieten**de map **Downloads** en selecteer **Opslaan**.
+3. Wanneer u de melding ziet dat de export is voltooid, selecteert u **Voltooien**.
 
 Importeren:
-1. Kies **importeren**op het tabblad **Extra** .
-2. Selecteer **Outlook voor Windows-bestand (.pst) archiveren** > **Doorgaan**.
-3. Zoek het PST-bestand op uw Mac en kies vervolgens **importeren**.
+1. Kies op het tabblad **Extra** de optie **Importeren**.
+2. Selecteer **Outlook voor Windows-archiefbestand (.pst)** > **Doorgaan**.
+3. Zoek het PST-bestand op je Mac en kies **Importeren**.
 4. Wanneer het importproces is voltooid, kiest u **Voltooien**.
-5. De geïmporteerde items worden weergegeven in het navigatiedeelvenster onder **Op Mijn Computer**.
+5. De geïmporteerde items worden weergegeven in het navigatiedeelvenster onder **Op mijn computer**.
 
-Instructies voor Outlook voor Mac Zie [importeren en exporteren van Outlook e-mail, contactpersonen en agenda](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)voor de volledige set van Import en Export. 
+Zie [E-mail, contactpersonen en agenda](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)importeren en exporteren voor volledige set import- en exportinstructies voor Outlook voor Mac. 
 
-Voor het ontvangen van ondersteuning in-app voor Outlook voor Mac opgelost, open Outlook en selecteer **Help** > **Contact ondersteunen**. Typ uw vraag en een lid van de vooruitzichten voor de Mac support team krijgt contact met u opnemen. [Neem contact op met ondersteuning in Outlook voor Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Als u ondersteuning wilt ontvangen voor Outlook voor Mac-problemen, opent u Outlook en selecteert u Ondersteuning**voor contactpersonen voor** **help** > . Typ uw vraag en een lid van het ondersteuningsteam van Outlook voor Mac neemt contact met u op. [Contact opnemen met ondersteuning in Outlook voor Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

@@ -1,9 +1,9 @@
 ---
-title: Het identificeren van een toeslag op uw creditcard- of bankafschrift
+title: Hoe u een toeslag op uw creditcard of bankafschrift identificeren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540608"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724369"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Het identificeren van een toeslag op uw creditcard- of bankafschrift
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Hoe u een toeslag op uw creditcard of bankafschrift identificeren
 
-De omschrijving van de toeslag voor een Office 365-abonnement ziet er zo uit:
+De beschrijving van de kosten voor een Microsoft 365-abonnement ziet er als volgt uit:
   
-MSFT \* E012345ABC-0000 - MSBILL.INFO, WA
+MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-De 10 alfanumerieke tekenreeks MSFT na \* is het nummer van de factuur de toeslag betrekking heeft. De factuur vindt u de **Facturering** te \> [& betalingen van facturen](https://go.microsoft.com/fwlink/p/?linkid=848039) pagina om uw recente facturen te bekijken. Het nummer van de factuur is in de buurt van de rechterhoek van het factuurdocument.
+De alfanumerieke tekenreeks van 10 \* tekens na MSFT is het factuurnummer waar de kosten op betrekking hebben. Als u de factuur wilt vinden, gaat u naar de pagina **Facturen** \> [& betalingen](https://go.microsoft.com/fwlink/p/?linkid=848039) om uw recente facturen weer te geven. Het factuurnummer bevindt zich in de rechterhoek van het factuurdocument.

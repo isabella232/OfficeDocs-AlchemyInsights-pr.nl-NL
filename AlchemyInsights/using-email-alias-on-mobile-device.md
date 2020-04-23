@@ -1,9 +1,9 @@
 ---
-title: 725 via e-mailalias op mobiele telefoon
+title: 725 E-mailalias gebruiken op mobiel apparaat
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 8ac6a99cb481e6f80aeec90bd0cb51eca52bdba4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d187a6686d986efd18a486fe262bcca5409d93ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531714"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726279"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>E-mail-aliassen op mobiele apparaten
+# <a name="email-aliases-on-mobile-devices"></a>Aliassen e-mailen op mobiele apparaten
 
-Een e-mailalias is een ander e-mailadres dat geconfigureerd voor een postbus, zodat berichten verzonden naar de alias van de gebruiker worden bezorgd in het postvak en zal op hun mobiele apparaat kan worden gelezen. Er is geen aanvullende configuratie nodig.
+Een e-mailalias is gewoon een ander e-mailadres dat is geconfigureerd in een postvak, zodat berichten die naar de alias van een gebruiker worden verzonden, naar hun postvak worden bezorgd en leesbaar zijn op hun mobiele apparaat. Er is geen extra configuratie nodig.
 
-Maar een gebruiker kan berichten beantwoorden of nieuwe berichten verzenden met een alias als hun van adres. Alle uitgaande berichten worden uit hun primaire e-mailadres.
+Een gebruiker kan echter geen berichten beantwoorden of nieuwe berichten verzenden met een alias als hun Van-adres. Alle uitgaande berichten zijn afkomstig van hun primaire e-mailadres.

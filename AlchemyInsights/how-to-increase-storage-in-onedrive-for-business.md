@@ -1,34 +1,34 @@
 ---
-title: Opslagruimte vergroten in OneDrive voor bedrijven
+title: Opslag in OneDrive voor Bedrijven vergroten
 ms.author: pebaum
 author: pebaum
-ms.date: 12/14/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: c4b6aefb2a7f25972d0fdfc7732f9a1a59b9acb9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 176d56c09142fc91f2433e1bf948e8b9c550f4a1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051852"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759291"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Opslagruimte vergroten in OneDrive voor bedrijven
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Opslag in OneDrive voor Bedrijven vergroten
 
-De standaardopslag voor nieuwe en bestaande OneDrive-gebruikers wijzigen:
+Ga als volgende keer op zoek naar de standaardopslag voor nieuwe en bestaande OneDrive-gebruikers:
   
-- Ga naar de [opslag pagina van het OneDrive-Beheercentrum](https://admin.onedrive.com/?v=StorageSettings)en voer vervolgens een nieuw bedrag in GB in.
+- Ga naar de [pagina Opslag van het OneDrive-beheercentrum](https://admin.onedrive.com/?v=StorageSettings)en voer een nieuw bedrag in GB in.
     
-Deze instelling voor opslagruimte is van toepassing op alle gebruikers voor wie u geen specifieke opslaglimieten hebt ingesteld. Als u de opslagruimte voor specifieke gebruikers wilt wijzigen, moet u Microsoft PowerShell gebruiken. Zie voor meer informatie over hoe u dit doet, [wijzigen van de OneDrive-opslagruimte van uw gebruikers met behulp van PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
+Deze instelling voor opslagruimte is van toepassing op alle gebruikers voor wie u geen specifieke opslaglimieten hebt ingesteld. Als u de opslagruimte voor specifieke gebruikers wilt wijzigen, moet u Microsoft PowerShell gebruiken. Zie [De OneDrive-opslagruimte van uw gebruikers wijzigen met PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)voor meer informatie over hoe u dit doen. 
   
- **Opmerking**: het lijkt erop dat je geen abonnement hebt met onbeperkte opslagruimte. Zie voor meer informatie over de opslag die wordt geleverd bij elk abonnement, [OneDrive voor Business servicebeschrijving](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **OPMERKING:** Het lijkt erop dat je geen abonnement hebt dat onbeperkte opslag bevat. Zie [OneDrive voor Bedrijven-servicebeschrijving](https://go.microsoft.com/fwlink/p/?LinkID=826071)voor informatie over de opslag die bij elk abonnement wordt geleverd.
   
-Als u uw opslag in OneDrive voor bedrijven wilt vergroten, kiest u een Office 365-abonnement met **onedrive voor Business plan 2** of **Office 365 Enterprise E3**. 
+Als u uw opslagruimte in OneDrive voor Bedrijven wilt vergroten, kiest u een abonnement met **OneDrive voor Bedrijven Abonnement 2** of Office **365 Enterprise E3.** 
   
-Als u wilt wijzigen van plannen, in de Microsoft 365 Admin Center, gaat u naar **facturering** \> **abonnementen**, en kies vervolgens **Switch plannen.**
+Als u plannen wilt wijzigen, gaat u in het Microsoft 365-beheercentrum naar **Factureringsabonnementen** \> **Subscriptions**en kiest u **Switch-abonnementen.**
   
-Zie voor meer informatie over het overschakelen van plannen en OneDrive voor bedrijven-opslag [overschakelen naar een andere Office 365 voor Business plan](https://go.microsoft.com/fwlink/?LinkId=2031117) en de [OneDrive voor Business Service Beschrijving](https://go.microsoft.com/fwlink/?LinkId-2031122).
+Zie [Overschakelen naar een ander Microsoft 365 voor Bedrijven-abonnement](https://go.microsoft.com/fwlink/?LinkId=2031117) en de [beschrijving van de Service beschrijving van OneDrive voor Bedrijven](https://go.microsoft.com/fwlink/?LinkId-2031122)voor meer informatie over het schakelen tussen abonnementen en OneDrive voor Bedrijven-opslag.
   
 

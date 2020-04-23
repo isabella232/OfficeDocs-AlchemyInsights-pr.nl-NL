@@ -1,9 +1,9 @@
 ---
-title: Problemen met Wachtwoordsynchronisatie oplossen
+title: Problemen met wachtwoordsynchronisatie oplossen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533802"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732505"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Problemen met Wachtwoordsynchronisatie oplossen
+# <a name="troubleshoot-password-synchronization"></a>Problemen met wachtwoordsynchronisatie oplossen
 
-Problemen waar geen wachtwoorden gesynchroniseerd met Azure AD verbinden versie 1.1.614.0 of hoger worden:
+Problemen oplossen waarbij geen wachtwoorden worden gesynchroniseerd met Azure AD Connect-versie 1.1.614.0 of hoger:
   
-1. Open een nieuwe Windows PowerShell-sessie op de server Azure AD verbinding maken met de optie **als Administrator uitvoeren** .
+1. Open een nieuwe Windows PowerShell-sessie op uw Azure AD Connect-server met de optie **Uitvoeren als administrator.**
 
-2. **Set uitvoeringsbeleid RemoteSigned** of **onbeperkte Set uitvoeringsbeleid**uitvoeren.
+2. **Uitvoeren Set-ExecutionPolicy RemoteSigned** of **Set-ExecutionPolicy onbeperkt**uitvoeren .
 
-3. Start de wizard Azure AD verbinden.
+3. Start de wizard Azure AD Connect.
 
-4. Ga naar de pagina **Meer taken** , **problemen met**selecteren en op **volgende**.
+4. Navigeer naar de pagina **Extra taken,** selecteer **Problemen oplossen**en klik op **Volgende**.
 
-5. Klik op de pagina probleemoplossing menu **starten om te beginnen met het oplossen van problemen** in PowerShell.
+5. Klik op de pagina Probleemoplossing op Starten om het menu probleemoplossing in PowerShell **te starten.**
 
-6. Selecteer in het hoofdmenu **Password Synchronization oplossen**.
+6. Selecteer in het hoofdmenu **Problemen met wachtwoordsynchronisatie oplossen**.
 
-7. Selecteer **Wachtwoordsynchronisatie werkt niet op alle**in de submenu.
+7. Selecteer **Wachtwoordsynchronisatie werkt helemaal niet in**het submenu.
 
-**Inzicht in de resultaten van de taak voor het oplossen van problemen**
+**De resultaten van de probleemoplossingstaak begrijpen**
   
-De taak voor het oplossen van problemen worden de volgende controles uitgevoerd:
+De taak voor het oplossen van problemen voert de volgende controles uit:
   
-- Dat de functie wachtwoord synchronisatie is ingeschakeld voor uw huurder Azure AD worden gevalideerd.
+- Valideert dat de functie voor wachtwoordsynchronisatie is ingeschakeld voor uw Azure AD-tenant.
 
-- Valideert de Azure AD Connect-server is niet in een staging-modus.
+- Valideert dat de Azure AD Connect-server zich niet in de faseringsmodus bevindt.
 
-- Voor elke bestaande op ruimten Active Directory-connector (die overeenkomt met een bestaande Active Directory-forest):
+- Voor elke bestaande on-premises Active Directory-connector (die overeenkomt met een bestaand Active Directory-forest):
 
 - 
-  - Controleert of de functie wachtwoord synchronisatie is ingeschakeld.
+  - Hiermee wordt gevalideerd dat de functie wachtwoordsynchronisatie is ingeschakeld.
 
-  - Zoekt u wachtwoord synchronisatiegebeurtenissen heartbeat in de gebeurtenislogboeken van Windows-toepassing.
+  - Hiermee wordt gezocht naar heartbeatgebeurtenissen voor wachtwoordsynchronisatie in de logboeken van Windows Application Event.
 
-  - Voor elk Active Directory-domein in Active Directory-connector op de lokalen:
+  - Voor elk Active Directory-domein onder de on-premises Active Directory-connector:
 
-  - Wordt gecontroleerd of het domein bereikbaar is vanaf de server verbinden met Azure AD.
+  - Valideert dat het domein bereikbaar is vanaf de Azure AD Connect-server.
 
-  - Wordt gecontroleerd of de Active Directory Domain Services (AD DS) rekeningen die worden gebruikt door Active Directory-connector op de ruimten heeft de juiste gebruikersnaam, wachtwoord en machtigingen vereist voor de synchronisatie van wachtwoorden.
+  - Hiermee wordt gevalideerd dat de AD DS-accounts (Active Directory Domain Services) die worden gebruikt door de on-premises Active Directory-connector de juiste gebruikersnaam, wachtwoord en machtigingen hebben die nodig zijn voor wachtwoordsynchronisatie.
 
-Zie voor meer informatie het wachtwoord synchronisatie oplossen [problemen met Wachtwoordsynchronisatie met Azure AD verbinden synchronisatie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Zie [Wachtwoordsynchronisatie oplossen met Azure AD Connect-synchronisatie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)voor meer hulp bij het oplossen van problemen met wachtwoordsynchronisatie.
   
