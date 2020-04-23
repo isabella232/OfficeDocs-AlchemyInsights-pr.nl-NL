@@ -1,24 +1,24 @@
 ---
-title: 9000071 Typ kan geen @-symbool op de Mac
+title: 9000071 Kan geen @-symbool typen op Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 3bc9915516b268ba8175907bec3a8530351f9f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d252d547757b3bf25dc4f71cf478119f32883be
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537402"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746478"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a><span data-ttu-id="248c3-102">Het typen van speciale tekens op een Mac</span><span class="sxs-lookup"><span data-stu-id="248c3-102">How to type special characters on a Mac</span></span>
+# <a name="how-to-type-special-characters-on-a-mac"></a><span data-ttu-id="33df9-102">Speciale tekens typen op een Mac</span><span class="sxs-lookup"><span data-stu-id="33df9-102">How to type special characters on a Mac</span></span>
 
-<span data-ttu-id="248c3-103">Speciale tekens op uw Macintosh-computer typt, opent u het menu **speciale tekens** met de sneltoets ⌘ **opdracht** + **Control** + **ruimte**.</span><span class="sxs-lookup"><span data-stu-id="248c3-103">To type special characters on your Mac, open the **Special characters** menu with the keyboard shortcut ⌘ **Command** + **Control** + **Space**.</span></span>
+<span data-ttu-id="33df9-103">Als u speciale tekens op uw Mac wilt typen, opent u het menu **Speciale tekens** met de sneltoets ∙ **Command** + **Control** + **Space**.</span><span class="sxs-lookup"><span data-stu-id="33df9-103">To type special characters on your Mac, open the **Special characters** menu with the keyboard shortcut ⌘ **Command** + **Control** + **Space**.</span></span>
 
-<span data-ttu-id="248c3-104">Er is ook een sneltoets voor @ **ALT** + **64**.</span><span class="sxs-lookup"><span data-stu-id="248c3-104">A quick shortcut for @ is also **ALT** + **64**.</span></span>
+<span data-ttu-id="33df9-104">Een snelle snelkoppeling voor @ is ook **ALT** + **64**.</span><span class="sxs-lookup"><span data-stu-id="33df9-104">A quick shortcut for @ is also **ALT** + **64**.</span></span>
