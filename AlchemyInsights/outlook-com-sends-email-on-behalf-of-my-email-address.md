@@ -1,9 +1,9 @@
 ---
-title: Outlook.com stuurt een e-mailbericht 'namens' van mijn e-mailadres
+title: Outlook.com stuurt e-mail 'namens' mijn e-mailadres
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "812"
 - "8000048"
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 1739751052cef1bc57bb8e5667e7d7626ba11eb9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eee0659e9c9e691f25accce5af7386b3bb3bdf47
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765768"
 ---
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com verzendt een e-mailadres Mijn e-mailadres ' namens'
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com stuurt e-mail "namens" mijn e-mailadres
 
-E-mail verzonden vanuit een gekoppelde account ziet als het wordt verzonden "namens" van uw Microsoft-account. Dit probleem is bekend en wordt in een toekomstige versie verholpen. Tot die tijd kunt u uw verzendadres moet hetzelfde zijn als de alias van de primaire Microsoft.
+E-mail die vanuit een verbonden account wordt verzonden, wordt als 'namens' uw Microsoft-account verzonden. Dit is bekend probleem en zal worden vastgesteld in een toekomstige release. Tot die tijd u uw Van-adres wijzigen in hetzelfde als de alias van uw primaire Microsoft-account.
   
-Zie [Outlook.com verzenden e-mailadres Mijn e-mailadres ' namens'](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.
+Zie voor meer informatie [Outlook.com e-mail sturen "namens" mijn e-mailadres.](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy)

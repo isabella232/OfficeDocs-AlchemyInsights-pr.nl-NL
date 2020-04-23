@@ -3,7 +3,7 @@ title: Visio installeren
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: 8279c58300c1c7ed18ca54d10c3b92e45728e856
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498562"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765984"
 ---
 # <a name="install-visio"></a>Visio installeren
 
-Visio wordt verkocht als een zelfstandige toepassing dus als u het nog, [kopen of probeer het Visio](https://products.office.com/visio)niet hebt. 
+Visio wordt verkocht als een zelfstandige toepassing, dus als u deze nog niet hebt, [koopt of probeert u Visio](https://products.office.com/visio). 
 
-**Opmerking**: Visio Online Plan 1 bevat geen een desktop versie van Visio, zodat er geen installatie mogelijk is.
+**Opmerking:** Visio Online Plan 1 bevat geen bureaubladversie van Visio, dus installatie is niet mogelijk.
 
-Als u een abonnement op Online Plan 2 Visio hebt, moet u [een licentie toewijzen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) aan een gebruiker of zij geen optie voor de installatie van Visio uit **Mijn wordt geïnstalleerd** in de [Mijn account portal](https://portal.office.com/account#installs). 
+Als u een abonnement hebt op Visio Online Abonnement 2, moet u [een licentie toewijzen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) aan een gebruiker of hebben ze geen optie om Visio te installeren vanuit Mijn **installaties** in de [mijn accountportal](https://portal.office.com/account#installs). 
 
-Niet-volumelicentie versies van Visio Standard of Visio Professional zijn gekoppeld aan Microsoft-accounts en kunnen niet worden beheerd in het admin center. Als u wilt installeren, deze moeten gebruikers aanmelden bij [account.microsoft.com](https://account.microsoft.com) met het Microsoft-account is gekoppeld aan deze versie van Visio.
+Niet-volumelicentieversies van Visio Standard of Visio Professional zijn gekoppeld aan Microsoft-accounts en kunnen niet worden beheerd in het beheercentrum. Als u deze versies wilt installeren, moeten gebruikers zich aanmelden bij [account.microsoft.com](https://account.microsoft.com) met het Microsoft-account dat is gekoppeld aan deze versie van Visio.
 
-Zie [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) en volg de stappen voor uw versie van Visio voor meer informatie.
+Zie [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) voor meer gedetailleerde hulp en volg de stappen voor uw versie van Visio.
 
 Zie voor meer informatie:<br>
-[Installatiegids voor Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Ondersteunde scenario's voor verschillende versies van Office, Project en Visio op dezelfde computer installeren](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Implementatiehandleiding voor Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Ondersteunde scenario's voor het installeren van verschillende versies van Office, Project en Visio op dezelfde computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
 [Visio-licentieverlening](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

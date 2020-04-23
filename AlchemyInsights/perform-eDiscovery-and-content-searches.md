@@ -1,9 +1,9 @@
 ---
-title: 1488-Perform-eDiscovery-and-content-Searches
+title: 1488-perform-eDiscovery-en-content-zoekopdrachten
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764723"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Het uitvoeren van zoekopdrachten naar de inhoud en eDiscovery zoekopdrachten
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Inhoudszoekopdrachten en eDiscovery-zoekopdrachten uitvoeren
 
-Gebruik het gereedschap Zoeken in inhoud in de & beveiliging conformiteit snel vinden van e-mail in Exchange-postbussen, documenten in SharePoint-sites en OneDrive account en instant messaging-conversaties in Skype voor bedrijven. U kunt het hulpmiddel inhoud zoeken ook gebruiken om te zoeken naar e-mail, documenten en instant messaging conversaties in Office 365 samenwerkingsprogramma's zoals Microsoft-Teams en groepen van Office 365.
+Gebruik het hulpprogramma Voor inhoudzoeken in het Beveiligings& Compliance Center om snel e-mail te vinden in Exchange-postvakken, documenten in SharePoint-sites en OneDrive-account en chatgesprekken in Skype voor Bedrijven. U het hulpprogramma voor inhoudzoeken ook gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365-samenwerkingstools zoals Microsoft Teams en Office 365-groepen.
 
-**Naar inhoud zoeken**
+**Een inhoudszoekopdracht uitvoeren**
 
-1. Ga naar de [Security & conformiteit](https://protection.office.com) en log in.
-2. Klik op **inhoud zoeken >**.
-3. Klik op **opnieuw zoeken** om een nieuwe zoekactie te maken.
-4. Voer de vereiste zoekcriteria met inbegrip van trefwoorden en locaties van inhoud.  
-5. Klik op **Opslaan & uitvoeren** om de zoekopdracht een naam, het starten en vervolgens de resultaten bekijken.
+1. Ga naar het [Security & Compliance Center](https://protection.office.com) en meld u aan.
+2. Klik **op Zoeken > zoeken naar inhoud**.
+3. Klik **op Nieuwe zoekopdracht om** een nieuwe zoekopdracht te maken.
+4. Voer de vereiste zoekvoorwaarden in, waaronder zoekwoorden en inhoudslocaties.  
+5. Klik **op Opslaan & uitvoeren** om de zoekopdracht een naam te geven, deze te starten en vervolgens een voorbeeld van de resultaten te bekijken.
 
-Zie [Inhoud zoeken](https://docs.microsoft.com/office365/securitycompliance/content-search) en [eDiscovery aanvragen](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)voor gedetailleerde instructies over zoekopdrachten naar de inhoud resultaten exporteren en eDiscovery gevallen voor het opslaan van gegevens maken.
+Zie Opties voor [inhoudzoeken](https://docs.microsoft.com/office365/securitycompliance/content-search) en [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)voor gedetailleerde instructies over zoeken naar inhoud, het exporteren van resultaten en het maken van eDiscovery-aanvragen om gegevens vast te houden.
 
-Over inhoud zoeken aan de hand van de [vereisten en beperkingen](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) en [onderzoekt gedeeltelijk geïndexeerd artikelen](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten van begrijpen.
+Meer informatie over Content Search door de [vereisten en limieten te](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) bekijken en gedeeltelijk [geïndexeerde items](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten te onderzoeken om op de hoogte te zijn.

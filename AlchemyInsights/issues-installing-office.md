@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053948"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765804"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Oplossingen voor problemen bij het installeren van Office
 
@@ -29,7 +29,7 @@ Gebruik deze oplossingen om de fout in Office te verhelpen:
 - Ruim alle voorgaande sporen van Office op en installeer het opnieuw met behulp van de Ondersteunings- en herstelassistent (SaRA). 
 
     - Download en installeer de [Ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy). Als deze wordt geopend, selecteert u in **Office-producten verwijderen** de versie die u wilt verwijderen (indien van toepassing) en klikt u op **Volgende**. Volg de aanwijzingen op het scherm en start de computer opnieuw op wanneer daarom wordt gevraagd. Als u de computer opnieuw hebt opgestart, wordt SaRA automatisch opnieuw geopend om het verwijderproces te voltooien.
-    - Gebruik SaRA om [Office opnieuw te installeren](http://aka.ms/sara-officeinstall). **Opmerking**: als u Visio of Project wilt instellen met SaRA, gebruikt u [Visio installeren](https://aka.ms/SaRA-VisioSetupScenario) of [Project installeren](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Gebruik SaRA om [Office opnieuw te installeren](https://aka.ms/sara-officeinstall). **Opmerking**: als u Visio of Project wilt instellen met SaRA, gebruikt u [Visio installeren](https://aka.ms/SaRA-VisioSetupScenario) of [Project installeren](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Gebruik het offline-installatieprogramma voor Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) om Office te installeren.
 

@@ -1,9 +1,9 @@
 ---
-title: Wat is mijn e-mailadres van Outlook.com?
+title: Wat is mijn Outlook.com e-mailadres?
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d11d453f4f4512378f0226d16de15c09c695f019
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511492"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743376"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a>Zie uw eigen e-mailadres van Outlook.com
+# <a name="see-your-own-outlookcom-email-address"></a>Bekijk je eigen Outlook.com e-mailadres
 
-Het standaard e-mailadres dat u gebruikt bij het verzenden van e-mail, gaat u naar uw [synchronisatie-instellingen voor e-mail](https://outlook.live.com/mail/options/mail/accounts) en kijk onder **standaard verzendadres**.
+Als u het standaard e-mailadres wilt zien dat u gebruikt bij het verzenden van e-mail, gaat u naar de [e-mailinstellingen synchroniseren](https://outlook.live.com/mail/options/mail/accounts) en kijkt u onder **Standaard instellen Van adres**.
 
-Als u een ander e-mailaccount op uw Outlook.com-account hebt aangesloten, kunt u per e-mail van dat adres.
+Als je een ander e-mailaccount hebt gekoppeld aan je Outlook.com-account, kun je ervoor kiezen om e-mail vanaf dat adres te verzenden.
 
-1. Selecteer de drie puntjes <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- onderaan in het venster opstellen en selecteer **Weergeven uit** voor een overzicht van de regel.
-2. Selecteer boven de regel, **in** en kies welk e-mailadres dat u wilt gebruiken.
+1. De drie puntjes selecteren <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ onder aan het componerenvenster en selecteer **Weergeven van** de regel Van.
+2. Selecteer boven de regel Aan de optie **Uit** en kies welk e-mailadres u wilt gebruiken.
 
-Meer informatie over het [verzenden van e-mail vanaf een ander adres in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Meer informatie over [het verzenden van e-mail vanaf een ander adres in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

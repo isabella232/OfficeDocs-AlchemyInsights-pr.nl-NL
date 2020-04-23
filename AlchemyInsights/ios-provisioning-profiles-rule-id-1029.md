@@ -1,8 +1,8 @@
 ---
-title: iOS Provisioning Profiles regel-Id 1029
+title: Regel Id 1029 voor iOS-inrichtingsprofielen
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 1bde6205c98b97eae3340bcbfe154402c8c82c8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498122"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765912"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS-aanbod profielen
+# <a name="ios-provisioning-profiles"></a>iOS-inrichtingsprofielen
 
-Apple iOS-bedrijfs het concept van een provisioning profiel dat wordt gebruikt voor het verifiëren van de integriteit van de toepassing en het afdwingen van beleid dat is gedefinieerd in het profiel gebruikt. Deze profielen inrichten verlopen na 12 maanden en zo een nieuw profiel moet worden gekoppeld aan de app geïmplementeerd om de apps te blijven uitvoeren.
+Apple iOS line-of-business maakt gebruik van het concept van een inrichtingsprofiel dat wordt gebruikt om de integriteit van de toepassing te valideren en beleid af te dwingen dat in het profiel is gedefinieerd. Deze inrichtingsprofielen verlopen na 12 maanden en dus moet een nieuw profiel worden gekoppeld aan de geïmplementeerde app, zodat de apps kunnen blijven worden uitgevoerd.
   
-Het volgende artikel wordt beschreven hoe u een nieuwe provisioning profiel met een iOS LOB-toepassingen die via Intune koppelen: [Gebruik iOS app provisioning profielen om te voorkomen dat uw apps verloopt](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+In het volgende artikel wordt beschreven hoe u een nieuw inrichtingsprofiel koppelen aan een iOS LOB-app die is geïmplementeerd via Intune: [IOS-appprovisioning-profielen gebruiken om te voorkomen dat uw apps verlopen](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   

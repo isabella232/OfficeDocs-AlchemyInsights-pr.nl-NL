@@ -1,9 +1,9 @@
 ---
-title: 1490-probleemoplossing-eDiscovery-fouten
+title: 1490-troubleshooting-eDiscovery-fouten
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559368"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759579"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Fouten zoeken in inhoud
+# <a name="troubleshoot-content-search-errors"></a>Fouten in inhoudzoeken oplossen
 
-Weet u site problemen met zoeken in inhoud in Office 365 of fouten ophalen als u de zoekresultaten exporteren?
+Ondervindt u problemen met Content Search of krijgt u fouten wanneer u zoekresultaten exporteert?
 
-Zo ontvangt u het volgende bij het uitvoeren van zoekopdrachten?
+Ontvangt u bijvoorbeeld het volgende bij het uitvoeren van zoekopdrachten?
 
-- CS008 of CS012 fouten
+- CS008- of CS012-fouten
 
-- Server bezet/time-outfouten
+- Server-/time-outfouten
 
-- Er is een toepassingsfout opgetreden
+- Toepassingsfout opgetreden
 
-Of bij het zoeken of exporteren van de resultaten van een groot aantal postvakken (meer dan 100.000 postvakken), krijgt u fouten exporteren?
+Of krijg je bij het zoeken of exporteren van resultaten uit een groot aantal mailboxen (meer dan 100.000 mailboxen) exportfouten?
 
-Opnieuw zoeken naar de locaties van inhoud die niet voor dergelijke fouten. Raadpleeg [dit artikel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) voor meer informatie.
+Probeer de zoekopdracht opnieuw naar de inhoudslocaties die zijn mislukt voor dit soort fouten. Zie [dit artikel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) voor meer informatie.

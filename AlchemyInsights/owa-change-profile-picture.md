@@ -1,28 +1,28 @@
 ---
-title: Uw profielfoto in Outlook op het web wijzigen
+title: Uw profielafbeelding wijzigen in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cce75481d3102aa6516fe18939e06fc9d5ff47bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36557208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764759"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Uw profielfoto in Outlook op het web wijzigen
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Uw profielafbeelding wijzigen in de webversie van Outlook
 
-1. Selecteer bovenaan de pagina je naam of profielfoto.
-1. Selecteer uw profielfoto in het deelvenster **Mijn account** .
-1. Selecteer **een nieuwe foto uploaden**in het dialoogvenster **uw foto wijzigen** .
-1. Kies een foto om te uploaden en selecteer **toepassen**.
+1. Selecteer boven aan de pagina uw naam of profielfoto.
+1. Selecteer **in** het deelvenster Mijn account uw profielafbeelding.
+1. Selecteer een nieuwe foto **uploaden**in het dialoogvenster **Uw foto wijzigen** .
+1. Kies een foto die u wilt **uploaden**en selecteer Toepassen .
 
-*Opmerking:* De nieuwe foto wordt weergegeven wanneer u zich de volgende keer aanmeldt bij Office 365.
+*Let op:* Uw nieuwe foto wordt de volgende keer weergegeven dat u zich aanmeldt bij Microsoft 365.
 
-Zie [uw foto-en accountgegevens wijzigen in Outlook op het web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)voor meer informatie.
+Zie [Uw foto en accountgegevens wijzigen in de webversie van Outlook voor](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)meer informatie.

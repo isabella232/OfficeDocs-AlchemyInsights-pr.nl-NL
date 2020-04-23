@@ -1,9 +1,9 @@
 ---
-title: Problemen met openen met Verkenner oplossen
+title: Problemen oplossen met Openen met Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cb26876d93a110b3b0addd7821206215c783f959
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742728"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759687"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Problemen met openen met Verkenner oplossen
+# <a name="fix-problems-with-open-with-explorer"></a>Problemen met Openen met Explorer oplossen
 
-Veelvoorkomende problemen oplossen met het openen van een documentbibliotheek in SharePoint of OneDrive met de opdracht **openen met Verkenner** : 
+Veelvoorkomende problemen oplossen bij het openen van een documentbibliotheek in SharePoint of OneDrive met de opdracht **Openen met Explorer:** 
   
-- Internet Explorer 10 of Internet Explorer 11 gebruiken. **Openen met Explorer** is niet compatibel met Microsoft Edge, Google Chrome, Firefox en anderen. **Openen met Verkenner** is uitgeschakeld in alle browsers behalve Internet Explorer. 
+- Gebruik Internet Explorer 10 of Internet Explorer 11. **Open with Explorer** is niet compatibel met Microsoft Edge, Google Chrome, Firefox en anderen. **Openen met Explorer** is uitgeschakeld in alle browsers behalve In Internet Explorer. 
     
-- **Openen met Explorer** is niet beschikbaar in de moderne ervaring voorsharepoint-bibliotheken. Gebruik **in plaats daarvan weergave in Verkenner** . Selecteer weergave **Opties** \> **weergeven in Verkenner**. View in File Explorer is niet compatibel met Microsoft Edge, Google Chrome, Firefox en anderen. **Weergeven in bestandsverkenner** in alleen beschikbaar in Internet Explorer. 
+- **Openen met Explorer** is niet beschikbaar in de moderne ervaring voor SharePoint-bibliotheken. Gebruik weergave in plaats daarvan **in Verkenner.** Selecteer **Weergaveopties** \> **weergeven in Verkenner**. Weergave in Verkenner is niet compatibel met Microsoft Edge, Google Chrome, Firefox en anderen. **Bekijk in Verkenner** alleen beschikbaar in Internet Explorer. 
     
-- Zorg ervoor dat de WebClient-service wordt uitgevoerd. Typ in het zoekvak van Windows uitvoeren, selecteer de desktop-app uitvoeren, typ services. msc en druk op ENTER. Scrol omlaag naar de WebClient-service en zorg ervoor dat in de kolom **status** ' actief ' wordt weergegeven. Als dit niet het, dubbelklikt u op de service, klikt u op **Start**, en klik vervolgens op **OK**. (Mogelijk moet u de service eerst inschakelen door **handmatig** of **automatisch** te selecteren in het vak **Opstarttype** .) 
+- Controleer of de WebClient-service wordt uitgevoerd. Typ in het zoekvak Van Windows uitvoeren, selecteer de bureaublad-app uitvoeren, typ services.msc en druk op Enter. Schuif omlaag naar de WebClient-service en controleer of in de kolom **Status** 'Actief' wordt weergegeven. Als dit niet het zo is, dubbelklikt u op de service, klikt u op **Start**en klikt u vervolgens op **OK**. (Mogelijk moet u de service eerst inschakelen door **Handmatig** of **automatisch** te selecteren in het vak **Opstarttype.)** 
     
 > [!NOTE]
-> Het openen van een bibliotheek in Verkenner is handig als u meerdere bestanden en mappen eenmaal moet kopiëren of verplaatsen, maar als u regelmatig in de bibliotheek wilt werken, raden we u aan deze te synchroniseren. Zie [openen in Verkenner](https://go.microsoft.com/fwlink/?linkid=871665)om problemen met het openen van bestanden in Verkenner op te lossen. Zie voor meer informatie over [het instellen van Synchronisatieshare Point-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=871666).
+> Het openen van een bibliotheek in Verkenner is handig als u meerdere bestanden en mappen één keer wilt kopiëren of verplaatsen, maar als u regelmatig in de bibliotheek wilt werken, raden we u aan deze te synchroniseren. Zie [Openen in Verkenner](https://go.microsoft.com/fwlink/?linkid=871665)voor het oplossen van problemen in Verkenner. Zie [SharePoint-bestanden synchroniseren met de nieuwe Synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=871666)van OneDrive voor meer informatie over het instellen van synchronisatie.
   
-Raadpleeg het artikel [het gebruik van de opdracht ' openen met Explorer ' voor het oplossen van problemen in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) voor meer informatie. 
+Zie het artikel [Hoe u de opdracht Openen met Explorer gebruiken om problemen in SharePoint Online op te lossen](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) voor meer informatie. 
   
 

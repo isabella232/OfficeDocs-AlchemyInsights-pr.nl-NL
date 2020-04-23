@@ -10,16 +10,16 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 8a912b32dee23e8c6eae0ad7bc72228d49ceeb92
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946653"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766596"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Onverwachte meervoudige verificatie
 
-Als uw tenant na 21 oktober 2019 is gemaakt en u onverwacht om meervoudige verificatie wordt gevraagd, zijn in uw tenant waarschijnlijk [standaardinstellingen voor beveiliging](http://aka.ms/securitydefaults) ingeschakeld. 
+Als uw tenant na 21 oktober 2019 is gemaakt en u onverwacht om meervoudige verificatie wordt gevraagd, zijn in uw tenant waarschijnlijk [standaardinstellingen voor beveiliging](https://aka.ms/securitydefaults) ingeschakeld. 
 
 Standaardinstellingen voor beveiliging beheren:
 

@@ -1,9 +1,9 @@
 ---
-title: Werkstroom-e-mail wordt niet verzonden
+title: Werkstroome-mail wordt niet verzonden
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049368"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766128"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Werkstroom-e-mail wordt niet verzonden voor een SharePoint-lijst of-bibliotheek
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Werkstroome-mail wordt niet verzonden voor een SharePoint-lijst of -bibliotheek
 
-1. E-mail van werkstromen wordt niet verzonden naar alle gebruikers of alleen specifieke gebruikers, of u ziet de fout **die het e-mail bericht kan niet worden verzonden. Zorg ervoor dat het e-mail bericht een geldige geadresseerde heeft**.
+1. E-mail van werkstromen wordt niet naar alle gebruikers of alleen specifieke gebruikers verzonden of u ziet de fout **Het e-mailbericht kan niet worden verzonden. Controleer of de e-mail een geldige ontvanger heeft.**
 
-    Controleer of de gebruiker bestaat in de groep **alle personen** machtigingen (lijst met gebruikersgegevens) voor die siteverzameling.  Voorbeeld van directe URL<tenant>: https://<sitename>. SharePoint.com/sites//_layouts/15/people.aspx? MembershipGroupId = 0
+    Controleer of de gebruiker bestaat in de groep Machtigingen **voor alle personen** (lijst met gebruikersgegevens) voor die siteverzameling.  Voorbeeld directe URL:<tenant><sitename>https:// .sharepoint.com/sites/ /_layouts/15/people.aspx? LidmaatschapGroupId=0
 
     - Als de gebruiker niet bestaat, controleert u of de gebruiker is aangemeld bij de pagina. 
-    - Als het een externe gebruiker is, controleert u of de uitnodiging is geaccepteerd.
-    - Als de gebruiker in de groep machtigingen bestaat, controleert u of het e-mailadres juist is.
-    - Als het e-mailadres van gebruikers hier niet is ingesteld, maakt u een voorbeeld waarschuwing voor die gebruiker die de synchronisatie van dat gebruikersaccount van gebruikersprofielen van SharePoint naar deze siteverzameling dwingt.
+    - Als het een externe gebruiker is, moet u ervoor zorgen dat de uitnodiging is geaccepteerd.
+    - Als de gebruiker wel in de groep machtigingen aanwezig is, controleert u of het e-mailadres juist is.
+    - Als het e-mailadres van de gebruikers hier niet is ingesteld, maakt u een voorbeeldwaarschuwing voor die gebruiker die de synchronisatie van dat gebruikersaccount van gebruikersprofielen van SharePoint naar deze siteverzameling dwingt.
  
-2. E-mail van workflows worden verzonden naar de beheerders van de siteverzameling, maar niet naar andere gebruikers en zien de fout **http verboden <span>https:</span>//URL/_vti_bin/client.xvc.SP.Utilities.Utility.sendemail**.
+2. E-mail van werkstromen wordt verzonden naar de beheerders van de siteverzameling, maar niet naar andere gebruikers en zie de fout **HTTP Verboden naar <span>https:</span>/URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Zie [toegang geweigerd wanneer u een e-mail bericht naar een SharePoint-groep verzendt](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Zie [Toegang geweigerd wanneer u een e-mail verzendt naar een SharePoint-groep](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Controleer ook of de site verzamelings functie voor **beperkte toegang tot de vergrendelingsmodus van gebruikers** niet actief is.
+    Controleer ook of de **siteverzamelingsfunctie** voor beperkte toegang voor gebruikersmachtigingen niet actief is.
 
 
 ## <a name="related-topics"></a>Verwante onderwerpen
-Wilt u Microsoft flow uitproberen in SharePoint Online?
+Wilt u Microsoft Flow uitproberen in SharePoint Online?
 - [Stroom maken](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint en flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint en Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

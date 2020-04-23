@@ -1,9 +1,9 @@
 ---
-title: Een map maken in Outlook op het web
+title: Een map maken in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b9cd32fcf8cbee2f0ba4131f082b6a0f07d9b447
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36557244"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768576"
 ---
 # <a name="create-a-folder"></a>Een map maken
 
-1. Selecteer **nieuwe map**onder aan het mappenvenster in Outlook op het web. Mogelijk moet u omlaag schuiven in het mappenvenster om de knop **nieuwe map** te zien.
-1. Voer in het tekstvak een naam voor de map in en druk op ENTER.
+1. Selecteer onder aan het mappenvenster in de webversie van Outlook de optie **Nieuwe map**. Mogelijk moet u omlaag scrollen in het mappenvenster om de knop **Nieuwe map** te zien.
+1. Voer in het tekstvak een naam voor de map in en druk op Enter.
 
-Zie [werken met berichtmappen in Outlook op het web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)voor meer informatie.
+Zie [Werken met berichtmappen in de webversie van Outlook voor](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)meer informatie.

@@ -1,8 +1,8 @@
 ---
-title: Upgrade naar de volledige versie van Microsoft-Teams
+title: Upgraden naar de volledige versie van Microsoft Teams
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506212"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766524"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Upgrade naar de volledige versie van Microsoft-Teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Upgraden naar de volledige versie van Microsoft Teams
 
-Van de gratis upgrade naar de volledige versie van Microsoft-Teams nodig? Zie [Upgrade Microsoft-Teams gratis versie van Office 365-abonnement](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Wilt u upgraden van de gratis naar de volledige versie van Microsoft Teams? Zie [Microsoft Teams gratis upgraden naar microsoft 365-abonnementsversie](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
 U moet aan deze vereisten voldoen:
 
-- Bent u degene die voor de huidige versie van Teams aangemeld.
-- Als u uw eigen domein hebt, kan deze al gekoppeld aan Azure Active Directory niet.
-- Overbrengen van gegevens wanneer u een upgrade uitvoert, moet u zich abonneren tijdens de upgrade. Als u Office 365 buiten het upgradeproces hebt gekocht, kunt u geen gegevens overbrengen.
+- U bent de persoon die zich heeft aangemeld voor de huidige gratis versie van Teams.
+- Als u een eigen domein hebt, kan het niet al worden gekoppeld aan Azure Active Directory.
+- Als u gegevens wilt overdragen wanneer u een upgrade uitvoert, moet u zich abonneren tijdens het upgradeproces. Als u een abonnement buiten het upgradeproces hebt gekocht, u geen gegevens overdragen.

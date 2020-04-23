@@ -1,32 +1,32 @@
 ---
-title: S/MIME in Outlook op het web
+title: S/MIME in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 3702311f55af63ba461bb680fe3eb57e63c5d9ef
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: c67a8343af7d0e91173248e797986831cfe203e9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36741288"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768360"
 ---
-# <a name="encrypt-messages-using-smime"></a>Berichten coderen met S/MIME
+# <a name="encrypt-messages-using-smime"></a>Berichten versleutelen met S/MIME
 
-Gebruik S/MIME in Outlook op het web om de beveiliging van uw berichten te vergroten. Een digitaal gecodeerd bericht kan alleen worden geopend door ontvangers met de juiste sleutel. Een digitale handtekening verzekert ontvangers dat er niet met het bericht is geknoeid.
+Gebruik S/MIME in de webversie van Outlook om de beveiliging van uw berichten te verhogen. Een digitaal versleuteld bericht kan alleen worden geopend door ontvangers die over de juiste sleutel beschikken. Een digitale handtekening verzekert ontvangers dat er niet met het bericht is geknoeid.
 
-**Opmerking:** De S/MIME-extensie moet door de beheerder zijn geïnstalleerd.
+**Let op:** De S/MIME-extensie moet door uw beheerder worden geïnstalleerd.
 
-Uw S/MIME-instellingen wijzigen in Outlook op het web:
+Ga als bedoeld als u uw S/MIME-instellingen in de webversie van Outlook wijzigt:
 
 1. Ga naar <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Instellingen** > **alle Outlook-instellingen weergeven**.
-2. Selecteer **mail** > **S/MIME**.
+ **Instellingen** > **Alle Outlook-instellingen weergeven**.
+2. Selecteer **Mail** > **S/MIME**.
 
-Lees [berichten coderen met behulp van S/MIME in Outlook op het web](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) voor meer informatie.
+Lees [Berichten versleutelen met S/MIME in de webversie van Outlook](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) voor meer informatie.

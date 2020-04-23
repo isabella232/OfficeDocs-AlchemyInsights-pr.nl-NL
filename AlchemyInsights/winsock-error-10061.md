@@ -1,9 +1,9 @@
 ---
-title: Winsock-fout 1554 10061
+title: 1554 Winsock fout 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530781"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766164"
 ---
-# <a name="winsock-error-10061"></a>Winsock-fout 10061
+# <a name="winsock-error-10061"></a>Winsock fout 10061
 
-Deze foutcode betekent dat Office 365 een TCP-socket (verbinding) met de doelhost niet kan vaststellen. De meest waarschijnlijke oorzaak van deze fout is een probleem met de configuratie van de firewall. Probleem wilt oplossen, moet u deze instellingen controleren:
+Deze foutcode betekent dat Microsoft geen TCP-socket (verbinding) met de doelhost kan maken. De meest waarschijnlijke oorzaak van deze fout is een probleem met uw firewallconfiguratie. Als u het probleem wilt oplossen, controleert u de volgende instellingen:
 
-- Controleer of de configuratie van de firewall met de gegevens in [Office 365-URL's en IP-adresbereiken](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Uw firewallconfiguratie verifiëren met de gegevens in [Microsoft 365-URL's en IP-adresbereiken](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Als de fout specifiek naar Exchange Online bescherming (EOP), moet u zijn eerder aangemeld op een wijziging in de [Exchange Online bescherming IP-adressen](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Als de fout specifiek is voor Exchange Online Protection (EOP), moet u eerder op de hoogte zijn gesteld van een wijziging van de [IP-adressen van Exchange Online Protection.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-- Controleer of dat de poort is niet worden geblokkeerd door uw Internet Service Provider (ISP).
+- Controleer of uw internetserviceprovider (ISP) de poort niet blokkeert.
 
-- Controleer of de smart host- en server-instellingen in uw verbindingslijnen.
+- Controleer de instellingen voor slimme host en doelserver in uw connectors.
 
-Houd er rekening mee dat Office 365 *binnenkomende* verbindingen op deze manier niet blokkeren.
+Houd er rekening mee dat Microsoft 365 *inkomende* verbindingen op deze manier niet blokkeert.
