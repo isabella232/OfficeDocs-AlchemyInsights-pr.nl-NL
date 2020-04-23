@@ -1,9 +1,9 @@
 ---
-title: Installeren van Office 2013 melding
+title: Office 2013-melding installeren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: 6a2151f6baf108e168f2ba2ce2e76b5c1a1c6d22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3b2db50dc62d8aa1884319f474f0f8277fc9b68a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766020"
 ---
-# <a name="upgrade-to-office-2016"></a><span data-ttu-id="752f5-102">Een upgrade uitvoeren naar Office 2016</span><span class="sxs-lookup"><span data-stu-id="752f5-102">Upgrade to Office 2016</span></span>
+# <a name="upgrade-to-office-2016"></a><span data-ttu-id="b80d3-102">Een upgrade uitvoeren naar Office 2016</span><span class="sxs-lookup"><span data-stu-id="b80d3-102">Upgrade to Office 2016</span></span>
 
-<span data-ttu-id="752f5-103">Helaas, Office 2013 is niet beschikbaar voor download voor Office 365-abonnementen niet meer, maar u kunt een upgrade naar Office 2016 gratis!</span><span class="sxs-lookup"><span data-stu-id="752f5-103">Unfortunately, Office 2013 isn't available for download anymore for Office 365 subscriptions, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="752f5-104">Voor meer informatie en stappen voor het installeren van Office 2016 gebruik van dit artikel: [installeren of een upgrade naar Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span><span class="sxs-lookup"><span data-stu-id="752f5-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
+<span data-ttu-id="b80d3-103">Helaas is Office 2013 niet meer beschikbaar om te downloaden, maar u gratis upgraden naar Office 2016!</span><span class="sxs-lookup"><span data-stu-id="b80d3-103">Unfortunately, Office 2013 isn't available for download anymore, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="b80d3-104">Gebruik dit artikel installeren of upgraden naar Office [2016 voor](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx)meer informatie en stappen om Office 2016 te installeren.</span><span class="sxs-lookup"><span data-stu-id="b80d3-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
   

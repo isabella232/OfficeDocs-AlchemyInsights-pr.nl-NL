@@ -1,8 +1,8 @@
 ---
-title: Upgrade naar de volledige versie van Microsoft-Teams
+title: Upgraden naar de volledige versie van Microsoft Teams
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506212"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766524"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="4c996-102">Upgrade naar de volledige versie van Microsoft-Teams</span><span class="sxs-lookup"><span data-stu-id="4c996-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="0c9f5-102">Upgraden naar de volledige versie van Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="0c9f5-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="4c996-103">Van de gratis upgrade naar de volledige versie van Microsoft-Teams nodig?</span><span class="sxs-lookup"><span data-stu-id="4c996-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="4c996-104">Zie [Upgrade Microsoft-Teams gratis versie van Office 365-abonnement](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="4c996-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
+<span data-ttu-id="0c9f5-103">Wilt u upgraden van de gratis naar de volledige versie van Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="0c9f5-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="0c9f5-104">Zie [Microsoft Teams gratis upgraden naar microsoft 365-abonnementsversie](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="0c9f5-104">See [Upgrade Microsoft Teams free to Microsoft 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
 
-<span data-ttu-id="4c996-105">U moet aan deze vereisten voldoen:</span><span class="sxs-lookup"><span data-stu-id="4c996-105">You’ll need to meet these requirements:</span></span>
+<span data-ttu-id="0c9f5-105">U moet aan deze vereisten voldoen:</span><span class="sxs-lookup"><span data-stu-id="0c9f5-105">You'll need to meet these requirements:</span></span>
 
-- <span data-ttu-id="4c996-106">Bent u degene die voor de huidige versie van Teams aangemeld.</span><span class="sxs-lookup"><span data-stu-id="4c996-106">You’re the person who signed up for the current free version of Teams.</span></span>
-- <span data-ttu-id="4c996-107">Als u uw eigen domein hebt, kan deze al gekoppeld aan Azure Active Directory niet.</span><span class="sxs-lookup"><span data-stu-id="4c996-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
-- <span data-ttu-id="4c996-108">Overbrengen van gegevens wanneer u een upgrade uitvoert, moet u zich abonneren tijdens de upgrade.</span><span class="sxs-lookup"><span data-stu-id="4c996-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="4c996-109">Als u Office 365 buiten het upgradeproces hebt gekocht, kunt u geen gegevens overbrengen.</span><span class="sxs-lookup"><span data-stu-id="4c996-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+- <span data-ttu-id="0c9f5-106">U bent de persoon die zich heeft aangemeld voor de huidige gratis versie van Teams.</span><span class="sxs-lookup"><span data-stu-id="0c9f5-106">You're the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="0c9f5-107">Als u een eigen domein hebt, kan het niet al worden gekoppeld aan Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="0c9f5-107">If you have your own domain, it can't already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="0c9f5-108">Als u gegevens wilt overdragen wanneer u een upgrade uitvoert, moet u zich abonneren tijdens het upgradeproces.</span><span class="sxs-lookup"><span data-stu-id="0c9f5-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="0c9f5-109">Als u een abonnement buiten het upgradeproces hebt gekocht, u geen gegevens overdragen.</span><span class="sxs-lookup"><span data-stu-id="0c9f5-109">If you bought a subscription outside of the upgrade process, you can't transfer data.</span></span>

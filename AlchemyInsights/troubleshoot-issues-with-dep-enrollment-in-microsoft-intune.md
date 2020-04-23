@@ -1,9 +1,9 @@
 ---
-title: Oplossen van problemen met DEP inschrijving in Microsoft Intune
+title: Problemen met DEP-inschrijving in Microsoft Intune oplossen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 3e10f6729d760d9f8f6d04bcb33317fde51a9b80
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 11b0d73c34996fd84431b38d77b64536d386977e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506911"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766704"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a><span data-ttu-id="06fbb-102">Oplossen van problemen met DEP inschrijving in Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="06fbb-102">Troubleshoot issues with DEP enrollment in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a><span data-ttu-id="ad8a9-102">Problemen met DEP-inschrijving in Microsoft Intune oplossen</span><span class="sxs-lookup"><span data-stu-id="ad8a9-102">Troubleshoot issues with DEP enrollment in Microsoft Intune</span></span>
 
-<span data-ttu-id="06fbb-103">Bekijk de bronnen die worden vermeld onder het probleem nu oplossen.</span><span class="sxs-lookup"><span data-stu-id="06fbb-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="ad8a9-103">Bekijk de onderstaande bronnen om het probleem nu op te lossen.</span><span class="sxs-lookup"><span data-stu-id="ad8a9-103">Review the resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="06fbb-104">Als DEP kan niet inschrijven en MVR gesloten (meerledige verificatie) is ingeschakeld, schakel de MVR gesloten.</span><span class="sxs-lookup"><span data-stu-id="06fbb-104">If DEP device is unable to enroll and MFA (Multi-Factor Authentication) is enabled, please disable MFA.</span></span> <span data-ttu-id="06fbb-105">MVR gesloten wordt momenteel niet ondersteund voor DEP-inschrijving</span><span class="sxs-lookup"><span data-stu-id="06fbb-105">Currently MFA is not supported for DEP enrollment</span></span>
+1. <span data-ttu-id="ad8a9-104">Als DEP-apparaat zich niet kan inschrijven en MFA (Multi-Factor Authentication) is ingeschakeld, schakelt u MFA uit.</span><span class="sxs-lookup"><span data-stu-id="ad8a9-104">If DEP device is unable to enroll and MFA (Multi-Factor Authentication) is enabled, please disable MFA.</span></span> <span data-ttu-id="ad8a9-105">Momenteel wordt MFA niet ondersteund voor DEP-inschrijving</span><span class="sxs-lookup"><span data-stu-id="ad8a9-105">Currently MFA is not supported for DEP enrollment</span></span>
 
-2. <span data-ttu-id="06fbb-106">[Intune probleemoplossing Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) gebruiken om te bepalen en verhelpen van storingen in gemeenschappelijke inschrijving.</span><span class="sxs-lookup"><span data-stu-id="06fbb-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="06fbb-107">Bekijk [Dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="06fbb-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+2. <span data-ttu-id="ad8a9-106">Gebruik [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) om veelvoorkomende inschrijvingsfouten te diagnosticeren en op te lossen.</span><span class="sxs-lookup"><span data-stu-id="ad8a9-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="ad8a9-107">Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="ad8a9-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-3. <span data-ttu-id="06fbb-108">Bekijk deze documenten voor een lijst met veelvoorkomende fouten die voorkomen dat de inschrijving en resoluties aan elk: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) en [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)</span><span class="sxs-lookup"><span data-stu-id="06fbb-108">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)</span></span>
+3. <span data-ttu-id="ad8a9-108">Controleer deze documenten op een lijst met veelvoorkomende fouten die inschrijving en oplossingen voor elk document voorkomen: [gids voor probleemoplossing](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) en [document voor probleemoplossing](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)</span><span class="sxs-lookup"><span data-stu-id="ad8a9-108">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)</span></span>
 
-4. <span data-ttu-id="06fbb-109">[Meer informatie over het apparaat inschrijving programma](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).</span><span class="sxs-lookup"><span data-stu-id="06fbb-109">[Learn about device enrollment program](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).</span></span>
+4. <span data-ttu-id="ad8a9-109">[Meer informatie over het inschrijvingsprogramma voor apparaten](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).</span><span class="sxs-lookup"><span data-stu-id="ad8a9-109">[Learn about device enrollment program](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).</span></span>

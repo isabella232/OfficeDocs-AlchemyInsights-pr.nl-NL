@@ -1,8 +1,8 @@
 ---
-title: Stappen voor het oplossen van de fout van de activering van Office 0x80072EFD
+title: Stappen om office-activeringsfout 0x80072EFD op te lossen
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: b32abb6684e8a2a4a3fdac19045073d1ba598303
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: de9969a6c4aca318887589f1553c7060eff6b6f4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559728"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763932"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a><span data-ttu-id="80532-102">Stappen voor het oplossen van de fout van de activering van Office 0x80072EFD</span><span class="sxs-lookup"><span data-stu-id="80532-102">Steps to resolve Office activation error 0x80072EFD</span></span>
+# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a><span data-ttu-id="07179-102">Stappen om office-activeringsfout 0x80072EFD op te lossen</span><span class="sxs-lookup"><span data-stu-id="07179-102">Steps to resolve Office activation error 0x80072EFD</span></span>
 
-<span data-ttu-id="80532-103">Probeer deze oplossingen om de activering van Office fout te herstellen:</span><span class="sxs-lookup"><span data-stu-id="80532-103">Try these solutions to fix the Office activation error:</span></span>
+<span data-ttu-id="07179-103">Probeer deze oplossingen om de activeringsfout van Office op te lossen:</span><span class="sxs-lookup"><span data-stu-id="07179-103">Try these solutions to fix the Office activation error:</span></span>
   
-1. <span data-ttu-id="80532-104">Controleer of uw [firewall](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).</span><span class="sxs-lookup"><span data-stu-id="80532-104">Check your [firewall](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).</span></span>
+1. <span data-ttu-id="07179-104">Controleer uw [firewall.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall)</span><span class="sxs-lookup"><span data-stu-id="07179-104">Check your [firewall](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).</span></span>
 
-2. <span data-ttu-id="80532-105">Controleer of uw [antivirussoftware](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).</span><span class="sxs-lookup"><span data-stu-id="80532-105">Check your [antivirus software](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).</span></span>
+2. <span data-ttu-id="07179-105">Controleer uw [antivirussoftware.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV)</span><span class="sxs-lookup"><span data-stu-id="07179-105">Check your [antivirus software](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).</span></span>
 
-3. <span data-ttu-id="80532-106">De [proxy-instellingen](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy) controleren</span><span class="sxs-lookup"><span data-stu-id="80532-106">Check your [proxy settings](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)</span></span>
+3. <span data-ttu-id="07179-106">Uw [proxy-instellingen controleren](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)</span><span class="sxs-lookup"><span data-stu-id="07179-106">Check your [proxy settings](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)</span></span>
 
-4. <span data-ttu-id="80532-107">Download de [ondersteuning en herstel-assistent](https://aka.ms/SARA-OfficeActivation-Alchemy) installeren en uitvoeren van de **Probleemoplosser voor activering**.</span><span class="sxs-lookup"><span data-stu-id="80532-107">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+4. <span data-ttu-id="07179-107">Download en installeer de [ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeActivation-Alchemy) en voer de **activeringsprobleemoplosser**uit.</span><span class="sxs-lookup"><span data-stu-id="07179-107">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
