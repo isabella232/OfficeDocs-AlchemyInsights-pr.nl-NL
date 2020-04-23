@@ -3,7 +3,7 @@ title: Te veel licenties?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665935"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759903"
 ---
 # <a name="too-many-licenses"></a>Te veel licenties?
 
-Als u denkt dat u bent in rekening wordt gebracht voor te veel Office 365 licenties dat, is dit meestal door meer licenties die aangeschaft moet u.
+Als u denkt dat u wordt gefactureerd voor te veel licenties, is dit meestal te wijten aan het feit dat u meer licenties hebt gekocht dan u nodig hebt.
   
-**Verminder het aantal aangeschafte licenties**
+**Het aantal gekochte licenties verminderen**
   
-1. In het admin center, gaat u naar de **Facturering** \> [producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) pagina.
+1. Ga in het beheercentrum naar de pagina **Facturering** \> [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Zoek het abonnement waarvan u licenties wilt verwijderen en selecteer vervolgens **licenties toevoegen of verwijderen**.
+2. Zoek het abonnement waarvan u licenties wilt verwijderen en selecteer **licenties toevoegen/verwijderen.**
 
-3. In het **Totaal aantal licenties** geeft het totale aantal licenties die u nodig hebt voor dit abonnement en selecteer vervolgens **indienen wijzigen**. Als u bijvoorbeeld 110 licenties hebt en u wilt 5 van deze licenties verwijderen, voert u 105 in.
+3. Voer in het vak **Licenties totaal** het totale aantal licenties in dat u voor dit abonnement nodig hebt en selecteer **Wijzigen verzenden**. Als u bijvoorbeeld 110 licenties hebt en u wilt 5 van deze licenties verwijderen, voert u 105 in.
 
-Voor meer informatie, Zie [licenties voor uw Office 365 voor zakelijke abonnement verwijderen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Zie [Licenties verwijderen uit uw Microsoft 365 voor Bedrijven-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)voor meer informatie.

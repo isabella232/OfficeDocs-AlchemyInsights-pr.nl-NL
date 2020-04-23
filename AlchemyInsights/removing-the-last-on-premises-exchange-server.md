@@ -1,9 +1,9 @@
 ---
-title: Verwijderen van de laatste Exchange server op locatie
+title: De laatste on-premises Exchange-server verwijderen
 ms.author: pebaum
 author: pebaum
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 8f40c050d7e29c152f982d73e2204a52c350c293
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1cc66e8ca2da1ac8cc4a2f31b92f094307b956f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552814"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43718195"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>Verwijderen van de laatste Exchange server op locatie
+# <a name="removing-the-last-on-premises-exchange-server"></a>De laatste on-premises Exchange-server verwijderen
 
-Voordat u de laatste Exchange server verwijdert uit uw organisatie op locatie, moet u ervoor zorgen dat u begrijpt wat de gevolgen van deze keuze als u die laatste server nodig voor andere doeleinden. Raadpleeg voor meer informatie [hoe en wanneer buiten gebruik stellen van uw Exchange-servers op de ruimten in een implementatie van hybride](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Voordat u de laatste Exchange-server uit uw on-premises organisatie verwijdert, moet u ervoor zorgen dat u de implicaties begrijpt van dit te doen om u te helpen beslissen of u die laatste server voor andere doeleinden nodig hebt. Raadpleeg voor meer informatie [Hoe en wanneer u uw on-premises Exchange-servers in een hybride implementatie wilt ontmantelen.](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)
   

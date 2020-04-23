@@ -1,8 +1,8 @@
 ---
-title: 1800018 zoeken uw instellingen voor POP- en IMAP-server
+title: 1800018 Uw POP- en IMAP-serverinstellingen zoeken
 ms.author: pdigia
 author: pebaum
-ms.date: 6/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 3a18978d520f400672bc50a455fcd6bc45337b48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76d1dadc2bfcb0589ae26fc4051acbbf913d19a7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525306"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716059"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a>De instellingen voor POP- of IMAP-server zoeken
+# <a name="find-your-pop-or-imap-server-settings"></a>Uw POP- of IMAP-serverinstellingen zoeken
 
-Als u niet welke instellingen u moet uw POP- of IMAP-account toevoegen aan Outlook weet, kunt u deze opzoeken in onze [e-instellingen voor Outlook POP en IMAP](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+Als u niet weet welke instellingen u nodig hebt om uw POP- of IMAP-account toe te voegen aan Outlook, u ze opzoeken in onze [pop- en IMAP-e-mailinstellingen voor Outlook.](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)
   
 > [!NOTE]
-> Wist u dat u kunt [inschakelen en configureren van POP3 op een server met Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?
+> Wist u dat u POP3 [inschakelen en configureren op een Exchange 2016-server?](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)
   

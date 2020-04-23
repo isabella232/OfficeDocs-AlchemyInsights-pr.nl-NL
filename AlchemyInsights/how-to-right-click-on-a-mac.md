@@ -1,9 +1,9 @@
 ---
-title: 8000063 hoe u met de rechtermuisknop op een Mac
+title: 8000063 Met de rechtermuisknop op een Mac klikken
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 236da9aeac882d9a44373372a93910863fa18469
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fbfb43cd50040f861ae9975f4703b49eb10f6ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763392"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Hoe u met de rechtermuisknop op een Mac
+# <a name="how-to-right-click-on-a-mac"></a>Rechtsklikken op een Mac
 
-Op Mac-computers, klik met de rechtermuisknop genoemd secundaire of besturingselement. Als de muis, trackpad of een ander invoerapparaat niet bevat een knop met de rechtermuisknop of andere manier uit te voeren met de rechtermuisknop, houdt u de **CTRL-toets** op het toetsenbord terwijl u klikt.
+Op Mac-computers wordt met de rechtermuisknop secundaire klik of Controleklik genoemd. Als uw muis, trackpad of ander invoerapparaat geen knop met de rechtermuisknop of een andere manier bevat om met de rechtermuisknop te klikken, houdt u de **besturingstoets** op het toetsenbord ingedrukt terwijl u klikt.
   
-Ga voor [ondersteuning van Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)voor meer informatie.
+Ga voor meer informatie naar [Apple-ondersteuning.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
   

@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8b661671afe9fa670decce63b9eb030b35cf072d
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417674"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716131"
 ---
 # <a name="find-and-activate-my-product-key"></a>Mijn productcode zoeken en activeren
 
-Als u Office 365 voor Bedrijven hebt gekocht via een [Microsoft Open License Program,](https://go.microsoft.com/fwlink/p/?LinkID=613298)vindt en activeert u als resultaat uw productcode.
+Als u Microsoft 365 voor bedrijven hebt gekocht via een [Microsoft Open License Program,](https://go.microsoft.com/fwlink/p/?LinkID=613298)vindt en activeert u uw productcode hier.
 
-1. Wanneer u een productcode bij een Office 365-partner hebt gekocht, ontvangt u een e-mail van Microsoft met een koppeling voor het activeren van het abonnement.  **Opmerking:** De e-mail wordt verzonden naar de persoon die wordt vermeld als de online beheerder in de licentieovereenkomst voor volume.  Als u niet zeker weet wie is aangewezen als de onlinebeheerder, neemt u contact op met uw Office 365-partner.
+1. Nadat u een sleutel hebt gekocht bij een Microsoft 365-partner, controleert u uw postvak IN voor een e-mail van Microsoft met een activeringskoppeling.  **Opmerking:** de e-mail wordt verzonden naar de persoon die in de volumelicentieovereenkomst wordt vermeld als onlinebeheerder.  Als u niet zeker weet wie is aangewezen als onlinebeheerder, vraagt u dit aan uw Microsoft 365-partner.
 
-2. Volg de link in de e-mail om je aan te melden met je werk- of schoolaccount, accepteer de licentieovereenkomst Open en verleng het abonnement.  Download [online services: Office 365-abonnement](https://go.microsoft.com/fwlink/p/?LinkId=618100)voor een stapsgewijze walkthrough. 
+2. Volg de link in de e-mail om in te loggen met uw werk- of schoolaccount, accepteer de open licentieovereenkomst en verleng het abonnement.  Download de PDF-handleiding, [Online Services activeren: Microsoft 365-abonnement voor](https://go.microsoft.com/fwlink/p/?LinkId=618100)een stapsgewijze walkthrough. 
 
-**Opmerking:** Klanten met volumelicenties kunnen er ook voor kiezen om abonnementen te activeren in het [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016)  Download de PDF-handleiding [Active Online Services in het Servicecenter Volume licensing](https://go.microsoft.com/fwlink/p/?LinkId=618096)voor meer informatie over hoe u de PDF-handleiding Active Online Services wilt downloaden in het Service Center Volume Licensing .
+**Opmerking:** Klanten met volumelicenties kunnen er ook voor kiezen om abonnementen te activeren in het [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016)  Download voor meer informatie de PDF-handleiding [Active Online Services in het Servicecenter voor volumelicenties](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Als u Office 365 Business Premium in een winkel hebt gekocht, gebruikt u de volgende stappen om de vervaldatum te verlengen of voegt u een licentie toe aan een bestaand abonnement.
+Als u Microsoft 365 Business Premium Standard hebt gekocht in een winkel, gebruikt u de volgende stappen om de vervaldatum te verlengen of een licentie toe te voegen aan een bestaand abonnement.
 
-**Opmerking:** als u een productcode wilt gebruiken om de vervaldatum te verlengen of een licentie wilt toevoegen aan uw bestaande Office 365 Business Premium-abonnement, hebt u een nieuwe en ongebruikte sleutel nodig voor hetzelfde Office 365-abonnement.  De oorspronkelijke productcode voor Office 365 werkt niet, omdat deze code al is ingewisseld en niet opnieuw kan worden gebruikt.
+**Opmerking:** Als u een productcode wilt gebruiken om de vervaldatum te verlengen of een licentie toe te voegen aan uw bestaande Microsoft 365 Business Premium Standard-abonnement, hebt u een nieuwe en ongebruikte sleutel nodig voor hetzelfde Microsoft 365-abonnement.  Het invoeren van uw oorspronkelijke Microsoft 365-productcode werkt niet omdat een sleutel die al is ingewisseld, niet opnieuw kan worden gebruikt.
 
-1. Ga in het beheercentrum naar de pagina[&-services](https://go.microsoft.com/fwlink/p/?linkid=842054) voor **factureringsproducten.** > 
+1. Ga in het beheercentrum naar de pagina >  **Factureringsproducten**[& services.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Zoek het abonnement waaraan u de vervaldatum wilt verlengen of licenties wilt toevoegen.  Klik op [Einddatum verlengen](https://go.microsoft.com/fwlink/p/?linkid=842054) of meer [licenties toevoegen.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Zoek het abonnement waaraan u de vervaldatum wilt verlengen of licenties wilt toevoegen.  Klik [op de einddatum verlengen](https://go.microsoft.com/fwlink/p/?linkid=842054) of meer licenties [toevoegen.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-3. Klik op **Een nieuwe en ongebruikte productcode gebruiken** en vervolgens op **Volgende**.
+3. Klik **op Een nieuwe en ongebruikte productcode gebruiken** en vervolgens **volgende**.
 
 4. Voer de productcode in en klik op **Volgende**.
 
-5. Bekijk uw bestelgegevens.  Als alles er correct uitziet, klikt u op **Inwisselen**.
+5. Bekijk uw bestelgegevens.  Als alles er goed uitziet, klikt u op **Inwisselen.**

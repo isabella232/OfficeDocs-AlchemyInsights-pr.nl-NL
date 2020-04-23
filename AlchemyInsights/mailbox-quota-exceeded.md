@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784686"
 ---
 # <a name="mailbox-quota-exceeded"></a>Postvakquotum overschreden
 
-Je hebt je postvakquotum voor je account overschreden. Er zijn verschillende stappen die u nemen om de grootte van uw inbox te verkleinen voor betere prestaties.
+Je hebt het postvakquotum voor je account overschreden. Er zijn verschillende stappen die u nemen om de grootte van uw inbox te verkleinen voor betere prestaties.
 
-1. Oudere inboxitems verwijderen. U dit snel doen in de app door een aangepaste veegbeweging in te stellen: **Instellingen > Veegopties**. Met deze set kun je je gemakkelijk een weg banen door je inbox om het uit te wissen.
+1. Oudere items in postvak IN verwijderen. U dit snel doen in de app door een aangepaste veegbeweging in te stellen: **Instellingen > Veegopties**. Met deze set kun je je gemakkelijk een weg door je inbox vegen om deze uit te wissen.
 
-2. Leeg uw spammappen. Ga rechtstreeks in uw spammappen en druk op **lege spam.**
+2. Leeg je spammappen. Ga direct naar uw spammappen en druk op **lege spam.**
 
-3. Op Android u uw prullenbakmappen met één klik legen. Ga direct in uw prullenbak map en druk op **lege prullenbak**. 
+3. Op Android kun je je prullenbakmappen met één klik legen. Ga direct in uw prullenbak map en druk op **lege prullenbak**. 
 
-4. Sla uw bijlagen op in OneDrive zodat ze niet in uw postvak worden opgeslagen. Zie [Opslaglimieten in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) voor meer informatie. 
+4. Sla uw bijlagen op in OneDrive, zodat ze niet worden opgeslagen in uw postvak. Zie [Opslaglimieten in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) voor meer informatie. 
 
-Als u een Office 365-gebruiker bent, u ook een postvakverhoging aanvragen bij uw IT-beheerder.
+Als u een Microsoft 365-gebruiker bent, u ook een verhoging van het postvak aanvragen bij uw IT-beheerder.

@@ -1,32 +1,32 @@
 ---
-title: Fix 0x8004de40 fout in OneDrive
+title: 0x8004de40-fout oplossen in OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5da4271f242597b195ef61d553fd4a2ffb313025
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052032"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716023"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40 fout in OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>0x8004de40-fout oplossen in OneDrive
 
-Als u een fout 0x8004de40 met OneDrive ontvangt:
+Als u een fout van 0x8004de40 met OneDrive ontvangt:
 
-- Start de betrokken computer opnieuw op terwijl deze is verbonden met uw Acitve Directory-domein.
-- Als het probleem niet wordt opgelost door een reboot, loskoppelen en opnieuw deelnemen aan uw apparaat van Azure AD. 
+- Start de betreffende computer opnieuw op terwijl deze is verbonden met uw Acitve Directory-domein.
+- Als een reboot het probleem niet oplost, sluit u de join en sluit u uw apparaat opnieuw aan vanuit Azure AD. 
 
-**Opmerking**: u moet zich op uw bedrijfsnetwerk bevinden tijdens het uitvoeren van deze stappen. Voer deze stappen niet uit wanneer u geen verbinding maken met uw bedrijfsinfrastructuur (bijvoorbeeld tijdens het reizen). 
+**Opmerking:** U moet zich tijdens het uitvoeren van deze stappen in uw bedrijfsnetwerk bevinden. Voer deze stappen niet uit wanneer u geen verbinding maken met uw bedrijfsinfrastructuur (bijvoorbeeld tijdens het reizen). 
 
 - Open een opdrachtprompt met verhoogde bevoegdheid. 
-- Als u wilt een opdrachtprompt met verhoogde bevoegdheid openen, klikt u op-Start, Klik **met**de rechtermuisknop op **opdrachtprompt**en klik vervolgens op **als administrator uitvoeren**.
-- Typ *dsregcmd/Leave* en druk op **Enter**.
-- Als u klaar is, typt u *dsregcmd/join kunnen* en drukt **u op ENTER**.
-- Wanneer u klaar is, sluit u de opdrachtprompt.
+- Als u een opdrachtprompt met verhoogde bevoegdheid wilt openen, klikt u op - **Start**, klikt u met de rechtermuisknop op **Opdrachtprompt**en klikt u vervolgens op **Uitvoeren als beheerder**.
+- Typ *dsregcmd /leave* en druk op **Enter**.
+- Als u klaar bent, typt u *dsregcmd /join* en drukt u op **Enter**.
+- Als u klaar bent, sluit u de opdrachtprompt.
 - Start de computer opnieuw op en meld u aan bij OneDrive.

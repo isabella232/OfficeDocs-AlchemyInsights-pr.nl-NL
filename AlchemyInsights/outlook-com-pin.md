@@ -1,9 +1,9 @@
 ---
-title: 9000233 Outlook.com PIN
+title: 9000233 Outlook.com pincode
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: a6dee75a90bb299094a9075f96aad83b5355dac2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b859967d9336306b4b0a4879a7ffd5bee24f7a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545974"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744878"
 ---
-# <a name="change-your-pin"></a>Uw PINCODE wijzigen
+# <a name="change-your-pin"></a>Uw pincode wijzigen
 
-Outlook.com een PIN-code niet gebruiken, maar u kunt inloggen op uw PC met een PINCODE of Windows Hello. Uw PINCODE in Windows 10 te wijzigen:
+Outlook.com gebruikt geen pincode, maar u zich wel aanmelden bij uw pc met een pincode of Windows Hello. Ga als bedoeld als u uw pincode wijzigt in Windows 10:
 
-1. Klik op de knop Start of de Windows-toets op het toetsenbord, en selecteer vervolgens **Instellingen** > **rekeningen** > **- in opties**.
-2. Selecteer de knop **wijzigen** onder de **PIN-code**.
-3. Voer uw huidige PINCODE en typ en Bevestig uw nieuwe PINCODE onder.
+1. Selecteer de knop Start of druk op de Windows-toets op het toetsenbord en selecteer vervolgens**aanmeldingsopties** **Voor Instellingen** > **Accounts** > .
+2. Selecteer de knop **Wijzigen** onder **PINCODE**.
+3. Voer uw huidige pincode in en voer hieronder uw nieuwe pincode in en bevestig deze.
 
-[Meer informatie over Windows Hello.](https://support.microsoft.com/help/17215/)
+[Lees meer over Windows Hello.](https://support.microsoft.com/help/17215/)

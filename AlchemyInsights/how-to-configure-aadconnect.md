@@ -1,9 +1,9 @@
 ---
-title: 646 het configureren van AADConnect
+title: 646 AadConnect configureren
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541580"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722528"
 ---
 # <a name="configure-sync-features"></a>Synchronisatiefuncties configureren
 
-Azure AD Connect bevat diverse functies die standaard zijn ingeschakeld, of dat u later kunt inschakelen. Sommige functies vereisen aanvullende configuratie specifieke omgevingen.
+Azure AD Connect bevat verschillende functies die standaard zijn ingeschakeld of die u later inschakelen. Sommige functies vereisen extra configuratie in specifieke omgevingen.
 
-- [Filtering](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) limieten voor de objecten worden gesynchroniseerd met Azure AD. Standaard alle gebruikers, contactpersonen, groepen en Windows 10 worden computeraccounts gesynchroniseerd. U kunt opnemen of uitsluiten objecten op basis van domeinen, organisatie-eenheden of andere kenmerken.
+- [Filterlimieten de](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) objecten worden gesynchroniseerd met Azure AD. Standaard worden alle gebruikers, contactpersonen, groepen en Windows 10-computeraccounts gesynchroniseerd. U objecten opnemen of uitsluiten op basis van domeinen, OU's of andere kenmerken.
 
-- [Hash Wachtwoordsynchronisatie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synchroniseert de wachtwoordhash naar Azure AD van Active Directory op gebouwen. Daardoor kan het wachtwoord management op één locatie, maar gebruik van het wachtwoord in beide op gebouwen en cloud-omgevingen. Omdat Active Directory de bindende bron is, kunt u uw eigen instellingen voor wachtwoordbeleid.
+- [Synchronisatie van wachtwoordhash](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synchroniseert de wachtwoordhash van de on-premises Active Directory naar Azure AD. Dit maakt wachtwoordbeheer op één locatie mogelijk, maar het gebruik van hetzelfde wachtwoord in zowel on-premises als cloudomgevingen. Omdat Active Directory de gezaghebbende bron is, u uw eigen wachtwoordbeleid gebruiken.
 
-- [Self-wachtwoord opnieuw instellen (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) kunnen gebruikers hun wachtwoorden in de cloud tijdens het toepassen van het wachtwoordbeleid op de gebouwen nog steeds opnieuw.
+- [Self-service password reset (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) stelt gebruikers in staat om hun eigen wachtwoorden opnieuw in de cloud te resetten terwijl ze nog steeds uw on-premises wachtwoordbeleid toepassen.
 
-- [Apparaat writeback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) kunnen geregistreerde apparaten in Azure AD terug naar Active Directory op de ruimten worden geschreven zodat ze kunnen worden gebruikt voor voorwaardelijke toegang.
+- [Met apparaatterugschrijftijd](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) kunnen geregistreerde apparaten in Azure AD worden teruggeschreven naar de on-premises Active Directory, zodat ze kunnen worden gebruikt voor voorwaardelijke toegang.
 
-- [Voorkomen dat per ongeluk wordt verwijderd](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) is standaard ingeschakeld om te voorkomen dat te veel gelijktijdige object verwijderen (meer dan 500 objecten per synchronisatie). U kunt deze instelling om te voldoen aan de behoeften van uw organisatie.
+- [Voorkomen dat per ongeluk worden](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) verwijderd, is standaard ingeschakeld om te voorkomen dat te veel gelijktijdige objectverwijderingen (meer dan 500 objecten per synchronisatie) worden verwijderd. U deze instelling wijzigen om aan de behoeften van uw organisatie te voldoen.
 
-- [Automatische upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) is standaard ingeschakeld voor snelle installatie en zorgt ervoor dat uw versie van Azure AD verbinden altijd actueel is.
+- [Automatische upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) is standaard ingeschakeld voor expresinstallaties en zorgt ervoor dat uw versie van Azure AD Connect altijd actueel is.
