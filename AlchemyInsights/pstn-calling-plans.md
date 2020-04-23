@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154233"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556956"
 ---
 # <a name="pstn-calling-plans"></a>PSTN-belabonnementen
 
-Oproepen naar andere gebruikers van Skype voor Bedrijven en Microsoft Teams zijn gratis, maar als u wilt dat uw gebruikers normale telefoons kunnen bellen en u nog geen serviceprovider hebt om spraakoproepen te maken, moet u een belabonnement kopen. 
+Als u wilt dat uw gebruikers normale telefoons kunnen bellen en u nog geen serviceprovider hebt om spraakoproepen te plaatsen, moet u een belabonnement kopen.
 
-- Als u het aankoopproces wilt starten, raadpleegt u [Een belabonnement aanschaffen](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Zie [Een belabonnement aanschaffen](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) om het aankoopproces te starten.
 
-- Zie [Telefoonsysteem en abonnementen](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) voor meer informatie. 
+- Stel [communicatietegoeden](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) in om te voorkomen dat gebruikers **onvoldoende belminuten hebben**. Kijk [hier](https://products.office.com/microsoft-teams/voice-calling) voor de tarieven. 
+
+- Zie [Telefoonsysteem en belabonnementen](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) of [Wat zijn communicatietegoeden?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits) voor meer informatie.
