@@ -12,16 +12,16 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707367"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710690"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Rights Management-beveiliging gebruiken met Microsoft 365
 
-U moet de[ Rights Management-service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) activeren voordat u de functies van Information Rights Management (IRM) van Office 365-toepassingen en -services kunt gebruiken.
+U moet de[ Rights Management-service (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) activeren voordat u de functies van Information Rights Management (IRM) van Microsoft-toepassingen en -services kunt gebruiken.
 
 1. Zie [Rights Management-beveiliging activeren](https://docs.microsoft.com/azure/information-protection/activate-office365) vanuit het Microsoft 365-beheercentrum voor licentievereisten en activering vanuit het **Microsoft 365-beheercentrum**. **Opmerking:** Vereist Hoofdbeheerdersaccount.
 
