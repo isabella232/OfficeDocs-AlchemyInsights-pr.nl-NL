@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509489"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788877"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Automatische antwoorden instellen voor het postvak van een gebruiker
 
 **Methode 1**
 
-1. Meld u aan bij de Office 365-portal.
+1. Meld u aan bij de Microsoft 365-portal.
 
 2. Ga naar **Gebruikers > Actieve gebruikers** (of **Groepen > Gedeelde postvakken** als u dit instelt voor een gedeeld postvak).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509489"
 
 **Methode 2**
 
-1. Meld u aan bij de Office 365-beheerportal via beheerdersreferenties.
+1. Meld u aan bij de Microsoft 365-beheerportal met uw beheerdersreferenties.
 
 2. Vouw **Beheercentrums** uit en klik vervolgens op **Exchange**.
 

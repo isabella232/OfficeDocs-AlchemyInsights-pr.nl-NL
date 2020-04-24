@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059969"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784542"
 ---
 # <a name="set-up-insider-risk-management"></a>Intern risicobeheer instellen
 
@@ -26,13 +26,13 @@ Gebruik intern risicobeheerbeleid om riskante activiteiten en beheerhulpmiddelen
 
 - **Microsoft 365 E3**-abonnement met de invoegtoepassing voor compliance van Microsoft E5.
 
-Als u geen bestaand **Microsoft 365 E5**-abonnement hebt en intern risicobeheer wilt uitproberen, kunt u Microsoft 365 toevoegen aan uw bestaande Office 365-abonnement toevoegen of u registreren voor een proefabonnement op Microsoft 365 Enterprise E5.
+Als u geen bestaand **Microsoft 365 E5**-abonnement hebt en intern risicobeheer wilt uitproberen, kunt u Microsoft 365 toevoegen aan uw bestaande abonnement toevoegen of u registreren voor een proefabonnement op Microsoft 365 Enterprise E5.
 
 Dit zijn de basisstappen voor het gebruik van intern risicobeheer:
 
 1. Machtigingen inschakelen voor intern risicobeheer.
 
-2. Het Office 365-auditlogboek inschakelen.
+2. Schakel het auditlogboek in.
 
 3. Vereisten voor de sjabloon configureren (optioneel).
 

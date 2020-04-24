@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713245"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787725"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Bericht van Office-apps: er is een probleem opgetreden met uw abonnement
 
-- Als u onlangs bent overgestapt op een ander Office 365-abonnement, volgt u de stappen in ['Bericht over account' wordt weergegeven in Office na het overstappen op een ander Office 365-abonnement](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) om Office opnieuw te installeren of bij te werken.
+- Als u onlangs bent overgestapt op een ander abonnement, volgt u de stappen in ['Bericht over account' wordt weergegeven in Office na het overstappen op een ander abonnement](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) om Office opnieuw te installeren of bij te werken.
 
-- Zie [Office-fout 'Bericht over account: er is een probleem opgetreden met uw Office 365-abonnement'](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
+- Zie [Office-fout 'Bericht over account: er is een probleem opgetreden met uw abonnement'](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
 - Verwijder de [Office-licentie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) en wijs deze opnieuw toe aan de desbetreffende gebruiker. 
 
@@ -34,6 +34,6 @@ ms.locfileid: "43713245"
 
 Voor gedetailleerde instructies raadpleegt u: 
 
-[Er verschijnt een melding over het abonnement als ik een Office 365-toepassing open](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Er verschijnt een melding over het abonnement als ik een Microsoft-toepassing open](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Problemen met activering van Office oplossen](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

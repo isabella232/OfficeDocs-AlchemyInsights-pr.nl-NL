@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: d68853461173602fb7f7a057e179ef09f494af1d
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182497"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789261"
 ---
 # <a name="subscription-expired-notice-in-office-apps"></a>Bericht 'Abonnement verlopen' in Office-apps
 
-- Raadpleeg de [pagina met de Office 365-servicestatus](https://docs.microsoft.com/office365/enterprise/view-service-health) om te zien of er bekende problemen zijn met de service.
+- Raadpleeg de [pagina met de servicestatus](https://docs.microsoft.com/office365/enterprise/view-service-health) om te zien of er problemen bekend zijn met de service.
 
-- Controleer of de [abonnementsstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) geldig is, of er een [geldige licentie is toegewezen](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) aan de betreffende gebruiker en of er verbinding is met internet. Als u onlangs bent overgestapt op een nieuw abonnement voor Office 365, kunt u Office verwijderen en opnieuw installeren op de betreffende computer.
+- Controleer of de [abonnementsstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) geldig is, of er een [geldige licentie is toegewezen](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) aan de betreffende gebruiker en of er verbinding is met internet. Als u onlangs bent overgestapt op een nieuw Microsoft-abonnement, kunt u Office verwijderen en opnieuw installeren op de betreffende computer.
 
-- Open een Office-app, ga naar **Bestand > Account** en meld u af bij alle accounts. Meld u opnieuw aan met een gebruikersaccount met een geldige licentie. Zie [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB) voor meer informatie.
+- Open een Office-app, ga naar **Bestand > Account** en meld u af bij alle accounts. Meld u opnieuw aan met een gebruikersaccount met een geldige licentie. Zie [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) voor meer informatie.
 
 - Open een Office-app en ga naar **Bestand > Account > Bijwerkopties > Nu bijwerken** om Office bij te werken op de betreffende computer. Zie [Office-updates installeren](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) voor gedetailleerde stappen.
 
@@ -34,6 +34,6 @@ ms.locfileid: "43182497"
 
 Voor gedetailleerde instructies raadpleegt u: 
 
-[Er verschijnt een melding over het abonnement als ik een Office 365-toepassing open](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Er verschijnt een melding over het abonnement als ik een Microsoft-toepassing open](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Problemen met activering van Office oplossen](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

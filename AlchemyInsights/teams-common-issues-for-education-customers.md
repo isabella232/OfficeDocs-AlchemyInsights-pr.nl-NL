@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856785"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739431"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Veelvoorkomende problemen van Teams voor Education-klanten
 
@@ -45,12 +45,12 @@ Als u hulp nodig hebt bij de implementatie van Teams om extern leren te onderste
     6. Klik in het Skype voor Bedrijven-beheercentrum op **Audiovergaderingen** en vervolgens op **Gebruikers**.
     7. Selecteer de gewenste gebruiker en controleer of de gebruiker een standaard betaald nummer heeft.
 
-    Zie voor meer informatie [Belabonnementen voor Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) of bel het Microsoft Commerce-factureringsteam voor hulp bij vragen over licenties.
+    Zie [belabonnementen](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) of bel het Microsoft Commerce-factureringsteam voor hulp bij vragen over licenties voor meer informatie.
 
     Aanvullende resources
 
     - [Vergaderingen en conferenties in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audiovergadering in Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audio Conferencing](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365) (Audiovergaderingen)
 
 - **Beleidsregels voor vergaderingen**: u gebruikt beleidsregels voor vergaderingen om te bepalen welke functies beschikbaar zijn voor deelnemers aan vergaderingen die zijn gepland door gebruikers in uw organisatie. Wanneer u een beleid hebt gemaakt en u uw wijzigingen hebt aangebracht, kunt u gebruikers toewijzen aan het beleid.
 
