@@ -13,25 +13,25 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709546"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799154"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Een licentie toewijzen aan een gebruiker
 
-Een gebruiker heeft een licentie nodig om toegang te hebben tot services. Hier volgen stappen om een licentie van een gebruiker toe te voegen, te wijzigen of te verwijderen.
+Een gebruiker heeft een licentie nodig om toegang te hebben tot services. Hier volgen stappen om een licentie van een gebruiker toe te **voegen, te wijzigen of te verwijderen.**
   
-1. Ga in het beheercentrum naar de pagina **Gebruikers** \> [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Ga in het beheercentrum naar **Gebruikers** \> [actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
-2. Selecteer de naam van de gebruiker aan wie u een licentie wilt toewijzen, wijzigen of verwijderen.
+2. Selecteer de naam van de gebruiker voor wie u een licentie wilt toewijzen, wijzigen of verwijderen.
 
-3. Selecteer op het tabblad **Licenties en apps** de licentie die u aan deze gebruiker wilt toewijzen.
+3. Klik **op Productlicenties beheren**en selecteer de licentie die u aan deze gebruiker wilt toewijzen.
 
     De standaardinstelling is dat alle services die zijn gekoppeld aan die licentie, automatisch worden toegewezen aan de gebruiker. Schakel het selectievakje uit voor de services die u niet wilt dat die gebruiker heeft om te beperken welke services voor de gebruiker beschikbaar zijn.
 
-4. Kies Onder aan het deelvenster de optie **Wijzigingen opslaan**.
+4. Klik onder aan het deelvenster op **Wijzigingen opslaan**.
 
 Zie [Licenties toewijzen aan gebruikers](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)en Licenties van gebruikers [verwijderen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)voor meer informatie.
