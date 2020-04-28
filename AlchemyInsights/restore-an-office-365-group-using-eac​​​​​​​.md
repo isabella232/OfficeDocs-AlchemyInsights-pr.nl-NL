@@ -1,5 +1,5 @@
 ---
-title: Een Office 365-groep herstellen met het Exchange-beheercentrum
+title: Een Microsoft 365-groep herstellen met het Exchange-beheercentrum
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: e0092afc382c034be0c1e130d2e32a56330c2732
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742648"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912578"
 ---
-# <a name="restore-an-office-365-group-using-the-exchange-admin-center"></a>Een Office 365-groep herstellen met het Exchange-beheercentrum
+# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Een Microsoft 365-groep herstellen met het Exchange-beheercentrum
 
 1. Vouw in de linkernavigatie van het Microsoft 365-beheercentrum **het beheercentrum**uit en kies **Vervolgens Exchange**.
     
@@ -25,7 +25,7 @@ ms.locfileid: "43742648"
     
 3. Als u de precieze tijd wilt zien waarop de groep voorlopig werd verwijderd, selecteert u de groep en bekijkt u de informatie in het deelvenster aan de rechterkant.
     
-4. Selecteer de Office 365-groep die u wilt herstellen en selecteer het pictogram Herstellen.
+4. Selecteer de Microsoft 365-groep die u wilt herstellen en kies het pictogram herstellen.
     
 5. Kies Vernieuwen ![Pictogram Vernieuwen](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) om de informatie op de pagina bij te werken. Uw groep wordt weergegeven als Actief. 
     

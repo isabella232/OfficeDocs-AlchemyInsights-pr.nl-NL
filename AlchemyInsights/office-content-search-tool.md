@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787983"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912253"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Content Search tool om relevante informatie te vinden
 
-Gebruik het hulpprogramma Voor inhoudzoeken in het Beveiligings& Compliance Center om snel e-mail te vinden in Exchange-postvakken, documenten op SharePoint-sites en OneDrive-locaties en chatgesprekken in Skype voor Bedrijven. U het hulpprogramma voor inhoud gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365-samenwerkingstools zoals Microsoft Teams en Office 365-groepen.
+Gebruik het hulpprogramma Voor inhoudzoeken in het Beveiligings& Compliance Center om snel e-mail te vinden in Exchange-postvakken, documenten op SharePoint-sites en OneDrive-locaties en chatgesprekken in Skype voor Bedrijven. U het hulpprogramma voor het zoeken naar inhoud gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365-samenwerkingstools zoals Microsoft Teams en Microsoft 365-groepen.
 
 
 Voordat u [Content Search](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) gebruikt vanuit het Security & [Compliance Center,](https://sip.protection.office.com/homepage)wilt u configuratie-instellingen voltooien, inclusief [machtigingen configureren,](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [downloadsnelheden instellen](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) en [exportinstellingen .](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)

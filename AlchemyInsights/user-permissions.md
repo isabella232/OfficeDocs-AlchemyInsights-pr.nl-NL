@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710510"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912889"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Gebruikersmachtigingen in SharePoint en OneDrive
 
@@ -27,7 +27,7 @@ Als een gebruiker in uw organisatie geen toegang heeft tot SharePoint of OneDriv
   
 1. Open de site in een webbrowser.
     
-2. Als de site deel uitmaakt van een Office 365-groep, klikt u op het pictogram Instellingen rechtsboven en klikt u vervolgens op **Sitemachtigingen**. Klik **op Personen uitnodigen**en kies ervoor om leden toe te voegen aan de Office 365-groep of alleen de site te delen. 
+2. Als de site tot een Microsoft 365-groep behoort, klikt u op het pictogram Instellingen rechtsboven en klikt u vervolgens op **Sitemachtigingen**. Klik **op Personen uitnodigen**en kies ervoor om leden toe te voegen aan de Microsoft 365-groep of alleen de site te delen. 
     
     Klik voor een communicatiesite op **Site delen** rechtsboven, voer de naam van de persoon in en selecteer vervolgens het machtigingsniveau (Lezen, Bewerken of Volledig beheer). 
     

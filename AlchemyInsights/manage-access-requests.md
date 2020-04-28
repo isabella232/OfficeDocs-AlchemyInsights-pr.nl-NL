@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721741"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912398"
 ---
 # <a name="manage-access-requests"></a>Toegangsaanvragen beheren
 
@@ -26,7 +26,7 @@ Wanneer een gebruiker toegang probeert te krijgen tot een item in SharePoint en 
     
 2. Klik onder Gebruikers en machtigingen op **Toegangsverzoeken en** **uitnodigingen**. (Als dit niet wordt weergegeven, zijn er geen toegangsverzoeken ingediend.)
     
-3. Als u de gebruiker afzonderlijk toestemming wilt geven, klikt u op **Goedkeuren** of **Weigeren**. Als u een specifiek machtigingsniveau wilt selecteren, klikt u eerst op de ellips (...) naast de naam van de persoon. U de gebruiker ook toevoegen aan een groep die toestemming heeft voor de site. Voor communicatiesites en klassieke teamsites u dit doen op de pagina Site-instellingen. Voor sites die deel uitmaken van een Office 365-groep, u de gebruiker aan de groep toevoegen.
+3. Als u de gebruiker afzonderlijk toestemming wilt geven, klikt u op **Goedkeuren** of **Weigeren**. Als u een specifiek machtigingsniveau wilt selecteren, klikt u eerst op de ellips (...) naast de naam van de persoon. U de gebruiker ook toevoegen aan een groep die toestemming heeft voor de site. Voor communicatiesites en klassieke teamsites u dit doen op de pagina Site-instellingen. Voor sites die deel uitmaken van een Microsoft 365-groep, u de gebruiker aan de groep toevoegen.
     
     [Toegangsaanvragen beheren](https://go.microsoft.com/fwlink/?linkid=2008747)
     

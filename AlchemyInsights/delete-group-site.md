@@ -14,14 +14,14 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 367bf18a5c59ca052141eba3a080145c007265f5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c44ab1409f6a0dcd7079cee68f61d6984bdc43f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704936"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911503"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Een SharePoint-site verwijderen die deel uitmaakt van een Office 365-groep
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-microsoft-365-group"></a>Een SharePoint-site verwijderen die deel uitmaakt van een Microsoft 365-groep
 
 Als u een met de groep verbonden site verwijdert, worden de groep en al haar bronnen verwijderd, inclusief het Outlook-postvak en de agenda en alle Teams-kanalen.
   

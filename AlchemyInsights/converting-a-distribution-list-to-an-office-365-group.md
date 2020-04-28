@@ -1,5 +1,5 @@
 ---
-title: 712 Een distributielijst converteren naar een Office 365-groep
+title: 712 Een distributielijst converteren naar een Microsoft 365-groep
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 0aa4928b33c75051c7210e88098555b82e130fd5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c135727d1a3dd26aebca7a5140956cc75c78705b
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715735"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908663"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Een distributiegroep converteren naar een Office 365-groep
+# <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a>Een distributiegroep converteren naar een Microsoft 365-groep
 
-U distributiegroepen converteren naar Office 365-groepen als deze aan bepaalde criteria voldoen. Zie [Distributielijsten upgraden naar Office 365-groepen in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)als u een groep wilt converteren of conversieproblemen wilt oplossen.
+U distributiegroepen converteren naar Microsoft 365-groepen als ze aan bepaalde criteria voldoen. Zie [Distributielijsten upgraden naar Microsoft 365-groepen in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)als u een groep wilt converteren of conversieproblemen wilt oplossen.

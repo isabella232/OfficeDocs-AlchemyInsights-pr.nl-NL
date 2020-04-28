@@ -3,7 +3,7 @@ title: Toegang tot openbare mappen vanaf mobiele apparaten
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 568bf0aebbf954ff90cc45a080dd4a49aa23780d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ceb0ba5f5460156caae5bedc9148ad9c6836f011
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553931"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911431"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>Toegang tot openbare mappen vanaf mobiele apparaten
 
-Als u willen zou hebben functionaliteit die vergelijkbaar is met de openbare mappen en inhoud toegankelijk op mobiele apparaten, raadpleegt u [meer informatie over Office 365-groepen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) voor een beter alternatief.
+Raadpleeg [Meer informatie over Microsoft 365-groepen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) voor een beter alternatief als u functionaliteit wilt hebben die vergelijkbaar is met openbare mappen en inhoud op mobiele apparaten toegankelijk wilt hebben.
   

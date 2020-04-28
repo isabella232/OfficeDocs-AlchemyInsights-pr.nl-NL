@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764723"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911826"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Inhoudszoekopdrachten en eDiscovery-zoekopdrachten uitvoeren
 
-Gebruik het hulpprogramma Voor inhoudzoeken in het Beveiligings& Compliance Center om snel e-mail te vinden in Exchange-postvakken, documenten in SharePoint-sites en OneDrive-account en chatgesprekken in Skype voor Bedrijven. U het hulpprogramma voor inhoudzoeken ook gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365-samenwerkingstools zoals Microsoft Teams en Office 365-groepen.
+Gebruik het hulpprogramma Voor inhoudzoeken in het Beveiligings& Compliance Center om snel e-mail te vinden in Exchange-postvakken, documenten in SharePoint-sites en OneDrive-account en chatgesprekken in Skype voor Bedrijven. U het hulpprogramma voor inhoudzoeken ook gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365-samenwerkingstools zoals Microsoft Teams en Microsoft 365-groepen.
 
 **Een inhoudszoekopdracht uitvoeren**
 

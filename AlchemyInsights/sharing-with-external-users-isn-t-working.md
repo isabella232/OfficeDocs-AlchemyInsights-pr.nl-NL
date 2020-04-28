@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767244"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912997"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Problemen oplossen bij het delen van SharePoint-inhoud met externe gebruikers
 
@@ -32,7 +32,7 @@ Zorg ervoor dat extern delen is ingeschakeld voor de site. Voor een klassieke si
     
 2. Selecteer de site of sites en klik op het lint op **Delen**.
     
-Voor een teamsite die deel uitmaakt van een Office 365-groep of een communicatiesite:
+Voor een teamsite die deel uitmaakt van een Microsoft 365-groep of een communicatiesite:
   
 - Deze nieuwe sitetypen hebben dezelfde instelling voor delen als de instelling voor uw hele organisatie, tenzij de instelling voor de hele organisatie het delen van bestanden toestaat met koppelingen waarvoor geen aanmelding vereist is. In dit geval staan de sites het delen toe met nieuwe en bestaande externe gebruikers die zich aanmelden. Als u de instelling voor specifieke sites wilt wijzigen, gebruikt u het nieuwe SharePoint-beheercentrum of PowerShell. [Meer informatie](https://go.microsoft.com/fwlink/?linkid=871863).
     
