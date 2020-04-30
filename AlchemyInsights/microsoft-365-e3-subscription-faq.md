@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912040"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943974"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Veelgestelde vragen over het Microsoft 365 E3-abonnement en -licentiebeheer
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912040"
 - Als u E3-licenties wilt **annuleren**, gaat u naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klikt u op **Instellingen en acties** en klikt u op **Abonnement opzeggen**. Zie [Abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription) voor meer informatie.
 - Zie [Uw abonnement activeren](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription) om het E3-abonnement te **activeren**.
 - Zie [Uw abonnement opnieuw activeren](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription) om een **verlopen E3-abonnement opnieuw te activeren**.
-- Zie [Proefabonnement verlengen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business) als u uw E3-proefabonnement wilt verlengen.
+- Zie [Proefabonnement verlengen](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business) als u uw E3-proefabonnement wilt **verlengen**.
 
 Zie [Abonnementslicenties beheren](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) voor meer informatie.
