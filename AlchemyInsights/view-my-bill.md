@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665683"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947749"
 ---
 # <a name="view-my-bill"></a>Mijn factuur bekijken
 
-1. Ga in het Microsoft 365 Admin Center naar de pagina **facturerings** \> [facturen _amp_ Payments](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. Ga in het Microsoft 365-beheercentrum naar de pagina **Facturen** \> [& facturen.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
-2. Selecteer een datumbereik in de vervolgkeuzelijst en kies vervolgens de volgorde die u wilt weergeven.
+2. Selecteer een datumbereik in de vervolgkeuzelijst en kies vervolgens de order die u wilt weergeven.
 
-Zie [uw rekening of factuur weergeven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)voor meer informatie.
+3. Als u de factuur wilt afdrukken, downloadt u de factuur als PDF-bestand en klikt u op **Afdrukken**.
+
+Zie [Uw factuur of rekening weergeven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)voor meer informatie.

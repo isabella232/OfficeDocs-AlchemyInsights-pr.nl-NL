@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198788"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943938"
 ---
 # <a name="change-your-billing-address"></a>Uw factuuradres wijzigen
 
-Uw factuur of factuur bevat drie adressen. 
+Uw factuur of factuur bevat drie adressen.
 
-**Uw factuur-naar-adres wijzigen**
+**Het factuuradres voor een betalingsmethode wijzigen**
 
-1. Ga in het beheercentrum naar de pagina **Facturering > [betalingsmethoden.](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** 
+1. Ga in het beheercentrum naar **Facturering > [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Selecteer de creditcard of bankrekening die u wilt wijzigen.
+3. Klik op de pagina **Details van de betalingsmethode** op **Bewerken**.
+4. Werk uw factuuradres bij en klik vervolgens op **> gereed opslaan**.
 
-2. Selecteer de creditcard of bankrekening die u wilt wijzigen. 
+Zie [Uw factuuradressen voor Microsoft 365 voor Bedrijven wijzigen voor](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)meer informatie over adres- en meldingswijzigingen.
 
-3. Klik op de pagina **Details van de betalingsmethode** op **Bewerken**. 
+**De factureringsaccountgegevens wijzigen**
 
-4. Werk uw factuuradres bij en klik vervolgens op **> gereed opslaan**. 
+1. Ga in het beheercentrum naar **Facturering> [Factureringsaccounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Selecteer **Factureringsaccountgegevens bewerken**.
+3. Werk de factureringsaccountgegevens bij en klik vervolgens op **> gereed opslaan**.
 
-Zie [Uw factuuradressen voor Office 365 voor Bedrijven wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)voor meer informatie over adres- en meldingswijzigingen. 
+**Opmerking:** U het land/de regio niet wijzigen. Als dit veld moet worden gewijzigd, moet u een nieuwe tenant kopen.
