@@ -1,5 +1,5 @@
 ---
-title: Een licentie toewijzen aan een gebruiker
+title: Licenties toewijzen of ongedaan maken aan gebruikers
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799154"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957865"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Een licentie toewijzen aan een gebruiker
+# <a name="assign-or-unassign-licenses-to-users"></a>Licenties toewijzen of ongedaan maken aan gebruikers
 
 Een gebruiker heeft een licentie nodig om toegang te hebben tot services. Hier volgen stappen om een licentie van een gebruiker toe te **voegen, te wijzigen of te verwijderen.**
   
