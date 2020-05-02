@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724551"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005253"
 ---
-# <a name="inbox-rules"></a>Regels voor Postvak IN
+# <a name="inbox-rules-in-outlook-desktop"></a>Regels voor Postvak IN in Outlook-bureaublad
 
-Zie voor meer informatie over het gebruik van Postvak IN in uw eigen postvak:
+1. Ga naar **Regels voor > beheren & waarschuwingen** om het dialoogvenster Regels en **waarschuwingen te** openen.
+2. Klik op het tabblad **E-mailregels** op **Nieuwe regel**.
+3. Selecteer een van de sjablonen uit **stap 1**. Als u wilt uitgaan van een lege regel, selecteert u **Regel toepassen op berichten die ik ontvang of regel toepassen op berichten die ik verstuur.**
+4. Klik in **stap 2: Bewerk het vak regelbeschrijving**op onderstreepte opties om deze in te stellen. Als u bijvoorbeeld Berichten van iemand markeren hebt geselecteerd **voor follow-up** in stap 1, klikt u op **personen of openbare groepen** om te selecteren welke afzenders berichten u wilt markeren. klik vervolgens **op follow-up op dit moment** om een vlag en een vervolgdatum te selecteren.
+5. Klik op **Volgende**.
 
-- [E-mailberichten beheren met regels in Outlook voor pc](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Uw berichten beheren met regels voor postvak IN in de webversie van Outlook](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-U ook regels voor Postvak IN beheren in Exchange Online PowerShell. Zie [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (weergave), [Nieuw-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (maken), [InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) verwijderen (verwijderen), [Regel instellen](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (bestaand wijzigen), [InboxRule uitschakelen](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (bestaand uitschakelen) en [InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) inschakelen (bestaand inschakelen).
+Zie [E-mailberichten beheren met regels beheren voor](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59)meer informatie over het werken met regels in postvak IN.

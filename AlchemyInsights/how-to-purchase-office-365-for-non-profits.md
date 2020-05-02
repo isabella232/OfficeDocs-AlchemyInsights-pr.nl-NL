@@ -1,5 +1,5 @@
 ---
-title: Office 365 kopen voor zonder winstoogmerk
+title: Microsoft 365 voor non-profitorganisaties - onder beoordeling
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763536"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005217"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Office 365 kopen voor zonder winstoogmerk
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 voor non-profitorganisaties - onder beoordeling
 
-Uw geschiktheid als gekwalificeerde non-profitorganisatie voor Microsoft wordt beoordeeld. U een melding verwachten over de bepaling van uw geschiktheid voordat uw proefperiode verloopt. U de status van uw aanvraag [hier bijhouden.](https://eligibilityweb.azurewebsites.net/)
+Uw geschiktheid als gekwalificeerde non-profitorganisatie voor Microsoft wordt **beoordeeld.** U een melding verwachten over de bepaling van uw geschiktheid **48 uur** na uw moment van indiening. Houd rekening met ten minste **48 uur** om deze melding te ontvangen voordat u een serviceaanvraag opent. 
+
+Zie [Microsoft 365 voor non-profitorganisaties voor](https://www.microsoft.com/nonprofits/microsoft-365)meer informatie. 
