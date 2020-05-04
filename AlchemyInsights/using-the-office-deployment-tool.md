@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726243"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010852"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Het Office Deployment Tool (ODT) gebruiken
 
@@ -42,4 +42,4 @@ U gebruikt de ODT (Office Deployment Tool) om Office 365-versies van Office te i
 
     **Let op:** U moet deze stap uitvoeren vanaf de clientcomputer waarop u Office wilt installeren en u moet lokale beheerdersmachtigingen op die computer hebben.
 
-Zie [Overzicht van het Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)voor meer informatie over het gebruik van Office Deployment Tool voor uw Microsoft 365 Apps voor bedrijfsimplementatiescenario's. Zie [Overzicht van het Office-aanpassingsprogramma](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)voor meer informatie over het gebruik van het Office-aanpassingsprogramma .
+Zie [Overzicht van het Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)voor meer informatie over het gebruik van Office Deployment Tool voor uw Microsoft 365 Apps voor bedrijfsimplementatiescenario's. Zie [Overzicht van het Office-aanpassingsprogramma](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)voor meer informatie over het gebruik van het Office-aanpassingsprogramma .
