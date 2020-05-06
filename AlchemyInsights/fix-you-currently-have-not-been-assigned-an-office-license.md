@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218145"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010177"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Oplossing - 'Er is momenteel geen Office-licentie aan u toegewezen'
 
-Als u Office-client-apps wilt installeren, moet u een Office 365- of Microsoft 365-abonnement hebben dat [Office-client-apps bevat](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), zoals Office 365 Business Premium, Office 365 Business of Office 365 ProPlus.
+Als u Office-client-apps wilt installeren, moet u een abonnement op Office 365 of Microsoft 365 [inclusief Office-client-apps](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) hebben, zoals Microsoft 365 Business Premium, Microsoft 365-apps voor bedrijven of Microsoft 365-apps voor ondernemingen.
 
-**Opmerking**: [Office voor Thuisgebruik en Zelfstandigen](https://products.office.com/home-and-business) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en maakt geen deel uit van een abonnement voor bedrijven. Project Online Essentials omvat geen bureaubladversie van Project. Er is dan ook geen installatie vereist. Gebruikers van Visio-abonnement 1 hebben toegang tot de webversie van Visio, omdat het abonnement geen Visio-bureaublad-app bevat. Project- en Visio-bureaublad-apps zijn niet beschikbaar op Mac
+**Opmerking**: [Office voor Thuisgebruik en Zelfstandigen](https://products.office.com/home-and-business) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en maakt geen deel uit van een zakelijk abonnement. Project Online Essentials omvat geen bureaubladversie van Project. Er is dan ook geen installatie vereist. Gebruikers van Visio-abonnement 1 hebben toegang tot de webversie van Visio, omdat het abonnement geen Visio-bureaublad-app bevat. Project- en Visio-bureaublad-apps zijn niet beschikbaar op Mac
 
 Als u een abonnement hebt dat Office-apps bevat, ziet u geen optie om deze te installeren, tenzij u een [toegewezen licentie](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) hebt. Als u de Office 365-beheerder bent die verantwoordelijk is voor het toewijzen van licenties, raadpleegt u [Licenties toewijzen aan gebruikers](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 

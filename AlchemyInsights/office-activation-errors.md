@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713317"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010789"
 ---
 # <a name="office-activation-errors"></a>Fouten bij activering van Office
 
-1. Ga naar **Configuratiescherm > Programma's en onderdelen** en zoek naar **Office**. U ziet dan **Microsoft Office 365 ProPlus** of **Microsoft Office 365 Business**. Als er meer dan één versie van Office wordt weergegeven, verwijdert u de versie die u niet gebruikt. Als u deze niet kunt verwijderen via het Configuratiescherm, gebruikt u de Ondersteunings- en herstelassistent om de versie te [verwijderen](https://aka.ms/SARA-OfficeUninstall-Alchemy) die u niet gebruikt. Start Office vervolgens opnieuw op en meld u aan met uw werk- of schoolaccount als daarom wordt gevraagd. 
+1. Ga naar **Configuratiescherm > Programma's en onderdelen** en zoek naar **Office**. Zie **Microsoft 365 voor ondernemingen** of **Microsoft 365 voor bedrijven**. Als er meer dan één versie van Office wordt weergegeven, verwijdert u de versie die u niet gebruikt. Als u deze niet kunt verwijderen via het Configuratiescherm, gebruikt u de Ondersteunings- en herstelassistent om de versie te [verwijderen](https://aka.ms/SARA-OfficeUninstall-Alchemy) die u niet gebruikt. Start Office vervolgens opnieuw op en meld u aan met uw werk- of schoolaccount als daarom wordt gevraagd. 
 
 2. Als u geen licentie voor Office ziet, gaat u terug naar **Configuratiescherm > Programma's en onderdelen** en klikt u met de rechtermuisknop op de resterende Office-installatie. Klik op **Wijzigen** (of **Aanpassen**) en klik vervolgens op **Online herstellen**. Het online herstel kan even duren. Start Office vervolgens opnieuw op en meld u aan met uw werk- of schoolaccount als daarom wordt gevraagd. 
 
