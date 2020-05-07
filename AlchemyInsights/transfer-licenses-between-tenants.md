@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e3bbe36ff57038caa2541fe4456a1363c91995d7
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789441"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016899"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Licenties overzetten tussen tenants
 
-Het is niet mogelijk om licenties tussen twee organisaties (tenants) over te zetten. 
+Het is **niet mogelijk** om licenties tussen twee organisaties (tenants) over te zetten. Als u een klant bent met een volumelicentieovereenkomst, neemt u contact op met het [Volume License Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center). Volg anders de stappen die hier worden beschreven: 
 
 - Als u niet meer wilt werken met de tenant waarvan u wilt overzetten, kunt u [het abonnement annuleren](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) en [overgaan tot de aanschaf van een nieuwe](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (doel)tenant.
 
