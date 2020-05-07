@@ -1,5 +1,5 @@
 ---
-title: Fouten bij windows-updates oplossen
+title: Windows Update-fouten oplossen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 76e53f24eae5f1cda53f01a16810a668f5ae33fa
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564192"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063684"
 ---
-# <a name="fix-windows-update-errors"></a><span data-ttu-id="4af5f-102">Fouten bij windows-updates oplossen</span><span class="sxs-lookup"><span data-stu-id="4af5f-102">Fix Windows Update errors</span></span>
+# <a name="fix-windows-update-errors"></a><span data-ttu-id="bd10a-102">Windows Update-fouten oplossen</span><span class="sxs-lookup"><span data-stu-id="bd10a-102">Fix Windows Update errors</span></span>
 
-<span data-ttu-id="4af5f-103">Als u een foutcode krijgt tijdens het downloaden en installeren van Windows-update, kan de **probleemoplosser bijwerken** helpen het probleem op te lossen.</span><span class="sxs-lookup"><span data-stu-id="4af5f-103">If you get an error code while downloading and installing Windows update, the **Update Troubleshooter** can help resolve the problem.</span></span>
+<span data-ttu-id="bd10a-103">Als u een foutcode ontvangt tijdens het downloaden en installeren van Windows-update, kan de **probleemoplosser voor bijwerken** helpen bij het oplossen van het probleem.</span><span class="sxs-lookup"><span data-stu-id="bd10a-103">If you get an error code while downloading and installing Windows update, the **Update Troubleshooter** can help resolve the problem.</span></span>
 
-- [<span data-ttu-id="4af5f-104">Probleemoplosser voor downloaden voor Windows 10</span><span class="sxs-lookup"><span data-stu-id="4af5f-104">Download Update Troubleshooter for Windows 10</span></span>](https://support.microsoft.com/en-us/help/4027322/windows-update-troubleshooter)
-- <span data-ttu-id="4af5f-105">Voer de probleemoplosser uit.</span><span class="sxs-lookup"><span data-stu-id="4af5f-105">Run the troubleshooter.</span></span> <span data-ttu-id="4af5f-106">Wanneer het klaar is, is het het beste om uw apparaat opnieuw op te starten.</span><span class="sxs-lookup"><span data-stu-id="4af5f-106">When it's done, it's best practice to restart your device.</span></span> <span data-ttu-id="4af5f-107">Controleer vervolgens op nieuwe updates door naar [Instellingen > > & beveiliging > Windows Update](ms-settings:windowsupdate)te starten.</span><span class="sxs-lookup"><span data-stu-id="4af5f-107">Then check for new updates by going to [Start > Settings > Update & Security > Windows Update](ms-settings:windowsupdate).</span></span>
+- [<span data-ttu-id="bd10a-104">Probleemoplosser voor bijwerken downloaden voor Windows 10</span><span class="sxs-lookup"><span data-stu-id="bd10a-104">Download Update Troubleshooter for Windows 10</span></span>](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- <span data-ttu-id="bd10a-105">Voer de probleemoplosser uit.</span><span class="sxs-lookup"><span data-stu-id="bd10a-105">Run the troubleshooter.</span></span> <span data-ttu-id="bd10a-106">Als het klaar is, is het de beste manier om je apparaat opnieuw op te starten.</span><span class="sxs-lookup"><span data-stu-id="bd10a-106">When it's done, it's best practice to restart your device.</span></span> <span data-ttu-id="bd10a-107">Controleer vervolgens op nieuwe updates door naar [> Instellingen > Update &-beveiligingsupdate > Windows Update](ms-settings:windowsupdate)te gaan.</span><span class="sxs-lookup"><span data-stu-id="bd10a-107">Then check for new updates by going to [Start > Settings > Update & Security > Windows Update](ms-settings:windowsupdate).</span></span>
 
-<span data-ttu-id="4af5f-108">Als deze nog steeds niet werken, kijk dan op [Windows Update: VEELGESTELDE VRAGEN](https://support.microsoft.com/help/12373/windows-update-faq) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="4af5f-108">If those still don't work, please check out [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) for more information.</span></span>
+<span data-ttu-id="bd10a-108">Als deze nog steeds niet werken, kijk dan op [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="bd10a-108">If those still don't work, please check out [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) for more information.</span></span>
