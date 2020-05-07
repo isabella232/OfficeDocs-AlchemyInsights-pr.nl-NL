@@ -13,21 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711518"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44059072"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="8ef3c-102">Uw Microsoft 365-abonnement opzeggen?</span><span class="sxs-lookup"><span data-stu-id="8ef3c-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="20273-102">Uw Microsoft 365-abonnement opzeggen?</span><span class="sxs-lookup"><span data-stu-id="20273-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="8ef3c-103">Het spijt ons te zien dat je gaat!</span><span class="sxs-lookup"><span data-stu-id="8ef3c-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="20273-103">Het spijt ons te zien dat je gaat!</span><span class="sxs-lookup"><span data-stu-id="20273-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="8ef3c-104">Op basis van uw organisatiegegevens geloven we dat al uw huidige abonnementen minder dan 25 zitplaatsen hebben.</span><span class="sxs-lookup"><span data-stu-id="8ef3c-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="8ef3c-105">Als u uw abonnement online wilt opzeggen, gaat u naar de pagina \> **Factureringsproducten** [& services.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="8ef3c-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="8ef3c-106">Kies in de sectie **Instellingen & acties** de optie Abonnement **annuleren**.</span><span class="sxs-lookup"><span data-stu-id="8ef3c-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="20273-104">Op basis van uw organisatiegegevens geloven we dat al uw huidige abonnementen minder dan 25 zitplaatsen hebben.</span><span class="sxs-lookup"><span data-stu-id="20273-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="20273-105">Als u uw abonnement online wilt opzeggen, gaat u naar de pagina **Facturering** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="20273-105">To cancel your subscription online, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="20273-106">Kies in de sectie **Instellingen & acties** de optie Abonnement **annuleren**.</span><span class="sxs-lookup"><span data-stu-id="20273-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="8ef3c-107">**Terugbetaling: Elk prorata-tegoed wordt aan u geretourneerd binnen de volgende factureringscyclus.**</span><span class="sxs-lookup"><span data-stu-id="8ef3c-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+<span data-ttu-id="20273-107">**Terugbetaling: Elk prorata-tegoed wordt aan u geretourneerd binnen de volgende factureringscyclus.**</span><span class="sxs-lookup"><span data-stu-id="20273-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
 
-<span data-ttu-id="8ef3c-108">**Opmerking:** Als u de optie om op te zeggen niet ziet, klikt u op het abonnement om de details te bekijken en ziet u de optie **Abonnement annuleren** in Instellingen **& Acties**.</span><span class="sxs-lookup"><span data-stu-id="8ef3c-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+<span data-ttu-id="20273-108">**Opmerking:** Als u de optie om op te zeggen niet ziet, klikt u op het abonnement om de details te bekijken en ziet u de optie **Abonnement annuleren** in Instellingen **& Acties**.</span><span class="sxs-lookup"><span data-stu-id="20273-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
 
-<span data-ttu-id="8ef3c-109">Zie [Uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="8ef3c-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span> 
+<span data-ttu-id="20273-109">Zie [Uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="20273-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span> 
