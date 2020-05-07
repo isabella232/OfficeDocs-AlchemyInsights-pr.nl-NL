@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716131"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062459"
 ---
 # <a name="find-and-activate-my-product-key"></a>Mijn productcode zoeken en activeren
 
@@ -32,7 +32,7 @@ Als u Microsoft 365 Business Premium Standard hebt gekocht in een winkel, gebrui
 
 **Opmerking:** Als u een productcode wilt gebruiken om de vervaldatum te verlengen of een licentie toe te voegen aan uw bestaande Microsoft 365 Business Premium Standard-abonnement, hebt u een nieuwe en ongebruikte sleutel nodig voor hetzelfde Microsoft 365-abonnement.  Het invoeren van uw oorspronkelijke Microsoft 365-productcode werkt niet omdat een sleutel die al is ingewisseld, niet opnieuw kan worden gebruikt.
 
-1. Ga in het beheercentrum naar de pagina >  **Factureringsproducten**[& services.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Ga in het beheercentrum naar de pagina **Facturering** > **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Zoek het abonnement waaraan u de vervaldatum wilt verlengen of licenties wilt toevoegen.  Klik [op de einddatum verlengen](https://go.microsoft.com/fwlink/p/?linkid=842054) of meer licenties [toevoegen.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 

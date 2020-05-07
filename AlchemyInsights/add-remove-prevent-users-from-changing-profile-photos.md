@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671488"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061991"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Profielfoto's toevoegen, verwijderen of voorkomen dat gebruikers profielfoto's wijzigen
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671488"
 
 - **Profielfoto's verwijderen:** Profielfoto's kunnen worden verwijderd door een beheerder in [Azure Active Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) of door een gebruiker in hun Microsoft Teams-gebruikersprofiel.
 
-- **Wijzigingen in profielfoto's blokkeren:** Fotowijzigingen kunnen voor alle Microsoft 365* worden geblokkeerd door een Outlook Web App-beleid per het artikel toe te voegen, [Foto's te vergrendelen of machtigingen te beperken om Microsoft 365-profielfoto te wijzigen.](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)
+- **Wijzigingen in profielfoto's blokkeren:** Fotowijzigingen kunnen voor alle Microsoft 365* worden geblokkeerd door een Outlook Web App-beleid per het artikel toe te voegen, [Foto's te vergrendelen of machtigingen te beperken om Microsoft 365-profielfoto te wijzigen.](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)
 
 *Houd er rekening mee dat Microsoft Teams momenteel geen ondersteuning biedt voor het Outlook Web App-beleid om fotowijzigingen te blokkeren, maar dat het van plan is om begin 2020 ondersteuning voor deze functie toe te voegen.

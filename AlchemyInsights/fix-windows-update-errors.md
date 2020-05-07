@@ -1,5 +1,5 @@
 ---
-title: Fouten bij windows-updates oplossen
+title: Windows Update-fouten oplossen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 76e53f24eae5f1cda53f01a16810a668f5ae33fa
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564192"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063684"
 ---
-# <a name="fix-windows-update-errors"></a>Fouten bij windows-updates oplossen
+# <a name="fix-windows-update-errors"></a>Windows Update-fouten oplossen
 
-Als u een foutcode krijgt tijdens het downloaden en installeren van Windows-update, kan de **probleemoplosser bijwerken** helpen het probleem op te lossen.
+Als u een foutcode ontvangt tijdens het downloaden en installeren van Windows-update, kan de **probleemoplosser voor bijwerken** helpen bij het oplossen van het probleem.
 
-- [Probleemoplosser voor downloaden voor Windows 10](https://support.microsoft.com/en-us/help/4027322/windows-update-troubleshooter)
-- Voer de probleemoplosser uit. Wanneer het klaar is, is het het beste om uw apparaat opnieuw op te starten. Controleer vervolgens op nieuwe updates door naar [Instellingen > > & beveiliging > Windows Update](ms-settings:windowsupdate)te starten.
+- [Probleemoplosser voor bijwerken downloaden voor Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Voer de probleemoplosser uit. Als het klaar is, is het de beste manier om je apparaat opnieuw op te starten. Controleer vervolgens op nieuwe updates door naar [> Instellingen > Update &-beveiligingsupdate > Windows Update](ms-settings:windowsupdate)te gaan.
 
-Als deze nog steeds niet werken, kijk dan op [Windows Update: VEELGESTELDE VRAGEN](https://support.microsoft.com/help/12373/windows-update-faq) voor meer informatie.
+Als deze nog steeds niet werken, kijk dan op [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) voor meer informatie.
