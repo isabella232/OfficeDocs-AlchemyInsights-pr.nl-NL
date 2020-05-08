@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705080"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062279"
 ---
 # <a name="declined-credit-card"></a>Geweigerde creditcard
 
-Als u via creditcard betaalt maar uw creditcard wordt geweigerd, ontvangt u een e-mailbericht met de mededeling dat we de betaling niet konden verwerken. Controleer of de [creditcardgegevens](https://go.microsoft.com/fwlink/p/?linkid=842054) - kaartnummer, vervaldatum, naam op de creditcard en adres, inclusief plaats, staat en postcode - precies zo worden weergegeven als op de creditcard en uw creditcardafschrift. U uw creditcardgegevens bijwerken en de betaling onmiddellijk indienen met de optie **Saldo vereffenen** op de pagina [Producten & services.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Als u via creditcard betaalt maar uw creditcard wordt geweigerd, ontvangt u een e-mailbericht met de mededeling dat we de betaling niet konden verwerken. Controleer of de [creditcardgegevens](https://go.microsoft.com/fwlink/p/?linkid=842054) - kaartnummer, vervaldatum, naam op de creditcard en adres, inclusief plaats, staat en postcode - precies zo worden weergegeven als op de creditcard en uw creditcardafschrift. U uw creditcardgegevens bijwerken en de betaling onmiddellijk indienen met de optie **Saldo vereffenen** op de pagina **[Uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Zie 'Wat als mijn creditcard is verlopen en mijn betaling achterstallig is?' voor meer informatie. in [Betalen voor uw Microsoft 365 voor bedrijven-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
