@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599240"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061629"
 ---
 # <a name="cancel-project-subscription"></a>Projectabonnement opzeggen
 
-Beheerders kunnen het Project-abonnement voor hun organisatie opzeggen vanuit het **Microsoft 365-beheercentrum**. 
+Beheerders kunnen het Project-abonnement voor hun organisatie opzeggen vanuit het **Microsoft 365-beheercentrum**.
 
-1. Selecteer de optie **Facturering.**
+1. Ga naar de pagina **Facturering > [uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
 
-2. Klik [op Producten & services](https://go.microsoft.com/fwlink/p/?linkid=842054) om alle abonnementen voor uw organisatie weer te geven.
+2. Zoek het projectplan om te annuleren.
 
-3. Zoek het projectplan om te annuleren.
+3. Klik **op Abonnement annuleren**.
 
-4. Klik **op Abonnement annuleren**.
+**Terugbetaling: Elk prorata-tegoed wordt aan u geretourneerd binnen de volgende factureringscyclus.**
 
-**Terugbetaling: Elk prorata-tegoed wordt aan u geretourneerd binnen de volgende factureringscyclus.** 
+**Opmerking:** Als u de optie om op te zeggen niet ziet, klikt u op het abonnement om de details te bekijken en ziet u de optie **Abonnement annuleren** in Instellingen **& Acties**.
 
-**Opmerking:** Als u de optie om op te zeggen niet ziet, klikt u op het abonnement om de details te bekijken en ziet u de optie **Abonnement annuleren** in Instellingen **& Acties**. 
-
-Zie [Uw abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)voor meer informatie. 
+Zie [Uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)voor meer informatie.

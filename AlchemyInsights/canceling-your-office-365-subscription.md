@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711410"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086669"
 ---
 # <a name="canceling-your-subscription"></a>Uw abonnement opzeggen?
 
@@ -25,9 +25,9 @@ Het spijt ons dat je gaat, maar als je je abonnement wilt opzeggen, zijn hier je
   
 - Als u een proefklant bent, is er niets om te annuleren. Proefabonnementen verlopen automatisch, tenzij u een betalingsmethode opgeeft.
 
-- Als u minder dan 25 toegewezen licenties hebt, u uw abonnement online opzeggen. Ga naar de pagina \> **Factureringsproducten** [& services.](https://go.microsoft.com/fwlink/p/?linkid=842054) Kies in de sectie **Instellingen & acties** de optie Abonnement **annuleren**.
+- Als u minder dan 25 toegewezen licenties hebt, u uw abonnement online opzeggen. Ga naar de pagina **Facturering** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Kies in de sectie **Instellingen & acties** de optie Abonnement **annuleren**.
 
-- Als u meer dan 25 toegewezen licenties hebt, u gebruikers verwijderen totdat u minder dan 25 hebt, of de optie 'Laat ons u bellen' gebruiken om met een ondersteuningstechnicus te praten.
+- Als u meer dan 25 toegewezen licenties hebt, u gebruikers verwijderen totdat u er minder dan 25 hebt.
   
 **Terugbetaling: Elk prorata-tegoed wordt aan u geretourneerd binnen de volgende factureringscyclus.** 
 

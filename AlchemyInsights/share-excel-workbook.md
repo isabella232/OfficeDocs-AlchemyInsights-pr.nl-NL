@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 6a020a9e944b2df85719db3f9fde84897764e36b
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045398"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163776"
 ---
-# <a name="collaborate-on-excel-documents"></a>Samenwerken aan documenten in Excel
+# <a name="collaborate-on-excel-documents"></a>Samenwerken aan Excel-documenten
 
-Als u wilt samenwerken met collega's op Excel-documenten, gebruiken samen schrijven. Informatie over het inschakelen en het gebruik van deze functie op [samenwerken aan Excel-werkmappen tegelijkertijd met cocreatie](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Als u wilt samenwerken met collega's aan **Excel-documenten,** gebruikt u de functie cocreatie . 
+
+Lees deze functie en lees niet alleen antwoorden op veelgestelde vragen over scenario's voor delen en cocreatie op het gebied van delen en cocreatie op [hetzelfde moment met cocreatie](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
