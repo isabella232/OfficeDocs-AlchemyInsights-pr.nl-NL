@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058422"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Abonnementen vergelijken, upgraden of kopen
@@ -28,4 +28,4 @@ Als uw organisatie geïnteresseerd is in het vergelijken van alle abonnementen e
   
 Als uw organisatie al abonnementen heeft gekocht en geïnteresseerd is om over te schakelen naar een ander abonnement, u dit doen vanuit het Microsoft 365-beheercentrum. Ga naar de pagina **Facturering** \> [uw producten,](https://go.microsoft.com/fwlink/p/?linkid=842054) selecteer het abonnement dat u wilt wijzigen en kies het tabblad **Bijwerken** om de lijst met nieuwe abonnementen weer te geven die beschikbaar zijn.
   
-Uw organisatie kan ook abonnementen mixen en matchen om te voldoen aan de behoeften en functievereisten van gebruikers. Ga vanuit het beheercentrum naar de pagina Services [voor factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing** \>
+Uw organisatie kan ook abonnementen mixen en matchen om te voldoen aan de behoeften en functievereisten van gebruikers. Ga vanuit het beheercentrum naar de pagina **Services voor** \> [factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433)

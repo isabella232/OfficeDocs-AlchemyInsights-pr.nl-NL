@@ -14,10 +14,10 @@ ms.custom:
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
 ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063828"
 ---
 # <a name="manage-recurring-billing"></a>Terugkerende facturering beheren
@@ -28,7 +28,7 @@ U terugkerende facturering in- of uitschakelen in het Microsoft 365-beheercentru
 
 2. Selecteer **Onder Facturering**naast **Vernieuwing op** of Verlopen **op**de optie **Bewerken**.
 
-3. Selecteer In het deelvenster **Terugkerende factureringsinstellingen** de optie **Uitschakelen** om het uit te schakelen. Als terugkerende facturering al is uitgeschakeld, selecteert u **Maandelijks** of **Eenmaal** om deze in te schakelen.
+3. Schakel in het deelvenster **Terugkerende factureringsinstellingen** **Uitschakelen** om het uit te schakelen. Als terugkerende facturering al is uitgeschakeld, selecteert u **Maandelijks** of **Eenmaal** om deze in te schakelen.
 
 4. Selecteer **Wijziging verzenden**.
 

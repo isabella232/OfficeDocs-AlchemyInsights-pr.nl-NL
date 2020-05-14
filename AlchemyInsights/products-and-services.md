@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062856"
 ---
 # <a name="your-products"></a>Uw producten
 
-U de abonnementen van uw organisatie vinden op de pagina **Facturering** > **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Hier zijn enkele van de hoogtepunten van deze pagina, samen met links voor meer info over elke functie:
+U de abonnementen van uw organisatie vinden op de pagina **Facturering**  >  **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Hier zijn enkele van de hoogtepunten van deze pagina, samen met links voor meer info over elke functie:
 
 1. Beheer het aantal licenties dat voor elk abonnement is aangeschaft, samen met het aantal licenties dat in gebruik is.  **Opmerking:** Licenties die niet in gebruik zijn (niet toegewezen aan een gebruiker) worden nog steeds in rekening gebracht.  Als u geen kosten in rekening wilt brengen voor ongebruikte licenties, vermindert u het aantal gekochte licenties. Zie [Licenties toevoegen of verkleinen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)voor informatie over het toevoegen of verwijderen van licenties uit een abonnement.
 
@@ -34,4 +34,4 @@ U de abonnementen van uw organisatie vinden op de pagina **Facturering** > **[uw
 
 6. [Het abonnement opzeggen](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-U extra abonnementen kopen op de pagina Services[**voor factureringsaankopen.**](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing** > 
+U extra abonnementen kopen op de pagina **Services voor**  >  [**factureringsaankopen.**](https://go.microsoft.com/fwlink/p/?linkid=868433)

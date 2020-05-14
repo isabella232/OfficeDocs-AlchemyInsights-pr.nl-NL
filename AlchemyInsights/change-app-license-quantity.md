@@ -13,10 +13,10 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058747"
 ---
 # <a name="change-app-license-quantity"></a>Aantal app-licenties wijzigen
@@ -25,7 +25,7 @@ U het aantal licenties dat u hebt bekijken of wijzigen en deze toewijzen aan geb
 
 ## <a name="to-change-license-quantity"></a>Licentiehoeveelheid wijzigen
 
-1. Ga naar de pagina **Facturering** > **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** en kies het tabblad **Apps.**
+1. Ga naar **Billing**de pagina  >  **[Facturering uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** en kies het tabblad **Apps.**
 
 2. Zoek en selecteer de app die u wilt beheren.  
 
@@ -35,7 +35,7 @@ U het aantal licenties dat u hebt bekijken of wijzigen en deze toewijzen aan geb
 
 ## <a name="to-assign-app-licenses"></a>App-licenties toewijzen
 
-1. Ga naar de pagina **Facturering** > **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** en kies het tabblad **Apps.**
+1. Ga naar **Billing**de pagina  >  **[Facturering uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** en kies het tabblad **Apps.**
 
 2. Zoek en selecteer de app die u wilt beheren.  
 

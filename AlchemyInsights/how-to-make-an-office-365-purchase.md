@@ -13,17 +13,17 @@ ms.custom:
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063540"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Een Microsoft 365-aankoop doen
 
 Aankopen in Microsoft 365 kunnen worden gedaan in het beheercentrum.
   
-- Als u een abonnement wilt kopen, gaat u naar de pagina [Services voor factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing** \>
+- Als u een abonnement wilt kopen, gaat u naar de pagina **Services voor** \> [factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
 - Als u extra licenties wilt aanschaffen, gaat u naar de pagina **Facturering** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Kies het abonnement waaraan u licenties wilt toevoegen en selecteer **licenties toevoegen/verwijderen.**
   
