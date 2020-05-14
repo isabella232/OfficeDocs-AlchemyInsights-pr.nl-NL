@@ -15,24 +15,24 @@ ms.custom:
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
 ms.openlocfilehash: 7de2ebb0226b51003a6f9caf36899122b1177ddd
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063504"
 ---
-# <a name="how-to-purchase-education-offer"></a><span data-ttu-id="8b241-102">Onderwijsaanbod kopen</span><span class="sxs-lookup"><span data-stu-id="8b241-102">How to purchase education offer</span></span>
+# <a name="how-to-purchase-education-offer"></a><span data-ttu-id="40fad-102">Onderwijsaanbod kopen</span><span class="sxs-lookup"><span data-stu-id="40fad-102">How to purchase education offer</span></span>
 
-<span data-ttu-id="8b241-103">U bent goedgekeurd voor Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="8b241-103">You have been approved for Office 365 Education.</span></span> <span data-ttu-id="8b241-104">Aanschaffen:</span><span class="sxs-lookup"><span data-stu-id="8b241-104">To purchase:</span></span>
+<span data-ttu-id="40fad-103">U bent goedgekeurd voor Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="40fad-103">You have been approved for Office 365 Education.</span></span> <span data-ttu-id="40fad-104">Aanschaffen:</span><span class="sxs-lookup"><span data-stu-id="40fad-104">To purchase:</span></span>
   
-1. <span data-ttu-id="8b241-105">Ga in het beheercentrum naar de pagina **Facturering** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="8b241-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="40fad-105">Ga in het beheercentrum naar de pagina **Facturering** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="40fad-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="8b241-106">Kies de proefversie voor **studenten of faculteiten.**</span><span class="sxs-lookup"><span data-stu-id="8b241-106">Choose the trial for **Students or Faculty**.</span></span>
+2. <span data-ttu-id="40fad-106">Kies de proefversie voor **studenten of faculteiten.**</span><span class="sxs-lookup"><span data-stu-id="40fad-106">Choose the trial for **Students or Faculty**.</span></span>
 
-3. <span data-ttu-id="8b241-107">Kies in de sectie **Licenties** de optie **Abonnement kopen**.</span><span class="sxs-lookup"><span data-stu-id="8b241-107">In the **Licenses** section, choose **Purchase subscription**.</span></span>
+3. <span data-ttu-id="40fad-107">Kies in de sectie **Licenties** de optie **Abonnement kopen**.</span><span class="sxs-lookup"><span data-stu-id="40fad-107">In the **Licenses** section, choose **Purchase subscription**.</span></span>
 
-4. <span data-ttu-id="8b241-108">Volg de resterende stappen om uit te checken.</span><span class="sxs-lookup"><span data-stu-id="8b241-108">Follow the remaining steps to check out.</span></span>
+4. <span data-ttu-id="40fad-108">Volg de resterende stappen om uit te checken.</span><span class="sxs-lookup"><span data-stu-id="40fad-108">Follow the remaining steps to check out.</span></span>
 
-<span data-ttu-id="8b241-109">Als u een ander abonnement wilt kopen dan wat er in de proefversie staat, gaat u naar de pagina **Services voor factureringsaankopen** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) en kiest u uit de lijst onder **Onderwijsplannen**.</span><span class="sxs-lookup"><span data-stu-id="8b241-109">If you would like to purchase a subscription other than what is in trial, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, and choose from the list under **Education Plans**.</span></span>
+<span data-ttu-id="40fad-109">Als u een ander abonnement wilt kopen dan wat er in de proefversie staat, gaat u naar de pagina **Services voor** \> [factureringsaankopen](https://go.microsoft.com/fwlink/p/?linkid=868433) en kiest u uit de lijst onder **Onderwijsplannen**.</span><span class="sxs-lookup"><span data-stu-id="40fad-109">If you would like to purchase a subscription other than what is in trial, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, and choose from the list under **Education Plans**.</span></span>
 
-<span data-ttu-id="8b241-110">Zie [Hetzelfde abonnement kopen als uw proefperiode](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="8b241-110">To learn more, see [Buy the same plan as your trial](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).</span></span>
+<span data-ttu-id="40fad-110">Zie [Hetzelfde abonnement kopen als uw proefperiode](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="40fad-110">To learn more, see [Buy the same plan as your trial](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).</span></span>
