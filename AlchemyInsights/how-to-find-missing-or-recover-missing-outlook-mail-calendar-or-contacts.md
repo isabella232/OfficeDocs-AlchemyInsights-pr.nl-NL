@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720691"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235292"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Ontbrekende berichten, contactpersonen of agenda-items zoeken en herstellen in Outlook
 
-- U het [hulpprogramma Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten](https://aka.ms/SaRA-OutlookSendReceive) op de betreffende machine. Deze tool controleert op een aantal problemen en zal mogelijke oplossingen voorstellen.
+1. Ga in Outlook naar de lijst met e-mailmappen en selecteer **Verwijderde items**. **Belangrijk:** als u de map **Verwijderde items** niet ziet, maar in plaats daarvan de map **Prullenbak** ziet, ondersteunt uw account geen ondersteuning voor het herstellen van een item dat niet meer in de map **Verwijderde items** staat.
 
-- [Bepaal of het account is gehackt.](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Als u gecompromitteerd bent, volgt u de stappen [in Reageren op een gecompromitteerd e-mailaccount.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. Klik **in het** menu Start op **Verwijderde items uit server herstellen**. **Belangrijk:** als er geen opdracht **Verwijderde items uit server herstellen** in het menu staat, biedt uw account geen ondersteuning voor het herstellen van een item dat niet meer in de map Verwijderde **items** staat.
 
-- [Het bericht of item zoeken met Direct zoeken](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Selecteer de items die u wilt herstellen, klik op **Geselecteerde items herstellen**en klik op **OK**.
 
-- [Verwijderde items herstellen in Outlook voor Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Waar gaan teruggevonden artikelen naartoe?** Wanneer u items herstelt uit de map Herstelbare items, worden ze verplaatst naar de map **Verwijderde items.** Nadat u een item hebt hersteld, u het vinden in de map **Verwijderde items** en vervolgens naar een andere map verplaatsen.
+
+U ook het [hulpprogramma Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten](https://aka.ms/SaRA-OutlookSendReceive) op de getroffen **machine.** Deze tool controleert op een aantal problemen en zal mogelijke oplossingen voorstellen.
