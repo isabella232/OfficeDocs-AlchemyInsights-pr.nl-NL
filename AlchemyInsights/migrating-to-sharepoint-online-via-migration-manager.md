@@ -11,17 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 54f3e3a396334b7c1640b078e2efed4d6b463ba3
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235336"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268731"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="3f366-102">Migreren naar SharePoint Online met Migratiebeheer</span><span class="sxs-lookup"><span data-stu-id="3f366-102">Migrating to SharePoint Online via Migration Manager</span></span>
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="2fec3-102">Migreren naar SharePoint Online met Migratiebeheer</span><span class="sxs-lookup"><span data-stu-id="2fec3-102">Migrating to SharePoint Online via Migration Manager</span></span>
 
-<span data-ttu-id="3f366-103">**Migratiebeheer**</span><span class="sxs-lookup"><span data-stu-id="3f366-103">**Migration Manager**</span></span>
+<span data-ttu-id="2fec3-103">In het moderne SharePoint-beheercentrum begeleidt migratiebeheer u bij de configuratie van uw klanten en het opzetten van taken.</span><span class="sxs-lookup"><span data-stu-id="2fec3-103">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="2fec3-104">U kunt globale instellingen of op taakniveau opgeven, de voortgang van alle taken weergeven en rapporten met een samenvatting en op taakniveau downloaden.</span><span class="sxs-lookup"><span data-stu-id="2fec3-104">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
 
-<span data-ttu-id="3f366-104">In het moderne SharePoint-beheercentrum begeleidt migratiebeheer u bij de configuratie van uw klanten en het opzetten van taken.</span><span class="sxs-lookup"><span data-stu-id="3f366-104">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="3f366-105">U kunt globale instellingen of op taakniveau opgeven, de voortgang van alle taken weergeven en rapporten met een samenvatting en op taakniveau downloaden.</span><span class="sxs-lookup"><span data-stu-id="3f366-105">You can specify global or task-level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
-
-- [<span data-ttu-id="3f366-106">Aan de slag met Migratiebeheer</span><span class="sxs-lookup"><span data-stu-id="3f366-106">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+- [<span data-ttu-id="2fec3-105">Aan de slag met Migratiebeheer</span><span class="sxs-lookup"><span data-stu-id="2fec3-105">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
