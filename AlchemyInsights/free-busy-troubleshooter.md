@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765047"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331277"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problemen met het bekijken van agendavrije/drukke informatie
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Stappen voor probleemoplossing voor beschikbaarheid van agenda's (gratis/bezet)
 
-Als u agendavrije/drukke gegevens niet zien in andere agenda's of als andere mensen geen vrije/drukke informatie in uw agenda kunnen zien, gebruikt u de [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/).
-  
+Over het algemeen is de beste tool voor het oplossen van problemen met vrije/drukke problemen de [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) om te zien waar het niet werkt. De RCA geeft u een gedetailleerd overzicht van wat werkte en wat niet met specifieke foutmeldingen u opzoeken om oplossingen te vinden. Het heeft ook een link naar de [Microsoft Support and Recovery Assistant.](https://diagnostics.office.com/)
+
+Een ander goed hulpmiddel om te proberen is het [hulpprogramma voor agendacontrole voor Outlook](https://www.microsoft.com/download/details.aspx?id=28786) als de gebruiker Outlook heeft.
