@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762888"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373030"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="01f73-102">Meer informatie over opties voor het delen van externe agenda's</span><span class="sxs-lookup"><span data-stu-id="01f73-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="ffd85-102">Exchange Online-samenwerkingsopties</span><span class="sxs-lookup"><span data-stu-id="ffd85-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="01f73-103">Als u vergaderingen met mensen buiten uw organisatie moet plannen, u met Microsoft 365 agenda's beschikbaar maken voor 'externe gebruikers', gebruikers die vrije/drukke tijd moeten zien, maar geen gebruikersaccounts hebben voor uw Microsoft 365-omgeving.</span><span class="sxs-lookup"><span data-stu-id="01f73-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="01f73-104">Zie [Agenda's delen met externe gebruikers](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users)voor meer informatie .</span><span class="sxs-lookup"><span data-stu-id="01f73-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="ffd85-103">Zie Delen in Exchange Online voor een **overzicht van extern delen van agenda's.** [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="ffd85-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="ffd85-104">Als u **agenda's wilt delen met een andere Office 365-organisatie,** raadpleegt u [Organisatierelaties in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="ffd85-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="ffd85-105">Zie [Beleid delen in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx)als u wilt bepalen hoe uw gebruikers hun **agenda's delen met mensen buiten uw organisatie.**</span><span class="sxs-lookup"><span data-stu-id="ffd85-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="ffd85-106">Zie [Agenda delen in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4)voor **het** delen van agenda's.</span><span class="sxs-lookup"><span data-stu-id="ffd85-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
