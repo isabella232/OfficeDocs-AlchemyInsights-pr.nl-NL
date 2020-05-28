@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991147"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263943"
 ---
 # <a name="payment-faq"></a>Veelgestelde vragen over betalingen
 
 Beheer betalingen in het **Microsoft 365-beheercentrum**. 
 
-1. Ga naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)** om betalingsmethoden voor het abonnement toe te wijzen of te wijzigen.
-2. Ga naar **Facturering > [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)** om betalingsmethoden toe te voegen, bij te werken of te verwijderen.
-
-**Veelvoorkomend probleem en oplossingen**
+- Ga naar **Facturering > [Uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) ** om betalingsmethoden voor abonnementen toe te wijzen of te wijzigen.
+- Ga naar **Facturering > [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)** om betalingsmethoden toe te voegen, bij te werken of te verwijderen.
 
 - **Betalingsmethoden**: als u betaalt per creditcard of bankrekening, worden de kosten enkele dagen nadat de factuur is gemaakt in rekening gebracht bij de betalingsmethode die is gekoppeld aan uw abonnement(en). Als de betaling mislukt, werkt u uw betalingsmethode bij. Zie [Betalingsmethoden toevoegen, bijwerken of verwijderen](https://go.microsoft.com/fwlink/?linkid=2118133) voor meer informatie.
 

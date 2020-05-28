@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767028"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343200"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Problemen met “Openen met Verkenner“ oplossen in SharePoint Online
 
@@ -28,9 +28,6 @@ Als u problemen met het openen met Explorer wilt oplossen, volgt u de stappen en
 - [Openen in Verkenner gebruiken om bibliotheekbestanden te kopiëren of te verplaatsen](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Opmerking:**
+>- Openen met Explorer werkt alleen in Internet Explorer 10 en 11. Openen met Explorer werkt in Windows niet in Microsoft Edge, Google Chrome of Mozilla Firefox, of met het Mac-platform. Om deze reden is de optie Verkennerweergave mogelijk niet beschikbaar.
 >
 >- De knop Openen met Explorer wordt niet weergegeven in de nieuwe bibliotheekervaring. Selecteer de vervolgkeuzelijst **Weergave** in de rechterbovenhoek (de naam van de vervolgkeuzelijst is afhankelijk van de huidige weergave) en selecteer vervolgens **Weergeven in Verkenner**.
->
->- Openen met Explorer werkt alleen in Internet Explorer 10 en 11. Openen met Explorer werkt in Windows niet in Microsoft Edge, Google Chrome of Mozilla Firefox, of met het Mac-platform. Om deze reden is de optie Verkennerweergave mogelijk niet beschikbaar.
-
-

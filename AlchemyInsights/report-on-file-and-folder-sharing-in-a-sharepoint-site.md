@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: c1d21fb59da298c99bda8a685cb7128077349c6d
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+- "9000191"
+- "3050"
+ms.openlocfilehash: 2a4e9f9b723443d0879dedb06fb35e17f0a5e95f
+ms.sourcegitcommit: ed65b545ea3abf05fdc71a5167aaaab033063209
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182578"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44250214"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Rapporteren over het delen van bestanden en mappen in een SharePoint-site
 
-U kunt een CSV-bestand maken van unieke bestanden, gebruikers, machtigingen en koppelingen in een bepaalde SharePoint-site of OneDrive-bibliotheek. Hiermee kunt u zien hoe delen wordt gebruikt en of er bestanden of mappen met gasten worden gedeeld. Zie [Rapporteren over het delen van bestanden en mappen in een SharePoint-site](https://docs.microsoft.com/sharepoint/sharing-reports) voor meer informatie.
+U kunt een CSV-bestand maken van unieke bestanden, gebruikers, machtigingen en koppelingen in een bepaalde SharePoint-site of OneDrive-bibliotheek. Dit kan u helpen te begrijpen hoe delen wordt gebruikt en of bestanden of mappen worden gedeeld met gasten. Zie [Rapporteren over het delen van bestanden en mappen in een SharePoint-site](https://docs.microsoft.com/sharepoint/sharing-reports) voor meer informatie.

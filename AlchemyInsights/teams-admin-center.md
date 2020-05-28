@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021635"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354083"
 ---
 # <a name="teams-admin-center"></a>Teams-beheercentrum
 
@@ -30,4 +30,6 @@ Controleer de volgende items als u het Teams-beheercentrum niet kunt openen:
 Controleer het volgende als er in het Teams-beheercentrum geen gebruikers worden weergegeven:
 
 - Hebt u in de afgelopen 24 uur gebruikers gemaakt of licenties toegewezen? Wacht minimaal 24 uur voordat u een ondersteuningsticket opent.
-- Controleer of u de juiste licenties hebt toegewezen. 
+- Controleer of u de juiste licenties hebt toegewezen.
+- Als u een on-premise Active Directory hebt, controleert u of [de waarde van msRTCSIP-PrimaryUserAddress of het SIP-adres in het veld ProxyAdressen in uw lokale Active Directory uniek is en dat de indeling overeenkomt met](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Gebruikersnaam** van de gebruiker van het [Microsoft 365-beheercentrum](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Als u van plan bent een Skype voor Bedrijven Server-implementatie te behouden en gebruikers on-premises en online wilt laten homeen: volg de **'Hybride instellen met Teams en Skype voor Bedrijven Online'** in uw Skype voor Bedrijven Server-configuratiescherm en verplaats gebruikers online.

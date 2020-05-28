@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030588"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354047"
 ---
 # <a name="teams-client-crashing"></a>Teams-cliënt crasht?
 
@@ -24,32 +24,26 @@ Als uw Teams-client crasht, probeer dan het volgende:
 
 - Als u de Teams-desktop-app gebruikt, [ zorg dan dat de app volledig is bijgewerkt ](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Zorg ervoor dat alle [ URL's en adresbereiken van Office 365 ](https://docs.microsoft.com/microsoftteams/connectivity-issues) toegankelijk zijn.
+- Zorg ervoor dat alle [Microsoft 365-URL's en adresbereiken](https://docs.microsoft.com/microsoftteams/connectivity-issues) toegankelijk zijn.
 
-- Log in met uw beheerdersaccount en controleer uw [ Servicestatusdashboard ](https://docs.microsoft.com/office365/enterprise/view-service-health) om te controleren of er geen storing of serviceafname is.
+- Meld u aan met uw tenantadmin-account en controleer uw [dashboard servicestatus](https://docs.microsoft.com/office365/enterprise/view-service-health) om te controleren of er geen uitval of servicedegradatie bestaat.
 
- - Als laatste stap kunt u proberen de cache van uw Teams-cliënt te wissen:
+- De Teams-toepassing verwijderen en opnieuw installeren (koppeling)
+    - Blader naar de map %appdata%\Microsoft\teams\ op uw computer en verwijder alle bestanden in die map.
+    - [Download en installeer de Teams-app](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)en installeer teams indien mogelijk als beheerder (klik met de rechtermuisknop op het installatieprogramma Teams en selecteer 'Uitvoeren als beheerder' indien beschikbaar).
 
-    1.  Sluit de Microsoft Teams-desktopclient volledig af. U kunt met de rechtermuisknop op ** Teams ** klikken in het pictogramvak en op ** Afsluiten ** klikken, of Taakbeheer uitvoeren en het proces volledig beëindigen.
+Als uw Teams-client nog steeds crasht, u het probleem reproduceren? Zo ja:
 
-    2.  Ga naar Verkenner en typ % appdata% \Microsoft\teams in.
+1. Gebruik de Steps Recorder om uw stappen vast te leggen.
+    - Sluit ALLE onnodige of vertrouwelijke toepassingen.
+    - Start de Steps Recorder en reproduceren het probleem terwijl ingelogd met de getroffen gebruikersaccount.
+    - [Verzamel de teams logs die de opgenomen repro stappen vast te leggen](https://docs.microsoft.com/microsoftteams/log-files). **Opmerking:** zorg ervoor dat u het aanmeldingsadres van de getroffen gebruiker vastlegt.
+    - Verzamel de dump- en/of foutbucket-informatie (Windows). Start Windows Powershell op de machine waar de crash plaatsvindt en voer de volgende opdrachten uit:
 
-    3.  Eenmaal in de directory ziet u enkele van de volgende mappen:
-
-         - Ga vanuit ** Application Cache ** naar Cache en verwijder alle bestanden op de Cache-locatie: % appdata%\Microsoft\teams\applicationcache\cache.
-
-        - Verwijder vanuit ** Blob_storage ** alle bestanden: % appdata%\Microsoft\teams\blob_storage.
-
-        - Verwijder vanuit ** Cache ** alle bestanden: % appdata%\Microsoft\teams\Cache.
-
-        - Verwijder vanuit ** databases ** alle bestanden: % appdata%\Microsoft\teams\databases.
-
-        - Verwijder vanuit ** GPUCache ** alle bestanden: % appdata%\Microsoft\teams\GPUCache.
-
-        - Verwijder vanuit ** IndexedDB ** alle bestanden: % appdata%\Microsoft\teams\IndexedDB.
-
-        - Verwijder vanuit **Local Storage ** alle bestanden: % appdata%\Microsoft\teams\Local Storage.
-
-        - Verwijder vanuit **tmp ** alle bestanden: %appdata%\Microsoft\teams\tmp.
-
-    4. Start uw Teams-cliënt opnieuw op.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Voeg het bestand toe aan uw ondersteuningsaanvraag.

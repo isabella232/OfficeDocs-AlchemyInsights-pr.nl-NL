@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953831"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343051"
 ---
 # <a name="list-view-threshold"></a>Drempelwaarde voor lijstweergave
 
-Lijsten en bibliotheken in SharePoint kunnen maximaal 30 miljoen items bevatten, maar als ze meer dan 5000 items bevatten, kunt u een foutmelding over de drempelwaarde voor lijstweergave krijgen als u ermee wilt werken. Deze drempelwaarde is ingesteld om de prestaties van de service te kunnen handhaven. Deze waarde kan niet worden gewijzigd. Mogelijk wordt deze fout ook weergegeven wanneer u probeert de overname van een map te delen of te verbreken.
+De drempelvoor de lijstweergave is aanwezig om de prestaties van de service te behouden. De drempelwaarde kan niet worden gewijzigd in SharePoint Online. Zie [Grote lijsten en bibliotheken beheren in SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)om te voorkomen dat u deze drempel niet bereikt.
 
-Om te voorkomen dat u deze drempel bereikt, gaat u naar:
-
-- [Grote lijsten en bibliotheken beheren in SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [ Fout bij delen/breken van overname](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Mogelijk wordt deze fout ook weergegeven wanneer u probeert de overname van een map te delen of te verbreken. Zie [Overerving foutaandeel/einde](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).

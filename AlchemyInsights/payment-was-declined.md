@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: 986e625e4b7ec5615d2b19927749e5efc627f691
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160978"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225128"
 ---
 # <a name="your-payment-was-declined"></a>Uw betaling is geweigerd
 
@@ -24,20 +24,31 @@ Microsoft probeert de kaart meermaals af te schrijven in de 3-4 weken na de fact
 
 **Belangrijk**: als u een nieuwe kaart hebt toegevoegd en u nog steeds een kennisgeving over de oude creditcard krijgt, moet u mogelijk de nieuwe kaart aan het abonnement koppelen.
 
-1. Ga naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Betalingsmethode voor alle objecten vervangen**
 
-2. Selecteer het abonnement dat u wilt betalen met de nieuwe kaart of bankrekening. Klik in de sectie **Facturering** naast de betalingsmethode, de optie **Bewerken**.
+1. Ga in het beheercentrum naar de pagina **Betalingsmethoden**  >  **voor factureringsfacturen &**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) betalingen.
 
-3. Klik op **Wijzigen** naast de huidige betalingsmethode.
+2. Selecteer de rij van de te vervangen betalingsmethode. In het rechterdeelvenster worden alle factureringsprofielen en afzonderlijke abonnementen weergegeven die de geselecteerde betalingsmethode gebruiken.
 
-4. In de vervolgkeuzelijst selecteert u een alternatieve betalingsmethode of voegt u een nieuwe betalingsmethode toe.
+3. Selecteer in het rechterdeelvenster de optie **Betalingsmethode vervangen voor alle objecten**.
 
-**Een betalingsmethode toevoegen of bijwerken**
+4. Als u een bestaande betalingsmethode wilt gebruiken, kiest u er een in de vervolgkeuzelijst en selecteert u **Vervangen**.
 
-1. Ga naar de pagina **Facturering > [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Als u abonnementen hebt die zijn gekoppeld aan een factureringsprofiel, u alleen een creditcard of betaalkaart gebruiken om ervoor te betalen. Als u bankrekeningen op de pagina **Betalingsmethoden** hebt vermeld, zijn deze niet beschikbaar om te selecteren in de vervolgkeuzelijst.
 
-2. Klik op **Een betalingsmethode toevoegen**, kies de creditcard of bankrekening die u wilt bijwerken en klik op **Bewerken**.
+5. Als u een nieuwe betalingsmethode wilt toevoegen, selecteert u **Betalingsmethode toevoegen**.
 
-3. Werk uw creditcard- of bankrekeninggegevens (naam op de kaart of van de bankrekening, factuuradres, telefoonnummer of vervaldatum) waar nodig bij en klik op **Opslaan**.
+6. Voer **in** het deelvenster Een betalingsmethode toevoegen de accountgegevens in en selecteer **Opslaan**. U moet een betalingsmethode uit hetzelfde land gebruiken als uw huurder.
 
-4. Vergeet niet om uw nieuwe betalingsmethode in te stellen voor de betaling van uw abonnement(en). Zie [ Uw betaalmethoden toevoegen, bijwerken of verwijderen ](https://go.microsoft.com/fwlink/?linkid=2118133) voor meer informatie. 
+7. De nieuwe betalingsmethode is al geselecteerd in de vervolgkeuzelijst. Selecteer **Vervangen**.
+
+**Gegevens over betalingsmethode bijwerken**
+
+1. Ga in het beheercentrum naar de pagina **Betalingsmethoden**  >  **voor factureringsfacturen &**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) betalingen.
+
+2. Selecteer de rij van de betalingsmethode die u wilt bijwerken. Selecteer **bewerken**in het rechterdeelvenster .
+
+3. Werk uw betalingsmethodegegevens bij, inclusief de naam op de creditcard of betaalkaart, het factuuradres of de vervaldatum, en selecteer **Opslaan**.
+
+Zie [Betalingsmethoden beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)voor meer informatie.

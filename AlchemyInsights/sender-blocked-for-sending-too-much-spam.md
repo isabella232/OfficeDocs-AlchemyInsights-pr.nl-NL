@@ -1,5 +1,5 @@
 ---
-title: Afzender geblokkeerd vanwege het verzenden van te veel spam
+title: Afzender beperkt voor het verzenden van te veel spam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: ff93b67a6a6b3eae9e94061d968c72064dd42afb
+ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709150"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44209874"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Account geblokkeerd vanwege het verzenden van te veel spam
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Account is beperkt voor het verzenden van te veel spam
 
 Als een van uw gebruikers geen e-mail kan verzenden, kunt u als beheerder [het account zelf deblokkeren](https://protection.office.com/?hash=/restrictedusers) **zonder een ondersteuningscase te hoeven openen**. Een uur na het opheffen van de beperking kan de gebruiker weer e-mail verzenden.
 
