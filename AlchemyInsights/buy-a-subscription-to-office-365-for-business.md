@@ -1,5 +1,5 @@
 ---
-title: Koop een abonnement op Microsoft 365 voor bedrijven via uw gratis proefversie
+title: Koop een abonnement op Microsoft 365 voor bedrijven via uw gratis proefperiode
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,30 +12,30 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061738"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506258"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Koop een abonnement op Microsoft 365 via uw gratis proefversie
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Koop een abonnement op Microsoft 365 via uw gratis proefperiode
 
-Je hebt geprobeerd Microsoft 365, en nu ben je klaar om te kopen. U hebt twee opties bij het kopen van Microsoft 365 in uw proefversie:
+Je hebt Microsoft 365 geprobeerd en nu ben je klaar om te kopen. Je hebt twee opties bij het kopen van Microsoft 365 van je proefversie:
   
  **Hetzelfde abonnement kopen als uw proefabonnement**
   
-1. Ga in het beheercentrum naar de pagina **Facturering** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Ga in het beheercentrum naar de pagina **Facturering van** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Zoek het abonnement dat u wilt kopen. Selecteer **in** de sectie Licenties de optie **Abonnement kopen**en volg de stappen die u wilt controleren.
+2. Zoek het abonnement dat u wilt kopen. Selecteer in de sectie **Licenties** de optie **Abonnement kopen**en volg de stappen om uit te checken.
 
 **Een ander abonnement kopen**
   
-1. Ga in het beheercentrum naar de pagina **Services voor** \> [factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+1. Ga in het beheercentrum **Billing** naar de pagina \> [Factureringsserviceservices.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-3. Zoek het abonnement dat u wilt kopen, selecteer **Kopen**en volg de stappen die u wilt bekijken.
+3. Zoek het abonnement dat u wilt kopen, selecteer **Kopen**en volg de stappen om uit te checken.
 
-Zie [Een abonnement op Microsoft 365 voor bedrijven kopen voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)meer informatie via uw gratis proefversie.
+Zie [Een abonnement op Microsoft 365 voor bedrijven kopen via uw gratis proefperiode](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial)voor meer informatie.
 
 **Problemen oplossen**
 

@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: c135727d1a3dd26aebca7a5140956cc75c78705b
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: fc297065b3e1615db0597d7cd3784f8b0ae55b59
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908663"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505898"
 ---
 # <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a>Een distributiegroep converteren naar een Microsoft 365-groep
 
-U distributiegroepen converteren naar Microsoft 365-groepen als ze aan bepaalde criteria voldoen. Zie [Distributielijsten upgraden naar Microsoft 365-groepen in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists)als u een groep wilt converteren of conversieproblemen wilt oplossen.
+U distributiegroepen converteren naar Microsoft 365-groepen als ze aan bepaalde criteria voldoen. Zie Distributielijsten voor bijwerken naar [Microsoft 365-groepen in Outlook als](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)u een groep wilt converteren of conversieproblemen wilt oplossen.
