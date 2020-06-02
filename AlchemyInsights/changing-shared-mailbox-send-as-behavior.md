@@ -1,5 +1,5 @@
 ---
-title: Het verzenden als gedrag van gedeelde postbus wijzigen
+title: Gedrag gedeeld postvak verzenden als wijzigen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 712419d44253a08c2ffc7627d7767fd67d6b4a00
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5c5d38356713d1a34f4ae12436fe8a46348d8025
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769622"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507869"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Het verzenden als gedrag van gedeelde postbus wijzigen
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Gedrag gedeeld postvak verzenden als wijzigen
 
 Standaard worden berichten die vanuit het gedeelde postvak worden verzonden, niet opgeslagen in de map Verzonden items van het gedeelde postvak. In plaats daarvan worden ze opgeslagen in de map Verzonden Items van de persoon die het bericht heeft verzonden.
   
-Als u wilt dat alle leden de verzonden e-mail zien, in het Microsoft 365 Admin Center, de details van het gedeelde Postvak bewerken en kies **verzonden items** \> **bewerken**.
+Als u wilt dat alle leden de verzonden e-mail zien, bewerkt u in het Microsoft 365-beheercentrum de gegevens van het gedeelde postvak en kiest u **Verzonden items** \> **bewerken.**
   
-Zie [een gedeeld postvak maken](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)voor meer informatie.
+Zie [Een gedeeld postvak maken](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)voor meer informatie.
   

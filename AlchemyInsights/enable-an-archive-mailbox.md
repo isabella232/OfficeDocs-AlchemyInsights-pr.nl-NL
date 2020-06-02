@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788661"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507021"
 ---
 # <a name="enable-an-archive-mailbox"></a>Een archiefpostvak inschakelen
 
-Archiefmailboxen in Microsoft 365 (ook wel *Online Archieven* of *In-Place Archives*genoemd) bieden gebruikers extra e-mailopslag. Gebruikers kunnen items verplaatsen of kopiëren naar hun archiefpostvak en beheerders kunnen een archiefbeleid maken dat items automatisch verplaatst naar archiefpostvakken.
+Archiefpostvakken in Microsoft 365 (ook wel *Online Archives* of In-Place Archives genoemd) bieden gebruikers extra *e-mailopslag.* Gebruikers kunnen items verplaatsen of kopiëren naar hun archiefpostvak en beheerders kunnen een archiefbeleid maken dat items automatisch verplaatst naar archiefpostvakken.
   
 Zo maak je een archiefpostvak:
   
@@ -27,30 +27,30 @@ Zo maak je een archiefpostvak:
 
 2. Meld u aan bij Microsoft 365 met uw beheerdersaccount.
 
-3. Selecteer **Informatiebeheerarchief** \> **Archive**in &amp; het linkerdeelvenster van het Beveiligingscompliancecentrum .
+3. &amp;Selecteer **informatiebeheerarchief** in het linkerdeelvenster van het Security Compliance Center \> **Archive**.
 
 4. Selecteer de gebruiker wiens archiefpostvak u wilt inschakelen.
 
 5. Klik in het detailvenster aan de rechterkant op **Inschakelen** en klik vervolgens op **Ja** in het waarschuwingsbericht om het archiefpostvak in te schakelen.
 
-U ook archivemailboxen in bulk inschakelen door meerdere gebruikers te selecteren (met de **Toetsen shift** of **Ctrl)** en vervolgens op **Inschakelen** in het detailvenster te klikken.
+U archiefpostvakken ook bulktaken inschakelen door meerdere gebruikers te selecteren (met de **toetsen Shift** of **Ctrl)** en vervolgens op **Inschakelen** in het detailvenster te klikken.
   
 ### <a name="shared-mailboxes"></a>Gedeelde postvakken
 
-Om het archief in te schakelen voor een gedeeld postvak, is een Exchange Online Plan 2-licentie of een Exchange Online Plan 1-licentie met een Exchange Online Archiveringslicentie vereist.  
+Om het archief in te schakelen voor een gedeeld postvak is een Exchange Online Plan 2-licentie of een Exchange Online Plan 1-licentie met een Exchange Online Archivering-licentie vereist.  
 
-Ga als lid van het archief naar een gedeeld postvak:
+Ga als een van de gedeelde postvaks in om het archief in te schakelen:
 
 1. Ga naar het [Exchange-beheercentrum](https://outlook.office365.com/ecp) en meld u aan met uw beheerdersaccount.
 
-2. Ga naar**Gedeelde** **geadresseerden** > .
+2. Ga naar **Gedeelde geadresseerden**  >  **Shared**.
 
 3. Selecteer het gedeelde postvak.
 
-4. Klik in het detailvenster aan de rechterkant onder **Archief op inplaats**, op **Inschakelen**en klik vervolgens op **Ja** om het archiefpostvak in te schakelen.
+4. Klik in het detailvenster aan de rechterkant onder **Archief**op **Inschakelen**en klik vervolgens op **Ja** om het archiefpostvak in te schakelen.
 
 Zie voor meer informatie:
   
-- [Archiefpostvakken inschakelen](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Archiefpostvakken inschakelen](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Een archief- en verwijderingsbeleid instellen](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

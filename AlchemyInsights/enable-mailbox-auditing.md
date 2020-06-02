@@ -1,5 +1,5 @@
 ---
-title: Postvakcontrole inschakelen
+title: Controle van postvakken inschakelen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: ae11d6be0789a5662d202b85268480a3d42922c4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2bcfb7cc174cd58b21e1bb0c82f0d7cdb25e2fdd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703566"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506949"
 ---
-# <a name="enable-mailbox-auditing"></a>Postvakcontrole inschakelen
+# <a name="enable-mailbox-auditing"></a>Controle van postvakken inschakelen
 
 Als u Postvakcontrole voor één gebruiker of een hele organisatie wilt inschakelen, moeten de volgende cmdlets worden uitgevoerd vanuit Remote Power Shell:
   
  **Eén gebruiker**
   
-Set-Mailbox -Identiteit "Jane Dow" -AuditEnabled $true
+Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true
   
  **Organisatie**
   
-Get-mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -$true
+Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-mailbox -AuditEnabled $true
   
-[Meer informatie](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
+[Meer informatie](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
   
 

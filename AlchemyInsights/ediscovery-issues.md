@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714473"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507129"
 ---
-# <a name="ediscovery-issues"></a>eDiscovery-problemen
+# <a name="ediscovery-issues"></a>problemen met eDiscovery
 
-Op zoek naar eDiscovery-opties? Met de opnieuw ontworpen navigatie in het Beveiligingscentrum & Compliance, zijn uw eDiscovery-opties mogelijk al verplaatst.  U de eDiscovery-opties vinden op de volgende locaties in het Beveiligings- & Compliance Center op basis van wat u probeert te doen:
+Op zoek naar eDiscovery opties? Met de opnieuw ontworpen navigatie in het Security & Compliance Center zijn uw eDiscovery-opties mogelijk al verplaatst.  U de eDiscovery-opties op de volgende locaties vinden in het Security & Compliance Center op basis van wat u probeert te doen:
 
-- Inhoudzoeken gebruiken om uw organisatie te zoeken naar inhoud in e-mail, documenten, Skype voor Bedrijven-gesprekken en de gegevens vervolgens te exporteren - Ga naar **Zoeken > Zoeken naar inhoud**
+- Inhoud zoeken gebruiken om in uw organisatie te zoeken naar inhoud in e-mail, documenten, Skype voor Bedrijven-gesprekken en vervolgens de gegevens exporteren - Ga naar **Zoeken > inhoud zoeken**
 
-- Een eDiscovery-aanvraag maken om te zoeken naar inhoud en inhoudslocaties in de wacht stand te plaatsen - Ga naar **eDiscovery > eDiscovery**
+- Een eDiscovery-aanvraag maken om naar inhoud te zoeken en inhoudslocaties in de wachtstand te plaatsen - Ga naar **eDiscovery > eDiscovery**
 
-- Gebruik de nieuwe end-to-end Advanced eDiscovery-oplossing om bewaarders te identificeren en te communiceren, bewaren bewaren van bewarende gegevens die relevant zijn voor de aanvraag, gegevens te verzamelen en toe te voegen aan een beoordelingsset en het volume van gegevens te verminderen door analyses toe te passen om onnodige gegevens te verzamelen en zich te concentreren op wat het meest relevant is voor de aanvraag - Ga naar **eDiscovery > Advanced eDiscovery**
+- Gebruik de nieuwe end-to-end Advanced eDiscovery-oplossing om bewaarders te identificeren en te communiceren, bewaar bewaardergegevens die relevant zijn voor de aanvraag, verzamel gegevens en voeg deze toe aan een overzichtsset en verminder het aantal gegevens door analyses toe te passen om onnodige gegevens te verzamelen en zich te concentreren op wat het meest relevant is voor de aanvraag - Ga naar **eDiscovery > Advanced eDiscovery**
 
 Zie voor meer informatie:
 
-- [Zoeken naar inhoud](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Zoeken naar inhoud](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [eDiscovery-aanvragen in het Security & Compliance Center](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [eDiscovery-aanvragen in het Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Geavanceerde eDiscovery-oplossing in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Geavanceerde eDiscovery-oplossing in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

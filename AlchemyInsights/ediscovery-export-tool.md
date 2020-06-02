@@ -1,5 +1,5 @@
 ---
-title: Exporttool eDiscovery
+title: eDiscovery-exporttool
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714765"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507165"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>u de eDiscovery-exporttool niet installeren of uitvoeren?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>u het eDiscovery-exporthulpprogramma niet installeren of uitvoeren?
 
 Als u het eDiscovery-exporthulpprogramma niet installeren of uitvoeren om zoekresultaten te downloaden, controleert u de volgende dingen:
   
-- De computer die u gebruikt voldoet aan deze vereisten:
+- De computer die u gebruikt, voldoet aan de volgende vereisten:
 
-  - 32- of 64-bits versies van Windows 7- en latere versies
+  - 32- of 64-bits versies van Windows 7 en latere versies
 
   - Microsoft .NET Framework 4.7
 
@@ -37,13 +37,13 @@ Als u het eDiscovery-exporthulpprogramma niet installeren of uitvoeren om zoekre
 
     Of
 
-  - Internet Explorer 10- en latere versies
+  - Internet Explorer 10 en latere versies
 
-    Andere browsers, zoals Google Chrome en Mozilla Firefox, worden niet ondersteund.
+    Andere browsers, zoals Google Chrome en Mozilla Firefox worden niet ondersteund.
 
-- Uw organisatie kan verbinding maken met het eindpunt in Azure, ** \*dat blob.core.windows.net** is (de wildcard vertegenwoordigt een unieke id voor uw exporttaak).
+- Uw organisatie kan verbinding maken met het eindpunt in Azure, dat ** \* is .blob.core.windows.net** (de wildcard vertegenwoordigt een unieke id voor uw exporttaak).
 
-- U krijgt de rol Exporteren toegewezen in &amp; het Microsoft 365 Security Compliance Center. Deze rol wordt standaard alleen toegewezen aan de rolgroep eDiscovery Manager. Zie [EDiscovery-machtigingen toewijzen](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- U krijgt de rol Exporteren toegewezen in het Microsoft 365 Security &amp; Compliance Center. Standaard wordt deze rol alleen toegewezen aan de rolgroep eDiscovery Manager. Zie [Machtigingen voor eDiscovery toewijzen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Zie [Zoekresultaten voor inhoud exporteren](https://docs.microsoft.com/office365/securitycompliance/export-search-results)voor meer informatie .
+Zie [Zoekresultaten voor inhoud exporteren voor](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)meer informatie.
   
