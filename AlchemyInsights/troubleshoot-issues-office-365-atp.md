@@ -1,5 +1,5 @@
 ---
-title: Problemen met Office 365 Advanced Threat Protection (ATP) oplossen
+title: Problemen oplossen met ATP (Advanced Threat Protection) voor Geavanceerde bedreiging van Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766740"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511107"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Problemen met Office 365 ATP oplossen
 
-- **Vertragingen melden bij het bezorgen van e-mailberichten?** Probeer de optie Dynamische bezorging te gebruiken voor uw beleid voor veilige bijlagen op ATP. Dit voorkomt vertragingen bij het bezorgen van e-mailberichten en beschermt ontvangers tegen schadelijke bestanden.
-- **Wilt u valse positieven of valse negatieven melden?** Gebruik deze link om uw bestand ter analyse in te dienen:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Wist u dat u ATP Safe Links-beveiliging inschakelen voor e-mail die wordt verzonden tussen mensen in uw organisatie?** Volg deze stappen:
-    1. Ga https://protection.office.comnaar , en meld je aan.
-    2. Ga naar Veilige koppelingen **voor bedreigingsbeheerbeleid** > **Policy** > **Safe Links**.
-    3. Onder **Beleidsregels die van toepassing zijn op specifieke ontvangers,** bewerkt (of voegt u) een beleid toe.
+- **Vertragingen merken bij de bezorging van e-mailberichten?** Probeer de optie Dynamische levering te gebruiken voor uw ATP-beleid voor veilige bijlagen. Dit voorkomt vertragingen bij het bezorgen van e-mailberichten en beschermt ontvangers tegen schadelijke bestanden.
+- **Wilt u valse positieven of valse negatieven melden?** Gebruik deze koppeling om uw bestand in te dienen voor analyse:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Wist u dat u atp-beveiliging voor veilige koppelingen inschakelen voor e-mail die tussen mensen in uw organisatie wordt verzonden?** Volg deze stappen:
+    1. Ga naar https://protection.office.com en meld je aan.
+    2. Ga naar **Threat Management**  >  **Policy**  >  **Safe Links**.
+    3. Bewerk **(beleidsregels die van toepassing zijn op specifieke ontvangers)** een beleid.under Policies that apply on specific recipients, edit (or add) a policy.
     4. Selecteer **Veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden.**
-    5. Sla uw beleid op en laat uw wijzigingen ongeveer 30 minuten door uw datacenter werken.
-- Zie [Geavanceerde bedreigingsbeveiliging van Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)voor meer hulp bij ATP .
+    5. Sla uw beleid op en laat ongeveer 30 minuten toe voor uw wijzigingen om zich een weg te banen door uw datacenter.
+- Zie [Geavanceerde bedreigingsbeveiliging van Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)voor meer hulp bij atp.

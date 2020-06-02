@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: ab047d95a9c448900b3c4ae8ac7e7c5f30aed28e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fa61fdec91e1375a72bc209ff4d0671d6b36d1c8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726062"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511071"
 ---
 # <a name="using-office-product-keys"></a>Office-productcodes gebruiken
 
 **Office-productcodes**
 
-- Als uw aankoop van Office een productcode heeft, raadpleegt u [Waar u uw Office-productcode wilt invoeren.](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Zie Waar u [de Office-productcode in voert](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)als uw aankoop van Office een productcode in voert.
 
-- Zie [Productcodes gebruiken met Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)voor hulp bij een Office 365 Home- of Personal-productcode.
+- Zie [Productcodes gebruiken](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)met Office voor hulp bij een productcode voor Office 365 Thuis of Persoonlijk.
 
 **Office-abonnement activeren** 
-- Zie [Uw productcode voor Microsoft 365 Apps voor bedrijven Premium](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide)invoeren als u een Microsoft 365-abonnement hebt gekocht in een winkel.
+- Zie Uw [productcode voor Microsoft 365 Apps voor bedrijven invoeren](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)als u een Microsoft 365-abonnement hebt gekocht in een winkel.
 
-- Zie [Problemen met uw Microsoft 365 voor zakelijke productcode](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide) als u een foutbericht probeert in te wisselen wanneer u een productcode probeert in te wisselen?
+- Als er een foutmelding is wanneer u een productcode probeert in te wisselen, raadpleegt u [Problemen met uw Microsoft 365 voor zakelijke productcode?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

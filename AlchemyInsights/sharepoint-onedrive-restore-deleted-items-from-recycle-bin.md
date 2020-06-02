@@ -1,5 +1,5 @@
 ---
-title: "\"Problemen oplossen met ontbrekende bestanden of mappen"
+title: "\"Problemen met ontbrekende bestanden of mappen oplossen"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692832"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511215"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Problemen met ontbrekende bestanden of mappen oplossen in OneDrive of SharePoint
 
@@ -27,19 +27,19 @@ ms.locfileid: "43692832"
 
 **Functie Bestanden herstellen**
 
-Als veel van uw OneDrive- of SharePoint-bestanden worden verwijderd, overschreven, beschadigd of geïnfecteerd door malware, u uw volledige OneDrive- of Sharepoint-bibliotheek herstellen naar een vorige keer met behulp van de functie Bestandenherstellen.
+Als veel van uw OneDrive- of SharePoint-bestanden worden verwijderd, overschreven, beschadigd of geïnfecteerd door malware, u uw hele OneDrive- of Sharepoint-bibliotheek herstellen naar een eerdere tijd met behulp van de functie bestandsherstel.
 
 - [Een OneDrive-bibliotheek herstellen](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 - [Een documentbibliotheek herstellen](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-**Controlelogboekregistratie of het deelvenster bestandsactiviteit gebruiken om de geschiedenis van het bestand te controleren**
+**Controlelogboekregistratie of het deelvenster Bestandsactiviteit gebruiken om de geschiedenis van het bestand te controleren**
 
-[Controleer de controlerapporten](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> door [hier](https://protection.office.com/#/unifiedauditlog) te navigeren
+[De controlerapporten controleren](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> door [hier](https://protection.office.com/#/unifiedauditlog) te navigeren
 
-Gebruik het [deelvenster Bestandsactiviteit](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) om de geschiedenis van het bestand te controleren.
+Gebruik het deelvenster [Bestandsactiviteit](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) om de geschiedenis van het bestand te controleren.
 
-Controleer de OneDrive-synchronisatieclient op uw lokale machine.  Als u de bestanden op uw computer synchroniseert via de OneDrive Sync-client, controleert u de lokale synchronisatiemap om te controleren of deze correct is geüpload. Zorg ervoor dat u ook de prullenbak op uw lokale machine controleert.
+Controleer de OneDrive Sync Client op uw lokale machine.  Als u de bestanden op uw computer synchroniseert via de OneDrive Sync-client, controleert u de lokale synchronisatiemap om te controleren of deze correct is geüpload. Zorg ervoor dat u ook de prullenbak op uw lokale machine controleert.
 
 
 

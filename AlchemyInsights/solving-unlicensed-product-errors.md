@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764148"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512007"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggesties voor het oplossen van fouten zonder licentie product
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggesties voor het oplossen van "Zonder licentie product" fouten
 
-Als u fouten wilt oplossen over een product zonder licentie, probeert u het volgende:
+Als u fouten wilt oplossen met betrekking tot een product zonder licentie, probeert u het volgende:
 
-- Controleer of uw abonnementsstatus is verlopen.
-- Zorg ervoor dat u een abonnement hebt waarmee clientlicenties, zoals Microsoft 365 Apps voor bedrijven of Business Premium, worden toegestaan en [of de gebruiker een licentie heeft toegewezen.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) 
-- Controleer of de gebruiker zich aanmeldt bij Office met hetzelfde account waarop de licentie is toegewezen.
-- Controleer de [pagina Servicestatus](https://docs.microsoft.com/office365/enterprise/view-service-health) om te zien of er bekende problemen met de service zijn.
+- Controleer of de status van uw abonnement is verlopen.
+- Zorg ervoor dat u een abonnement hebt waarmee clientlicenties, zoals Microsoft 365 Apps for Business of Business Premium, mogelijk zijn en [zorg ervoor dat de gebruiker een licentie heeft toegewezen.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
+- Zorg ervoor dat de gebruiker zich aanmeldt bij Office met hetzelfde account waaraan de licentie is toegewezen.
+- Controleer de [statuspagina van de service](https://docs.microsoft.com/office365/enterprise/view-service-health) om te zien of er bekende problemen zijn met de service.
 - Controleer uw firewall, antivirussoftware en proxy-instellingen om te bevestigen dat ze de toegang van Office-apps tot internet niet blokkeren. Zie [URL's en IP-adresbereiken](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 U ook de volgende acties voor het oplossen van problemen proberen: 
 
-- Open een Office-app en [meld u af](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) bij bestaande gebruikersaccounts. [Verwijder](https://docs.microsoft.com/office365/admin/manage/remove-licenses-from-users) en wijs de [Office-licentie opnieuw toe](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) en meld u vervolgens aan bij [Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) met het betreffende gebruikersaccount.
-- Voer de [activeringsprobleemoplosser uit](https://aka.ms/SARA-OfficeActivation-Alchemy).
-- [De activeringsstatus van Office opnieuw instellen](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
-- [Een online reparatie van Office uitvoeren.](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- Open een Office-app en [meld u af](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) bij bestaande gebruikersaccounts. [Verwijder](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) en wijs de [Office-licentie opnieuw toe](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) en meld u vervolgens aan bij [Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) met het betreffende gebruikersaccount.
+- Voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy)uit .
+- [Stel de activeringsstatus van Office opnieuw in](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
+- [Voer een online reparatie van Office uit.](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
 Zie voor extra oplossingen voor het oplossen van problemen: 
 

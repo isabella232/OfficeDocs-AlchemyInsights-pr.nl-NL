@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059839"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511431"
 ---
 # <a name="reset-or-change-passwords"></a>Wachtwoorden opnieuw instellen of wijzigen
 
-Een gebruiker kan zijn eigen wachtwoord wijzigen vanuit **Mijn account** > [Beveiliging & privacy.](https://portal.office.com/account/#security)
+Een gebruiker kan zijn eigen wachtwoord wijzigen vanuit **Mijn account**Security  >  [& privacy](https://portal.office.com/account/#security).
   
-Als de gebruiker zijn wachtwoord is vergeten, kan een beheerder het wachtwoord opnieuw instellen door naar **Gebruikers** > [Actief-gebruikers](https://portal.office.com/adminportal/home#/users)te gaan, de gebruiker(s) te selecteren en op **Wachtwoord opnieuw instellen**te klikken.
+Als de gebruiker zijn wachtwoord is vergeten, kan een beheerder het wachtwoord opnieuw instellen door naar **Actieve gebruikers**te  >  [Active users](https://portal.office.com/adminportal/home#/users)gaan, de gebruiker(s) te selecteren en op Wachtwoord **opnieuw instellen**te klikken.
   
-[Klik hier voor meer informatie,](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)of om gebruikers hun eigen vergeten wachtwoorden te laten resetten.
+[Klik hier voor meer](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)informatie, of om gebruikers hun eigen vergeten wachtwoorden te laten resetten.

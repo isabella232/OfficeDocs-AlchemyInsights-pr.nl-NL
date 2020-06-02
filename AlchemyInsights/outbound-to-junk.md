@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761163"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511719"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Uitgaande e-mail naar map Ongewenste e-mail
 
-Als u ziet dat uitgaande berichten worden gemarkeerd als Ongewenste berichten, gaat u als volgt te werk:
+Als uitgaande berichten worden gemarkeerd als ongewenste e-mail, voert u de volgende stappen uit:
 
-- Als u dit nog niet hebt gedaan, u overwegen [uitgaande meldingen van spambeleid te configureren.](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy)
+- Als u dit nog niet hebt gedaan, u overwegen [meldingen van uitgaand spambeleid te configureren.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Gebruik [berichttracering](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) om te zien of het uitgaande bericht de gebeurteniswaarde **Spam** heeft met de extra details: Gebruik **de leveringsgroep met een hoog risico**.
+- Gebruik [berichttracering](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) om te zien of het uitgaande bericht de gebeurteniswaarde **Spam** heeft met het extra detail: Gebruik **een leveringspool met een hoog risico.**
 
-  Controleer voor deze berichten de inhoud van het bericht om te zien wat als spam kan worden beschouwd. Handtekeningen kunnen bijvoorbeeld voor veel gebruikers problemen veroorzaken.
+  Controleer voor deze berichten de inhoud van het bericht om te zien wat als spam kan worden beschouwd. Handtekeningen kunnen bijvoorbeeld soms problemen veroorzaken voor veel gebruikers.
 
-  Als u meerdere voorbeelden hebt van legitieme uitgaande berichten die worden gemarkeerd als Ongewenste e-mail, opent u een ondersteuningsticket en vraagt u de ondersteuningsagent om uw berichten als valse positieven in te dienen bij onze spamanalisten. Wees voorbereid op het verstrekken van voorbeeldberichten die alle berichtkoppen bevatten.
+  Als u meerdere voorbeelden hebt van legitieme uitgaande berichten die worden gemarkeerd als ongewenste e-mail, opent u een ondersteuningsticket en vraagt u de ondersteuningsmedewerker om uw berichten als valse positieven in te dienen bij onze spamanalisten. Wees bereid om voorbeeldberichten te verstrekken die alle berichtkoppen bevatten.

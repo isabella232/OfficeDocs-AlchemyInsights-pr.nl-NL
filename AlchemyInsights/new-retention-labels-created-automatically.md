@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713497"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511755"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nieuwe bewaarlabels die automatisch worden gemaakt
 
-Mogelijk worden [er drie nieuwe bewaarlabels](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automatisch in uw organisatie gemaakt onder **Bewaarlabels** in het beveiligings- of compliancebeheercentrum. De labelnamen zijn:
+Mogelijk worden [er drie nieuwe bewaarlabels](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) automatisch in uw organisatie gemaakt onder **Bewaarlabels** in het beveiligings- of nalevingsbeheercentrum. De labelnamen zijn:
 
 - Operationele procedure
-- Bedrijfsgeneraal
+- Algemeen zaken
 - Contractovereenkomst
 
-Dit gebeurt de eerste keer dat u **Bestandsplan** kiest als er geen andere bewaarlabels zijn gemaakt. Deze labels worden automatisch gemaakt en, indien nodig, kunnen worden verwijderd als ze nog niet zijn toegepast op de inhoud. Ga als u de etiketten verwijderen:
+Dit gebeurt de eerste keer dat u **Bestandsplan** kiest als er geen andere bewaarlabels zijn gemaakt. Deze labels worden automatisch gemaakt en kunnen, indien nodig, worden verwijderd als ze nog niet op inhoud zijn toegepast. Ga alst u de etiketten verwijderen:
 
-1. Kies het tabblad **Labels** > **behouden** van**labels** > in het beveiligings- of compliancebeheercentrum.
+1. Kies in het beveiligings- of **nalevingsbeheercentrum het**tabblad Labels  >  **Labels**  >  **behouden.**
 
-1. Selecteer de bewaarlabels die u wilt verwijderen > **Label** > **Ja** verwijderen verwijderen om het label te verwijderen.
+1. Selecteer de bewaarlabels die u wilt verwijderen > **label**Ja verwijderen om het label  >  **Yes** te verwijderen.
 
-Met Bestandsplanbeheer u bewaarlabels en -beleid in uw organisatie beheren - zie [Overzicht van bestandsplanbeheer](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)voor meer informatie.
+Met Bestandsplanbeheer u bewaarlabels en -beleidsregels in uw organisatie beheren - zie [Overzicht van bestandsbeheer](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)voor meer informatie.
