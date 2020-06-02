@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eda14c7e8e65a087c1ed9302b66f333ceddc4f9d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707110"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504906"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Een nieuw abonnement activeren met een productcode
 
-1. Als u een nieuw abonnement wilt [https://office.com/setupkey](https://office.com/setupkey)activeren met uw productcode, gaat u naar .
+1. Als u een nieuw abonnement met uw productcode wilt activeren, gaat u naar [https://office.com/setupkey](https://office.com/setupkey) .
 
-2. Voer uw productcode in en volg de aanwijzingen om uw abonnement te activeren. Als er problemen zijn bij het activeren, gaat u naar [dit overzicht van veelvoorkomende fouten met productcodes en oplossingen](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Voer uw productcode in en volg de aanwijzingen om uw abonnement te activeren. Als er problemen zijn bij het activeren, gaat u naar [dit overzicht van veelvoorkomende fouten met productcodes en oplossingen](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

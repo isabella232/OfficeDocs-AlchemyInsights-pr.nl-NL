@@ -1,5 +1,5 @@
 ---
-title: Zoeken naar e-mail in het postvak Archief
+title: Zoeken naar e-mail in archiefpostvak
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709258"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495586"
 ---
 # <a name="search-for-email-in-the-archive-mailbox"></a>Zoeken naar e-mail in het postvak Archief
 
-Wanneer een archiefpostvak is ingeschakeld voor Microsoft 365, u **eDiscovery Zoeken en exporteren** gebruiken om inhoud te ontdekken in het postvak Primair en Archief. Volg de [hier](https://docs.microsoft.com/office365/securitycompliance/export-search-results)beschreven stappen voor informatie over het gebruik van **eDiscovery Search Export** om die inhoud te vinden.
+Wanneer een archiefpostvak is ingeschakeld voor Microsoft 365, u **eDiscovery Zoeken en exporteren** gebruiken om inhoud te ontdekken in het postvak Primair en Archief. Voor informatie over het gebruik van **eDiscovery Search Export** om die inhoud te vinden, volgt u de [hier](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)beschreven stappen .
   
-U die inhoud ook behouden door het postvak toe te voegen aan een bewaarbeleid. Hiermee worden inhoud in zowel het postvak Primair als Archief in een wachtcel geplaatst. Zie de stappen die [hier](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)worden beschreven voor meer informatie over het maken van bewaarbeleid voor het bewaren van e-mail.
+U die inhoud ook behouden door het postvak toe te voegen aan een bewaarbeleid. Hiermee wordt inhoud in het postvak Primair en Archief in een wachtruimte geplaatst. Zie de stappen die [hier](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)worden beschreven voor meer informatie over het maken van bewaarbeleid om e-mail te behouden.
   

@@ -1,5 +1,5 @@
 ---
-title: Een BtwID toevoegen of bewerken
+title: Een VatID toevoegen of bewerken
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,31 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063576"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495946"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Een BtwID toevoegen of bewerken
+# <a name="how-to-add-or-edit-a-vatid"></a>Een VatID toevoegen of bewerken
 
-**Opmerking:** Als u zich in een land bevindt dat btw met toegevoegde waarde gebruikt, zoals het Verenigd Koninkrijk, berekent Microsoft Facturatie de btw voor u en past het bedrag toe op uw facturen. Zie voor meer info [de disclaimer](https://go.microsoft.com/fwlink/p/?LinkID=841741) van VIES gepubliceerd door de Europese Commissie.
+**Opmerking**: Als u zich in een land belandt dat btw gebruikt, zoals het Verenigd Koninkrijk, berekent Microsoft Invoicing de BTW voor u en past het bedrag toe op uw facturen. Zie [VIES disclaimer](https://go.microsoft.com/fwlink/p/?LinkID=841741) gepubliceerd door de Europese Commissie voor meer informatie.
 
-**Een Btw-id toevoegen of bewerken**
+**Een VatID toevoegen of bewerken**
 
-1. Ga in het Microsoft 365-beheercentrum naar de pagina **Facturering** \> [uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Ga in het Microsoft 365-beheercentrum naar de pagina **Facturering** \> [van uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Zoek de abonnementskaart voor het abonnement dat u wilt bijwerken.
 
-3. Selecteer in de sectie **Instellingen & acties** de optie **Servicegebruiksadres bewerken**.
+3. Selecteer in de sectie **Instellingen & Acties** de optie **Servicegebruikadres bewerken**.
 
-4. Voer op de pagina **Uw servicegebruiksadres bewerken** uw BTW-id in het vak **BTW-nummer** in en selecteer **Opslaan**.
+4. Voer op de pagina **Adres voor servicegebruik bewerken** uw btw-nummer in het vak **BTW-nummer** in en selecteer **Opslaan**.
 
-    Als deze is voltooid, wordt er geen btw in rekening gebracht op uw volgende factuur.
+    Als deze is voltooid, wordt geen btw in rekening gebracht op uw volgende factuur.
 
-Zie Welke [belasting moet ik betalen voor Microsoft 365 voor](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) meer informatie?
+Zie [Welke belasting moet ik in rekening brengen voor Microsoft 365?]https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
 
-**Aanvullende bronnen**
+**Extra bronnen**
 
-[Voeg uw btw-nummer toe.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)
+[Voeg uw btw-nummer toe.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only)

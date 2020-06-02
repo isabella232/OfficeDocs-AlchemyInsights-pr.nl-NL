@@ -1,5 +1,5 @@
 ---
-title: Office-apps herstellen Uw account heeft een slecht staatsbericht
+title: Het oplossen van de Office Apps Uw account is in een slechte staat bericht
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5592158c24ae55d712018d6886670fe8e9a794c3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708682"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499218"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Fout in Office-apps herstellen 'Uw account is slecht
+# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Fout oplossen van de fout 'Uw account is in een slechte staat'
 
 Als u deze fout wilt oplossen, probeert u de volgende opties op de betreffende computer:
 
-- Open een Office-app en selecteer **Afmelden voor** > **bestandsaccounts** > **van alle accounts**. Meld u opnieuw aan met een gebruikersaccount met een geldige licentie. Zie [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) voor meer informatie.
+- Open een Office-app en selecteer **File**  >  **Account**  >  **Afmelden van bestandsaccounts bij alle accounts**. Meld u opnieuw aan met een gebruikersaccount met een geldige licentie. Zie [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) voor meer informatie.
 - [Office-referenties wissen](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) met Windows Credential Manager.<br>
-  **Let op:** De registerpaden voor Office 2016 zijn gewijzigd in 16,0. \Software\Microsoft\Office\16.0\Common\Identity\
-- Als de fout optreedt tijdens een verbinding met Office 365 met Office 2013, [schakelt u moderne verificatie](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) in voor de Office-client.
+  **Let op:** De registerpaden voor Office 2016 zijn gewijzigd in 16.0. Bijvoorbeeld \Software\Microsoft\Office\16.0\Common\Identity\
+- Als de fout optreedt tijdens het maken van verbinding met Office 365 met Office 2013, schakelt u moderne verificatie voor de Office-client [in.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
 
-Zie [Problemen met niet-browserapps die zich niet kunnen aanmelden bij Microsoft 365, Azure of Intune voor](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)meer informatie.
+Zie Apps die niet kunnen inloggen bij Microsoft 365, Azure of Intune voor meer informatie problemen oplossen met het oplossen van problemen met [niet-browser-apps die zich niet kunnen aanmelden bij Microsoft 365, Azure of Intune.](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
 
