@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059839"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511431"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="c9d2c-102">Wachtwoorden opnieuw instellen of wijzigen</span><span class="sxs-lookup"><span data-stu-id="c9d2c-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="d2a8c-102">Wachtwoorden opnieuw instellen of wijzigen</span><span class="sxs-lookup"><span data-stu-id="d2a8c-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="c9d2c-103">Een gebruiker kan zijn eigen wachtwoord wijzigen vanuit **Mijn account** > [Beveiliging & privacy.](https://portal.office.com/account/#security)</span><span class="sxs-lookup"><span data-stu-id="c9d2c-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="d2a8c-103">Een gebruiker kan zijn eigen wachtwoord wijzigen vanuit **Mijn account**Security  >  [& privacy](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="d2a8c-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="c9d2c-104">Als de gebruiker zijn wachtwoord is vergeten, kan een beheerder het wachtwoord opnieuw instellen door naar **Gebruikers** > [Actief-gebruikers](https://portal.office.com/adminportal/home#/users)te gaan, de gebruiker(s) te selecteren en op **Wachtwoord opnieuw instellen**te klikken.</span><span class="sxs-lookup"><span data-stu-id="c9d2c-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="d2a8c-104">Als de gebruiker zijn wachtwoord is vergeten, kan een beheerder het wachtwoord opnieuw instellen door naar **Actieve gebruikers**te  >  [Active users](https://portal.office.com/adminportal/home#/users)gaan, de gebruiker(s) te selecteren en op Wachtwoord **opnieuw instellen**te klikken.</span><span class="sxs-lookup"><span data-stu-id="d2a8c-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="c9d2c-105">[Klik hier voor meer informatie,](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)of om gebruikers hun eigen vergeten wachtwoorden te laten resetten.</span><span class="sxs-lookup"><span data-stu-id="c9d2c-105">[Click here to learn more](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="d2a8c-105">[Klik hier voor meer](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)informatie, of om gebruikers hun eigen vergeten wachtwoorden te laten resetten.</span><span class="sxs-lookup"><span data-stu-id="d2a8c-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
