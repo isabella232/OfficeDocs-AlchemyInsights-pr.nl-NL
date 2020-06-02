@@ -1,5 +1,5 @@
 ---
-title: Installatie DKIM
+title: DKIM instellen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645667"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509379"
 ---
-# <a name="setup-dkim"></a>Installatie DKIM
+# <a name="setup-dkim"></a>DKIM instellen
 
-De volledige instructies voor het configureren van DKIM voor aangepaste domeinen in Microsoft 365 zijn [hier.](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)
+De volledige instructies voor het configureren van DKIM voor aangepaste domeinen in Microsoft 365 zijn [hier.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
-1. Voor **elk** aangepast domein moet u **twee** DKIM CNAME-records maken op de DNS-hostingservice van uw domein (meestal de domeinregistrar). Voor contoso.com en fourthcoffee.com bijvoorbeeld vier DKIM CNAME-records: twee voor contoso.com en twee voor fourthcoffee.com.
+1. Voor **elk** aangepast domein moet u **twee** DKIM CNAME-records maken op de DNS-hostingservice van uw domein (meestal de domeinregistrar). contoso.com en fourthcoffee.com vereisen bijvoorbeeld vier DKIM CNAME-records: twee voor contoso.com en twee voor fourthcoffee.com.
 
    De DKIM CNAME-records voor **elk** aangepast domein gebruiken de volgende indelingen:
 
-   - **Hostnaam**:`selector1._domainkey.<CustomDomain>`
+   - **Naam van de gastheer**:`selector1._domainkey.<CustomDomain>`
 
-     **Adres- of waardeaanspraken:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Hostnaam**:`selector2._domainkey.<CustomDomain>`
-
-     **Adres- of waardeaanspraken:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Adres- of waardepunten**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> is de tekst `.mail.protection.outlook.com` links van in de aangepaste MX-record `contoso-com` voor het aangepaste domein (bijvoorbeeld voor het domein contoso.com). \<InitialDomain\> is het domein dat u hebt gebruikt toen u zich aanmeldde voor Microsoft 365 (bijvoorbeeld contoso.onmicrosoft.com).
+   - **Naam van de gastheer**:`selector2._domainkey.<CustomDomain>`
 
-2. Nadat u de CNAME-records voor uw aangepaste domeinen hebt gemaakt, voert u de volgende instructies uit:
+     **Adres- of waardepunten**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+
+     **TTL**: 3600
+
+   \<DomainGUID\>is de tekst links van `.mail.protection.outlook.com` in de aangepaste MX-record voor het aangepaste domein (bijvoorbeeld `contoso-com` voor het domein contoso.com). \<InitialDomain\>is het domein dat u hebt gebruikt toen u zich aanmeldde voor Microsoft 365 (bijvoorbeeld contoso.onmicrosoft.com).
+
+2. Nadat u de CNAME-records voor uw aangepaste domeinen hebt gemaakt, voert u de volgende instructies in:
 
    a. [meld u aan bij Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) met uw werk- of schoolaccount.
 
    b. Selecteer het pictogram voor het startprogramma voor apps in de linkerbovenhoek en kies **Beheer**.
 
-   C. Vouw in het navigatievenster aan de linkerkant **Beheerder** uit en kies **Exchange**.
+   c. Vouw in het navigatievenster aan de linkerkant **Beheerder** uit en kies **Exchange**.
 
-   D. Ga naar **Protection** > **DKIM**.
+   d. Ga naar **Bescherming**  >  **DKIM**.
 
-   E. Selecteer het domein en kies **Inschakelen** voor Berichten ondertekenen **voor dit domein met DKIM-handtekeningen**. Herhaal deze stap voor elk aangepast domein.
+   e. Selecteer het domein en kies **Vervolgens Berichten** voor **ondertekenen voor dit domein inschakelen met DKIM-handtekeningen**. Herhaal deze stap voor elk aangepast domein.

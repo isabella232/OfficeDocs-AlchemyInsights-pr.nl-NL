@@ -1,5 +1,5 @@
 ---
-title: 1081 Kalender - RBA CatchAll
+title: Kalender 1081 - RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9f91abfa512b67120d09c5c5a2903517fbae82b1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 534173990542144db018a4c3c6fb3bde2fd79f85
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711734"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508335"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Kamerpostvakken maken en beheren
+# <a name="create-and-manage-room-mailboxes"></a>Postvakken maken en beheren
 
-Zie [Kamerpostvakken](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)maken en beheren als u ruimtepostvakken wilt maken en wijzigen in het Exchange-beheercentrum.
+Zie [Postvakken ruimte maken en](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)wijzigen als u ruimtepostvakken wilt maken en wijzigen in het Exchange-beheercentrum.
 
-Zie [Postvakken](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)voor ruimte en apparatuur (ook wel resourcemailboxen genoemd) voor meer informatie over postvakken voor ruimte en apparatuur (ook wel resourcemailboxen genoemd).
+Zie [Kamer- en apparatuurpostvakken](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)voor meer informatie over postvakken voor ruimte en apparatuur (ook wel resourcepostvakken genoemd).

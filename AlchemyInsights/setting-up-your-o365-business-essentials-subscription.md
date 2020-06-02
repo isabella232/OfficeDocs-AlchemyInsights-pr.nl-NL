@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767784"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509343"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Uw O365 Business Essentials-abonnement instellen
 
@@ -23,13 +23,13 @@ Microsoft 365-accounts maken en uw domein toevoegen
     
 - Ga naar het [Microsoft 365-beheercentrum](https://login.partner.microsoftonline.cn/).
     
-- Kies **Naar setup** om de wizard te starten. Zie [Een domein toevoegen aan Microsoft 365 voor](https://docs.microsoft.com/office365/admin/setup/add-domain)meer informatie.
+- Kies **Naar setup** om de wizard te starten. [Zie Een domein toevoegen aan Microsoft 365 voor](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)meer informatie.
     
 E-mail importeren
   
-- Verplaats uw bestaande e-mail en contactpersonen van andere e-mailsystemen naar uw Microsoft 365-postvak, zodat u alles op één plek zien. Voor migratieopties [migreert u e-mail en contactpersonen naar Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Verplaats uw bestaande e-mail en contactpersonen van andere e-mailsystemen naar uw Microsoft 365-postvak, zodat u alles op één plek zien. Voor migratieopties [kunt u e-mail en contactpersonen migreren naar Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)
     
-- E-mailaccounts koppelen
+- E-mailaccounts verbinden
     
   - Naast het beheren van uw e-mail in Outlook, u ook andere e-mailaccounts koppelen aan Outlook, zoals uw Gmail- en Yahoo-accounts. Daarmee kunt u al uw e-mail op één plaats beheren. U kunt maximaal 5 e-mailaccounts met Outlook koppelen. Zie [E-mailaccounts verbinden in de webversie van Outlook (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) voor meer informatie. 
     
@@ -39,8 +39,8 @@ Skype voor Bedrijven installeren
     
 Bestanden online opslaan
   
-- Zie [Waar u bestanden in Microsoft 365 opslaan](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)voor meer informatie over welke opslaglocaties het beste zijn voor uw bedrijf. Iedereen krijgt **OneDrive** automatisch een OneDrive-cloudopslaglocatie wanneer u Microsoft 365-accounts voor hen maakt. Met OneDrive kunt u met uw computer, telefoon en tablet toegang krijgen tot bestanden. 
+- Zie [Waar u bestanden opslaan in Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)voor meer informatie over de opslaglocaties die het beste zijn voor uw bedrijf. Iedereen krijgt **OneDrive** automatisch een OneDrive-cloudopslaglocatie wanneer u Microsoft 365-accounts voor deze gegevens maakt. Met OneDrive kunt u met uw computer, telefoon en tablet toegang krijgen tot bestanden. 
     
-Gedetailleerde stappen voor de installatie vindt u in [dit artikel.](https://docs.microsoft.com/office365/admin/setup/setup)
+Gedetailleerde stappen voor de setup vindt u in [dit artikel.](https://docs.microsoft.com/microsoft-365/admin/setup/setup)
   
 

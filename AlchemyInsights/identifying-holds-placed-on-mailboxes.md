@@ -1,5 +1,5 @@
 ---
-title: Het identificeren van ruimen op brievenbussen
+title: Ruimen op postvakken identificeren
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,20 +12,20 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724771"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508875"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Houdingen op brievenbussen identificeren
+# <a name="identify-holds-placed-on-mailboxes"></a>Ruimen identificeren die op postvakken worden geplaatst
 
-Heeft u Microsoft 365-inhoud die wordt **bewaard** door een **blokkering** die u niet identificeren? Wilt u **weten** waar de wacht stand op de **brievenbus ligt?** Holds (*bewaarfuncties*) kunnen worden toegepast op een van de volgende methoden:
+Heeft u Microsoft 365-inhoud die wordt **bewaard** door een **blokkering** die u niet identificeren? Wilt u **weten** waar het ruim zich op de **brievenbus bevindt?** Houdt (*bewaareigenschappen*) kan worden toegepast door een van de volgende methoden:
   
-- Proceshouden
+- Proces houden
 
-- eDiscovery-wachtstand
+- eDiscovery-blokkering
 
 - In-Place Hold
 
@@ -33,8 +33,8 @@ Heeft u Microsoft 365-inhoud die wordt **bewaard** door een **blokkering** die u
 
   - Specifiek beleid voor locatiebehoud
 
-  - Bewaarbeleid voor de hele organisatie
+  - Beleid voor bewaarbeleid voor hele organisatie
 
 - Microsoft 365-labels
 
-Zie Het type wachtplaats in [een Exchange Online-postvak identificeren](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)als u wilt bepalen welk type wachtwaarde op het postvak van een gebruiker wordt toegepast.
+Zie [Het type blokkering in een Exchange Online-postvak identificeren als u](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)wilt bepalen welk type blokkering wordt toegepast op het postvak van een gebruiker.
