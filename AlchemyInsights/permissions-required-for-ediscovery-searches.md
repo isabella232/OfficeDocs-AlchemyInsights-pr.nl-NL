@@ -1,5 +1,5 @@
 ---
-title: 1489-permissions-required-for-ediscovery-searches
+title: 1489-machtigingen-vereist-voor-ediscovery-zoekopdrachten
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 57e312d1313e4abb7e556542286126561b836226
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758894"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510135"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a><span data-ttu-id="3475d-102">Machtigingen vereist voor eDiscovery-zoekopdrachten</span><span class="sxs-lookup"><span data-stu-id="3475d-102">Permissions required for eDiscovery searches</span></span>
+# <a name="permissions-required-for-ediscovery-searches"></a><span data-ttu-id="4f7db-102">Machtigingen vereist voor eDiscovery-zoekopdrachten</span><span class="sxs-lookup"><span data-stu-id="4f7db-102">Permissions required for eDiscovery searches</span></span>
 
-<span data-ttu-id="3475d-103">Als u Inhoudszoekopdrachten wilt uitvoeren in het Beveiligings- & Compliance Center, moet een gebruiker ten minste lid zijn van de rolgroep eDiscovery Manager, waarmee hij of zij zoekopdrachten en plaatsgrepen op postvakken, SharePoint-sites en OneDrive-locaties kan uitvoeren.</span><span class="sxs-lookup"><span data-stu-id="3475d-103">To perform Content Searches in the Security & Compliance Center, a user must be at least be a member of the eDiscovery Manager role group, which allows them to perform searches and place holds on mailboxes, SharePoint sites, and OneDrive locations.</span></span> <span data-ttu-id="3475d-104">Leden kunnen ook eDiscovery-aanvragen maken en beheren, leden toevoegen en verwijderen aan een aanvraag, Inhoudszoekopdrachten maken en bewerken en toegang krijgen tot casegegevens in Advanced eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="3475d-104">Members can also create and manage eDiscovery cases, add and remove members to a case, create and edit Content Searches, and access case data in Advanced eDiscovery.</span></span>
+<span data-ttu-id="4f7db-103">Als u inhoudszoekopdrachten wilt uitvoeren in het Security & Compliance Center, moet een gebruiker ten minste lid zijn van de rolgroep eDiscovery Manager, waarmee hij zoekopdrachten en vakken op postvakken, SharePoint-sites en OneDrive-locaties kan uitvoeren.</span><span class="sxs-lookup"><span data-stu-id="4f7db-103">To perform Content Searches in the Security & Compliance Center, a user must be at least be a member of the eDiscovery Manager role group, which allows them to perform searches and place holds on mailboxes, SharePoint sites, and OneDrive locations.</span></span> <span data-ttu-id="4f7db-104">Leden kunnen ook eDiscovery-aanvragen maken en beheren, leden toevoegen en verwijderen aan een aanvraag, inhoudszoekopdrachten maken en bewerken en toegang krijgen tot aanvraaggegevens in Advanced eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="4f7db-104">Members can also create and manage eDiscovery cases, add and remove members to a case, create and edit Content Searches, and access case data in Advanced eDiscovery.</span></span>
 
-<span data-ttu-id="3475d-105">Als u In-Place eDiscovery-zoekopdrachten wilt uitvoeren in het Exchange-beheercentrum (EAC), moet de gebruiker lid zijn van de rolgroep Discovery Management in Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="3475d-105">To perform In-Place eDiscovery searches in the Exchange admin center (EAC), the user must be a member of the Discovery Management role group in Exchange Online.</span></span>
+<span data-ttu-id="4f7db-105">Als u In-Place eDiscovery-zoekopdrachten wilt uitvoeren in het Exchange-beheercentrum (EAC), moet de gebruiker lid zijn van de rolgroep Discovery Management in Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="4f7db-105">To perform In-Place eDiscovery searches in the Exchange admin center (EAC), the user must be a member of the Discovery Management role group in Exchange Online.</span></span>
 
-<span data-ttu-id="3475d-106">Zie voor meer informatie over eDiscovery-machtigingen:</span><span class="sxs-lookup"><span data-stu-id="3475d-106">For more information about eDiscovery permissions, see:</span></span> 
+<span data-ttu-id="4f7db-106">Zie voor meer informatie over eDiscovery-machtigingen:</span><span class="sxs-lookup"><span data-stu-id="4f7db-106">For more information about eDiscovery permissions, see:</span></span> 
 
-- [<span data-ttu-id="3475d-107">EDiscovery-machtigingen toewijzen in het Beveiligings& Compliance Center</span><span class="sxs-lookup"><span data-stu-id="3475d-107">Assign eDiscovery permissions in the Security & Compliance Center</span></span>](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [<span data-ttu-id="4f7db-107">EDiscovery-machtigingen toewijzen in het Security & Compliance Center</span><span class="sxs-lookup"><span data-stu-id="4f7db-107">Assign eDiscovery permissions in the Security & Compliance Center</span></span>](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [<span data-ttu-id="3475d-108">EDiscovery-machtigingen toewijzen in Exchange</span><span class="sxs-lookup"><span data-stu-id="3475d-108">Assign eDiscovery permissions in Exchange</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [<span data-ttu-id="4f7db-108">eDiscovery-machtigingen toewijzen in Exchange</span><span class="sxs-lookup"><span data-stu-id="4f7db-108">Assign eDiscovery permissions in Exchange</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-<span data-ttu-id="3475d-109">**Opmerking:** Na het toewijzen van eDiscovery-machtigingen moet u mogelijk enkele minuten wachten tot de machtigingen worden doorgegeven.</span><span class="sxs-lookup"><span data-stu-id="3475d-109">**Note**: After assigning eDiscovery permissions, you may need to wait a few minutes for the permissions to propagate.</span></span>
+<span data-ttu-id="4f7db-109">**Opmerking**: Nadat u eDiscovery-machtigingen hebt toegewezen, moet u mogelijk een paar minuten wachten voordat de machtigingen zijn doorgegeven.</span><span class="sxs-lookup"><span data-stu-id="4f7db-109">**Note**: After assigning eDiscovery permissions, you may need to wait a few minutes for the permissions to propagate.</span></span>
