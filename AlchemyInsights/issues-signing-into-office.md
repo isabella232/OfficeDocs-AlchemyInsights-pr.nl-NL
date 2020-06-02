@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474420"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509631"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemen met aanmelden bij Microsoft 365 Apps
 
@@ -25,7 +25,7 @@ Als u aanmeldingsproblemen met Microsoft 365-apps wilt oplossen, probeert u de v
 - Zie [Aanbevelingen voor het oplossen van veelvoorkomende aanmeldingsproblemen voor](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) Windows
 - Zie Kan [u zich niet aanmelden bij een Office 2016 voor Mac-app voor](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail) Mac
 
-**Let op:** Het uitschakelen van moderne verificatie (ADAL) of Web Account Management (WAM) voor het oplossen van aanmeldings- of activeringsproblemen **wordt niet aanbevolen.** Als de fouten zich voordoen tijdens het maken van verbinding met Microsoft 365 met Office 2013, moet u ervoor zorgen dat u moderne verificatie voor Office-client [inschakelt.](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)
+**Let op:** Het uitschakelen van moderne verificatie (ADAL) of Web Account Management (WAM) voor het oplossen van aanmeldings- of activeringsproblemen **wordt niet aanbevolen.** Als de fouten zich voordoen tijdens het maken van verbinding met Microsoft 365 met Office 2013, moet u ervoor zorgen dat u moderne verificatie voor Office-client [inschakelt.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
 
 Zie voor specifieke probleemoplossingsacties:
 

@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9dd52c60b2d15d66c1c3f2a96c9db08ea2a010c6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719988"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510279"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>De domeinnaamservers bijwerken zodat ze verwijzen naar Microsoft
 
 Opmerking: het kan soms 48 uur duren voordat wijzigingen in naamservers zijn doorgevoerd.
   
-Als u uw domein met Microsoft wilt instellen, moeten de naamservers bij uw registrar worden bijgewerkt. Maak uw naamserverrecords bij uw domeinregistrar of bewerk ze.
+Als u uw domein wilt instellen bij Microsoft, moeten de naamservers bij uw registrar worden bijgewerkt. Maak uw naamserverrecords bij uw domeinregistrar of bewerk ze.
   
 1. Ga naar de website van uw domeinregistrar en zoek het gedeelte waar u de naamservers kunt bewerken.
 
@@ -34,5 +34,5 @@ Als u uw domein met Microsoft wilt instellen, moeten de naamservers bij uw regis
 
 3. Sla de wijzigingen op.
 
-U vindt ook gedetailleerde instructies in dit artikel: [Naamservers wijzigen om Microsoft 365 in te stellen met elke domeinregistrar](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+U ook gedetailleerde instructies vinden in dit artikel: [Naamservers wijzigen om Microsoft 365 in te stellen met elke domeinregistrar](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

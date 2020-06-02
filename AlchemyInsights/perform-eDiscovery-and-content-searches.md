@@ -1,5 +1,5 @@
 ---
-title: 1488-perform-eDiscovery-en-content-zoekopdrachten
+title: 1488-perform-eDiscovery-and-content-zoekopdrachten
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911826"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510171"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Inhoudszoekopdrachten en eDiscovery-zoekopdrachten uitvoeren
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Zoekopdrachten en eDiscovery-zoekopdrachten voor inhoud uitvoeren
 
-Gebruik het hulpprogramma Voor inhoudzoeken in het Beveiligings& Compliance Center om snel e-mail te vinden in Exchange-postvakken, documenten in SharePoint-sites en OneDrive-account en chatgesprekken in Skype voor Bedrijven. U het hulpprogramma voor inhoudzoeken ook gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365-samenwerkingstools zoals Microsoft Teams en Microsoft 365-groepen.
+Gebruik de tool Content Search in het Security & Compliance Center om snel e-mail te vinden in Exchange-postvakken, documenten in SharePoint-sites en OneDrive-account en chatgesprekken in Skype voor Bedrijven. U de tool voor het zoeken naar inhoud ook gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365-samenwerkingstools zoals Microsoft Teams en Microsoft 365-groepen.
 
 **Een inhoudszoekopdracht uitvoeren**
 
-1. Ga naar het [Security & Compliance Center](https://protection.office.com) en meld u aan.
-2. Klik **op Zoeken > zoeken naar inhoud**.
-3. Klik **op Nieuwe zoekopdracht om** een nieuwe zoekopdracht te maken.
-4. Voer de vereiste zoekvoorwaarden in, waaronder zoekwoorden en inhoudslocaties.  
+1. Ga naar het [Security & Compliance Center](https://protection.office.com) en meld je aan.
+2. Klik **op Zoeken > inhoud**.
+3. Klik **op Nieuw zoeken** om een nieuwe zoekopdracht te maken.
+4. Voer de vereiste zoekomstandigheden in, waaronder trefwoorden en inhoudslocaties.  
 5. Klik **op Opslaan & uitvoeren** om de zoekopdracht een naam te geven, deze te starten en vervolgens een voorbeeld van de resultaten te bekijken.
 
-Zie Opties voor [inhoudzoeken](https://docs.microsoft.com/office365/securitycompliance/content-search) en [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)voor gedetailleerde instructies over zoeken naar inhoud, het exporteren van resultaten en het maken van eDiscovery-aanvragen om gegevens vast te houden.
+Zie [Aanvragen](https://docs.microsoft.com/microsoft-365/compliance/content-search) voor inhoud zoeken en [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)voor gedetailleerde instructies over zoekopdrachten in inhoud, het exporteren van resultaten en het maken van eDiscovery-aanvragen voor gegevens.
 
-Meer informatie over Content Search door de [vereisten en limieten te](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) bekijken en gedeeltelijk [geïndexeerde items](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten te onderzoeken om op de hoogte te zijn.
+Meer informatie over Content Search door de [vereisten en limieten](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) te bekijken en [gedeeltelijk geïndexeerde items](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten te onderzoeken om op de hoogte te zijn.

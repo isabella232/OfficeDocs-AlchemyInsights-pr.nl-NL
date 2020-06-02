@@ -10,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e8bf2a8462c599c8c78963e7a53ad88a1755697
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665647"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510063"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Het maken van gebruikers postvakken duurt lang
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Het maken van een gebruikerspostvak duurt lang
 
-Het kan tot 24 uur duren voordat een nieuw postvak klaar is voor gebruik.
+Het kan tot 24 uur duren voordat een nieuwe mailbox klaar is voor gebruik.
   
-Als het postvak van de gebruiker meer dan een uur is ' voorbereid ', probeert u de Exchange-licentie van de gebruiker te verwijderen en opnieuw toe te voegen of [contact op te nemen met de ondersteuning](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).
+Als het postvak van de gebruiker al meer dan een uur aan het voorbereiden is, probeert u de Exchange-licentie van de gebruiker te verwijderen en deze opnieuw toe te voegen of [neemt u contact op met ondersteuning.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online)

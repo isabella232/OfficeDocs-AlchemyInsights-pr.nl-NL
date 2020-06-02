@@ -1,5 +1,5 @@
 ---
-title: Activeringsprobleem-account staat bewerken op Mac niet toe
+title: Activeringsprobleem - Account staat bewerken op Mac niet toe
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 6fb0783b8fefabc004c42d24e4ba6e750f986d52
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: d9ce4e7061ed01a5c1309367504e1a532f8f72e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628129"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510099"
 ---
-# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>De Office-apps repareren bericht ' uw account staat het bewerken op een Mac niet toe '
+# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Het bericht Office-apps 'Uw account staat bewerken op een Mac niet toe' vast te stellen
 
-Als dit bericht wordt weergegeven, probeert u het volgende:
+Als u dit bericht ontvangt, probeert u het volgende:
 
-- Zorg ervoor dat u een abonnement hebt dat clientlicenties toestaat en [Zorg ervoor dat aan de gebruiker een licentie is toegewezen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
-- Download en voer het [hulpprogramma](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)voor het verwijderen van licenties uit.
-- Uw referenties opnieuw instellen. Zie [Office niet activeren na installatie](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
+- Zorg ervoor dat u een-abonnement hebt waarvoor clientlicenties zijn toegestaan en [controleer of er een licentie is toegewezen aan de gebruiker](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- Download het [hulpprogramma voor het verwijderen van licenties](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193) en voer het uit.
+- Stel uw referenties opnieuw in. Zie [Kan Office niet activeren na de installatie](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#bkmk_cantactivate).
 - Start opnieuw op en meld u aan bij Office met uw account.
 
 Zie voor meer informatie:
 - [Office voor Mac activeren](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
-- [Wat te proberen als u Office voor Mac niet installeren of activeren](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
-- [Outlook 2016 voor Mac vraagt herhaaldelijk om verificatie](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
+- [Wat u kunt proberen als u Office voor Mac niet kunt installeren of activeren](https://support.office.com/article/5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea#picktab=activation)
+- [In Outlook 2016 voor Mac wordt herhaaldelijk gevraagd om verificatie](https://docs.microsoft.com/outlook/troubleshoot/sign-in/repeated-prompts-authentication)
