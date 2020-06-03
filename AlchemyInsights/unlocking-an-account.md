@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799046"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508587"
 ---
 # <a name="unlocking-an-account"></a>Een account ontgrendelen
 
@@ -40,4 +40,4 @@ Als een van uw gebruikers geen e-mail kan verzenden, kunt u als beheerder [het a
 
 Voor meer scenario's voor het opnieuw instellen van wachtwoorden, inclusief Self-service voor wachtwoordherstel, raadpleegt u [Microsoft 365 Business-wachtwoorden voor meerdere pogingen om online betalingsinstrumenten in rekening te brengen opnieuw instellen](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Met de service wordt voorkomen dat gebruikers e-mail kunnen verzenden nadat bewijs is gevonden voor een gehackt account en/of uitgaande spam. Volg als voorzorgmaatregel de stappen in [Hoe te handelen bij een gehackt e-mailaccount in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) voor de gebruiker.
+Met de service wordt voorkomen dat gebruikers e-mail kunnen verzenden nadat bewijs is gevonden voor een gehackt account en/of uitgaande spam. Volg als voorzorgmaatregel de stappen in [Hoe te handelen bij een gehackt e-mailaccount in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) voor de gebruiker.

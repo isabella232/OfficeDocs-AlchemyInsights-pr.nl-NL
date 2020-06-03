@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: f295e0d7872a13cf47e386343b159e51bc0504de
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706750"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508083"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>De domeinnaamservers bijwerken zodat ze verwijzen naar Microsoft
 
@@ -35,5 +35,5 @@ De naamservers bij uw registrar moeten worden bijgewerkt als u uw domein in Micr
 
 3. Sla de wijzigingen op.
 
-Gedetailleerde instructies kunt u ook in het volgende artikel vinden: [Naamservers wijzigen bij een domeinregistrar](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Gedetailleerde instructies kunt u ook in het volgende artikel vinden: [Naamservers wijzigen bij een domeinregistrar](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

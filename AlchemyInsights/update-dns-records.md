@@ -12,16 +12,16 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: 63889b05c3755e80b381f38dc14827f4a96e5ef8
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: HT
+ms.openlocfilehash: ca580e981036d3c830e55d67f2a79272fe4f27e4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818709"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508515"
 ---
 # <a name="update-dns-records"></a>DNS-records bijwerken
 
-U koppelt uw Office 365-abonnement aan uw aangepaste domeinnaam door de DNS-instellingen in te stellen. Gebruik de onderstaande koppelingen om uw DNS-records toe te voegen of bij te werken.
+Het instellen van uw DNS-records is belangrijk om uw abonnement te laten werken met uw aangepaste domeinnaam. Gebruik de onderstaande koppelingen om uw DNS-records toe te voegen of bij te werken.
   
-- [DNS-records maken bij een DNS-hostingprovider voor Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [Aangepaste DNS-records toevoegen of bewerken](https://docs.microsoft.com/office365/admin/dns/add-or-edit-custom-dns-records)
+- [DNS-records maken bij een DNS-hostingprovider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [Aangepaste DNS-records toevoegen of bewerken](https://docs.microsoft.com/microsoft-365/admin/dns/add-or-edit-custom-dns-records)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722558"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505194"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Bekende problemen en oplossingen van Visio
 
@@ -24,13 +24,13 @@ Hier volgen enkele onderwerpen die vaak nuttig zijn in verband met Microsoft Vis
 
 **Visio Online-opties**
 
-- Visio wordt als een [zelfstandige toepassing](https://products.office.com/visio/flowchart-software) verkocht. Beheerders kunnen het [Visio-abonnement](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) aanschaffen in het Microsoft 365-beheercentrum.
+- Visio wordt als een [zelfstandige toepassing](https://products.office.com/visio/flowchart-software) verkocht. Beheerders kunnen het [Visio-abonnement](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) kopen via het Microsoft 365-beheercentrum.
 
 - Visio biedt [verschillende abonnementen](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Als u een functie in Visio mist, [vergelijkt u Visio-opties](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) voor meer informatie over de verschillen tussen Abonnement 1 en Abonnement 2.  Houd er rekening mee dat het Visio Online-abonnement 1 geen bureaubladversie van Visio bevat.
 
 **Visio downloaden, installeren en activeren**
 
-- Als u de Visio-bureaublad-app wilt installeren en activeren met het Visio Online-abonnement 2, moet er aan de gebruiker eerst een [Visio-licentie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) zijn toegewezen.
+- Als u de Visio-bureaublad-app wilt installeren en activeren met het Visio Online-abonnement 2, moet er aan de gebruiker eerst een [Visio-licentie](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) zijn toegewezen.
 
 - Installeer Visio vanuit uw portal Mijn account als dat nog niet is gebeurd. Zie [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) voor meer informatie.
 
@@ -40,7 +40,7 @@ Hier volgen enkele onderwerpen die vaak nuttig zijn in verband met Microsoft Vis
 
 **Visio op een Mac**
 
-Er is geen Visio-bureaubladtoepassing voor Mac. Gebruikers met een geldige [Visio Online-licentie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) kunnen echter [diagrammen weergeven, maken en bewerken](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) in Visio Online in een webbrowser.
+Er is geen Visio-bureaubladtoepassing voor Mac. Gebruikers met een geldige [Visio Online-licentie](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) kunnen echter [diagrammen weergeven, maken en bewerken](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) in Visio Online in een webbrowser.
 
 **Diagrammen, sjablonen, vormen en verbindingslijnen**
 

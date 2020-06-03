@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991040"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512405"
 ---
 # <a name="project-license-management"></a>Project-licentiebeheer
 
@@ -27,6 +27,6 @@ U kunt Project-licentiebeheer voltooien in het **Microsoft 365-beheercentrum**.
 - Bekijk [Handmatig overstappen op een ander abonnement voor Microsoft 365 voor Bedrijven](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) om van **abonnement te veranderen**.
 - Als u Project-licenties wilt **toewijzen**, gaat u naar **Facturering > [Licenties](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Zie [Licenties toewijzen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide) voor meer informatie.
 - Als u licenties voor Project wilt **toevoegen/verwijderen**, gaat u naar **Facturering > [Services aanschaffen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Zie [Licenties toevoegen/verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) voor meer informatie.
-- Als u Project-licenties wilt **annuleren**, gaat u naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecteert u **Instellingen en acties** en klikt u op **Abonnement opzeggen**. Zie [Abonnement opzeggen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription) voor meer informatie.
+- Als u Project-licenties wilt **annuleren**, gaat u naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecteert u **Instellingen en acties** en klikt u op **Abonnement opzeggen**. Zie [Abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) voor meer informatie.
 
 Zie [Abonnementslicenties beheren](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) voor meer informatie.

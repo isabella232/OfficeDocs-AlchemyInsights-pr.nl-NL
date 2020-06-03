@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765840"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509487"
 ---
 # <a name="issue-with-skype-for-business"></a>Probleem met Skype voor Bedrijven?
 
@@ -23,7 +23,7 @@ De volgende domeinen blijken problemen te hebben die kunnen verhinderen dat Skyp
   
 {HealthCheckString}
   
-De NS-, CNAME- of SRV-records van de DNS-instellingen zijn niet correct geconfigureerd voor Skype voor Bedrijven. Gedetailleerde instructies vindt u in [DNS-records maken bij een DNS-hostingprovider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+De NS-, CNAME- of SRV-records van de DNS-instellingen zijn niet correct geconfigureerd voor Skype voor Bedrijven. Gedetailleerde instructies vindt u in [DNS-records maken bij een DNS-hostingprovider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Om dit op te lossen, gaat u naar de pagina [Domeinen](https://admin.microsoft.com/adminportal/home#/Domains) in het beheercentrum van Microsoft 365 en wij helpen u hiermee.
   

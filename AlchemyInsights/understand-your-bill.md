@@ -12,12 +12,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158395"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512369"
 ---
 # <a name="understand-your-bill"></a>Inzicht in uw factuur
 
@@ -27,7 +27,7 @@ ms.locfileid: "43158395"
 
 2. Selecteer een datumbereik in de vervolgkeuzelijst en kies vervolgens de order die u wilt bekijken of klik op de koppeling **Pdf-factuur downloaden** om een kopie van de factuur weer te geven.
 
-Zie [Uw factuur of rekening weergeven](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)voor meer informatie.
+Zie [Uw factuur of rekening weergeven](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)voor meer informatie.
 
 **Inzicht in uw factuur/rekening**
 
