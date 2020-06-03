@@ -1,9 +1,9 @@
 ---
-title: Tenant is het besturen van in-app ondersteuning voor Outlook
+title: Tenant proeft in-app-ondersteuning voor Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720427"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542039"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Uw tenant is aan het besturen van in-app-ondersteuning voor Outlook
+# <a name="in-app-support-in-outlook-for-windows"></a>In-app-ondersteuning in Outlook voor Windows
 
-Mogelijk komt u in aanmerking voor ondersteuning rechtstreeks in Outlook. Als u de nieuwste maandelijkse kanaalbuild uitvoert, opent u Outlook en selecteert u Ondersteuning voor **helpcontact** > **Contact Support**. Typ uw vraag en een lid van het Outlook-ondersteuningsteam neemt contact met u op.
-
-Zie [welke versie van Office gebruik ik?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+Als tenantbeheerder u in-app-ondersteuning ontvangen voor problemen in Outlook voor Windows. Selecteer in Outlook **Help**  >  **Contact Contact Opnemen met ondersteuning**. Voer uw vraag in en een lid van het ondersteuningsteam van Outlook voor Windows beantwoordt uw bericht.

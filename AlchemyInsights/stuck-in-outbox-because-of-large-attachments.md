@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534841"
+ms.locfileid: "44542003"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Berichten oplossen die vastzitten in het postvak UIT
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Berichten oplossen die vastzitten in het postvak UIT met SaRA
 
-We raden u aan om eerst het scenario ['Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten'](https://aka.ms/SaRA-OutlookSendReceive) uit te voeren vanuit het hulpprogramma [Microsoft Support en Recovery Assistant.](https://diagnostics.office.com/#/)
-
-Wanneer een bericht vastkomt in uw Postvak UIT, is een grote bijlage of de optie 'Direct verzenden wanneer het verbonden' is ingeschakeld.
-Zie voor meer informatie:
-- [Video: Een vastgelopen e-mail verzenden of verwijderen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-mail blijft in de map Postvak UIT totdat u handmatig een bewerking verzenden/ontvangen in Outlook initieert](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+We raden u aan om eerst het scenario ['Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten'](https://aka.ms/SaRA-OutlookSendReceive) uit te voeren op de uitgevoerde machine van het [SaRa-hulpprogramma (Microsoft Support and Recovery Assistant).](https://diagnostics.office.com/#/)
