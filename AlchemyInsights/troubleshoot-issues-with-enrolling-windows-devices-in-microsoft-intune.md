@@ -1,5 +1,5 @@
 ---
-title: Oplossen van problemen met Windows-apparaten in Microsoft Intune inschrijven
+title: Problemen oplossen met het inschrijven van Windows-apparaten in Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,34 +12,34 @@ ms.custom:
 - "784"
 - "6200002"
 ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665827"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Oplossen van problemen met Windows-apparaten in Microsoft Intune inschrijven
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Problemen oplossen met het inschrijven van Windows-apparaten in Microsoft Intune
 
-Bekijk de bronnen die worden vermeld onder het probleem nu oplossen.
+Bekijk de onderstaande bronnen om het probleem nu op te lossen.
   
-Enkele veelvoorkomende foutberichten en de stappen voor het oplossen:
+Enkele veelvoorkomende foutberichten en oplossingsstappen:
   
- **De software kan niet worden geïnstalleerd, 0x80cf4017:** Uw account-certificaat is verlopen. Het softwarepakket voor de PC-Client in de beheerconsole van Intune opnieuw downloaden. Bekijk deze documentatie voor meer informatie.
+ **De software kan niet worden geïnstalleerd, 0x80cf4017:** Uw accountcertificaat is verlopen. Download het pc-clientsoftwarepakket opnieuw in de Intune-beheerconsole. Bekijk deze documentatie voor meer informatie.
   
- **Foutcode: 0x801c0003:** De fout kan optreden in de volgende scenario's:
+ **Foutcode 0x801c0003:** De fout kan zich voordoen in de volgende scenario's:
   
--  De gebruiker heeft meer apparaten dan de apparaatlimiet geregistreerd. Bekijk deze documenten aan [een apparaat verwijderen](https://docs.microsoft.com/intune/devices-wipe) of [wijzigen van de apparaatlimiet](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  De gebruiker heeft meer apparaten ingeschreven dan de apparaatlimiet. Controleer deze documenten om [een apparaat](https://docs.microsoft.com/intune/devices-wipe) te verwijderen of [de apparaatlimiet te wijzigen.](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
 
--  'Gebruikers kunnen deelnemen aan apparaten naar Azure AD' is ingesteld op 'geen'. Stel deze in op alle, of Selecteer gebruikers. Bekijk [deze documentatie](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) voor meer informatie.
+-  'Gebruikers kunnen deelnemen aan apparaten bij Azure AD' is ingesteld op 'geen'. Stel het in op alle of selecteer gebruikers. Bekijk [deze documentatie](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) voor meer informatie.
 
--  Het apparaat is al door een andere gebruiker ingeschreven. Als dit het geval is, verwijdert u het apparaat uit de console Azure Intune of unenroll handmatig het apparaat voordat u opnieuw probeert.
+-  Het apparaat is al ingeschreven door een andere gebruiker. Als dat het geval is, verwijdert u het apparaat uit de Azure Intune-console of rolt u het apparaat handmatig uit voordat u het opnieuw probeert.
 
--  Het apparaat is Windows 10 Home. Alleen Windows 10 Pro, onderwijs en Enterprise SKU's kunt deelnemen aan Azure Active Directory.
+-  Het apparaat is Windows 10 Home. Alleen Windows 10 Pro, Education en Enterprise SKU's kunnen lid worden van Azure Active Directory.
 
-Aanvullende bronnen voor het oplossen van uw probleem:
+Extra bronnen om uw probleem op te lossen:
   
--  [Intune probleemoplossing Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) gebruiken om te bepalen en verhelpen van storingen in gemeenschappelijke inschrijving. Bekijk [Dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
+-  Gebruik [Portal voor het oplossen van problemen bij intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) om veelvoorkomende inschrijvingsfouten te diagnosticeren en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
 
--  Bekijk deze documenten voor een lijst met veelvoorkomende fouten die voorkomen dat de inschrijving en resoluties aan elk: [Troubleshooting guide](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) en [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Controleer deze documenten op een lijst met veelvoorkomende fouten die inschrijving en resoluties voor elk voorkomen: [handleiding voor het oplossen van](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) problemen en het oplossen van [problemen.](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
 
 [Meer informatie over het inschrijven van Windows-apparaten in Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

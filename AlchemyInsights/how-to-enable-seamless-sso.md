@@ -1,5 +1,5 @@
 ---
-title: Naadloze eenmalige aanmelding inschakelen
+title: Naadloze SSO inschakelen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663850"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Naadloze eenmalige aanmelding inschakelen
+# <a name="how-to-enable-seamless-sso"></a>Naadloze SSO inschakelen
 
-Naadloze eenmalige aanmelding via [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)inschakelen.
+Schakel Naadloze SSO in via [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Als u een nieuwe installatie van Azure AD Connect uitvoert, kiest u de [aangepaste installatiepad](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Op de **gebruiker aanmelden** pagina, kiest u de **eenmalige aanmelding inschakelen** optie.
+Als u een nieuwe installatie van Azure AD Connect doet, kiest u het [aangepaste installatiepad](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Kies op de **aanmeldingspagina van de gebruiker** de optie **Eenmalige aanmelding inschakelen.**
   
-Om te controleren of u naadloze eenmalige aanmelding correct hebt ingeschakeld:
+Ga als volgt te werk om te controleren of u Seamless SSO correct hebt ingeschakeld:
   
-1. Aanmelden bij de [Azure Active Directory-beheercentrum](https://aad.portal.azure.com) als een globale beheerder.
+1. Meld u aan bij het [Azure Active Directory-beheercentrum](https://aad.portal.azure.com) als globale beheerder.
 
 2. Selecteer **Azure Active Directory** in het linkerdeelvenster.
 
-3. Controleer of naadloze eenmalige aanmelding is **ingeschakeld**.
+3. Controleer of Naadloze enkele aanmelding is **ingeschakeld.**
 
-Zie voor meer informatie, [Azure Active Directory naadloze eenmalige aanmelding: Quick Start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Zie [Azure Active Directory Seamless Single Sign-On: Snel aan de slag](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)voor meer informatie.
   

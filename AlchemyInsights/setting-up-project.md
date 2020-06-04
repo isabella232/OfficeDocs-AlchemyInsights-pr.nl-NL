@@ -1,5 +1,5 @@
 ---
-title: Een Project instellen
+title: Project instellen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,18 +10,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Het doel is niet meer dan 500 woorden voor een artikel.
+description: Doel niet meer dan 500 woorden voor een artikel.
 ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666187"
 ---
-# <a name="setting-up-project"></a>Een Project instellen
+# <a name="setting-up-project"></a>Project instellen
 
- Als u Microsoft Project instellen, volgt u de stappen in [dit artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+ Voer de stappen in dit [artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)uit om Microsoft Project in te stellen.
 
-**Aankondiging voor Mac-gebruikers:** Het Project-product is op dit moment niet beschikbaar voor MacOS. 
+**Opmerking voor Mac-gebruikers:** Het Project-product is momenteel niet beschikbaar voor MacOS. 
   
-Als u naar fouten tijdens de installatie van [Project met behulp van de ondersteuning en herstel-assistent installeren](https://aka.ms/SaRA-ProjectSetupScenario).
+Als u tijdens de installatie tegen fouten aankomt, [installeert u Project met de ondersteunings- en herstelassistent.](https://aka.ms/SaRA-ProjectSetupScenario)

@@ -1,5 +1,5 @@
 ---
-title: PowerApps of Microsoft Flow ondersteuningsverzoeken indienen
+title: PowerApps- of Microsoft Flow-ondersteuningsverzoeken indienen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559476"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps of Microsoft Flow ondersteuningsverzoeken indienen
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps- of Microsoft Flow-ondersteuningsverzoeken indienen
 
-Als u een **PowerApps** of verzend uw ticket via het nieuwe [platform Power Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) **Microsoft stroom** klant. De nieuwe portal biedt een meer rechtstreekse pad naar de ondersteuning die is geoptimaliseerd voor PowerApps en andere producten van Power platform.
+Als u een **PowerApps-** of **Microsoft Flow-klant** bent, dient u uw ticket in via het nieuwe [Power platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). De nieuwe portal biedt een directer pad naar ondersteunde ondersteuning die is geoptimaliseerd voor PowerApps en andere Power-platformproducten.
 
-[Flow Microsoft support aanvraag indienen](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Microsoft Flow-ondersteuningsverzoek indienen](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
