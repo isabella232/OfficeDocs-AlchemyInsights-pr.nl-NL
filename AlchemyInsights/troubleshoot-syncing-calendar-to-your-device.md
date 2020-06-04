@@ -1,5 +1,5 @@
 ---
-title: 3800017 problemen met het synchroniseren van agenda op uw apparaat oplossen
+title: 3800017 Synchronisatiekalender oplossen met uw apparaat
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665791"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="ec593-102">Problemen oplossen met het synchroniseren van uw agenda naar uw apparaat</span><span class="sxs-lookup"><span data-stu-id="ec593-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="d63cc-102">Problemen met het synchroniseren van uw agenda naar uw apparaat oplossen</span><span class="sxs-lookup"><span data-stu-id="d63cc-102">Troubleshoot syncing your calendar to your device</span></span>
 
-<span data-ttu-id="ec593-103">Als u synchronisatieproblemen ondervindt bij het instellen van uw mobiele e-mail voor de eerste keer, Zie [kan agenda en contactpersonen niet synchroniseren met mijn telefoon of Tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span><span class="sxs-lookup"><span data-stu-id="ec593-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
+<span data-ttu-id="d63cc-103">Zie [Kan agenda en contactpersonen niet synchroniseren met mijn telefoon of tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)als u synchronisatieproblemen ondervindt tijdens het instellen van uw mobiele e-mail.</span><span class="sxs-lookup"><span data-stu-id="d63cc-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   
