@@ -1,5 +1,5 @@
 ---
-title: 'Bericht van Office-apps: kan de gekoppelde Office-licenties niet vinden'
+title: Microsoft 365-appsbericht - Kan office-licenties niet vinden
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505086"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581646"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Bericht van Office-apps: kan de gekoppelde Office-licenties niet vinden
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-appsbericht - Kan office-licenties niet vinden
 
 Probeer het volgende om deze fout op te lossen:
 
@@ -38,7 +38,7 @@ Als het probleem zich blijft voordoen, probeert u de volgende stappen:
 
 - Stel de activeringsstatus van Office opnieuw in. Zie [Activeringsstatus van Microsoft 365-apps voor ondernemingen opnieuw instellen](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Controleer de firewall, de antivirussoftware en de proxyinstellingen om te bevestigen dat deze de toegang van Office-apps tot internet niet blokkeren. 
+- Controleer uw firewall, antivirussoftware en proxy-instellingen om te bevestigen dat ze de toegang van Microsoft 365-apps tot internet niet blokkeren. 
 
 Zie voor extra oplossingen voor het oplossen van problemen:
 

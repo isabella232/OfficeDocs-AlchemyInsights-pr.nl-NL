@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911575"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580292"
 ---
-# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Sites verwijderen die deel uitmaken van een Microsoft 365-groep
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Sites verwijderen die deel uitmaken van een Microsoft 365-groep
 
-Wanneer gebruikers een nieuwe teamsite maken vanuit SharePoint Home of wanneer u een nieuwe teamsite maakt vanuit het nieuwe SharePoint-beheercentrum, wordt er automatisch een overeenkomstige Microsoft 365-groep gemaakt. Microsoft 365-teamsites met groepsverband worden ook gemaakt wanneer u een Microsoft 365-groep of een team in Microsoft Teams maakt. Als u een SharePoint-site wilt verwijderen die deel uitmaakt van een Microsoft 365-groep, moet u de Microsoft 365-groep zelf verwijderen. 
+Wanneer gebruikers een nieuwe teamsite maken vanuit SharePoint Home of wanneer u een nieuwe teamsite maakt vanuit het nieuwe SharePoint-beheercentrum, wordt automatisch een overeenkomstige Microsoft 365-groep gemaakt. Microsoft 365-teamsites met groep verbonden microsoft worden ook gemaakt wanneer u een Microsoft 365-groep of een team in Microsoft Teams maakt. Als u een SharePoint-site wilt verwijderen die deel uitmaakt van een Microsoft 365-groep, moet u de Microsoft 365-groep zelf verwijderen. 
   
 1. Ga naar de [pagina Groepen van het Microsoft 365-beheercentrum](https://portal.office.com/adminportal/home#/groups).
     
@@ -30,17 +30,17 @@ Wanneer gebruikers een nieuwe teamsite maken vanuit SharePoint Home of wanneer u
     
 OPMERKING: Wanneer u een groep verwijdert, kan er een vertraging optreden voordat de site uit SharePoint wordt verwijderd.
   
-**Communicatiesites of klassieke sites verwijderen:**
+**Verwijder communicatiesites of klassieke sites:**
 
 1. Ga naar de site.
   
-2. Klik op het pictogram **Instellingen** rechtsboven. 
+2. Klik rechtsboven op het pictogram **Instellingen.** 
   
-3. Klik op **Site-instellingen**. Klik **onder Sitegegevens** of **Siteacties**op **Deze site verwijderen**en klik vervolgens op **Verwijderen**.
+3. Klik **op Site-instellingen**. Klik onder **Site-informatie** of **siteacties**op **Deze site verwijderen**en klik vervolgens op **Verwijderen**.
   
 **Een SharePoint-siteverzameling verwijderen:**
 
-Ga als lid van het werk om een site te verwijderen:
+Een site verwijderen:
   
 1. Klik in het nieuwe SharePoint-beheercentrum op de pagina Sites op het **selectievakje** naast de site die u wilt verwijderen. 
     

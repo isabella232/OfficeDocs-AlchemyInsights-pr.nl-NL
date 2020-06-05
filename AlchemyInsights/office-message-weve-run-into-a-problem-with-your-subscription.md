@@ -1,5 +1,5 @@
 ---
-title: 'Bericht van Office-apps: er is een probleem opgetreden met uw abonnement'
+title: Bericht met Microsoft 365-apps - We hebben een probleem met uw abonnement
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512441"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581550"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Bericht van Office-apps: er is een probleem opgetreden met uw abonnement
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Bericht met Microsoft 365-apps - We hebben een probleem met uw abonnement
 
 - Als u onlangs bent overgestapt op een ander abonnement, volgt u de stappen in ['Bericht over account' wordt weergegeven in Office na het overstappen op een ander abonnement](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) om Office opnieuw te installeren of bij te werken.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512441"
 
 - Voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) uit en start de computer opnieuw op.
 
-- [Stel de activeringsstatus van Office opnieuw in](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) stellen op de betreffende computer.
+- [Stel de activeringsstatus van Office opnieuw in](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) stellen op de betreffende computer.
 
 Voor gedetailleerde instructies raadpleegt u: 
 

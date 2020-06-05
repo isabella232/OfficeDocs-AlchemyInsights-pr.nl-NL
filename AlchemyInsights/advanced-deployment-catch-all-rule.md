@@ -1,5 +1,5 @@
 ---
-title: Geavanceerde implementatie catch alle regel
+title: Regel geavanceerde implementatie catch all
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710906"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580846"
 ---
-# <a name="deploy-office-apps"></a>Office-apps implementeren
+# <a name="deploy-microsoft-365-apps"></a>Microsoft 365-apps implementeren
 
-Voor het implementeren van Office-apps op meerdere eindgebruikers via het Office Deployment Tool, Microsoft Endpoint Configuration Manager, als onderdeel van een schijfafbeelding van een besturingssysteem of in een scenario voor gedeelde computers met Windows Server met Extern bureaublad-services (RDS) of Terminal Services, u overwegen de stapsgewijze handleiding te gebruiken in de **Microsoft 365 Apps for enterprise deployment advisor.**
+Voor het implementeren van Microsoft 365-apps voor meerdere eindgebruikers via het Office Deployment Tool, Microsoft Endpoint Configuration Manager, als onderdeel van een schijfafbeelding van een besturingssysteem of in een gedeeld computerscenario met Windows Server met Extern bureaublad-services (RDS) of Terminal Services, u overwegen de stapsgewijze handleiding te gebruiken in de **Microsoft 365 Apps voor enterprise deployment advisor**.
   
-Om te beginnen, moet u ervoor zorgen dat u bent aangemeld als [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)tenantbeheerder of globale beheerder en klikt u hier: .
+Als u aan de slag wilt gaan, controleert u of u bent aangemeld als tenantbeheerder of globale beheerder en klikt u hier: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   

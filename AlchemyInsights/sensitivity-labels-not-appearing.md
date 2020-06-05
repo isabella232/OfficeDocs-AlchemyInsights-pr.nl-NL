@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511647"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581010"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Gevoeligheidslabels worden niet weergegeven
 
 Met gevoeligheidslabels u uw gevoelige inhoud classificeren en helpen beschermen. Ze kunnen worden gemaakt in het Microsoft 365-compliancecenter, microsoft 365-beveiligingscentrum of Microsoft 365-beveiligingscentrum & Compliance Center onder classificatie > gevoeligheidslabels. [Zie Overzicht van gevoeligheidslabels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)voor meer informatie over deze functie.
 
-Als u uw gevoeligheidslabels hebt geconfigureerd, maar deze niet worden weergegeven in de Office-apps, controleert u het volgende:
+Als u uw gevoeligheidslabels hebt geconfigureerd, maar deze niet worden weergegeven in de Microsoft 365-apps, controleert u het volgende:
 
 - Controleer of het gevoeligheidslabel is [gepubliceerd](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) voor de gebruikers en groepen die u wilt.
 
