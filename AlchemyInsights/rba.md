@@ -2,7 +2,7 @@
 title: 408 RBA
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2e4ba8bf4a63a3368d7a769b3bc844cf788a5d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553499"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581978"
 ---
-# <a name="about-room-mailboxes"></a><span data-ttu-id="578c2-102">Over ruimte-postbussen</span><span class="sxs-lookup"><span data-stu-id="578c2-102">About room mailboxes</span></span>
+# <a name="about-room-mailboxes"></a><span data-ttu-id="ba0c2-102">Over postvakken voor ruimte</span><span class="sxs-lookup"><span data-stu-id="ba0c2-102">About room mailboxes</span></span>
 
-<span data-ttu-id="578c2-103">Een ruimte een postbus resource die toegewezen aan een fysieke locatie, zoals een vergaderruimte, een auditorium of een training ruimte is.</span><span class="sxs-lookup"><span data-stu-id="578c2-103">A room mailbox is a resource mailbox that's assigned to a physical location, such as a conference room, an auditorium, or a training room.</span></span> <span data-ttu-id="578c2-104">Zie voor meer informatie over postbussen ruimte [maken en beheren van postbussen kamer](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="578c2-104">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="ba0c2-103">Een postvak voor ruimte is een resourcepostvak dat is toegewezen aan een fysieke locatie, zoals een vergaderruimte, een auditorium of een trainingsruimte.</span><span class="sxs-lookup"><span data-stu-id="ba0c2-103">A room mailbox is a resource mailbox that's assigned to a physical location, such as a conference room, an auditorium, or a training room.</span></span> <span data-ttu-id="ba0c2-104">Zie [Postvakken maken en beheren voor](https://go.microsoft.com/fwlink/p/?linkid=717533)meer informatie over postvakken van ruimte.</span><span class="sxs-lookup"><span data-stu-id="ba0c2-104">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
