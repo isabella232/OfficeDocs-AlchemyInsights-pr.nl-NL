@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512007"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582734"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggesties voor het oplossen van "Zonder licentie product" fouten
 
@@ -26,7 +26,7 @@ Als u fouten wilt oplossen met betrekking tot een product zonder licentie, probe
 - Zorg ervoor dat u een abonnement hebt waarmee clientlicenties, zoals Microsoft 365 Apps for Business of Business Premium, mogelijk zijn en [zorg ervoor dat de gebruiker een licentie heeft toegewezen.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 - Zorg ervoor dat de gebruiker zich aanmeldt bij Office met hetzelfde account waaraan de licentie is toegewezen.
 - Controleer de [statuspagina van de service](https://docs.microsoft.com/office365/enterprise/view-service-health) om te zien of er bekende problemen zijn met de service.
-- Controleer uw firewall, antivirussoftware en proxy-instellingen om te bevestigen dat ze de toegang van Office-apps tot internet niet blokkeren. Zie [URL's en IP-adresbereiken](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Controleer uw firewall, antivirussoftware en proxy-instellingen om te bevestigen dat microsoft 365-apps geen toegang tot internet blokkeren. Zie [URL's en IP-adresbereiken](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 U ook de volgende acties voor het oplossen van problemen proberen: 
 
