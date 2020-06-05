@@ -1,9 +1,9 @@
 ---
-title: Overname van machtigingen
+title: Overname machtigingen
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 791085593433dcad9b800fdea8c7ea4a878604e7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36554940"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581046"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Hoe machtigingen overerving werkt in SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Hoe overname van machtigingen werkt in SharePoint
 
-Machtigingen in SharePoint worden standaard overgenomen van hoger in de hiërarchie. Dus een bestand neemt de machtigingen van de map, die de machtigingen van de bibliotheek overneemt, die de machtigingen van de site overneemt, die de machtigingen van de siteverzameling overneemt.
+Standaard worden machtigingen in SharePoint overgenomen van hoger in de hiërarchie. Dus een bestand neemt de machtigingen van de map, die de machtigingen van de bibliotheek, die de machtigingen van de site, die de machtigingen van de site overerft, overwerft.
   
-Zie [machtigingen voor een lijst of bibliotheek bewerken en beheren](https://go.microsoft.com/fwlink/?linkid=869946)voor meer informatie over het verwijderen van unieke machtigingen en het herstellen van overname.
+Zie [Machtigingen voor een lijst of bibliotheek](https://go.microsoft.com/fwlink/?linkid=869946)bewerken en beheren voor informatie over het verwijderen van unieke machtigingen en het herstellen van overerving.
   
 

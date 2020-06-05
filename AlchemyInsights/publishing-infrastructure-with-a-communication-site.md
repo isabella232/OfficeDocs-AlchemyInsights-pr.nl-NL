@@ -1,26 +1,26 @@
 ---
-title: Publiceren van infrastructuur met een communicatie site
+title: Publicatie-infrastructuur met een communicatiesite
 ms.author: pebaum
 author: pebaum
-ms.date: 1/14/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: ad91fd901c2203841b75510de8ed4573aa0ddce1
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d1cc9f8fcfef93cafa96eefaed2f61d7fb0940ef
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054300"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576735"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Publiceren van infrastructuur met een communicatie site
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Publicatie-infrastructuur met een communicatiesite
 
 
-Het inschakelen van de SharePoint Server Publishing Infrastructure-functie wordt **niet ondersteund** met communicatie sites. 
+Het inschakelen van de functie Publicatie-infrastructuur van SharePoint Server wordt **niet ondersteund** met communicatiesites. 
   
-Zie [verplaatsen van publicerende sites naar Communicatiesites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience)voor meer informatie. 
+Zie [Verplaatsen van publicerende sites naar communicatiesites voor](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience)meer informatie. 
   
 

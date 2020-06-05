@@ -1,5 +1,5 @@
 ---
-title: Een groep beheren zonder omruillicentie
+title: Een groep beheren zonder Exchange-licentie
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: fa4a5a26b12348a7f62f06e0860b8bf34f689651
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 2079d43667f5368a77cba40a6b8a93cd2f6dafd9
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912434"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579752"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Een groep beheren zonder omruillicentie
+# <a name="manage-a-group-without-an-exchange-license"></a>Een groep beheren zonder Exchange-licentie
 
 Als uw beheerdersaccount geen postvak heeft, krijgt u mogelijk een foutmelding over een ontbrekende productlicentie wanneer u een Microsoft 365-groep probeert te bewerken.
   
-Omdat u de tenantbeheerder bent, is het mogelijk om een groep te bewerken, ook al hebt u geen Exchange-licentie. Ga naar Exchange Admin **Center-groepen** [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> om de Microsoft 365-groep te beheren.
+Omdat u de tenantbeheerder bent, u een groep bewerken, ook al hebt u geen Exchange-licentie. Ga naar [Exchange Admin](https://outlook.office365.com/ecp.aspx) \> **Center-groepen** om de Microsoft 365-groep te beheren.
   
 Als u Groepen in het beheercentrum wilt bewerken, voegt u een Exchange-licentie toe aan uw beheerdersaccount. U moet wachten tot het postvak volledig is gemaakt voordat u een groep bewerken.
   
