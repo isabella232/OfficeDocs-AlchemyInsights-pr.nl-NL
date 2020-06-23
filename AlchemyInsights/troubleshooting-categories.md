@@ -1,5 +1,5 @@
 ---
-title: 604 Categorieën voor probleemoplossing
+title: 604 Probleemoplossingscategorieën
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732361"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850775"
 ---
 # <a name="outlook-categories"></a>Outlook-categorieën
 
-Met kleurcategorieën u eenvoudig gekoppelde items in Microsoft Outlook identificeren en groeperen. Zie [Kleurcategorieën maken en toewijzen](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)voor meer informatie .
-  
+Rubrieken zijn alleen van toepassing op objecten in je agenda. Als u een kleurcategorie toepast op een vergaderverzoek of een vergadering die u van een andere persoon hebt ontvangen, wordt die kleurcategorie alleen weergegeven in uw agenda.  Als u een kleurcategorie toepast op een gedeeld postvak, delegeren postvak, groepspostvak, ruimtepostvak, enz.
+
+Voor meer informatie: [een kleurcategorie toewijzen aan een agendaafspraak, vergadering of gebeurtenis](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
