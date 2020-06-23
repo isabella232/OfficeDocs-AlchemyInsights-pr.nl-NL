@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506150"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840907"
 ---
-# <a name="calendar-publishing-information"></a>Agenda-publicatiegegevens
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Agenda-delen inschakelen met het Microsoft 365-beheercentrum
 
-- Microsoft 365-beheerders kunnen het publiceren van agenda's en het delen van agenda's voor een organisatie in- of uitschakelen. Zie Agenda publiceren inschakelen zodat [mensen informatie kunnen delen](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) en [agenda's delen met externe gebruikers](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)voor meer informatie.
+1. Ga in het beheercentrum naar **Settings**   >   **Instellingen Organisatie-instellingen**.
+2. Selecteer **Agenda**op het tabblad **Services** .
+3. Kies op de **pagina Agenda** die wordt geopend of u uw gebruikers hun agenda's wilt laten delen met mensen buiten uw organisatie die Microsoft 365 of Exchange hebben.
+4. Kies of u anonieme gebruikers (gebruikers zonder aanmeldingsreferenties) toegang wilt geven tot agenda's via een e-mailuitnodiging.
+5. Kies welk type agenda-informatie beschikbaar moet worden gesteld aan gebruikers. U alle informatie toestaan, of beperken tot tijd alleen of tijd, onderwerp en locatie alleen.
 
-- Outlook-gebruikers kunnen hun eigen agenda's delen. Zie [Een Outlook-agenda delen met andere mensen voor](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)meer informatie .
+Meer informatie: [Agenda's delen met externe gebruikers](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
