@@ -8,27 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706016"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931425"
 ---
-# <a name="conditional-access-with-intune"></a><span data-ttu-id="5f3ce-102">Voorwaardelijke toegang met Intune</span><span class="sxs-lookup"><span data-stu-id="5f3ce-102">Conditional Access with Intune</span></span>
+# <a name="conditional-access-with-intune"></a><span data-ttu-id="163ef-102">Voorwaardelijke toegang met Intune</span><span class="sxs-lookup"><span data-stu-id="163ef-102">Conditional Access with Intune</span></span>
 
-<span data-ttu-id="5f3ce-103">Het gebruik **van voorwaardelijke toegang** met Intune vereist 3 stappen:</span><span class="sxs-lookup"><span data-stu-id="5f3ce-103">Using **Conditional Access** with Intune requires 3 steps:</span></span> 
-  
-- <span data-ttu-id="5f3ce-104">Maak een **beleid voor voorwaardelijke toegang** waarin wordt gedefinieerd welke resources worden beschermd en aan welke voorwaarden moet worden voldaan om toegang te krijgen tot deze bronnen.</span><span class="sxs-lookup"><span data-stu-id="5f3ce-104">Create a **Conditional Access Policy** that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span> <span data-ttu-id="5f3ce-105">Een apparaat moet bijvoorbeeld compatibel zijn voordat het bedrijfse-mail inziet.</span><span class="sxs-lookup"><span data-stu-id="5f3ce-105">For example, a device must be compliant before accessing corporate email.</span></span> 
-    
-- <span data-ttu-id="5f3ce-106">Maak een **nalevingsbeleid** om instellingen te definiëren waaraan moet worden voldaan voordat het apparaat als compatibel wordt beschouwd.</span><span class="sxs-lookup"><span data-stu-id="5f3ce-106">Create a **Compliance Policy** to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="5f3ce-107">Een apparaat moet bijvoorbeeld een pin van ten minste 6 cijfers hebben voordat het als compatibel wordt beschouwd.</span><span class="sxs-lookup"><span data-stu-id="5f3ce-107">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span> 
-    
-- <span data-ttu-id="5f3ce-108">Ervoor zorgen dat zowel **nalevingsbeleid** als **beleid voor voorwaardelijke toegang** zijn gericht op de gewenste groepen gebruikers.</span><span class="sxs-lookup"><span data-stu-id="5f3ce-108">Ensuring both **Compliance Policies** and **Conditional Access Policies** are targeted to the desired groups of users.</span></span> <span data-ttu-id="5f3ce-109">Hiervoor moeten mogelijk specifieke groepen gebruikers worden gemaakt in Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="5f3ce-109">This may require creating specific groups of users in Azure Active Directory.</span></span> 
-    
-<span data-ttu-id="5f3ce-110">Lees meer:</span><span class="sxs-lookup"><span data-stu-id="5f3ce-110">Read more:</span></span>
-  
-- [<span data-ttu-id="5f3ce-111">Aanbevolen procedures voor voorwaardelijke toegang</span><span class="sxs-lookup"><span data-stu-id="5f3ce-111">Conditional Access best practices</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
-    
-- [<span data-ttu-id="5f3ce-112">Aan de slag met voorwaardelijke toegang</span><span class="sxs-lookup"><span data-stu-id="5f3ce-112">Getting started with Conditional Access </span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
-    
+<span data-ttu-id="163ef-103">Als u **Voorwaardelijke toegang** met Intune gebruikt, zijn 3 stappen vereist:</span><span class="sxs-lookup"><span data-stu-id="163ef-103">Using  **Conditional Access**  with Intune requires 3 steps:</span></span>
 
+- <span data-ttu-id="163ef-104">Maak een **nalevingsbeleid** [(Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) om instellingen te definiëren waaraan moet worden voldaan voordat het apparaat als compatibel wordt beschouwd.</span><span class="sxs-lookup"><span data-stu-id="163ef-104">Create a  **Compliance Policy**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="163ef-105">Een apparaat moet bijvoorbeeld een pin van ten minste 6 cijfers hebben voordat het als compatibel wordt beschouwd.</span><span class="sxs-lookup"><span data-stu-id="163ef-105">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span>
+- <span data-ttu-id="163ef-106">Maak een **beleid voor voorwaardelijke toegang** dat bepaalt welke resources worden beschermd en aan welke voorwaarden moet worden voldaan om toegang te krijgen tot deze bronnen.</span><span class="sxs-lookup"><span data-stu-id="163ef-106">Create a **Conditional Access Policy**  that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span>  <span data-ttu-id="163ef-107">[Een](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) apparaat moet bijvoorbeeld compatibel zijn voordat het toegang krijgt tot zakelijke e-mail.</span><span class="sxs-lookup"><span data-stu-id="163ef-107">[For example,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  a device must be compliant before accessing corporate email.</span></span>
+- <span data-ttu-id="163ef-108">Zorg ervoor dat zowel **nalevingsbeleid** als **beleid voor voorwaardelijke toegang** zijn gericht op de gewenste groepen gebruikers.</span><span class="sxs-lookup"><span data-stu-id="163ef-108">Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users.</span></span> <span data-ttu-id="163ef-109">Hiervoor moeten mogelijk specifieke groepen gebruikers in Azure Active Directory worden gemaakt.</span><span class="sxs-lookup"><span data-stu-id="163ef-109">This may require creating specific groups of users in Azure Active Directory.</span></span>
+
+<span data-ttu-id="163ef-110">**Nuttige links:**</span><span class="sxs-lookup"><span data-stu-id="163ef-110">**Helpful links:**</span></span>
+
+[<span data-ttu-id="163ef-111">Overzicht van apparaatnaleving</span><span class="sxs-lookup"><span data-stu-id="163ef-111">Device compliance overview</span></span>](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[<span data-ttu-id="163ef-112">Problemen met CA oplossen</span><span class="sxs-lookup"><span data-stu-id="163ef-112">Troubleshooting CA</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[<span data-ttu-id="163ef-113">Probleemoplossingsbeleid</span><span class="sxs-lookup"><span data-stu-id="163ef-113">Troubleshooting policy</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+<span data-ttu-id="163ef-114">Om e-mail (Exchange online) te beschermen tegen toegang door niet-compatibele apparaten, moeten beide documenten worden gevolgd:</span><span class="sxs-lookup"><span data-stu-id="163ef-114">To protect Email (Exchange online) from access by noncompliant devices, both documents must be followed:</span></span>
+
+1. [<span data-ttu-id="163ef-115">E-mailtoegang beschermen tegen apparaten met EAS</span><span class="sxs-lookup"><span data-stu-id="163ef-115">Protect email access from devices using EAS</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [<span data-ttu-id="163ef-116">E-mailtoegang beveiligen tegen apparaten met behulp van moderne verificatieclients zoals Outlook</span><span class="sxs-lookup"><span data-stu-id="163ef-116">Protect email access from devices using modern authentication clients like Outlook</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
