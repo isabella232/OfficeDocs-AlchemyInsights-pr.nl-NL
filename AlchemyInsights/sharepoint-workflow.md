@@ -1,5 +1,5 @@
 ---
-title: Problemen met werkstromen oplossen in SharePoint
+title: Werkstromen oplossen in SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162971"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138966"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Problemen met werkstromen oplossen in SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Werkstromen oplossen in SharePoint
 
-**Problemen met en foutopsporing in SharePoint oplossen en foutopsporing**
+**Werkstromen oplossen en foutopsporing in SharePoint oplossen**
 
-Zie [Problemen met sharepoint-werkstroomvalidatiefouten](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) en [SharePoint-werkstromen debuggen](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Zie [Problemen met sharepoint-werkstroomvalidatiefouten](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) en [foutopsporing van SharePoint-werkstromen](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)oplossen .
 
-**Power Automate**
+**Energie automatiseren**
 
-Als u net aan de slag bent met workflows, u [overwegen Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) te gebruiken in plaats van de klassieke SharePoint-workflowoplossingen.
+Als u nog maar net aan de slag bent met werkstromen, u [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) gebruiken in plaats van de klassieke SharePoint-werkstroomoplossingen.
+
+Zie [SharePoint-werkstromen voor](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)meer informatie .
