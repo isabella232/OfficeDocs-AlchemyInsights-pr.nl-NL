@@ -1,0 +1,38 @@
+---
+title: Bestanden en video's in Yammer
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6040"
+- "9003112"
+ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148258"
+---
+# <a name="files-and-videos-in-yammer"></a><span data-ttu-id="05023-102">Bestanden en video's in Yammer</span><span class="sxs-lookup"><span data-stu-id="05023-102">Files and videos in Yammer</span></span>
+
+<span data-ttu-id="05023-103">Bestanden kunnen worden gekoppeld aan berichten in Yammer of rechtstreeks naar groepen worden geüpload.</span><span class="sxs-lookup"><span data-stu-id="05023-103">Files can be attached to messages in Yammer or uploaded directly to groups.</span></span> <span data-ttu-id="05023-104">De gebruikerservaring verschilt enigszins tussen klassieke en nieuwe Yammer, maar de bestanden worden geüpload naar dezelfde locaties.</span><span class="sxs-lookup"><span data-stu-id="05023-104">The user experience differs slightly between classic and new Yammer, but the files get uploaded to the same locations.</span></span> <span data-ttu-id="05023-105">Zie [Een bestand of afbeelding toevoegen aan een Yammer-bericht voor](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="05023-105">For more info, see [Attach a file or image to a Yammer message](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span></span>  
+
+<span data-ttu-id="05023-106">Wanneer gebruikers problemen ondervinden, probeert u de upload vanuit een andere browser of apparaat.</span><span class="sxs-lookup"><span data-stu-id="05023-106">When users experience issues, try the upload from another browser or device.</span></span> <span data-ttu-id="05023-107">Gebruik de snelste netwerkverbinding en de meest recente browser die beschikbaar is.</span><span class="sxs-lookup"><span data-stu-id="05023-107">Use the fastest network connection and the most recent browser available.</span></span> <span data-ttu-id="05023-108">Als u een nieuw browservenster gebruikt om opnieuw in te loggen, u ervoor zorgen dat de juiste Azure AD-tokens beschikbaar zijn.</span><span class="sxs-lookup"><span data-stu-id="05023-108">Using a fresh browser window to sign in again can help ensure that the correct Azure AD tokens are available.</span></span>
+
+<span data-ttu-id="05023-109">Video-uploads naar Yammer vereisen uploaden en coderen.</span><span class="sxs-lookup"><span data-stu-id="05023-109">Video uploads to Yammer require upload and encoding.</span></span> <span data-ttu-id="05023-110">Zie [Videoberichten in Yammer afzonderlijk uploaden en coderen voor](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="05023-110">For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span></span> <span data-ttu-id="05023-111">Afhankelijk van de videogrootte kan het tijd kosten om de codering in beslag te nemen.</span><span class="sxs-lookup"><span data-stu-id="05023-111">Depending on video size, the encoding can take time to complete.</span></span> <span data-ttu-id="05023-112">Overweeg [Microsoft Stream](https://docs.microsoft.com/stream/overview) te gebruiken om video's te uploaden die u deelt in Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="05023-112">Consider using [Microsoft Stream](https://docs.microsoft.com/stream/overview) to upload videos you're sharing across Microsoft 365.</span></span>
+
+<span data-ttu-id="05023-113">**Het uploaden van bestanden en afbeeldingen beperken**</span><span class="sxs-lookup"><span data-stu-id="05023-113">**Restricting file and image uploads**</span></span>
+
+<span data-ttu-id="05023-114">Yammer staat standaard uploads van alle bestandstypen toe.</span><span class="sxs-lookup"><span data-stu-id="05023-114">Yammer allows uploads of all file types by default.</span></span> <span data-ttu-id="05023-115">Beheerders kunnen instellingen wijzigen om bestandsuploads naar Yammer te blokkeren.</span><span class="sxs-lookup"><span data-stu-id="05023-115">Administrators can change settings to block file uploads to Yammer.</span></span> <span data-ttu-id="05023-116">Zie [Beperken wie bestanden kan uploaden en bestandsindelingen beperken](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="05023-116">For more info, see [Restrict who can upload files and limit file formats](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span></span> <span data-ttu-id="05023-117">Er is een gerelateerde instelling beschikbaar voor het beperken van GIF's in Yammer.</span><span class="sxs-lookup"><span data-stu-id="05023-117">A related setting is available for restricting GIFs in Yammer.</span></span> <span data-ttu-id="05023-118">Zie [Tenor-GIF's toestaan in berichten voor](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="05023-118">For more info, see [Allow Tenor GIFs in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span></span>
+
+<span data-ttu-id="05023-119">**Yammer-bestandsopslag**</span><span class="sxs-lookup"><span data-stu-id="05023-119">**Yammer file storage**</span></span>
+
+<span data-ttu-id="05023-120">Yammer is geïntegreerd met Microsoft 365 en gebruikt SharePoint Online voor bestandsuploads.</span><span class="sxs-lookup"><span data-stu-id="05023-120">Yammer is integrated with Microsoft 365 and uses SharePoint Online for file uploads.</span></span> <span data-ttu-id="05023-121">Zie [yammer-bestandsopslag overzicht](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage)voor meer informatie .</span><span class="sxs-lookup"><span data-stu-id="05023-121">For more info, see [Yammer file storage overview](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span></span> 
+
+<span data-ttu-id="05023-122">Voor de beste ervaring met het migreren van bestanden naar SharePoint Online, raden we u aan uw Yammer-netwerk te configureren voor native modus.</span><span class="sxs-lookup"><span data-stu-id="05023-122">For the best experience migrating files to SharePoint Online, we advise configuring your Yammer network for Native Mode.</span></span> <span data-ttu-id="05023-123">Zie [Overzicht van de native modus](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="05023-123">For more info, see [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span> 
