@@ -1,5 +1,5 @@
 ---
-title: 973 Migration StalledDueTo* regel
+title: 973 MigratieStalledDueTo*-regel
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 4b44e2401f044a6373f545aa9ed418b3ec537c66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ee0bc2230f013f4bf38ad29bbcde217165ba71e
+ms.sourcegitcommit: 5eb4fad2edc1d15b961ec1e46ef78b39175dffed
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762178"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45167700"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo-fouten tijdens migratie
+# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo-fouten tijdens de migratie
 
-Mogelijk ziet u een verscheidenheid aan fouten die beginnen met "StalledDueTo..." tijdens uw migratie naar Exchange Online. Veel van deze fouten zijn volkomen normaal. Zie [Resource based throttling en prioritisatie in Exchange Online-migraties](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/)voor meer informatie.
+Mogelijk ziet u verschillende fouten die beginnen met "StalledDueTo..." tijdens uw migratie naar Exchange Online. Veel van deze fouten zijn volkomen normaal. Zie [Resourcegebaseerde beperking en prioritering in Online migraties voor Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)voor meer informatie.
