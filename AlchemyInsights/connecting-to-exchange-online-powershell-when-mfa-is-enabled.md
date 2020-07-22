@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705800"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205298"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Verbinding maken met Exchange Online PowerShell wanneer MFA is ingeschakeld
 
-Als uw account multi-factor authenticatie (MFA) heeft ingeschakeld, moet u deze instructies volgen om verbinding te maken met Exchange Online PowerShell: [Verbinding maken met Exchange Online PowerShell met behulp van multi-factor authenticatie.](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
-
-**Opmerking:** Zelfs als u in het verleden verbinding hebt gemaakt met Exchange Online PowerShell met behulp van [de normale verbindingsinstructies,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)moet u de MFA-verbindingsinstructies gebruiken nadat MFA is ingeschakeld voor uw account.
+Als uw account multi-factor authenticatie (MFA) heeft ingeschakeld, moet u deze instructies volgen om verbinding te maken met Exchange Online PowerShell: [Gebruik de Exchange Online PowerShell met moderne verificatie met de V2-module.](https://aka.ms/exops-docs) Zoek op die pagina naar MFA / Multi Factor Authentication instructies.
