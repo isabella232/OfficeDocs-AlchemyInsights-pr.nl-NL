@@ -11,23 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 7b9d56bf2b95b534a4936b7f1a1544c40e75f450
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 3bce20c922e3beceb29f06e97184826a3d05fd8c
+ms.sourcegitcommit: fceb55831ea461d2ae2988e30ec0bbb0a705ceb8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846910"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45375003"
 ---
 # <a name="saving-files-and-folders-to-onedrive"></a>Bestanden en mappen opslaan in OneDrive
 
-Er zijn verschillende methoden om bestanden op te slaan en bestanden op te slaan in OneDrive.
+Er zijn verschillende methoden voor het opslaan van bestanden en het opslaan van bestanden in OneDrive. Als u problemen ondervindt bij het opslaan van bestanden in OneDrive, probeert u het volgende:
 
-- Als u problemen ondervindt bij het opslaan van bestanden in OneDrive, u het volgende proberen:
-
-- Klik op de blauwe wolk in uw taakbalk en kijk of er fouten zijn die u corrigeren in het pop-upvenster.
+- Selecteer de blauwe wolk op uw taakbalk en corrigeer eventuele fouten die in het pop-upvenster worden weergegeven.
 - Sla de bestanden op ergens anders dan uw OneDrive-map en probeer de bestanden vervolgens terug te verplaatsen naar uw OneDrive-map.
-- Start uw machine opnieuw op en probeer opnieuw op te slaan. Als een toepassing een bestand heeft geopend, kan OneDrive het bestand in veel gevallen niet synchroniseren totdat de toepassing het bestand niet meer gebruikt.
-- Probeer OneDrive los te koppelen en opnieuw te koppelen. Ga hiervoor naar het OneDrive-pictogram op de taakbalk > klik met de rechtermuisknop op > Account > Deze pc koppelen. Klik opnieuw op het OneDrive-pictogram op de taakbalk en meld u aan.
-- Zie Uw [OneDrive voor Bedrijven-opslag beheren](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)als u een opslagprobleem ondervindt.
-- Zie Problemen met synchronisatie van [OneDrive oplossen voor](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)meer informatie over het oplossen van problemen met het oplossen van problemen met het oplossen van problemen.  
-- Zie De [bewaarervaring aanpassen in Office](https://support.microsoft.com/office/786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)als u uw opslagervaring wilt aanpassen.
+- Start uw machine opnieuw op en probeer opnieuw op te slaan. In veel gevallen kan OneDrive het bestand niet synchroniseren als een toepassing een bestand heeft geopend totdat de toepassing het bestand niet meer gebruikt.    
+- Probeer OneDrive los te koppelen en opnieuw te koppelen door het blauwe OneDrive-pictogram op de taakbalk te selecteren > **Help & Account**  >  **Instellingen**koppelen Deze  >  **pc**loskoppelen . Selecteer het blauwe OneDrive-pictogram opnieuw op de taakbalk en meld u aan.
+- Zie Uw [OneDrive beheren voor werk of schoolopslag als](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)u een opslagprobleem ondervindt.
+- Zie Problemen met het synchroniseren van [OneDrive oplossen voor](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues)meer informatie over het oplossen van problemen met problemen op het lossen van problemen.  
+
+Zie De [bewaarervaring in Office](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b)aanpassen als u uw opslagervaring met Office en OneDrive wilt aanpassen.
