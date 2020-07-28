@@ -1,0 +1,46 @@
+---
+title: Updates toepassen voor Office-apps
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/24/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "1747"
+- "9000140"
+ms.openlocfilehash: b5952feaac7ac51faed2a3399c68a87a4227b165
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45439052"
+---
+# <a name="apply-updates-for-office-apps"></a><span data-ttu-id="cb08f-102">Updates toepassen voor Office-apps</span><span class="sxs-lookup"><span data-stu-id="cb08f-102">Apply updates for Office apps</span></span>
+
+<span data-ttu-id="cb08f-103">Updates voor Office Apps zijn standaard gratis, automatisch gedownload en op de achtergrond toegepast zonder tussenkomst van de gebruiker.</span><span class="sxs-lookup"><span data-stu-id="cb08f-103">By default, updates for Office Apps are free, downloaded automatically, and applied in the background without any user intervention.</span></span> <span data-ttu-id="cb08f-104">Zie [Office-updates](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)installeren als u updates handmatig wilt uitvoeren als u problemen ondervindt bij het toepassen van updates.</span><span class="sxs-lookup"><span data-stu-id="cb08f-104">To run updates manually if you are running into issues applying updates, see [Install Office updates](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).</span></span> <span data-ttu-id="cb08f-105">Zie [Problemen oplossen met het installeren van Office voor](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="cb08f-105">For more information, see [Troubleshoot installing Office](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid).</span></span>
+
+<span data-ttu-id="cb08f-106">Als u Office-updates voor uw gebruikers wilt beheren, moet u de volgende opties overwegen:</span><span class="sxs-lookup"><span data-stu-id="cb08f-106">To manage Office updates for your users, consider these options:</span></span>
+
+- <span data-ttu-id="cb08f-107">Kies het juiste Office Update-kanaal voor uw organisatie op basis van de gewenste frequentie van updates.</span><span class="sxs-lookup"><span data-stu-id="cb08f-107">Choose the right Office Update Channel for your organization based on the desired frequency of updates.</span></span> <span data-ttu-id="cb08f-108">Zie [Overzicht van updatekanalen voor Microsoft 365-apps voor](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)meer informatie over hoe .</span><span class="sxs-lookup"><span data-stu-id="cb08f-108">To learn how, see [Overview of update channels for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus).</span></span>
+
+- <span data-ttu-id="cb08f-109">Bepaal of u updates automatisch wilt toepassen vanaf het internet of van een on-premises aandeel.</span><span class="sxs-lookup"><span data-stu-id="cb08f-109">Decide whether to apply updates automatically from the internet or from an on-premises share.</span></span> <span data-ttu-id="cb08f-110">Zie [Kiezen voor het beheren van updates voor Microsoft 365-apps voor](https://docs.microsoft.com/deployoffice/choose-how-to-manage-updates-to-office-365-proplus)meer informatie over het beheren van updates .</span><span class="sxs-lookup"><span data-stu-id="cb08f-110">To learn how, see [Choose how to manage updates to Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/choose-how-to-manage-updates-to-office-365-proplus).</span></span>
+
+- <span data-ttu-id="cb08f-111">Office-update-instellingen controleren om te bepalen hoe updates worden toegepast op machines van eindgebruikers:</span><span class="sxs-lookup"><span data-stu-id="cb08f-111">Review Office Update Settings to control how updates are applied to end user machines:</span></span>
+
+    - <span data-ttu-id="cb08f-112">[Update-instellingen configureren voor Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="cb08f-112">[Configure update settings for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/configure-update-settings-for-office-365-proplus).</span></span>
+    - <span data-ttu-id="cb08f-113">[Definieer hoe Office wordt bijgewerkt nadat het is geïnstalleerd.](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element)</span><span class="sxs-lookup"><span data-stu-id="cb08f-113">[Define how Office is updated after it's installed](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#updates-element).</span></span>
+
+<span data-ttu-id="cb08f-114">Wanneer u Office-apps voor meerdere gebruikers implementeert, gebruikt u het office-aanpassingsgereedschap om configuratiebestanden voor implementatie te maken en Office-updates te configureren met behulp van het office-implementatiegereedschap.</span><span class="sxs-lookup"><span data-stu-id="cb08f-114">When deploying Office apps to multiple users, use the Office Customization tool to build configuration files for deployment, and configure Office updates by using the Office Deployment tool.</span></span> <span data-ttu-id="cb08f-115">Zie [Overzicht van het Office-aanpassingshulpprogramma](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run) en het [hulpprogramma Office-implementatie](https://go.microsoft.com/fwlink/p/?LinkID=626065)voor meer informatie .</span><span class="sxs-lookup"><span data-stu-id="cb08f-115">For more info, see [Overview of the Office Customization Tool](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run) and the [Office Deployment tool](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+
+- <span data-ttu-id="cb08f-116">Zie [Microsoft 365-apps implementeren vanuit een lokale bron](https://docs.microsoft.com/deployoffice/deploy-office-365-proplus-from-a-local-source)voor een voorbeeld van het instellen van gebruikersgroepen voor het implementeren van Office-updates.</span><span class="sxs-lookup"><span data-stu-id="cb08f-116">For an example of how to setup user groups to deploy Office updates, see [Deploy Microsoft 365 Apps from a local source](https://docs.microsoft.com/deployoffice/deploy-office-365-proplus-from-a-local-source).</span></span>
+-   <span data-ttu-id="cb08f-117">Overweeg de ForceAppShutdown-instelling te gebruiken voor het geval Office-updates niet worden toegepast op een paar gebruikers vanwege geopende Office-apps.</span><span class="sxs-lookup"><span data-stu-id="cb08f-117">Consider using the ForceAppShutdown setting in case Office updates are not getting applied to a few users because of open Office apps.</span></span> <span data-ttu-id="cb08f-118">Zie de eigenschap [FORCEAPPSHUTDOWN (onderdeel van Eigenschapelement) voor](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#forceappshutdown-property-part-of-property-element)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="cb08f-118">For more info, see the [FORCEAPPSHUTDOWN property (part of Property element)](https://docs.microsoft.com/deployoffice/configuration-options-for-the-office-2016-deployment-tool#forceappshutdown-property-part-of-property-element).</span></span> 
+
+<span data-ttu-id="cb08f-119">**Zie ook**</span><span class="sxs-lookup"><span data-stu-id="cb08f-119">**See also**</span></span>
+
+<span data-ttu-id="cb08f-120">[Overzicht van het updateproces voor Microsoft 365-apps](https://docs.microsoft.com/deployoffice/overview-of-the-update-process-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="cb08f-120">[Overview of the update process for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-the-update-process-for-office-365-proplus).</span></span>  
+<span data-ttu-id="cb08f-121">[Geef informatie vrij voor updates voor Microsoft 365 Apps](https://docs.microsoft.com/officeupdates/release-notes-office365-proplus).</span><span class="sxs-lookup"><span data-stu-id="cb08f-121">[Release information for updates to Microsoft 365 Apps](https://docs.microsoft.com/officeupdates/release-notes-office365-proplus).</span></span>  
+<span data-ttu-id="cb08f-122">[Updates voor Microsoft 365-apps beheren met Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager).</span><span class="sxs-lookup"><span data-stu-id="cb08f-122">[Manage updates to Microsoft 365 Apps with Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-updates-to-office-365-proplus-with-system-center-configuration-manager).</span></span>  
