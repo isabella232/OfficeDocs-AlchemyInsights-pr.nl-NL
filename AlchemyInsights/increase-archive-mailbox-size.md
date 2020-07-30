@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508803"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522838"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>De grootte van het archiefpostvak vergroten
+
+
+Als u wilt dat we geautomatiseerde controles uitvoeren voor de onderstaande instellingen, selecteert u de terugknop <- boven aan deze pagina en voert u het e-mailadres in van de gebruiker die de grootte van het archiefpostvak moet vergroten.
 
 Microsoft 365 [beperkt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) de grootte van archiefpostvakken op basis van de licentie die is toegewezen aan het gebruikersaccount. Wanneer het archiefpostvak 90% van de toegestane grootte bereikt, ontvangt de gebruiker een e-mailmelding. Wanneer een archiefpostvak de groottelimiet bereikt, kan de gebruiker niet meer items naar het archiefpostvak verplaatsen. Microsoft 365 vergroot de grootte van een archiefpostvak niet zodra de groottelimiet is bereikt. In plaats daarvan kunnen gebruikers de volgende acties uitvoeren om ruimte vrij te maken in het archiefpostvak:
 

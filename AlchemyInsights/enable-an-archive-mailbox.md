@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507021"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522730"
 ---
 # <a name="enable-an-archive-mailbox"></a>Een archiefpostvak inschakelen
+
+Als u wilt dat we geautomatiseerde controles uitvoeren om ervoor te zorgen dat een archiefpostvak kan worden geconfigureerd, selecteert u de terugknop <- boven aan deze pagina en voert u het e-mailadres van het account in.
 
 Archiefpostvakken in Microsoft 365 (ook wel *Online Archives* of In-Place Archives genoemd) bieden gebruikers extra *e-mailopslag.* Gebruikers kunnen items verplaatsen of kopiëren naar hun archiefpostvak en beheerders kunnen een archiefbeleid maken dat items automatisch verplaatst naar archiefpostvakken.
   
@@ -51,6 +53,6 @@ Ga als een van de gedeelde postvaks in om het archief in te schakelen:
 
 Zie voor meer informatie:
   
-- [Archiefpostvakken inschakelen](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
+- [Archiveren van postvakken inschakelen](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Een archief- en verwijderingsbeleid instellen](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
