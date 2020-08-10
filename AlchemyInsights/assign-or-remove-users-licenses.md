@@ -1,5 +1,5 @@
 ---
-title: Licenties van gebruikers toewijzen of verwijderen
+title: Gebruikerslicenties toewijzen of intrekken
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506366"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603405"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Licenties van gebruikers toewijzen of verwijderen
+# <a name="assign-or-remove-user-licenses"></a>Gebruikerslicenties toewijzen of intrekken
 
-Als beheerder u de licenties van uw gebruikers naar behoefte aanpassen. In de onderstaande artikelen ziet u hoe u de licenties van uw gebruikers beheren, waaronder:
+Als beheerder kunt u de licenties van de gebruikers naar wens aanpassen. In deze artikelen wordt uitgelegd hoe u uw gebruikerslicenties beheert:
   
-- [Licenties toewijzen aan gebruikers in Microsoft 365 voor bedrijven](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licenties toewijzen aan gebruikers in Microsoft 365 voor bedrijven](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [Licenties voor licenties van gebruikers in Microsoft 365 voor bedrijven niet toewijzen](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Licenties intrekken van gebruikers in Microsoft 365 voor bedrijven](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-Heb je je vraag niet beantwoord? Geen probleem! Gebruik de knop Hulp nodig om met een ondersteuningstechnicus te praten.
+Hebt u uw vraag niet beantwoord? Geen probleem! Gebruik de knop hulp nodig om met een ondersteuningsmedewerker te praten.
