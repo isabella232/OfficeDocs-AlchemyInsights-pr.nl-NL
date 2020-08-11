@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509019"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634301"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="55df3-102">Uw domein verifiëren</span><span class="sxs-lookup"><span data-stu-id="55df3-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="b96fc-102">Uw domein verifiëren</span><span class="sxs-lookup"><span data-stu-id="b96fc-102">How to verify your domain</span></span>
 
-<span data-ttu-id="55df3-103">Als u uw domein wilt verifiëren, moet u een TXT-record toevoegen aan uw domeinregistrar om te controleren of u eigenaar bent van uw domein.</span><span class="sxs-lookup"><span data-stu-id="55df3-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="55df3-104">Volg eerst de [wizard Domein toevoegen](https://portal.office.com/adminportal/home#/Domains/Wizard) door op **Domeininstellingen instellen** te klikken en \> **Domains** **vervolgens domein toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="55df3-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="55df3-105">Volg de instructies in [DNS-records maken bij een DNS-hostingprovider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) om een TXT-record toe te voegen om uw domein te verifiëren.</span><span class="sxs-lookup"><span data-stu-id="55df3-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="b96fc-103">Als u een domein wilt controleren, volgt u de [wizard domein toevoegen](https://portal.office.com/adminportal/home#/Domains/Wizard)of opent **u hand**matig  >  **Domains**  >  **domein toevoegen**.</span><span class="sxs-lookup"><span data-stu-id="b96fc-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="55df3-106">Voor andere domeinen problemen proberen de [domeinen FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="55df3-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="b96fc-104">Zie de instructies in [DNS-records toevoegen om uw](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)domein te koppelen voor meer informatie over het toevoegen van een TXT-record voor de verificatie van uw domein.</span><span class="sxs-lookup"><span data-stu-id="b96fc-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="b96fc-105">Zie de [Veelgestelde vragen over domeinen](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)voor andere domeinen vragen.</span><span class="sxs-lookup"><span data-stu-id="b96fc-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
