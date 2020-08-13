@@ -1,8 +1,8 @@
 ---
-title: Licenties toewijzen of niet toewijzen aan gebruikers
+title: Licenties toewijzen of intrekken voor gebruikers
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495982"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657062"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Licenties toewijzen of niet toewijzen aan gebruikers
+# <a name="assign-or-unassign-licenses-to-users"></a>Licenties toewijzen of intrekken voor gebruikers
 
-Een gebruiker heeft een licentie nodig om toegang te hebben tot services. Hier volgen stappen om een licentie van een gebruiker toe te **voegen, te wijzigen of te verwijderen.**
+Een gebruiker moet een licentie hebben om toegang te krijgen tot services. U kunt de volgende stappen alleen uitvoeren als u een licentie aan een gebruiker toewijst of intrekken.
   
-1. Ga in het beheercentrum naar **Users** \> [Gebruikers actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Ga in het Beheercentrum naar **gebruikers** van \> [actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Selecteer de rij van de gebruiker aan wie u een licentie wilt toewijzen.
+3. Selecteer in het rechterdeelvenster **Licenties en apps**.
+4. Vouw de sectie **licenties** uit, schakel de selectievakjes in of uit voor de licenties die u wilt toewijzen of intrekken en selecteer vervolgens **wijzigingen opslaan**.
 
-2. Selecteer de naam van de gebruiker voor wie u een licentie wilt toewijzen, wijzigen of verwijderen.
-
-3. Klik **op Productlicenties beheren**en selecteer de licentie die u aan deze gebruiker wilt toewijzen.
-
-    De standaardinstelling is dat alle services die zijn gekoppeld aan die licentie, automatisch worden toegewezen aan de gebruiker. Als u wilt beperken welke services beschikbaar zijn voor de gebruiker, schakelt u het selectievakje uit voor de services die u niet wilt dat die gebruiker heeft.
-
-4. Klik onder aan het deelvenster op **Wijzigingen opslaan**.
-
-Zie [Licenties toewijzen aan gebruikers](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)en [Licenties van gebruikers verwijderen](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)voor meer informatie.
+Zie [licenties toewijzen aan gebruikers](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)en [licenties intrekken voor gebruikers](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)voor meer informatie.
