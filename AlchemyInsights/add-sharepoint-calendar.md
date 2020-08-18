@@ -1,7 +1,7 @@
 ---
 title: Een SharePoint-agenda toevoegen
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 0668ed8270e9b70f17dd7f0cf87386fec95fda99
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43910999"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786719"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Een SharePoint-agenda toevoegen
 
-SharePoint-agenda's zijn klassieke lijsttypen die soms worden verward met Microsoft 365-groepsagenda's.
+SharePoint-Agenda's zijn klassieke lijst typen die soms worden verward met Microsoft 365-Groepsagenda's.
  
-Voer de volgende stappen uit om een SharePoint-agenda te maken:
+Als u een SharePoint-agenda wilt maken, voert u de volgende stappen uit:
  
-1.  Selecteer het tandwielpictogram **Instellingen** en selecteer **Vervolgens Een app toevoegen**.
-2.  Typ **Agenda** en druk in het zoekvak **Een app** zoeken op Enter.
-3.  Selecteer de app met de titel **Agenda**en voer vervolgens een naam voor uw agenda in.
+1.  Selecteer het tandwiel pictogram **instellingen** en selecteer vervolgens **een app toevoegen**.
+2.  In het vak **een app** zoeken typt u **agenda** en drukt u op ENTER.
+3.  Selecteer de app getiteld **agenda**en voer een naam in voor uw agenda.
 
-Zie [Meer informatie over Microsoft 365-groepen](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)voor meer informatie over Microsoft 365-groepen .
+Zie [informatie over Microsoft 365-groepen](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)voor meer informatie over microsoft 365 groepen.
 

@@ -1,7 +1,7 @@
 ---
 title: Een SharePoint-site maken
 ms.author: pebaum
-author: todmccoy
+author: pebaum
 ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: ba682f3c2b2600031f6856621691b1e0fba64113
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770850"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786560"
 ---
 # <a name="create-a-sharepoint-site"></a>Een SharePoint-site maken
 
-Sites maken of beheren vanuit [actieve sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) in het SharePoint-beheercentrum. Zie [Sites beheren in het nieuwe SharePoint-beheercentrum](https://docs.microsoft.com/sharepoint/manage-site-creation)voor meer informatie. 
+Sites maken of beheren op basis van [actieve sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) in het SharePoint-Beheercentrum. Zie [sites beheren in het nieuwe SharePoint-Beheercentrum](https://docs.microsoft.com/sharepoint/manage-site-creation)voor meer informatie. 
 
-## <a name="tips"></a>Tips:
+## <a name="tips"></a>Hoe
 
-- U **kunt geen** site maken met dezelfde URL van een bestaande site. Als u een site hebt verwijderd en de URL opnieuw wilt gebruiken, is het mogelijk dat de verwijderde site nog steeds bestaat onder [Verwijderde sites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). De site moet permanent worden verwijderd om de URL opnieuw te gebruiken. Zie het voorbeeld [Verwijderen-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet om een site volledig te verwijderen met Powershell.
-- Sommige gebruikers kunnen mogelijk geen site maken. [Zie Sitemaken beheren in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Het is mogelijk dat de site langer vast lijkt te zitten bij **Het maken** van langer dan verwacht. Als er meer dan 24 uur zijn verstreken sinds je dit probleem voor het eerst hebt gezien, log dan een ondersteuningsticket in. In veel gevallen werken we al aan een oplossing. Geef ons minstens 24 uur de tijd om een oplossing te vinden.
+- U **kunt** geen site maken met dezelfde URL van een bestaande site. Als u een site hebt verwijderd en de URL opnieuw wilt gebruiken, is de verwijderde site mogelijk aanwezig onder [Verwijderde sites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). De site moet permanent worden verwijderd om de URL opnieuw te gebruiken. Als u een site geheel wilt verwijderen met PowerShell, raadpleegt u het voorbeeld van de cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Sommige gebruikers kunnen geen site maken. [Zie sites maken in SharePoint Online beheren](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Het is mogelijk dat de site blijft hangen bij het **maken** van een langer dan verwacht. Als het probleem zich nog steeds voordoet, kunt u een ondersteuningsticket registreren als u meer dan 24 uur hebt verstreken sinds u het eerst hebt gezien. In veel gevallen werken we al met een oplossing. Geef ons minstens 24 uur om een oplossing te voltooien.

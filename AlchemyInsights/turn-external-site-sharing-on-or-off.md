@@ -1,7 +1,7 @@
 ---
-title: Machtigingen aanpassen voor een SharePoint-lijst of -bibliotheek
-ms.author: v-todmc
-author: todmccoy
+title: Extern delen in-of uitschakelen voor een site
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ea013e81a7d7be47b5e062794b8fee88d299478d
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43731693"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786776"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Extern delen in- of uitschakelen voor een site
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Extern delen in-of uitschakelen voor een site
 
-U moet een globale of SharePoint-beheerder zijn om de instelling voor extern delen voor een site te wijzigen (voorheen een 'siteverzameling' genoemd). Site-eigenaren mogen deze instelling niet wijzigen. 
+U moet een globale beheerder of SharePoint-beheerder zijn als u de instelling voor extern delen voor een site wilt wijzigen (voorheen een siteverzameling genoemd). Site-eigenaren zijn niet toegestaan deze instelling te wijzigen. 
 
-Zie [Extern delen in- of uitschakelen voor een site voor](https://docs.microsoft.com/sharepoint/change-external-sharing-site)meer informatie.
+Zie [extern delen in-of uitschakelen voor een site](https://docs.microsoft.com/sharepoint/change-external-sharing-site)voor meer informatie.

@@ -1,7 +1,7 @@
 ---
-title: Gebruikers uit een SharePoint-groep verwijderen
-ms.author: v-todmc
-author: todmccoy
+title: Gebruikers verwijderen uit een SharePoint-groep
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: c22bbf8ae5c6ff1dfdf729454330ebe498090581
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d2f1ead4de04bbecb55c805a9b085bc81029a2ae
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510675"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787352"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>Gebruikers uit een SharePoint-groep verwijderen
+# <a name="remove-users-from-a-sharepoint-group"></a>Gebruikers verwijderen uit een SharePoint-groep
 
-Een SharePoint-groep is een verzameling gebruikers die allemaal dezelfde set machtigingen hebben voor sites en inhoud. In plaats van machtigingen één persoon tegelijk toe te wijzen, u groepen gebruiken om gemakkelijk hetzelfde machtigingsniveau aan veel mensen tegelijk toe te wijzen.
+Een SharePoint-groep is een verzameling gebruikers die dezelfde set machtigingen voor sites en inhoud hebben. U kunt met groepen ook één persoon tegelijk toewijzen, maar u kunt groepen ook gebruiken om hetzelfde machtigingsniveau aan een groot aantal personen tegelijk toe te wijzen.
 
 - [Gebruikers uit een groep verwijderen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Leden toevoegen of verwijderen uit Microsoft 365-groepen met het beheercentrum](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Leden toevoegen aan of verwijderen uit Microsoft 365 groepen met behulp van het Beheercentrum](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

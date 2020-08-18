@@ -1,7 +1,7 @@
 ---
-title: SharePoint-sitemachtigingen aanpassen via SharePoint-groepen
-ms.author: v-todmc
-author: todmccoy
+title: Het aanpassen van SharePoint-site machtigingen via SharePoint-groepen
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 41a9279781601c8e7747d079a70e4905cdcfdcc2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 49a2ac93bf146f4f134785fffc536101a3f91fcf
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705152"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786200"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>SharePoint-sitemachtigingen aanpassen via SharePoint-groepen 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>Het aanpassen van SharePoint-site machtigingen via SharePoint-groepen 
 
-Een SharePoint-groep is een verzameling gebruikers die allemaal dezelfde set machtigingen hebben voor sites en inhoud. In plaats van machtigingen één persoon tegelijk toe te wijzen, u groepen gebruiken om gemakkelijk hetzelfde machtigingsniveau toe te wijzen aan veel mensen tegelijk.
+Een SharePoint-groep is een verzameling gebruikers die dezelfde set machtigingen voor sites en inhoud hebben. U kunt met groepen ook één persoon tegelijk toewijzen, maar u kunt groepen ook gebruiken om hetzelfde machtigingsniveau aan een groot aantal personen tegelijk toe te wijzen.
 
 [SharePoint-site machtigingen aanpassen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
