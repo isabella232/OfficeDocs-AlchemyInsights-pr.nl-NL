@@ -1,5 +1,5 @@
 ---
-title: Pensionering van Legacy eDiscovery Tools
+title: Pensionering van oudere eDiscovery-Hulpprogramma's
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650563"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902615"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensionering van Legacy eDiscovery Tools
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensionering van oudere eDiscovery-Hulpprogramma's
 
-Als gevolg van de nieuwe en verbeterde eDiscovery-functionaliteit in het Microsoft 365 Compliance Center worden in de komende maanden de volgende verouderde eDiscovery-tools en -opdrachten uitgeschakeld:
+Als gevolg van de nieuwe en verbeterde eDiscovery-functionaliteit in Microsoft 365 compliance, worden de volgende oudere eDiscovery-hulpprogramma's en Commandlets in de komende maanden buiten gebruik gesteld:
 
-- [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) en [In-Place Holds](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) in het Exchange-beheercentrum.
+- [In-place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) en [in-place bewarings ruimte](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) in het Exchange-Beheercentrum.
 
-- De Exchange Online PowerShell-cmdlets die In-Place eDiscovery en In-Place Holds ondersteunen. (Deze cmdlets zijn gezamenlijk geïdentificeerd als *-MailboxSearch cmdlets.) Dit omvat de volgende cmdlets:
+- De Exchange Online PowerShell-cmdlets die in-place eDiscovery en in-place bewaring ondersteunen. (Deze cmdlets worden gezamenlijk aangeduid als MailboxSearch-cmdlets.) Dit omvat de volgende cmdlets:
 
-    - [Nieuw-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Start-mailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
     - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- De [cmdlet Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) in Exchange Online PowerShell.
-- De volgende bewerkingen in de Exchange Web Services API:
+- De cmdlet [Search-mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) in Exchange Online PowerShell.
+- De volgende bewerkingen in de Exchange Web Services-API:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnMailboxen](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnMailboxen](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Geavanceerde eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Geavanceerd eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Tijdschema voor pensionering**:
-- 1 april 2020: U geen nieuwe zoekopdrachten en wachtadressen maken, maar u bestaande zoekopdrachten nog steeds uitvoeren, bewerken en verwijderen op eigen risico. Microsoft Support biedt geen ondersteuning meer voor In-Place eDiscovery & Holds in de EAC.
+**Tijdlijn voor pensionering**:
+- Woensdag **1 juli 2020** U kunt niet langer nieuwe zoekopdrachten en wachtruimten maken, maar u kunt op uw eigen risico bestaande zoekopdrachten uitvoeren, bewerken en verwijderen. Microsoft ondersteuning biedt niet langer ondersteuning voor in-place eDiscovery-& bewaard in het Exchange-Beheercentrum.
+    
+- Maandag **1 oktober 2020** In-place eDiscovery-& Bewaar functies in het Exchange-Beheercentrum worden in de modus alleen-lezen gezet, zodat u alleen bestaande zoekopdrachten en wachtstand kunt verwijderen.
 
-- 1 juli 2020: De In-Place eDiscovery & Holds-functionaliteit in de EAC wordt in een alleen-lezen modus geplaatst. Dit betekent dat u alleen bestaande zoekopdrachten en houdt verwijderen.
+**Zie voor meer informatie**:
 
-**Zie voor meer informatie:**
-
- - [Oudere eDiscovery-zoekopdrachten en -voorschriften migreren naar het Microsoft 365-compliancecentrum](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Pensionering van verouderde eDiscovery-tools](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Veelgestelde vragen over In-Place eDiscovery en In-Place Holds](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Verouderde eDiscovery-zoekopdrachten en wachtruimten naar het nalevings centrum voor Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Buitengebruikstelling van verouderde eDiscovery-hulpprogramma's](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Veelgestelde vragen over in-place eDiscovery en wachtstand](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
