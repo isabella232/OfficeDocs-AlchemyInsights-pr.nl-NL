@@ -1,5 +1,5 @@
 ---
-title: Privékanaal
+title: Privé kanaal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005433"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316194"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Privékanalen in Microsoft Teams
+# <a name="private-channels-in-microsoft-teams"></a>Persoonlijke kanalen in Microsoft teams
 
-Privékanalen is een nieuwe functie in Microsoft Teams. Houd er rekening mee dat privékanalen niet kunnen worden geconverteerd vanuit standaardkanalen of vice versa.
+Met persoonlijke kanalen in Microsoft teams maakt u de gerichte ruimten voor samenwerking binnen uw teams. Alleen de gebruikers in het team die eigenaren of leden van het privékanaal zijn, hebben toegang tot het kanaal. Iedereen, met inbegrip van gasten, kan worden toegevoegd als lid van een privékanaal, op voorwaarde dat ze al lid zijn van het team.
 
-Zie [Privékanalen in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels)voor meer informatie over privékanalen, zoals informatie over [het maken van privékanalen en lidmaatschapen](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) en [sharepoint-sites voor privékanalen.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites) 
+Voor meer informatie kunt u beginnen met [persoonlijke kanalen in Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Dit geldt ook voor informatie over het [maken van persoonlijke kanalen en](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [SharePoint-sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)voor lidmaatschap en private kanaal.
 
-**Let op:** Omdat configuratie voor het bewaren van privékanaalberichten nog niet wordt ondersteund, hebben huurders met een bewaarbeleid ingeschakeld niet standaard privékanalen ingeschakeld. Privékanalen kunnen worden ingeschakeld in het Team-beheercentrum. Houd er ook rekening mee dat, hoewel het bewaren van privékanaalberichten niet wordt ondersteund, het bewaren van bestanden die worden gedeeld in privékanalen, wordt ondersteund.
+**U hebt een nieuwe team eigenaar nodig?**
 
-**Heb je een nieuwe teameigenaar nodig?**
+Als uw persoonlijke kanaal eigenaar uw organisatie verlaat of van de groep verwijdert, wordt een lid van het persoonlijke kanaal automatisch gepromoveerd naar de eigenaar van het persoonlijke kanaal.
 
-Als je eigenaar van je privékanaal vertrekt, kun je via Teams Powershell een nieuwe teameigenaar toevoegen.
-
-
-- Ga [hier](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) om Teams Powershell te installeren.
-
-Hier is de cmdlet die u nodig hebt:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Zie [Teams PowerShell-overzicht](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)voor meer informatie over Teams Powershell.
+Beheerders kunnen ook [de levenscyclus van privé kanalen in Microsoft teams beheren](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) voor meer informatie over het beleid voor het beheren van de manier waarop u persoonlijke kanalen kunt maken, en manieren om query's te maken voor eDiscovery of juridische bewaring.
