@@ -2,7 +2,7 @@
 title: Wijzigen hoe vaak u betaalt
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939650"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364582"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="e04d5-102">Wijzigen hoe vaak u betaalt</span><span class="sxs-lookup"><span data-stu-id="e04d5-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="d0355-102">Wijzigen hoe vaak u betaalt</span><span class="sxs-lookup"><span data-stu-id="d0355-102">Change how often you pay</span></span>
 
-<span data-ttu-id="e04d5-103">Voer de volgende stappen uit in het Microsoft 365-beheercentrum om te wijzigen hoe vaak u wordt gefactureerd en voor een abonnement betaalt.</span><span class="sxs-lookup"><span data-stu-id="e04d5-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
-1. <span data-ttu-id="e04d5-104">Ga naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="e04d5-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="e04d5-105">Zoek het abonnement dat u wilt wijzigen.</span><span class="sxs-lookup"><span data-stu-id="e04d5-105">Find the subscription you want to change.</span></span> <span data-ttu-id="e04d5-106">Klik **in** de sectie Facturering naast **Maandelijks gefactureerd** of **jaarlijks gefactureerd**op **Bewerken**.</span><span class="sxs-lookup"><span data-stu-id="e04d5-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
-3. <span data-ttu-id="e04d5-107">Kies de optie voor hoe vaak u wilt worden gefactureerd en klik op **Wijzigen**.</span><span class="sxs-lookup"><span data-stu-id="e04d5-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+<span data-ttu-id="d0355-103">Als u wilt wijzigen hoe vaak u factureert en betaalt voor een abonnement, voert u de volgende stappen uit in het Microsoft 365-Beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="d0355-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="e04d5-108">**Opmerking:** Maandelijkse of jaarlijkse facturering zijn de enige opties.</span><span class="sxs-lookup"><span data-stu-id="e04d5-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+1. <span data-ttu-id="d0355-104">Ga naar de **Billing**  >  pagina[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.</span><span class="sxs-lookup"><span data-stu-id="d0355-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="d0355-105">Selecteer op het tabblad **Products** het abonnement dat u wilt wijzigen.</span><span class="sxs-lookup"><span data-stu-id="d0355-105">On the **Products** tab, select the subscription that you want to change.</span></span> 
+3. <span data-ttu-id="d0355-106">Selecteer op de pagina Details van abonnement in de sectie **Abonnementen en betalings instellingen** de optie **Factureringsfrequentie bewerken**.</span><span class="sxs-lookup"><span data-stu-id="d0355-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
+4. <span data-ttu-id="d0355-107">In het deelvenster **Factureringsfrequentie bewerken** shoose u de optie voor hoe vaak u wilt worden gefactureerd en selecteert u vervolgens **wijzigen**.</span><span class="sxs-lookup"><span data-stu-id="d0355-107">In the **Edit billing frequency** pane, shoose the option for how often you want to be billed, then select **Change**.</span></span>
 
-<span data-ttu-id="e04d5-109">Zie [Uw betalingsfrequentie wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)voor meer informatie .</span><span class="sxs-lookup"><span data-stu-id="e04d5-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
+<span data-ttu-id="d0355-108">**Opmerking**: maand-of jaar facturering zijn de enige opties.</span><span class="sxs-lookup"><span data-stu-id="d0355-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="d0355-109">Zie [Uw factureringsfrequentie wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="d0355-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>
