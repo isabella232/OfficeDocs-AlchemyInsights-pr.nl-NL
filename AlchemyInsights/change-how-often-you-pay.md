@@ -2,7 +2,7 @@
 title: Wijzigen hoe vaak u betaalt
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939650"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364582"
 ---
 # <a name="change-how-often-you-pay"></a>Wijzigen hoe vaak u betaalt
 
-Voer de volgende stappen uit in het Microsoft 365-beheercentrum om te wijzigen hoe vaak u wordt gefactureerd en voor een abonnement betaalt. 
-1. Ga naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Zoek het abonnement dat u wilt wijzigen. Klik **in** de sectie Facturering naast **Maandelijks gefactureerd** of **jaarlijks gefactureerd**op **Bewerken**. 
-3. Kies de optie voor hoe vaak u wilt worden gefactureerd en klik op **Wijzigen**.
+Als u wilt wijzigen hoe vaak u factureert en betaalt voor een abonnement, voert u de volgende stappen uit in het Microsoft 365-Beheercentrum.
 
-**Opmerking:** Maandelijkse of jaarlijkse facturering zijn de enige opties.
+1. Ga naar de **Billing**  >  pagina[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
+2. Selecteer op het tabblad **Products** het abonnement dat u wilt wijzigen. 
+3. Selecteer op de pagina Details van abonnement in de sectie **Abonnementen en betalings instellingen** de optie **Factureringsfrequentie bewerken**.
+4. In het deelvenster **Factureringsfrequentie bewerken** shoose u de optie voor hoe vaak u wilt worden gefactureerd en selecteert u vervolgens **wijzigen**.
 
-Zie [Uw betalingsfrequentie wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)voor meer informatie .
+**Opmerking**: maand-of jaar facturering zijn de enige opties.
+
+Zie [Uw factureringsfrequentie wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) voor meer informatie.
