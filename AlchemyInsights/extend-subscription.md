@@ -1,8 +1,8 @@
 ---
-title: Wat zijn mijn opties om uit te breiden
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Wat zijn mijn mogelijkheden om uit te breiden
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707727"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364726"
 ---
-# <a name="what-are-my-options-to-extend"></a>Wat zijn mijn opties om uit te breiden?
+# <a name="what-are-my-options-to-extend"></a>Wat zijn mijn mogelijkheden om uit te breiden?
 
-Voordat het abonnement de vervaldatum daadwerkelijk bereikt, hebt u een aantal opties:
+Voordat het abonnement daadwerkelijk de vervaldatum bereikt, hebt u een paar opties:
 
-- **Verleng uw proefperiode.**  Meer tijd nodig om Microsoft 365 te evalueren? In bepaalde gevallen u [uw proefperiode verlengen.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide)  
-- Terugkerende facturering voor het abonnement **inschakelen.** Als terugkerende facturering al is ingeschakeld, hoeft u geen actie te ondernemen. Uw abonnement wordt automatisch gefactureerd en er worden kosten in rekening gebracht voor een extra jaar of maand, afhankelijk van uw huidige betalingsfrequentie. Als u terugkerende facturering om welke reden dan ook hebt uitgeschakeld, u terugkerende facturering altijd [weer inschakelen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
-- Als u Microsoft 365 Apps voor bedrijven hebt gekocht met een **prepaidkaart,** u terugkerende facturering voor uw abonnement [inschakelen.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
-- Als u een klant bent met **een open volumelicentielicentie met** een prepaid abonnement van één jaar, neemt u contact op met uw partner om een nieuwe productcode te kopen. U ontvangt instructies via e-mail om uw sleutel te activeren in het [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Zie [Uw partner of reseller](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)zoeken voor meer informatie over het vinden van een nieuwe partner of de partner waarmee u in het verleden hebt samengewerkt.
-- Zie Terugkerende facturering voor uw abonnement beheren als u **Microsoft 365 Apps voor bedrijven** [hebt.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
+- **Uw proefabonnement verlengen**.  Hebt u meer tijd nodig om Microsoft 365 te evalueren? In bepaalde gevallen kunt u uw [proefabonnement mogelijk verlengen](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- **Schakel terugkerende facturering** voor het abonnement in. Als Periodieke facturering al is ingeschakeld, hoeft u niets te doen. Uw abonnement wordt automatisch gefactureerd en er wordt een extra jaar of maand in rekening gebracht, afhankelijk van uw huidige factureringsfrequentie. Als u om welke reden dan ook terugkerende facturering hebt uitgeschakeld, kunt u [terugkerende facturering altijd weer inschakelen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- Als u Microsoft 365-apps voor bedrijven hebt gekocht met een **prepaidkaart**, kunt u [Terugkerende facturering inschakelen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription) voor uw abonnement.
+- Als u een **Open Volume Licensing-klant** bent met een vooraf betaald abonnement van één jaar, neemt u contact op met de partner om een nieuwe productcode aan te schaffen. U ontvangt per e-mail instructies om de code te activeren in het [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Zie [Uw partner of reseller zoeken](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller) voor meer informatie over het zoeken naar een nieuwe partner of de partner waarmee u in het verleden hebt gewerkt.
+- Zie [Terugkerende facturering beheren voor uw abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)als u beschikt over **Microsoft 365-apps voor bedrijven**.
