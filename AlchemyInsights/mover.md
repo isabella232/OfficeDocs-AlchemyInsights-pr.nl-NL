@@ -1,5 +1,5 @@
 ---
-title: Verhuizer
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157555"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406321"
 ---
-# <a name="mover"></a><span data-ttu-id="92be5-102">Verhuizer</span><span class="sxs-lookup"><span data-stu-id="92be5-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="ec2fb-102">Mover</span><span class="sxs-lookup"><span data-stu-id="ec2fb-102">Mover</span></span>
 
-<span data-ttu-id="92be5-103">Op 21 oktober 2019 heeft Microsoft **Mover**overgenomen , een toonaangevende leverancier van cloudbestandsmigratie.</span><span class="sxs-lookup"><span data-stu-id="92be5-103">On October 21, 2019, Microsoft acquired **Mover**, a leading provider of cloud file migration.</span></span>
+<span data-ttu-id="ec2fb-103">Op 21 oktober 2019 heeft Microsoft de  **aandrijf wagen**aangeschaft, een toonaangevende provider van Cloud bestands migratie.</span><span class="sxs-lookup"><span data-stu-id="ec2fb-103">On October 21, 2019, Microsoft acquired  **Mover**, a leading provider of cloud file migration.</span></span>
 
-<span data-ttu-id="92be5-104">Voor meer informatie over Mover verwijzen wij u naar de volgende artikelen:</span><span class="sxs-lookup"><span data-stu-id="92be5-104">For more information on Mover, please reference the following articles:</span></span>
+<span data-ttu-id="ec2fb-104">Op de huidige tijd verstuurt u de [ondersteuningsaanvragen](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **hier**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span><span class="sxs-lookup"><span data-stu-id="ec2fb-104">At the current time,  [please direct any support requests](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [**here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span></span>  
 
-- [<span data-ttu-id="92be5-105">Verhuizersmigratiegidsen</span><span class="sxs-lookup"><span data-stu-id="92be5-105">Mover Migration Guides</span></span>](https://mover.io/guides/)
-- [<span data-ttu-id="92be5-106">Veelgestelde vragen over algemene migratie</span><span class="sxs-lookup"><span data-stu-id="92be5-106">General Migration FAQ</span></span>](https://mover.io/guides/general/)
-- [<span data-ttu-id="92be5-107">Mover-connectoren</span><span class="sxs-lookup"><span data-stu-id="92be5-107">Mover Connectors</span></span>](https://mover.io/connectors/)
+<span data-ttu-id="ec2fb-105">Zie de volgende artikelen voor meer informatie over het oververbinden.</span><span class="sxs-lookup"><span data-stu-id="ec2fb-105">For more information on Mover, please reference the following articles:</span></span>
 
-<span data-ttu-id="92be5-108">Op dit moment **kunt u eventuele ondersteuningsverzoeken richten aan** [support@mover.io](mailto:support@mover.io) om hulp bij het product.</span><span class="sxs-lookup"><span data-stu-id="92be5-108">At the current time, **please direct any support requests to** [support@mover.io](mailto:support@mover.io) for help with the product.</span></span> 
-
- 
+- [<span data-ttu-id="ec2fb-106">Migratiehandleidingen voor aandrijfnen</span><span class="sxs-lookup"><span data-stu-id="ec2fb-106">Mover Migration Guides</span></span>](https://mover.io/guides/)
+- [<span data-ttu-id="ec2fb-107">Algemene veelgestelde vragen over migratie</span><span class="sxs-lookup"><span data-stu-id="ec2fb-107">General Migration FAQ</span></span>](https://mover.io/guides/general/)
