@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277909"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406429"
 ---
 # <a name="microsoft-threat-protection"></a>Microsoft Threat Protection
 
-- [MTP overzicht](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Voorwaarden](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [MTP-overzicht](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [Vereisten](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Licentievereisten](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Hoe-om MTP in te schakelen](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [MTP inschakelen](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [MTP-probleemoplossing](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Het controleren van de licentieverlening: u moet worden toegewezen de factureringsbeheerder of globale lezer rol in azure AD om uw licentie weer te geven. Ga naar het [Admin Center](https://admin.microsoft.com/) en navigeer naar **facturerings** > **licenties** om uw bestaande licenties te bekijken.
+Licentieverlening controleren: u moet de rol Factureringsbeheerder of algemene lezer in azure AD toewijzen om uw licentie te bekijken. Ga naar het [Beheercentrum](https://admin.microsoft.com/) en ga naar **facturerings**  >  **licenties** om uw bestaande licenties weer te geven.
