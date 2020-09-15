@@ -1,26 +1,27 @@
 ---
-title: Ontbrekende termen in SharePoint Online-termenarchief
+title: Ontbrekende voorwaarden in het SharePoint Online-Termenarchief
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 773e68c7a9c9f89c94b280a05428be92cd8217a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43736821"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669423"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Ontbrekende termen in SharePoint Online-termenarchief
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Ontbrekende voorwaarden in het SharePoint Online-Termenarchief
 
-De termen in het SharePoint Online-termenarchief dat u verwacht te zien, worden niet weergegeven of worden met tussenpozen weergegeven.
+De voorwaarden in het SharePoint Online-Termenarchief dat u verwacht te zien, worden niet weergegeven of worden af en toe weergegeven.
   
-Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst zag, dient u een ondersteuningsaanvraag in te loggen. We begrijpen dat 24 uur een lange tijd lijkt. In veel gevallen werken we al aan een oplossing, dus geef ons minstens 24 uur.
+Als het probleem zich nog steeds voordoet, kunt u een ondersteuningsaanvraag registreren als u meer dan 24 uur hebt verstreken. We begrijpen dat 24 uur veel tijd in beslag kunnen lijken. In veel gevallen werken we al met een oplossing, dus gelieve ons minstens 24 uur te bieden.
   

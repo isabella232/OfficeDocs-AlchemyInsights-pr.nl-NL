@@ -6,28 +6,29 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 75e5c4b76192daa1793717c7e9534583e6c15c78
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760911"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672555"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Je Gmail-account toevoegen aan Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Uw Gmail-account toevoegen aan Outlook.com
 
-1. Open de [instellingen voor e-mail synchroniseren](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Selecteer **Gmail**onder **Verbonden accounts**.
-3. Voer een weergavenaam in (de naamontvangers zien wanneer ze een e-mailbericht van u ontvangen).
-4. Kies of Outlook.com uw e-mail uit Gmail moet importeren en waar geïmporteerde e-mail wordt opgeslagen.
-5. Selecteer **OK** om naar de aanmeldingspagina van Google te gaan.
+1. Open de [instellingen](https://go.microsoft.com/fwlink/?linkid=875264)voor het synchroniseren van e-mail.
+2. Selecteer onder **verbonden accounts**de optie **Gmail**.
+3. Voer een weergavenaam in (de naam geadresseerden zien wanneer ze een e-mailbericht van u ontvangen).
+4. Kies of Outlook.com uw e-mail van Gmail moet importeren en waar geïmporteerde e-mail wordt opgeslagen.
+5. Selecteer **OK** om naar de Google-aanmeldingspagina te gaan.
 
-Synchroniseren van een verbonden account naar uw Outlook.com-account is slechts één richting. E-mail die vanuit je Gmail-account wordt verzonden met Outlook.com wordt niet weergegeven in Verzonden items in Gmail.
+Het synchroniseren van een verbonden account met uw Outlook.com-account is slechts één manier. E-mail die u ontvangt van uw Gmail-account met behulp van Outlook.com, wordt niet weergegeven in verzonden items in Gmail.
 
-Je e-mail verzenden in Outlook.com vanuit je verbonden Gmail-account. Wanneer u een e-mail opstelt, selecteert u **Van** en kies u uw Gmail-adres of [werk u uw standaardadres van .](https://go.microsoft.com/fwlink/?linkid=875264)
+U kunt in Outlook.com e-mailberichten verzenden vanuit uw verbonden Gmail-account. Wanneer u een e-mailbericht opstelt, selecteert u **van** en kiest u uw Gmail-adres of [werkt u uw standaard van-adres](https://go.microsoft.com/fwlink/?linkid=875264)bij.
 
-Zie [Uw andere e-mailaccounts toevoegen aan Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.
+Zie [uw andere e-mailaccounts toevoegen aan Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.

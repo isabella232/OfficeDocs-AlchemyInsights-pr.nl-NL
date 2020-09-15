@@ -5,20 +5,21 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 6a04e92d99ce02f516c439b16fc5cd81e26218f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 07ac096452e603f05fd1b332bc318fdaa911340c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763104"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672807"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive is niet ingericht voor deze gebruiker
 
-Voor nieuw gemaakte accounts moeten gebruikers zich aanmelden bij het Microsoft 365-beheercentrum met hun eigen account en op OneDrive klikken om de voorziening van de OneDrive-site handmatig te starten.
+Voor nieuwe accounts dienen gebruikers zich aan te melden bij het Microsoft 365-Beheercentrum met hun eigen account en te klikken op OneDrive om het verlenen van de OneDrive-site handmatig te starten.
   
-Als de gebruiker echter al op OneDrive heeft geklikt en zijn persoonlijke site niet binnen 24 uur is ingericht, dient u een ondersteuningsticket in te loggen voor verdere hulp.
+Als de gebruiker echter al op OneDrive hebt geklikt en de persoonlijke site niet binnen 24 uur wordt ingericht, moet u een ondersteuningsticket registreren voor verdere ondersteuning.
   
 
