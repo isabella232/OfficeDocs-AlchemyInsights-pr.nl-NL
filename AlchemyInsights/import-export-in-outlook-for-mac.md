@@ -1,11 +1,12 @@
 ---
-title: import-export-in-outlook-voor-mac
+title: import-export-in-Outlook-voor-Mac
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724725"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667909"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Importeren/exporteren in Outlook voor Mac 
 
-Exporteren:
-1. Kies op het tabblad **Extra** de optie **Exporteren**.
-2. Kies in het vak **Opslaan als** onder **Favorieten**de map **Downloads** en selecteer **Opslaan**.
-3. Wanneer u de melding ziet dat de export is voltooid, selecteert u **Voltooien**.
+Voeren
+1. Kies op het tabblad **extra** de optie **exporteren**.
+2. Kies in het vak **Opslaan als** onder **Favorieten**de map **downloads** en selecteer **Opslaan**.
+3. Wanneer u de melding ziet dat het exporteren is voltooid, selecteert u **Voltooien**.
 
-Importeren:
-1. Kies op het tabblad **Extra** de optie **Importeren**.
-2. Selecteer **Outlook voor Windows-archiefbestand (.pst)** > **Doorgaan**.
-3. Zoek het PST-bestand op je Mac en kies **Importeren**.
-4. Wanneer het importproces is voltooid, kiest u **Voltooien**.
-5. De geïmporteerde items worden weergegeven in het navigatiedeelvenster onder **Op mijn computer**.
+Ingevoerde
+1. Kies op het tabblad **extra** de optie **importeren**.
+2. Selecteer Doorgaan met **Outlook voor Windows-archiefbestand (. PST)**  >  **Continue**.
+3. Zoek het PST-bestand op uw Mac en kies vervolgens **importeren**.
+4. Wanneer het importeren is voltooid, kiest u **Voltooien**.
+5. De geïmporteerde items worden weergegeven in het navigatiedeelvenster onder **op mijn computer**.
 
-Zie [E-mail, contactpersonen en agenda](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)importeren en exporteren voor volledige set import- en exportinstructies voor Outlook voor Mac. 
+Zie [e-mailberichten, contactpersonen en agenda van Outlook importeren en exporteren](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)voor meer informatie over het instellen van import-en export instructies voor Outlook voor Mac. 
 
-Als u ondersteuning wilt ontvangen voor Outlook voor Mac-problemen, opent u Outlook en selecteert u Ondersteuning**voor contactpersonen voor** **help** > . Typ uw vraag en een lid van het ondersteuningsteam van Outlook voor Mac neemt contact met u op. [Contact opnemen met ondersteuning in Outlook voor Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Als u ondersteuning wilt ontvangen in de app voor Outlook voor Mac-problemen, opent **u Outlook en selecteert u**  >  **contact opnemen met ondersteuning**. Typ uw vraag en een lid van het ondersteuningsteam van Outlook voor Mac krijgt contact met u. [Contact opnemen met ondersteuning in Outlook voor Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

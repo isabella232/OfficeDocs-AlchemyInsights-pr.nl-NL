@@ -1,33 +1,34 @@
 ---
-title: Moderniseer de klassieke startpagina
+title: De klassieke introductiepagina moderniseren
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600559"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666721"
 ---
-# <a name="modernize-the-classic-home-page"></a>Moderniseer de klassieke startpagina
+# <a name="modernize-the-classic-home-page"></a>De klassieke introductiepagina moderniseren
 
-Een recente update van de klassieke startpagina's van de SharePoint-teamsite is van invloed op de startpagina van klassieke teamsites (STS#0) wanneer een startpagina *alleen standaardwebonderdelen buiten het vak bevat,* zoals aan de slag gaan, documentbibliotheek en nieuwsfeed.
+Een recente update van de klassieke pagina's van de SharePoint-Team site is van invloed op de startpagina van de klassieke team sites (STS # 0) wanneer een startpagina *alleen kant-en-klare webonderdelen* , zoals aan de slag, documentbibliotheek en nieuwsfeed, staan.
 
-Bekijk [hier](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)een wandeling van de verandering. 
+Bekijk [hier](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)een overzicht van de wijziging. 
 
-**Opmerking: klassieke teamsites met aangepaste inhoud worden niet automatisch bijgewerkt.**
+**Opmerking: klassieke team sites met aangepaste inhoud worden niet automatisch bijgewerkt.**
 
-* Meer informatie over updatecriteria op [de modernisering van de klassieke startpagina.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
+* Meer informatie over bijwerkcriteria op de [klassieke startpagina voor modernisering](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
 
-* [Upgrade andere startpagina's die geen deel uitmaakten van de automatische modernisering.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
+* [Andere introductiepagina's upgraden die geen deel uitmaken van de automatische modernisering](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
 
-* Schakel deze upgrade uit op specifieke sites met behulp van een [PowerShell-cmdlet (SharePoint Patterns and Practices).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)
+* Deze upgrade uitschakelen voor specifieke sites met behulp van een [PowerShell-cmdlet voor SharePoint-patronen en-procedures](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).

@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: e63a58a73c84ae65e9ff562436f995c511d5cb85
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765696"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666217"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Hoe om te gaan met een phishing-e-mail in De webversie van Outlook
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Omgaan met een malafide e-mailbericht in de webversie van Outlook
 
-Een phishing scam is een e-mail die legitiem lijkt, maar is eigenlijk een poging om uw persoonlijke gegevens of geld te stelen. Oplichters kunnen ook gebruik maken van een techniek genaamd spoofing om het te laten lijken alsof je een e-mail van jezelf hebt ontvangen.
+Een malafide oplichting is een e-mailbericht dat legitiem wordt weergegeven, maar dat eigenlijk een poging is om uw persoonlijke gegevens of geld te stelen. Met scammers kunt u ook een zogenaamde ' spoofing ' gebruiken om de functie weer te geven als u zelf een e-mailbericht hebt ontvangen.
 
-Als u een e-mail ontvangt die lijkt op een phishing-scam, u dit melden door het bericht te selecteren en vervolgens **Ongewenste** > **phishing te**selecteren.
+Als u een e-mail ontvangt die er uitziet als een malafide e-mailbericht, kunt u deze melden door het bericht te selecteren en vervolgens **ongewenste e-mail**te selecteren  >  **Phishing**.
 
-*Let op:* Wanneer u een bericht markeert als phishing, wordt alleen de afzender gerapporteerd.Het blokkeert die afzender niet om u in de toekomst berichten te sturen. Als u de afzender wilt blokkeren, moet u de afzender toevoegen aan de lijst met geblokkeerde afzenders. Zie [Afzenders blokkeren of afzenders deblokkeren in de webversie van Outlook](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)voor meer informatie.
+*Opmerking:* Wanneer u een bericht als phishing markeert, wordt alleen de afzender gemeld.De afzender blokkeert geen berichten in de toekomst. Als u de afzender wilt blokkeren, moet u de afzender toevoegen aan uw lijst met geblokkeerde afzenders. Zie afzenders [blokkeren of deblokkeren in de webversie van Outlook](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)voor meer informatie.
 
 Meer informatie over het [identificeren van verdachte berichten in de webversie van Outlook](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
