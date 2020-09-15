@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549655"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686349"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Problemen met MDM-instantie in Microsoft intune oplossen
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Problemen oplossen met de MDM-Authority in Microsoft intune
 
-Hier volgen enkele nuttige artikelen over hoe u aan de slag gaat met intune:
+Hier volgen enkele nuttige artikelen over aan de slag met intune:
 
 - [Wat is intune?](https://docs.microsoft.com/intune/what-is-intune)
 - [InTune voor de eerste keer instellen](https://docs.microsoft.com/intune/setup-steps)
 - [InTune gebruiken en navigeren](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Als u problemen met uw MDM-instantie ondervindt, raadpleegt u [INTUNE MDM-instantie wijzigen](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Als u problemen ondervindt met uw MDM-autoriteit, raadpleegt u de [natune MDM-Authority wijzigen](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).

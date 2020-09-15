@@ -1,46 +1,47 @@
 ---
-title: Bypass lobby
+title: Lobby overslaan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889077"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684945"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Controle lobby instellingen en participatiegraad in teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>De lobby-instellingen en het niveau van deelname aan teams beheren
 
-Als u wilt toestaan dat iedereen, met inbegrip van inbellen, externe en anonieme gebruikers, **de lobby omzeilen**, gebruikt u PowerShell om deze taak te voltooien. Hier is een voorbeeld van het wijzigen van het algemene vergaderings beleid voor uw organisatie.
+Als u iedereen wilt toestaan, waaronder inbelverbindingen, externe gebruikers en anonieme gebruikers, kunt u dit voor **komen door Power**shell te gebruiken om deze taak uit te voeren. Hier ziet u een voorbeeld van het wijzigen van het globale beleid voor vergaderingen voor uw organisatie.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Deze cmdlet vereist momenteel het gebruik van Skype voor Business PowerShell-module. Als u wilt instellen voor het gebruik van deze cmdlet, uitchecken [beheerbeleid via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Voor deze cmdlet is momenteel het gebruik van de Skype voor bedrijven PowerShell-module vereist. Als u deze cmdlet wilt instellen voor het gebruik van deze cmdlet, raadpleegt u [beleid beheren via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Nadat u een beleid hebt ingesteld, moet u dit toepassen op gebruikers. Als u het algemene beleid hebt gewijzigd, wordt dit automatisch toegepast op gebruikers. Voor elke beleidswijziging moet u ten minste **4 uur tot 24 uur** wachten voordat het beleid van kracht wordt. 
+Wanneer u de beleidsregels hebt ingesteld, moet u deze op gebruikers toepassen. Als u het globale beleid hebt gewijzigd, wordt dit automatisch op gebruikers toegepast. Voor elke beleidswijziging moet u minimaal **4 uur tot 24 uur** lang wachten voordat de beleidsregels van kracht worden. 
 
-Controleer de onderstaande documentatie voordat u deze wijzigingen aanbrengt om precies te begrijpen wat dit toestaat.
+Lees de onderstaande documentatie voordat u deze wijzigingen aanbrengt in de onderstaande documentatie voordat u ze precies begrijpt wat dit toestaat.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Informatie over teams die voldoen aan lobbyen voor het beleid
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Meer informatie over de besturingselementen van het team van de teamvergadering
 
-Deze instellingen bepalen welke deelnemers aan de vergadering in de lobby wachten voordat ze worden toegelaten tot de vergadering en de mate van deelname die ze in een vergadering hebben toegestaan. U PowerShell gebruiken voor het bijwerken van vergadering beleidsinstellingen die nog niet zijn geïmplementeerd (met het label ' binnenkort beschikbaar ') in het Beheercentrum voor teams. Zie hieronder voor een voorbeeld PowerShell-cmdlet waarmee alle gebruikers de lobby omzeilen.
+Met deze instellingen wordt bepaald welke deelnemers aan de vergadering wachten voordat ze worden toegelaten tot de vergadering en het niveau van deelname aan een vergadering. U kunt PowerShell gebruiken voor het bijwerken van de beleidsinstellingen voor vergaderingen die nog niet zijn geïmplementeerd (met het label ' binnenkort beschikbaar ') in het Beheercentrum van teams. Zie hieronder voor een voorbeeld van een PowerShell-cmdlet waarmee alle gebruikers de lobby kunnen overslaan.
 
-- [Automatisch](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) toestaan dat mensen is een per-Organizer-beleid dat bepaalt of mensen rechtstreeks deelnemen aan een vergadering of wachten in de lobby totdat ze zijn toegestaan door een geverifieerde gebruiker.
+- [Personen automatisch toelaten](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) is een beleid per beheerder waarmee wordt bepaald of personen rechtstreeks deelnemen aan een vergadering of in de lobby wachten totdat ze worden toegelaten door een geverifieerde gebruiker.
 
-- [Toestaan dat anonieme mensen een vergadering starten](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) is een beleid per organisator dat bepaalt of anonieme personen, met inbegrip van B2B-en federatieve gebruikers, kunnen deelnemen aan de vergadering van de gebruiker zonder een geverifieerde gebruiker van de organisatie in aanwezigheid.
+- [Anonieme personen toestaan een vergadering te starten](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) is een beleid op basis van een beheerder waarmee wordt bepaald of anonieme gebruikers, waaronder B2B en federatieve gebruikers, kunnen deelnemen aan de vergadering van de gebruiker zonder geverifieerde gebruiker van de organisatie in aanwezigheid.
 
-- [Inbelgebruikers toestaan om de lobby te omzeilen](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**binnenkort beschikbaar**) is een beleid per organisator dat bepaalt of mensen die inbellen via de telefoon rechtstreeks deelnemen aan de vergadering of in de lobby wachten, ongeacht de instelling **mensen automatisch laten toegeven** .
+- [Toestaan dat inbelgebruikers de lobby overslaan](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**binnenkort**beschikbaar) is een beleidsregels van een beheerder waarmee wordt bepaald of personen die per telefoon inbellen bij de vergadering rechtstreeks of in de lobby wachten, ongeacht de instelling **personen automatisch toelaten** .
 
-- [Organisatoren toestaan om de instellingen van de lobby te negeren](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (binnenkort**beschikbaar**) is een per-Organizer-beleid dat bepaalt of de organisator van de vergadering de lobby-instellingen kan overschrijven die een beheerder heeft ingesteld in **automatisch mensen** **toestaan en inbelgebruikers de lobby laten omzeilen** wanneer ze een nieuwe vergadering plannen.
+- Organisatoren [toestaan de lobby-instellingen te negeren](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**binnenkort**beschikbaar) is een beleidsregels van een beheerder waarmee wordt bepaald of de organisator van de vergadering de instellingen voor de lobby kan overschrijven die een beheerder heeft ingesteld in het **automatisch toelaten** van gebruikers en **toestaan dat inbelgebruikers de lobby overslaan** wanneer ze een nieuwe vergadering plannen.
 
-**Opmerking:** Lees [beleid voor vergadering beheren in teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) voor een volledig overzicht van Microsoft-teams vergadering beleid.
+**Opmerking:** Lees [beleidsregels voor vergadering beheren in teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) voor een volledig overzicht van de Vergader regels van Microsoft teams.

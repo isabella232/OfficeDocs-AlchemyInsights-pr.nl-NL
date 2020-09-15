@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 5d01a1dc804640a22b7af9cdc36f733f40bff659
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: f8853e8ef5da1c06dfbd2b6c4cab7be63868ff8d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326077"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689373"
 ---
 # <a name="verify-your-domain-with-google-enom"></a>Uw domein verifiëren met Google (eNom)
 
-Als u uw domein wilt verifiëren, moet u een TXT-record toevoegen aan uw domeinregistrar om te controleren of u eigenaar bent van uw domein. 
+Als u uw domein wilt controleren, moet u een TXT-record aan uw domeinregistratie toevoegen om te bevestigen dat u eigenaar van uw domein bent. 
 
-Volg eerst de [wizard Domein toevoegen](https://portal.office.com/adminportal/home#/Domains) door **Instellingendomeinen** \> **** te selecteren en vervolgens **domein toevoegen**.
+Voer eerst de [wizard domein toevoegen](https://portal.office.com/adminportal/home#/Domains) uit door **instellingen** \> **domeinen**te selecteren en vervolgens **domein toevoegen**te selecteren.
   
 Zie [DNS-records maken wanneer uw domein wordt beheerd door Google (eNom)](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom) voor stapsgewijze instructies.
