@@ -1,30 +1,31 @@
 ---
-title: AntiSpam 5.4.1 DBEB catch-all
+title: Spam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707906"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717356"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a><span data-ttu-id="6967f-102">Leveringsproblemen oplossen voor foutcode 550 5.4.1 Relay-toegang geweigerd</span><span class="sxs-lookup"><span data-stu-id="6967f-102">Fix delivery issues for error code 550 5.4.1 Relay Access Denied</span></span>
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a><span data-ttu-id="b5f0b-102">Problemen met de bezorging bij foutcode 550 5.4.1 relay toegang geweigerd</span><span class="sxs-lookup"><span data-stu-id="b5f0b-102">Fix delivery issues for error code 550 5.4.1 Relay Access Denied</span></span>
 
-<span data-ttu-id="6967f-103">Dit probleem treedt op bij [het controleren of een e-mailadres geldig is om bouncebacks te voorkomen](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) bij het invoeren van het Microsoft-netwerk.</span><span class="sxs-lookup"><span data-stu-id="6967f-103">This problem occurs when [checking to see if an email address is valid to prevent bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) when entering the Microsoft network.</span></span> <span data-ttu-id="6967f-104">Probeer het volgende:</span><span class="sxs-lookup"><span data-stu-id="6967f-104">Try the following:</span></span>
+<span data-ttu-id="b5f0b-103">Dit probleem doet zich voor wanneer [u controleert of een e-mailadres geldig is om te voorkomen dat bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) bij het invoeren van het Microsoft-netwerk.</span><span class="sxs-lookup"><span data-stu-id="b5f0b-103">This problem occurs when [checking to see if an email address is valid to prevent bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) when entering the Microsoft network.</span></span> <span data-ttu-id="b5f0b-104">Probeert u het volgende:</span><span class="sxs-lookup"><span data-stu-id="b5f0b-104">Try the following:</span></span>
 
-1. <span data-ttu-id="6967f-105">Bepaal of het probleem specifiek is voor een heel domein of één e-mailadres:</span><span class="sxs-lookup"><span data-stu-id="6967f-105">Determine whether the problem is specific to an entire domain or a single email address:</span></span>
-    - <span data-ttu-id="6967f-106">Hele domein: Soms moet het domein worden gesynchroniseerd; probeer [het domein in te stellen op Intern en vervolgens terug naar Gezaghebbend](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).</span><span class="sxs-lookup"><span data-stu-id="6967f-106">Entire domain: Sometimes the domain needs to be synchronized; try [setting the domain to Internal and then back to Authoritative](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).</span></span>
-    - <span data-ttu-id="6967f-107">Eén e-mailadres: Soms moet het adres worden gesynchroniseerd; het wijzigen van de smtp proxy-adres en vervolgens het veranderen van het terug kan helpen.</span><span class="sxs-lookup"><span data-stu-id="6967f-107">Single email address: Sometimes the address needs to be synchronized; changing the smtp proxy address and then changing it back can help.</span></span>
-2. <span data-ttu-id="6967f-108">Bepaal of het probleem specifiek is voor een groep of openbare map.</span><span class="sxs-lookup"><span data-stu-id="6967f-108">Determine whether the problem is specific to a group or public folder.</span></span> <span data-ttu-id="6967f-109">Voor sommige objecttypen moeten de objecten mogelijk handmatig worden gemaakt in Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6967f-109">For some object types, the objects may need to be manually created in Azure Active Directory.</span></span>
+1. <span data-ttu-id="b5f0b-105">Bepalen of het probleem specifiek is voor een volledig domein of één e-mailadres:</span><span class="sxs-lookup"><span data-stu-id="b5f0b-105">Determine whether the problem is specific to an entire domain or a single email address:</span></span>
+    - <span data-ttu-id="b5f0b-106">Volledig domein: soms moet het domein worden gesynchroniseerd. [Stel het domein in op interne en vervolgens terug naar de gemachtigde](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).</span><span class="sxs-lookup"><span data-stu-id="b5f0b-106">Entire domain: Sometimes the domain needs to be synchronized; try [setting the domain to Internal and then back to Authoritative](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).</span></span>
+    - <span data-ttu-id="b5f0b-107">Eén e-mailadres: soms moet het adres worden gesynchroniseerd. Als u het adres van de SMTP-proxy wijzigt en daarna weer overschakelt, kan dit helpen.</span><span class="sxs-lookup"><span data-stu-id="b5f0b-107">Single email address: Sometimes the address needs to be synchronized; changing the smtp proxy address and then changing it back can help.</span></span>
+2. <span data-ttu-id="b5f0b-108">Bepalen of het probleem specifiek is voor een groep of openbare map.</span><span class="sxs-lookup"><span data-stu-id="b5f0b-108">Determine whether the problem is specific to a group or public folder.</span></span> <span data-ttu-id="b5f0b-109">Voor sommige objecttypen moet u de objecten mogelijk handmatig maken in azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="b5f0b-109">For some object types, the objects may need to be manually created in Azure Active Directory.</span></span>
 
-<span data-ttu-id="6967f-110">Als je extra hulp nodig hebt, open dan een ondersteuningsticket en geef de omvang van het probleem op (inclusief het type object waarnaar je stuurt) zodat we je beter kunnen helpen.</span><span class="sxs-lookup"><span data-stu-id="6967f-110">If you need additional help, please open a support ticket and specify the scope of the issue (including the type of object you're sending to) so we can assist you better.</span></span>
+<span data-ttu-id="b5f0b-110">Als u extra hulp nodig hebt, opent u een ondersteuningsticket en geeft u het bereik van het probleem op, zoals het type object dat u verzendt, zodat we u beter kunnen helpen.</span><span class="sxs-lookup"><span data-stu-id="b5f0b-110">If you need additional help, please open a support ticket and specify the scope of the issue (including the type of object you're sending to) so we can assist you better.</span></span>
