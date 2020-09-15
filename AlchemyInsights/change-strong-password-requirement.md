@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: a054735a0c139c90d76098297bb9984d37464d3b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706556"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681867"
 ---
 # <a name="change-strong-password-requirement"></a>Sterke wachtwoordvereisten wijzigen
 
-Microsoft vereist standaard sterke wachtwoorden. 
+Voor Microsoft is standaard sterke wachtwoorden vereist. 
 
-Met PowerShell u met deze opdracht sterke wachtwoorden voor specifieke gebruikers uitschakelen:<br>
-*Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired $false*
+Met behulp van PowerShell kunt u sterke wachtwoorden voor specifieke gebruikers uitschakelen met deze opdracht:<br>
+*Set-MsolUser – UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $False*
 
 - [Meer informatie over wachtwoordbeleid](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
 - [Verbinding maken met Microsoft 365 met PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)

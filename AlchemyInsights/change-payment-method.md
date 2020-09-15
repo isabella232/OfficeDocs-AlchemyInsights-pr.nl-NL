@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154513"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681810"
 ---
 # <a name="change-payment-method"></a>Betalingswijze wijzigen
 
-U de betalingsmethode wijzigen vanuit het **Microsoft 365-beheercentrum**.
+U kunt de betaalwijze wijzigen via het **Microsoft 365-Beheercentrum**.
   
-1. Ga in het beheercentrum **Billing**naar de pagina  >  **Factureringsrekeningen &**  >  [betalingsmethoden betalingsmethoden.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
-2. Selecteer de rij van de betalingsmethode die u wilt vervangen. In het rechterdeelvenster worden alle factureringsprofielen en afzonderlijke abonnementen weergegeven die de geselecteerde betalingsmethode gebruiken.
-3. Selecteer in het rechterdeelvenster **de betalingsmethode vervangen voor alle objecten**.
-4. Als u een bestaande betalingsmethode wilt gebruiken, kiest u er een in de vervolgkeuzelijst en selecteert u **Vervangen.**
+1. Ga in het Beheercentrum naar de pagina **facturerings**  >  **&** betaal  >  [methoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) voor betalingen.
+2. Selecteer de rij met de betaalwijze die u wilt vervangen. Het rechterdeelvenster bevat alle facturerings profielen en afzonderlijke abonnementen die gebruikmaken van de geselecteerde betaalwijze.
+3. Selecteer in het rechterdeelvenster de optie **betalingsmethode vervangen voor alle items**.
+4. Als u een bestaande betaalwijze wilt gebruiken, kiest u een in de vervolgkeuzelijst en selecteert u vervolgens **vervangen**.
     > [!NOTE]
-    > Als u abonnementen hebt die zijn gekoppeld aan een factureringsprofiel, u alleen een creditcard of betaalkaart gebruiken om ervoor te betalen. Als u bankrekeningen hebt vermeld op de pagina **Betalingsmethoden,** zijn ze niet beschikbaar om te selecteren in de vervolgkeuzelijst.
-5. Als u een nieuwe betalingsmethode wilt toevoegen, selecteert u **Betalingsmethode toevoegen**.
-6. Voer in het deelvenster **Een betalingsmethode toevoegen** de accountgegevens in en selecteer **Opslaan**. U moet een betalingsmethode uit hetzelfde land gebruiken als uw tenant.
-7. De nieuwe betalingsmethode is al geselecteerd in de vervolgkeuzelijst. Selecteer **Vervangen**.
+    > Als u abonnementen hebt die zijn gekoppeld aan een facturerings profiel, kunt u een creditcard of betaalkaart gebruiken om hiervoor een factuur te betalen. Als u op de pagina **betaalwijzen** bankrekeningen hebt vermeld, kunnen ze niet selecteren in de vervolgkeuzelijst.
+5. Als u een nieuwe betalingsmethode wilt toevoegen, selecteert u **betalingsmethode toevoegen**.
+6. Voer in het deelvenster **een betalingswijze toevoegen** de accountgegevens in en selecteer **Opslaan**. U moet een betaalwijze gebruiken van hetzelfde land als uw Tenant.
+7. De nieuwe betalingswijze is al geselecteerd in de vervolgkeuzelijst. Selecteer **vervangen**.
 
-Zie [Betalingsmethoden beheren voor](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)meer informatie.
+Zie voor meer informatie [betalingsmethoden beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Zie [Wijzigen van creditcard of bankrekening naar factuur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)voor meer informatie over het van betalen met creditcard naar factuur.
+Zie [wijzigen van creditcard of bankrekening op factuur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)voor informatie over hoe u kunt wijzigen van betaling per creditcard naar betaling per factuur.

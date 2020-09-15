@@ -1,21 +1,22 @@
 ---
-title: 400 Kalender - FreeBusy
+title: 400 agenda-beschikbaarheidsinfo
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711842"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684045"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problemen met het bekijken van agendavrije/drukke informatie
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problemen met het bekijken van beschikbaarheidsinfo in de agenda
 
-Als u agendavrije/drukke gegevens niet zien in andere Outlook-agenda's of als andere mensen geen vrije/drukke informatie in uw agenda kunnen zien, gebruikt u de [Microsoft Support- en Herstelassistent voor Microsoft 365](https://diagnostics.office.com/).
+Als u beschikbaarheidsinfo van agenda niet ziet in andere Outlook-agenda's of als andere personen de beschikbaarheidsinfo in de agenda niet kunnen zien, gebruikt u [Microsoft ondersteuning en herstel ondersteuning voor Microsoft 365](https://diagnostics.office.com/).
