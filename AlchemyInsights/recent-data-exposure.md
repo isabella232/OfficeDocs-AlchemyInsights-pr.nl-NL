@@ -1,26 +1,27 @@
 ---
-title: Recente blootstelling aan gegevens
+title: Nieuwste belichtingsgegevens
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724909"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693226"
 ---
-# <a name="recent-data-exposure"></a><span data-ttu-id="e17d1-102">Recente blootstelling aan gegevens</span><span class="sxs-lookup"><span data-stu-id="e17d1-102">Recent data exposure</span></span>
+# <a name="recent-data-exposure"></a><span data-ttu-id="8030c-102">Nieuwste belichtingsgegevens</span><span class="sxs-lookup"><span data-stu-id="8030c-102">Recent data exposure</span></span>
 
-<span data-ttu-id="e17d1-103">Microsoft werd door een externe onderzoeker ervan op de hoogte gebracht dat een database met geredigeerde Microsoft-ondersteuningsgegevens toegankelijk was zonder verificatie.</span><span class="sxs-lookup"><span data-stu-id="e17d1-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="e17d1-104">Op 31 december 2019 heeft Microsoft de database beveiligd.</span><span class="sxs-lookup"><span data-stu-id="e17d1-104">On December 31, 2019, Microsoft secured the database.</span></span>
+<span data-ttu-id="8030c-103">Microsoft is op de hoogte gesteld van een onderzoeker van derden dat een database waarop Microsoft-ondersteuningsgegevens is geredigeerd, zonder verificatie toegankelijk is.</span><span class="sxs-lookup"><span data-stu-id="8030c-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="8030c-104">Op 31 december 2019 beveiligt Microsoft de database.</span><span class="sxs-lookup"><span data-stu-id="8030c-104">On December 31, 2019, Microsoft secured the database.</span></span>
 
-<span data-ttu-id="e17d1-105">We zijn toegewijd aan de privacy en veiligheid van onze klanten en ondernemen actie om toekomstige gebeurtenissen van dit probleem te voorkomen.</span><span class="sxs-lookup"><span data-stu-id="e17d1-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="e17d1-106">We zijn begonnen met meldingen aan klanten waarvan de gegevens aanwezig waren in deze geredigeerde database.</span><span class="sxs-lookup"><span data-stu-id="e17d1-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="e17d1-107">Ga voor meer informatie naar [informatie over klantbekendheid met betrekking tot een recente informatieblootstelling.](https://aka.ms/privacyinfo)</span><span class="sxs-lookup"><span data-stu-id="e17d1-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>
+<span data-ttu-id="8030c-105">We zijn belangrijk voor de privacy en de veiligheid van onze klanten en ondernemen actie om toekomstige gevallen van dit probleem te voorkomen.</span><span class="sxs-lookup"><span data-stu-id="8030c-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="8030c-106">We hebben meldingen ontvangen voor klanten wiens gegevens zijn opgenomen in deze geredigeerde database.</span><span class="sxs-lookup"><span data-stu-id="8030c-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="8030c-107">Ga voor meer informatie naar informatie over [klant bewustmaking met betrekking tot een recente informatie over de blootstelling](https://aka.ms/privacyinfo).</span><span class="sxs-lookup"><span data-stu-id="8030c-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>
