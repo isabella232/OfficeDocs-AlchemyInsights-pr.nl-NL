@@ -1,10 +1,11 @@
 ---
-title: 717 gebruikers toestaan e-mail als een distributielijst te verzenden
+title: 717 waarmee gebruikers e-mail kunnen verzenden als een distributielijst
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768255"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718112"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Toestaan dat gebruikers e-mail verzenden als distributiegroep
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Gebruikers toestaan e-mail te verzenden als een distributiegroep
 
-Voer de volgende stappen uit om gebruikers toe te staan berichten te verzenden die afkomstig lijken te zijn van een bestaande distributiegroep:
+Ga als volgt te werk als u wilt toestaan dat gebruikers berichten verzenden die afkomstig zijn van een bestaande distributiegroep:
 
-1. Ga in het [Beheercentrum van Exchange](https://outlook.office365.com/ecp/)naar **** \> **groepen**geadresseerden.
+1. Ga in het [Exchange Admin Center](https://outlook.office365.com/ecp/)naar groepen met **geadresseerden** \> **Groups**.
 
 2. Selecteer de distributiegroep die u wilt wijzigen en klik vervolgens op **bewerken**.
 
-3. In de eigenschappen van de groep, gaat u naar de **groeps delegering** tabblad om op te geven van de gebruikers die kunnen verzenden als of verzenden namens de distributiegroep.
+3. Ga in de eigenschappen van de groep naar het tabblad **groeps delegatie** om de gebruikers op te geven die namens de distributiegroep kunnen verzenden of verzenden.
 
-Zie [e-mail opties](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation)voor meer informatie.
+Zie voor meer informatie [e-mail opties](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).

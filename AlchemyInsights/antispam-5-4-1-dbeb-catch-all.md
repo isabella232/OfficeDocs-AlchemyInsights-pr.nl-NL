@@ -1,30 +1,31 @@
 ---
-title: AntiSpam 5.4.1 DBEB catch-all
+title: Spam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707906"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717356"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Leveringsproblemen oplossen voor foutcode 550 5.4.1 Relay-toegang geweigerd
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Problemen met de bezorging bij foutcode 550 5.4.1 relay toegang geweigerd
 
-Dit probleem treedt op bij [het controleren of een e-mailadres geldig is om bouncebacks te voorkomen](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) bij het invoeren van het Microsoft-netwerk. Probeer het volgende:
+Dit probleem doet zich voor wanneer [u controleert of een e-mailadres geldig is om te voorkomen dat bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) bij het invoeren van het Microsoft-netwerk. Probeert u het volgende:
 
-1. Bepaal of het probleem specifiek is voor een heel domein of één e-mailadres:
-    - Hele domein: Soms moet het domein worden gesynchroniseerd; probeer [het domein in te stellen op Intern en vervolgens terug naar Gezaghebbend](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Eén e-mailadres: Soms moet het adres worden gesynchroniseerd; het wijzigen van de smtp proxy-adres en vervolgens het veranderen van het terug kan helpen.
-2. Bepaal of het probleem specifiek is voor een groep of openbare map. Voor sommige objecttypen moeten de objecten mogelijk handmatig worden gemaakt in Azure Active Directory.
+1. Bepalen of het probleem specifiek is voor een volledig domein of één e-mailadres:
+    - Volledig domein: soms moet het domein worden gesynchroniseerd. [Stel het domein in op interne en vervolgens terug naar de gemachtigde](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Eén e-mailadres: soms moet het adres worden gesynchroniseerd. Als u het adres van de SMTP-proxy wijzigt en daarna weer overschakelt, kan dit helpen.
+2. Bepalen of het probleem specifiek is voor een groep of openbare map. Voor sommige objecttypen moet u de objecten mogelijk handmatig maken in azure Active Directory.
 
-Als je extra hulp nodig hebt, open dan een ondersteuningsticket en geef de omvang van het probleem op (inclusief het type object waarnaar je stuurt) zodat we je beter kunnen helpen.
+Als u extra hulp nodig hebt, opent u een ondersteuningsticket en geeft u het bereik van het probleem op, zoals het type object dat u verzendt, zodat we u beter kunnen helpen.
