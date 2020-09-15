@@ -1,26 +1,27 @@
 ---
-title: "'OneDrive-account wordt verwijderd' bericht"
+title: Bericht ' OneDrive-account wordt verwijderd '
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 954003081073312562941352b73afe5fa07bd4d1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b8e1a4617dc2560b5255b530c121324c5cfb4c1a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761199"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673312"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Bericht 'OneDrive-account wordt verwijderd'
+# <a name="onedrive-account-will-be-deleted-message"></a>Bericht ' OneDrive-account wordt verwijderd '
 
-Als je een e-mail hebt ontvangen van email@mail.onedrive.com waarschuwing dat 'Je OneDrive-account wordt verwijderd', houd er dan rekening mee dat dit je persoonlijke OneDrive.com-account is, niet je OneDrive voor Bedrijven-account. 
+Als u een e-mailbericht hebt ontvangen van email@mail.onedrive.com, geeft u aan dat uw OneDrive-account wordt verwijderd, geen account van OneDrive voor bedrijven. 
   
-Als u niet zeker weet of u persoonlijke OneDrive gebruikt, meldt u zich aan bij onedrive.com om uw account opnieuw te activeren en te controleren.
+Als u niet zeker weet of u de persoonlijke OneDrive gebruikt, meldt u zich aan bij onedrive.com om uw account opnieuw te activeren en opnieuw te controleren.
   
-Zie [Waarom heb ik een e-mail ontvangen waarin staat dat je account wordt verwijderd?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Voor meer informatie raadpleegt [u waarom heb ik een e-mail ontvangen met de mededeling dat uw account wordt verwijderd?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

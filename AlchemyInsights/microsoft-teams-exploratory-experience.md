@@ -1,27 +1,28 @@
 ---
-title: Verkennende ervaring van Microsoft Teams
+title: Experimentele ervaring met Microsoft teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674933"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Verkennende ervaring van Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>Experimentele ervaring met Microsoft teams
 
-Met de verkennende ervaring van Microsoft Teams kunnen gebruikers in uw organisatie die Azure Active Directory (AAD) hebben en geen licentie hebben voor Teams, een verkennende ervaring van Teams initiëren. Beheerders kunnen deze functie in- of uitschakelen voor gebruikers in hun organisatie. (De eerdere Microsoft Commercial Cloud Trial heet nu The Teams Exploratory experience.)
+Met de experimentele ervaring van Microsoft teams kunnen gebruikers in uw organisatie die Azure Active Directory (AAD) hebben en geen licentie voor teams initiëren, een experimentele ervaring van teams initiëren. Beheerders kunnen deze functie in- of uitschakelen voor gebruikers in de organisatie. (De eerdere Microsoft Commercial Cloud-proefversie heet nu de experimentele ervaring voor teams.)
 
-De verkennende ervaring van Microsoft Teams is zonder extra kosten beschikbaar tot uw volgende verjaardag of verlenging van uw ondernemingsovereenkomst op of na januari 2021. Op dat moment moeten eindgebruikers met een Microsoft Exploratory experience-licentie overstappen naar een betaalde licentie die Teams bevat.
+De verenigings ervaring van Microsoft teams is zonder extra kosten beschikbaar tot uw volgende Enterprise Agreement-jubileum of-verlenging op of na januari 2021. Op die manier dienen eindgebruikers van een Microsoft-licentie voor Microsoft-ervaring te overstappen naar een betaalde licentie die teams bevat.
 
-Zie [De verkennende licentie van Microsoft Teams beheren](https://docs.microsoft.com/microsoftteams/teams-exploratory/)voor meer informatie.
+Zie [de Microsoft teams-Verkennenings licentie beheren](https://docs.microsoft.com/microsoftteams/teams-exploratory/)voor meer informatie.

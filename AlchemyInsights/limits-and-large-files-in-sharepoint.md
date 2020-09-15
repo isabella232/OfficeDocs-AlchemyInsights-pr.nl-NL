@@ -6,28 +6,29 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 78c952dc27e2a201c3379dcce62d0c2ee7dc26d6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762708"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675761"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Bestanden die niet kunnen worden geüpload naar SharePoint Online
 
-Als een bestand niet wordt geüpload naar SharePoint Online, moet u het als volgen:
+Als een bestand niet kan worden geüpload naar SharePoint Online, controleert u het volgende:
   
-- Het is minder dan 15 GB groot.
+- De grootte van het bestand is minder dan 15 GB.
     
-- Het hele pad, inclusief de bestandsnaam, is minder dan 400 tekens.
+- Het volledige pad, inclusief de bestandsnaam, is minder dan 400 tekens.
     
-- De bestandsnaam bevat niet de \* \< \> tekens " : ? / \ | en staat niet op de lijst met [ongeldige namen.](https://go.microsoft.com/fwlink/?linkid=866430)
+- De bestandsnaam bevat niet de tekens " \* : \< \> ? / \ | en staat niet in de lijst met [ongeldige namen](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Zie Beperkingen en beperkingen wanneer u bestanden en mappen [synchroniseert](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) of [OneDrive-synchronisatieproblemen oplost.](https://go.microsoft.com/fwlink/?linkid=866431)
+Als u het bestand wilt uploaden met de OneDrive-bureaublad-app, raadpleegt [u beperkingen en limieten bij het synchroniseren van bestanden en mappen](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) of voor het [oplossen van synchronisatieproblemen in OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 
