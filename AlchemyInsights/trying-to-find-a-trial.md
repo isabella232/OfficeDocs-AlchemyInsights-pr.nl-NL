@@ -1,11 +1,12 @@
 ---
-title: Probeer je een proces te vinden?
+title: Probeert u een proefabonnement te vinden?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732325"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658369"
 ---
-# <a name="trying-to-find-a-trial"></a>Probeer je een proces te vinden?
+# <a name="trying-to-find-a-trial"></a>Probeert u een proefabonnement te vinden?
 
-Als u een nieuwe service wilt proberen, u een lijst met abonnementen vinden die beschikbaar zijn voor proefversie in het Microsoft 365-beheercentrum.
+Als u een nieuwe service wilt uitproberen, vindt u een lijst met beschikbare abonnementen voor proefversies in het Microsoft 365-Beheercentrum.
   
-1. Ga in het beheercentrum naar de pagina Services [voor factureringsaankopen.](https://go.microsoft.com/fwlink/p/?linkid=868433) **Billing** \>
+1. Ga in het Beheercentrum naar de pagina Services voor het kopen van **facturen** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Selecteer het abonnement dat aan uw behoeften voldoet en selecteer **Gratis proefversie krijgen.**
+2. Selecteer het abonnement dat aan uw behoeften voldoet en selecteer  **gratis proefperiode**.
 
     > [!NOTE]
-    > Niet alle abonnementen zijn beschikbaar als proefversie. Als u de gratis **proefabonnement** niet ziet wanneer u met de muis over een abonnement stapt, betekent dit dat er geen proefversie beschikbaar is.
+    > Niet alle abonnementen zijn beschikbaar als proefversie. Als u de knop **gratis proefversie** niet ziet wanneer u de muisaanwijzer op een abonnement plaatst, betekent dit dat er geen proefversie beschikbaar is.
   
-3. Mogelijk wordt u gevraagd om een creditcard of andere betalingsmethode in te voeren om extra verificatie als beveiligingsmaatregel te bieden. Er worden geen kosten in rekening gebracht voor deze gratis proefperiode. We bewaren uw betalingsgegevens in het bestand en gebruiken deze niet voor een aankoop zonder uw toestemming.
+3. U wordt mogelijk gevraagd een creditcard of een andere betalingswijze te typen om extra verificatie te geven als beveiligingsmaatregel. U betaalt geen kosten voor deze gratis proefperiode. We bewaren uw betaalgegevens voor het bestand en zullen deze niet gebruiken voor aankoop zonder de goedkeuring.
 
-4. Kies **Nu proberen**.
+4. Kies **nu proberen**.

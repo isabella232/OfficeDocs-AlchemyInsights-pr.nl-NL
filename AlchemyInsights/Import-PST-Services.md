@@ -1,11 +1,12 @@
 ---
-title: 1245-Import-PST-Services
+title: 1245-import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 054203a196fc9ea7157a3eb2c99efc6f98a191aa
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502530"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664057"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Import-service
+# <a name="microsoft-365-import-service"></a>Microsoft 365-import Service
 
-Met de Microsoft 365 Import-service u meerdere PST-bestanden in bulk importeren in Exchange Online-postvakken.
+Met de Microsoft 365-import service kunt u bulksgewijs meerdere PST-bestanden importeren in Exchange Online-postvakken.
 
-Ga alst u naar de importservice en start het importproces:
+De import service openen en het importproces starten:
 
-1. Ga naar het [Security & Compliance Center](https://protection.office.com) en meld je aan met de referenties voor een beheerdersaccount in uw organisatie.
+1. Ga naar de [beveiligings & nalevings centrum](https://protection.office.com) en meld u aan met de referenties van een beheerdersaccount in uw organisatie.
 
-2. Klik in het linkerdeelvenster van het **Security & Compliance Center**op **Gegevensbeheer > Importeren**.
+2. Klik in het linkerdeelvenster van het **nalevings centrum voor de beveiligings &** op **Data Governance > importeren**.
 
-3. Klik op de pagina **Importeren** op **Nieuwe importtaak**.
+3. Klik op de pagina **importeren** op **nieuwe import taak**.
 
-4. Als u de stappen in de wizard wilt voltooien, volgt u deze [stapsgewijze instructies](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. Voer deze [Stapsgewijze instructies](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)uit om de stappen in de wizard te voltooien.
 
-**Belangrijk**: Als u toegang wilt krijgen tot de pagina **Importeren** in het Security & Compliance Center, hebt u [de juiste machtigingen](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)toegewezen .
+**Belangrijk**: als u toegang wilt tot de pagina **importeren** in het nalevings centrum voor beveiliging &, hebt u  [de juiste machtigingen](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)toegewezen.
 
-Als u alleen een PST wilt importeren in uw postvak, [raadpleegt u dit artikel](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Als u alleen een PST-bestand wilt importeren in uw postvak, raadpleegt u [dit artikel](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

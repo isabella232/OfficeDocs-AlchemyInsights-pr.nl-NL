@@ -6,31 +6,32 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912853"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659161"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemen met het synchroniseren van uw agenda naar apparaten
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemen met het synchroniseren van uw agenda met apparaten
 
-SharePoint-agenda's zijn klassieke lijsttypen die soms worden verward met Microsoft 365-groepsagenda's.
+SharePoint-Agenda's zijn klassieke lijst typen die soms worden verward met Microsoft 365-Groepsagenda's.
 
-Voer de volgende stappen uit om een SharePoint-agenda te synchroniseren met Outlook:
+Voer de volgende stappen uit als u een SharePoint-agenda wilt synchroniseren met Outlook:
 
-1. Klik op het tandwielpictogram **Instellingen** en klik vervolgens op **Site-inhoud**.
-2. Open de agenda die u wilt synchroniseren (een lijsttype gebeurtenissen).
-3. Klik in het klassieke lintmenu op **Agenda**en klik vervolgens op **Verbinding maken met Outlook**.
-4. Klik in de pop-up waarin u wordt gevraagd de synchronisatie te bevestigen op **Toestaan**.
+1. Klik op het tandwiel pictogram **instellingen** en klik vervolgens op **site-inhoud**.
+2. Open de agenda die u wilt synchroniseren (dit is een lijsttype voor gebeurtenissen).
+3. Klik in het menu klassiek lint op **agenda**en klik vervolgens op **verbinding maken met Outlook**.
+4. In het pop-upvenster waarin u wordt gevraagd om de synchronisatie te bevestigen, klikt u op **toestaan**.
 
 >[!Note]
-> Wanneer u een wijziging aanbrengt in de gesynchroniseerde Outlook-agenda, wordt deze weergegeven in de SharePoint-agenda en vice versa.
+> Wanneer u een wijziging aanbrengt in de gesynchroniseerde Outlook-agenda, wordt deze weergegeven in de SharePoint-agenda en omgekeerd.
 
-Zie dit [artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)voor meer informatie over Microsoft 365-groepen.
+Zie dit [artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)voor meer informatie over microsoft 365-groepen.

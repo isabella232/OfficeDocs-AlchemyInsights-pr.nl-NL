@@ -6,19 +6,20 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 860d7e4063d0de172b79f0a0294f899ac22d92cc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676600"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664201"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemen met ongewenste e-mail die beweren afkomstig te zijn van LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemen met claim van ongewenste e-mail van LinkedIn
 
-Als je ongewenste e-mail ontvangt waarvan wordt beweerd dat ze afkomstig zijn van LinkedIn, kun je een regel maken om die e-mails te filteren.
-Zie [Regels voor postvak in Outlook.com](https://aka.ms/OutlookComInboxRules) gebruiken voor meer informatie.
+Als u ongewenste e-mailberichten ontvangt van LinkedIn, kunt u een regel maken om deze e-mailberichten te filteren.
+Zie [regels voor Postvak in gebruiken in Outlook.com](https://aka.ms/OutlookComInboxRules) voor meer informatie.
 
 

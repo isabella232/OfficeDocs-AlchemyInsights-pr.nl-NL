@@ -1,23 +1,24 @@
 ---
-title: Problemen met het opslaan van bestanden in Excel
+title: Problemen oplossen met het opslaan van bestanden in Excel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 32f54f2560c75d2b0e6904974a6dc9fb01f433a0
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 71de9a0fced18d90468da4c103e1707c506590c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36245958"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664849"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Het oplossen van fouten bij het opslaan van Excel-werkmappen
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Fouten oplossen bij het opslaan van Excel-werkmappen
 
-Als u problemen bij het opslaan van een werkmap in Excel ondervindt, Zie [het oplossen van fouten bij het opslaan van Excel-werkmappen](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).
+Als u problemen hebt met het opslaan van een werkmap in Excel, raadpleegt u [ problemen oplossen bij het opslaan van Excel-werkmappen](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks).
