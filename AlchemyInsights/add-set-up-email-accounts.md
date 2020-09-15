@@ -1,11 +1,12 @@
 ---
-title: 1800018 E-mailaccounts toevoegen/instellen
+title: 1800018 toevoegen/instellen van e-mailaccounts
 ms.author: pdigia
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 18c1daeac68aac9931994e8484b334f61028bc3a
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947637"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687573"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a><span data-ttu-id="146dc-102">Problemen met het instellen van een e-mailaccount in Outlook</span><span class="sxs-lookup"><span data-stu-id="146dc-102">Problems setting up an email account in Outlook</span></span>
+# <a name="problems-setting-up-an-email-account-in-outlook"></a><span data-ttu-id="a9159-102">Problemen bij het instellen van een e-mailaccount in Outlook</span><span class="sxs-lookup"><span data-stu-id="a9159-102">Problems setting up an email account in Outlook</span></span>
 
-<span data-ttu-id="146dc-103">Als u problemen ondervindt bij het instellen van een Exchange-account in Outlook, u het [hulpprogramma voor het instellen van Outlook-account](https://aka.ms/SaRA-OutlookSetupProfile) uitvoeren op de betreffende machine.</span><span class="sxs-lookup"><span data-stu-id="146dc-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="146dc-104">Het zal verschillende controles uitvoeren en mogelijke oplossingen bieden voor het probleem van het instellen van uw account.</span><span class="sxs-lookup"><span data-stu-id="146dc-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
+<span data-ttu-id="a9159-103">Als u problemen hebt met het instellen van een Exchange-account in Outlook, kunt u het [hulpprogramma](https://aka.ms/SaRA-OutlookSetupProfile) voor het instellen van Outlook-accounts op de desbetreffende computer uitvoeren.</span><span class="sxs-lookup"><span data-stu-id="a9159-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="a9159-104">Dit voert diverse controles uit en levert mogelijke oplossingen voor het probleem met het instellen van uw account.</span><span class="sxs-lookup"><span data-stu-id="a9159-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
   
-<span data-ttu-id="146dc-105">Zie [Outlook kan geen nieuw profiel instellen door Exchange Autodiscover te gebruiken voor een Exchange Online-postvak](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)als u nog steeds problemen ondervindt.</span><span class="sxs-lookup"><span data-stu-id="146dc-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
+<span data-ttu-id="a9159-105">Als u nog steeds problemen ondervindt, raadpleegt u [Outlook kan geen nieuw profiel instellen met Exchange Autodiscover voor een Exchange Online-postvak](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span><span class="sxs-lookup"><span data-stu-id="a9159-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
   

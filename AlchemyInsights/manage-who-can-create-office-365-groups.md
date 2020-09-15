@@ -1,29 +1,30 @@
 ---
-title: Beheren wie Microsoft 365-groepen kan maken
+title: Beheren wie Microsoft 365-groepen kunnen maken
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 220438f71568229c72c9c29117d6f575b03b2c3d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509307"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694740"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a><span data-ttu-id="e2c9f-102">Beheren wie Microsoft 365-groepen kan maken</span><span class="sxs-lookup"><span data-stu-id="e2c9f-102">Manage who can create Microsoft 365 Groups</span></span>
+# <a name="manage-who-can-create-microsoft-365-groups"></a><span data-ttu-id="39664-102">Beheren wie Microsoft 365-groepen kunnen maken</span><span class="sxs-lookup"><span data-stu-id="39664-102">Manage who can create Microsoft 365 Groups</span></span>
 
-<span data-ttu-id="e2c9f-103">Standaard kan iedereen in uw organisatie O365-groepen maken.</span><span class="sxs-lookup"><span data-stu-id="e2c9f-103">By default, anyone in your organization can create O365 groups.</span></span>
+<span data-ttu-id="39664-103">Standaard kan iedereen in uw organisatie O365-groepen maken.</span><span class="sxs-lookup"><span data-stu-id="39664-103">By default, anyone in your organization can create O365 groups.</span></span>
   
-<span data-ttu-id="e2c9f-104">Als u dat wilt wijzigen, u een beveiligingsgroep maken met PowerShell die groepscreatie beperkt tot een subset gebruikers.</span><span class="sxs-lookup"><span data-stu-id="e2c9f-104">If you want to change that, you can create a security group with PowerShell that limits group creation to a subset of users.</span></span>
+<span data-ttu-id="39664-104">Als u dit wilt wijzigen, kunt u een beveiligingsgroep met PowerShell maken die het maken van groepen beperkt tot een subset van gebruikers.</span><span class="sxs-lookup"><span data-stu-id="39664-104">If you want to change that, you can create a security group with PowerShell that limits group creation to a subset of users.</span></span>
   
-<span data-ttu-id="e2c9f-105">Volg hier de stapsgewijze instructies: [Beheren wie Microsoft 365-groepen kan maken](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="e2c9f-105">Follow the step-by-step instructions here: [Manage who can create Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span></span>
+<span data-ttu-id="39664-105">Volg de stapsgewijze instructies hier: [beheren wie Microsoft 365-groepen kan maken](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="39664-105">Follow the step-by-step instructions here: [Manage who can create Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)</span></span>
   
 

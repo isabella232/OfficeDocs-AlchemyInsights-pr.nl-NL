@@ -1,26 +1,27 @@
 ---
-title: Synchronisatie van SharePoint Online-gebruikersprofielen
+title: Gebruikersprofielen synchroniseren met SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: 48540f7b97660fb03b0829d07291a1302871e938
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44707825"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665353"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a><span data-ttu-id="98ede-102">Synchronisatie van SharePoint Online-gebruikersprofielen</span><span class="sxs-lookup"><span data-stu-id="98ede-102">SharePoint Online User Profile Synchronization</span></span>
+# <a name="sharepoint-online-user-profile-synchronization"></a><span data-ttu-id="9c9f7-102">Gebruikersprofielen synchroniseren met SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="9c9f7-102">SharePoint Online User Profile Synchronization</span></span>
 
-<span data-ttu-id="98ede-103">Microsoft SharePoint gebruikt de active directory-synchronisatietaak om gebruikers- en groepskenmerkengegevens te importeren in de UPA (User Profile Application).</span><span class="sxs-lookup"><span data-stu-id="98ede-103">Microsoft SharePoint uses the Active Directory synchronization job to import user and group attribute information into the User Profile Application (UPA).</span></span><span data-ttu-id="98ede-104">Zie voor meer informatie het artikel hieronder.</span><span class="sxs-lookup"><span data-stu-id="98ede-104"> For more information, please see the article below.</span></span>
+<span data-ttu-id="9c9f7-103">Microsoft SharePoint gebruikt de Active Directory-synchronisatietaak voor het importeren van gebruikers-en groeps kenmerk informatie in de Gebruikersprofieltoepassing (UPA).</span><span class="sxs-lookup"><span data-stu-id="9c9f7-103">Microsoft SharePoint uses the Active Directory synchronization job to import user and group attribute information into the User Profile Application (UPA).</span></span><span data-ttu-id="9c9f7-104">Zie het volgende artikel voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="9c9f7-104"> For more information, please see the article below.</span></span>
 
-- [<span data-ttu-id="98ede-105">Synchronisatie van SharePoint Online-gebruikersprofielen</span><span class="sxs-lookup"><span data-stu-id="98ede-105">SharePoint Online User Profile Synchronization</span></span>](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [<span data-ttu-id="9c9f7-105">Gebruikersprofielen synchroniseren met SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="9c9f7-105">SharePoint Online User Profile Synchronization</span></span>](https://docs.microsoft.com/sharepoint/user-profile-sync)
