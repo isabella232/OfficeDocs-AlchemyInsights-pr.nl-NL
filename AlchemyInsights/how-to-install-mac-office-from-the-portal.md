@@ -1,31 +1,31 @@
 ---
-title: Mac Office installeren vanuit de portal
+title: Mac Office installeren via de portal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 05745813ddeeee11b6c0c76558596e90560a6971
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0e208251ac345c4151eb949892768842ef503cef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509271"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704052"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="22a25-102">Mac Office installeren vanuit de portal</span><span class="sxs-lookup"><span data-stu-id="22a25-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="0e2ee-102">Mac Office installeren via de portal</span><span class="sxs-lookup"><span data-stu-id="0e2ee-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="22a25-103">[Office 2011 voor Mac verwijderen van uw computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="22a25-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
+1. <span data-ttu-id="0e2ee-103">[Verwijder Office 2011 voor Mac van uw computer](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="0e2ee-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-2. <span data-ttu-id="22a25-104">[Instellingen voor het downloaden van software beheren.](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)</span><span class="sxs-lookup"><span data-stu-id="22a25-104">[Manage software download settings](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
+2. <span data-ttu-id="0e2ee-104">De [Downloadinstellingen voor software beheren](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span><span class="sxs-lookup"><span data-stu-id="0e2ee-104">[Manage software download settings](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
 
-3. <span data-ttu-id="22a25-105">[Licenties toewijzen aan gebruikers](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="22a25-105">[Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
+3. <span data-ttu-id="0e2ee-105">[Licenties toewijzen aan gebruikers](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="0e2ee-105">[Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
 
-4. <span data-ttu-id="22a25-106">Gebruikers kunnen de Office-software vervolgens zelf installeren of u [Office implementeren voor uw Mac-gebruikers.](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)</span><span class="sxs-lookup"><span data-stu-id="22a25-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="0e2ee-106">Gebruikers kunnen vervolgens de Office-software zelf installeren, of u kunt [Office inzetten gebruiken voor uw Mac-gebruikers](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="0e2ee-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
