@@ -1,5 +1,5 @@
 ---
-title: Multifactorverificatie inschakelen
+title: Meervoudige verificatie inschakelen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703457"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678031"
 ---
 # <a name="enable-multi-factor-authentication"></a>Meervoudige verificatie inschakelen
 
-Ga als bedoeld als u multi-factor authenticatie inschakelt in het Microsoft 365-beheercentrum:
+Meervoudige verificatie inschakelen in het Microsoft 365-Beheercentrum:
 
-1. Ga naar de pagina **Gebruikers** \> **Actieve gebruikers.**
+1. Ga naar de pagina **gebruikers** van \> **Active Users** .
     
-2. Selecteer boven aan de pagina **Multi-factor authenticatie**. 
+2. Selecteer **meerdere ledige verificatie**boven aan de pagina. 
     
-3. Zoek de gebruiker of gebruikers die u wilt inschakelen voor meervoudige verificatie. Als u alle gebruikers wilt zien, moet u mogelijk het filter voor de **Multi-Factor Auth-status** bovenaan wijzigen.
+3. Zoek de gebruiker of gebruikers die u wilt inschakelen voor verificatie met meerdere factoren. Als u alle gebruikers wilt zien, moet u mogelijk het filter met de **Meervoudige verificatiestatus** boven aan het scherm wijzigen.
     
 4. Schakel het selectievakje in naast de gebruikers die u wilt inschakelen.
     
-5.  Selecteer in het juiste deelvenster gebruikersgegevens onder **snelle stappen**de optie **Inschakelen**. 
+5.  Selecteer in het rechterdeelvenster van gebruikersinfo onder **snelle stappen**de optie **inschakelen**. 
     
-6. Selecteer **multifactorauth inschakelen**in het dialoogvenster dat wordt geopend. 
+6. Selecteer in het dialoogvenster dat wordt weergegeven de optie **multi-factor Authentication inschakelen**. 
     
 

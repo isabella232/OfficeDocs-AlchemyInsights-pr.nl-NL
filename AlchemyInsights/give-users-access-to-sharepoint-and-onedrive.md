@@ -6,29 +6,30 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 0bdc2fa97ad1fe8b3280411babaaf2bd685a644d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721736"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677202"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Gebruikers toegang geven tot SharePoint en OneDrive
 
 > [!NOTE]
-> Als een OneDrive- of SharePoint-site niet beschikbaar is voor meerdere gebruikers die eerder toegang hadden, is er mogelijk een tijdelijke serviceprobleem. [Het dashboard voor servicestatus controleren](https://portal.office.com/adminportal/home#/servicehealth)
+> Als een OneDrive-of SharePoint-site niet beschikbaar is voor meerdere gebruikers die eerder toegang hadden, is er mogelijk een probleem met een tijdelijke service. [Het dashboard voor de servicestatus controleren](https://portal.office.com/adminportal/home#/servicehealth)
   
-Als u wilt dat mensen in uw organisatie zich kunnen aanmelden en SharePoint en OneDrive kunnen gebruiken, moet u accounts voor hen toevoegen en ervoor zorgen dat ze een licentie hebben waarmee ze toegang hebben tot SharePoint en OneDrive. De eenvoudigste manier om gebruikers toe te voegen is in het Microsoft 365-beheercentrum.
+Als u wilt dat personen in uw organisatie zich kunnen aanmelden bij en gebruikmaken van SharePoint en OneDrive, moet u accounts toevoegen en ervoor zorgen dat ze een licentie hebben waarmee ze toegang kunnen krijgen tot SharePoint en OneDrive. De eenvoudigste manier om gebruikers toe te voegen is in het Microsoft 365-Beheercentrum.
   
-1. Ga naar de [pagina Actieve gebruikers in het Microsoft 365-beheercentrum](https://portal.office.com/adminportal/home#/users)en klik op Een gebruiker **toevoegen**.
+1. Ga naar de [pagina actieve gebruikers in het Microsoft 365-Beheercentrum](https://portal.office.com/adminportal/home#/users)en klik vervolgens op **een gebruiker toevoegen**.
     
-2. Vul de gegevens voor de gebruiker in en zorg ervoor dat onder **Productlicenties**een licentie is toegewezen en **SharePoint Online** is geselecteerd. 
+2. Vul de gegevens voor de gebruiker in en zorg ervoor dat onder **product licenties**een licentie is toegewezen en dat **SharePoint Online** is geselecteerd. 
     
-Als u extern delen in uw organisatie toestaat, kunnen gebruikers SharePoint- en OneDrive-inhoud delen met mensen buiten de organisatie. U hoeft deze externe gebruikers geen licenties te geven. U hoeft er ook geen accounts voor toe te voegen, tenzij delen is ingesteld op 'Alleen bestaande externe gebruikers'. Als de personen zich in de map van uw organisatie bevinden, moet u ze in dat geval toevoegen als gastgebruikers in het Azure AD-beheercentrum.
+Als u extern delen in uw organisatie toestaat, kunnen gebruikersshare Point-en OneDrive-inhoud delen met personen buiten de organisatie. U hoeft deze licenties voor externe gebruikers niet te geven. U hoeft ook geen accounts toe te voegen, tenzij delen is ingesteld op alleen bestaande externe gebruikers. Als de personen niet in de adreslijst van uw organisatie staan, moet u deze als gastgebruikers toevoegen in het Azure AD-Beheercentrum.
   
 

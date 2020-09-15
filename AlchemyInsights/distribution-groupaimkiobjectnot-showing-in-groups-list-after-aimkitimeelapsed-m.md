@@ -1,23 +1,24 @@
 ---
-title: Distributiegroep {AimKIObject}' wordt niet weergegeven in de lijst Groepen na {AimKITimeElapsed} minuten
+title: Distributiegroep ' {AimKIObject} ' wordt na {AimKITimeElapsed} minuten niet weergegeven in groepslijst
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: c1a575b305701953c1b21bee6ebdff5e87072961
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715037"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679796"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Distributiegroep "{AimKIObject}" wordt niet weergegeven in de lijst Groepen na {AimKITimeElapsed} minuten
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Distributiegroep ' {AimKIObject} ' wordt na {AimKITimeElapsed} minuten niet weergegeven in groepslijst
 
-Uw groep "{AimKIObject}" is enkele minuten geleden gemaakt {AimKITimeElapsed}. Normaal gesproken duurt het niet langer dan 60 minuten voordat uw nieuwe distributiegroep in het beheercentrum wordt weergegeven.
+De groep ' {AimKIObject} ' is al {AimKITimeElapsed} minuten geleden gemaakt. Het duurt doorgaans niet meer dan 60 minuten voordat de nieuwe distributiegroep in het Beheercentrum wordt weergegeven.
   
-Mogelijk u de functie Recipients > Groups in het [Exchange-beheercentrum](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) gebruiken om uw groep nu te beheren, of de optie 'Laat ons u bellen' gebruiken om met een ondersteuningstechnicus te praten. 
+Mogelijk kunt u de functie geadresseerden > groepen in het [Exchange-Beheercentrum](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) gebruiken om de groep nu te beheren, of de optie ' We bellen u ' gebruiken om met een ondersteuningsmedewerker te praten. 
   

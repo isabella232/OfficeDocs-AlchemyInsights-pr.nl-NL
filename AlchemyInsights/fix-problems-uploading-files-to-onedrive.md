@@ -5,23 +5,24 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: f84d2ca8e5f620af7fb0d583fa311bf9d2d97c0d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719569"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677635"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>Problemen met het uploaden van bestanden naar OneDrive oplossen
 
-Probeer dit als een bestand niet wordt geüpload:
+Probeer het volgende als een bestand niet wordt geüpload:
   
-- Wijzig de naam van het bestand en probeer het opnieuw. Sommige bestandsnamen en tekens in bestandsnamen zijn niet toegestaan. 
+- Wijzig de naam van het bestand en probeer het opnieuw. Sommige bestandsnamen en-tekens in bestandsnamen zijn niet toegestaan. 
     
-- Als u het bestand synchroniseert, verplaatst u het bestand uit uw OneDrive-map (verplaats het bijvoorbeeld naar uw bureaublad) en wanneer uw Synchronisatiestatus van OneDrive wordt weergegeven als 'Up-to-date', verplaatst u het opnieuw. 
+- Als u het bestand synchroniseert, kunt u het uit uw OneDrive-map verwijderen (bijvoorbeeld naar het bureaublad verplaatsen) en wanneer de synchronisatiestatus van OneDrive wordt weergegeven als ' up-to-date ', zet u de app weer terug. 
     
 [Meer tips voor het oplossen van problemen](https://go.microsoft.com/fwlink/?linkid=873155)
   

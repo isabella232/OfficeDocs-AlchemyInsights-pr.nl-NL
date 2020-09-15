@@ -1,23 +1,24 @@
 ---
-title: Publicatie van inhoudstype
+title: Inhoudstypen publiceren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5793"
-ms.openlocfilehash: 1fff03d0c766e3dd8d7fe3c1ea6b3b23193e3f75
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 11147d4cab68a4bf81bfd0ed9eb3b429c257a703
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569039"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680607"
 ---
-# <a name="content-type-publishing"></a>Publicatie van inhoudstype
+# <a name="content-type-publishing"></a>Inhoudstypen publiceren
 
-Als u wilt dat inhoudstypen beschikbaar zijn in uw organisatie voor alle gebruikers, is het een goede kandidaat om te publiceren in alle siteverzamelingen. Zie [Een inhoudstype publiceren vanuit een hub voor het publiceren van inhoud](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02)als u een inhoudstype wilt publiceren.
+Als u wilt dat de inhoudstypen voor alle gebruikers in de organisatie beschikbaar zijn, is het een goede kandidaat om te publiceren in alle siteverzamelingen. Zie [een inhoudstype publiceren vanuit een hub voor inhouds publicatie](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02)als u een inhoudstype wilt publiceren.
