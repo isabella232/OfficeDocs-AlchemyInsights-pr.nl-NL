@@ -1,40 +1,40 @@
 ---
-title: Gevoeligheidslabels automatisch toepassen
+title: Gevoeligheids labels automatisch toepassen
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: f1305fd8af3289f3543d2a596937089195e2495c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508443"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715160"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Gevoeligheidslabels automatisch toepassen
+# <a name="auto-apply-sensitivity-labels"></a>Gevoeligheids labels automatisch toepassen
 
-Gevoeligheidslabels kunnen handmatig worden toegepast op inhoud door gebruikers, of u ze configureren om automatisch op inhoud te worden toegepast.
+U kunt gegevenslabels-labels handmatig toepassen op inhoud door gebruikers, of u kunt ze configureren zodat ze automatisch worden toegepast op inhoud.
 
-Als u automatisch gevoeligheidslabels toepast, hoeft gebruikers niet meer te worden getraind in het classificeren van inhoud en de noodzaak om hen op de hoogte te stellen van beleidsconfiguraties.
+Automatisch gevoeligheids labels toepassen Hiermee verwijdert u gebruikers voor het classificeren van inhoud en de noodzaak om ze te informeren over beleidsconfiguraties.
 
-Om labels automatisch toe te passen, is het volgende vereist:
+Als u labels automatisch wilt toepassen, moet u het volgende doen:
 
 - Azure Information Protection P2-abonnement
-- [De unified labelingclient van Azure Information Protection downloaden en installeren](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Download en installeer de client voor Azure Information Protection Unified labels](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-We werken aan native ondersteuning waarvoor de azure information protection unified labeling client in de toekomst niet nodig is.
+We werken aan systeemeigen ondersteuning waarvoor de client voor Azure Information Protection niet in de toekomst is vereist.
 
-Momenteel ondersteunt alleen Windows de uniforme labelclient.  De functie wordt nog niet ondersteund op Mac, iOS en Android.
+Op dit moment ondersteunt alleen Windows de gecombineerde etiket toepassing.  De functie wordt nog niet ondersteund voor Mac, iOS en Android.
 
-Zie voor meer informatie over gevoeligheidslabels en het automatisch toepassen ervan op inhoud:
+Zie de volgende onderwerpen voor meer informatie over coderijke labels en deze automatisch op inhoud toepassen:
 
 - [Overzicht van gevoeligheidslabels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Een gevoeligheidslabel automatisch toepassen op inhoud](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Een vertrouwelijkheidslabel automatisch toepassen op inhoud](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

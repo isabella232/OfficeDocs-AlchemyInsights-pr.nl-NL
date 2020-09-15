@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943938"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714431"
 ---
 # <a name="change-your-billing-address"></a>Uw factuuradres wijzigen
 
-Uw factuur of factuur bevat drie adressen.
+Uw rekening of factuur bevat drie adressen.
 
-**Het factuuradres voor een betalingsmethode wijzigen**
+**Het factuuradres voor een betalingswijze wijzigen**
 
-1. Ga in het beheercentrum naar **Facturering > [Betalingsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. Ga in het Beheercentrum naar **facturering > [betaalwijzen](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 2. Selecteer de creditcard of bankrekening die u wilt wijzigen.
-3. Klik op de pagina **Details van de betalingsmethode** op **Bewerken**.
-4. Werk uw factuuradres bij en klik vervolgens op **> gereed opslaan**.
+3. Klik op de pagina **Details van betaalwijze** op **bewerken**.
+4. Werk uw factuuradres bij en klik op **opslaan > gereed**.
 
-Zie [Uw factuuradressen voor Microsoft 365 voor Bedrijven wijzigen voor](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)meer informatie over adres- en meldingswijzigingen.
+Zie [uw factuuradressen voor Microsoft 365 voor bedrijven wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)voor meer informatie over wijzigingen in adres en meldingen.
 
-**De factureringsaccountgegevens wijzigen**
+**De informatie over de factureringsaccount wijzigen**
 
-1. Ga in het beheercentrum naar **Facturering> [Factureringsaccounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
-2. Selecteer **Factureringsaccountgegevens bewerken**.
-3. Werk de factureringsaccountgegevens bij en klik vervolgens op **> gereed opslaan**.
+1. Ga in het Beheercentrum naar **facturerings > [facturerings accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Selecteer de gegevens van het **factuur account bewerken**.
+3. Werk de gegevens van de factureringsaccount bij en klik op **opslaan > gereed**.
 
-**Opmerking:** U het land/de regio niet wijzigen. Als dit veld moet worden gewijzigd, moet u een nieuwe tenant kopen.
+**Opmerking**: u kunt het land/de regio niet wijzigen. Als dit veld moet worden gewijzigd, moet u een nieuwe Tenant kopen.
