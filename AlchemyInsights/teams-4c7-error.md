@@ -1,30 +1,31 @@
 ---
-title: Fout teams 4c 7
+title: 4c7 fout in teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 0945a341c6456ee4178c0485f3bfb9232fa78a11
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 08494b461a24eba8999a5edb99c89af7b17db9b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796056"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700198"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>4c 7 fout in Microsoft teams
+# <a name="4c7-error-in-microsoft-teams"></a>4c7-fout in Microsoft teams
 
-Deze fout treedt op omdat Microsoft teams Forms-verificatie vereist. Wanneer u Active Directory Federation Services (AD FS) implementeert, is Forms-verificatie niet standaard ingeschakeld voor het intranet. Als geïntegreerde Windows-verificatie mislukt, wordt u gevraagd u aan te melden met behulp van Forms-verificatie.
+Deze fout treedt op omdat Microsoft teams formulierverificatie vereist. Wanneer u Active Directory Federation Services (AD FS) implementeert, wordt formulierverificatie niet standaard ingeschakeld voor het intranet. Als Windows Integrated Authentication mislukt, wordt u gevraagd u aan te melden met behulp van formulierverificatie.
 
-Dit probleem oplossen door Forms-verificatie inschakelen met behulp van de AD FS-module van Microsoft Management Console (MMC) op de computer met de lokale kopie van Active Directory. Volg deze stappen om dit te doen: 
+U kunt dit probleem oplossen door formulierverificatie in te schakelen via de MMC (Microsoft Management Console) van de Microsoft Management Console op de computer met de lokale kopie van Active Directory. Ga hiervoor als volgt te werk: 
 
 1. Blader in het navigatiedeelvenster naar **verificatiebeleid**.
-2. Onder **acties** in het detailvenster, selecteer **globale primaire verificatie bewerken**.
-3. Selecteer op het tabblad **intranet** **Forms-verificatie**.
+2. Selecteer onder **acties** in het detailvenster de optie **globale primaire verificatie bewerken**.
+3. Selecteer op het tabblad **intranet** de optie **formulierverificatie**.
 4. Selecteer **OK** (of **toepassen**).
