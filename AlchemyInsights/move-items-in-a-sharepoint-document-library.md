@@ -1,11 +1,12 @@
 ---
-title: Items verplaatsen in een SharePoint-documentbibliotheek
+title: Items verplaatsen naar een SharePoint-documentbibliotheek
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,31 +14,31 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 1f8ebd035511775dc355a5efd548b331fc6797c0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a5b194aac4d1cd2aba699f0190d766205de073a8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713569"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702862"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a>Items verplaatsen in een SharePoint-documentbibliotheek
+# <a name="move-items-in-a-sharepoint-document-library"></a>Items verplaatsen naar een SharePoint-documentbibliotheek
 
-U items verplaatsen naar verschillende locaties in een documentbibliotheek.
+U kunt items verplaatsen naar verschillende locaties in een documentbibliotheek.
   
-1. Blader in een webbrowser naar de bestanden, mappen of koppelingen die u wilt verplaatsen en klik vervolgens op **Verplaatsen naar**.
+1. Blader in een webbrowser naar de bestanden, mappen of koppelingen die u wilt verplaatsen en klik op **verplaatsen naar**.
 
     > [!NOTE]
-    > **Verplaatsen naar** is niet beschikbaar als u de klassieke ervaring van SharePoint Online gebruikt.
+    > **Verplaatsen naar** is niet beschikbaar als u gebruik maakt van de klassieke ervaring van SharePoint Online.
   
-2. Selecteer **onder Een bestemming kiezen**de locatie waarnaar u de artikelen wilt verplaatsen. Als u naar een andere site of subsite gaat en deze niet ziet, klikt u op **Sites bladeren** om de volledige lijst met sites te bekijken waarnaar u gaan.
+2. Selecteer onder **een bestemming kiezen**de locatie waarnaar u de items wilt verplaatsen. Als u overstapt op een andere site of subsite en deze niet in de lijst wordt weergegeven, klikt u op **Bladeren naar sites** om de volledige lijst weer te geven met sites waarnaar u kunt overstappen.
 
-    Als u een nieuwe map wilt maken om de bestanden te verplaatsen, selecteert u een locatie in de maphiërarchie, klikt u op **Nieuwe map,** voert u een naam voor de map in en klikt u op het vinkje om de naam op te slaan.
+    Als u een nieuwe map wilt maken waarnaar u de bestanden wilt verplaatsen, selecteert u een locatie in de maphiërarchie, klikt u op **nieuwe map**, typt u een naam voor de map en klikt u op het vinkje om de naam op te slaan.
 
-3. Klik **hier op Verplaatsen**.
+3. Klik op **hierheen verplaatsen**.
 
- Wanneer een bestand wordt verplaatst, wordt het nog steeds weergegeven in de bronmap totdat het volledig naar de bestemming is verplaatst en vervolgens wordt het verwijderd. Het bestand blijft in de prullenbak van de bronsites nadat de verplaatsing is voltooid en is onderworpen aan het normale recycleschema, tenzij een gebruiker het uit de prullenbak herstelt.
+ Wanneer een bestand wordt verplaatst, wordt dit nog steeds weergegeven in de bronmap totdat het bestand volledig naar de bestemming is verplaatst en wordt het vervolgens verwijderd. Het bestand blijft behouden in de Prullenbak van de bronsite na voltooiing van de verhuizing en onderhevig aan de normale planning van de Prullenbak, tenzij een gebruiker dit in de Prullenbak aanmeldt.
 
 Zie voor meer informatie:
 
- - [Bestanden verplaatsen of kopiëren in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office-ondersteuningsartikel)
- - [Bestanden uit een map in Microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) verplaatsen (microsoft tech community blogartikel) 
+ - [Bestanden verplaatsen of kopiëren in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office-ondersteunings artikel)
+ - [Bestanden verplaatsen vanuit een map in Microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (blogartikel Microsoft Tech Community) 
