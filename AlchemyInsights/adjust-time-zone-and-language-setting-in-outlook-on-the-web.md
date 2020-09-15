@@ -1,11 +1,12 @@
 ---
-title: 620 Tijdzone- en taalinstelling aanpassen in de webversie van Outlook
+title: 620 tijdzone en taalinstelling aanpassen in de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 9099628059ab11b30b4f44395fd3764331e84732
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709366"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686778"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="79ef6-102">Tijdzone- en taalinstellingen aanpassen in de webversie van Outlook</span><span class="sxs-lookup"><span data-stu-id="79ef6-102">Adjust time zone and language settings in Outlook on the web</span></span>
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="6084f-102">Tijdzone-en taalinstellingen aanpassen in de webversie van Outlook</span><span class="sxs-lookup"><span data-stu-id="6084f-102">Adjust time zone and language settings in Outlook on the web</span></span>
 
-<span data-ttu-id="79ef6-103">Zie [De tijdzone- en taalinstellingen in de webversie](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)van Outlook wijzigen als u de tijdzone- en taalinstellingen wilt aanpassen in de webversie van Outlook op internet.</span><span class="sxs-lookup"><span data-stu-id="79ef6-103">To adjust the time zone and language settings in Outlook on the web, which you access using your work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
+<span data-ttu-id="6084f-103">Zie [de tijdzone-en taalinstellingen wijzigen in de webversie van Outlook](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)als u de tijdzone-en taalinstellingen in de webversie van Outlook wilt aanpassen, zodat u toegang hebt tot uw werk-of schoolaccount.</span><span class="sxs-lookup"><span data-stu-id="6084f-103">To adjust the time zone and language settings in Outlook on the web, which you access using your work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
   
