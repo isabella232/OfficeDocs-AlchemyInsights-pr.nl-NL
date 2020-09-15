@@ -1,29 +1,30 @@
 ---
-title: Toegang in SharePoint of OneDrive beperken
+title: Toegang beperken in SharePoint of OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e9eb1822a7770bc206992cc5fb7e54a5c972b7e2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692760"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700450"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Toegang in SharePoint of OneDrive beperken
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Toegang beperken in SharePoint of OneDrive
 
-Er zijn veel manieren om de toegang tot SharePoint Online/OneDrive-services te beperken. Deze verschillende toegangsbeperkingsmethoden worden hieronder beschreven. 
+Er zijn verschillende manieren om toegang tot SharePoint Online/OneDrive-services te beperken. Hieronder ziet u een overzicht van de verschillende restrictie methoden. 
 
 **Machtigingsbeperking**
 
-In SharePoint Online en OneDrive voor Bedrijven beperken we de toegang tot items zoals sites, bestanden en mappen door alleen toegang te verlenen aan groepen/personen die toegang moeten hebben.
+In SharePoint Online en OneDrive voor bedrijven beperkt u de toegang tot items, zoals sites, bestanden en mappen, alleen toegang tot de groepen en personen die toegang moeten hebben.
 
-- [Machtigingen aanpassen voor een SharePoint-lijst of -bibliotheek](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Machtigingen voor een SharePoint-lijst of-bibliotheek aanpassen](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
 - [SharePoint-site machtigingen aanpassen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
@@ -31,17 +32,17 @@ In SharePoint Online en OneDrive voor Bedrijven beperken we de toegang tot items
 
 - [Toegang beheren vanaf niet-beheerde apparaten](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Als SharePoint- of globale beheerder u de toegang tot SharePoint- en OneDrive-inhoud vanaf niet-beheerde apparaten blokkeren of beperken (die niet hybride AD hebben samengevoegd of in Intune zijn compatibel).
+Als SharePoint-of globale beheerder kunt u de toegang tot SharePoint-en OneDrive-inhoud van niet-beheerde apparaten blokkeren of beperken (niet-hybride aantekening of compatibel met intune).
 
-**Beperking van de netwerklocatie**
+**Beperking van netwerklocatie**
 
-Als IT-beheerder u de toegang tot SharePoint- en OneDrive-bronnen beheren op basis van gedefinieerde netwerklocaties die u vertrouwt. Dit wordt ook wel locatiegebaseerd beleid genoemd. Zie Toegang tot [SharePoint Online- en OneDrive-gegevens](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) beheren op basis van netwerklocatie voor meer informatie.
+Als IT-beheerder kunt u de toegang tot SharePoint-en OneDrive-bronnen beheren op basis van gedefinieerde netwerklocaties die u vertrouwt. Dit wordt ook wel het beleid op basis van locatie genoemd. Zie [toegang tot SharePoint Online en OneDrive-gegevens beheren op basis van netwerklocatie](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location) voor meer informatie.
 
-**Beperking sitevergrendeling** 
+**Beperking site vergrendeling** 
 
-Binnen SharePoint Online hebt u de mogelijkheid om een siteverzameling te vergrendelen, zodat niemand toegang heeft. Dit wordt ingesteld via PowerShell en de [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) met behulp van de eigenschap [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState.
+In SharePoint Online kunt u de mogelijkheid van een siteverzameling vergrendelen, zodat niemand toegang heeft. Dit wordt ingesteld via PowerShell en de [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) met behulp van de eigenschap [set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState.
 
-**Gebruikers beperken om sites of subsites te maken**
+**Voorkomen dat gebruikers sites of subsites maken**
 
-Als SharePoint-beheerder of globale beheerder u uw gebruikers hun eigen SharePoint-sites laten maken en beheren, bepalen wat voor soort sites ze kunnen maken en de locatie van de sites opgeven. Zie [Sitemaken van de site beheren in SharePoint Online beheren voor](https://docs.microsoft.com/sharepoint/manage-site-creation) meer informatie
+Als SharePoint-beheerder of globale beheerder kunt u toestaan dat uw gebruikers hun eigen SharePoint-sites maken en beheren, bepalen welke soorten sites ze kunnen maken en de locatie van de sites opgeven. Zie [sites maken in SharePoint Online beheren](https://docs.microsoft.com/sharepoint/manage-site-creation) voor meer informatie.
 
