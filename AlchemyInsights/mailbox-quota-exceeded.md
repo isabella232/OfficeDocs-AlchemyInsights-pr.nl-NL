@@ -1,33 +1,34 @@
 ---
-title: Postvakquotum overschreden
+title: Postvak quotum overschreden
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579788"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695210"
 ---
-# <a name="mailbox-quota-exceeded"></a>Postvakquotum overschreden
+# <a name="mailbox-quota-exceeded"></a>Postvak quotum overschreden
 
-U hebt het postvakquotum voor uw account overschreden. Er zijn verschillende stappen die u nemen om de grootte van uw inbox te verkleinen voor betere prestaties.
+U hebt uw postvak quotum voor uw account overschreden. U kunt een aantal stappen nemen om de grootte van uw postvak in te verkleinen voor betere prestaties.
 
-1. Oudere postvakken in het postvak IN verwijderen. U dit snel doen in de app door een aangepaste veegbeweging in te stellen: **instellingen > Veegopties**. Met deze set kun je je gemakkelijk een weg door je inbox vegen om het uit te wissen.
+1. Verwijder oudere items in het postvak in. U kunt dit snel doen in de app met een aangepaste veegbeweging: **instellingen > opties voor vegen**. Met deze instelling kunt u eenvoudig uw weg in uw postvak in swipen om deze te wissen.
 
-2. Maak uw spammappen leeg. Ga direct naar uw spammappen en druk op **lege spam.**
+2. Maak uw spam mappen leeg. Ga rechtstreeks naar uw spam mappen en druk op **leeg spam**.
 
-3. Op Android u uw prullenbakmappen met één klik legen. Ga direct in uw prullenbak map en druk op **lege prullenbak**. 
+3. In Android mag u de Prullenbak mappen met één klik legen. Ga rechtstreeks naar de Prullenbak en druk op Prullenbak **leegmaken**. 
 
-4. Sla uw bijlagen op in OneDrive, zodat ze niet in uw postvak worden opgeslagen. Zie [Opslaglimieten in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) voor meer informatie. 
+4. Sla de bijlagen op in OneDrive, zodat ze niet in uw postvak zijn opgeslagen. Zie [opslaglimieten in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) voor meer informatie. 
 
-Als u een Microsoft 365-gebruiker bent, u ook een postvakverhoging aanvragen bij uw IT-beheerder.
+Als u een Microsoft 365-gebruiker bent, kunt u ook een extra postvak aanvragen bij uw IT-beheerder.
