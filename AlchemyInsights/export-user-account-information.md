@@ -1,24 +1,25 @@
 ---
-title: Gebruikersaccountgegevens exporteren
+title: Gegevens van gebruikersaccounts exporteren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 2b86887b5b4dc52c045c86ef2f6598a8e57df0a3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702913"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708858"
 ---
-# <a name="export-user-account-information"></a><span data-ttu-id="71b0d-102">Gebruikersaccountgegevens exporteren</span><span class="sxs-lookup"><span data-stu-id="71b0d-102">Export user account information</span></span>
+# <a name="export-user-account-information"></a><span data-ttu-id="83044-102">Gegevens van gebruikersaccounts exporteren</span><span class="sxs-lookup"><span data-stu-id="83044-102">Export user account information</span></span>
 
-<span data-ttu-id="71b0d-103">Als u gebruikersaccountgegevens wilt exporteren in het Microsoft 365-beheercentrum, inclusief informatie over licenties, wachtwoordbeleid, geblokkeerde accounts, AAD Sync-status en meer, gaat u naar de pagina[Gebruikers actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) van **Gebruikers** > en selecteert u **Gebruikers exporteren**.</span><span class="sxs-lookup"><span data-stu-id="71b0d-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
+<span data-ttu-id="83044-103">Als u gegevens van gebruikersaccounts wilt exporteren in het Microsoft 365-Beheercentrum, waaronder informatie over licenties, het wachtwoordbeleid, geblokkeerde accounts, de synchronisatiestatus van Aad, en nog veel meer, gaat u naar de pagina **gebruikers**  >  [actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) en selecteert u vervolgens **gebruikers exporteren**.</span><span class="sxs-lookup"><span data-stu-id="83044-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
