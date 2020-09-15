@@ -1,41 +1,42 @@
 ---
-title: Problemen met geweigerde berichten met toegang oplossen
+title: Berichten voor geweigerde toegang
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510495"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691678"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Problemen met geweigerde berichten met toegang oplossen
+# <a name="troubleshoot-access-denied-messages"></a>Berichten voor geweigerde toegang
 
-Als u een bericht met geweigerde toegang ontvangt wanneer u probeert door een Sharepoint Online-site te bladeren, raadpleegt u de onderstaande artikelen.
+Zie de volgende artikelen als u een bericht wordt weergegeven wanneer u een bericht ontvangt wanneer u probeert te zoeken in een SharePoint Online-site.
 
-**De gebruiker toevoegen en in licentie geven**
+**De gebruiker toevoegen en een licentie verlenen**
 
 Zorg ervoor dat u [licenties toewijst aan gebruikers in Microsoft 365 voor bedrijven](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Machtigingen toewijzen**
 
-Als de gebruiker een Sharepoint-licentie heeft gekregen en nog steeds een geweigerd bericht ontvangt, moet u ervoor zorgen dat de gebruiker het [juiste machtigingsniveau heeft toegewezen.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+Als aan de gebruiker een SharePoint-licentie is toegewezen en er nog steeds een bericht toegang geweigerd wordt ontvangen, moet u ervoor zorgen dat het [juiste machtigingsniveau is toegewezen](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**Overweeg de functie toegangsaanvraag te gebruiken**
+**Het gebruik van de functie voor toegangsaanvragen overwegen**
 
-Met de functie [Toegangsaanvraag](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) kunnen mensen toegang vragen tot inhoud waarvoor ze momenteel geen toestemming hebben om te zien. 
+Met de functie voor [toegangsaanvragen](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) kunnen gebruikers toegang aanvragen voor inhoud die hij/zij momenteel niet mag zien. 
 
-**Aangepast script toestaan kan toegang tot geweigerde problemen veroorzaken**
+**Toestaan dat aangepaste scripts toegang hebben tot geweigerde problemen**
 
-Er zijn bepaalde scenario's waarin de functie 'Aangepast script toestaan' mogelijk een geweigerde toegang presenteert. Voor een lijst met betrokken functies, beveiligingsoverwegingen en de mogelijkheid om de functie uit te schakelen. Ga naar een [aangepast script toe of voorkom het](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Er zijn bepaalde scenario's waarin de functie aangepast script toestaan een toegang kan geven. Voor een lijst met de desbetreffende functies en de mogelijkheid om de functie uit te schakelen. Ga naar [aangepaste scripts toestaan of voorkomen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Opmerking: Als een OneDrive- of SharePoint-site niet beschikbaar is voor meerdere gebruikers die eerder toegang hadden, is er mogelijk een tijdelijk serviceprobleem. [Controleer het dashboard servicestatus](https://portal.office.com/adminportal/home#/servicehealth).
+Opmerking: als een OneDrive-of SharePoint-site niet beschikbaar is voor meerdere gebruikers die eerder toegang hadden, is er mogelijk een tijdelijk serviceprobleem. [Controleer het dashboard servicestatus](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

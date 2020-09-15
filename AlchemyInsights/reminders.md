@@ -1,24 +1,25 @@
 ---
-title: Herinneringen
+title: Versturen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 1c72edc59b372b2cf0bbe84b2510dd71132e21a3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628093"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693694"
 ---
-# <a name="cannot-dismiss-reminders"></a>Kan herinneringen niet negeren
+# <a name="cannot-dismiss-reminders"></a>Kan geen herinneringen verwijderen
 
-Zie voor informatie over wat u moet doen als u geen agenda-herinneringen sluiten, de [Agenda herinneringen in Outlook niet kunnen negeren](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).
+Zie voor meer informatie over wat u moet doen als u de herinneringen van de agenda niet kunt negeren, zie de [Agenda herinneringen in Outlook kunt u niet succesvol verwijderen](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).
 

@@ -1,11 +1,12 @@
 ---
-title: Prijs ziet er niet correct uit?
+title: Wordt de prijs niet correct weergeven?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 7bba6524807f17ddc786319f469bf22b50f4a845
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666700"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693658"
 ---
-# <a name="price-doesnt-look-correct"></a>Prijs ziet er niet correct uit?
+# <a name="price-doesnt-look-correct"></a>Wordt de prijs niet correct weergeven?
 
-Als de prijs op uw factuur er niet correct uitziet, kan dit te wijten zijn aan een prijswijziging bij verlenging. Als u niet gelooft dat dit het probleem verklaart, u gebruik maken van de optie Laat ons u bellen om te praten met een support engineer.
+Als de kosten op uw factuur niet kloppen, is dit mogelijk een prijswijziging bij het verlengen. Als u niet denkt dat dit het probleem opneemt, kunt u de optie ' We bellen u ' gebruiken om met een ondersteuningsmedewerker te praten.
