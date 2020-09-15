@@ -1,37 +1,38 @@
 ---
-title: Software-as-a-service-app-licenties activeren en toewijzen
+title: Licenties voor software-as-service-Apps activeren en toewijzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062135"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698532"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Software-as-a-service-app-licenties activeren en toewijzen 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Licenties voor software-as-service-Apps activeren en toewijzen 
 
 ## <a name="to-activate-apps"></a>Apps activeren
 
-1. Ga in het beheercentrum naar de pagina **Facturering van**  >  **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** en kies vervolgens het tabblad **Apps.**
+1. Ga in het Beheercentrum naar de pagina **Billing**  >  **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren en kies vervolgens het tabblad **apps** .
 
 2. Zoek en selecteer de app die u wilt beheren.
 
-3. Selecteer **onder Licenties**de optie **Account instellen**.  
+3. Selecteer onder **licenties**de optie **account instellen**.  
 
 ## <a name="to-assign-app-licenses"></a>App-licenties toewijzen
 
-1. Ga in het beheercentrum naar de pagina **Facturering van**  >  **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** en kies vervolgens het tabblad **Apps.**
+1. Ga in het Beheercentrum naar de pagina **Billing**  >  **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren en kies vervolgens het tabblad **apps** .
 
 2. Zoek en selecteer de app die u wilt beheren.  
 
-3. Selecteer **onder Instellingen & acties**de koppeling naar Beheren in de portal van de **uitgever**.
+3. Selecteer onder **instellingen & acties**de koppeling die u wilt **beheren in de portal van Publisher**.

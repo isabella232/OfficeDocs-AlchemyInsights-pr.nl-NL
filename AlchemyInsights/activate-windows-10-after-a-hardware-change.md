@@ -1,29 +1,30 @@
 ---
-title: Windows 10 activeren na een hardwarewijziging
+title: Windows 10 activeren na wijziging van de hardware
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3484"
 - "9001418"
-ms.openlocfilehash: 416322058859e0b875cfec10d60bfaa0c711e72b
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 6e341b057cb0ba20a0bbcfd05008875f59a24684
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744579"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698272"
 ---
-# <a name="reactivating-windows-10-after-a-hardware-change"></a>Windows 10 opnieuw activeren na een hardwarewijziging
+# <a name="reactivating-windows-10-after-a-hardware-change"></a>Windows 10 opnieuw activeren na wijziging van de hardware
 
-Als u een belangrijke hardwarewijziging hebt aangebracht op uw apparaat, zoals het vervangen van het moederbord, is Windows mogelijk niet meer geactiveerd. Probeer de probleemoplosser voor activeringen te gebruiken om Windows 10 opnieuw te activeren:
+Als u een belangrijke hardware-wijziging hebt aangebracht in uw apparaat, zoals het vervangen van de moederbord, is Windows mogelijk niet meer geactiveerd. Gebruik de probleemoplosser voor activering om Windows 10 opnieuw te activeren:
 
-Ga naar **Start** > **instellingen** > **Update & beveiligings** > **Activering**en selecteer vervolgens **problemen oplossen**. U moet zijn aangemeld als beheerder om de probleemoplosser te kunnen gebruiken.
+Ga naar **Start**  >  **instellingen**  >  -**Update & beveiligings**  >  **Activering**en selecteer vervolgens **problemen oplossen**. U moet zijn aangemeld als beheerder om de probleemoplosser te kunnen gebruiken.
 
-**Opmerking:** Als het uitvoeren van de probleemoplosser niet helpt of als u de knop **problemen oplossen** niet ziet, moet u met een persoon praten om hulp te krijgen bij het activeren van uw exemplaar van Windows. (Klik op de knop **contact opnemen** in de linkerbenedenhoek van deze app.)
+**Opmerking:** Als het probleem niet is opgelost nadat u de probleemoplosser hebt uitgevoerd, of als u de knop **oplossen** niet ziet, moet u contact opnemen met een persoon om uw exemplaar van Windows te activeren. (Klik op de knop **contact opnemen** in de linkerbenedenhoek van deze app.)
 
-[Meer informatie over activering in Windows 10](https://support.microsoft.com/help/12440/windows-10-activate)
+[Meer informatie over het activeren van Windows 10](https://support.microsoft.com/help/12440/windows-10-activate)
