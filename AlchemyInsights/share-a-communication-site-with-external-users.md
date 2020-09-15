@@ -1,32 +1,33 @@
 ---
-title: Een communicatiesite delen met externe gebruikers
+title: Een communicatie site delen met externe gebruikers
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767496"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653760"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Een communicatiesite delen met externe gebruikers
+# <a name="share-a-communication-site-with-external-users"></a>Een communicatie site delen met externe gebruikers
 
-Voer de volgende stappen uit om extern delen van gebruikers voor communicatiesites in te schakelen: 
+Voer de volgende stappen uit om het delen van externe gebruikers voor Communicatiesites in te schakelen: 
   
-1. Open het **Modern Admin Center** - Als je in het klassieke beheercentrum bent, zie je een try it **now** of ** Probeer de knop Voorbeeld ** rechtsboven. Dit brengt u naar het Modern Admin Center. 
+1. Het **modern-Beheercentrum** openen: als u zich in het klassieke Beheercentrum bevindt, ziet u een **try** -out of * * probeer de knop Voorbeeld * * van de rechterbovenhoek. U gaat nu naar het modern Beheercentrum. 
   
-2. Selecteer **Actieve sites.**
+2. Selecteer **actieve sites.**
   
-3. Selecteer een site met een **sjabloon communicatiesite**. 
+3. Selecteer een site met een **sjabloon voor Communicatiesites**. 
   
-4. Selecteer de knop **Delen** in het bovenste menu. 
+4. Selecteer de knop **delen** in het bovenste menu. 
   
- **Let op:** Als er meer dan één site is geselecteerd, wordt de knop **Delen** uitgeschakeld weergegeven. Selecteer slechts één site. 
+ **Opmerking:** Als u meer dan één site hebt geselecteerd, wordt de knop **delen** uitgeschakeld weergegeven. Selecteer slechts één site. 
   
 
