@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771030"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704709"
 ---
 # <a name="how-to-close-your-desktop-analytics-account"></a>Uw Desktop Analytics-account sluiten
 
-Als u Bureaublad-analyse instelt in uw omgeving en vervolgens besluit dat u deze moet verwijderen, gebruikt u het proces in de volgende koppeling:
+Als u Desktop Analytics in uw omgeving instelt en vervolgens besluit dat u het wilt verwijderen, gebruikt u het proces in de volgende koppeling:
 
-[Uw account sluiten](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
+[Hoe u uw account kunt sluiten](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-De eerste stap is om contact op te nemen met Microsoft Support. Open een ondersteuningsaanvraag om uw Desktop Analytics-account te sluiten. Ga niet verder met extra stappen totdat u de bevestiging hebt ontvangen dat Microsoft uw account heeft gesloten.
+Stap 1: Neem contact op met de ondersteuning van Microsoft. Open een ondersteuningsaanvraag om uw bureaublad Analytics-account te sluiten. Ga verder met extra stappen totdat u een bevestiging ontvangt dat Microsoft het account heeft gesloten.

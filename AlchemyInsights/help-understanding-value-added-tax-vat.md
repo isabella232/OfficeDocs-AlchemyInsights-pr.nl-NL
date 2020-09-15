@@ -1,11 +1,12 @@
 ---
-title: Help bij het begrijpen van de btw
+title: Help-informatie over belasting over de toegevoegde waarde (BTW)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710114"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705484"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Help bij het begrijpen van de btw
+# <a name="help-understanding-value-added-tax-vat"></a>Help-informatie over belasting over de toegevoegde waarde (BTW)
 
-Als u zich in een land bevindt dat btw met toegevoegde waarde gebruikt, zoals het Verenigd Koninkrijk, berekent Microsoft Facturatie de btw voor u en past het bedrag toe op uw facturen.
+Als u een land gebruikt dat gebruikmaakt van toegevoegde BTW (BTW), zoals het Verenigd Koninkrijk, berekent Microsoft facturering de BTW voor u en past het bedrag toe op uw facturen.
   
-Om fiscale redenen moet u ook uw BTW-registratienummer opgeven in de instellingen voor Facturatie.
+Om belasting redenen moet u ook uw BTW-nummer opgeven in de instellingen voor de facturering.
   
-U geen btw-tarieven toevoegen of verwijderen, maar u het standaard btw-tarief wijzigen in Instellingen. Standaard gebruikt Facturatie een dienst om btw-registratienummers te valideren, maar we raden u aan [de VIES-disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) te lezen die door de Europese Commissie is gepubliceerd. Als u ervoor kiest om de service uit te schakelen, moet u alle btw-registratienummers verifiëren.
+U kunt geen BTW-tarieven toevoegen of verwijderen, maar u kunt het standaard BTW-tarief wijzigen in instellingen. In het geval van een service wordt standaard een service gebruikt om BTW-registratienummers te valideren, maar we raden u aan de Europese Commissie een [intracomme Disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) te lezen. Als u ervoor kiest om de service uit te schakelen, moet u alle BTW-registratienummers bevestigen.
