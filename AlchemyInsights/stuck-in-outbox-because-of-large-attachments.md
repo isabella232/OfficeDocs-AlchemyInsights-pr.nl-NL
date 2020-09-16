@@ -1,10 +1,11 @@
 ---
-title: Vastlopen in postvak UIT vanwege grote bijlagen
+title: Vastliep in Postvak uit vanwege grote bijlagen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 8eddefaafaf22c53b0b5e4e461dae6009a0b10c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542003"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726626"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Berichten oplossen die vastzitten in het postvak UIT met SaRA
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Berichten herstellen die in het postvak uit blijven staan met SaRA
 
-We raden u aan om eerst het scenario ['Ik heb problemen met het verzenden, ontvangen of vinden van e-mailberichten'](https://aka.ms/SaRA-OutlookSendReceive) uit te voeren op de uitgevoerde machine van het [SaRa-hulpprogramma (Microsoft Support and Recovery Assistant).](https://diagnostics.office.com/#/)
+U wordt aangeraden het scenario [' Ik heb problemen met het verzenden, ontvangen of zoeken van e-mailberichten '](https://aka.ms/SaRA-OutlookSendReceive) te beginnen op de geplaatste computer via het hulpprogramma [Microsoft Support en Recovery Assistant (Sara)](https://diagnostics.office.com/#/) .

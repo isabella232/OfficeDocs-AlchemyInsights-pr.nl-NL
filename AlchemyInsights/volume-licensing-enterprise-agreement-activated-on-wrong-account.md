@@ -1,11 +1,12 @@
 ---
-title: Enterprise Agreement voor volumelicenties geactiveerd op verkeerde rekening
+title: Volume Licensing Enterprise Agreement geactiveerd op het verkeerde account
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021529"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726121"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Enterprise Agreement voor volumelicenties geactiveerd voor het verkeerde account of licenties overdragen van het ene account naar het andere
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Volume Licensing Enterprise Agreement geactiveerd op het verkeerde account of licenties overzetten van het ene naar het andere account
 
-Als u merkt dat uw abonnementen die zijn gekocht via een **Volume Licensing Enterprise Agreement** zijn geactiveerd op de verkeerde **tenant,** of als u licenties van de ene tenant naar de andere wilt **overbrengen,** neemt u contact op met het [Microsoft Volume Licensing Service Center.](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)
+Neem contact op met het [Microsoft Volume Licensing-service centrum](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)als u uw abonnement hebt gekocht via een **Volume Licensing Enterprise Agreement of een Volume Licensing Enterprise Agreement via een Volume Licensing Enterprise Agreement** is geactiveerd of als u licenties van de ene naar de **andere Tenant wilt** **overzetten** .
