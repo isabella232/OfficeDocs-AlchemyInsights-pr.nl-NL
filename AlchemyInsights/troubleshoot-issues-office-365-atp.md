@@ -1,30 +1,31 @@
 ---
-title: Problemen oplossen met ATP (Advanced Threat Protection) voor Geavanceerde bedreiging van Office 365
+title: Problemen oplossen met Office 365 Advanced Threat Protection (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511107"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758060"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a><span data-ttu-id="3d657-102">Problemen met Office 365 ATP oplossen</span><span class="sxs-lookup"><span data-stu-id="3d657-102">Troubleshoot issues with Office 365 ATP</span></span>
+# <a name="troubleshoot-issues-with-office-365-atp"></a><span data-ttu-id="82deb-102">Problemen oplossen met Office 365 ATP</span><span class="sxs-lookup"><span data-stu-id="82deb-102">Troubleshoot issues with Office 365 ATP</span></span>
 
-- <span data-ttu-id="3d657-103">**Vertragingen merken bij de bezorging van e-mailberichten?**</span><span class="sxs-lookup"><span data-stu-id="3d657-103">**Notice delays with email message delivery**?</span></span> <span data-ttu-id="3d657-104">Probeer de optie Dynamische levering te gebruiken voor uw ATP-beleid voor veilige bijlagen.</span><span class="sxs-lookup"><span data-stu-id="3d657-104">Try using the Dynamic Delivery option for your ATP Safe Attachments policies.</span></span> <span data-ttu-id="3d657-105">Dit voorkomt vertragingen bij het bezorgen van e-mailberichten en beschermt ontvangers tegen schadelijke bestanden.</span><span class="sxs-lookup"><span data-stu-id="3d657-105">This will avoid email message delivery delays while protecting recipients from malicious files.</span></span>
-- <span data-ttu-id="3d657-106">**Wilt u valse positieven of valse negatieven melden?**</span><span class="sxs-lookup"><span data-stu-id="3d657-106">**Do you want to report false positives or false negatives**?</span></span> <span data-ttu-id="3d657-107">Gebruik deze koppeling om uw bestand in te dienen voor analyse:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span><span class="sxs-lookup"><span data-stu-id="3d657-107">Use this link to submit your file for analysis: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span></span>
-- <span data-ttu-id="3d657-108">**Wist u dat u atp-beveiliging voor veilige koppelingen inschakelen voor e-mail die tussen mensen in uw organisatie wordt verzonden?**</span><span class="sxs-lookup"><span data-stu-id="3d657-108">**Did you know that you can enable ATP Safe Links protection for email sent between people in your organization**?</span></span> <span data-ttu-id="3d657-109">Volg deze stappen:</span><span class="sxs-lookup"><span data-stu-id="3d657-109">Follow these steps:</span></span>
-    1. <span data-ttu-id="3d657-110">Ga naar https://protection.office.com en meld je aan.</span><span class="sxs-lookup"><span data-stu-id="3d657-110">Go to https://protection.office.com, and sign in.</span></span>
-    2. <span data-ttu-id="3d657-111">Ga naar **Threat Management**  >  **Policy**  >  **Safe Links**.</span><span class="sxs-lookup"><span data-stu-id="3d657-111">Go to **Threat management** > **Policy** > **Safe Links**.</span></span>
-    3. <span data-ttu-id="3d657-112">Bewerk **(beleidsregels die van toepassing zijn op specifieke ontvangers)** een beleid.under Policies that apply on specific recipients, edit (or add) a policy.</span><span class="sxs-lookup"><span data-stu-id="3d657-112">Under **Policies that apply to specific recipients**, edit (or add) a policy.</span></span>
-    4. <span data-ttu-id="3d657-113">Selecteer **Veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden.**</span><span class="sxs-lookup"><span data-stu-id="3d657-113">Select **Apply safe links to messages sent within the organization**.</span></span>
-    5. <span data-ttu-id="3d657-114">Sla uw beleid op en laat ongeveer 30 minuten toe voor uw wijzigingen om zich een weg te banen door uw datacenter.</span><span class="sxs-lookup"><span data-stu-id="3d657-114">Save your policy, and allow about 30 minutes for your changes to work their way through your datacenter.</span></span>
-- <span data-ttu-id="3d657-115">Zie [Geavanceerde bedreigingsbeveiliging van Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)voor meer hulp bij atp.</span><span class="sxs-lookup"><span data-stu-id="3d657-115">To get more help with ATP, see [Office 365 Advanced Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span></span>
+- <span data-ttu-id="82deb-103">**Merkt u vertraging op de bezorging van een e-mailbericht**?</span><span class="sxs-lookup"><span data-stu-id="82deb-103">**Notice delays with email message delivery**?</span></span> <span data-ttu-id="82deb-104">Gebruik de optie voor dynamische bezorging van de beleidsregels voor veilige bijlagen.</span><span class="sxs-lookup"><span data-stu-id="82deb-104">Try using the Dynamic Delivery option for your ATP Safe Attachments policies.</span></span> <span data-ttu-id="82deb-105">Hiermee voorkomt u de bezorgings vertraging van e-mailberichten bij het beschermen van de ontvangers tegen kwaadwillende bestanden</span><span class="sxs-lookup"><span data-stu-id="82deb-105">This will avoid email message delivery delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="82deb-106">**Wilt u onjuiste positieve of onjuiste negatieven melden**?</span><span class="sxs-lookup"><span data-stu-id="82deb-106">**Do you want to report false positives or false negatives**?</span></span> <span data-ttu-id="82deb-107">Gebruik deze koppeling om het bestand in te dienen voor analyse: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span><span class="sxs-lookup"><span data-stu-id="82deb-107">Use this link to submit your file for analysis: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)</span></span>
+- <span data-ttu-id="82deb-108">**Wist u dat u de bescherming van ATP voor veilige koppelingen kunt inschakelen voor e-mail die wordt verzonden tussenpersonen in uw organisatie**?</span><span class="sxs-lookup"><span data-stu-id="82deb-108">**Did you know that you can enable ATP Safe Links protection for email sent between people in your organization**?</span></span> <span data-ttu-id="82deb-109">Volg deze stappen:</span><span class="sxs-lookup"><span data-stu-id="82deb-109">Follow these steps:</span></span>
+    1. <span data-ttu-id="82deb-110">Ga naar https://protection.office.com en meld u aan.</span><span class="sxs-lookup"><span data-stu-id="82deb-110">Go to https://protection.office.com, and sign in.</span></span>
+    2. <span data-ttu-id="82deb-111">Ga naar **Threat management**  >  **Policy**  >  **veilige koppelingen**voor het beleid voor risicobeheer.</span><span class="sxs-lookup"><span data-stu-id="82deb-111">Go to **Threat management** > **Policy** > **Safe Links**.</span></span>
+    3. <span data-ttu-id="82deb-112">Onder **beleidsregels die van toepassing zijn op bepaalde geadresseerden**, een beleid bewerken (of toevoegen).</span><span class="sxs-lookup"><span data-stu-id="82deb-112">Under **Policies that apply to specific recipients**, edit (or add) a policy.</span></span>
+    4. <span data-ttu-id="82deb-113">Selecteer **veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden**.</span><span class="sxs-lookup"><span data-stu-id="82deb-113">Select **Apply safe links to messages sent within the organization**.</span></span>
+    5. <span data-ttu-id="82deb-114">Sla uw beleid op en zorg ervoor dat uw wijzigingen worden doorgevoerd in de bewerkings interface van uw datacenter.</span><span class="sxs-lookup"><span data-stu-id="82deb-114">Save your policy, and allow about 30 minutes for your changes to work their way through your datacenter.</span></span>
+- <span data-ttu-id="82deb-115">Ga voor meer informatie over ATP naar [Office 365 Advanced Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span><span class="sxs-lookup"><span data-stu-id="82deb-115">To get more help with ATP, see [Office 365 Advanced Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span></span>
