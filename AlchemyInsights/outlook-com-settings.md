@@ -1,25 +1,26 @@
 ---
-title: Outlook.com-instellingen
+title: Instellingen voor Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1916"
 - "9000302"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 14a38feb701627fc73a0648e78c7db8bbae9c4d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: bb233bc26bdaae2797293889e07fde7b32a5469c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765732"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722522"
 ---
 # <a name="settings-in-outlookcom"></a>Instellingen in Outlook.com
 
-Als je Outlook.com instellingen niet openen, klik dan [hier](https://outlook.live.com/mail/options/general/timeAndLanguage).
+[Klik hier](https://outlook.live.com/mail/options/general/timeAndLanguage)als u de instellingen van Outlook.com niet kunt openen.
 
-Sommige directe links niet open op het moment - we werken eraan!
+Sommige rechtstreekse koppelingen worden op dit moment niet geopend.

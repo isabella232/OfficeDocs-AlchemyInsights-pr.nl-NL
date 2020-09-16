@@ -1,26 +1,27 @@
 ---
-title: Outlook.com Hoe krijg je ondersteuning
+title: Outlook.com hoe u ondersteuning kunt vragen
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: 5b4fe5e6d31cec63c4580f69bf54ec9b83befe20
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 626bb85ac5939db7fc3f4f130bcb73805248fe0f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708790"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724034"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Hoe krijg je ondersteuning in Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Ondersteuning vragen in Outlook.com
 
-Sorry, Outlook.com biedt geen telefonische ondersteuning, maar we hebben wel speciale teams die u kunnen helpen.
-Voer uw vraag in of beschrijf het probleem in het bovenstaande **vak Help** en selecteer **Hulp ontvangen.**
+Sorry, Outlook.com biedt geen telefoon ondersteuning, maar we hebben speciale teams die u kunnen helpen.
+Typ uw vraag of beschrijf het probleem in het vak **Help** en selecteer vervolgens **Help opvragen**.
 
-[Hulp krijgen bij Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Help vragen bij Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
