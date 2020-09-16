@@ -1,28 +1,29 @@
 ---
-title: 'CSS: PSTN Pillar Deep Link Rule'
+title: 'CSS: regel voor uitgebreide verbinding PSTN-pijler'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: c349f896d68c408ce6e5adba4bd69d012e0f2daa
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 9e0e95ce9890609a878f9346ad1e1ffc7ce5ca98
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655385"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746358"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN bellen met Skype voor Bedrijven Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Bellen via PSTN met Skype voor bedrijven online
 
-Als u PSTN-gesprekken wilt voeren in Microsoft 365, hebt u een [Microsoft 365-belplan](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) of een verbinding met uw on-premises PSTN-telefonie-infrastructuur nodig. Zie voor meer informatie:
+Als u bellen via PSTN wilt doen in Microsoft 365, hebt u een [abonnement op Microsoft 365 bellen](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) of een verbinding nodig met uw on-PREMISes PSTN-telefoon infrastructuur. Zie voor meer informatie:
 
-- [Beschikbaarheid van land en regio voor abonnementen voor audiovergaderingen en belplannen](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Veelgestelde vragen met betrekking tot Microsoft 365-audiovergaderingen](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Fondsen toevoegen en communicatietegoed beheren](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN-bellers kunnen niet deelnemen aan een inbelgesprek met Skype voor Bedrijven](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Beschikbaarheid van land en regio voor audio vergaderingen en abonnementen voor gesprekken](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Veelgestelde vragen met betrekking tot Microsoft 365-audio vergaderingen](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Tegoeden aanvullen en communicatie tegoeden beheren](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [PSTN-bellers kunnen niet deelnemen aan een vergadering via inbelverbinding in Skype voor bedrijven](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

@@ -1,11 +1,12 @@
 ---
-title: 744 Gebruikers maken wanneer de organisatie in de hybride modus staat
+title: 744 gebruikers maken in de Hybrid-modus
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715263"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746503"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>Gebruikers maken in hybride implementaties
 
-Wanneer uw organisatie een hybride implementatie is tussen een on-premises omgeving en Microsoft 365, moet u alle gebruikersobjecten maken in uw on-premises Active Directory. U maakt de gebruikersobjecten in de juiste organisatie-eenheid (OU) zodat ze worden gesynchroniseerd in uw organisatie.
+Als uw organisatie een hybride implementatie heeft tussen een on-premises omgeving en Microsoft 365, moet u alle gebruikersobjecten maken in uw on-premises Active Directory. U maakt de gebruikersobjecten in de juiste organisatie-eenheid (OU) zodat ze worden gesynchroniseerd met uw organisatie.

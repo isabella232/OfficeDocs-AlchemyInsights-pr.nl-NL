@@ -1,45 +1,46 @@
 ---
-title: Intune-beleid en -profielen maken
+title: InTune-beleidsregels en profielen maken
 ms.author: mandia
 author: mandia
 manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715391"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746754"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Intune-beleid en -profielen maken
+# <a name="creating-intune-policy-and-profiles"></a>InTune-beleid en-profielen maken
 
-In Intune u beleid en profielen maken die verschillende dingen doen.
+In intune kunt u beleidsregels en profielen maken die verschillende dingen doen.
 
-- **Inschrijvingsprofielen:** configureer uw apparaten vooraf op platform, schakel gebruikersaffiniteit in, gebruik multi-factor authenticatie en meer.
+- **Inschrijvingsprofielen**: uw apparaten vooraf configureren per platform, gebruikersaffiniteit inschakelen, meervoudige verificatie gebruiken en meer.
 
-  [Wat is apparaat inschrijving,](https://docs.microsoft.com/intune/device-enrollment)en maak inschrijvingprofielen voor [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)en [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) zijn goede bronnen.
+  [Wat is apparaatregistratie](https://docs.microsoft.com/intune/device-enrollment)en maak inschrijvingsprofielen voor [Android](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)en [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) zijn goede bronnen.
 
-- **Nalevingsbeleid:** definieer de regels en instellingen die apparaten moeten volgen om compliant te zijn. U ook nalevingsbeleid gebruiken om apparaten te controleren en gebruikers op de hoogte te stellen van niet-naleving.
+- **Nalevingsbeleid**: Definieer de regels en instellingen die apparaten moeten volgen om compatibel te zijn. U kunt ook nalevingsbeleid gebruiken om apparaten te bewaken en gebruikers op de hoogte te stellen van niet-naleving.
 
-  Ga aan de slag met [het nalevingsbeleid voor apparaten](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Beleid voor voorwaardelijke toegang:** help organisatiebronnen te beveiligen, afhankelijk van de voorwaarden die u invoert. Gebruik bijvoorbeeld voor apparaten die niet compatibel zijn voorwaardelijke toegang om de toegang tot e-mail en SharePoint te beperken.
+  Aan de slag met [beleidsregels](https://docs.microsoft.com/intune/device-compliance-get-started)voor apparaatcompatibiliteit.
+- **Beleid voor voorwaardelijke toegang**: Beveilig organisatiebronnen, afhankelijk van de voorwaarden die u opgeeft. Voor apparaten die niet compatibel zijn, kunt u voorwaardelijke toegang gebruiken om de toegang tot e-mail en SharePoint te beperken.
 
-  [Wat voorwaardelijke toegang is](https://docs.microsoft.com/intune/conditional-access) en [gemeenschappelijke manieren om voorwaardelijke toegang te gebruiken,](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) zijn goede bronnen om aan de slag te gaan.
+  [Wat zijn voorwaardelijke toegang](https://docs.microsoft.com/intune/conditional-access) en [veelgebruikte manieren om voorwaardelijke toegang te gebruiken](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) , zijn goede bronnen om aan de slag te gaan.
 
-- **Configuratieprofielen**: Beheer functies en instellingen op apparaten, waaronder e-mailinstellingen, voeg een WiFi-netwerk toe, gebruik ingebouwde sjablonen, beheer de functies van iOS- en macOS-apparaten en meer.
+- **Configuratieprofielen**: functies en instellingen op apparaten beheren, zoals e-mailinstellingen, een WiFi-netwerk toevoegen, ingebouwde sjablonen gebruiken, Ios-en macOS-apparaat-en meer functies opgeven.
 
-  Aan de slag bij [apparaatconfiguratieprofielen.](https://docs.microsoft.com/intune/device-profiles)
+  Ga aan de slag met [apparaatconfiguratie-profielen](https://docs.microsoft.com/intune/device-profiles).
 
-Handige links:
+Handige koppelingen:
 
-- [Veelvoorkomende vragen, problemen en oplossingen met apparaatbeleid en profielen in Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Veelgestelde vragen, problemen en oplossingen met beleidsregels en profielen in intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Problemen met beleid en profielen oplossen in Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Problemen oplossen met beleidsregels en profielen in intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
