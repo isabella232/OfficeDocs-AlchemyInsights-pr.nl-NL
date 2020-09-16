@@ -1,22 +1,23 @@
 ---
-title: 1815 Vergroot de grootte van gedeeld postvak
+title: 1815 groter de grootte van het gedeelde Postvak
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 52e4e313319ec55111ee656e1eef0b01ada88ca9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711158"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755882"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="32a7d-102">De grootte van een gedeeld postvak vergroten</span><span class="sxs-lookup"><span data-stu-id="32a7d-102">Increase the size of a shared mailbox</span></span>
+# <a name="increase-the-size-of-a-shared-mailbox"></a><span data-ttu-id="efffc-102">Een gedeeld postvak groter maken</span><span class="sxs-lookup"><span data-stu-id="efffc-102">Increase the size of a shared mailbox</span></span>
 
-<span data-ttu-id="32a7d-103">U de grootte van een gedeeld postvak vergroten van de standaardgrootte van 50 GB naar 100 GB door het gedeelde postvak een Exchange Online P2-licentie toe te stellen (die is opgenomen in E3- en E5-licenties).</span><span class="sxs-lookup"><span data-stu-id="32a7d-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="32a7d-104">Wanneer u de P2-licentie toewijst aan het gedeelde postvak in [Actieve gebruikers,](https://portal.office.com/adminportal/home)wordt de grootte binnen 15 minuten automatisch vergroot.</span><span class="sxs-lookup"><span data-stu-id="32a7d-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>
+<span data-ttu-id="efffc-103">U kunt de grootte van een gedeeld postvak groter maken van de standaardgrootte van 50 GB naar 100 GB door het gedeelde Postvak toe te wijzen aan een Exchange Online P2-licentie (die ook binnen E3-en E5-licenties is inbegrepen).</span><span class="sxs-lookup"><span data-stu-id="efffc-103">You can increase the size of a shared mailbox from the default size of 50 GB to 100 GB by assigning the shared mailbox an Exchange Online P2 license (which is included within E3 and E5 licenses).</span></span> <span data-ttu-id="efffc-104">Wanneer u de P2-licentie aan het gedeelde Postvak in [actieve gebruikers](https://portal.office.com/adminportal/home)toewijst, wordt de grootte automatisch binnen 15 minuten verlengd.</span><span class="sxs-lookup"><span data-stu-id="efffc-104">When you assign the P2 license to the shared mailbox in [Active users](https://portal.office.com/adminportal/home), the size will be automatically increased within 15 minutes.</span></span>
