@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 01f2cb481f155e4e9ca958560aad96956b03c376
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8b1d182f350165ae025d198f74ed69b0cd734877
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760443"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752174"
 ---
-# <a name="create-a-folder-in-outlookcom"></a><span data-ttu-id="52085-102">Een map maken in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="52085-102">Create a folder in Outlook.com</span></span>
+# <a name="create-a-folder-in-outlookcom"></a><span data-ttu-id="35f49-102">Een map maken in Outlook.com</span><span class="sxs-lookup"><span data-stu-id="35f49-102">Create a folder in Outlook.com</span></span>
 
-1. <span data-ttu-id="52085-103">Selecteer Onder aan het mappenvenster de optie **Nieuwe map**.</span><span class="sxs-lookup"><span data-stu-id="52085-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="52085-104">Mogelijk moet u omlaag scrollen in het mappenvenster om de knop **Nieuwe map** te zien.</span><span class="sxs-lookup"><span data-stu-id="52085-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-2. <span data-ttu-id="52085-105">Voer in het tekstvak een naam voor de map in en druk op Enter.</span><span class="sxs-lookup"><span data-stu-id="52085-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="35f49-103">Selecteer **nieuwe map**onder aan het mappenvenster.</span><span class="sxs-lookup"><span data-stu-id="35f49-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="35f49-104">Mogelijk moet u omlaag schuiven in het mappenvenster om de knop **nieuwe map** weer te geven.</span><span class="sxs-lookup"><span data-stu-id="35f49-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+2. <span data-ttu-id="35f49-105">Voer in het tekstvak een naam in voor de map en druk op ENTER.</span><span class="sxs-lookup"><span data-stu-id="35f49-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="52085-106">Zie [Een map maken in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="52085-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="35f49-106">Zie [een map maken in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="35f49-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
