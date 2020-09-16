@@ -1,22 +1,23 @@
 ---
-title: Rapporten zonder levering in de webversie van Outlook
+title: Rapporten over niet-uitgevoerde bezorging van de webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768540"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721910"
 ---
-# <a name="issues-with-email-delivery"></a>Problemen met e-mailbezorging
+# <a name="issues-with-email-delivery"></a>Problemen met de bezorging van e-mail
 
-Als er een probleem is met het verzenden van een e-mailbericht dat u hebt verzonden, stuurt Microsoft 365 een e-mail om u dit te laten weten. De e-mail die u ontvangt is een melding van de leveringsstatus, ook wel een DSN of bouncebericht genoemd. Het meest voorkomende type wordt een ndr(non-delivery report) genoemd, dat u vertelt dat een bericht niet is bezorgd. Niet-levering kan worden veroorzaakt door iets eenvoudigs als een typfout in een e-mailadres. NDR's bevatten een foutcode die aangeeft waarom uw e-mail niet is bezorgd, oplossingen om u te helpen uw e-mail te bezorgen, een link naar meer hulp op het web en technische details voor beheerders.
+Wanneer er een probleem is met het verzenden van een e-mailbericht dat u hebt verzonden, verzendt Microsoft 365 een e-mail om u te laten weten. De e-mail die u ontvangt, is een melding over de bezorgingsstatus, ook wel wel een DSN-bericht of een bericht met een stuiter bericht genoemd. Het gemeenschappelijke type wordt een rapport over niet-uitgevoerde bezorging genoemd, waarin wordt aangegeven dat een bericht niet is bezorgd. Non-Delivery kan worden veroorzaakt door iets als een type fout in een e-mailadres. Ndr's bevatten een foutcode waarmee wordt aangegeven waarom uw e-mail niet is bezorgd, oplossingen voor het ontvangen van uw e-mail, een koppeling naar meer hulp op internet en technische details van beheerders.
 
-Zie [E-mailrapporten voor niet-bezorging in Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)om een lijst met NDR's te bekijken en erachter te komen waarom uw bericht niet is bezorgd.
+Zie [rapporten over niet-uitgevoerde bezorging van e-mail in Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)voor een overzicht van ndr's en de reden waarom het bericht niet is bezorgd.
