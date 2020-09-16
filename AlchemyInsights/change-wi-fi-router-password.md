@@ -1,42 +1,43 @@
 ---
-title: W-Fi-routerwachtwoord wijzigen
+title: W-Fi router wachtwoord wijzigen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584508"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733430"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Het wachtwoord van uw Wi-Fi-router wijzigen
+# <a name="change-your-wi-fi-router-password"></a>Uw Wi-Fi router-wachtwoord wijzigen
 
 Voer de volgende stappen uit om het wachtwoord van uw Wi-Fi-router te wijzigen:
 
-1. Selecteer **Netwerk startinstellingen** > **** > **& internetnetwerk** > **en deelcentrum**.
+1. Selecteer **Start**  >  **instellingen**  >  **netwerk & Internet**  >  **netwerk en delen centrum**.
 
-2. Zoek onder **Bekijk uw actieve netwerken**naar het netwerk waarop u bent verbonden. Selecteer de blauwe koppeling naast **Verbindingen**.<br>
+2. Kijk onder **uw actieve netwerken weergeven**naar het netwerk waarmee u bent verbonden. Selecteer de blauwe koppeling naast **verbindingen**.<br>
 
-   **Let op:** Als u geen verbinding hebt met de Wi-Fi, moet u verbinding maken voordat u het wachtwoord wijzigen.
+   **Opmerking:** Als u geen verbinding hebt met Wi-Fi, moet u verbinding hebben voordat u het wachtwoord kunt wijzigen.
 
 3. Selecteer **Details**.
 
-4. Zoek naar uw IPv4 Default Gateway en neem nota van deze reeks getallen, inclusief perioden. Bijvoorbeeld: 192.168.0.1, 192.168.1.1, 10.0.0.1 of 10.0.1.1
+4. Zoek uw IPv4-standaard gateway en Let op deze reeks getallen, waaronder de punten. Bijvoorbeeld: 192.168.0.1, 192.168.1.1, 10.0.0.1 of 10.0.1.1
 
-5. Open een browser, voer deze reeks getallen in, inclusief de perioden in de adresbalk, en druk op Enter om naar de configuratiepagina van de router te gaan.
+5. Open een browser, voer deze reeks getallen, waaronder de punten, in de adresbalk in en druk op ENTER om naar de configuratiepagina van de router te gaan.
 
-6. Wanneer de configuratiepagina van de router wordt geopend, voert u uw gebruikersnaam en wachtwoord in.<br>
-   - Als u de standaardgebruikersnaam en het wachtwoord voor de router nooit hebt gewijzigd, u deze informatie waarschijnlijk vinden in de handleiding van uw router.
+6. Voer uw gebruikersnaam en wachtwoord in wanneer de configuratiepagina van de router wordt geopend.<br>
+   - Als u de standaardgebruikersnaam en-wachtwoord voor de router niet hebt gewijzigd, kunt u deze informatie waarschijnlijk vinden in de handleiding van uw router.
 
-   - Neem contact op met de fabrikant van uw router als u extra ondersteuning nodig hebt bij het inloggen op deze webpagina.
+   - Neem contact op met de fabrikant van uw router als u meer hulp nodig hebt bij het aanmelden bij deze webpagina.
 
-7. Zodra u bent ingelogd, zoekt u Draadloze instellingen. U moet nu uw Wi-Fi-wachtwoord kunnen wijzigen.
+7. Wanneer u bent aangemeld, kunt u draadloze instellingen zoeken. U kunt nu uw Wi-Fi-wachtwoord wijzigen.
