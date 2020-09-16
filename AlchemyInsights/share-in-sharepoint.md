@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: e14bd6b4ddd0b4fbe5a6f0991e7f12009c9a2137
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582338"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739316"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Delen in SharePoint Online
 
@@ -24,12 +25,12 @@ Een site delen:
   
 1. Open de site in een webbrowser.
     
-2. Als de site tot een Microsoft 365-groep behoort, klikt u rechtsboven op het pictogram Instellingen en klikt u vervolgens op **Sitemachtigingen**. Klik **op Personen uitnodigen**en kies vervolgens om leden toe te voegen aan de Microsoft 365-groep of alleen de site te delen. 
+2. Als de site deel uitmaakt van een Microsoft 365-groep, klikt u in de rechterbovenhoek op het pictogram instellingen en klikt u vervolgens op **site machtigingen**. Klik op **personen uitnodigen**en kies vervolgens om leden toe te voegen aan de microsoft 365-groep of alleen de site te delen. 
     
-    Klik voor een communicatiesite op **Site delen** in de rechterbovenhoek, voer de naam van de persoon in en selecteer vervolgens het machtigingsniveau (Lezen, Bewerken of Volledig beheer). 
+    Voor een communicatiesite klikt u in de rechterbovenhoek op **site delen** , voert u de naam van de persoon in en selecteert u vervolgens het machtigingsniveau (lezen, bewerken of volledig beheer). 
     
-    Klik voor een klassieke teamsite rechtsboven op **Delen.** Voer de naam in van de persoon die u wilt uitnodigen of typ Iedereen die u met iedereen in uw organisatie wilt delen. Klik op **Delen**.
+    Klik voor een klassieke team site in de rechterbovenhoek op **delen** . Voer de naam in van de persoon die u wilt uitnodigen of typ iedereen die u wilt delen met iedereen in uw organisatie. Klik op **delen**.
     
-[Meer informatie over het delen van een bestand of map](https://go.microsoft.com/fwlink/?linkid=511430)
+[Leer hoe u een bestand of map deelt](https://go.microsoft.com/fwlink/?linkid=511430)
   
 
