@@ -1,45 +1,46 @@
 ---
-title: Fix Bluetooth-printer
+title: Bluetooth-printer repareren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: 1975d3b1b5f22090c151826b5cc044f8ef3787c3
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744582"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744909"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Verbindingsproblemen met de Bluetooth-printer oplossen
+# <a name="fix-bluetooth-printer-connection-issues"></a>Problemen met de Bluetooth-printerverbinding oplossen
 
-Probeer deze stappen voor probleemoplossing om uw Bluetooth-printer opnieuw te laten werken:
+Probeer deze probleemoplossingsstappen uit om de Bluetooth-printer opnieuw te laten werken:
 
 
 1. Controleer of Bluetooth is ingeschakeld:
-    1. Selecteer **Start** > **instellingen** > **** apparaten > **Bluetooth & andere apparaten**.
-    2. Schakel de Bluetooth- **schakelaar in**.
-2. Voer de probleemoplosser voor Bluetooth uit. <br>
-    Selecteer **Start**, typ **instellingen voor probleemoplossing**en selecteer vervolgens de optie **instellingen oplossen** . Selecteer **Bluetooth** in het menu en **Voer de probleemoplosser uit**.
+    1. Selecteer instellingen voor het **opstarten**van  >  **Settings**  >  **apparaten**  >  **Bluetooth & andere apparaten**.
+    2. Zet de Bluetooth-wisselknop **aan**.
+2. Voer de probleemoplosser Bluetooth uit. <br>
+    Selecteer **Start**, typ **Probleemoplossing-instellingen**en selecteer vervolgens de optie **instellingen voor problemen oplossen** . Selecteer **Bluetooth** in het menu en **Voer de probleemoplosser**uit.
 
-Als dat niet werkt, probeert u de Bluetooth-printer te verwijderen en opnieuw te installeren:
+Als dat niet werkt, verwijdert u de Bluetooth-printer en installeert u deze opnieuw:
 
-1. Verwijder de printer in de instellingen:
-    1. Selecteer **Start** > **instellingen** > **** apparaten > **Printers & scanners**.
-    2. Selecteer onder **Printers & scanners**de printer waarmee u problemen wilt oplossen. Selecteer **apparaat verwijderen**. Volg de instructies om de printer volledig te verwijderen.
-2. Verwijder alle software van de printerfabrikant van derden:
-    1. Selecteer**apps**voor **Start** > **instellingen** > .
-    2. Scrol onder **Apps & functies**naar alle software die is geïnstalleerd van de fabrikant van uw printer (zoals HP, Canon of Epson).
-3. Schakel de printer uit en start deze opnieuw op.
-   1. Schakel de printer uit en koppel de voedingskabel los. Wacht 30 seconden. 
-   2. Sluit de printer weer aan en zet de printer weer aan.
-4. Installeer de printer opnieuw in de instellingen:
-    1. Selecteer **Start** > **instellingen** > **** apparaten > **Printers & scanners**.
+1. De printer verwijderen in instellingen:
+    1. Selecteer **Start**  >  **instellingen**voor  >  **apparaat**opstarten  >  **& scanners**.
+    2. Selecteer onder **Printers & scanners**de printer die u wilt oplossen. Selecteer **apparaat verwijderen**. Volg de instructies om de printer volledig te verwijderen.
+2. Verwijder de software van een derde fabrikant van de printer:
+    1. Selecteer **Start**  >  **instellingen**  >  **apps**starten.
+    2. Blader onder **Apps & functies**naar een software die is geïnstalleerd via de fabrikant van uw printer (zoals HP, Canon of Epson).
+3.  Schakel uw printer uit en start deze opnieuw op .
+   1. Schakel uw printer uit en koppel de stroomkabel los. Wacht 30 seconden. 
+   2. Sluit uw printer weer aan en zet de printer weer aan.
+4. Installeer de printer opnieuw in instellingen:
+    1. Selecteer **Start**  >  **instellingen**voor  >  **apparaat**opstarten  >  **& scanners**.
     2. Selecteer de koppeling **printer of scanner toevoegen** boven aan het scherm en volg de instructies om de printer opnieuw te installeren.

@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063684"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744657"
 ---
 # <a name="fix-windows-update-errors"></a>Windows Update-fouten oplossen
 
-Als u een foutcode ontvangt tijdens het downloaden en installeren van Windows-update, kan de **probleemoplosser voor bijwerken** helpen bij het oplossen van het probleem.
+Als u bij het downloaden en installeren van Windows Update een foutcode krijgt, kunt u dit probleem oplossen door de probleem **Oplosser voor updates** te gebruiken.
 
-- [Probleemoplosser voor bijwerken downloaden voor Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Voer de probleemoplosser uit. Als het klaar is, is het de beste manier om je apparaat opnieuw op te starten. Controleer vervolgens op nieuwe updates door naar [> Instellingen > Update &-beveiligingsupdate > Windows Update](ms-settings:windowsupdate)te gaan.
+- [Probleemoplossing voor downloaden van updates voor Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Voer de probleemoplosser uit. Wanneer u klaar bent, is het raadzaam om uw apparaat opnieuw op te starten. Ga vervolgens naar nieuwe updates door naar [> instellingen te gaan > & beveiliging > Windows Update te starten](ms-settings:windowsupdate).
 
-Als deze nog steeds niet werken, kijk dan op [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) voor meer informatie.
+Als ze nog steeds niet werken, raadpleegt u [Windows Update: veelgestelde vragen](https://support.microsoft.com/help/12373/windows-update-faq) voor meer informatie.
