@@ -6,34 +6,35 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: e15ac7a1f2c81121bf8fdb66a8872f79f9f227d6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0092ca78a075463c0574357861b41b15fefe59af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720355"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768746"
 ---
 # <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Afzenders blokkeren of deblokkeren in de webversie van Outlook
 
-**Vanuit je inbox:**
+**Vanuit uw postvak in:**
 
-- Selecteer in de berichtenlijst het bericht en selecteer **Ongewenste** > **blokkering**.
+- Selecteer het bericht in de berichtenlijst en selecteer vervolgens **ongewenste**  >  **blok**.
 
-**Vanuit instellingen:**
+**Van instellingen:**
 
-1. Selecteer boven aan de pagina het tandwielpictogram <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- om instellingen te openen en vervolgens **Alle Outlook-instellingen weergeven**te selecteren .
-2. Selecteer **E-mailongewenste** > **e-mail**.
-3. Selecteer Onder **Geblokkeerde afzenders en domeinen**de optie **Toevoegen**.
-4. Typ het e-mailadres van het domein dat u wilt blokkeren en druk op Enter.
-5. Kies **Opslaan**.
+1. Selecteer boven aan de pagina het tandwiel pictogram <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ om instellingen te openen en selecteert u vervolgens **alle Outlook-instellingen weergeven**.
+2. Selecteer **Mail**  >  **ongewenste e-mail voor**e-mail.
+3. Selecteer **toevoegen**onder **Geblokkeerde afzenders en domeinen**.
+4. Voer het e-mailadres in van het domein dat u wilt blokkeren en druk op ENTER.
+5. Selecteer **Opslaan**.
 
-Als u de blokkering van een afzender wilt opheffen, selecteert u het prullenbakpictogram naast het e-mailadres of domein dat u wilt deblokkeren.
+Als u een afzender wilt deblokkeren, selecteert u het prullenbakpictogram naast het e-mailadres of domein waarvan u de blokkering wilt opheffen.
 
-Zie [Afzenders blokkeren of afzenders deblokkeren in de webversie van Outlook](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+Zie afzenders [blokkeren of deblokkeren in de webversie van Outlook](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)voor meer informatie.
