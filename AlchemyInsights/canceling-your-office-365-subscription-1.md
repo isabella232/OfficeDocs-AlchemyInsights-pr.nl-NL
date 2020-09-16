@@ -1,11 +1,12 @@
 ---
-title: Uw Microsoft 365-abonnement opzeggen?
+title: Uw abonnement op Microsoft 365 annuleren?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: a8443f0cdab72d8760ae72e9d20dd3f49870f585
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508227"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757223"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Uw Microsoft 365-abonnement opzeggen?
+# <a name="canceling-your-microsoft-365-subscription"></a>Uw abonnement op Microsoft 365 annuleren?
 
-Het spijt ons dat je gaat, maar dit zijn je opties om je abonnement op te zeggen:
+We vinden het jammer dat u wilt opzeggen, maar hier zijn enkele manieren om uw abonnement op te zeggen:
   
-- **Op basis van uw organisatiegegevens geloven wij dat al uw huidige abonnementen proefabonnementen zijn. Het is niet nodig om een proefabonnement expliciet op te zeggen omdat proefabonnementen geen betalingen vereisen en er geen verplichting is nadat de proefperiode is afgelopen.**
+- **Op basis van de gegevens van uw organisatie geloven dat uw huidige abonnementen een proefabonnement zijn. U hoeft geen proefabonnement expliciet te annuleren omdat een proefabonnement geen betalingen hoeft te doen, en er geen verplichting na de proefperiode is verstreken.**
 
-- Zie dit artikel voor meer informatie over het opzeggen van een abonnement of voor stapsgewijze instructies: [Uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- Zie het volgende artikel voor meer informatie over het annuleren van abonnementen of voor stapsgewijze instructies: [uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

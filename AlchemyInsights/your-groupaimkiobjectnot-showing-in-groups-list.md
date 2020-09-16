@@ -1,24 +1,25 @@
 ---
-title: Uw groep wordt niet weergegeven in de lijst Groepen
-ms.author: v-crytho
+title: Uw groep wordt niet weergegeven in de groepslijst
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715807"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757475"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Uw groep {AimKIObject}" wordt niet weergegeven in de lijst Groepen
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>De groep ' {AimKIObject} ' wordt niet weergegeven in de groepslijst
 
-Uw distributiegroep met de naam {AimKIObject}, is enkele minuten geleden gemaakt als {AimKITimeElapsed}. Het kan tot 60 minuten duren voordat uw nieuwe groep wordt weergegeven in het beheercentrum.
+Uw distributiegroep met de naam {AimKIObject} is al {AimKITimeElapsed} minuten geleden gemaakt. Het kan tot 60 minuten duren voordat de nieuwe groep in het Beheercentrum wordt weergegeven.
   
-Als u nu leden wilt toevoegen of andere bewerkingen wilt aanbrengen, gebruikt u de functie Groepen in het [Exchange-beheercentrum](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Als u leden wilt toevoegen of nu andere bewerkingen wilt doorvoeren, gebruikt u de functiegroepen in het [Exchange-Beheercentrum](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

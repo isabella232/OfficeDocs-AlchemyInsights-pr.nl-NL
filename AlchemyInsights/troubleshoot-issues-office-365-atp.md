@@ -1,30 +1,31 @@
 ---
-title: Problemen oplossen met ATP (Advanced Threat Protection) voor Geavanceerde bedreiging van Office 365
+title: Problemen oplossen met Office 365 Advanced Threat Protection (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511107"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758060"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Problemen met Office 365 ATP oplossen
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Problemen oplossen met Office 365 ATP
 
-- **Vertragingen merken bij de bezorging van e-mailberichten?** Probeer de optie Dynamische levering te gebruiken voor uw ATP-beleid voor veilige bijlagen. Dit voorkomt vertragingen bij het bezorgen van e-mailberichten en beschermt ontvangers tegen schadelijke bestanden.
-- **Wilt u valse positieven of valse negatieven melden?** Gebruik deze koppeling om uw bestand in te dienen voor analyse:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Wist u dat u atp-beveiliging voor veilige koppelingen inschakelen voor e-mail die tussen mensen in uw organisatie wordt verzonden?** Volg deze stappen:
-    1. Ga naar https://protection.office.com en meld je aan.
-    2. Ga naar **Threat Management**  >  **Policy**  >  **Safe Links**.
-    3. Bewerk **(beleidsregels die van toepassing zijn op specifieke ontvangers)** een beleid.under Policies that apply on specific recipients, edit (or add) a policy.
-    4. Selecteer **Veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden.**
-    5. Sla uw beleid op en laat ongeveer 30 minuten toe voor uw wijzigingen om zich een weg te banen door uw datacenter.
-- Zie [Geavanceerde bedreigingsbeveiliging van Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)voor meer hulp bij atp.
+- **Merkt u vertraging op de bezorging van een e-mailbericht**? Gebruik de optie voor dynamische bezorging van de beleidsregels voor veilige bijlagen. Hiermee voorkomt u de bezorgings vertraging van e-mailberichten bij het beschermen van de ontvangers tegen kwaadwillende bestanden
+- **Wilt u onjuiste positieve of onjuiste negatieven melden**? Gebruik deze koppeling om het bestand in te dienen voor analyse: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Wist u dat u de bescherming van ATP voor veilige koppelingen kunt inschakelen voor e-mail die wordt verzonden tussenpersonen in uw organisatie**? Volg deze stappen:
+    1. Ga naar https://protection.office.com en meld u aan.
+    2. Ga naar **Threat management**  >  **Policy**  >  **veilige koppelingen**voor het beleid voor risicobeheer.
+    3. Onder **beleidsregels die van toepassing zijn op bepaalde geadresseerden**, een beleid bewerken (of toevoegen).
+    4. Selecteer **veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden**.
+    5. Sla uw beleid op en zorg ervoor dat uw wijzigingen worden doorgevoerd in de bewerkings interface van uw datacenter.
+- Ga voor meer informatie over ATP naar [Office 365 Advanced Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
