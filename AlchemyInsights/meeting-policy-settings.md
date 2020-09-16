@@ -1,34 +1,35 @@
 ---
-title: Beleidsinstellingen voor vergadering
+title: Beleidsinstellingen voor vergaderingen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042839"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794329"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Vergaderbeleid beheren in Microsoft Teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Beleidsregels voor vergaderingen beheren in Microsoft teams
 
-**Opmerking: het kan tot 24 uur duren voordat beleidswijzigingen van kracht worden voor gebruikers.** Mogelijk u niet onmiddellijk wijzigingen aanbrengen in nieuw gemaakt beleid. wacht 4 uur en probeer een nieuw gemaakt beleid opnieuw te wijzigen.
+**Opmerking: het kan tot 24 uur duren voordat beleidswijzigingen zijn doorgevoerd voor gebruikers.** U kunt mogelijk geen wijzigingen aanbrengen in nieuw gemaakte beleidsregels. Wacht 4 uur en probeer nogmaals een nieuw gemaakt beleid te wijzigen.
 
-Vergaderbeleid wordt gebruikt om de functies te beheren die beschikbaar zijn voor deelnemers aan vergaderingen voor vergaderingen die zijn gepland door gebruikers in uw organisatie. Sommige functies van het vergaderbeleid worden mogelijk nog niet geïmplementeerd in het beheercentrum van Teams (deze worden in de documentatie als 'binnenkort' gelabeld). In dit geval, of als u een foutmelding krijgt als 'We kunnen het beleid nu niet bijwerken, maar het later opnieuw proberen' in het Microsoft Teams-beheercentrum, raden we u aan PowerShell te gebruiken om het beleid voor teams en vergaderingen te maken of te wijzigen. 
+Beleidsregels voor vergaderingen worden gebruikt voor het regelen van de functies die beschikbaar zijn voordeel nemers aan vergaderingen die zijn gepland door gebruikers in uw organisatie. Sommige functies van het beleid voor vergaderingen worden mogelijk niet geïmplementeerd in het team centrum voor teams (dit zijn de namen ' binnenkort beschikbaar ' in de documentatie). In dit geval of als er een foutbericht wordt weergegeven zoals ' het beleid kan nu niet worden bijgewerkt, maar later opnieuw proberen ' in het Microsoft teams-Beheercentrum, raden we u aan dat u PowerShell gebruikt om beleidsregels voor vergaderingen te maken of te wijzigen. 
 
-Zie de volgende bronnen voor meer informatie over vergaderbeleid:
+Raadpleeg de volgende bronnen voor meer informatie over het beleid voor de vergadering:
 
-- Zie [Vergaderingsbeleid beheren in Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)voor meer informatie over het maken van beleid, het aanbrengen van wijzigingen en het toewijzen van gebruikers aan het beleid.
+- Zie [beleidsregels voor vergaderingen in teams beheren](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)voor meer informatie over het maken van beleidsregels, het aanbrengen van wijzigingen en het toewijzen van gebruikers aan het beleid.
 
-- Zie Overzicht van [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)om beleidswijzigingen aan te brengen met PowerShell-cmdlets. 
-    - U moet de [PowerShell-module van Skype voor Bedrijven](https://www.microsoft.com/download/details.aspx?id=39366) gebruiken voor het voldoensbeleid van Teams. 
-    - Bekijk de [*-CsTeamsMeetingPolicy cmdlets documentatie](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) voor meer informatie.
+- Zie [overzicht van PowerShell-PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)als u beleidswijzigingen wilt aanbrengen met PowerShell-cmdlets. 
+    - U moet de [Skype voor bedrijven PowerShell-module](https://www.microsoft.com/download/details.aspx?id=39366) gebruiken voor team vergaderings beleid. 
+    - Zie de [documentatie over de CsTeamsMeetingPolicy-cmdlets](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) voor meer informatie.
 
