@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 52a8094806e3f4898c43643c7a4751bb20d1a3d5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 1aa95feda8d776477ece0e5128b9e7a5c7569c0b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580688"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756638"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Het domein voor Microsoft 365 Group wijzigen
+# <a name="change-the-domain-for-microsoft-365-group"></a>Het domein voor Microsoft 365-groep wijzigen
 
-Als u het domein voor een Microsoft 365-groep wilt wijzigen tijdens het maken, voert u de stappen in [Kies het domein dat u wilt gebruiken bij het maken van Microsoft 365-groepen](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Als u tijdens het maken van een Microsoft 365-groep het domein wilt wijzigen, volgt u de stappen in [het domein kiezen dat u wilt gebruiken voor het maken van Microsoft 365-groepen](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
   
-Nadat de Microsoft 365-groep al is gemaakt, is er momenteel geen manier om het domein te wijzigen. De enige manier is om een nieuwe Microsoft 365-groep te maken en de oude groep indien nodig te verwijderen (extra e-mailadressen kunnen worden toegevoegd via het [Exchange Admin Center).](https://outlook.office365.com/ecp.aspx)
+Wanneer de Microsoft 365-groep al is gemaakt, is het op dit moment niet mogelijk om het domein te wijzigen. De enige manier is om een nieuwe Microsoft 365-groep te maken en zo nodig het oude te verwijderen (extra e-mailadressen kunnen worden toegevoegd via het [Exchange-Beheercentrum](https://outlook.office365.com/ecp.aspx)).

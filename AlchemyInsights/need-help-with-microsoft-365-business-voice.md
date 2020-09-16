@@ -1,25 +1,26 @@
 ---
-title: Hulp nodig bij Microsoft 365 Business Premium Voice?
+title: Hulp nodig met Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761953"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754560"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Hulp nodig bij Microsoft 365 Business Premium Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Hulp nodig met Microsoft 365 Business Premium Voice?
 
-Microsoft 365 Business Premium Voice maakt het voor kleine en middelgrote organisaties gemakkelijk om van Microsoft Teams een krachtig en flexibel telefoonsysteem te maken. Zie Wat is Microsoft [365 Business Premium Voice voor](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) meer informatie over Business Voice?
+Met Microsoft 365 Business Premium Voice kunt u eenvoudig met kleine en middelgrote ondernemingen Microsoft teams omzetten in een krachtig en flexibel telefoonsysteem. Zie [Wat is Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) voor meer informatie over zakelijke spraak.
 
-Als u Microsoft 365 Business Premium Voice al hebt overgenomen, u met de [wizard Aan](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) de slag de zaken op gang brengen. 
+Als u al Microsoft 365 Business Premium Voice hebt aangeschaft, kunt u met de [wizard aan](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) de slag aan de slag gaan. 
