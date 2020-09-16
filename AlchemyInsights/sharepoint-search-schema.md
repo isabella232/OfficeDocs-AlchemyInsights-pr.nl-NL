@@ -1,36 +1,37 @@
 ---
-title: Zoekschema in SharePoint Online beheren
+title: Zoekschema beheren in SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042958"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770546"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Zoekschema in SharePoint Online beheren
+# <a name="manage-search-schema-in-sharepoint-online"></a>Zoekschema beheren in SharePoint Online
 
-Het zoekschema bepaalt wat gebruikers kunnen zoeken, hoe gebruikers het kunnen doorzoeken en hoe u de resultaten op uw Zoek websites presenteren. 
+Met het zoekschema kunt u bepalen waarop gebruikers kunnen zoeken, hoe gebruikers kunnen zoeken en hoe u de zoekresultaten kunt presenteren. 
 
-Zie [het zoek schema in SharePoint Online beheren](https://docs.microsoft.com/sharepoint/manage-search-schema) voor meer informatie over het: 
-- Wijzig het zoekschema.
+Zie [het zoek schema beheren in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) voor meer informatie over: 
+- Het zoekschema wijzigen.
 - Beheerde eigenschappen maken.
-- Verkende eigenschappen toewijzen aan beheerde eigenschappen.
+- Verkende toewijzingen met verkende eigenschappen aan beheerde eigenschappen.
 
-Opmerking het volgende met betrekking tot het beheren van uw zoek schema:
+Houd rekening met het volgende bij het beheren van uw zoek schema:
 
-- Als u een waarschuwing ontvangt waarin **wordt gemeld dat de toepassing is onderbroken bij het maken van** een schemawijziging, is dit slechts tijdelijk omdat er onderhoud van de service plaatsvindt. 
+- Als u een waarschuwing ontvangt met de mededeling dat **de toepassing wordt onderbroken tijdens het** aanbrengen van een schemawijziging, is dit alleen tijdelijk wanneer er onderhoud op de service plaatsvindt. 
 
-    Als er meer dan 24 uur zijn verstreken en u de waarschuwing nog steeds ervaart, logt u een ondersteuningsaanvraag in.
-- Wanneer u beheerde eigenschappen wijzigt of nieuwe toevoegt, worden de wijzigingen pas van kracht nadat de inhoud opnieuw is gecrawld. In SharePoint Online gebeurt het crawlen automatisch op basis van het gedefinieerde verkennings schema.
-- Om ervoor te zorgen dat uw wijzigingen worden verkend, u specifiek [een nieuwe indexering van de lijst of bibliotheek aanvragen](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Als u meer dan 24 uur hebt doorgegeven en u de waarschuwing nog steeds ondervindt, registreert u een ondersteuningsaanvraag.
+- Wanneer u beheerde eigenschappen wijzigt of nieuwe toevoegt, worden de wijzigingen pas van kracht nadat de inhoud opnieuw is verkend. In SharePoint Online wordt het verkennen automatisch uitgevoerd op basis van het gedefinieerde verkenningsschema.
+- Om ervoor te zorgen dat uw wijzigingen worden verkend, kunt u specifiek [een nieuwe Indexeer van de lijst of bibliotheek aanvragen](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Voor een volledig overzicht van het zoekschema, Zie [Introductie schema introduceren](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+Zie het [zoekschema introduceren](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) voor een volledig overzicht van het zoekschema. 
 
 
