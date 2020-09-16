@@ -1,36 +1,37 @@
 ---
-title: Het inschrijven van Android-apparaten in intune
+title: Android-apparaten registreren in intune
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: fdab7958e0dfea34fd1e113be09fff4cd3019401
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654377"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784302"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Het inschrijven van Android-apparaten in intune
+# <a name="enrolling-android-devices-into-intune"></a>Android-apparaten registreren in intune
 
-InTune ondersteunt de inschrijving van de volgende Android-apparaten:
+InTune biedt ondersteuning voor de registratie van de volgende Android-apparaten:
 - Samsung Knox en Zebra
-- Android Enterprise werkprofiel
-- Android Enterprise dedicated
-- Android Enterprise volledig beheerd
+- Enterprise-werkprofiel van Android
+- Speciaal voor Android Enterprise
+- Volledig beheerde Android Enterprise
 
-Voordat u de inschrijving voor Android-apparaten instelt, [controleert u de vereisten] (https://docs.microsoft.com/intune/enrollment/android-enroll.
+Voordat u de registratie voor Android-apparaten instelt, moet u [de vereisten nakijken] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
 
-Voor informatie over het oplossen van problemen met apparaatinschrijving in het algemeen en sommige Android-inschrijvings fouten, Zie [problemen met apparaatinschrijving in Microsoft intune oplossen](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Voor informatie over het oplossen van problemen met het apparaat in het algemeen en bepaalde foutberichten bij een Android-apparaat, raadpleegt u [problemen met apparaatregistratie in Microsoft intune oplossen](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-U ook de [inhoud die de intune-Blade voor probleemoplossing beschrijft](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) gebruiken om te bepalen welke inschrijvings problemen uw gebruikers ondervinden.
+U kunt ook de inhoud met een beschrijving van de functie voor [het intune-problemen oplossen](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) gebruiken om vast te stellen welke enrolment problemen uw gebruikers ondervinden.
 
 
 

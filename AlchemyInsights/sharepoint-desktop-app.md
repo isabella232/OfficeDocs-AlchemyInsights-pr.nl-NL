@@ -1,22 +1,23 @@
 ---
-title: Desktopapp voorsharepoint
+title: Bureaublad-app voor SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 9c7d5eb8a6b0e86736dcae3be950d512e58f067c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 548f1f5b834d84a41fe6f5befc4c9e9630aa9d91
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044158"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800855"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Desktopapp voorsharepoint
+# <a name="desktop-app-for-sharepoint"></a>Bureaublad-app voor SharePoint
 
-Uw organisatie wordt ingevoerd in het private preview-programma voor de Desktopapp voorsharepoint.
+Uw organisatie is opgenomen in het private Preview Program voor de bureaublad-app voor SharePoint.
 
-Microsoft biedt momenteel geen ondersteuning voor de Desktopapp voorsharepoint (private preview). Gebruik uw opgenomen Microsoft Private preview-partners om hulp te krijgen bij de Desktopapp voorsharepoint.
+Microsoft biedt op dit moment geen ondersteuning voor de bureaublad-app voor SharePoint (private preview). Gebruik uw aangemelde Microsoft Private preview-partners voor hulp bij de desktop-app voor SharePoint.
 

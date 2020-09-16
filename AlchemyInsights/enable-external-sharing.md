@@ -5,38 +5,39 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703602"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784662"
 ---
 # <a name="enable-external-sharing"></a>Extern delen inschakelen
 
- Ga als u erop toe als u erop aangaat dat delen is ingeschakeld voor SharePoint Online:
+ Ervoor zorgen dat delen is ingeschakeld voor SharePoint Online:
   
-- **Wereldwijd delen**
+- **Algemeen delen**
     
-  - Portal\> - Extern\> delen - Overzicht delen - Sites, Externe mensen toegang geven tot uw sites: ON
+  - Portal: \> \> overzicht van extern delen-sites, gebruikers toegang geven tot uw sites: aan
     
-  - Portal\> - Extern\> delen - Sites - "Laat externe mensen toegang krijgen tot uw sites" selectievakje
+  - \>Extern delen van portal- \> sites-"externe mensen toegang geven tot uw sites"
     
-- **Delen van beheer - SharePoint-beheercentrum**
+- **Beheer delen: SharePoint-Beheercentrum**
     
-    Extern delen - zorg ervoor dat een van de twee opties is geselecteerd:
+    Extern delen: Zorg ervoor dat u een van de twee opties hebt geselecteerd:
     
-  - "Externe gebruikers toestaan die uitnodigingen voor delen accepteren en zich aanmelden als geverifieerde gebruikers"
+  - Externe gebruikers toestaan die uitnodigingen voordelen accepteren en zich aanmelden als geverifieerde gebruiker
     
-  - "Sta zowel externe gebruikers toe die uitnodigingen voor delen accepteren als anonieme gastlinks"
+  - "Laat externe gebruikers toestaan die uitnodigingen voordelen accepteren en koppelingen voor anonieme gasten accepteren"
     
-- **Afzonderlijke siteverzamelingen**
+- **Afzonderlijke site verzamelingen**
     
-  - Siteverzamelingen - Selecteer de siteverzameling in kwestie en\> klik op Delen - op het lint - ervoor dat opties voor delen zijn geselecteerd.
+  - Siteverzamelingen: Selecteer in kwestie de siteverzameling en klik vervolgens op delen-van het lint en \> Zorg ervoor dat opties voordelen zijn geselecteerd.
     
-Zie [Extern delen in- of uitschakelen voor SharePoint Online voor](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409) meer informatie over het inschakelen van extern delen.
+Zie [extern delen in-of uitschakelen voor SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409) voor meer informatie over het inschakelen van extern delen.
   
 
