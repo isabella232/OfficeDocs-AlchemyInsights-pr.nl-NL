@@ -1,34 +1,35 @@
 ---
-title: Accountafbeelding wijzigen
+title: Afbeelding van account wijzigen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574366"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734042"
 ---
-# <a name="change-account-picture"></a>Accountafbeelding wijzigen
+# <a name="change-account-picture"></a>Afbeelding van account wijzigen
 
-Als u een gebruikersnaam en wachtwoord gebruikt om u aan te melden bij Windows 10, gebruikt u een lokaal account. **Uw lokale accountafbeelding wijzigen:**
+Als u een gebruikersnaam en wachtwoord gebruikt om u aan te melden bij Windows 10, maakt u gebruik van een lokaal account. **Uw lokale account foto wijzigen**:
 
-1. Ga naar**Account** > **instellingen** >  **starten** > **Uw gegevens**.
-2. Klik onder **Uw afbeelding maken**op Bladeren voor **één**. Of als uw apparaat een camera heeft, klikt u op **Camera** en maakt u een selfie. 
-    **Opmerking:** Windows onthoudt de laatste drie foto's die u hebt gebruikt. Klik op de afbeelding op de pagina Uw informatie om naar die pagina over te schakelen.
+1. Ga naar **Start**  >  **instellingen**voor het configureren van  >  **Accounts**  >  **uw gegevens**.
+2. Klik onder **uw foto maken**op **Bladeren**. Als uw apparaat een camera heeft, klikt u op **camera** en neem een-selfie. 
+    **Opmerking**: Windows onthoudt de laatste drie afbeeldingen die u hebt gebruikt. Klik op de afbeelding op de pagina uw info om naar die pagina te gaan.
 
-Als u een e-mailadres en wachtwoord gebruikt om u aan te melden, gebruikt u een Microsoft-account. Ga als nog maar naar de afbeelding van uw Microsoft-account:
+Als u zich via een e-mailadres en wachtwoord bevindt, gebruikt u een Microsoft-account. U kunt als volgt de afbeelding van uw Microsoft-account wijzigen:
 
-1. Meld u aan bij de pagina **Uw gegevens** met uw Microsoft-account.
-2. Klik op **Afbeelding toevoegen** of **Afbeelding wijzigen**en volg de instructies.
+1. Meld u aan op de pagina **uw info** met uw Microsoft-account.
+2. Klik op **afbeelding toevoegen** of **afbeelding wijzigen**en volg de instructies.
 
-[Meer hulp bij het instellen en beheren van uw Microsoft-account.](https://support.microsoft.com/products/microsoft-account?category=manage-account)
+[Meer informatie over het instellen en beheren van uw Microsoft-account](https://support.microsoft.com/products/microsoft-account?category=manage-account).

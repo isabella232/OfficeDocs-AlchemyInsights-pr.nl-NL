@@ -1,28 +1,29 @@
 ---
-title: Installatie en referentie van Teams PS-module
+title: Installeren en raadplegen van teams PS-module
 ms.author: heidip
 author: heidip
 manager: serdards
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: ac3017975caeec2b9d9c309ce9bc9be152a8c21b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "37340560"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735878"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Wat u bereiken met de PowerShell-module van Microsoft Teams
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Wat u kunt doen met de PowerShell-module van Microsoft teams
 
-Als u wilt weten hoe u de Teams PowerShell-module installeren, u [deze blog](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)bekijken.
+Als u meer wilt weten over het installeren van de PowerShell-module teams, kunt u [deze blog](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)bekijken.
 
 Voor meer informatie:
 
-- Bekijk het [PowerShell-overzicht van Teams](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) om inzicht te krijgen in de mogelijkheden voor [beheerdersrol,](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles) [teams te maken en te beheren via Powershell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)en beleid of [configuraties](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) [te beheren.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) 
-- Bekijk de [opdrachtverwijzing](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) van Microsoft Teams PowerShell voor een lijst met opdrachten die beschikbaar zijn via PowerShell. 
+- Bekijk het [PowerShell-overzicht teams](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) voor de functies van de [beheerders functie](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [teams maken en beheren via PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)en beleid of [configuraties](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) [beheren](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) . 
+- Raadpleeg de [PowerShell-opdracht naslag voor Microsoft teams](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) voor een lijst met beschikbare opdrachten via PowerShell. 

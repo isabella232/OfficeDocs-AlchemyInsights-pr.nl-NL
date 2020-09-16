@@ -1,39 +1,40 @@
 ---
-title: Kan het AllowSelfServicePurchase-beleid niet instellen of bekijken
+title: Kan het AllowSelfServicePurchase-beleid niet instellen of weergeven
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158556"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735194"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Kan het AllowSelfServicePurchase-beleid niet instellen of bekijken
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Kan het AllowSelfServicePurchase-beleid niet instellen of weergeven
 
-Wanneer u het allowselfservice-aankoopbeleid probeert in te stellen of weer te geven, ontvangt u het volgende foutbericht:
+Wanneer u probeert het AllowSelfServicePurchase-beleid in te stellen of weer te geven, wordt het volgende foutbericht weergegeven:
 
-*HandleError : Kan het productbeleid niet ophalen met PolicyId 'AllowSelfServicePurchase', ErrorMessage - De onderliggende verbinding is gesloten: er is een onverwachte fout opgetreden op een verzenden.*
+*HandleError: kan geen productbeleid ophalen met PolicyId ' AllowSelfServicePurchase ', ErrorMessage-de onderliggende verbinding is gesloten: er is een onverwachte fout opgetreden bij het verzenden.*
 
-Dit kan te wijten zijn aan een oudere versie van Transport Layer Security (TLS). Als u de MSCommerce-service wilt aansluiten, moet u TLS 1.2 of hoger gebruiken.  
+Dit kan zijn vanwege een oudere versie van TLS (Transport Layer Security). U moet TLS 1,2 of hoger gebruiken om verbinding te maken met de MSCommerce-service.  
 
-Probeer de volgende stappen om het TLS-protocol in te schakelen/in te stellen op 1.2, te verifiëren en opnieuw te proberen.
- 1. Voer bij de opdrachtprompt van\) PowerShell (PS C: voer de volgende opdracht in om het TLS-protocol in te stellen op versie 1.2:
+Voer de volgende stappen uit om het TLS-protocol in te stellen op 1,2, Controleer en probeer het opnieuw.
+ 1. Bij de PowerShell-opdrachtprompt (PS C: \) Voer de volgende opdracht in om het TLS-protocol in te stellen op versie 1,2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Controleer het gebruikte TLS-protocol(en) met de volgende opdracht:
+2. Controleer de TLS-protocol (s) die u gebruikt, met de volgende opdracht:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Probeer de opdrachten Get of Update indien nodig opnieuw.
+3. Voer de opdrachten voor het uitvoeren of bijwerken naar wens opnieuw.
 
