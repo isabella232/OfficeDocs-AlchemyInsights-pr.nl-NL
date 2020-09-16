@@ -1,23 +1,24 @@
 ---
-title: 'Teams: live-evenement - niet in staat om evenement te maken met externe encoder'
+title: 'Teams: live gebeurtenis-kan geen gebeurtenis maken met extern programmacode'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 3ca6227dde33b9c0093602f152377fcaff4041fc
-ms.sourcegitcommit: 60e8e348131d4db4d0d34ffe5b321bc92d7bf7e9
+ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "41969351"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796895"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Wilt u uw live event configureren met een externe encoder?
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Wilt u uw live gebeurtenis configureren met een externe Encoder?
 
-Als u problemen ondervindt om uw encoder aan de slag te krijgen met uw Live-evenement Teams, raadpleegt u de installatiedocumentatie voor encoder: [Configureer encoders voor live streaming in Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+Als u problemen ondervindt bij het werken met uw code in teams, raadpleegt u de documentatie voor encoder installeren: [Codeer voor live streaming in Microsoft stream configureren](https://docs.microsoft.com/stream/live-encoder-setup)
