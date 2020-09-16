@@ -1,26 +1,27 @@
 ---
-title: Activeringsprobleem - Account staat bewerken op Mac niet toe
+title: Activerings probleem-account kan niet worden bewerkt op een Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576951"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748824"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Het bericht microsoft 365-apps 'Uw account staat bewerken op een Mac niet toe' herstellen
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Het repareren van de Microsoft 365-apps ' uw account mag niet worden bewerkt op een Mac '
 
-Als u dit bericht ontvangt, probeert u het volgende:
+Als dit bericht wordt weergegeven, probeert u het volgende:
 
 - Zorg ervoor dat u een-abonnement hebt waarvoor clientlicenties zijn toegestaan en [controleer of er een licentie is toegewezen aan de gebruiker](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Download het [hulpprogramma voor het verwijderen van licenties](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193) en voer het uit.

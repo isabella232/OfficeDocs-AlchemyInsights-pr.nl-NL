@@ -1,29 +1,29 @@
 ---
-title: Stappen om office-activeringsfout 0x80070005 op te lossen
+title: Stappen voor het oplossen van de activeringsfout van Office 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 61e8bdf268e6c6c6d537073eab04b1ae37d20526
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764004"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750842"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Stappen om office-activeringsfout 0x80070005 op te lossen
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Stappen voor het oplossen van de activeringsfout van Office 0x80070005
 
-Als de 0x80070005-fout is gestart na het bijwerken van Windows, u het probleem oplossen door het register bij te werken.
+Als de 0x80070005-fout is opgetreden na het bijwerken van Windows, kunt u het probleem oplossen door het register bij te werken.
   
-Download en installeer de [ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeActivation-Alchemy) en voer de **activeringsprobleemoplosser**uit.
+Download en installeer de [ondersteunings-en Recovery-assistent](https://aka.ms/SARA-OfficeActivation-Alchemy) en voer de **probleemoplosser voor activeringen**uit.
   
-Zie voor extra hulp: [Office-foutcode 0x80070005 bij het activeren van Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
+Zie voor meer informatie: [Office-foutcode 0x80070005 tijdens het activeren van Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
   

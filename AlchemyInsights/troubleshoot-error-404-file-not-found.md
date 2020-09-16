@@ -1,31 +1,32 @@
 ---
-title: Fout oplossen 404, Bestand niet gevonden
+title: Problemen oplossen met fout 404, bestand niet gevonden
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: c860b9db63e8d341cbe5e6d8d1d420b4c9d01c9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e76864949bde7230e63f509823ab1e3edf631388
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505338"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750086"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Fout oplossen 404, Bestand niet gevonden
+# <a name="troubleshoot-error-404-file-not-found"></a>Problemen oplossen met fout 404, bestand niet gevonden
 
-Er wordt een fout 404 ontvangen wanneer gebruikers toegang proberen te krijgen tot een site of bestand in SharePoint of OneDrive. Dit wordt vaak veroorzaakt doordat een site of bestand of groep de naam krijgt, verplaatst of verwijderd. Bijvoorbeeld: gebruikers ervaren een 404-fout die toegang probeert te krijgen tot de rootsiteverzameling en deze is verwijderd.
+Er wordt een fout 404 ontvangen wanneer gebruikers een site of bestand in SharePoint of OneDrive proberen te openen. Dit wordt vaak veroorzaakt door een site, bestand of groep waarvan de naam is gewijzigd, wordt verplaatst of verwijderd. Gebruikers hebben bijvoorbeeld een 404-fout bij het openen van de hoofd site verzameling en de site is verwijderd.
 
-Fout 404 oplossen voor een site waarop de naam is hernoemd, verplaatst of verwijderd:
+Fout 404 oplossen voor een site waarvan de naam is gewijzigd, is verplaatst of verwijderd:
 
-Zie [Een verwijderde siteverzameling herstellen](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)voor klassieke sites die in het Klassieke beheercentrum voorkomen.
+Zie [een verwijderde siteverzameling herstellen](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)voor klassieke sites die aanwezig zijn in het klassieke Beheercentrum.
 
-Zie [Verwijderde sites weergeven en herstellen in het nieuwe SharePoint-beheercentrum voor](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)moderne sites (communicatie, groep-verbonden of andere sites) die in het nieuwe SharePoint-beheercentrum voorkomen.
+Zie [Verwijderde sites weergeven en herstellen in het nieuwe SharePoint-Beheercentrum](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)voor moderne sites (communicatie, via een groep verbonden of andere sites) die aanwezig zijn in het nieuwe SharePoint-Beheercentrum.
 
-Fout 404 oplossen voor een bestand (of ander item) dat de naam, verplaatst of verwijderd is, wordt gewijzigd:
+Fout 404 bij het wijzigen van de naam van een bestand (of een ander item) in de naam van het bestand (of een ander item) dat is gewijzigd of verwijderd:
 
-Ga naar de SharePoint- of OneDrive-site en bekijk de Prullenbak vanaf de site-inhoud. Zie [Items herstellen in de Prullenbak van een SharePoint-site](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Ga naar de SharePoint-of OneDrive-site en Bekijk de Prullenbak van de site-inhoud. Zie [items in de Prullenbak van een SharePoint-site terugzetten voor](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)meer informatie.
 
-Als u het item nog steeds niet vinden, u in het controlelogboek zoeken als logboekregistratie is ingeschakeld, [zoekt u in het Microsoft 365 Security & Compliance Center.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+Als u het item dat u kunt zoeken nog steeds niet kunt vinden, kunt u [Zoeken in het auditlogboek zoeken in het Microsoft 365 Security & compliance Center](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
