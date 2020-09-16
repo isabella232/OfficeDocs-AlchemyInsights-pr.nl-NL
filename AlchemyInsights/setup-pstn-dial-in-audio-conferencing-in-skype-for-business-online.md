@@ -1,10 +1,11 @@
 ---
-title: PSTN-audioconferenties instellen in Skype voor Bedrijven Online
+title: PSTN-inbel vergaderingen instellen in Skype voor bedrijven online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 2df72ee353fe0ac53d98d64942beca4ea5f83659
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288206"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739532"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-audioconferenties instellen in Skype voor Bedrijven Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-inbel vergaderingen instellen in Skype voor bedrijven online
 
-Als u audiovergaderingen voor Skype voor Bedrijven Online wilt instellen, moet u een aantal dingen doen. 
+Als u audio vergaderingen wilt instellen voor Skype voor bedrijven online, moet u een paar dingen doen. 
 
-- Ontdek of audioconferenties beschikbaar zijn in uw land/regio.
+- Achterhalen of audio vergaderingen beschikbaar zijn in uw land of regio.
 
-- Licenties aan uw gebruikers toevoegen en toewijzen.
+- Licenties toewijzen en toewijzen aan uw gebruikers.
 
-- Servicenummers in- en toewijzen.
+- Service nummers te kopen en toewijzen.
 
-- Vul de checklist [in Audioconferenties instellen voor Skype voor Bedrijven.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
+- Voer de controlelijst in [voor audio vergaderingen instellen in Skype voor bedrijven](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).

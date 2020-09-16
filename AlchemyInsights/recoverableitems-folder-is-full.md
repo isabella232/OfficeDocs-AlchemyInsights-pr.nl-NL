@@ -1,44 +1,45 @@
 ---
-title: Map 1336 RecoverableItems is vol
+title: de map 1336 RecoverableItems is vol
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ae608b776332402fe333315f5e4ff6072b0a651
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510747"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741262"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>De map Herstelbare items is vol
+# <a name="the-recoverable-items-folder-is-full"></a>De map herstelbare items is vol
 
-Voor Exchange Online-postvakken is de standaardopslaglimiet voor de map Herstelbare items 30 GB. De opslaglimiet voor de map Herstelbare items wordt automatisch verhoogd tot 100 GB als het postvak wordt geplaatst in Litigation Hold, eDiscovery hold of is toegewezen aan een bewaarbeleid.
+Voor postvakken van Exchange Online is de standaardopslagruimte voor de map herstelbare items 30 GB. De opslaglimiet voor de map herstelbare items wordt automatisch verhoogd naar 100 GB als het postvak wordt geplaatst op een gerechtelijke, eDiscovery-bewaring of aan een bewaarbeleid.
 
-Wanneer de map Herstelbare items de opslaglimiet bereikt, wordt de functionaliteit van het postvak op de volgende manieren beïnvloed:
+Wanneer de map herstelbare items de opslaglimiet bereikt, heeft dit gevolgen voor de functionaliteit van het postvak op de volgende manieren:
 
-- De gebruiker kan geen items uit het postvak verwijderen.
+- De gebruiker kan items uit het postvak niet verwijderen.
 
-- De assistent voor beheerde mappen kan items niet verwijderen op basis van bewaartag of instellingen voor beheerde mappen.
+- De Instellingsassistent voor beheerde mappen kan geen items verwijderen op basis van het Bewaar label of de instellingen van de beheerde map.
 
-- Voor postvakken waarvoor single itemherstel is ingeschakeld of in de wacht wordt gezet, kan het proces voor kopieerpaginabeveiliging geen versies van door de gebruiker bewerkte items onderhouden.
+- Voor postvakken waarop eenmalige items hersteld zijn of die in de wachtstand staan, kunnen de versies van door de gebruiker bewerkte pagina's niet worden bijgehouden.
 
-- Voor postvakken waarvoor postvakcontroleregistratie is ingeschakeld, kunnen geen logboekgegevens van postvakken worden opgeslagen in de submap Audits in de map Herstelbare items.
+- Voor postvakken met een auditlogboek voor Postvak in, kunnen auditlogboek vermeldingen van het postvak niet worden opgeslagen in de submap audits in de map herstelbare items.
 
-Voor postvakken die niet in de wacht staan, kunnen beheerders de opdracht in Exchange Online PowerShell gebruiken `Search-Mailbox -SearchDumpsterOnly -DeleteContent` om items in de map Herstelbare items te verwijderen. Lees de volgende onderwerpen voor meer informatie:
+Voor postvakken die niet in bewaring zijn, kunnen beheerders de `Search-Mailbox -SearchDumpsterOnly -DeleteContent` opdracht in PowerShell van Exchange Online gebruiken om items in de map herstelbare items te verwijderen. Zie de volgende onderwerpen voor meer informatie:
 
 - [Berichten zoeken en verwijderen](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
-- [Zoekpostvak](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Zoeken-Postvak](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Voor postvakken die in de wacht staan, moeten beheerders de wachtruimte verwijderen voordat ze items uit de map Herstelbare items kunnen verwijderen. Zie [Items verwijderen in de map Herstelbare items van postvakken in de cloud in de wachtstand](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)voor meer informatie.
+Voor postvakken die in de wacht staan, moeten beheerders de bewaring verwijderen voordat ze items kunnen verwijderen uit de map herstelbare items. Zie voor meer informatie [items verwijderen in de map herstelbare items van de Cloud postvakken in bewaring](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Om te voorkomen dat de map Herstelbare items vol raakt, kunnen beheerders de opslaglimiet van de map Herstelbare items voor postvakken in de wacht verhogen en een beleid voor het bewaren van postvakken instellen dat items verplaatst vanuit de map Herstelbare items naar het archiefpostvak van de gebruiker. Zie [Het quotum herstelbare items voor postvakken in de wacht vergroten](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Om te voorkomen dat de map herstelbare items volledig wordt, kan het zijn dat beheerders de opslaglimiet van de map herstelbare items voor postvakken in de wacht zetten en het bewaarbeleid voor Postvak in instellen voor het opslaan van items in de map herstelbare items in het archief postvak van de gebruiker. Zie [het quotum voor herstelbare items voor postvakken in de wacht zetten](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

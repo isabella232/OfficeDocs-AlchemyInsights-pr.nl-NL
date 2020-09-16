@@ -1,66 +1,67 @@
 ---
-title: Bewaarbeleid in Exchange Admin Center werkt niet
+title: Bewaarbeleid in het Exchange-Beheercentrum werkt niet
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522802"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740505"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Bewaarbeleid in Exchange-beheercentrum
+# <a name="retention-policies-in-exchange-admin-center"></a>Bewaarbeleid in het Exchange-Beheercentrum
 
-Als u wilt dat we geautomatiseerde controles uitvoeren voor de onderstaande instellingen, selecteert u de terugknop <- boven aan deze pagina en voert u het e-mailadres in van de gebruiker die problemen heeft met het bewaarbeleid.
+Als u wilt dat wij geautomatiseerde controles uitvoeren voor de instellingen die hieronder worden vermeld, selecteert u de knop terug <--boven aan deze pagina en voert u het e-mailadres in van de gebruiker die problemen heeft met het bewaarbeleid.
 
- **Probleem:** Nieuw gemaakt of bijgewerkt bewaarbeleid in het Exchange-beheercentrum is niet van toepassing op postvakken of items worden niet verplaatst naar het archiefpostvak of worden verwijderd. 
+ **Probleem:** Nieuw gemaakt of bijgewerkt bewaarbeleid in het Exchange-Beheercentrum is niet van toepassing op postvakken of items worden niet naar het archief postvak verplaatst of verwijderd. 
   
- **Oorzaken:**
+ **Hoofdoorzaken:**
   
-- Dit kan zijn omdat de **assistent beheerde mappen** het postvak van de gebruiker niet heeft verwerkt. De Managed Folder Assistant probeert elk postvak in uw cloudorganisatie eens in de zeven dagen te verwerken. Als u een bewaartag wijzigt of een ander bewaarbeleid toepast op een postvak, u wachten tot de assist voor beheerde map het postvak verwerkt of u de cmdlet Start-ManagedFolderAssistant uitvoeren om de assistent van beheerde mappen te starten om een specifiek postvak te verwerken. Het uitvoeren van deze cmdlet is handig voor het testen of oplossen van een bewaarbeleid of het bewaren van tags. Ga voor meer informatie naar [De assistent van de beheerde map uitvoeren](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Dit kan zijn omdat de **beheerde assistent** de gebruikerspostvak van de gebruiker niet heeft verwerkt. De Managed folder Assistant probeert elke zeven dagen elk postvak in uw organisatie in de cloud te verwerken. Als u een Bewaar label wijzigt of een ander bewaarbeleid op een postvak toepast, kunt u wachten tot de beheerde map het postvak ondersteunt, of u kunt de cmdlet start-ManagedFolderAssistant uitvoeren om de beheerde map te starten voor het verwerken van een specifiek postvak. Het uitvoeren van deze cmdlet is handig voor het testen of het oplossen van problemen met een bewaarbeleid of bewaar label instellingen. Ga voor meer informatie naar [de Instellingsassistent voor beheerde mappen uitvoeren](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Oplossing:** Voer de volgende opdracht uit om de assistent van beheerde mappen voor een specifiek postvak te starten:
+  - **Oplossing:** Voer de volgende opdracht uit om de beheerde map voor een specifiek postvak te starten:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Dit kan ook gebeuren als **RetentionHold** is **ingeschakeld** op het postvak. Als het postvak op een Bewaarplaats is geplaatst, wordt het bewaarbeleid voor het postvak gedurende die tijd niet verwerkt. Zie voor meer informaton op de instelling RetentionHold: [Postvakretentie.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
+- Dit kan ook gebeuren als **RetentionHold** is **ingeschakeld** in het postvak. Als het postvak zich in een RetentionHold bevindt, wordt het bewaarbeleid voor het postvak niet gedurende die tijd verwerkt. Zie het volgende artikel voor meer gegevens over de instelling RetentionHold: [Postvak behoud bewaren](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Oplossing:**
+    **Oplossingen**
     
-  - Controleer de status van de instelling RetentionHold op het specifieke postvak in [EXO powershell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
+  - Controleer de status van de instelling RetentionHold voor het specifieke postvak in [Exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Voer de volgende opdracht uit om RetentionHold uit te **schakelen** op een specifiek postvak:
+  - Voer de volgende opdracht uit om RetentionHold **uit te schakelen** voor een specifiek postvak:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Voer nu de assistent van de beheerde map opnieuw uit:
+  - Voer nu de beheerde mappen-assistent opnieuw uit:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Let op:** Als een postvak kleiner is dan 10 MB, verwerkt de assistent van beheerde mappen het postvak niet automatisch.
+ **Opmerking:** Als een postvak kleiner is dan 10 MB, wordt het postvak niet automatisch verwerkt door de Instellingsassistent van de beheerde map.
  
-Zie voor meer informatie over bewaarbeleid in het Exchange-beheercentrum:
-- [Bewaartags en bewaarbeleid](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+Zie voor meer informatie over bewaarbeleid in het Exchange Admin Center:
+- [Bewaar Tags en bewaarbeleid](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 - [Een bewaarbeleid toepassen op postvakken](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Bewaartags toevoegen of verwijderen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Bewaar Tags toevoegen of verwijderen](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
 - [Het type bewaring voor een postvak identificeren](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
