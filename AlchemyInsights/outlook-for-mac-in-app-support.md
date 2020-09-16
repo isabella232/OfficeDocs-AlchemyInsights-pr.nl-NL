@@ -1,10 +1,11 @@
 ---
-title: Ondersteuning voor Outlook voor Mac in 180009
+title: ondersteuning voor 1800009 in de app voor Outlook voor Mac
 ms.author: supravee
 author: supravee
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "37035750"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722090"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>In-app-ondersteuning in Outlook voor Mac
 
-Als u ondersteuning in-app voor Outlook voor Mac-problemen wilt ontvangen, opent u Outlook en klikt u op **Ondersteuning** voor \> **Help-contact opnemen**. Typ uw vraag en een lid van het ondersteuningsteam van Outlook voor Mac neemt contact met u op. 
+Als u ondersteuning wilt ontvangen in de app voor Outlook voor Mac-problemen, opent u Outlook **en klikt u op** \> **contact opnemen met ondersteuning**. Typ uw vraag en een lid van het ondersteuningsteam van Outlook voor Mac wordt in contact met u meeneemt. 
 
-Meer informatie: [Contact opnemen met ondersteuning in Outlook voor Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Meer informatie: [contact opnemen met ondersteuning in Outlook voor Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

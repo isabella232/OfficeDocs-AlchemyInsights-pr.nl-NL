@@ -1,33 +1,34 @@
 ---
-title: Een site converteren naar een hubsite
+title: Een site converteren naar een hub-site
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: c911972a7ccd689e57455ec3e283842bf6f5d7a5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705584"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732998"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Een SharePoint-hubsite maken
 
-1. Klik in het nieuwe SharePoint-beheercentrum onder **Sites**op **Actieve sites**.
+1. Ga in het nieuwe SharePoint-Beheercentrum naar **sites**en klik op **actieve sites**.
 
-2. Selecteer de site die u als hubsite wilt zijn, klik op **Hubsite**en klik op **Registreren als hubsite**.
+2. Selecteer de site die u als een hubsite wilt maken, klik op **hub site**en klik vervolgens op **registreren als hubsite**.
 
-3. Voer een weergavenaam in voor de hubsite en geef de afzonderlijke gebruikers of beveiligingsgroepen op die u wilt toestaan om sites aan de hub te koppelen.
+3. Voer een weergavenaam voor de hubsite in en geef de afzonderlijke gebruikers of beveiligingsgroepen op die u wilt toestaan om sites aan de hub toe te voegen.
 
     > [!NOTE]
-    >  We raden u aan een communicatiesite of een teamsite te selecteren die de nieuwe sjabloon gebruikt. Als u een klassieke teamsite gebruikt, wordt de hubnavigatie alleen weergegeven op moderne pagina's en worden hubsite-instellingen alleen op moderne pagina's weergegeven. Sites die al aan een andere hub zijn gekoppeld, kunnen niet worden geregistreerd als hubsite.
+    >  We raden u aan een communicatiesite te selecteren of op een team site die de nieuwe sjabloon gebruikt. Als u een klassieke team site gebruikt, wordt de spil navigatie alleen weergegeven op moderne pagina's en worden de instellingen voor de spil site alleen weergegeven op moderne pagina's. Sites die al aan een andere hub zijn gekoppeld, kunnen niet worden geregistreerd als hub-site.
   
-[Meer informatie over hubsites](https://go.microsoft.com/fwlink/?linkid=869149)
+[Meer informatie over hub-sites](https://go.microsoft.com/fwlink/?linkid=869149)
   

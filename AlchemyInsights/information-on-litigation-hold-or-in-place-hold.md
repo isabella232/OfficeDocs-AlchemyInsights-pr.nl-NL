@@ -1,32 +1,33 @@
 ---
-title: Informatie over het aanhouden van geschillen of in-place-hold
+title: Informatie over het in-en uitchecken van juridische informatie
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 63b28edc5d2eb7c8d904e004c06c5682768411a7
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508695"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755450"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Over geschillen houdt en in-place houdt
+# <a name="about-litigation-holds-and-in-place-holds"></a>Over de bevestigingen van rechtszaken en in-place bewaring
 
-- Om een geschillenruim of een in-place hold toe te passen op een postvak, is een [Exchange Online Plan 2-licentie](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) vereist. Als u een ander abonnement hebt, wijst u een afzonderlijke [Exchange Online Archiveing-licentie](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) toe aan het account. 
+- Als u een in-place bewaring of wachtstand wilt toepassen op een postvak, is een [licentie voor Exchange Online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) vereist. Als u een ander abonnement hebt, wijst u een afzonderlijke [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) -licentie aan het account toe. 
     
-- Voer de stappen uit die [hier](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)worden beschreven om **een procesruimte** voor één gebruiker in te schakelen. Wanneer de wachtruimte voor geschillen is ingeschakeld, wordt alle inhoud in het postvak in de wachtstand geplaatst.
+- Als u een voorstel voor één gebruiker **wilt instellen** , volgt u de stappen die [hier](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)worden beschreven. Wanneer het wachtstand van de geschil is ingeschakeld, wordt alle inhoud in het postvak in de wacht gezet.
     
-- Als u een **in-place hold wilt** toepassen op afzonderlijke gebruikers of een greep op **alle postvakken in de hele organisatie,** u retentiebeleid gebruiken in het Microsoft 365 Security and Compliance center door de [hier]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)beschreven stappen te volgen.
+- Als u een **in-place bewaring** wilt toepassen op een of **meer gebruikers in de hele organisatie**, kunt u het bewaarbeleid gebruiken in het Microsoft 365-Beveiligingscentrum en compliance Center door de stappen te volgen die [hier]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)worden beschreven.
     
     > [!NOTE]
-    > Voor het bewaarbeleid voor organisaties worden nieuwe gebruikers automatisch aan de wachtruimte toegevoegd. 
+    > Voor bewaarbeleid voor organisatie worden nieuwe gebruikers automatisch toegevoegd aan de bewaring. 
   
-- Als u de inhoud van het postvak wilt weergeven of ontdekken die in de wacht wordt geplaatst, gebruikt **u eDiscovery Zoeken en exporteren**. Volg de [hier](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)beschreven stappen voor informatie over het gebruik van **eDiscovery Search and Export**.
+- Als u de inhoud van het postvak wilt weergeven of ontdekken die in de wachtstand is geplaatst, gebruikt u **eDiscovery Search en export**. Voer de stappen uit die [hier](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)worden beschreven voor informatie over het gebruik van **eDiscovery Search en export**.
     
 

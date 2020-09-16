@@ -1,31 +1,32 @@
 ---
-title: Een moderne teamsite maken
+title: Een moderne team site maken
 ms.author: clake
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 47a27269ca4a3e92723b79fbe306c28a4a43838e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580364"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732674"
 ---
-# <a name="create-a-microsoft-365-group-connected-team-site"></a>Een teamsite met microsoft 365-groepskoppeling maken
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Een team site met de Microsoft 365-groep maken
 
-1. Klik op het startprogramma voor apps in de linkerbovenhoek en selecteer **SharePoint**. Als u de SharePoint-tegel niet ziet, klikt u op **Alle apps**.
+1. Klik linksboven op het startprogramma voor apps en selecteer **SharePoint**. Als u de tegel SharePoint niet ziet, klikt u op **alle apps**.
     
-2. Klik boven aan de startpagina van SharePoint op **Site maken** en kies de optie **Teamsite.** 
+2. Klik boven aan de SharePoint-startpagina op **site maken** en kies de optie **team site** . 
     
     > [!NOTE]
-    > Als u de opdracht Site maken niet ziet, wordt het maken van een site mogelijk niet ingeschakeld in uw organisatie. Zie Site [maken beheren](https://go.microsoft.com/fwlink/?linkid=2009644)als u dit wilt inschakelen. 
+    > Als u de opdracht site maken niet ziet, is het maken van sites mogelijk niet ingeschakeld in uw organisatie. Zie het [maken van sites beheren](https://go.microsoft.com/fwlink/?linkid=2009644)voor informatie over het inschakelen van het maken van sites. 
   
-3. Volg de stappen op het scherm om de site een naam te geven en een e-mailadres voor de Microsoft 365-groep te maken en klik op **Volgende**. U ook andere groepseigenaren en -leden toevoegen. Klik op **Voltooien**.
+3. Volg de stappen op het scherm om een naam te geven aan de site en een e-mailadres te maken voor de Microsoft 365-groep en klik vervolgens op **volgende**. U kunt ook andere groepseigenaren en-leden toevoegen. Klik op **Voltooien**.
   
- **Let op:** Als u een teamsite wilt maken zonder dat een groep is verbonden, volgt u de bovenstaande stappen, maar in plaats van teamsite te selecteren in stap 2. selecteer Andere opties. Dit zal u begeleiden door het creëren van een team site zonder een groep. 
+ **Opmerking:** Als u een team site wilt maken zonder een groep, volgt u de bovenstaande stappen, maar in plaats van de team site in stap 2 te selecteren. Selecteer andere opties. U wordt begeleid bij het maken van een team site zonder groep. 
     
 
