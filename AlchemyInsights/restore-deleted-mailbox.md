@@ -1,5 +1,5 @@
 ---
-title: Verwijderd postvak herstellen
+title: Verwijderde postvak terugzetten
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511359"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728066"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Een verwijderd postvak herstellen
 
-Wanneer een gebruiker een Exchange Online-licentie verliest, wordt zijn postvak 30 dagen bewaard en kan het worden hersteld door de licentie eenvoudig opnieuw toe te wijzen aan de gebruiker.
+Wanneer een gebruiker een Exchange Online-licentie kwijtraakt, blijft het postvak gedurende 30 dagen behouden en kan het worden hersteld door de licentie simpelweg opnieuw toe te wijzen aan de gebruiker.
   
- *Dit werkt alleen binnen 30 dagen.*  
+ *Dit werkt binnen 30 dagen.*  
   
-1. Ga in het Microsoft 365-beheercentrum naar de pagina **Gebruikers** \> **actief gebruikers.** Selecteer de gebruiker in kwestie.
+1. Ga in het Microsoft 365-Beheercentrum naar de pagina **gebruikers** van \> **Active Users** . Selecteer de gebruiker in kwestie.
 
-2. Wijs op het tabblad **Licenties en apps** de Exchange Online-licentie toe en selecteer **Wijzigingen opslaan**.
+2. Wijs op het tabblad **licenties en apps** de licentie voor Exchange Online toe en selecteer vervolgens **wijzigingen opslaan**.
 
-Als u een gedeeld postvak probeert te herstellen, kan deze ook 30 dagen worden hersteld. U ze vinden onder **Gebruikers** \> **Verwijderde gebruikers**; gedeelde postvakken vereisen geen licentie. Zie [Een gebruiker](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)herstellen als u zich realiseert dat u een verwijderde gebruiker moet herstellen.
+Als u een gedeeld postvak probeert te herstellen, kunt u dit abonnement gedurende 30 dagen ook herstellen. U kunt ze vinden onder door **gebruikers** \> **Verwijderde gebruikers**; voor gedeelde postvakken is geen licentie vereist. Als u zich realiseert dat u een verwijderde gebruiker moet terugzetten, raadpleegt u [een gebruiker terugzetten](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
   

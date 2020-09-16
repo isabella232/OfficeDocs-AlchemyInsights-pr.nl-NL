@@ -1,33 +1,34 @@
 ---
-title: OneNote - logboek op fouten bij het openen van laptops
+title: 'OneNote: fouten melden bij het openen van notitieblokken'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: 960d5d5b4349490f774c4e280dac3445bb2b8c48
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643887"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729290"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a>Problemen met het aanmelden bij OneNote-notitieblokken
+# <a name="issues-signing-in-to-onenote-notebooks"></a>Problemen bij het aanmelden bij OneNote-notitieblokken
 
-Als er fouten aanmeldingsnaam of het wachtwoord bij het openen van uw notitieblok, probeer het volgende:
+Ga als volgt te werk als u inlog-of wachtwoord fouten ontvangt wanneer u probeert uw notitieblok te openen:
 
-- Als het notitieblok dat niet geopend is opgeslagen op OneDrive of SharePoint Online, kunt u het notitieblok in OneNote openen voor het web (www.onenote.com). Als de laptop niet wordt vermeld, u mogelijk geen machtigingen. Als het een gedeeld notitieblok, vraag de eigenaar om te delen en controleert u of u de juiste account aan te melden.
+- Als het notitieblok dat niet wordt geopend, is opgeslagen in OneDrive of SharePoint Online, probeert u het notitieblok te openen in OneNote voor het web (op www.onenote.com). Als het notitieblok niet wordt vermeld, hebt u mogelijk niet de juiste machtigingen. Als dit een gedeeld notitieblok is, vraag de eigenaar om het te delen en zorg ervoor dat u het juiste account gebruikt om u aan te melden.
 
-- Als u het notitieblok in OneNote voor het web wordt geopend, moet dat u zich aanmeldt met de referenties van de huidige in OneNote. 
+- Als het notitieblok wordt geopend op OneNote voor Internet, controleert u of u zich aanmeldt met de huidige referenties in OneNote. 
 
-- Schakel de [Office referenties](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) met behulp van [Windows Referentiebeheer](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
+- Wis [Office-referenties](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) met behulp van [Windows Credential Manager](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
 
-- Selecteer **bestand**in OneNote 2016, > **Account** en **Afmelden** van alle rekeningen. Meld u opnieuw aan met een gebruikersaccount met een geldige licentie. Zie [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)voor meer informatie.
+- In OneNote 2016 selecteert u **Bestands**  >  **account** en **meldt u zich af** bij alle accounts. Meld u opnieuw aan met een gebruikersaccount met een geldige licentie. Zie [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) voor meer informatie.
 
-- In OneNote voor Windows, selecteer het weglatingsteken (**...**) aan de bovenkant van het scherm, selecteert u **Instellingen** > **Accounts**, en ervoor te zorgen dat een werk of school-account wordt vermeld.
+- In OneNote voor Windows selecteert u het beletselteken (**...**) in de rechterbovenhoek van het scherm, selecteert u **instellingen**  >  **accounts**en controleert u of een werk-of schoolaccount wordt weergegeven.
