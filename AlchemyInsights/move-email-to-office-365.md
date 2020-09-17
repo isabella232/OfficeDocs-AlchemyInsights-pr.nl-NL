@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe11201d2c6dc4c517231b191f22e8ed2038411
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713605"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799739"
 ---
 # <a name="move-email-to-microsoft-365"></a>E-mail verplaatsen naar Microsoft 365
 
-U hebt verschillende opties voor het migreren van e-mail naar Microsoft 365. De [Microsoft 365-adviseur voor e-mailmigratie](https://aka.ms/alchemyinsight-mailmigrationadvisor) helpt u bij het kiezen van de beste voor uw omgeving en begeleidt u ook bij de e-mailmigratie.
+U hebt verschillende opties voor het migreren van e-mail naar Microsoft 365. Met de [Microsoft 365 mail Migration adviseur](https://aka.ms/alchemyinsight-mailmigrationadvisor) kunt u het beste kiezen voor uw omgeving, en u wordt ook begeleid bij de migratie van de e-mail.
   
-Zie [Beslissen over een migratiepad](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)om meer te weten te komen over uw opties zonder de migratie te starten.
+Als u meer wilt weten over de opties voordat u de migratie start, raadpleegt u [een pad voor de migratie opgeven](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Controleer ook de [pagina Microsoft 365 adopteren met FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) voor hulp bij migratie, indien dit in aanmerking komt.
+Kijk ook naar de pagina [Microsoft 365 met FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) voor hulp bij de migratie, indien in aanmerking komt.
   

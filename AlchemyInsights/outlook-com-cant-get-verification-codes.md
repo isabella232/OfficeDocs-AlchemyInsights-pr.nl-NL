@@ -1,27 +1,28 @@
 ---
-title: Outlook.com kunnen geen verificatiecodes ontvangen
+title: Outlook.com kan geen verificatiecodes ontvangen
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1005"
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760803"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799523"
 ---
-# <a name="cant-get-verification-codes"></a>Verificatiecodes kunnen niet worden geverifieerd
+# <a name="cant-get-verification-codes"></a>Kan geen verificatiecodes achterhalen
 
-Als u geen toegang hebt tot uw alternatieve e-mailadres of telefoonnummer, gaat u naar de [basispagina van Microsoft-accountBeveiliging,](https://account.microsoft.com/security) selecteert **u Ik heb geen van deze** op de aanmeldingspagina en volgt u de instructies om uw beveiligingsgegevens te vervangen.
+Als u geen toegang hebt tot uw alternatieve e-mailadres of telefoonnummer, gaat u naar uw Microsoft-account [beveiligings beginselen](https://account.microsoft.com/security) , selecteert u ik heb geen **van deze** op de aanmeldingspagina en volgt u de instructies om uw beveiligingsgegevens te vervangen.
 
-*Let op:* De [Microsoft Authenticator-app](https://go.microsoft.com/fwlink/?linkid=2016117) vereist geen internetverbinding om u een verificatiecode te bieden.
+*Opmerking:* Voor de [Microsoft Authenticator-app](https://go.microsoft.com/fwlink/?linkid=2016117) is geen internetverbinding vereist om u een verificatiecode te geven.
 
-Lees voor meer informatie [beveiligingsgegevens en verificatiecodes voor Microsoft-account](https://support.microsoft.com/help/12428/).
+Zie [beveiligingsgegevens en verificatiecodes van Microsoft-accounts](https://support.microsoft.com/help/12428/)voor meer informatie.

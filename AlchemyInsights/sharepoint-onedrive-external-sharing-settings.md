@@ -5,31 +5,32 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063648"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800387"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Waarschuwing: met het beleid van uw organisatie u niet delen met deze gebruikers
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Waarschuwingsbericht: het beleid van uw organisatie mag niet met deze gebruikers delen
 
-Gebruikers kunnen een waarschuwingsbericht ervaren wanneer ze proberen te delen met externe gebruikers van uw organisatie. Het bericht is **het beleid van uw organisatie, zodat u deze gebruikers niet delen. Ga naar Extern delen in het Microsoft 365-beheercentrum om het in te schakelen.** Dit gebeurt vaak de eerste keer proberen te delen met externe gebruikers of bij het delen met nieuwe externe gebruikers.
+Gebruikers ondervinden mogelijk een waarschuwingsbericht bij het delen met externe gebruikers van uw organisatie. Het bericht is **dat u met deze gebruikers deelt met de beleidsregels van uw organisatie. Ga naar extern delen in het Microsoft 365-Beheercentrum om dit in te schakelen**. Dit gebeurt meestal wanneer u de eerste keer probeert te delen met externe gebruikers of wanneer u met nieuwe externe gebruikers deelt.
 
 Controleer de **instellingen voor extern delen van SharePoint en OneDrive** voor uw organisatie.
 
-1. Selecteer **SharePoint**in uw [Microsoft 365-beheercentrum](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
-3. Selecteer **Delen** om de instellingen voor extern delen te bekijken.
+1. Selecteer **SharePoint**in het [Microsoft 365-Beheercentrum](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+3. Selecteer **delen** om de instellingen voor extern delen weer te geven.
 
-Controleer de instellingen voor **Extern delen** voor een specifieke site.
+Controleer de **instellingen voor extern delen** voor een specifieke site.
 
-1. Selecteer **SharePoint**in uw [Microsoft 365-beheercentrum](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
-2. Selecteer **Actieve sites** om uw beschikbare sites te bekijken.
-3. Selecteer de site die u wilt controleren en selecteer vervolgens de knop **Delen** die wordt weergegeven in de menubalk om de instellingen voor de site te verifiëren.
+1. Selecteer **SharePoint**in het [Microsoft 365-Beheercentrum](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+2. Selecteer **actieve sites** om de beschikbare sites te bekijken.
+3. Selecteer de site die u wilt controleren en selecteer vervolgens de knop **delen** die wordt weergegeven op de menubalk om de instellingen voor de site te controleren.
 
-Zie [Overzicht extern delen](https://docs.microsoft.com/sharepoint/external-sharing-overview)voor meer informatie.
+Voor meer informatie raadpleegt u [overzicht van extern delen](https://docs.microsoft.com/sharepoint/external-sharing-overview).

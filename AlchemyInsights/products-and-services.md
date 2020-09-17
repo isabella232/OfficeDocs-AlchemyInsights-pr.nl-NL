@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062856"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799235"
 ---
 # <a name="your-products"></a>Uw producten
 
-U de abonnementen van uw organisatie vinden op de pagina **Facturering van**  >  **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Hier zijn enkele van de hoogtepunten van deze pagina, samen met links voor meer info over elke functie:
+U vindt de abonnementen die eigendom zijn van uw organisatie op **Billing**de  >  pagina**[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren. Hier volgen enkele van de belangrijkste punten van deze pagina, samen met koppelingen naar meer informatie over elke functie:
 
-1. Beheer het aantal licenties dat voor elk abonnement is aangeschaft, samen met het aantal licenties dat in gebruik is.  **Opmerking**: Licenties die niet in gebruik zijn (niet aan een gebruiker toegewezen) worden nog steeds in rekening gebracht.  Als u geen kosten in rekening moet brengen voor ongebruikte licenties, vermindert u het aantal aangeschafte licenties. Zie [Licenties toevoegen of verkleinen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)voor informatie over het toevoegen of verwijderen van licenties uit een abonnement.
+1. Beheer het aantal licenties dat is gekocht voor elk abonnement, samen met het aantal gebruiksrechten.  **Opmerking**: licenties die niet in gebruik zijn (niet toegewezen aan een gebruiker) worden nog steeds in rekening gebracht.  Voor niet-gebruikte licenties kunt u het aantal gekochte licenties verlagen. Zie [licenties toevoegen of verlagen](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)voor informatie over het toevoegen of verwijderen van licenties voor een abonnement.
 
-2. Bekijk de verlengings- of vervaldatum van het abonnement.  U verlenging beheren door op de **bewerkingskoppeling** naast de **verlenging/vervaldatum** te klikken.  Zie [Microsoft 365 voor bedrijven vernieuwen](https://go.microsoft.com/fwlink/?linkid=2119216) voor meer informatie over het beheren van terugkerende facturering.
+2. Bekijk de verlengings-of vervaldatum van het abonnement.  U kunt verlenging beheren door te klikken op de **bewerkings** koppeling naast de datum waarop u de werktijd **vervalt** .  Zie [Microsoft 365 for Business verlengen](https://go.microsoft.com/fwlink/?linkid=2119216) voor meer informatie over het beheren van terugkerende facturering.
 
-3. [Een verlopen of uitgeschakeld abonnement opnieuw activeren.](https://go.microsoft.com/fwlink/?linkid=2117519)
+3. [Een verlopen of uitgeschakeld abonnement opnieuw activeren](https://go.microsoft.com/fwlink/?linkid=2117519).
 
-4. [Bewerk de betalingsmethode die wordt gebruikt om voor het abonnement te betalen.](https://go.microsoft.com/fwlink/?linkid=2117167)
+4. [De betalingswijze bewerken die wordt gebruikt om te betalen voor het abonnement](https://go.microsoft.com/fwlink/?linkid=2117167).
 
-5. [Wijzig hoe vaak u in rekening wordt gebracht.](https://go.microsoft.com/fwlink/?linkid=2119112)
+5. [Wijzigen hoe vaak u een factuur wilt](https://go.microsoft.com/fwlink/?linkid=2119112)ontvangen.
 
 6. [Het abonnement opzeggen](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-U extra abonnementen **Billing**kopen op de pagina  >  [**Inkoopservices voor**](https://go.microsoft.com/fwlink/p/?linkid=868433) facturering.
+U kunt **op de**  >  pagina[**Services voor aankopen**](https://go.microsoft.com/fwlink/p/?linkid=868433) extra abonnementen kopen.
