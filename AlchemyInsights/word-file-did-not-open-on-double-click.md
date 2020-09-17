@@ -1,42 +1,43 @@
 ---
-title: Word-bestand is niet geopend bij dubbelklikken
+title: Word-bestand werd niet geopend via dubbelklikken
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558180"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794798"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-document geopend in de verkeerde app of niet geopend
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Een Word-document in de verkeerde App geopend of niet geopend
 
 Probeer een van de volgende suggesties:
 
-**Word als standaard kiezen**
+**Woord als standaard kiezen**
 
 - Klik met de rechtermuisknop op het document, kies **openen met**en kies vervolgens **Word**
 
-**Voer een snelle reparatie uit**
+**Snel herstellen uitvoeren**
 
-1. Ga naar **Configuratiescherm > Programma's > Programma's en onderdelen**.
+1. Ga naar **het Configuratiescherm > Programma's > Programma's en onderdelen**.
 
-2. Selecteer het Office-product dat u wilt herstellen en kies vervolgens **wijzigen**.
+2. Selecteer het Office-product dat u wilt herstellen en kies **wijzigen**.
 
 3. Kies de optie **snel herstellen** en kies vervolgens **herstellen**.
 
 **Versies van Office verwijderen die u niet gebruikt**
 
-1. Ga naar **Configuratiescherm > een programma verwijderen**en selecteer vervolgens de versie van Office die u wilt verwijderen.
+1. Ga naar **het Configuratiescherm > een programma verwijderen**en selecteer vervolgens de versie van Office die u wilt verwijderen.
 
 2. Klik op **verwijderen**.
 
@@ -44,6 +45,6 @@ Probeer een van de volgende suggesties:
 
 **Voer deze probleemoplosser uit om Office-bestandsextensies in te stellen voor openen in Office**
 
-1. Voer deze probleemoplosser https://aka.ms/diag_officefileuit:.
+1. Voer deze probleemoplosser uit: https://aka.ms/diag_officefile .
 
-2. Afhankelijk van uw browser **opent** of **slaat** u de probleemoplosser op het bureaublad op en voert u deze **uit** .
+2. Afhankelijk van de browser **opent** of **slaat** u de probleemoplosser op uw bureaublad op en voert u de probleemoplosser vervolgens **uit** .

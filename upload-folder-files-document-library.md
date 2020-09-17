@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "5200007"
 - "3176"
 ms.assetid: ''
-ms.openlocfilehash: c75f1a0603a1abbc2c771b0d03499b73be70cf25
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ac6bc3ff7b3abffe3f31f67d168e51d6b779daa0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707146"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796031"
 ---
 # <a name="upload-a-folder-or-files-to-a-document-library"></a>Een map of bestanden uploaden naar een documentbibliotheek
 
-U bestanden uploaden naar een documentbibliotheek in SharePoint door ze van uw computer te slepen en ze in de documentbibliotheek te laten vallen.
+U kunt bestanden uploaden naar een documentbibliotheek in SharePoint door de bestanden vanaf uw computer te slepen en ze neer te zetten in de documentbibliotheek.
 
 * [Een map of bestanden uploaden naar een documentbibliotheek](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
-* [Uploaden met OneDrive Sync](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+* [Uploaden met OneDrive-synchronisatie](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)

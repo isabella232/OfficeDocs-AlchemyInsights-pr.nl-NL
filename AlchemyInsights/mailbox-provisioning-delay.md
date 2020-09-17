@@ -1,25 +1,26 @@
 ---
-title: Vertraging bij het inrichten van mailboxen
+title: Vertraging bij inrichten Postvak
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762672"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794401"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Het postvak van uw gebruiker wordt gemaakt
+# <a name="your-users-mailbox-is-being-created"></a>Het postvak van de gebruiker wordt gemaakt
 
-Het kan tot een uur duren voordat een nieuwe mailbox klaar is voor gebruik.
+Het kan een uur duren voordat een nieuw postvak kan worden gebruikt.
   
-Als het postvak van een gebruiker al meer dan een uur is voorbereid, u proberen de gebruiker te verwijderen en vervolgens opnieuw te maken, of de optie 'Laat ons u bellen' gebruiken om met een ondersteuningstechnicus te praten.
+Als het postvak van een gebruiker langer dan een uur is voorbereid, kunt u proberen om de gebruiker te verwijderen en vervolgens opnieuw te maken, of de optie ' We bellen u ' gebruiken om met een ondersteuningsmedewerker te praten.
   
 

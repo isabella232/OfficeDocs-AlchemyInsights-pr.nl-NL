@@ -1,31 +1,32 @@
 ---
-title: Uw bureaubladachtergrond en -kleuren wijzigen
+title: Uw bureaubladachtergrond en kleuren wijzigen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
-ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
+ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42581416"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793681"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Uw bureaubladachtergrond en -kleuren wijzigen
+# <a name="change-your-desktop-background-and-colors"></a>Uw bureaubladachtergrond en kleuren wijzigen
 
-Als u de instelling voor kleuren wilt wijzigen, gaat u naar**** > **Personalisatiekleuren** > **** **voor instellingen starten** > en kiest u vervolgens uw eigen kleur of laat Windows een accentkleur van uw achtergrond trekken.
+Als u de instelling voor kleuren wilt wijzigen, gaat u naar instellingen voor personalisatie van de **Start**  >  **instellingen**  >  **Personalization**  >  **Colors**en kiest u uw eigen kleur, of laat Windows een accentkleur van de achtergrond optrekken.
 
-![Personaliseer uw kleuren in Windows.](media/windows-personalization-colors.png)
+![Persoonlijke instellingen voor uw kleuren in Windows.](media/windows-personalization-colors.png)
 
-Als u de bureaubladachtergrond wilt wijzigen, gaat u naar**De personalisatieachtergrond****van** > **** >  **instellingen starten** > en kiest u een afbeelding, effen kleur of maakt u een diavoorstelling van afbeeldingen. 
+Als u de achtergrond van uw bureaublad wilt wijzigen, gaat u naar de achtergrond van de instellingen voor de **Start**  >  **instellingen**  >  **Personalization**  >  **Background**en kiest u vervolgens een afbeelding, een effen kleur of maak een diavoorstelling van afbeeldingen. 
 
-![De achtergrond van uw Windows-bureaublad wijzigen.](media/windows-desktop-background.png)
+![De bureaubladachtergrond van Windows wijzigen.](media/windows-desktop-background.png)
 
-Wilt u meer bureaubladachtergronden en -kleuren? Ga naar [de Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) om te kiezen uit tientallen gratis thema's.
+Wilt u meer achtergronden en kleuren voor het bureaublad? Bezoek [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) om te kiezen uit tientallen gratis Thema's.

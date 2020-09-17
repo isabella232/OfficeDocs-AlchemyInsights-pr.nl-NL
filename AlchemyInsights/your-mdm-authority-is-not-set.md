@@ -1,27 +1,28 @@
 ---
-title: Uw MDM-instantie is niet ingesteld
+title: Uw MDM-dienst is niet ingesteld
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638209"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796283"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Uw MDM-instantie is niet ingesteld
+# <a name="your-mdm-authority-is-not-set"></a>Uw MDM-dienst is niet ingesteld
 
-De MDM-instantie (Mobile Device Management) van deze Tenant is niet ingesteld. U moet een MDM-instantie instellen voordat u apparaten inschrijven en beheren via intune MDM. Zonder de MDM-instantie in te stellen, u de MDM-functies van intune niet gebruiken. De instelling MDM-instantie bepaalt hoe u uw apparaten beheert.
+De MDM-Authority (Mobile Device Management) van deze Tenant is niet ingesteld. U moet een MDM-autoriteit instellen voordat u apparaten registreert en beheert via intune MDM. Zonder de MDM-Authority in te stellen, kunt u de MDM-functies van intune niet gebruiken. Met de instelling van de MDM-autoriteit wordt bepaald hoe u uw apparaten beheert.
 
 Aanbevolen stappen:
-1. Navigeer naar de intune inschrijvings overzicht Blade om in te stellen van de MDM-instantie.
-2. Kies de juiste autoriteit op basis van uw administratieve behoeften. Zie voor meer informatie, [instellen van de Mobile Device Management Authority artikel](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Ga naar de Blade overzicht van intune-inschrijving om de MDM-dienst in te stellen.
+2. Kies de juiste autoriteit op basis van uw beheer behoeften. Voor meer informatie raadpleegt u [het artikel over het instellen van mobiele apparaten voor beheer van apparaten](https://docs.microsoft.com/intune/mdm-authority-set).
