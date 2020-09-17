@@ -1,27 +1,28 @@
 ---
-title: Kan het plan niet maken
+title: Maken van het plan is mislukt
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: 593f483ac72081617f0b56ef22d4b7c1f77af06b
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: a5090d6d74a3e8f1cdaf52f54d420ccc7c90c107
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682090"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782610"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Foutbericht ' kan het plan niet maken ' wanneer u probeert te maken van een tabblad planner in Microsoft teams
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Fout ' kan het plan niet maken ' bij het maken van een planner-tabblad in Microsoft teams
 
-Als u een foutbericht ' kan niet maken van het plan ' wanneer u probeert te maken van een tabblad planner in Microsoft-teams, zorg ervoor dat de beheerder lid is van de groep door de volgende stappen:
+Als u tijdens het maken van een planner-tabblad in Microsoft teams een foutmelding krijgt wanneer u een plan maakt, moet u ervoor zorgen dat de beheerder lid is van de groep door deze stappen te volgen:
 
-1. Ga in het Admin Center naar **groepen** > [groepen.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups) 
-2. Selecteer de groep en selecteer vervolgens op het tabblad **leden** de optie **alle weergeven en leden beheren**.
+1. Ga in het Beheercentrum naar **groepen**  >  [groepen](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
+2. Selecteer de groep en selecteer vervolgens op het tabblad **leden** de optie **AllesWeergeven en leden beheren**.
 3. Voeg het lid toe en selecteer **Opslaan**.
