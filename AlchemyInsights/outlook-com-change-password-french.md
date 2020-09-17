@@ -1,32 +1,33 @@
 ---
-title: Outlook.com wachtwoord wijzigen - FRANS
+title: Outlook.com wijziging wachtwoord-Frans
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a7856a9e59ca7bb61a081fc2c61022cbee55f3f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721910"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802484"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Wisselaar votre mot de passe dans Outlook.com
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Wisselaar votre mot de Passe dans Outlook.com
 
-Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.
+Votre mot de Passe Outlook.com est le même que votre mot de Passe Compte Microsoft.
 
-1. Accédez [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) à et sélectionnez **Sécurité du mot de passe**.
-2. Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l'aide d'un code de sécurité.
-3. Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.
+1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et Sélectionnez **Sécurité du mot de Passe**.
+2. Par mesure de Sécurité, vous pouvez être invité à confirmr votre identité à l'aide d'un code de Sécurité.
+3. Entrez votre mot de Passe Actuel, Votre nouveau mot de passe, puis Sélectionnez **Enregistrer**.
 
-Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les nodigt uit.
+Si vous avez oublié votre mot de passe, accédez à la [Page The réinitialisation de mot de Passe de Compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis Suivez van de uitnodigingen.
 
-Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Si vous Pensez que votre Outlook.com een été piraté, Voir [ma compte Outlook.com een été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).

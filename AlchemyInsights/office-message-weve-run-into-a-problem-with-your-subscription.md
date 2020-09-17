@@ -1,24 +1,25 @@
 ---
-title: Bericht met Microsoft 365-apps - We hebben een probleem met uw abonnement
+title: Bericht van Microsoft 365-apps-er is een probleem opgetreden met uw abonnement
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 43a0bae34c22fc99b3bebdc4999f325d76f9d0c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581550"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802700"
 ---
-# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Bericht met Microsoft 365-apps - We hebben een probleem met uw abonnement
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Bericht van Microsoft 365-apps-er is een probleem opgetreden met uw abonnement
 
 - Als u onlangs bent overgestapt op een ander abonnement, volgt u de stappen in ['Bericht over account' wordt weergegeven in Office na het overstappen op een ander abonnement](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) om Office opnieuw te installeren of bij te werken.
 

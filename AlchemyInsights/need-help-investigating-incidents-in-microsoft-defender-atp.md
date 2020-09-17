@@ -6,25 +6,26 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: c07b4dac5228ce2c39382a70b41b7acaa49d05f5
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: fdff256e70a63b1a7a306ea40de4f2a68e39455d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197867"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803312"
 ---
 # <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Hulp nodig bij het onderzoeken van incidenten in Microsoft Defender ATP
 
-Als u hulp nodig hebt bij het onderzoeken van een incident in de ATP-service van Microsoft Defender, volgt u deze stappen.
+Voer de volgende stappen uit als u hulp nodig hebt bij het onderzoeken van een incident in Microsoft Defender ATP service.
 
-1. Selecteer het incident en bekijk de waarschuwingen die zijn gekoppeld aan het incident. Selecteer elke waarschuwing om de details te bekijken. Zie [Waarschuwingen voor geavanceerde bedreigingsbeveiliging van Microsoft Defender onderzoeken](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts)voor instructies.
-2. Bekijk de apparaten die deel uitmaken van of gerelateerd zijn aan het incident. Zie Apparaten [onderzoeken in de lijst Microsoft Defender ATP-apparaten](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)voor instructies.<br/>
+1. Selecteer het incident en Bekijk de waarschuwingen gegroepeerd met het incident. Selecteer elke waarschuwing om de details te bekijken. Zie voor instructies [Microsoft Advanced Threat Protection-waarschuwingen onderzoeken](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
+2. Bekijk de apparaten die deel uitmaken van of betrekking hebben op het incident. Zie [apparaten onderzoeken in de lijst met apparaten van Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)voor instructies.<br/>
  
-    Op het tabblad onderzoeken u alle automatische onderzoeken zien die door het systeem zijn gestart naar aanleiding van de incidentmeldingen.
-3. Gebruik de incidentgrafiek om het ingangspunt, de indicaties van compromissen en andere verdachte activiteit op het apparaat(en) te identificeren. Zie voor meer informatie de [bijbehorende cyberbeveiligingsbedreigingen visualiseren.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats)  
+    Het tabblad onderzoek biedt u de mogelijkheid alle automatisch onderzoek te zien die door het systeem wordt gestart als antwoord op de incident meldingen.
+3. Gebruik de meldings grafiek om het toegangspunt, de bericht aanduidingen en andere verdachte activiteiten van het apparaat (en) te identificeren. Zie voor meer informatie het [visualiseren van geassocieerde Cyber Security bedreigingen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
