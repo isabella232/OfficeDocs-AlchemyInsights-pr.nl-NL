@@ -1,11 +1,12 @@
 ---
-title: Verlopen abonnement
+title: Abonnement verlopen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,20 +14,20 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56bd5c85be4316f2c0cdc21f1f49ae5895ca4b97
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505574"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782934"
 ---
-# <a name="expired-subscription"></a>Verlopen abonnement
+# <a name="expired-subscription"></a>Abonnement verlopen
 
-Het lijkt erop dat u een of meer verlopen abonnementen hebt. Als u de service wilt voortzetten, moet u het abonnement opnieuw activeren of een nieuwe aankoop doen.
+Er werd een of meer verlopen abonnementen weergegeven. Als u de service wilt blijven gebruiken, moet u het abonnement opnieuw activeren of een nieuwe aankoop doen.
   
 **Opnieuw activeren**
   
-1. Ga in het beheercentrum naar de pagina **Facturering van** \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Ga in het Beheercentrum naar de pagina **Billing** \> **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren.
 
 2. Kies het abonnement dat u opnieuw wilt activeren. Klik in de sectie **Facturering** op **Opnieuw activeren**.
 
@@ -38,12 +39,12 @@ Raadpleeg [Uw abonnement opnieuw activeren](https://docs.microsoft.com/microsoft
 
 **Een nieuwe aankoop doen**
   
-1. Ga in het beheercentrum **Billing** naar de pagina \> **[Factureringsserviceservices.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+1. Ga in het Beheercentrum naar de pagina Services voor het kopen van **facturen** \> **[Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
 
-2. Kies het abonnement dat u wilt kopen en kies **Kopen.**
+2. Kies het abonnement dat u wilt kopen en kies vervolgens **kopen**.
 
-3. Voer het aantal benodigde gebruikerslicenties in en kies of u per maand of voor het hele jaar wilt betalen. Kies of u automatisch licenties wilt toewijzen aan alle gebruikers zonder licentie. Kies dan **Nu uitchecken.**
+3. Voer het aantal benodigde gebruikerslicenties in en kies of u per maand of voor het hele jaar wilt betalen. Kies of u automatisch licenties wilt toewijzen aan alle gebruikers zonder licentie. Kies vervolgens **Nu betalen**.
 
-4. Volg de resterende stappen om het uitchecken te voltooien.
+4. Voer de resterende stappen uit om de bewerking uit te voeren.
 
-Zie [Een ander abonnement kopen](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)voor meer informatie.
+Zie [nog een abonnement kopen](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)voor meer informatie.

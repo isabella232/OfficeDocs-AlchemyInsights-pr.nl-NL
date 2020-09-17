@@ -5,40 +5,41 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600127"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783582"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Fouten oplossen bij het openen of opslaan van Word-bestanden
 
-Als u problemen ondervindt bij het openen of opslaan van Word-documenten, probeert u het volgende:
+Als u problemen hebt met het openen of opslaan van Word-documenten, kunt u het volgende proberen:
 
-- [Office-updates installeren](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Zie [Laatste updates](https://docs.microsoft.com/officeupdates/office-updates-msi)voor de lijst met de nieuwste Office-updates.
+- [Installeer Office-updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Zie [nieuwste updates](https://docs.microsoft.com/officeupdates/office-updates-msi)voor de lijst met de meest recente Office-updates.
 - [Problemen met beschadigde documenten oplossen in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Een Office-toepassing herstellen](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Als het document bijgehouden wijzigingen bevat, gebruikt u de suggesties in [Word vertraagt of reageert u niet meer als er buitensporige bijgehouden wijzigingen of opmerkingen zijn](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) om het probleem op te lossen.
+- Als het document bijgehouden wijzigingen bevat, werkt u met de suggesties in [Word traag of reageert het niet meer als er veel bijgehouden wijzigingen of opmerkingen zijn](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) om dit probleem op te lossen.
 
-Als u een fout hebt ontvangen zoals een van de volgende opties, gebruikt u de suggesties in [Foutbericht in Office wanneer een bestand wordt geblokkeerd door registerbeleidsinstellingen:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
+Als u een foutbericht ziet dat er een fout is, zoals een van de volgende foutberichten, gebruikt u de suggesties in [foutbericht in Office wanneer een bestand wordt geblokkeerd door registerbeleidsinstellingen](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
-- U probeert een bestand te openen dat is geblokkeerd door de instelling voor registerbeleid.
-- U probeert een ** \<bestandstype\> ** te openen dat is geblokkeerd door de instellingen voor bestandsblok in het vertrouwenscentrum.
-- U probeert een bestand te openen dat is gemaakt in een eerdere versie van Microsoft Office. Dit bestandstype wordt in deze versie niet geopend door de instelling voor registerbeleid.
-- U probeert een bestand op te slaan dat is geblokkeerd door de instelling voor registerbeleid.
-- U probeert een bestandstype op te slaan dat is geblokkeerd door de instellingen voor bestandsblok in het vertrouwenscentrum.
+- U probeert een bestand te openen dat door een registerbeleidsinstelling is geblokkeerd.
+- U probeert een bestandstype te openen **\<File Type\>** dat door uw instellingen voor bestandsblokkering in het Vertrouwenscentrum wordt geblokkeerd.
+- U probeert een bestand te openen dat is gemaakt met een eerdere versie van Microsoft Office. Dit bestandstype wordt in deze versie geblokkeerd door uw registerbeleidsinstelling.
+- U probeert een bestand op te slaan in een bestandstype dat door een registerbeleidsinstelling is geblokkeerd.
+- U probeert een bestandstype op te slaan dat door uw instellingen voor bestandsblokkering is geblokkeerd in het Vertrouwenscentrum.
 
-Als u problemen ondervindt bij het openen van Office-bestanden vanuit SharePoint- of OneDrive-documentbibliotheken, probeert u het volgende:
+Als u problemen ondervindt bij het openen van Office-bestanden uit documentbibliotheken van SharePoint of OneDrive, kunt u het volgende proberen:
 
-- Controleer bestandsbeperkingen in [ongeldige bestandsnamen en bestandstypen in OneDrive, OneDrive voor Bedrijven en SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) om ervoor te zorgen dat het bestand wordt ondersteund. 
-- [Uw Office-documentcache verwijderen](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
+- Controleer de bestands beperkingen voor [ongeldige namen en bestandstypen in onedrive, OneDrive voor bedrijven en SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) om ervoor te zorgen dat het bestand wordt ondersteund. 
+- [Verwijder de Office-documenten cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
 ). 
 
-Zie [Problemen oplossen met het openen van documenten in SharePoint-bibliotheken](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536)voor meer informatie.
+Zie [problemen met het openen van documenten in SharePoint-bibliotheken oplossen](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536)voor meer informatie.

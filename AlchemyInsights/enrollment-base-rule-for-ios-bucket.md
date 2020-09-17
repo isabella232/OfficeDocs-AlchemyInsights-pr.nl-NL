@@ -1,37 +1,38 @@
 ---
-title: Basisregel voor inschrijving voor iOS-Bucket
+title: Basisregel van de registratie voor iOS-buckets
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 806f6704d3b893ea8b22824de94166cae75b88f4
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638174"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784158"
 ---
-# <a name="intune-device-enrollment"></a>InTune-Apparaatinschrijving
+# <a name="intune-device-enrollment"></a>InTune-apparaat inschrijven
 
-[Meer informatie over apparaatinschrijving met intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Meer informatie over apparaatregistratie met intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[IOS-apparaatinschrijving instellen met intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Registratie van iOS-apparaten instellen met intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Inschrijving van Android-apparaten instellen met intune](https://docs.microsoft.com/intune/android-enroll)
+[Registratie van Android-apparaten instellen met intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Windows-apparaatinschrijving instellen met intune](https://docs.microsoft.com/intune/windows-enroll)
+[Registratie van Windows-apparaten instellen met intune](https://docs.microsoft.com/intune/windows-enroll)
 
-Problemen met apparaatinschrijving oplossen
+Problemen bij het registreren van apparaten oplossen
 
-1. Gebruik de [Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) voor intune-probleemoplossing om veelvoorkomende mislukte inschrijvings fouten te diagnosticeren en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
+1. Gebruik de [intune-portal voor het oplossen van problemen](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   om veelvoorkomende registratie fouten op te sporen en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
 
-2. Bekijk deze documenten voor een lijst met veelvoorkomende fouten die inschrijving en oplossingen voorkomen:
-    - [Gids voor probleemoplossing](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Problemen oplossen met doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Bekijk deze documenten voor een lijst met veelvoorkomende fouten die niet kunnen worden ingegaan met inschrijving en oplossingen:
+    - [Hulpprogramma voor probleemoplossing](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
+    - [Problemen oplossen doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
