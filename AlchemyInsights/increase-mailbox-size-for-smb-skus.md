@@ -1,33 +1,34 @@
 ---
-title: Postvakgrootte voor SMB SKU's vergroten
+title: Postvak groter maken voor SMB Sku's
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064280"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778290"
 ---
-# <a name="upgrade-plans-to-increase-mailbox-size"></a>Upgradeplannen om de grootte van het postvak te vergroten
+# <a name="upgrade-plans-to-increase-mailbox-size"></a>Upgrade plannen om de grootte van het postvak te vergroten
 
-Als de grootte van het postvak 50 GB is, u de grootte van het postvak verhogen tot 100 GB door over te schakelen naar [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) of [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Dit zijn de stappen om over te schakelen naar een ander abonnement:
+Als de grootte van het postvak 50 GB is, kunt u de grootte van het postvak groter maken 100 GB door over te schakelen naar [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) of [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Hier volgen de stappen voor het overstappen op een ander abonnement:
   
-1. Ga in het Microsoft 365-beheercentrum naar de pagina **Facturering**  >  [uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Ga in het Microsoft 365-Beheercentrum naar **Billing**de  >  pagina[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
 
-2. Selecteer het abonnement dat u wilt upgraden en selecteer vervolgens het tabblad **Bijwerken** om de lijst met nieuwe abonnementen weer te geven die beschikbaar zijn.
+2. Selecteer het abonnement dat u wilt upgraden, en selecteer vervolgens het tabblad **upgrade** om de lijst weer te geven van nieuwe abonnementen die beschikbaar zijn.
 
-3. Kies een abonnement om de nieuwe totale kosten per maand te bekijken. Zorg ervoor dat u de **belangrijkste informatie**leest en kies **Vervolgens Volgende** om uit te checken.
+3. Kies een plan om de nieuwe totale kosten per maand weer te geven. Lees de **belangrijkste informatie**en kies **volgende** om te bekijken.
 
-4. Wanneer u klaar bent met afrekenen, duurt het enkele minuten voordat Microsoft 365 de overstap afrondt. U uw nieuwe abonnement meteen gebruiken.
+4. Wanneer u klaar bent met uitchecken, duurt micro 365 Soft enkele minuten om de overstap te voltooien. U kunt meteen aan de slag gaan met uw nieuwe abonnement.
 
-Zie [Upgraden naar een ander plan voor](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)meer informatie.
+Zie [upgraden naar een ander abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)voor meer informatie.

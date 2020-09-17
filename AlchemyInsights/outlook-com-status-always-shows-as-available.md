@@ -1,11 +1,12 @@
 ---
-title: Outlook.com status wordt altijd weergegeven als Beschikbaar
+title: De Outlook.com-status wordt altijd weergegeven als beschikbaar
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743448"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777000"
 ---
 # <a name="my-status-always-shows-as-available"></a>Mijn status wordt altijd weergegeven als beschikbaar
 
-Elke keer dat u zich aanmeldt bij Outlook.com, wordt de status van uw account gereset naar Beschikbaar. U voorkomen dat uw status verandert door u niet af te melden bij Outlook.com. Als u wilt blijven inloggen bij het sluiten van uw browser, selecteert u het vak **Mij laten aanmelden** op de Outlook.com aanmeldingspagina.
+Telkens wanneer u zich aanmeldt bij Outlook.com, wordt uw accountstatus opnieuw ingesteld op beschikbaar. U kunt voorkomen dat uw status wordt gewijzigd wanneer u niet afmeldt bij Outlook.com. Als u aangemeld wilt blijven wanneer u de browser sluit, selecteert u het vakje **aangemeld blijven** op de aanmeldingspagina van Outlook.com.

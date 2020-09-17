@@ -1,11 +1,12 @@
 ---
-title: 1221-import-export-outlook-e-mail-contacten-agenda
+title: 1221-Import-Export-Outlook-e-mail-contactpersonen-agenda
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 43e5b15b8c4de60d7f213b6145fa1be11954a42c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508839"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778938"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlook-e-mail, -contactpersonen en -agenda-items importeren en exporteren
 
@@ -28,6 +29,6 @@ ms.locfileid: "44508839"
 
     Hiermee wordt de wizard Importeren en exporteren gestart.
 
-Zie [dit artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)voor een volledige set import- en exportinstructies voor Outlook .
+Zie  [dit artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)voor een volledige set import-en export instructies voor Outlook.
 
-Als u een beheerder bent en meerdere PST-bestanden in bulk wilt importeren in Microsoft 365-postvakken, [raadpleegt u dit artikel](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+Raadpleeg [dit artikel](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)als u een beheerder bent en meerdere PST-bestanden bulksgewijs wilt importeren in microsoft 365-postvakken.
