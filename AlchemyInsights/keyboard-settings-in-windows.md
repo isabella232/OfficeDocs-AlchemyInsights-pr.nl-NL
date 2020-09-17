@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 0359163206ef9ddf0bac7b0ee4b44ed3a016f918
-ms.sourcegitcommit: 4c64a8974c87fa69babaf920b0895f0c17c2d346
+ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415351"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772798"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Toetsenbordinstellingen in Windows 10
 
-**Tekstinstellingen**
+**Type instellingen**
 
-Als u Windows-instellingen wilt wijzigen met betrekking tot spellingcontrole, automatische correctie, suggesties en andere aspecten van uw hardware- en aanraaktoetsenbord, gaat u naar **Instellingen > apparaten > typen**. 
+Als u Windows-instellingen wilt wijzigen voor spellingcontrole, automatische correctie, suggesties en andere aspecten van uw hardware en Schermtoetsenbord, gaat u naar **instellingen > apparaten > typen**. 
 
-**Taal- en toetsenbordinstellingen**
+**Taal en toetsenbordinstellingen**
 
-Als u instellingen wilt wijzigen met betrekking tot welk toetsenbord of invoermethode u wilt gebruiken voor een Windows-taal, gaat u naar **Instellingen > Tijd & taal > taal**. Selecteer talen in de lijst **Voorkeurstalen** en klik op **Opties** om toetsenborden of invoermethoden (IME's) toe te voegen/verwijderen.
+Als u instellingen wilt wijzigen voor het toetsenbord of de invoermethode die moet worden gebruikt voor een Windows-taal, gaat u naar **instellingen > tijd & taal > taal**. Selecteer talen in de lijst **voorkeurstalen** en klik op **Opties** voor het toevoegen of verwijderen van toetsenborden of invoermethoden (ime's).
