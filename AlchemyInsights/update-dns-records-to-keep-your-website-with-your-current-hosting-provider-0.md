@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665755"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815780"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>DNS-records bijwerken als u uw website bij uw huidige hostingprovider wilt houden
 
-1. Ga in het Microsoft 365-beheercentrum naar de pagina **Setup**  >  [Domeinen](https://portal.office.com/adminportal/home#/Domains) instellen en selecteer in de lijst met domeinen het domein dat u voor uw website gebruikt.
+1. Ga in het Microsoft 365-Beheercentrum naar **Setup**de  >  pagina[domeinen](https://admin.microsoft.com/Adminportal#/Domains) installeren en selecteer in de lijst met domeinen het domein dat u voor uw website gebruikt.
 
 2. Selecteer **+ Nieuwe aangepaste record** en typ het volgende:
 
@@ -46,4 +47,4 @@ U kunt eveneens een CNAME-record maken om klanten te helpen bij het zoeken van u
 
   - Voor **Adres waarnaar wordt verwezen** typt u de FQDN (Fully Qualified Domain Name) voor uw website (bijvoorbeeld contoso.com).
 
-2. Kies **Opslaan**.
+2. Selecteer **Opslaan**.

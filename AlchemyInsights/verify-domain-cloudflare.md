@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 481afa2550afd25797133ef6f3fff04111118a8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7f6162fa03fd53e23d048ca7997e0d878279fcc6
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766308"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816428"
 ---
 # <a name="verify-your-domain-with-cloudflare"></a>Uw domein verifiëren met Cloudflare
 
-Als u uw domein wilt verifiëren, moet u een TXT-record toevoegen aan uw domeinregistrar om te controleren of u eigenaar bent van uw domein. 
+Als u uw domein wilt controleren, moet u een TXT-record aan uw domeinregistratie toevoegen om te bevestigen dat u eigenaar van uw domein bent. 
 
-Volg eerst de [wizard Domein toevoegen](https://portal.office.com/adminportal/home#/Domains) door Domeinen **instellingen** \> **te**selecteren en vervolgens domein toe **te voegen**.
+Voer eerst de [wizard domein toevoegen](https://admin.microsoft.com/Adminportal#/Domains) uit door **instellingen** \> **domeinen**te selecteren en vervolgens **domein toevoegen**te selecteren.
   
-Zie [DNS-records maken bij Cloudflare voor Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) voor stapsgewijze instructies.
+Zie [DNS-records maken op Cloudflare voor Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) voor stapsgewijze instructies.

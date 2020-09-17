@@ -1,23 +1,24 @@
 ---
-title: Controleer of u de nieuwste versie van de Skype voor bedrijven
+title: Controleren of u beschikt over de nieuwste versie van Skype voor bedrijven
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000550"
 - "2388"
-ms.openlocfilehash: 233563a54053a105fe0efa40bfe78af479ae6676
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 976b09a057c4edb634645fd63729f74bf34454cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328630"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812398"
 ---
 # <a name="check-for-skype-for-business-updates"></a>Controleren op updates voor Skype voor bedrijven
 
-Zie voor meer informatie over de meest recente updates voor de Skype voor bedrijven-apps op alle platforms (Mac, Windows, Mobile) [de meest recente updates in Skype voor bedrijven volgen](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781).
+Zie [de meest recente updates in Skype voor bedrijven volgen](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781)voor informatie over de meest recente updates voor de Skype voor bedrijven-apps op alle platforms (Mac, Windows, Mobile).

@@ -1,10 +1,10 @@
 ---
 title: 'Uw domein verifiëren '
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
-ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
+ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46636688"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815528"
 ---
 # <a name="how-to-verify-your-domain"></a>Uw domein verifiëren
 
-Als u een domein wilt controleren, volgt u de [wizard domein toevoegen](https://portal.office.com/adminportal/home#/Domains/Wizard)of opent **u hand**matig  >  **Domains**  >  **domein toevoegen**.
+Als u een domein wilt controleren, volgt u de [wizard domein toevoegen](https://admin.microsoft.com/Adminportal#/Domains/Wizard)of opent **u hand**matig  >  **Domains**  >  **domein toevoegen**.
 
 Zie de instructies in [DNS-records toevoegen om uw](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)domein te koppelen voor meer informatie over het controleren van uw domein in DNS-wijzigingen.
 
