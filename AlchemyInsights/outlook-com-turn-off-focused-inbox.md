@@ -1,27 +1,28 @@
 ---
-title: Geconcentreerd postvak IN uitschakelen
+title: Postvak in met prioriteit uitschakelen
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1199"
 - "105"
 - "8000001"
-ms.openlocfilehash: 7059f3ba1886dc1d86f15b40b4fb7e295a9fb478
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fc9117b3575181641a246f7978caaba5feac163d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759001"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811736"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="c576c-102">Geconcentreerd postvak IN uitschakelen</span><span class="sxs-lookup"><span data-stu-id="c576c-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="081d9-102">Postvak in met prioriteit uitschakelen</span><span class="sxs-lookup"><span data-stu-id="081d9-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="c576c-103">Selecteer boven aan de pagina</span><span class="sxs-lookup"><span data-stu-id="c576c-103">At the top of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> <span data-ttu-id="c576c-104">om het deelvenster Instellingen te openen.</span><span class="sxs-lookup"><span data-stu-id="c576c-104">to open the Settings pane.</span></span>
-2. <span data-ttu-id="c576c-105">Verplaats in het deelvenster Instellingen de **schakelin Gericht Postvak IN** naar uit.</span><span class="sxs-lookup"><span data-stu-id="c576c-105">In the Settings pane, move the **Focused Inbox** toggle to off.</span></span>
+1. <span data-ttu-id="081d9-103">Selecteer boven aan de pagina</span><span class="sxs-lookup"><span data-stu-id="081d9-103">At the top of the page, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> <span data-ttu-id="081d9-104">om het deelvenster instellingen te openen.</span><span class="sxs-lookup"><span data-stu-id="081d9-104">to open the Settings pane.</span></span>
+2. <span data-ttu-id="081d9-105">In het deelvenster instellingen zet u de wisselknop **Postvak in met prioriteit** op uit.</span><span class="sxs-lookup"><span data-stu-id="081d9-105">In the Settings pane, move the **Focused Inbox** toggle to off.</span></span>
 
-<span data-ttu-id="c576c-106">Zie [Gericht Postvak IN uitschakelen voor](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="c576c-106">For more information, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).</span></span>
+<span data-ttu-id="081d9-106">Zie [Postvak in met prioriteit](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom)uitschakelen voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="081d9-106">For more information, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).</span></span>
