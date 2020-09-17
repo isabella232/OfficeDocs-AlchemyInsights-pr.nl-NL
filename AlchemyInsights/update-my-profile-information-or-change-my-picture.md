@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720096"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796931"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Mijn profielgegevens bijwerken of mijn foto wijzigen
 
-Momenteel is het niet mogelijk om uw profielgegevens rechtstreeks vanuit Outlook voor iOS te bewerken en bij te werken, maar het is mogelijk om deze informatie elders te bewerken. 
+Op dit moment kunt u uw profielgegevens niet rechtstreeks vanuit Outlook voor iOS bewerken en bijwerken, maar u kunt deze informatie ook op een andere plek bewerken. 
 
-U uw profiel bijwerken in Outlook voor Windows of Outlook on the Web (OWA). 
+U kunt updates voor uw profiel maken in Outlook voor Windows of in de webversie van Outlook. 
 
-**Outlook voor Windows:** 
+**Outlook voor Windows**: 
 
-- **Gebruikersgegevens van** > **Office-account** > **over** > **mij** (brengt u naar Microsoft 365-profiel online) > **Updateprofiel** of klik op het camerapictogram om uw foto te wijzigen  
+- **Bestand**  >  **Office-account**  >  **Gebruikersgegevens**  >  **Over mij** (microsoft 365-profiel online) > **profiel bijwerken** of klik op het camera pictogram om uw foto te wijzigen  
   
-**Outlook on the Web (OWA):** 
+**De webversie van Outlook (OWA)**: 
 
-- **Profielafbeelding** > **Mijn profielupdateprofiel** > **Update profile**
+- **Profielafbeelding**  >  **Mijn profiel**  >  **Profiel bijwerken**

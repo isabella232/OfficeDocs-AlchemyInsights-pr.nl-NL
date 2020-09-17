@@ -5,25 +5,26 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 76fb9018c1711e44926d52407d42ab8c654cfc45
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0b44d1e8f7f8c3674666b3ff6a8b515d2f2d66b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758410"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798839"
 ---
 # <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Doorsturen naar meerdere e-mailadressen instellen
 
-Als u e-mail doorsturen naar een groep gebruikers moet instellen, maakt u een distributielijst, voegt u er meerdere gebruikers aan toe en configureert u het doorsturen naar die lijst. Navigeer eerst in het beheercentrum naar **Groepen** > [groepen](https://portal.office.com/adminportal/home#/groups).
+Als u het doorsturen van e-mail naar een groep gebruikers wilt instellen, maakt u een distributielijst, voegt u er meerdere gebruikers aan toe en configureert u vervolgens doorsturen naar die lijst. Ga eerst naar **groepen**groepen in het Beheercentrum  >  [Groups](https://portal.office.com/adminportal/home#/groups).
   
-1. Maak een groep.
+1. Een groep maken.
 
-2. Voeg er meerdere gebruikers aan toe.
+2. U kunt er meerdere gebruikers aan toevoegen.
 
-3. Configureer het doorsturen van het postvak naar die groep.
+3. Postvak voor doorsturen naar deze groep configureren.

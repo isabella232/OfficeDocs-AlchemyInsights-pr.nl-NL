@@ -1,11 +1,12 @@
 ---
-title: Wanneer worden mijn creditcard in rekening gebracht?
+title: Wanneer wordt mijn creditcard aangerekend?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418067"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796391"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Wanneer worden mijn creditcard in rekening gebracht?
+# <a name="when-is-my-credit-card-charged"></a>Wanneer wordt mijn creditcard aangerekend?
 
-Bij een eerste aankoop kan het tot twee dagen duren voordat de kosten zijn uitgevoerd.
+Met een eerste aankoop kan het tot twee dagen duren voordat de kosten zijn opgetreden.
   
-Terugkerende kosten worden binnen één dag nadat de factuur is gemaakt.
+Periodieke kosten lopen af binnen één dag van de factuur die wordt gemaakt.
   
-Als de kosten niet succesvol zijn, zal het systeem blijven proberen om het saldo te regelen in de komende weken. U uw betalingsgegevens op elk gewenst moment bijwerken om te verzekeren dat de volgende poging tot betaling is geslaagd. Zie [Betalingsmethoden beheren voor](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)meer informatie.
+Als het niet lukt om het saldo over de komende weken te belasten, blijft het systeem proberen het saldo over de komende weken af te rekenen. U kunt op elk gewenst moment updates van uw betalingsgegevens maken om te controleren of het volgende bedrag is gelukt. Zie voor meer informatie [betalingsmethoden beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
