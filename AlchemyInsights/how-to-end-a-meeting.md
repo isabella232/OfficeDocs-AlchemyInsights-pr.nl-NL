@@ -1,27 +1,28 @@
 ---
-title: Een vergadering formeel beëindigen
+title: Het beëindigen van een vergadering
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 1d11e4421559aefd50638555d1309bfcae12d50f
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708655"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780414"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Een vergadering formeel beëindigen
+# <a name="how-to-formally-end-a-meeting"></a>Het beëindigen van een vergadering
 
-Organisatoren van vergaderingen kunnen een vergadering voor alle deelnemers aan de vergadering in Teams beëindigen door op **Vergadering beëindigen** in de besturingselementen voor de vergadering in de vergadering te klikken.  
+Organisatoren van vergaderingen kunnen een vergadering beëindigen voor alle deelnemers aan de vergadering in teams door te klikken op **vergadering beëindigen** in de besturingselementen voor de vergadering in de vergadering.  
 
-Als u een lopende vergadering voor alle deelnemers wilt beëindigen, selecteert u vergaderbesturingselementen, selecteert u het pictogram 3 punten en klikt u op Vergadering beëindigen. Je wordt gevraagd je selectie te bevestigen. Als u uw selectie bevestigt, wordt de vergadering voor iedereen beëindigd.
+Als u een actieve vergadering voor alle deelnemers wilt beëindigen, selecteert u besturingselementen voor vergaderingen, selecteert u het pictogram met de drie puntjes en klikt u op vergadering beëindigen. U wordt gevraagd uw selectie te bevestigen. Als u een selectie bevestigt, wordt de vergadering voor iedereen beëindigd.
 
-OPMERKING: Alleen de organisator van de vergadering kan een vergadering 'beëindigen'.
+Opmerking: alleen de organisator van een vergadering kan een vergadering beëindigen.

@@ -1,10 +1,11 @@
 ---
-title: Hoe stel ik Skype Meeting broadcast
+title: Hoe kan ik Skype Meeting broadcast instellen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 94ef1f8479b0056347e632c8993ad2c6c612602d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305222"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781458"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Kan niet starten of deelnemen aan een uitzending van Skype vergadering?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Kunt u een uitzending Skype-vergadering niet starten of hieraan deelnemen?
 
-Als u problemen ondervindt bij het starten of het deelnemen aan een Skype Meeting broadcast als een event teamlid (Meeting producer), moet u controleren of uw configuratie. Skype Meeting broadcast vereist enkele handmatige instellingsstappen. Volg de stappen in dit artikel om ervoor te zorgen dat uw netwerk en Skype voor Business Online Portal correct zijn geconfigureerd en dat de betrokken gebruiker niet wordt geblokkeerd door een conflicterende licentie:
+Als u problemen ondervindt bij het starten of deelnemen aan een uitzending Skype-vergadering als lid van het gebeurtenis team, controleert u of u de configuratie dubbelklikt. Voor Skype Meeting broadcast moeten handmatige instellingsstappen worden uitgevoerd. Voer de stappen in dit artikel uit om er zeker van te zijn dat de portal van netwerk en Skype voor bedrijven online correct is geconfigureerd en dat de betrokken gebruiker niet wordt geblokkeerd door een conflicterende licentie:
 
 [Uw netwerk instellen voor Skype Meeting broadcast](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

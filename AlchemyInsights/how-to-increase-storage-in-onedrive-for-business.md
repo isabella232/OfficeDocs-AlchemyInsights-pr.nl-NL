@@ -1,32 +1,33 @@
 ---
-title: Opslag in OneDrive voor Bedrijven vergroten
+title: Meer opslagruimte in OneDrive voor bedrijven
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063036"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780090"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Opslag in OneDrive voor Bedrijven vergroten
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Meer opslagruimte in OneDrive voor bedrijven
 
-Ga als volgende keer op zoek naar de standaardopslag voor nieuwe en bestaande OneDrive-gebruikers:
+U wijzigt als volgt de standaardopslag voor nieuwe en bestaande OneDrive-gebruikers:
   
-- Ga naar de [pagina Opslag van het OneDrive-beheercentrum](https://admin.onedrive.com/?v=StorageSettings)en voer een nieuw bedrag in GB in.
+- Ga naar de [pagina opslag van het OneDrive-Beheercentrum](https://admin.onedrive.com/?v=StorageSettings)en voer een nieuw bedrag in GB in.
 
-Deze instelling voor opslagruimte is van toepassing op alle gebruikers voor wie u geen specifieke opslaglimieten hebt ingesteld. Als u de opslagruimte voor specifieke gebruikers wilt wijzigen, moet u Microsoft PowerShell gebruiken. Zie [De OneDrive-opslagruimte van uw gebruikers wijzigen met PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)voor meer informatie over hoe u dit doen.
+Deze instelling voor de opslagruimte geldt voor alle gebruikers voor wie u geen specifieke opslaglimieten hebt ingesteld. Als u de opslagruimte voor specifieke gebruikers wilt wijzigen, moet u Microsoft PowerShell gebruiken. Zie [de OneDrive-opslagruimte van uw gebruikers wijzigen met PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)voor informatie over hoe u dit kunt doen.
 
-**OPMERKING:** Het lijkt erop dat je geen abonnement hebt dat onbeperkte opslag bevat. Zie [OneDrive voor Bedrijven-servicebeschrijving](https://go.microsoft.com/fwlink/p/?LinkID=826071)voor informatie over de opslag die bij elk abonnement wordt geleverd.
+**Opmerking**: het lijkt erop dat u geen abonnement hebt dat onbeperkte opslag omvat. Zie de [servicebeschrijving van OneDrive voor bedrijven](https://go.microsoft.com/fwlink/p/?LinkID=826071)voor informatie over de opslagruimte die bij elk abonnement wordt meegeleverd.
   
-Als u uw opslagruimte in OneDrive voor Bedrijven wilt vergroten, kiest u een abonnement met **OneDrive voor Bedrijven Abonnement 2** of Office **365 Enterprise E3.** 
+Als u uw opslag in OneDrive voor bedrijven wilt verlengen, kiest u een abonnement dat **OneDrive voor bedrijven-abonnement 2** of **Office 365 Enterprise E3**bevat. 
   
-Als u plannen wilt wijzigen, gaat u in het Microsoft 365-beheercentrum naar de pagina **Facturering** \> **[uw producten,](https://go.microsoft.com/fwlink/p/?linkid=842054)** selecteert u het abonnement dat u wilt wijzigen en kiest u het tabblad **Bijwerken.**
+Als u een ander abonnement wilt kiezen, gaat u in het Microsoft **Billing** 365-Beheercentrum naar de \> pagina **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren, selecteert u het abonnement dat u wilt wijzigen en klikt u vervolgens op het tabblad **upgrade** .
   
-Zie [Overschakelen naar een ander Microsoft 365 voor Bedrijven-abonnement](https://go.microsoft.com/fwlink/?LinkId=2031117) en de [beschrijving van de Service beschrijving van OneDrive voor Bedrijven](https://go.microsoft.com/fwlink/p/?LinkId-2031122)voor meer informatie over het schakelen tussen abonnementen en OneDrive voor Bedrijven-opslag.
+Zie [overstappen op een ander abonnement voor Microsoft 365 voor bedrijven](https://go.microsoft.com/fwlink/?LinkId=2031117) en de [service beschrijving van OneDrive voor bedrijven](https://go.microsoft.com/fwlink/p/?LinkId-2031122)voor meer informatie over het overstappen op een ander abonnement en opslag in onedrive voor bedrijven.

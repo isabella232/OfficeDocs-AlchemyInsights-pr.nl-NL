@@ -1,27 +1,28 @@
 ---
-title: Hoe wis ik de cache of lokaal resetten/vernieuwen van de client/app?
+title: Hoe kan ik de cache wissen of lokaal terugzetten/de client vernieuwen?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: e6ec9d321c4ec09661bfc712084f920dc8c6054d
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627677"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780270"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Hoe wis ik de cache of lokaal resetten/vernieuwen van de client/app?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Hoe kan ik de cache wissen of lokaal terugzetten/de client vernieuwen?
 
-Als u onvolledige of onjuiste gegevens ziet, probeert u de app geforceerd te sluiten en opnieuw te openen.  
+Als u niet-voltooide of onjuiste gegevens ziet, sluit u de app en opent u deze opnieuw.  
 
-Als dat niet werkt, u proberen het account op het apparaat opnieuw in te stellen.
+Als dat niet werkt, kunt u proberen het account van het apparaat opnieuw in te stellen.
  
-Open de app, ga naar **instellingen**, selecteer het e-mail account en kies **account opnieuw instellen**.
+Open de app, ga naar **instellingen**, selecteer het e-mailaccount en kies **account opnieuw instellen**.
