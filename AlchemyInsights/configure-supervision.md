@@ -1,33 +1,34 @@
 ---
-title: Toezicht configureren
+title: Controle configureren
 ms.author: robmazz
 author: robmazz
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507761"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807510"
 ---
-# <a name="configure-supervision-policies"></a>Toezichtbeleid configureren
+# <a name="configure-supervision-policies"></a>Beleidsregels voor controle configureren
 
-Met het toezichtbeleid in Microsoft 365 u Exchange-e-mail, Skype voor Bedrijven Online, Microsoft Teams en communicatie van derden controleren die binnen en buiten uw organisatie worden verzonden. Aangewezen revisoren kunnen bewaakte berichten onderzoeken om te controleren of ze voldoen aan het beleid, risicobeheer en nalevingsnormen van uw organisatie en deze op te lossen met een classificatietype.
+Met behulp van controlebeleid in Microsoft 365 kunt u Exchange-e-mail, Skype voor bedrijven online, Microsoft teams en communicatie van derden binnen en buiten uw organisatie volgen. Aangewezen revisoren kunnen beoordeelde berichten controleren om ervoor te zorgen dat ze voldoen aan het beleid van uw organisatie, risicobeheer en normen voor naleving van de regelgeving, en deze met een classificatie type oplossen.
 
-Als u toezichtbeleid in uw organisatie wilt gebruiken, moet u:
+Als u een controlebeleid in uw organisatie wilt gebruiken, moet u het volgende doen:
 
-- Bepaal de communicatie die moet worden gecontroleerd.
-- Bepaal wie de communicatie wordt gecontroleerd.
-- Beleid voor toezicht instellen
+- De communicatie met monitor bepalen.
+- Bepaal wie de communicaties willen zien.
+- Beleidsregels voor het instellen van controle
 
 Meer informatie:
 
-- [Overzicht van toezichtsbeleid](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Toezichtbeleid configureren](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Overzicht van controlebeleid](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Beleidsregels voor controle configureren](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
