@@ -1,29 +1,30 @@
 ---
-title: Oplossingen voor problemen met Dynamics 365-opslag aanbevelen
+title: Oplossingen aanbevelen voor problemen met Dynamics 365-opslag
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36509861"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799163"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="74980-102">Oplossingen voor problemen met Dynamics 365-opslag aanbevelen</span><span class="sxs-lookup"><span data-stu-id="74980-102">Recommend solutions for Dynamics 365 storage issues</span></span>
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="e6437-102">Oplossingen aanbevelen voor problemen met Dynamics 365-opslag</span><span class="sxs-lookup"><span data-stu-id="e6437-102">Recommend solutions for Dynamics 365 storage issues</span></span>
 
-* <span data-ttu-id="74980-103">Als globale beheerder, Bekijk opslag specificatie per omgeving, Top 10 tabellen en meer</span><span class="sxs-lookup"><span data-stu-id="74980-103">As a global administrator, view storage breakdown by environment, top 10 tables, and more</span></span>
+* <span data-ttu-id="e6437-103">Als globale beheerder kunt u opslag specificatie per omgeving, tien belangrijkste tabellen en meer weergeven</span><span class="sxs-lookup"><span data-stu-id="e6437-103">As a global administrator, view storage breakdown by environment, top 10 tables, and more</span></span>
 
-* [<span data-ttu-id="74980-104">Vragen over facturering en abonnementen voor opslag</span><span class="sxs-lookup"><span data-stu-id="74980-104">Storage billing and subscription questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [<span data-ttu-id="e6437-104">Vragen over opslag en abonnementen</span><span class="sxs-lookup"><span data-stu-id="e6437-104">Storage billing and subscription questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [<span data-ttu-id="74980-105">Dynamics 365 prijzen en licentie gids</span><span class="sxs-lookup"><span data-stu-id="74980-105">Dynamics 365 pricing and licensing guide</span></span>](https://dynamics.microsoft.com/pricing/)
+* [<span data-ttu-id="e6437-105">Dynamics 365 prijzen en licentie richtlijnen</span><span class="sxs-lookup"><span data-stu-id="e6437-105">Dynamics 365 pricing and licensing guide</span></span>](https://dynamics.microsoft.com/pricing/)
 
-* [<span data-ttu-id="74980-106">Meer opslagruimte aanschaffen</span><span class="sxs-lookup"><span data-stu-id="74980-106">How to purchase more storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [<span data-ttu-id="e6437-106">Meer opslagruimte aanschaffen</span><span class="sxs-lookup"><span data-stu-id="e6437-106">How to purchase more storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [<span data-ttu-id="74980-107">Opslagruimte vrij maken</span><span class="sxs-lookup"><span data-stu-id="74980-107">How to free up storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [<span data-ttu-id="e6437-107">Opslagruimte vrijmaken</span><span class="sxs-lookup"><span data-stu-id="e6437-107">How to free up storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
