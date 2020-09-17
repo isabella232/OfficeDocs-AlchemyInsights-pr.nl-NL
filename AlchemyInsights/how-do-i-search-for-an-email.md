@@ -1,27 +1,28 @@
 ---
-title: Hoe zoek ik een e-mail?
+title: Hoe zoek ik een e-mailbericht?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: c0bb068702adaa9434dce478e626efad30f8bc4a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627733"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781674"
 ---
-# <a name="how-do-i-search-for-an-email"></a><span data-ttu-id="4f177-102">Hoe zoek ik een e-mail?</span><span class="sxs-lookup"><span data-stu-id="4f177-102">How do I search for an email?</span></span>
+# <a name="how-do-i-search-for-an-email"></a><span data-ttu-id="cdc57-102">Hoe zoek ik een e-mailbericht?</span><span class="sxs-lookup"><span data-stu-id="cdc57-102">How do I search for an email?</span></span>
 
-<span data-ttu-id="4f177-103">U zoeken naar een e-mail bericht door de contactpersoon die u de e-mail heeft gestuurd opzoeken of door te zoeken naar een trefwoord in de e-mail.</span><span class="sxs-lookup"><span data-stu-id="4f177-103">You can search for an email by looking up the contact who sent you the email, or by searching for a keyword contained within the email.</span></span>
+<span data-ttu-id="cdc57-103">U kunt zoeken naar een e-mailbericht door de contactpersoon te zoeken die u het e-mailbericht heeft gestuurd, of door te zoeken naar een trefwoord in het e-mailbericht.</span><span class="sxs-lookup"><span data-stu-id="cdc57-103">You can search for an email by looking up the contact who sent you the email, or by searching for a keyword contained within the email.</span></span>
 
-<span data-ttu-id="4f177-104">Tik op het vergrootglas op de onderste navigatiebalk.</span><span class="sxs-lookup"><span data-stu-id="4f177-104">Tap the magnifying glass on the bottom navigation bar.</span></span> <span data-ttu-id="4f177-105">Typ vervolgens uw zoekopdracht in het vak boven aan het scherm.</span><span class="sxs-lookup"><span data-stu-id="4f177-105">Then type your search request into the box at the top of your screen.</span></span> 
+<span data-ttu-id="cdc57-104">Tik op het vergrootglas op de onderste navigatiebalk.</span><span class="sxs-lookup"><span data-stu-id="cdc57-104">Tap the magnifying glass on the bottom navigation bar.</span></span> <span data-ttu-id="cdc57-105">Typ uw zoekopdracht in het vak boven aan het scherm.</span><span class="sxs-lookup"><span data-stu-id="cdc57-105">Then type your search request into the box at the top of your screen.</span></span> 
 
-<span data-ttu-id="4f177-106">**Tip:** U dubbel tikken op het vergrootglas om de focus te brengen op het zoekvak.</span><span class="sxs-lookup"><span data-stu-id="4f177-106">**Tip:** You can double-tap the magnifying glass to bring focus to the search box.</span></span> <span data-ttu-id="4f177-107">Uw resultaten worden weergegeven wanneer u uw aanvraag typt.</span><span class="sxs-lookup"><span data-stu-id="4f177-107">Your results will appear as you type your request.</span></span> 
+<span data-ttu-id="cdc57-106">**Tip:** U kunt op het vergrootglas dubbeltikken om de focus te verplaatsen naar het vak zoeken.</span><span class="sxs-lookup"><span data-stu-id="cdc57-106">**Tip:** You can double-tap the magnifying glass to bring focus to the search box.</span></span> <span data-ttu-id="cdc57-107">Uw zoekresultaten worden weergegeven terwijl u uw verzoek typt.</span><span class="sxs-lookup"><span data-stu-id="cdc57-107">Your results will appear as you type your request.</span></span> 
