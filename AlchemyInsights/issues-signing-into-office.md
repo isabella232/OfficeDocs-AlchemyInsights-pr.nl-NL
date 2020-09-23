@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676985"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236120"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemen bij het aanmelden bij Microsoft 365-apps
 
@@ -25,6 +25,8 @@ Voor het oplossen van aanmeldingsproblemen met Microsoft 365-apps, kunt u de vol
 
 - Zie voor Windows [aanbevelingen voor het oplossen van veelvoorkomende aanmeldingsproblemen](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) .
 - Voor Mac raadpleegt  [u kunt u niet aanmelden bij een Office 2016 voor Mac-app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Info** Op Windows-computers kunnen we de veelvoorkomende problemen met Office-aanmelding voor u achterhalen en automatisch oplossen. Download en start  **[Microsoft ondersteuning en herstel ondersteuning](https://aka.ms/SaRA-OfficeSignInScenario)** voor het gebruik van ons geautomatiseerde programma.
 
 **Opmerking:** Het  **wordt afgeraden**van de ondersteuning voor moderne verificatie (ADAL) of webaccount beheer (WAM) voor het oplossen van problemen met aanmelden of activering. Als de fouten optreden bij het maken van verbinding met Microsoft 365 met behulp van Office 2013, moet u ervoor zorgen dat u moderne verificatie voor Office-clients [inschakelt](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  .
 
