@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658945"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277841"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Problemen met zoeken in inhoud oplossen
 
@@ -36,3 +36,5 @@ U ontvangt bijvoorbeeld het volgende wanneer u zoekopdrachten uitvoert?
 Of bij het zoeken naar en exporteren van resultaten uit een groot aantal postvakken (meer dan 100.000 postvakken), krijgt u een exportfout?
 
 Voor dit soort fouten probeert u het zoeken naar de inhoudslocaties die mislukt zijn. Zie  [dit artikel](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) voor meer informatie.
+
+Als u meer dan een afgesloten 100k postvakken exporteert, moet u de volgende PowerShell gebruiken om de export resultaten te downloaden:  [resultaten uit meer dan afgesloten 100k postvakken exporteren](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

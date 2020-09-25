@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711090"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277931"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kunt u het hulpprogramma voor het maken van eDiscovery-export niet installeren of uitvoeren?
 
@@ -47,4 +47,5 @@ Controleer het volgende als u het hulpprogramma voor het maken van zoekresultate
 - U bent in het Microsoft 365 beveiligings compliance van de export functie toegewezen &amp; . Standaard is deze rol alleen toegewezen aan de rollen groep van eDiscovery-beheerders. Zie [eDiscovery-machtigingen toewijzen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Zie [inhoud van zoekresultaten exporteren](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)voor meer informatie.
-  
+
+Als u meer dan een afgesloten 100k postvakken exporteert, moet u de volgende PowerShell gebruiken om de export resultaten te downloaden:  [resultaten uit meer dan afgesloten 100k postvakken exporteren](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
