@@ -2,7 +2,7 @@
 title: Vraag over licenties
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ff02e0beb7a15053961e860bfa1bf5a66d9eeaaf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812614"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287061"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Vragen over uw Microsoft 365-licentie
 
-Als u wilt weten hoeveel licenties u hebt aangeschaft, of hoeveel licenties zijn toegewezen via een abonnement:
+Ga als volgt te werk om te zien hoeveel licenties u hebt gekocht, of hoeveel licenties er zijn toegewezen via een abonnement.
   
-1. Ga in het Beheercentrum naar de pagina **Billing** \> **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren.
+1. Ga in het beheercentrum naar de pagina **Facturering** \> [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Zoek op het tabblad **producten** naar het abonnement waarover u meer wilt weten. U kunt het aantal licenties dat u betaalt, en het aantal momenteel toegewezen taken weergeven.
 
-2. Zoek het abonnement waarover u meer wilt weten. U kunt zien hoeveel licenties u betaalt en hoeveel er beschikbaar is om te worden toegewezen.
-
-Als u meer licenties wilt toevoegen of als u te veel hebt, kiest u **licenties toevoegen/verwijderen** om het gekochte bedrag aan te passen.
+Als u meer licenties wilt toevoegen of als u te veel hebt, selecteert u het abonnement. Selecteer op de pagina met abonnementsgegevens de optie **licenties kopen** of **licenties verwijderen** om het totale aantal licenties voor het abonnement aan te passen.

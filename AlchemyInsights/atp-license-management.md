@@ -1,8 +1,8 @@
 ---
 title: Licentiebeheer voor Geavanceerd Threat Protection
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715376"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287097"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Licentiebeheer voor Geavanceerd Threat Protection
 
 Office 365 Advance Threat Protection (ATP) licentiebeheer kunt u in het  **Microsoft 365-Beheercentrum**voltooien.
 
-- Als u Office 365 Advance Threat Protection wilt kopen, gaat u naar de pagina **voor het**  >  [aanschaffen van aankopen](https://go.microsoft.com/fwlink/p/?linkid=868433), selecteert u pagina invoegtoepassingen en selecteert u vervolgens de pagina **invoegtoepassingen** **die u interesseert**, selecteert u het geavanceerde beveiligingsabonnement dat u wilt kopen en selecteert u het aantal gebruikers dat een geavanceerde bedreigingsbeveiliging gaat gebruiken. Zie [abonnement kopen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)voor meer informatie.
-- Als u een licentie wilt toewijzen aan Office 365 Advance Threat Protection, gaat u naar **facturerings**  >  **licenties**. Zie  [licenties toewijzen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)voor meer informatie.  
-- Als u licenties wilt toevoegen of verwijderen van Office 365 Advance Threat Protection, gaat u naar ga naar naar **facturering**van  >  **uw producten**, zoekt u naar het abonnement waaraan u licenties wilt toevoegen of intrekken en selecteert u **licenties toevoegen/verwijderen**.  
-- Zie licentie s toevoegen aan [of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)uit uw bedrijfs abonnement voor meer informatie.
+- Office 365 Advance Threat Protection kopen:
+    1. Ga naar Services voor het kopen van **facturen**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).
+    2. Selecteer **invoegtoepassingen**onder aan de pagina.
+    3. Selecteer op de pagina **Services aanschaffen** het geavanceerde beveiligingsabonnement dat u wilt kopen, voer het aantal gebruikers in dat een licentie nodig heeft en selecteer vervolgens **Nu betalen**. Zie [een invoegtoepassing kopen](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)voor meer informatie.
+- Als u een licentie wilt toewijzen aan Office 365 Advance Threat Protection, gaat u naar **facturerings**  >  **licenties**. Zie [licenties toewijzen aan gebruikers](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)voor meer informatie.
+- Om licenties toe te voegen aan of te verwijderen uit Office 365 Advance Threat Protection, gaat u naar de **facturering**van  >  **uw producten**. Selecteer het abonnement dat u wilt bijwerken en selecteer vervolgens **licenties kopen** of ***licenties verwijderen**. Zie [abonnementslicenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)voor meer informatie.
