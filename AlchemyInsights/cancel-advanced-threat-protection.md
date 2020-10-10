@@ -1,8 +1,8 @@
 ---
 title: Geavanceerde Bedreigingsbeveiliging annuleren
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683685"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416263"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Geavanceerde Bedreigingsbeveiliging annuleren
 
-Geavanceerde Bedreigingsbeveiliging kan worden opgezegd in het **Microsoft 365-Beheercentrum**.
+Beheerders kunnen het Advanced Threat Protection-abonnement voor hun organisatie opzeggen in het Microsoft 365-Beheercentrum.
 
 1. Ga naar de **Billing**  >  pagina[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
-2. Zoek het Advanced Threat Protection-abonnement om te annuleren.
-3. Klik op **abonnement opzeggen**.
+2. Zoek op het tabblad **Products** het Advanced Threat Protection-abonnement dat u wilt opzeggen. Selecteer **meer acties** (drie puntjes) en selecteer vervolgens **abonnement annuleren**.
+3. Kies in het deelvenster **abonnement annuleren** een reden waarom u wilt opzeggen. U kunt ook feedback geven.
+4. Kies **Opslaan**.
 
-Restitutie: het naar u betaalde bedrag wordt binnen de volgende factureringscyclus weergegeven.
-
-**Opmerking**: als u de optie voor annuleren niet ziet, klikt u op het abonnement om de details weer te geven en ziet u de optie **abonnement annuleren** bij **instellingen & acties**.
+**Restitutie:** Het naar u verzonden tegoed wordt binnen de volgende factureringscyclus weergegeven.
 
 Zie [uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)voor meer informatie.

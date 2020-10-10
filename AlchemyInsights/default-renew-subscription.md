@@ -1,8 +1,8 @@
 ---
 title: Standaard renew subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745854"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416626"
 ---
 # <a name="renewing-your-subscription"></a>Uw abonnement verlengen
 
@@ -25,8 +25,10 @@ Als u met een creditcard of via een bankrekening betaalt, is periodieke facturer
 
 Als u uw abonnement met een productcode hebt betaald, verloopt uw abonnement aan het einde van de abonnementsperiode. Op de dag waarop u zich hebt geabonneerd, kunt u terugkerende facturering inschakelen en creditcardgegevens invoeren, zodat uw abonnement nog steeds wordt gefactureerd op de dag waarop u zich hebt geabonneerd.
 
-Periodieke facturering inschakelen voor: 
+Periodieke facturering inschakelen voor:
 
-1. Ga naar de **facturering**van  >  **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Kies het abonnement waarvoor u terugkerende facturering wilt beheren.
-3. Selecteer onder **facturering**de optie **bewerken** en breng de wijzigingen aan in het venster **periodieke facturerings instellingen** . 
+1. Ga in het Beheercentrum naar de pagina **Billing**  >  [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
+2. Selecteer op het tabblad **Products** het abonnement dat u wilt wijzigen.
+3. Selecteer op de pagina Abonnementsgegevens onder **Instellingen voor abonnementen en betalingen**, **Terugkerende facturering bewerken**.
+4. In het deelvenster **Terugkerende facturering bewerken** selecteert u **Aan**, **Aan, met eenmaal verlengen**of **Uitschakelen**.
+5. Selecteer **Opslaan**. 
