@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
-ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
+ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
+ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473096"
+ms.locfileid: "48478339"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Doorsturen van e-mail blokkeren of de blokkering opheffen
 
 Zie [doorsturen van E-mail configureren](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)om het doorsturen van e-mail voor een specifiek postvak in of uit te schakelen.
 
-Op het tenantniveau wordt de besturing van extern doorsturen uitgevoerd met behulp van het uitgaande spam beleid. U kunt het beleid voor uitgaande spamfilters van beveiligings-en compliance Center controleren [hier] ( https://protection.office.com/antispam) of met de [opdracht Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Op het tenantniveau wordt de besturing van extern doorsturen uitgevoerd met behulp van het uitgaande spam beleid. U kunt het uitgaande spamfilter beleid [hier](https://protection.office.com/antispam) of met de [opdracht Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)controleren.
 
 Als u de volgende foutmelding ziet: **' 550 5.7.520 toegang geweigerd, uw organisatie mag niet extern doorsturen '**, Controleer of het beleid is geconfigureerd voor het inschakelen van extern automatisch doorsturen.
 
