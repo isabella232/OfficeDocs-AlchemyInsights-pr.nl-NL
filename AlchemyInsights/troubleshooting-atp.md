@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met Office 365 Advanced Threat Protection
+title: Problemen oplossen met Microsoft Defender voor Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658909"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801438"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Problemen oplossen met Office 365 Advanced Threat Protection
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problemen oplossen met Microsoft Defender voor Office 365
 
 - Merkt u vertragingen bij het bezorgen van berichten? Gebruik de optie [dynamische bezorgings](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) functie in het beleid voor veilige bijlagen van ATP. Dit helpt geen vertragingen van berichten te voorkomen tijdens de bescherming van geadresseerden tegen kwaadwillende bestanden.
 
 - Wilt u onjuiste of onjuiste negatieven rapporteren aan Microsoft? Gebruik deze [koppeling](https://www.microsoft.com/wdsi/filesubmission/) om bestanden in te dienen voor analyse.
 
-- Wist u dat u de bescherming van veilige koppelingen kunt inschakelen voor interne e-mail die wordt verzonden tussen geadresseerden binnen uw organisatie? Volg deze stappen:
+- Wist u dat u de bescherming van veilige koppelingen kunt inschakelen voor interne e-mail die wordt verzonden tussen geadresseerden binnen uw organisatie? Ga als volgt te werk:
 
   1. Ga naar [https://protection.office.com](https://protection.office.com) en meld u aan met een globale beheerder of een beheerdersaccount voor beveiliging.
 
-  2. Kies in het linker navigatiedeelvenster onder **Threat Management**de optie **beleids** \> **veilige koppelingen**.
+  2. Kies in het linker navigatiedeelvenster onder **Threat Management** de optie **beleids** \> **veilige koppelingen** .
 
-  3. Selecteer in de sectie **beleidsregels die van toepassing zijn op de hele organisatie** het beleid en klik op **bewerken**.
+  3. Selecteer in de sectie **beleidsregels die van toepassing zijn op de hele organisatie** het beleid en klik op **bewerken** .
 
-  4. Selecteer onder **instellingen**de optie **veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden**.
+  4. Selecteer onder **instellingen** de optie **veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden** .

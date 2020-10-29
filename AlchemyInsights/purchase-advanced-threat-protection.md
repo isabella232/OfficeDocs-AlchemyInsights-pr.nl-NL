@@ -1,5 +1,5 @@
 ---
-title: Aankoop van Office 365 Advanced Threat Protection
+title: Microsoft Defender voor Office 365 aanschaffen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693550"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801142"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Aankoop van Office 365 Advanced Threat Protection
+# <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender voor Office 365 aanschaffen
 
-Office 365 Advanced Threat Protection (ATP) maakt deel uit van bepaalde abonnementen, zoals Microsoft 365 E5, Office 365 E5, Office 365 A5 en Microsoft 365 Business Premium. Als Office 365 ATP niet is opgenomen in uw abonnement, kunt u [ATP-abonnement 1OR ATP](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) als een invoegtoepassing aanschaffen voor een bepaald abonnement. Kopen in het Microsoft 365-Beheercentrum:
+Microsoft Defender voor Office 365 (ATP) maakt deel uit van bepaalde abonnementen, zoals Microsoft 365 E5, Office 365 E5, Office 365 A5 en Microsoft 365 Business Premium. Als Office 365 ATP niet is opgenomen in uw abonnement, kunt u [ATP-abonnement 1OR ATP](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) als een invoegtoepassing aanschaffen voor een bepaald abonnement. Kopen in het Microsoft 365-Beheercentrum:
 
 1. Ga naar Services voor het kopen van **facturen**   >   [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Selecteer pagina **invoegtoepassingen**  in **andere categorieën waarop u misschien geïnteresseerd bent.**

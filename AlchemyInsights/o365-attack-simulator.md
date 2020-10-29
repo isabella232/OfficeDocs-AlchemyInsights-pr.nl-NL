@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759214"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801546"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Aanvals Simulator in Microsoft 365
 
-- Mist u aanvals Simulator? Voor een aanvals Simulator is **Office 365 Advanced Threat Protection (abonnement 2)** of **Office 365 Enterprise E5**vereist. Attack Simulator is **niet** opgenomen in Office 365 Advanced Threat Protection (ATP plan 1), Office 365 Enterprise E3 of een microsoft 365-app voor bedrijven-abonnementen.
+- Mist u aanvals Simulator? Voor de aanvals Simulator is **Microsoft Defender for Office 365 plan 2 (ATP abonnement 2)** of **Office 365 Enterprise E5** vereist. Er is **geen** aanvals Simulator opgenomen in Microsoft Defender for Office 365 plan 1 (ATP plan 1), Office 365 Enterprise E3 of microsoft 365-apps voor Business-abonnementen.
 
 - Het account dat u gebruikt om gesimuleerde aanvallen te starten, vereist een globale beheerder of beveiligingsmachtigingen voor de beheerder en meervoudige verificatie (MFA). Zie [het volgende onderwerp](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)voor meer informatie over de vereisten voor een aanvals Simulator.
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759214"
 
 - Belangrijke dingen die u moet weten over simulaties van de verbinding van **spear phishing** :
 
-  - U kunt geen aangepaste waarde voor de URL van de **phishingwebsite aannaam**geven
+  - U kunt geen aangepaste waarde voor de URL van de **phishingwebsite aannaam** geven
 
   - Als een geadresseerde de [invoegtoepassing voor het melden van berichten](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) gebruikt om het bericht als phishing te rapporteren, ontvangt u mogelijk geen waarschuwingen voor het bericht (omdat dit een gesimuleerde aanval is).
 
