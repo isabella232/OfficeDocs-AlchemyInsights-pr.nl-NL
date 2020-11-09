@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720056"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947443"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint-migratie beperken met 503-fouten
 
-**Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
+Het lijkt erop dat u migreert naar SharePoint Online en 503-fouten ontvangt. Voer de onderstaande stappen uit, dus we kunnen u zo snel mogelijk helpen.
 
-**503-fouten bij de migratie naar SharePoint Online**
-
-Het lijkt erop dat u migreert naar SharePoint Online en 503-fouten ontvangt. Voer de onderstaande stappen uit, dus we kunnen u zo snel mogelijk helpen. 
-
-1. Klik op **contact opnemen met ondersteuning**en vervolgens op **nieuwe service aanvraag**.
+1. Klik op **contact opnemen met ondersteuning** en vervolgens op **nieuwe service aanvraag**.
 2. Typ voor de titel en de beschrijving **SharePoint-migratie beperking met 503**.
 3. Wanneer het ticket is ingediend, moet u dit bijwerken met de volgende informatie:
-    - De hoeveelheid migratie van de migratie (bijvoorbeeld hoeveel TBs?).
+    - Wat is de resterende hoeveelheid migratie (bijvoorbeeld de hoeveelheid TBs)?
     - Begin-en einddatum van de migratie.
     - Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, box, GDrive, bestandsshares, enzovoort.
-    - U kunt een schatting van het aantal vertraagings fouten (bijvoorbeeld x vertraagd per uur) en wanneer de beperking plaatsvindt.
-    - Welke migratiehulpprogramma's u gebruikt (bijvoorbeeld SPMT of ShareGate).
-
-
+    - U kunt een schatting van het aantal vertraagings fouten (bijvoorbeeld x vertraag per uur) en wanneer de beperking plaatsvindt.
+    - Welke migratiehulpprogramma's gebruikt u, bijvoorbeeld SPMT of ShareGate?
