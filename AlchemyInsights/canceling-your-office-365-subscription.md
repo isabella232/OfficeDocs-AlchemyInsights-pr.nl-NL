@@ -13,20 +13,20 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: f019c60dca18a5b241bf445252463035e9841d64
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286449"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348660"
 ---
 # <a name="canceling-your-subscription"></a>Uw abonnement annuleren?
 
 We vinden het jammer dat u weggaat, maar als u uw abonnement wilt opzeggen, zijn dit uw opties:
   
-- Als u een proefabonnement hebt, moet u niets opzeggen. Proefabonnementen verlopen automatisch wanneer u een betaalmethode opgeeft.
+- Als u een proefabonnement hebt, moet u niets annuleren. Proefabonnementen verlopen automatisch wanneer u een betaalmethode opgeeft.
 - Als u minder dan 25 licenties hebt toegewezen, kunt u uw abonnement online opzeggen. Ga naar de **Billing** \> pagina [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren en zoek het abonnement dat u wilt opzeggen. Selecteer **meer acties** (drie puntjes) en selecteer vervolgens **abonnement annuleren**.
-- Als u meer dan 25 licenties hebt toegewezen, kunt u gebruikers verwijderen tot u minder dan 25 hebt.
+- Als u meer dan 25 licenties aan gebruikers hebt toegewezen, kunt u [contact opnemen met de ondersteuning om uw abonnement op te zeggen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
 **Restitutie: het naar u betaalde bedrag wordt binnen de volgende factureringscyclus weergegeven.**
 
