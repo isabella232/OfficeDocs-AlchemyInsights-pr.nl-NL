@@ -1,5 +1,5 @@
 ---
-title: Document wordt geopend in het kenmerk alleen-lezen
+title: Document openen in alleen-lezen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088607"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528977"
 ---
-# <a name="documents-opening-in-read-only"></a>Documenten die worden geopend als alleen-lezen
+# <a name="documents-opening-in-read-only"></a>Documenten openen in alleen-lezen
 
-Mogelijk vindt u de bestanden die u wilt openen, als alleen-lezen. In sommige gevallen dient deze voorwaarde als extra beveiligingsredenen, bijvoorbeeld bij het openen van bestanden op internet, en andere tijden, deze voorwaarde kan worden gewijzigd door een instelling die kan worden gewijzigd.
+Mogelijk kunt u de bestanden die u opent alleen-lezen. In sommige gevallen dient deze toestand als een extra beveiliging, bijvoorbeeld wanneer u bestanden van internet opent, en soms kan deze toestand het gevolg zijn van een instelling die kan worden gewijzigd.
 
-- [SharePoint-bestanden worden geopend als alleen-lezen](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint-bestanden worden als alleen-lezen geopend](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Als de klant de genoemde oorzaken heeft veroorzaakt door een beveiligingsmechanisme of een ongewijzigde instelling, is het niet mogelijk om in [SharePoint-bestanden](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)in te stellen als alleen-lezen, maar hier volgen andere veelvoorkomende oplossingen voor documenten die worden geopend in de modus alleen-lezen.
+Als de klant van mening is dat de genoemde oorzaken, zoals een beveiligingsmechanisme of een ongewijzigde instelling, niet een van de standaardscenario's zijn die worden beschreven in [SharePoint-bestanden die als alleen-lezen worden geopend](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), zijn hier andere veelvoorkomende oplossingen voor documenten die worden geopend in de modus Alleen-lezen.
 
 - Start de computer opnieuw op.
 - Installeer Office-updates.
 - Controleer de antivirussoftware op de computer.
-- Zorg ervoor dat de site zich in Internet Explorer in de zone Vertrouwde websites bevindt.
-- Voer een reparatie van Office uit.
-- Wis de [Office-documenten cache](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Zorg ervoor dat de site zich in de zone Vertrouwde sites in Internet Explorer bevindt.
+- Voer een herstel van Office uit.
+- Wis [de Office-documentencache](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 
