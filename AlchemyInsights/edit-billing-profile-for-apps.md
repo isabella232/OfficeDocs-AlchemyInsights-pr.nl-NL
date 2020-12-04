@@ -1,9 +1,9 @@
 ---
 title: Facturerings profiel voor apps bewerken
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/02/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: c2059808987efd668f8bd8d31095907b8e318f76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711018"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571732"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Facturerings profiel voor apps bewerken
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Het facturerings profiel voor apps wijzigen
+**Facturerings profielen bewerken**
 
-1. Ga naar de **Billing**  >  pagina**[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren en kies vervolgens het tabblad **apps** .
+1. Ga naar de pagina **facturen facturering**  >  **[& betalingen](https://go.microsoft.com/fwlink/p/?linkid=848039)** en klik vervolgens op **facturerings profielen**.
+
+2. Kies in de lijst met facturerings profielen het factuur profiel dat u wilt bewerken.
+
+**Het facturerings profiel voor apps wijzigen**
+
+1. Ga naar de **Billing**  >  pagina **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren en klik vervolgens op het tabblad **apps** .
 
 2. Zoek en selecteer de app die u wilt beheren.  
 
-3. Selecteer naast **facturerings profiel**de optie **bewerken** en kies het facturerings profiel dat u wilt koppelen aan de app.
-
-## <a name="edit-billing-profiles"></a>Facturerings profielen bewerken
-
-1. Ga naar de pagina **facturen facturering**  >  **[& betalingen](https://go.microsoft.com/fwlink/p/?linkid=848039)** en kies vervolgens **facturerings profielen**.
-
-2. Kies in de lijst een factuur profiel om dit te bewerken.
+3. Klik naast **factuur profiel** op **bewerken** en selecteer het factuur profiel dat u aan de app wilt koppelen.
