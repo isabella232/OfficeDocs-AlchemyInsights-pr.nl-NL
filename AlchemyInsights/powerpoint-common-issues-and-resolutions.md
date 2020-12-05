@@ -12,25 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: 0fb5912194d7f07615b62e9dce979fa775cef1a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c43896cd78e46a80ce5751685877ee1aae4ab503
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721145"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576282"
 ---
 # <a name="powerpoint-common-issues-and-resolutions"></a>Veelvoorkomende problemen en oplossingen voor PowerPoint
 
 Hier volgen enkele vaak gevraagde onderwerpen met PowerPoint:
 
+1. **PowerPoint gebruiken in Microsoft teams**: [deel PowerPoint-dia's in een vergadering in teams](https://support.microsoft.com/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8#ID0EABAAA=Desktop) of werk samen aan bestanden in Microsoft teams.
 1. [PowerPoint reageert niet, blijft hangen of loopt vast](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d).
-
-2. [PowerPoint kan geen video invoegen vanuit het geselecteerde bestand](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c).
-
-3. **Video's**: [een videobestand invoegen vanaf uw computer](https://support.office.com/article/insert-and-play-a-video-file-from-your-computer-f3fcbd3e-5f86-4320-8aea-31bff480ed02), [een video invoegen van YouTube](https://support.office.com/article/Insert-a-video-from-YouTube-or-another-site-8340ec69-4cee-4fe1-ab96-4849154bc6db)en [ondersteunde video-en audiobestandsindelingen in PowerPoint](https://support.office.com/article/video-and-audio-file-formats-supported-in-powerpoint-d8b12450-26db-4c7b-a5c1-593d3418fb59).
-
-4. **Afdrukken**: Raadpleeg de informatie in [uw PowerPoint-dia's en-notities afdrukken](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4)voor aanbevolen procedures en problemen met betrekking tot afdrukken. 
-
-5. **Lettertypen**: als u lettertypen wilt delen met uw presentaties, raadpleegt u [lettertypen insluiten in Word of PowerPoint](https://support.office.com/article/Embed-fonts-in-Word-or-PowerPoint-cb3982aa-ea76-4323-b008-86670f222dbc).
-
-6. **Functies**: [vergelijkingsfuncties voor PowerPoint](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) op de Windows-, Mac-, Web-en mobiele platforms.
+1. **Webversie van PowerPoint**: de werking [van bepaalde functies in PowerPoint op het web.](https://support.microsoft.com/office/how-certain-features-behave-in-web-based-powerpoint-a931f0c8-1305-4428-8f7c-9cfa00ef28c5)
+1. [PowerPoint kan geen video invoegen vanuit het geselecteerde bestand](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c).
+1. **Afdrukken**: Raadpleeg de informatie in [uw PowerPoint-dia's en-notities afdrukken](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4)voor aanbevolen procedures en problemen met betrekking tot afdrukken. 
+1. **Functies**: [vergelijkingsfuncties voor PowerPoint](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) op de Windows-, Mac-, Web-en mobiele platforms.
