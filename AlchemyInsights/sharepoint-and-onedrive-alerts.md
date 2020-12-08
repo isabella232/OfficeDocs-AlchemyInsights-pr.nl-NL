@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 27cc744bc57f1c18649e05c5b0df3b315c9c0201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
+ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727238"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599847"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Vertragingen bij het ontvangen van SharePoint-en OneDrive-waarschuwingen
 
-- Ga eerst naar de map Ongewenste E-mail of spam in uw e-mail.
-- Ga naar het [Dashboard van de service status](https://portal.office.com/adminportal/home?ref=/servicehealth) om te controleren of **alle meldingen van meerdere bestanden of bibliotheken worden vertraagd**, zodat u kunt controleren of er nog meer te maken hebben met SharePoint of Exchange. Het probleem kan zich voordoen met de SharePoint-waarschuwings mogelijkheid of vertraging in e-mailberichten via Exchange. Daarnaast moet u ook noteren of andere e-mail wordt bezorgd, indien niet, dan is het probleem waarschijnlijk met Exchange-vertragingen.
-- Als u **een afzonderlijke waarschuwing van een bepaald bestand of een bepaalde bibliotheek niet**ontvangt, probeert u deze te verwijderen en opnieuw te maken. Zie [SharePoint-waarschuwingen beheren, weergeven of verwijderen](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) om de waarschuwing opnieuw te maken.
+- Ga naar het [Dashboard van de service status](https://portal.office.com/adminportal/home?ref=/servicehealth) om te controleren of **alle meldingen van meerdere bestanden of bibliotheken worden vertraagd**, zodat u kunt controleren of er nog meer te maken hebben met SharePoint of Exchange.
+- Als u **een afzonderlijke waarschuwing van een bepaald bestand of een bepaalde bibliotheek niet** ontvangt, probeert u deze te verwijderen en opnieuw te maken. Zie [SharePoint-waarschuwingen beheren, weergeven of verwijderen](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) om de waarschuwing opnieuw te maken.
+- Kijk in uw e-mail naar de map Ongewenste E-mail of spam.
 
 > [!NOTE]
 > - U kunt geen waarschuwingen verzenden naar een distributiegroep. Alleen beveiliging en O365-groepen worden ondersteund.
