@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569162"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605704"
 ---
 # <a name="onedrive-puid-mismatch"></a>Geen overeenkomende OneDrive-PUID
 
-Het lijkt erop dat u een [id die niet overeenkomt](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) met de id van OneDrive voor bedrijven. Voer de onderstaande stappen uit, zodat we u zo snel mogelijk kunnen helpen:
+Het lijkt erop dat u een [id die niet overeenkomt](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) met de id van OneDrive voor bedrijven. Voer de volgende stappen uit om u in staat te stellen om u op de eerste manier te helpen:
 
 1. Klik op  **contact opnemen met ondersteuning** en vervolgens op  **nieuwe service aanvraag**.
 2. Behoud de titel en beschrijving als de  **OneDrive-site gebruikers-id niet overeenkomen**.
