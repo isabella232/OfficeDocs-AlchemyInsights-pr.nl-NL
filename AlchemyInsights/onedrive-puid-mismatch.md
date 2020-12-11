@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605704"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653255"
 ---
 # <a name="onedrive-puid-mismatch"></a>Geen overeenkomende OneDrive-PUID
 
@@ -26,6 +26,6 @@ Het lijkt erop dat u een [id die niet overeenkomt](https://docs.microsoft.com/sh
 
 1. Klik op  **contact opnemen met ondersteuning** en vervolgens op  **nieuwe service aanvraag**.
 2. Behoud de titel en beschrijving als de  **OneDrive-site gebruikers-id niet overeenkomen**.
-3. Wanneer het ticket is ingediend, moet u dit bijwerken met de volgende informatie:
+3. Wanneer het ticket is ingediend, update dan met de volgende informatie:
     - De URL van de OneDrive-site waarop dit van invloed is.
     - UPN (User Principal Name) van de betrokken gebruiker.
