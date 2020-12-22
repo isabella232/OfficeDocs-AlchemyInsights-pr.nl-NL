@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982452"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724149"
 ---
 # <a name="comments-on-list-items"></a>Opmerkingen over lijstitems
 
-Gebruikers kunnen binnenkort opmerkingen toevoegen en verwijderen van lijstitems. Gebruikers kunnen alle opmerkingen weergeven voor een item in de lijst en vervolgens filteren op andere weergaven die opmerkingen of activiteiten met betrekking tot een item weergeven.
-
-**Tijdsinstelling** :
-
-**Targeted release** : geleidelijke implementatie in medio oktober en verwachting met medio november
-
-**Standard release** : geleidelijke implementatie in medio november en verwachting te voltooien vóór december
-
-**Implementatie** : Targeted release voor de hele organisatie
+Gebruikers kunnen alle opmerkingen weergeven voor een item in de lijst en vervolgens filteren op andere weergaven die opmerkingen of activiteiten met betrekking tot een item weergeven.
 
 Gebruikers moeten het volgende weten voordat ze opmerkingen kunnen toevoegen en verwijderen:
 
