@@ -1,5 +1,5 @@
 ---
-title: Eigendom van Azure-facturering overbrengen
+title: Eigendom van Azure-facturering overdragen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922031"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736873"
 ---
-# <a name="transfer-azure-billing-ownership"></a>Eigendom van Azure-facturering overbrengen
+# <a name="transfer-azure-billing-ownership"></a>Eigendom van Azure-facturering overdragen
 
-Meld u aan bij de [Azure-Portal](https://portal.azure.com/) als beheerder van het factuur account met het abonnement dat u wilt overzetten. Als u niet zeker weet of u een beheerder bent, of als u wilt bepalen wie dit doet, raadpleegt u de [rekening factureringsbeheerder bepalen](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
+Meld u aan op de [Azure Portal](https://portal.azure.com/) als beheerder van het factureringsaccount met het abonnement dat u wilt overdragen. Als u niet zeker weet of u een beheerder bent of als u wilt bepalen wie dat is, raadpleegt u [Accountfactureringsbeheerder bepalen](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- Zoek op **kostenbeheer + facturering**.
-- Selecteer **abonnementen** in het linkerdeelvenster. Afhankelijk van de toegang moet u mogelijk een factuur bereik selecteren en vervolgens **abonnementen** of **Azure-abonnementen**.
-- Selecteer het eigendom van de **facturering** voor het abonnement dat u wilt overzetten
-- Voer het e-mailadres in van een gebruiker die een factureringsbeheerder is van het account dat de nieuwe eigenaar wordt van het abonnement en selecteer vervolgens **overdrachtsaanvraag verzenden** .
-- De gebruiker ontvangt een e-mail met instructies om uw overdrachtsaanvraag te controleren. De gebruiker kan de koppeling in het e-mailbericht selecteren en de instructies volgen om de overdrachtsaanvraag goed te keuren.
+1. Zoek op _Kostenbeheer en facturering_.
+1. Kies **Abonnementen** in het linkerdeelvenster. Afhankelijk van de toegang, moet u mogelijk een factureringsbereik kiezen en vervolgens **Abonnementen** of **Azure-abonnementen**.
+1. Kies **Eigendom van facturering overdragen** voor het abonnement dat u wilt overdragen.
+1. Voer het e-mailadres in van een gebruiker die factureringsbeheerder van het account is en de nieuwe eigenaar van het abonnement moet worden en kies vervolgens **Overdrachtsaanvraag verzenden**.
+1. De gebruiker ontvangt een e-mail met instructies om uw overdrachtsaanvraag te beoordelen. Om de overdrachtsaanvraag goed te keuren, kiest de gebruiker de koppeling in de e-mail en volgt de instructies.
 
-**Opmerking** : als u het eigendom van uw abonnement overdraagt naar het account van een gebruiker in een andere Azure AD-Tenant, worden alle toewijzingen met [toegangsbeheer voor rollen (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support)voor het beheren van resources in het abonnement blijvend verwijderd. Alleen de nieuwe eigenaar kan de bronnen in het abonnement beheren. Zie voor meer informatie [een abonnement overzetten naar een gebruiker in een andere Azure AD-Tenant](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Denk eraan dat alle [Rolgebaseerde toegangscontrole (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support)-opdrachten voor het beheren van bronnen in het abonnement permanent worden verwijderd als u eigendom van facturering van uw abonnement overdraagt naar een gebruikersaccount in een andere Azure AD-tenant. Alleen de nieuwe eigenaar heeft toegang voor het beheren van bronnen in het abonnement. Voor meer informatie over het wijzigen van een map voor een abonnement, raadpleegt u [Het overdragen van abonnementen naar een gebruiker in een andere Azure AD-tenant](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+_**Belangrijke impact op uw facturen**_: Als u eigendom van facturering voor een Azure-abonnement heeft overgedragen, zullen uw kosten proportioneel zijn. U heeft op de volgende manier toegang tot de facturen:  
+
+1. Kies uw abonnement op de [Abonnementenpagina](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) in de Azure Portal als [gebruiker met toegang tot facturen](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) en kies vervolgens **Facturen**.
+1. Klik op **Factuur downloaden** om uw PDF-factuur te bekijken. Raadpleeg [Waarom zie ik geen factuur voor de laatste factureringsperiode?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice) als u de melding _Niet beschikbaar_ krijgt.
+1. U kunt uw dagelijks gebruik ook bekijken door te klikken op de **factuurperiode** om een PDF-bestand te verkrijgen van uw factuur en een exmplaar van uw gedetailleerd dagelijks gebruik-bestand (.csv). Raadpleeg [Factuur en gebruiksgegevens ophalen](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support) voor meer informatie.
 
 **Aanbevolen documenten**
 
-- [Facturering van een Azure-abonnement overzetten naar een ander account](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
-- [Het eigendom van de facturering overzetten voor een Azure-abonnement](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- [De overdracht van Visual Studio, Microsoft Partner Network (MPN) en betalen naar gebruik-ontwikkelaars/proefabonnementen](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Het eigendom van een Azure-abonnement overdragen naar een ander account](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [Info over het overdragen van eigendom van facturering voor een Azure-abonnement](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
+- [Het overdragen van Visual Studio, Microsoft Partner Network (MPN) en Pay as you go- dev-/testabonnementen](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
 - [Veelgestelde vragen over het overdragen van eigendom](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Problemen met de overdracht van eigendom oplossen](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [Problemen met het overdragen van eigendom oplossen](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
