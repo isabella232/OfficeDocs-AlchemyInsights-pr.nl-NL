@@ -1,5 +1,5 @@
 ---
-title: Beheerders-MCA FL/CL toevoegen en beheren
+title: Beheerders toevoegen en beheren
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692015"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755434"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Beheerders-MCA FL/CL toevoegen en beheren
+# <a name="how-to-add-and-manage-admins"></a>Beheerders toevoegen en beheren
+
+Op basis van uw beschrijving van het probleem hebben we een oplossing voor u gevonden. De meeste klanten konden hun probleem zelf oplossen na de documentatie.
 
 Voor het beheren van uw factuur account voor een Microsoft Customer Agreement (MCA), kunt u verschillende rollen gebruiken met het gewenste toegangsniveau. Deze rollen zijn niet alleen van de ingebouwde Azure-service rollen waarmee u uw resources kunt beheren.
 

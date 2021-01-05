@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714762"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755614"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Factuur betalen in azure-portal: aanbevolen stappen
+
+Op basis van uw beschrijving van het probleem hebben we een oplossing voor u gevonden. De meeste klanten konden hun probleem zelf oplossen na de documentatie.
 
 U moet de beheerder van het factureringsaccount zijn om facturen te betalen in de Azure-Portal. De beheerder van het factureringsaccount is de gebruiker die zich oorspronkelijk heeft geregistreerd voor het Microsoft-account voor de klant overeenkomst. 
 
 Uw factuur betalen in de Azure-portal: 
 
 1. Meld u aan bij de [Azure-Portal](https://portal.azure.com/).
-1. Zoek op **kostenbeheer + facturering**.
+1. Zoek op **Kostenbeheer en facturering**.
 1. Klik in het linkerdeelvenster, onder **facturering**, op **facturen**.
 1. Als een van de facturen verschuldigd of achterstallig is, ziet u een koppeling voor de blauwe **nu betaalde** link voor die factuur. Klik op **Nu betalen**.
 1. Klik in de nieuwe bladerende op **Selecteer een betalingswijze** om een bestaande creditcard te kiezen of een nieuwe te toevoegen.

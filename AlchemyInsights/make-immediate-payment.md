@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714733"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755794"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Direct betalen-aanbevolen stappen uitvoeren
+
+Op basis van uw beschrijving van het probleem hebben we een oplossing voor u gevonden. De meeste klanten konden hun probleem zelf oplossen na de documentatie.
 
 Als u direct wilt betalen, moet u ervoor zorgen dat u vervallen saldi kunt oplossen. Als uw betaling niet is ontvangen of als we uw betaling niet kunnen verwerken, krijgt u mogelijk een e-mailbericht of ziet u een melding over een achterstallig saldo in het account centrum of Azure-Portal. 
 

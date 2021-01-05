@@ -1,5 +1,5 @@
 ---
-title: Overstappen naar factuur betaling (cheque/overschrijving)-verouderd WD
+title: Overschakelen naar betalen via factuur (cheque/overschrijving)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726098"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755398"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Overstappen naar factuur betaling (cheque/overschrijving)-verouderd WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Overschakelen naar betalen via factuur (cheque/overschrijving)
+
+Op basis van uw beschrijving van het probleem hebben we een oplossing voor u gevonden. De meeste klanten konden hun probleem zelf oplossen na de documentatie.
 
 Als u overschakelt naar betaling per factuur, betekent dit dat u uw factuur binnen 30 dagen na de factuurdatum betaalt. Als u in aanmerking komt om te betalen voor uw Azure-abonnement per factuur, moet u een aanvraag indienen bij Azure support. Wanneer uw aanvraag is goedgekeurd, kunt u overstappen op de betaling van een abonnement op de [Azure-Portal](https://portal.azure.com/).
 

@@ -1,5 +1,5 @@
 ---
-title: PayNow/betaling direct uitvoeren-oudere EA
+title: PayNow/betaling direct doen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692162"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755686"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/betaling direct uitvoeren-oudere EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/betaling direct doen
+
+Op basis van uw beschrijving van het probleem hebben we een oplossing voor u gevonden. De meeste klanten konden hun probleem zelf oplossen na de documentatie.
 
 Voor een Azure Enterprise Agreement-abonnement wordt de methode toevoegen/bijwerken/wijzigen van betaling niet ondersteund. Neem contact op met uw Microsoft-vertegenwoordiger als u het adres van een bestaande factuur wilt wijzigen.
 
