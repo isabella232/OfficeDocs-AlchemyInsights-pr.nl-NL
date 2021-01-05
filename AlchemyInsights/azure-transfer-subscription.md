@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736873"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755542"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Eigendom van Azure-facturering overdragen
 
 Meld u aan op de [Azure Portal](https://portal.azure.com/) als beheerder van het factureringsaccount met het abonnement dat u wilt overdragen. Als u niet zeker weet of u een beheerder bent of als u wilt bepalen wie dat is, raadpleegt u [Accountfactureringsbeheerder bepalen](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Zoek op _Kostenbeheer en facturering_.
+1. Zoek naar _Kostenbeheer en facturering_.
 1. Kies **Abonnementen** in het linkerdeelvenster. Afhankelijk van de toegang, moet u mogelijk een factureringsbereik kiezen en vervolgens **Abonnementen** of **Azure-abonnementen**.
 1. Kies **Eigendom van facturering overdragen** voor het abonnement dat u wilt overdragen.
 1. Voer het e-mailadres in van een gebruiker die factureringsbeheerder van het account is en de nieuwe eigenaar van het abonnement moet worden en kies vervolgens **Overdrachtsaanvraag verzenden**.
