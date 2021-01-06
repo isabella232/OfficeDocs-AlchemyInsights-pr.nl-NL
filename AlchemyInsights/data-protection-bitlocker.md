@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731234"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768812"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-versleuteling inschakelen met intune
 
@@ -30,10 +30,12 @@ Voor informatie over het oplossen van problemen met BitLocker, raadpleegt u [pro
  
 **Veelgestelde vragen**
 
- V: welke versies van Windows ondersteunen apparaatversleuteling met het Endpoint Protection-beleid?<br>
- A: de instellingen in intune-Endpoint Protection-beleid worden geïmplementeerd met de [BitLocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Niet alle edities of versies van Windows ondersteunen de BitLocker CSP. <br><br>
-      Op dit moment worden de volgende Windows-edities ondersteund: Enterprise, education, Mobile, Mobile Enterprise en Professional (build 1809 en hoger).
- 
+V: welke versies van Windows ondersteunen apparaatversleuteling met het Endpoint Protection-beleid?<br>
+A: de instellingen in intune-Endpoint Protection-beleid worden geïmplementeerd met de [BitLocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Niet alle edities of versies van Windows ondersteunen de BitLocker CSP. <br><br>
+
+V: hoe kan BitLocker worden ingeschakeld op apparaten zonder dat de interactie met eindgebruikers is vereist?<br>
+A: zo lang de noodzakelijke voorwaarden zijn aan te passen, kunt u BitLocker ' stille versleuteling ' inschakelen via intune. Zie de details van de hardwarevereisten en de voorbeeld beleidsinstellingen voor het inschakelen van de Stille versleuteling in het volgende document: [BitLocker-versleuteling](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)op de achtergrond inschakelen. <br><br>
+
 V: als een apparaat al met BitLocker is versleuteld met de standaardinstellingen van het besturingssysteem voor versleutelingsmethode en versleutelingssterkte (XTS-AES-128), wordt een beleid toegepast met andere instellingen om het station automatisch opnieuw te versleutelen met de nieuwe instellingen?<br>
 A: Nee. Als u de nieuwe versleutelingsinstellingen wilt toepassen, moet het station eerst worden gedecodeerd.<br><br>
 **Opmerking:** Voor apparaten die met auto pilot worden ingeschreven, wordt de automatische versleuteling die zich in OOBE voordoet, niet geactiveerd totdat het intune-beleid wordt geëvalueerd, zodat de instellingen op basis van het beleid kunnen worden gebruikt in plaats van de standaardinstellingen van het besturingssysteem.
