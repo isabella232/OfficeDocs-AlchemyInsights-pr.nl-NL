@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768812"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778188"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-versleuteling inschakelen met intune
 
- Het beleid voor het intune-endpoint voor beveiliging kan worden gebruikt voor het configureren van BitLocker-versleutelingsinstellingen voor Windows-apparaten. Zie voor meer informatie de [instellingen van Windows 10 (en later) om apparaten te beschermen met intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Het beleid voor het intune-endpoint voor beveiliging kan worden gebruikt voor het configureren van BitLocker-versleutelingsinstellingen voor Windows-apparaten. Zie voor meer informatie de [instellingen van Windows 10 (en later) om apparaten te beschermen met intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Naast de Endpoint Protection-beleidsregels wordt ook een versleutelings rapport weergegeven met een gedetailleerde weergave van de versleutelingsstatus voor apparaten. Dit rapport kan worden geopend vanuit de portal van MEM onder **apparaten > monitor**, en selecteer vervolgens onder **configuratie** [versleutelings rapport](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)selecteren.
+
+Als BitLocker niet op de verwachte manier kan worden ingeschakeld of als het profiel wordt gebruikt voor het inschakelen van BitLocker een foutstatus, controleert u het versleutelings rapport zodat u beter kunt begrijpen waarom het gedrag zich voordoet.
+
+Zie [apparaatversleuteling met intune controleren](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)voor meer informatie over het interpreteren van het rapport en de diverse waarden voor de versleutelingsstatus.
+
 U dient te beseffen dat veel nieuwere apparaten met Windows 10 automatische BitLocker-versleuteling ondersteunen, die wordt geactiveerd zonder de toepassing van MDM-beleid. Dit kan van invloed zijn op de toepassing van beleid als niet-standaardinstellingen zijn geconfigureerd. Zie de volgende veelgestelde vragen voor meer informatie.
- 
+
 Voor informatie over het oplossen van problemen met BitLocker, raadpleegt u [problemen met BitLocker-beleid in Microsoft intune oplossen](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
