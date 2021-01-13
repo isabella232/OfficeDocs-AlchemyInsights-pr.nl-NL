@@ -13,20 +13,22 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801071"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847595"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>De instellingen voor het doorsturen van e-mail voor een postvak controleren
 
-U kunt de instellingen voor het doorsturen van e-mail in een Microsoft 365-postvak eenvoudig verifiëren. Ga op deze manier te werk.
-  
-> Als dit een gebruikerspostvak is, gaat u naar **gebruikers van gebruikers** \> **Active users** en selecteert u de gebruiker van wie u het postvak wilt doorsturen. Selecteer op het tabblad **e-mail** de optie **doorsturen van e-mail beheren**.
+U moet eerst voor het doorsturen van e-mail inschakelen op tenantniveau. Als u het doorsturen van e-mail hebt ingesteld voor een postvak maar dit niet werkt, raadpleegt u [automatisch externe e-mailberichten doorsturen in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
-> Als dit een gedeeld postvak is, gaat u **Groups** naar \> **gedeelde postvakken** groeperen en selecteert u het gedeelde postvak dat u wilt doorsturen. Selecteer **bewerken** voor het doorsturen van e-mail.
+U kunt eenvoudig de instellingen voor het doorsturen van e-mail controleren voor een postvak. Ga op deze manier te werk.
+  
+> Als dit een gebruikerspostvak is, gaat u naar **gebruikers van gebruikers** \>  en selecteert u de gebruiker van wie u het postvak wilt doorsturen. Selecteer op het tabblad **e-mail** de optie **doorsturen van e-mail beheren**.
+
+> Als dit een gedeeld postvak is, gaat u  naar \> **gedeelde postvakken** groeperen en selecteert u het gedeelde postvak dat u wilt doorsturen. Selecteer **bewerken** voor het doorsturen van e-mail.
 
 Zie voor meer informatie het [doorsturen van E-mail configureren in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
   
