@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502566"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880161"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a><span data-ttu-id="4dcf3-102">Machtigingen voor een postvak wijzigen</span><span class="sxs-lookup"><span data-stu-id="4dcf3-102">Changing permissions on a mailbox</span></span>
+# <a name="changing-permissions-on-a-mailbox"></a><span data-ttu-id="a093b-102">Machtigingen voor een postvak wijzigen</span><span class="sxs-lookup"><span data-stu-id="a093b-102">Changing permissions on a mailbox</span></span>
 
-<span data-ttu-id="4dcf3-103">Als gebruikers toegang nodig hebben tot andere postvakken dan hun eigen postvak, moeten ze machtigingen krijgen om met die postvakken te werken.</span><span class="sxs-lookup"><span data-stu-id="4dcf3-103">If users need access to mailboxes other than their own, they need to be given permissions to work with those mailboxes.</span></span> <span data-ttu-id="4dcf3-104">Hoe u deze machtigingen toewijst, is afhankelijk van het postvaktype.</span><span class="sxs-lookup"><span data-stu-id="4dcf3-104">How you assign those permissions depends on the mailbox type.</span></span> <span data-ttu-id="4dcf3-105">Als gebruikers toegang nodig hebben tot:</span><span class="sxs-lookup"><span data-stu-id="4dcf3-105">If users need access to:</span></span>
+<span data-ttu-id="a093b-103">Als gebruikers alleen toegang hebben tot postvakken die niet hun eigen postvakken hebben, moeten ze de juiste machtigingen hebben om met die postvakken te werken.</span><span class="sxs-lookup"><span data-stu-id="a093b-103">If users need access to mailboxes other than their own, they need to be given permissions to work with those mailboxes.</span></span> <span data-ttu-id="a093b-104">Afhankelijk van de manier waarop u deze machtigingen toewijst, is afhankelijk van het type postvak.</span><span class="sxs-lookup"><span data-stu-id="a093b-104">How you assign those permissions depends on the mailbox type.</span></span> <span data-ttu-id="a093b-105">Gebruikers hebben toegang tot:</span><span class="sxs-lookup"><span data-stu-id="a093b-105">If users need access to:</span></span>
   
-- <span data-ttu-id="4dcf3-106">Postvakken van andere gebruikers - zie [Postvakmachtigingen aan een andere gebruiker geven.](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user)</span><span class="sxs-lookup"><span data-stu-id="4dcf3-106">Other user's mailboxes - please see [Give mailbox permissions to another user](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).</span></span>
+- <span data-ttu-id="a093b-106">Postvakken van andere gebruiker: Zie [machtigingen voor postvakken opgeven voor een andere gebruiker](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).</span><span class="sxs-lookup"><span data-stu-id="a093b-106">Other user's mailboxes - please see [Give mailbox permissions to another user](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).</span></span>
     
-- <span data-ttu-id="4dcf3-107">Een gedeeld postvak - zie [Leden toevoegen of verwijderen uit een gedeeld postvak](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).</span><span class="sxs-lookup"><span data-stu-id="4dcf3-107">A shared mailbox - please see [Add or remove members from a shared mailbox](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).</span></span>
+- <span data-ttu-id="a093b-107">Een gedeeld postvak-Zie [instellingen voor gedeelde postvakken configureren](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="a093b-107">A shared mailbox - please see [Configure shared mailbox settings](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).</span></span>
     
-<span data-ttu-id="4dcf3-108">Als machtigingen niet correct werken nadat u de bovenstaande stappen hebt uitvoeren, gaat u naar het Exchange-beheercentrum en probeert u de machtigingen van daaruit in te stellen (zie [Machtigingen voor ontvangers beheren).](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="4dcf3-108">If permissions do not work correctly after you do the above steps, go to the Exchange admin center and try to set the permissions from there (see [Manage permissions for recipients](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).</span></span>
+<span data-ttu-id="a093b-108">Als machtigingen na de bovenstaande stappen niet goed werken, gaat u naar het Exchange-Beheercentrum en probeert u de machtigingen in te stellen. [](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="a093b-108">If permissions do not work correctly after you do the above steps, go to the Exchange admin center and try to set the permissions from there (see [Manage permissions for recipients](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).</span></span>
   
