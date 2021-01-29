@@ -1,5 +1,5 @@
 ---
-title: Probleemoplossing voor de overwagen
+title: Problemen met Mover oplossen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: fb338955e981d64806cf098595f847d2def690bf
-ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
+ms.openlocfilehash: f2d870154f49215fe64d4193d590ba24b4930c0e
+ms.sourcegitcommit: 55d8b56bb8ab0ed07985ef2b5c48ffeb3440b5fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "50014769"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50040211"
 ---
-# <a name="mover-troubleshooting"></a>Probleemoplossing voor de overwagen
+# <a name="mover-troubleshooting"></a>Problemen met Mover oplossen
 
-Ga voor meer informatie over het oplossen van problemen met verplaatsingen naar het volgende:
+Ga naar de volgende informatie voor informatie over het oplossen van problemen met Mover:
 
-- [Problemen met de post-migratie oplossen](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
-- [Statuscodes voor de overdraagder](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
-- [Veelgestelde vragen over accounts](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
+- [Problemen na de migratie oplossen](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
+- [Problemen met Mover-migratiefouten oplossen](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
+- [Statuscodes voor overdracht van Mover](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
+- [Veelgestelde vragen over uw account](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
