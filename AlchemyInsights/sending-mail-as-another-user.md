@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: e2ce7065d857455b85fc2e4595d1f5c915ca85b2
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 8bc35426bd1b65ba40fb6dc124df2a5f8bfb6679
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "48194087"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075820"
 ---
 # <a name="sending-mail-as-another-user"></a>E-mail verzenden als een andere gebruiker
 
-Voordat *gebruiker1* e-mail kan *verzenden als e-mail*bericht, moet *gebruiker1* *de juiste*machtigingen hebben. Als u wilt weten hoe u dit doet, raadpleegt u machtigingen voor postvakken opgeven voor een andere gebruiker.
+Voordat *Gebruiker1* e-mail kan verzenden als *Gebruiker2,* moet *Gebruiker1* machtigingen krijgen voor het postvak van *Gebruiker2.* Voor meer informatie over hoe u dit doet, raadpleegt u (Postvakmachtigingen aan een andere gebruiker verlenen)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-Nadat de machtigingen zijn opgegeven (dit kan ongeveer 30 minuten duren)- *gebruiker1* kan verzenden als ' Voornaam ' door de stappen te *volgen die worden* beschreven in een e-mailbericht maken of beantwoorden namens iemand anders.
+Nadat machtigingen zijn gegeven (dit kan ongeveer 30 minuten duren) kan *Gebruiker1* verzenden als *Gebruiker2* door de stappen te volgen die worden beschreven in E-mailberichten maken of beantwoorden namens iemand anders.
