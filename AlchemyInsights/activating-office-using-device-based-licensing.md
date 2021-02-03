@@ -1,5 +1,5 @@
 ---
-title: Office activeren met behulp van apparaat-Based Licensing
+title: Office activeren met licentie op basis van apparaten
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697876"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094032"
 ---
-# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="04e84-102">Office activeren met behulp van apparaat-Based Licensing</span><span class="sxs-lookup"><span data-stu-id="04e84-102">Activating Office using device-based licensing</span></span>
+# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="978a2-102">Office activeren met licentie op basis van apparaten</span><span class="sxs-lookup"><span data-stu-id="978a2-102">Activating Office using device-based licensing</span></span>
+
+<span data-ttu-id="978a2-103">Apparaatlicenties voor Microsoft 365 Apps voor ondernemingen zijn alleen beschikbaar als licentie voor bepaalde commerciële klanten en sommige klanten in het onderwijs.</span><span class="sxs-lookup"><span data-stu-id="978a2-103">Device-based licensing for Microsoft 365 Apps for enterprise is available as a license only for some commercial customers and some education customers.</span></span> <span data-ttu-id="978a2-104">Zie voor meer informatie: [Apparaatlicenties voor Microsoft 365-apps voor ondernemingen](https://docs.microsoft.com/deployoffice/device-based-licensing)</span><span class="sxs-lookup"><span data-stu-id="978a2-104">For detailed information, see: [Device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)</span></span>
+
+<span data-ttu-id="978a2-105">Als u Microsoft 365 Apps voor ondernemingen wilt activeren met apparaatlicenties, gaat u naar:</span><span class="sxs-lookup"><span data-stu-id="978a2-105">To activate Microsoft 365 Apps for enterprise using Device-based licensing, see:</span></span>
+
+- [<span data-ttu-id="978a2-106">Vereisten voor het gebruik van apparaatlicenties voor Microsoft 365-apps voor ondernemingen</span><span class="sxs-lookup"><span data-stu-id="978a2-106">Requirements for using device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [<span data-ttu-id="978a2-107">Stappen voor het configureren van apparaatlicenties voor Microsoft 365-apps voor ondernemingen</span><span class="sxs-lookup"><span data-stu-id="978a2-107">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+<span data-ttu-id="978a2-108">Zie Problemen met apparaatlicenties oplossen voor [Microsoft 365-apps voor ondernemingen](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise) voor hulp bij het oplossen van problemen.</span><span class="sxs-lookup"><span data-stu-id="978a2-108">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="04e84-103">[Activering op basis](https://aka.ms/officedba) van een Office-apparaat voor klanten met de Amerikaanse opleiding is nu verouderd.</span><span class="sxs-lookup"><span data-stu-id="04e84-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="04e84-104">We raden organisaties aan te plannen voor de nieuwe licentie voor Microsoft 365-apps voor onderwijs (hardware) voor onderwijs klanten.</span><span class="sxs-lookup"><span data-stu-id="04e84-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
-
-<span data-ttu-id="04e84-105">Als u Office wilt activeren met behulp van een apparaat op basis van een apparaat, moet u beschikken over de licentie voor de invoegtoepassing Microsoft 365 apps voor education (hardware) die alleen beschikbaar is voor onderwijs klanten</span><span class="sxs-lookup"><span data-stu-id="04e84-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="04e84-106">Zie [vereisten voor het gebruik van licenties voor Microsoft 365-apps voor Enterprise op basis](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)van een apparaat.</span><span class="sxs-lookup"><span data-stu-id="04e84-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
-
-
-<span data-ttu-id="04e84-107">Zie voor gedetailleerde informatie over het instellen:</span><span class="sxs-lookup"><span data-stu-id="04e84-107">For detailed information on setup, see:</span></span>
-
-- [<span data-ttu-id="04e84-108">Stappen voor het configureren van licenties op basis van hardware voor Microsoft 365-apps voor Enterprise</span><span class="sxs-lookup"><span data-stu-id="04e84-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [<span data-ttu-id="04e84-109">Licenties voor apparaten beheren</span><span class="sxs-lookup"><span data-stu-id="04e84-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-<span data-ttu-id="04e84-110">Zie voor meer informatie over het oplossen van problemen [met apparaat op basis van apparaat-licenties voor Microsoft 365-apps voor ondernemingen](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span><span class="sxs-lookup"><span data-stu-id="04e84-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+> <span data-ttu-id="978a2-109">Als Microsoft 365-apps al zijn geïnstalleerd en geactiveerd met abonnementslicenties op basis van een gebruiker of activering van een gedeelde computer, moet u de licentietoestand opnieuw instellen op het apparaat voordat deze wordt overgezet naar licentie op basis van apparaten.</span><span class="sxs-lookup"><span data-stu-id="978a2-109">If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you will need to reset the license state on the device before it will transition over to device-based licensing.</span></span> <span data-ttu-id="978a2-110">Zie [Microsoft 365-apps](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) voor de activeringstoestand van het bedrijf opnieuw instellen als u de activeringstoestand opnieuw wilt instellen</span><span class="sxs-lookup"><span data-stu-id="978a2-110">To reset the activation state, see [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span></span>
