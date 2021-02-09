@@ -1,37 +1,35 @@
 ---
-title: Hoe wijzig ik van creditcardbetalingen naar factuur?
+title: Hoe ga ik over van creditcardbetalingen naar factuur?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286729"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152301"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hoe wijzig ik van creditcardbetalingen naar factuur?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hoe ga ik over van creditcardbetalingen naar factuur?
 
 > [!NOTE]
-> De optie om te betalen met factuur is alleen mogelijk als uw abonnement op een bepaald bedrag voor een bepaald bedrag is (dat per servicelocatie verschilt). Bij grotere factuurbetalingen kan kredietcontrole vereist zijn. Voor meer informatie raadpleegt u [betalen voor uw abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> U kunt alleen betalen per factuur als de abonnementskosten hoger zijn dan een bepaald bedrag. U moet eerst een openstaand saldo op de creditcard, betaalkaart of bankrekening betalen voordat u het bedrag kunt wijzigen in betalen per factuur.
 
-1. Ga in het Beheercentrum naar de pagina **Billing**  >  [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
-2. Zoek het abonnement dat u wilt wijzigen. Selecteer onder **facturering**, naast de betalingsmethode, de optie **bewerken**.
-3. Selecteer bij uw bestaande betaalmethode **wijzigen**.
-4. Selecteer in het vervolgkeuzemenu **factuur of overschrijving**.
-5. Voer uw naam, adres en telefoonnummer in. U kunt ook een ko-nummer toevoegen om op de factuur weer te geven.
-6. Selecteer **Opslaan**wanneer u klaar bent.
-7. Controleer of de geselecteerde betaalwijze juist is en selecteer **Opslaan**.
+1. Ga in het beheercentrum naar de **pagina Je**  >  [producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Zoek op **het** tabblad Producten het abonnement dat u wilt betalen met de alternatieve betalingswijze.
+3. Selecteer **Meer acties** (drie puntjes) en selecteer vervolgens **Betalingswijze vervangen.**
+4. Selecteer **Betalingswijze toevoegen in** het deelvenster **Betalingswijze vervangen.**
+5. Selecteer in **het deelvenster Een betalingswijze** toevoegen de optie **Factuur of overschrijving.**
+6. Voer uw naam, adres en telefoonnummer in. U kunt ook een IO-nummer toevoegen dat op de factuur wordt weergegeven.
+7. Selecteer Opslaan wanneer u klaar **bent.**
 
-Zie [uw betalingswijze wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)voor meer informatie.
+Zie Hoe u uw abonnement [betaalt voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

@@ -8,33 +8,32 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681810"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152373"
 ---
 # <a name="change-payment-method"></a>Betalingswijze wijzigen
 
-U kunt de betaalwijze wijzigen via het **Microsoft 365-Beheercentrum**.
+U kunt de betalingswijze wijzigen vanuit het **Microsoft 365-beheercentrum.**
   
-1. Ga in het Beheercentrum naar de pagina **facturerings**  >  **&** betaal  >  [methoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) voor betalingen.
-2. Selecteer de rij met de betaalwijze die u wilt vervangen. Het rechterdeelvenster bevat alle facturerings profielen en afzonderlijke abonnementen die gebruikmaken van de geselecteerde betaalwijze.
-3. Selecteer in het rechterdeelvenster de optie **betalingsmethode vervangen voor alle items**.
-4. Als u een bestaande betaalwijze wilt gebruiken, kiest u een in de vervolgkeuzelijst en selecteert u vervolgens **vervangen**.
+1. Ga in het beheercentrum naar de **pagina Factureringsrekeningen**  >  **&**  >  [betalingen.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+2. Selecteer de rij van de betalingswijze die u wilt vervangen. Het rechterdeelvenster bevat alle factureringsprofielen en afzonderlijke abonnementen die gebruikmaken van de geselecteerde betalingswijze.
+3. Selecteer in het rechterdeelvenster **De betalingswijze vervangen voor alle items.**
+4. Als u een bestaande betalingswijze wilt gebruiken, kiest u er een in de vervolgkeuzelijst en selecteert u **Vervolgens Vervangen.**
     > [!NOTE]
-    > Als u abonnementen hebt die zijn gekoppeld aan een facturerings profiel, kunt u een creditcard of betaalkaart gebruiken om hiervoor een factuur te betalen. Als u op de pagina **betaalwijzen** bankrekeningen hebt vermeld, kunnen ze niet selecteren in de vervolgkeuzelijst.
-5. Als u een nieuwe betalingsmethode wilt toevoegen, selecteert u **betalingsmethode toevoegen**.
-6. Voer in het deelvenster **een betalingswijze toevoegen** de accountgegevens in en selecteer **Opslaan**. U moet een betaalwijze gebruiken van hetzelfde land als uw Tenant.
-7. De nieuwe betalingswijze is al geselecteerd in de vervolgkeuzelijst. Selecteer **vervangen**.
+    > Als er abonnementen zijn gekoppeld aan een factureringsprofiel, kunt u er alleen een creditcard of betaalkaart voor gebruiken. Als uw bankrekening op de  pagina Betalingswijzen wordt vermeld, kunt u deze niet selecteren in de vervolgkeuzelijst.
+5. Als u een nieuwe betalingswijze wilt toevoegen, **selecteert u Betalingswijze toevoegen.**
+6. Voer in **het deelvenster Een betalingswijze** toevoegen de accountgegevens in en selecteer **Opslaan.** U moet een betalingswijze gebruiken uit hetzelfde land als uw tenant.
+7. De nieuwe betalingswijze is al geselecteerd in de vervolgkeuzelijst. Selecteer **Vervangen.**
 
-Zie voor meer informatie [betalingsmethoden beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Zie Betalingsmethoden beheren voor informatie over het toevoegen, bijwerken, vervangen [of verwijderen van betalingsmethoden.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Zie [wijzigen van creditcard of bankrekening op factuur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)voor informatie over hoe u kunt wijzigen van betaling per creditcard naar betaling per factuur.
+Zie 'Betalen voor uw abonnement' voor meer informatie over het wisselen tussen [betalingswijzen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
