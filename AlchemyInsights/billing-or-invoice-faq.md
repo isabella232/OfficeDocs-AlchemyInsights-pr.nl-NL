@@ -1,32 +1,34 @@
 ---
 title: Veelgestelde vragen over facturering of facturen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500024"
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: e4034ec6f71f4578dbfdfcdfb5355d22fbd7c88e
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: 2bd9f76f0521d51e41b9746df0ee0983876a48c9
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44017032"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152412"
 ---
 # <a name="billing-or-invoice-faq"></a>Veelgestelde vragen over facturering of facturen
 
-- Een betaling kan om verschillende redenen (bijvoorbeeld een verlopen creditcard) worden **afgewezen**. Zie [Uw betalingsmethode wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) om dit op te lossen.
-- Gebruik de functie **Saldo vereffenen** om uw betaling opnieuw in te dienen als de **einddatum van de factuur is verstreken**. Zie [Wat gebeurt er als de einddatum van de factuur is verstreken?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) om dit op te lossen.
-- Zie [Factureringsfrequentie wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#what-if-my-credit-card-was-declined-and-my-payment-is-past-due) als u uw **factureringsfrequentie** wilt wijzigen naar maandelijks of jaarlijks.
+- Een betaling kan om verschillende redenen (bijvoorbeeld een verlopen creditcard) worden **afgewezen**. Zie [Gegevens van de betalingswijze bijwerken](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details) om dit op te lossen.
+- Gebruik de functie **Saldo vereffenen** om uw betaling opnieuw in te dienen als de **einddatum van de factuur is verstreken**. Zie voor een oplossing [Wat gebeurt er als ik een openstaand saldo heb?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- Er worden nog steeds kosten in rekening gebracht voor licenties die niet zijn toegewezen aan gebruikers. Verwijder de ongebruikte licenties om het aantal licenties te verminderen en onnodige kosten te voorkomen. Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) uit een abonnement.
+- Zie [Factureringsfrequentie wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) als u uw **factureringsfrequentie** wilt wijzigen naar maandelijks of jaarlijks.
 - Zie [Inzicht in uw factuur krijgen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2) als u hulp nodig hebt met uw factuur.
 - Zie [Uw rekening of factuur bekijken](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) als u hulp nodig hebt bij het **bekijken** van uw rekening.
-- Zie [Factureringsprofiel beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) of [Factuuradres wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) als u uw factureringsgegevens wilt wijzigen.
+- Zie [Inzicht in factureringsprofielen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) of [factuuradres wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) om je factureringsgegevens te wijzigen.
 
-Zie [Facturering en betalingen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/) voor meer informatie.
+Zie [Inzicht in je factuur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2) voor meer informatie.

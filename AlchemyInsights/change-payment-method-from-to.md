@@ -1,30 +1,29 @@
 ---
 title: Betalingswijze wijzigen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933222"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152589"
 ---
 # <a name="change-payment-method-fromto"></a>Betalingswijze wijzigen van/naar
 
 1. **Wijzigen van factuur naar creditcard of bankrekening**
 
-    - Als u uw betalingswijze wijzigt van factuur naar betalen met een creditcard of via een bankrekening, maken we automatisch een nieuw abonnement voor u, verplaatsen we uw gebruikers naar het nieuwe abonnement en schakelen we vervolgens uw oude abonnement uit. Uw gebruikers merken daar niets van en al hun informatie is gewoon beschikbaar in het nieuwe abonnement. 
-
-    - Volg de stappen die worden beschreven in [Wijzigen van factuur naar creditcard of bankrekening](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Je kunt het betalen per factuur niet automatisch wijzigen naar betalen met een andere betalingswijze. In plaats daarvan moet je [een ander abonnement kopen](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) en betalen met een creditcard, debitcard of bankrekening, [alle gebruikers naar het nieuwe abonnement verplaatsen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) en [het oude abonnement vervolgens annuleren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Wijzigen van creditcard of bankrekening naar factuur**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933222"
 
     - Als de bestelhoeveelheid te hoog is, kan een kredietcontrole zijn vereist. In dat geval ziet u het bericht 'komt niet in aanmerking voor wijzigen naar factuur. Voor uw bestelling is een kredietcontrole vereist.' In dit geval wijzigt u handmatig naar betalen per factuur.
 
-    - Volg de stappen die worden beschreven in [Wijzigen van creditcard of bankrekening naar factuur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) om een handmatige wijziging uit te voeren.
+    - Volg de stappen voor het [wijzigen van creditcardbetalingen naar factuur](how-do-i-change-from-credit-card-payments-to-invoice.md) om dit handmatig te wijzigen.
 
-Zie [Uw betalingswijze wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) voor meer informatie.
+Zie voor meer informatie [Betalen voor je abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
