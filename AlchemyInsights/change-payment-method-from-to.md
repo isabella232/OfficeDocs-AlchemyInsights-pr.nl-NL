@@ -1,37 +1,36 @@
 ---
 title: Betalingswijze wijzigen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933222"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152589"
 ---
-# <a name="change-payment-method-fromto"></a><span data-ttu-id="22a5a-102">Betalingswijze wijzigen van/naar</span><span class="sxs-lookup"><span data-stu-id="22a5a-102">Change payment method from/to</span></span>
+# <a name="change-payment-method-fromto"></a><span data-ttu-id="15bd2-102">Betalingswijze wijzigen van/naar</span><span class="sxs-lookup"><span data-stu-id="15bd2-102">Change payment method from/to</span></span>
 
-1. <span data-ttu-id="22a5a-103">**Wijzigen van factuur naar creditcard of bankrekening**</span><span class="sxs-lookup"><span data-stu-id="22a5a-103">**Change from invoice to credit card or bank account**</span></span>
+1. <span data-ttu-id="15bd2-103">**Wijzigen van factuur naar creditcard of bankrekening**</span><span class="sxs-lookup"><span data-stu-id="15bd2-103">**Change from invoice to credit card or bank account**</span></span>
 
-    - <span data-ttu-id="22a5a-104">Als u uw betalingswijze wijzigt van factuur naar betalen met een creditcard of via een bankrekening, maken we automatisch een nieuw abonnement voor u, verplaatsen we uw gebruikers naar het nieuwe abonnement en schakelen we vervolgens uw oude abonnement uit.</span><span class="sxs-lookup"><span data-stu-id="22a5a-104">When you change from paying by invoice to paying with a credit card or bank account, we automatically create a new subscription for you, move your users to the new subscription, and then disable your old subscription.</span></span> <span data-ttu-id="22a5a-105">Uw gebruikers merken daar niets van en al hun informatie is gewoon beschikbaar in het nieuwe abonnement.</span><span class="sxs-lookup"><span data-stu-id="22a5a-105">Don't worry, your users won't see a disruption in service and all their information will be available through the new subscription.</span></span> 
+    - <span data-ttu-id="15bd2-104">Je kunt het betalen per factuur niet automatisch wijzigen naar betalen met een andere betalingswijze.</span><span class="sxs-lookup"><span data-stu-id="15bd2-104">You can’t automatically change from paying by invoice to paying with a different payment method.</span></span> <span data-ttu-id="15bd2-105">In plaats daarvan moet je [een ander abonnement kopen](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) en betalen met een creditcard, debitcard of bankrekening, [alle gebruikers naar het nieuwe abonnement verplaatsen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) en [het oude abonnement vervolgens annuleren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="15bd2-105">Instead, you must [buy a different subscription](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) paid for with a credit or debit card or bank account, [move all users to the new subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), and then [cancel the old subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
 
-    - <span data-ttu-id="22a5a-106">Volg de stappen die worden beschreven in [Wijzigen van factuur naar creditcard of bankrekening](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="22a5a-106">Follow the steps documented in [Change from invoice to credit card or bank account](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).</span></span>
+2. <span data-ttu-id="15bd2-106">**Wijzigen van creditcard of bankrekening naar factuur**</span><span class="sxs-lookup"><span data-stu-id="15bd2-106">**Change from credit card or bank account to invoice**</span></span>
 
-2. <span data-ttu-id="22a5a-107">**Wijzigen van creditcard of bankrekening naar factuur**</span><span class="sxs-lookup"><span data-stu-id="22a5a-107">**Change from credit card or bank account to invoice**</span></span>
+    - <span data-ttu-id="15bd2-107">U kunt naar betalen per factuur wijzigen als de bestelling boven een bepaalde hoeveelheid ligt.</span><span class="sxs-lookup"><span data-stu-id="15bd2-107">You can change to pay by invoice only if your order is above a certain quantity.</span></span> <span data-ttu-id="15bd2-108">Als u niet aan de vereiste voldoet, ziet u het bericht 'de bestelhoeveelheid is niet groot genoeg om in aanmerking te komen voor een factuur met bankoverschrijving'.</span><span class="sxs-lookup"><span data-stu-id="15bd2-108">If you do not meet the requirement, you see the message "Your order quantity isn't large enough to qualify for invoice with check wire."</span></span>
 
-    - <span data-ttu-id="22a5a-108">U kunt naar betalen per factuur wijzigen als de bestelling boven een bepaalde hoeveelheid ligt.</span><span class="sxs-lookup"><span data-stu-id="22a5a-108">You can change to pay by invoice only if your order is above a certain quantity.</span></span> <span data-ttu-id="22a5a-109">Als u niet aan de vereiste voldoet, ziet u het bericht 'de bestelhoeveelheid is niet groot genoeg om in aanmerking te komen voor een factuur met bankoverschrijving'.</span><span class="sxs-lookup"><span data-stu-id="22a5a-109">If you do not meet the requirement, you see the message "Your order quantity isn't large enough to qualify for invoice with check wire."</span></span>
+    - <span data-ttu-id="15bd2-109">Als de bestelhoeveelheid te hoog is, kan een kredietcontrole zijn vereist.</span><span class="sxs-lookup"><span data-stu-id="15bd2-109">If your order quantity is too high, a credit check might be required.</span></span> <span data-ttu-id="15bd2-110">In dat geval ziet u het bericht 'komt niet in aanmerking voor wijzigen naar factuur.</span><span class="sxs-lookup"><span data-stu-id="15bd2-110">If so, you see the message "Not eligible to change to invoice.</span></span> <span data-ttu-id="15bd2-111">Voor uw bestelling is een kredietcontrole vereist.'</span><span class="sxs-lookup"><span data-stu-id="15bd2-111">Your order requires a credit check."</span></span> <span data-ttu-id="15bd2-112">In dit geval wijzigt u handmatig naar betalen per factuur.</span><span class="sxs-lookup"><span data-stu-id="15bd2-112">In this case, you change to pay by invoice manually.</span></span>
 
-    - <span data-ttu-id="22a5a-110">Als de bestelhoeveelheid te hoog is, kan een kredietcontrole zijn vereist.</span><span class="sxs-lookup"><span data-stu-id="22a5a-110">If your order quantity is too high, a credit check might be required.</span></span> <span data-ttu-id="22a5a-111">In dat geval ziet u het bericht 'komt niet in aanmerking voor wijzigen naar factuur.</span><span class="sxs-lookup"><span data-stu-id="22a5a-111">If so, you see the message "Not eligible to change to invoice.</span></span> <span data-ttu-id="22a5a-112">Voor uw bestelling is een kredietcontrole vereist.'</span><span class="sxs-lookup"><span data-stu-id="22a5a-112">Your order requires a credit check."</span></span> <span data-ttu-id="22a5a-113">In dit geval wijzigt u handmatig naar betalen per factuur.</span><span class="sxs-lookup"><span data-stu-id="22a5a-113">In this case, you change to pay by invoice manually.</span></span>
+    - <span data-ttu-id="15bd2-113">Volg de stappen voor het [wijzigen van creditcardbetalingen naar factuur](how-do-i-change-from-credit-card-payments-to-invoice.md) om dit handmatig te wijzigen.</span><span class="sxs-lookup"><span data-stu-id="15bd2-113">Follow the steps in [How do I change from credit card payments to invoice?](how-do-i-change-from-credit-card-payments-to-invoice.md) to complete the manual change.</span></span>
 
-    - <span data-ttu-id="22a5a-114">Volg de stappen die worden beschreven in [Wijzigen van creditcard of bankrekening naar factuur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) om een handmatige wijziging uit te voeren.</span><span class="sxs-lookup"><span data-stu-id="22a5a-114">Follow the steps documented in [Change from credit card or bank account to invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) to complete the manual change.</span></span>
-
-<span data-ttu-id="22a5a-115">Zie [Uw betalingswijze wijzigen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="22a5a-115">For more information, see [Change your payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>
+<span data-ttu-id="15bd2-114">Zie voor meer informatie [Betalen voor je abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="15bd2-114">For more information, see [How to pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span>
