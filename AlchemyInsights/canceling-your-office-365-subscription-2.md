@@ -1,9 +1,8 @@
 ---
-title: Uw abonnement op Microsoft 365 annuleren?
+title: Wilt u uw Microsoft 365-abonnement opzeggen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416229"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232002"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="376ce-102">Uw abonnement op Microsoft 365 annuleren?</span><span class="sxs-lookup"><span data-stu-id="376ce-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="5304b-102">Wilt u uw Microsoft 365-abonnement opzeggen?</span><span class="sxs-lookup"><span data-stu-id="5304b-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="376ce-103">We vinden het jammer dat u weggaat.</span><span class="sxs-lookup"><span data-stu-id="376ce-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="5304b-103">Jammer dat u op zoek bent!</span><span class="sxs-lookup"><span data-stu-id="5304b-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="376ce-104">Op basis van de gegevens in uw organisatie geloven dit dat al uw huidige abonnementen meer dan 25 toegewezen licenties hebben.</span><span class="sxs-lookup"><span data-stu-id="376ce-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="376ce-105">Licenties van gebruikers verwijderen tot u minder dan 25 gebruikers met een licentie hebt.</span><span class="sxs-lookup"><span data-stu-id="376ce-105">Remove licenses from users until you have fewer than 25 licensed users.</span></span> <span data-ttu-id="376ce-106">Ga vervolgens naar de pagina **Billing** \> [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.</span><span class="sxs-lookup"><span data-stu-id="376ce-106">Next, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="376ce-107">Zoek op het tabblad **producten** naar het abonnement dat u wilt opzeggen, selecteer **meer acties** (drie puntjes) en selecteer vervolgens **abonnement opzeggen**.</span><span class="sxs-lookup"><span data-stu-id="376ce-107">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+<span data-ttu-id="5304b-104">Op basis van gegevens van uw organisatie zien wij dat al uw huidige abonnementen meer dan 25 toegewezen licenties hebben.</span><span class="sxs-lookup"><span data-stu-id="5304b-104">Based on your organization data, we believe all your current subscriptions have more than 25 assigned licenses.</span></span> <span data-ttu-id="5304b-105">Voordat u kunt annuleren:</span><span class="sxs-lookup"><span data-stu-id="5304b-105">Before you can cancel:</span></span>
 
-<span data-ttu-id="376ce-108">**Restitutie:** Het naar u verzonden tegoed wordt binnen de volgende factureringscyclus weergegeven.</span><span class="sxs-lookup"><span data-stu-id="376ce-108">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+1. <span data-ttu-id="5304b-106">Verwijder licenties van gebruikers totdat u minder dan 25 gebruikers met een licentie hebt.</span><span class="sxs-lookup"><span data-stu-id="5304b-106">Remove licenses from users until you have fewer than 25 licensed users.</span></span>
+2. <span data-ttu-id="5304b-107">Ga naar de **pagina Je** \> **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="5304b-107">Go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+3. <span data-ttu-id="5304b-108">Zoek op **het** tabblad Producten naar het abonnement dat u wilt opzeggen, selecteer Meer acties **(drie** puntjes) en selecteer Vervolgens **Abonnement annuleren.**</span><span class="sxs-lookup"><span data-stu-id="5304b-108">On the **Products** tab, find the subscription that you want to cancel, select **More actions** (three dots), then select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="376ce-109">Zie [uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="376ce-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="5304b-109">**Terugbetaling:** Een tegoed naar rekening wordt aan u geretourneerd in de volgende factureringscyclus.</span><span class="sxs-lookup"><span data-stu-id="5304b-109">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+
+<span data-ttu-id="5304b-110">Zie Uw abonnement [opzeggen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="5304b-110">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
