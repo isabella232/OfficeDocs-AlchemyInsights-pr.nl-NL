@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287061"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231858"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Vragen over uw Microsoft 365-licentie
 
-Ga als volgt te werk om te zien hoeveel licenties u hebt gekocht, of hoeveel licenties er zijn toegewezen via een abonnement.
+Gebruik deze stappen om erachter te komen hoeveel licenties u hebt gekocht of hoeveel licenties er zijn toegewezen vanuit een abonnement.
   
-1. Ga in het beheercentrum naar de pagina **Facturering** \> [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Zoek op het tabblad **producten** naar het abonnement waarover u meer wilt weten. U kunt het aantal licenties dat u betaalt, en het aantal momenteel toegewezen taken weergeven.
+1. Ga in het beheercentrum naar de **pagina Je** \> **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Zoek op **het** tabblad Producten het abonnement waar u meer over wilt weten. U kunt zien hoeveel licenties u betaalt en hoeveel licenties er momenteel zijn toegewezen.
 
-Als u meer licenties wilt toevoegen of als u te veel hebt, selecteert u het abonnement. Selecteer op de pagina met abonnementsgegevens de optie **licenties kopen** of **licenties verwijderen** om het totale aantal licenties voor het abonnement aan te passen.
+Als u meer licenties wilt toevoegen of als u te veel licenties hebt, selecteert u het abonnement. Selecteer Licenties kopen of  Licenties verwijderen op de pagina met **abonnementsgegevens** om het totale aantal licenties voor het abonnement aan te passen.
+
+**BEKIJK een video** om te zien hoe u dit doet: [Nieuwe licenties kopen](https://go.microsoft.com/fwlink/p/?linkid=2154857) of bestaande licenties [verwijderen](https://go.microsoft.com/fwlink/p/?linkid=2154938)

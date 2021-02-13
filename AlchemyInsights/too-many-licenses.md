@@ -3,7 +3,6 @@ title: Te veel licenties?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "540"
 - "1500027"
-ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: a093cd0ac2bc4d165a91276e7a5f1a14a8b7736f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307229"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231966"
 ---
 # <a name="too-many-licenses"></a>Te veel licenties?
 
-Als u denkt dat u voor te veel licenties een factuur hebt ontvangen, komt dit meestal doordat u meer dan een licentie hebt gekocht.
+Als u denkt dat u voor te veel licenties een factuur krijgt, komt dit meestal doordat u meer licenties hebt gekocht dan u nodig hebt.
   
 **Het aantal gekochte licenties verminderen**
+
+**BEKIJK een video** om te zien hoe u dit doet: [Bestaande licenties verwijderen](https://go.microsoft.com/fwlink/p/?linkid=2154938)
   
-1. Ga in het Beheercentrum naar de pagina **Billing** \> **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren.
-2. Selecteer op het tabblad **Products** het abonnement dat u wilt wijzigen.
-3. Selecteer op de pagina Details van abonnement de optie **licenties verwijderen**.
-4. Voer in het deelvenster **licenties verwijderen** , onder **nieuw aantal** in het vak **Totaal aantal licenties** , het totale aantal licenties in dat u nodig hebt voor dit abonnement. Als u bijvoorbeeld 100-licenties hebt en 25 hiervan wilt verwijderen, typt u 75.
+1. Ga in het beheercentrum naar de **pagina Je** \> **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Selecteer op **het** tabblad Producten het abonnement dat u wilt wijzigen.
+3. Selecteer Licenties verwijderen op de pagina **met abonnementsgegevens.**
+4. Voer in **het deelvenster Licenties** verwijderen, onder Nieuw **aantal** in het vak **Totaal** aantal licenties, het totale aantal licenties in dat u voor dit abonnement wilt gebruiken. Als u bijvoorbeeld 100 licenties hebt en u wilt 25 van deze licenties verwijderen, voert u 75 in.
 5. Kies **Opslaan**.
 
-Zie [abonnementslicenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)voor meer informatie.
+Zie Licenties kopen of [verwijderen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

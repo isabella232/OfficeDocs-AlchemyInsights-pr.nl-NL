@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307132"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232279"
 ---
 # <a name="buy-additional-licenses"></a>Extra licenties kopen
 
-1. Ga in het Beheercentrum naar de pagina **Billing**  >  [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
-2. Zoek op het tabblad **producten** naar het abonnement waarvoor u licenties wilt kopen of verwijderen. Selecteer **meer acties** (drie puntjes) en selecteer vervolgens **licenties kopen**.
-3. Als u het aantal licenties wilt verlagen, selecteert u **licenties verwijderen**boven aan het deelvenster **licenties kopen** .
-4. Als u licenties wilt kopen of verwijderen, voert u onder **nieuw aantal** in het vak **Totaal aantal licenties** het totale aantal licenties in dat u wilt voor dit abonnement. Als u bijvoorbeeld 100-licenties hebt en u 25 extra wilt toevoegen, typt u 125. Als u 25 licenties wilt verwijderen, voert u 75 in.
-5. Kies **Opslaan**.
+**BEKIJK een video** om te zien hoe u dit doet: [Licenties kopen](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-Zie [licenties kopen voor uw Microsoft 365 voor bedrijven-abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)voor meer informatie.
+1. Ga in het beheercentrum naar de **pagina Je**  >  [producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Zoek op **het** tabblad Producten het abonnement waarvoor u licenties wilt kopen. Selecteer **Meer acties** (drie puntjes) en selecteer Vervolgens Licenties **kopen.**
+3. Voer **onder Nieuw aantal** in het vak **Totaal** aantal licenties het totale aantal licenties in dat u voor dit abonnement wilt gebruiken. Als u bijvoorbeeld 100 licenties hebt en u er 25 wilt toevoegen, voert u 125 in.
+4. Kies **Opslaan**.
 
-**Aanvullende informatie**
+Zie Licenties kopen of [verwijderen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Licenties toewijzen aan gebruikers in Microsoft 365 voor bedrijven](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Aanvullende informatiebronnen**
+
+- [Licenties toewijzen aan gebruikers in Microsoft 365 voor Bedrijven](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

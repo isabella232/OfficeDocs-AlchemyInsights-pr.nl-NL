@@ -23,7 +23,7 @@ ms.locfileid: "50152447"
 
 Beheer betalingen in het **Microsoft 365-beheercentrum**.
 
-- Ga naar **Facturering > [Jouw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** om betalingswijzen voor het abonnement toe te wijzen of te wijzigen.
+- Ga naar **Facturering > [Uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** om betalingswijzen voor het abonnement toe te wijzen of te wijzigen.
 - Ga naar **Facturering > [Betalingswijzen](https://go.microsoft.com/fwlink/p/?linkid=2018806)** om betalingswijzen toe te voegen, bij te werken, te vervangen of te verwijderen.
 
 - **Betalingsmethoden**: als u betaalt per creditcard of bankrekening, worden de kosten enkele dagen nadat de factuur is gemaakt in rekening gebracht bij de betalingsmethode die is gekoppeld aan uw abonnement(en). Als de betaling mislukt, werkt u uw betalingsmethode bij. Zie [Betalingswijzen beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) voor meer informatie.
