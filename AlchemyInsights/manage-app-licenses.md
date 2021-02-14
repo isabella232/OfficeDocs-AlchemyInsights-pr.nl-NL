@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232398"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237563"
 ---
 # <a name="manage-app-licenses"></a>App-licenties beheren
 
 ## <a name="to-change-license-quantity"></a>Aantal licenties wijzigen
+
+**BEKIJK een video** om te zien hoe u dit doet: [Nieuwe licenties kopen](https://go.microsoft.com/fwlink/p/?linkid=2154857) of bestaande licenties [verwijderen](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. Ga naar de **pagina Je**  >  **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Zoek op **het** tabblad Producten in de sectie **Apps** de app die u wilt beheren. Selecteer **Meer acties** (drie puntjes) en selecteer Vervolgens Licenties **kopen.**
@@ -33,4 +35,4 @@ ms.locfileid: "50232398"
 
 1. Ga naar de **pagina Je**  >  **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Zoek en **selecteer** de  app die u wilt beheren op het tabblad Producten in de sectie Apps.
-3. Selecteer **onder Instellingen & acties** de koppeling Beheren in de portal van de **uitgever.**
+3. Selecteer **onder Instellingen & acties** de koppeling beheren in de portal van de **uitgever.**
