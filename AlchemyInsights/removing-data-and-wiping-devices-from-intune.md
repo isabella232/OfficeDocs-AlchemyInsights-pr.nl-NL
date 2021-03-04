@@ -1,36 +1,42 @@
 ---
-title: Gegevens verwijderen en apparaten wissen van Intune
+title: Gegevens verwijderen en apparaten wissen uit Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: efaf111f694ab57d0435b141a6d4baad58658ed2
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
-ms.translationtype: MT
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439156"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416308"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Gegevens verwijderen en apparaten wissen van Intune
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Gegevens verwijderen en apparaten wissen uit Intune
 
-De acties Device Retire en Device Wipe kunnen worden gebruikt om bedrijfsgegevens te verwijderen die door Intune worden beheerd of om een fabrieksreset uit te voeren en het apparaat terug te sturen naar de standaardinstellingen.
+Met de acties apparaat buiten gebruik stellen en apparaat wissen kunnen bedrijfsgegevens die beheerd worden door Intune verwijderd worden of de fabrieksinstellingen opnieuw ingesteld worden.
 
-1. Meld u aan bij Microsoft 365 Device Management en ga naar **Apparaten**  >  **alle apparaten**.
-2. Selecteer het apparaat dat u wilt wissen.
-3. Selecteer het type externe veeg die u wilt maken. Met pensioen gaat alleen organisatorische informatie, terwijl volledige doekjes het apparaat herstellen naar de fabrieksinstellingen.
-4. Selecteer **Ja** om te bevestigen. Totdat het wissen is voltooid, wordt de actiestatus Apparaat weergegeven als In behandeling met pensioen.</br>
-    Nadat de actie is voltooid, ziet u het mobiele apparaat niet meer in de lijst met beheerde apparaten.
+1. Meld je aan in Microsoft 365-apparaatbeheer en ga naar **Apparaten** > **Alle apparaten**.
+2. Selecteer het apparaat dat je wilt wissen.
+3. Selecteer het type wissen van op afstand dat je wilt uitvoeren. Buiten gebruik stellen verwijdert enkel informatie van de organisatie. Volledig wissen herstelt de fabrieksinstellingen op het apparaat. 
+4. Selecteer **Ja** om te bevestigen. Totdat wissen voltooid is wordt de status van het apparaat als *buiten gebruik stellen in behandeling* weergegeven.
+    Nadat de actie voltooid is wordt het mobiele apparaat niet meer in de lijst van beheerde apparaten weergegeven.
 
-**Opmerking** Bedrijfsgegevens kunnen niet worden verwijderd van apparaten die zijn aangesloten bij Azure AD.
+> [!NOTE]
+> Bedrijfsgegevens kunnen niet verwijderd worden uit apparaten die aan Azure AD toegevoegd zijn. 
 
-Zie Apparaten verwijderen met behulp van [het apparaat wissen, met pensioen en handmatig uitrollen van het apparaat voor](https://docs.microsoft.com/intune/devices-wipe)meer informatie over het effect van de acties Met pensioen gaan en wissen, inclusief wat wordt bewaard en wat wordt verwijderd.
+Voor een volledig overzicht van de gevolgen van de acties buiten gebruik stellen en wissen, inclusief wat behouden wordt en wat verwijderd wordt, zie de volgende documentatie:
 
-Zie [Alle gegevens van een macOS-apparaat wissen als](https://docs.microsoft.com/intune/device-erase)u alle gegevens van een macOS-apparaat wilt wissen.
+- [Apparaten verwijderen met wissen, buiten gebruik stellen of het apparaat manueel uitschrijven](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Hoe enkel bedrijfsgegevens wissen uit Intune-beheerde apps](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Alle gegevens wissen uit een macOS-apparaat](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
