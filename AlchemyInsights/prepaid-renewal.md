@@ -1,9 +1,8 @@
 ---
-title: Vooruitbetaalde verlenging
+title: Prepaid verlenging
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,27 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: fe0c8066e203e1b7395d69211f31916afc137c18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693982"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469729"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Vooruitbetaalde Microsoft 365 verlengen
+# <a name="prepaid-microsoft-365-renewal"></a>Prepaid verlenging van Microsoft 365
 
-1. Ga in het Beheercentrum naar de pagina **Billing** \> **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** factureren.
+1. Ga in het beheercentrum naar de **pagina Je** \> **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Selecteer op **het** tabblad Producten het abonnement dat u wilt verlengen.
+3. Selecteer Op de pagina met abonnementsgegevens in de sectie **Abonnements-** en betalingsinstellingen de optie **Einddatum verlengen.**
+4. Selecteer op **de pagina Gebruikerslicenties verlengen of toevoegen** een nieuwe en **ongebruikte productcode gebruiken** en selecteer vervolgens **Volgende.**
+5. Voer de productcode in en selecteer vervolgens **Volgende.**
+    > [!NOTE]
+    > Als u meer dan één productcode hebt, kunt u Een andere **productcode toevoegen selecteren om** deze in te voeren.
+6. Controleer de details van uw bestelling en selecteer **Inwisselen.**
 
-2. Zoek het abonnement dat u wilt verlengen. Selecteer in de sectie **facturering** de optie **einddatum verlengen**.
-
-3. Selecteer in het deelvenster **abonnement verlengen** de optie **een nieuwe en niet-gebruikte productcode gebruiken**en selecteer **volgende**.
-
-4. Voer de productcode in en selecteer **volgende**.
-
-> [!NOTE]
-> Als u meer dan één productcode hebt, kunt u **een andere productsleutel toevoegen selecteren om een product** code in te voeren.
-
-5. Controleer de details van uw bestelling en selecteer vervolgens **inwisselen**.
-
-Zie [licenties toevoegen aan of verlengen van een abonnement dat is betaald met een productcode](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)voor meer informatie.
+Zie Licenties toevoegen aan of verlengen voor een abonnement dat is [betaald met een productcode voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)
