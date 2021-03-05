@@ -1,32 +1,34 @@
 ---
 title: Visio-licentiebeheer
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-ms.openlocfilehash: a0e0b33605b32aad7c0daa74acc689ab4b8a3f34
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505158"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468829"
 ---
 # <a name="visio-license-management"></a>Visio-licentiebeheer
 
-U kunt Visio-licentiebeheer voltooien in het **Microsoft 365-beheercentrum**.
+U kunt Visio-licentiebeheer voltooien in het **Microsoft 365-Beheercentrum**.
 
-- Zie [Handmatig overstappen op een ander abonnement voor Microsoft 365 voor bedrijven](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) om van **abonnement te veranderen**.
-- Als u Visio wilt **aanschaffen**, gaat u naar **Facturering[ Services aanschaffen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Gebruik het zoekvak om op 'Visio' te zoeken; selecteer het abonnement en het aantal gebruikers. Zie [Abonnement aanschaffen](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide) voor meer informatie.
-- Als u Visio-licenties wilt **toewijzen**, gaat u naar **Facturering > [Licenties](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Zie [Licenties toewijzen](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide) voor meer informatie.
-- Als u licenties voor Visio wilt **toevoegen/verwijderen**, gaat u naar **Facturering > [Services aanschaffen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Zie [Licenties toevoegen/verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) voor meer informatie.
-- Als u Visio-licenties wilt **annuleren**, gaat u naar **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecteert u **Instellingen en acties** en klikt u op **Abonnement opzeggen**. Zie [Abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) voor meer informatie.
-- [Visio-opties vergelijken](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) voor informatie over de verschillen tussen Visio-abonnement 1 en 2.
+- [Visio-opties vergelijken](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1) voor informatie over de verschillen tussen Visio-abonnement 1 en 2.
+- Om **plannen te wijzigen**, zie [Upgrade naar een ander plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Als u Visio wilt **aanschaffen**, gaat u naar **Facturering [ Services aanschaffen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Gebruik het zoekvak om op 'Visio' te zoeken; selecteer het abonnement en het aantal gebruikers. Zie [Een ander abonnement kopen](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) voor meer informatie.
+- Als u Visio-licenties wilt **toewijzen**, gaat u naar **Facturering > [Licenties](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Zie [Licenties toewijzen aan gebruikers](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) voor meer informatie.
+- Om licenties te **Kopen of verwijderen**, ga naar **Facturering > [Jouw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) voor meer informatie.
+- Om een Visioabonnement te **annuleren**, ga naar **Facturering > [Jouw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecteer het Visioabonnement, en selecteer in **Abonnement en betalingsinstellingen****Abonnement annuleren**. Zie [Abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) voor meer informatie.
 
-Zie [Abonnementslicenties beheren](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) voor meer informatie.
+Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) voor meer informatie.
