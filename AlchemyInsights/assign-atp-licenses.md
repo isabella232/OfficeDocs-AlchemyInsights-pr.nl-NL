@@ -1,8 +1,8 @@
 ---
-title: Geavanceerde licenties voor Bedreigingsbeveiliging toewijzen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Microsoft Defender voor Office 365-licenties toewijzen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: a877495be34c9403f63ebf96b0b83052f4c31491
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801178"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469585"
 ---
-# <a name="assign-advanced-threat-protection-licenses"></a><span data-ttu-id="b4366-102">Geavanceerde licenties voor Bedreigingsbeveiliging toewijzen</span><span class="sxs-lookup"><span data-stu-id="b4366-102">Assign Advanced Threat Protection Licenses</span></span>
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a><span data-ttu-id="ff25c-102">Microsoft Defender voor Office 365-licenties toewijzen</span><span class="sxs-lookup"><span data-stu-id="ff25c-102">Assign Microsoft Defender for Office 365 Licenses</span></span>
 
-<span data-ttu-id="b4366-103">Microsoft Defender voor Office 365 kan aan gebruikers worden toegewezen in het Microsoft 365-Beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="b4366-103">Microsoft Defender for Office 365 can be assigned to users in the Microsoft 365 Admin Center.</span></span>
+<span data-ttu-id="ff25c-103">Microsoft Defender voor Office 365 kan worden toegewezen aan gebruikers in het Microsoft 365-beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="ff25c-103">Microsoft Defender for Office 365 can be assigned to users in the Microsoft 365 Admin Center.</span></span>
 
-1. <span data-ttu-id="b4366-104">Ga naar **facturerings**  >  [licenties](https://go.microsoft.com/fwlink/p/?linkid=842264).</span><span class="sxs-lookup"><span data-stu-id="b4366-104">Go to **Billing** > [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264).</span></span>
-2. <span data-ttu-id="b4366-105">Selecteer een product waarvoor u licenties wilt toewijzen.</span><span class="sxs-lookup"><span data-stu-id="b4366-105">Select a product for which you want to assign licenses.</span></span>
-3. <span data-ttu-id="b4366-106">Klik op **Licenties toewijzen** .</span><span class="sxs-lookup"><span data-stu-id="b4366-106">Click **Assign licenses** .</span></span>
-4. <span data-ttu-id="b4366-107">In het deelvenster **licenties toewijzen aan gebruikers**  begint u de naam van een gebruiker te typen en kiest u de naam van de gebruiker.</span><span class="sxs-lookup"><span data-stu-id="b4366-107">In the **Assign licenses to users**  pane, begin typing a user's name, and then choose it from the results.</span></span> <span data-ttu-id="b4366-108">U kunt maximaal 20 gebruikers tegelijk toevoegen.</span><span class="sxs-lookup"><span data-stu-id="b4366-108">You can add up to 20 users at a time.</span></span>
-5. <span data-ttu-id="b4366-109">Selecteer **apps en services in-of uitschakelen**  om het toe te wijzen of te verwijderen.</span><span class="sxs-lookup"><span data-stu-id="b4366-109">Click **Turn apps and services on or off**  to assign or remove.</span></span>
-6. <span data-ttu-id="b4366-110">Klik op **toewijzen** en  **sluiten** .</span><span class="sxs-lookup"><span data-stu-id="b4366-110">Click **Assign** , and  **Close** .</span></span>
+1. <span data-ttu-id="ff25c-104">Ga naar  >  [Factureringslicenties.](https://go.microsoft.com/fwlink/p/?linkid=842264)</span><span class="sxs-lookup"><span data-stu-id="ff25c-104">Go to **Billing** > [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264).</span></span>
+2. <span data-ttu-id="ff25c-105">Selecteer een product waarvoor u licenties wilt toewijzen.</span><span class="sxs-lookup"><span data-stu-id="ff25c-105">Select a product for which you want to assign licenses.</span></span>
+3. <span data-ttu-id="ff25c-106">Klik op **Licenties toewijzen**.</span><span class="sxs-lookup"><span data-stu-id="ff25c-106">Click **Assign licenses**.</span></span>
+4. <span data-ttu-id="ff25c-107">Begin in **het deelvenster Licenties toewijzen**  aan gebruikers de naam van een gebruiker te typen en kies deze vervolgens in de resultaten.</span><span class="sxs-lookup"><span data-stu-id="ff25c-107">In the **Assign licenses to users**  pane, begin typing a user's name, and then choose it from the results.</span></span> <span data-ttu-id="ff25c-108">U kunt maximaal 20 gebruikers tegelijk toevoegen.</span><span class="sxs-lookup"><span data-stu-id="ff25c-108">You can add up to 20 users at a time.</span></span>
+5. <span data-ttu-id="ff25c-109">Klik **op Apps en services in- of uitschakelen om**  ze toe te wijzen of te verwijderen.</span><span class="sxs-lookup"><span data-stu-id="ff25c-109">Click **Turn apps and services on or off**  to assign or remove.</span></span>
+6. <span data-ttu-id="ff25c-110">Klik **op** Toewijzen en **sluiten.**</span><span class="sxs-lookup"><span data-stu-id="ff25c-110">Click **Assign**, and  **Close**.</span></span>
 
-<span data-ttu-id="b4366-111">Zie [Licenties toevoegen aan of verwijderen uit abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) om meer licenties te kopen of licenties te verwijderen.</span><span class="sxs-lookup"><span data-stu-id="b4366-111">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="ff25c-111">Zie Licenties kopen of verwijderen als u meer licenties [wilt kopen of in- of verwijderen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)</span><span class="sxs-lookup"><span data-stu-id="ff25c-111">To buy more or remove licenses, see [Buy or remove Licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span></span>
