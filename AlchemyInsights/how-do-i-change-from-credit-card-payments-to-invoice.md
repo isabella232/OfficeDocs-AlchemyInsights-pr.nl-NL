@@ -9,22 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "433"
 - "1500001"
-ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 4358c7ea329b86b49fae7c412d8387a2da7ffe88
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152301"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602359"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hoe ga ik over van creditcardbetalingen naar factuur?
 
 > [!NOTE]
 > U kunt alleen betalen per factuur als de abonnementskosten hoger zijn dan een bepaald bedrag. U moet eerst een openstaand saldo op de creditcard, betaalkaart of bankrekening betalen voordat u het bedrag kunt wijzigen in betalen per factuur.
 
-1. Ga in het beheercentrum naar de **pagina Je**  >  [producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Ga in het beheercentrum naar de pagina **Facturering** > [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Zoek op **het** tabblad Producten het abonnement dat u wilt betalen met de alternatieve betalingswijze.
 3. Selecteer **Meer acties** (drie puntjes) en selecteer vervolgens **Betalingswijze vervangen.**
 4. Selecteer **Betalingswijze toevoegen in** het deelvenster **Betalingswijze vervangen.**
