@@ -1,5 +1,5 @@
 ---
-title: Voorwaardelijke toegang met intune
+title: Voorwaardelijke toegang met Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807654"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704781"
 ---
-# <a name="conditional-access-with-intune"></a>Voorwaardelijke toegang met intune
+# <a name="conditional-access-with-intune"></a>Voorwaardelijke toegang met Intune
 
-Voor  **voorwaardelijke toegang**  met intune zijn drie stappen nodig:
+Voor  **het gebruik van**  voorwaardelijke toegang met Intune zijn drie stappen vereist:
 
-- Maak een  **nalevingsbeleid**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [IOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) om te bepalen welke instellingen moeten voldoen voordat het apparaat als compatibel wordt beschouwd. Een apparaat moet bijvoorbeeld een pincode van minimaal 6 cijfers hebben voordat deze als compatibel wordt beschouwd.
-- Maak een **voorwaardelijk toegangsbeleid**  om te bepalen welke bronnen worden beveiligd, en aan welke voorwaarden moet worden voldaan om toegang te krijgen tot de bronnen.  Een apparaat moet [bijvoorbeeld](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) voldoen voordat u zakelijke e-mail opent.
-- Zorg ervoor dat zowel **nalevingsbeleid**  als  **beleid voor voorwaardelijke toegang**  is bedoeld voor de gewenste groepen gebruikers. Daarom moet u mogelijk specifieke groepen gebruikers maken in azure Active Directory.
+- Maak een  **compliancebeleid** [(Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows)](https://docs.microsoft.com//intune/compliance-policy-create-windows)om instellingen te definiëren die moeten worden voldaan voordat het apparaat als compatibel wordt beschouwd. Een apparaat moet bijvoorbeeld een pincode met ten minste 6 cijfers hebben voordat het als compatibel wordt beschouwd.
+- Maak een **beleid voor voorwaardelijke**  toegang dat bepaalt welke resources worden beveiligd en aan welke voorwaarden moet worden voldaan voor toegang tot deze bronnen.  [Een apparaat moet bijvoorbeeld](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  compatibel zijn voordat u zakelijke e-mail kunt openen.
+- Zorg ervoor **dat zowel het nalevingsbeleid**  als het beleid  **voor**  voorwaardelijke toegang zijn gericht op de gewenste groepen gebruikers. Hiervoor moet u mogelijk specifieke groepen gebruikers maken in Azure Active Directory.
 
 **Handige koppelingen:**
 
-[Overzicht van apparaatcompatibiliteit](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Overzicht van apparaat compliance](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Oplossing van een certificeringsinstantie](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Problemen met CA oplossen](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Beleid voor probleemoplossing](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Beleid voor probleemoplossing](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Als u E-mail (Exchange Online) van Access wilt beschermen tegen niet-compatibele apparaten, moet u beide documenten volgen:
+Als u e-mail (Exchange Online) wilt beveiligen tegen toegang door niet-compatibele apparaten, moeten beide documenten worden gevolgd:
 
-1. [E-mail toegang beschermen tegen apparaten met EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [E-mail toegang beschermen tegen apparaten met moderne verificatie-clients, zoals Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [E-mailtoegang beveiligen tegen apparaten met EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [E-mailtoegang beveiligen tegen apparaten met moderne verificatie-clients zoals Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
