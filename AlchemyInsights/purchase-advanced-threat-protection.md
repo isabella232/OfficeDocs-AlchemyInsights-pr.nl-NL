@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602107"
+ms.locfileid: "50707841"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender kopen voor Office 365
 
-Microsoft Defender voor Office 365 is inbegrepen in bepaalde abonnementen, zoals Microsoft 365 E5, Office 365 E5, Office 365 A5 en Microsoft 365 Business Premium. Als Microsoft Defender voor Office 365 niet is vermeld in uw abonnement, kunt u Microsoft Defender voor [Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kopen als een invoegabonnement voor een bepaald abonnement. Aanschaffen in het Microsoft 365-beheercentrum:
+Microsoft Defender voor Office 365 is inbegrepen in bepaalde abonnementen, zoals Microsoft 365 E5, Office 365 E5, Office 365 A5 en Microsoft 365 Business Premium. Als Microsoft Defender voor Office 365 niet is vermeld in uw abonnement, kunt u Microsoft Defender voor [Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) kopen als een invoegabonnement voor een bepaald abonnement. Aanschaffen in het Microsoft 365-beheercentrum:
 
 1. Ga in het beheercentrum naar de **pagina Services voor facturering**  >  [aanschaffen.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Zoek onder aan de pagina Services  **aanschaffen** in de sectie Invoegtoepassingen de invoegtoepassingen van Microsoft Defender voor Office 365 en selecteer **Details.**

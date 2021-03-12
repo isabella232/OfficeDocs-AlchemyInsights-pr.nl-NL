@@ -1,8 +1,8 @@
 ---
-title: Beperking voor SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online - Beperken
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773842"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707553"
 ---
-# <a name="sharepoint-online-throttling"></a>Beperking voor SharePoint Online
+# <a name="sharepoint-online-throttling"></a>SharePoint Online beperken
 
-**Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
+SharePoint Online gebruikt beperking om optimale prestaties en betrouwbaarheid van de SharePoint Online-service te behouden. Dit beperkt het aantal gebruikersacties of gelijktijdige oproepen (via script of code) om overmatig gebruik van bronnen te voorkomen. 
 
-**de 503-Server is bezet**
+Zie Vertraging of blokkeer in [SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)voorkomen voor meer informatie over het beperken van beperkingen.
 
-Gebruikers kunnen een fout bij een 503-server ontvangen bij het navigeren naar SharePoint-of OneDrive-sites. 
+Als u denkt dat deze fout niet is gerelateerd aan beperken, kunt u controleren of er actief onderhoud plaatsvindt op uw tenant door naar het berichtencentrum [te navigeren.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Deze fout kan worden veroorzaakt door de beperking binnen de SharePoint-service. SharePoint Online gebruikt beperking om optimale prestaties en betrouwbaarheid van de SharePoint Online-service te behouden. Dit beperkt het aantal gebruikersacties of gelijktijdige oproepen (via script of code) om overmatig gebruik van bronnen te voorkomen. 
-
-Voor meer informatie over het beperken van beperking raadpleegt u [voorkomen dat u vertraagt of blokkeert in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
-
-Als u van mening bent dat deze fout niet is gerelateerd aan de beperking is, kunt u controleren of er actief onderhoud plaatsvindt op uw Tenant door te navigeren naar het [berichtencentrum](https://portal.office.com/adminportal/home#/MessageCenter).
-
- Zorg er ten slotte voor dat u naar de pagina [service status](https://portal.office.com/adminportal/home#/servicehealth) gaat om te controleren of er een of meer adviseurs zijn die zich mogelijk voordoen.
+ Ten slotte gaat u naar de [pagina Service status](https://portal.office.com/adminportal/home#/servicehealth) om te controleren op eventuele adviezen/incidenten die kunnen optreden.
 

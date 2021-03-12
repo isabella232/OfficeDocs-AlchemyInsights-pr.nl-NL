@@ -1,5 +1,5 @@
 ---
-title: 'OneDrive: ontbrekende bestanden of mappen'
+title: 'OneDrive: Ontbrekende bestanden of mappen'
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e0004c1389b25b8f84d9b32d981728e7bb3f45fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95ce018b618cd4eb48cb7293b753f2b6531dd4fd
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802592"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707913"
 ---
-# <a name="onedrive-missing-files-or-folders"></a>OneDrive: ontbrekende bestanden of mappen
+# <a name="onedrive-missing-files-or-folders"></a>OneDrive: Ontbrekende bestanden of mappen
 
-**Controleer de Prullenbak van de site**.
+**Controleer de Prullenbak van de site.**
 
-- [Items in de Prullenbak van een SharePoint-site terugzetten](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Items in de Prullenbak van een SharePoint-site terugzetten](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Verwijderde bestanden of mappen in OneDrive terugzetten](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-**Gebruik de functie herstellen van OneDrive-bestanden**. 
+**Gebruik de functie Bestanden herstellen in OneDrive.** 
 
-Als er veel van uw OneDrive-bestanden worden verwijderd, overschreven, beschadigd of besmet door malware, kunt u uw volledige OneDrive terugzetten naar een vorige keer met de functie [OneDrive-bestanden herstellen](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .
-
-
-**Gebruik controlelogboekregistratie of het deelvenster Bestandsactiviteit om de geschiedenis van het bestand te controleren**.
-
-Controleer de [controlerapporten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) door [hier](https://sip.protection.office.com/)te bladeren.
+Als veel van uw OneDrive-bestanden zijn verwijderd, overschreven, beschadigd of geïnfecteerd met malware, kunt u uw gehele OneDrive herstellen naar een eerder moment met de functie Bestanden herstellen van [OneDrive.](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
 
-Gebruik het [deelvenster Bestandsactiviteit](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) om de geschiedenis van het bestand te bekijken.
+**Gebruik auditlogboeken of het deelvenster Bestandsactiviteit om de geschiedenis van het bestand te controleren.**
+
+Controleer de [controlerapporten door](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) hier te [navigeren.](https://sip.protection.office.com/)
 
 
-**Controleer de OneDrive-synchronisatieclient op uw lokale computer**.
+Gebruik het [deelvenster Bestandsactiviteit om](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) de geschiedenis van het bestand te controleren.
 
-Als u de bestanden op uw computer synchroniseert met de OneDrive-Synchronisatieclient, controleert u de map lokale synchronisatie om ervoor te zorgen dat deze correct is geüpload. Zorg ervoor dat u ook de Prullenbak op uw lokale computer controleert.
+
+**Controleer de OneDrive-synchronisatieclient op uw lokale computer.**
+
+Als u de bestanden op uw computer synchroniseert met behulp van de OneDrive-synchronisatieclient, controleert u de lokale synchronisatiemap om te controleren of deze juist is geüpload. Controleer ook de Prullenbak op uw lokale computer.
 

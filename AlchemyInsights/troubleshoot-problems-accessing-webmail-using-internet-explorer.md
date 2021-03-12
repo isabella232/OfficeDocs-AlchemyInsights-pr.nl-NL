@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met het openen van webmail
+title: Problemen oplossen met de toegang tot webmail
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: cc6fd9d874bb1a02a98d6d6c4c9991f0b02f91fb
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721849"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708021"
 ---
 # <a name="troubleshoot-problems-with-accessing-webmail"></a>Problemen oplossen met het openen van webmail
 
-Onjuiste datum-en tijdinstellingen op uw PC kunnen leiden tot problemen bij het openen van web-e-mailservers. Ga als volgt te werk om ervoor te zorgen dat de datum-en tijdinstellingen op de juiste manier zijn ingesteld:
+Onjuiste datum- en tijdinstellingen op uw pc kunnen problemen veroorzaken bij het openen van web-e-mailservers. Ga als volgt te werk om ervoor te zorgen dat de datum- en tijdinstellingen juist zijn:
 
-1. Selecteer **Start**, typ **datum en tijd** en selecteer vervolgens **datum en tijd**.
-2. Voer een van de volgende handelingen uit in het venster **datum & tijd** :
+1. Selecteer **Begin,** typ **datum en tijd** en selecteer vervolgens Datum en **tijd.**
+2. Ga op **een van de & het** volgende te werk in het tijdvenster Datum en tijd:
 
-    - **Automatisch instellen van tijd** inschakelen en **tijdzone automatisch instellen**.
+    - Schakel tijd **automatisch instellen in en** **tijdzone automatisch instellen.**
 
-    - Behoud de automatische instellingen, maar selecteer de knop **wijzigen** , selecteer de **datum** -en **tijd** instellingen in het dialoogvenster **datum en tijd wijzigen** en selecteer vervolgens **wijzigen**.
+    - Schakel de automatische instellingen niet  in, maar  selecteer  de knop  Wijzigen, selecteer de datum- en tijdinstellingen in het dialoogvenster Datum en tijd wijzigen en selecteer vervolgens **Wijzigen.**
 
-Zie [problemen met het openen van webmail via Internet Explorer oplossen](https://go.microsoft.com/fwlink/?linkid=2139414)voor meer informatie.
+Zie Problemen oplossen bij het openen van [webmail via Internet Explorer voor meer informatie.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)
