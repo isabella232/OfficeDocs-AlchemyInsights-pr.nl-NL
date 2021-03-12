@@ -13,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 4c662b6a730e36f4787d4bf086cda5603e77fb7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed6f48c8a9efb53b193812e8e8b24c2a7e5044ec
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703249"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708381"
 ---
-# <a name="install-project-professional"></a><span data-ttu-id="8acda-102">Project Professional installeren</span><span class="sxs-lookup"><span data-stu-id="8acda-102">Install Project Professional</span></span>
+# <a name="install-project-professional"></a><span data-ttu-id="0836f-102">Project Professional installeren</span><span class="sxs-lookup"><span data-stu-id="0836f-102">Install Project Professional</span></span>
 
-<span data-ttu-id="8acda-103">Zie [Project installeren](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) voor informatie over hoe u de abonnementsversie van project online installeert en de niet-abonnementsversie van project 2019, 2016 of 2013.</span><span class="sxs-lookup"><span data-stu-id="8acda-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
+<span data-ttu-id="0836f-103">Zie [Project installeren](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) voor meer informatie over het installeren van de abonnementsversie van Project Online en de niet-abonnementsversie van Project 2019, 2016 of 2013.</span><span class="sxs-lookup"><span data-stu-id="0836f-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
 
-<span data-ttu-id="8acda-104">Voor project 2010 of 2007 voert u de stappen in [office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d)   of [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)uit.</span><span class="sxs-lookup"><span data-stu-id="8acda-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
+<span data-ttu-id="0836f-104">Voor Project 2010 of 2007 volgt u de stappen in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) of [Office 2007.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657)</span><span class="sxs-lookup"><span data-stu-id="0836f-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
 
-<span data-ttu-id="8acda-105">Project wordt als zelfstandige toepassing verkocht, dus als u dit nog niet hebt gedaan, kunt u [project kopen of proberen](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="8acda-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
+<span data-ttu-id="0836f-105">Project wordt als een standaardtoepassing verkocht, dus als u deze nog niet hebt, kunt u [Project kopen of uitproberen.](https://www.microsoft.com/evalcenter/evaluate-project)</span><span class="sxs-lookup"><span data-stu-id="0836f-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://www.microsoft.com/evalcenter/evaluate-project).</span></span> 
 
 
 
