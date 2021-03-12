@@ -1,5 +1,5 @@
 ---
-title: Toepassings toegang beheren
+title: Toepassingstoegang beheren
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7763"
-ms.openlocfilehash: 22b122fd6db1e77d334c41b05f4e6198878d705a
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: e2219c0a68a1f5ab560778410c8f86a3a87bc613
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014778"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708309"
 ---
-# <a name="manage-application-access"></a>Toepassings toegang beheren
+# <a name="manage-application-access"></a>Toepassingstoegang beheren
 
-1. Voor het beheren van de toegang tot toepassingen via Gebruikerstoewijzingen raadpleegt u [gebruikerstoewijzing voor een app beheren in azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).
-    - Als u een of meer gebruikers direct aan een toepassing wilt toewijzen, raadpleegt u [Snelstartgids: gebruikers toewijzen aan een app](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).
-1. Als u toegang wilt beheren via machtigingen en toestemming, raadpleegt u
-    - [Configureer de manier waarop eindgebruikers toestemming verlenen tot toepassingen](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal). 
-    - [De werkstroom voor het beheer van de beheerder configureren (preview)](https://docs.microsoft.com/zure/active-directory/manage-apps/configure-admin-consent-workflow). 
-    - Als u wilt weten hoe u de gebruikerservaring eenvoudiger kunt maken door een tenantbeheerder toestemming te geven voor een toepassing, raadpleegt u [beheerdersmachtigingen voor de hele Tenant verlenen aan een toepassing](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent). 
-1. Voor het beheren van de toegang tot toepassingen via Tenant beperkingen, raadpleegt u [Tenant beperkingen gebruiken voor het beheren van de toegang tot SaaS-Cloud toepassingen](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions). 
-1. Problemen met [toegangsbeheer](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center)voor Office 365 oplossen.
+1. Zie Gebruikerstoewijzingen beheren voor een app in Azure Active Directory als u de toegang tot toepassingen via gebruikerstoewijzingen [wilt beheren.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+    - Zie Snelstart als u een of meer gebruikers rechtstreeks aan een toepassing [wilt toewijzen: Gebruikers toewijzen aan een app.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+1. Als u de toegang wilt beheren via machtigingen en toestemming, gaat u naar
+    - [Configureren hoe eindgebruikers toestemming geven voor toepassingen.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal) 
+    - [Configureer de toestemmingswerkstroom voor beheerders (preview).](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) 
+    - Voor meer informatie over het vereenvoudigen van de gebruikerservaring door tenantbrede beheerders toestemming te verlenen voor een toepassing, zie Beheerdersmachtiging voor de hele tenant verlenen [voor een toepassing.](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) 
+1. Zie Tenantbeperkingen gebruiken voor het beheren van de toegang tot [SaaS-cloudtoepassingen](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions)voor het beheren van de toegang tot toepassingen via tenantbeperkingen. 
+1. Problemen met Office 365 Access - [Access Management oplossen.](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center)

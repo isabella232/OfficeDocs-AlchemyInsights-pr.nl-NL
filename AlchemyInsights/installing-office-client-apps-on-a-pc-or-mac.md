@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789634"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708345"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office-client-apps installeren op een pc of MAC
 
 Als u Office-client-apps wilt installeren, moet u een abonnement op Office 365 of Microsoft 365 [inclusief Office-client-apps](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) hebben, zoals Microsoft 365 Business Standard, Microsoft 365-apps voor bedrijven of Microsoft 365-apps voor ondernemingen.
 
-**Opmerking**: [Office voor Thuisgebruik en Zelfstandigen](https://products.office.com/home-and-business) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en maakt geen deel uit van een zakelijk abonnement. Project Online Essentials omvat geen bureaubladversie van Project. Er is dan ook geen installatie vereist. Gebruikers van Visio Abonnement 1 hebben toegang tot de webversie van Visio, omdat het abonnement geen Visio-bureaublad-app bevat. Project- en Visio-bureaublad-apps zijn niet beschikbaar voor de Mac.
+**Opmerking**: [Office voor Thuisgebruik en Zelfstandigen](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en maakt geen deel uit van een zakelijk abonnement. Project Online Essentials omvat geen bureaubladversie van Project. Er is dan ook geen installatie vereist. Gebruikers van Visio Abonnement 1 hebben toegang tot de webversie van Visio, omdat het abonnement geen Visio-bureaublad-app bevat. Project- en Visio-bureaublad-apps zijn niet beschikbaar voor de Mac.
 
-Als u een abonnement hebt dat Office-apps bevat, ziet u geen optie om deze te installeren, tenzij u een [toegewezen licentie](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) hebt. Als u de Office 365-beheerder bent die verantwoordelijk is voor het toewijzen van licenties, raadpleegt u [Licenties toewijzen aan gebruikers](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). U kunt ook [Office‎ software download settings](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) (downloadinstellingen voor Office-software) gebruiken om te bepalen of gebruikers Office-apps op hun eigen apparaten mogen installeren.
+Als je een abonnement hebt dat Microsoft 365-apps bevat, wordt er geen optie om deze te installeren weergegeven, tenzij je een [toegewezen licentie](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) hebt. Als u de Office 365-beheerder bent die verantwoordelijk is voor het toewijzen van licenties, raadpleegt u [Licenties toewijzen aan gebruikers](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). U kunt ook [Office‎ software download settings](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) (downloadinstellingen voor Office-software) gebruiken om te bepalen of gebruikers Office-apps op hun eigen apparaten mogen installeren.
 
-**Opmerking**: het [Office-activeringsrapport](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) geeft een overzicht van welke gebruikers hun Office-apps op minstens één apparaat hebben geïnstalleerd en geactiveerd.
+**Opmerking**: het [Office-activeringsrapport](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) geeft een overzicht van welke gebruikers hun Microsoft 365-apps op minstens één apparaat hebben geïnstalleerd en geactiveerd.
 
 Vervolgens moet elke gebruiker het volgende doen:
 
