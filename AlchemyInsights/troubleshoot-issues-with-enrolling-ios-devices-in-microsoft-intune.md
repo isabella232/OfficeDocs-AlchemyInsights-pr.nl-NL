@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met het registreren van iOS-apparaten in Microsoft intune
+title: Problemen oplossen met het registreren van iOS-apparaten in Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 7d3e0049258a77016250c8a657c8fbcaf8d65212
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4aef78e5921b789b532fecc99380da3274173bdb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669243"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708957"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Problemen oplossen met het registreren van iOS-apparaten in Microsoft intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Problemen oplossen met het registreren van iOS-apparaten in Microsoft Intune
 
-Bekijk de onderstaande bronnen om uw probleem nu op te lossen. 
+Bekijk de onderstaande bronnen om het probleem nu op te lossen. 
   
 Enkele veelvoorkomende foutberichten en oplossingsstappen:
   
-- **Apparaat kapje bereikt** De gebruiker heeft meer apparaten geregistreerd dan de limiet van het apparaat. Bekijk deze documenten om [een apparaat te verwijderen](https://docs.microsoft.com/intune/devices-wipe) of [de limiet voor apparaten te wijzigen](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Apparaatlimiet bereikt** De gebruiker heeft meer apparaten geregistreerd dan de apparaatlimiet. Lees deze documenten om [een apparaat te verwijderen of](https://docs.microsoft.com/intune/devices-wipe) de [apparaatlimiet te wijzigen.](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
     
-- **Deze service wordt niet ondersteund. Geen inschrijvingsbeleid:** de Apple Push Notification-Service (APNS) moet zijn geconfigureerd of vernieuwd. Bekijk [dit document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) voor meer informatie over hoe u dat kunt doen. 
+- **Deze Service wordt niet ondersteund. Geen registratiebeleid:** Apple Push Notification Service (APNS) moet worden geconfigureerd of vernieuwd. Bekijk [dit document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) voor instructies over hoe u dit kunt doen. 
     
-- **Ongeldig gebruikerslicentie type of gebruikersnaam wordt niet herkend:** De gebruiker moet een intune-of EMS-licentie toewijzen. Bekijk deze documenten om een licentie toe te wijzen via: [Office-Beheercentrum](https://docs.microsoft.com/intune/licenses-assign) of [Azure-Portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Gebruikerslicentietype Ongeldig of Gebruikersnaam niet herkend:** Aan de gebruiker moet een Intune- of EMS-licentie worden toegewezen. Bekijk deze documenten om een licentie toe te wijzen via: [Office-beheercentrum](https://docs.microsoft.com/intune/licenses-assign) of [Azure Portal.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
-Aanvullende informatiebronnen voor hulp bij het oplossen van het probleem:
+Aanvullende bronnen om het probleem op te lossen:
   
-1. Gebruik de portal voor het [oplossen van problemen](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) bij het opsporen en oplossen van veelvoorkomende problemen met de inschrijving. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie. 
+1. Gebruik [intune Troubleshooting Portal om](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) veelvoorkomende registratiefouten op te sporen en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie. 
     
-2. Bekijk deze documenten voor een lijst met veelvoorkomende fouten die kunnen worden ingeschreven en opgelost: voor het [oplossen van problemen](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) en het oplossen van [problemen met doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Bekijk deze documenten voor een lijst met veelvoorkomende fouten die registratie en oplossingen voor elk van deze fouten [verhinderen:](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) Handleiding voor probleemoplossing en [probleemoplossing van een document.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
     
-3. [Meer informatie over het registreren van Ios-apparaten in Microsoft intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Meer informatie over het registreren van iOS-apparaten in Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
     
 

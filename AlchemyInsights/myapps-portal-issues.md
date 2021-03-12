@@ -1,5 +1,5 @@
 ---
-title: Problemen met de mijn apps-Portal
+title: Problemen met MyApps-portal
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916848"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708561"
 ---
-# <a name="myapps-portal-issues"></a>Problemen met de mijn apps-Portal
+# <a name="myapps-portal-issues"></a>Problemen met MyApps-portal
 
-Voor het oplossen van problemen die zich voordoen wanneer u zich aanmeldt bij of met de portal mijn apps, raadpleegt u [problemen oplossen met de portal mijn apps](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
+Als u problemen wilt oplossen die u ondervindt bij het aanmelden bij of het gebruik van de portal Mijn apps, zie Problemen oplossen [met de portal Mijn apps.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Ik zie de toepassingen die ik verwacht niet in het venster van de toepassing toegang**
+**Ik zie de toepassingen die ik verwacht niet in het deelvenster toegang tot toepassingen**
 
-Zie voor meer informatie over waarom de toepassingen die u verwacht niet worden weergegeven in het deelvenster Application Access:
+Als u wilt weten waarom de toepassingen die u verwacht niet worden weergegeven in het deelvenster voor toepassingstoegang, gaat u naar:
 
-- [Ik weet niet waarom een toepassing die ik heb toegewezen, niet in het Access-venster wordt weergegeven](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Ik weet niet waarom een toegewezen toepassing niet wordt weergegeven in het toegangsvenster](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Ik weet niet waarom een toepassing wordt weergegeven in het Access-venster](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Ik weet niet waarom een toepassing wordt weergegeven in het toegangsvenster](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Ik ondervind problemen bij het aanmelden bij het venster van de toepassing toegang**
+**Ik heb problemen met aanmelden bij het deelvenster toegang tot de toepassing**
 
-Zie de volgende onderwerpen voor informatie over het oplossen van problemen met het aanmelden bij het toepassings toegangsvenster:
+Zie de volgende onderwerpen om problemen met betrekking tot het aanmelden bij het deelvenster toegang tot toepassingen op te lossen:
 
-[Ik kan me niet aanmelden op de website van het Access-venster](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Ik kan me niet aanmelden bij de website van het toegangsvenster](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Ik ondervind problemen bij het gebruik van de browser extensie van het toepassings toegangsvenster**
+**Ik heb problemen met het gebruik van de browseruitbreiding van het toegangsvenster voor toepassingen**
 
-Zie de volgende onderwerpen voor informatie over het oplossen van problemen met het gebruik van de browser extensie van het toepassingsvenster.
+Zie de volgende onderwerpen om problemen met betrekking tot het gebruik van de browseruitbreiding van het deelvenster Voor toepassingen op te lossen:
 
-[Ik zag een foutbericht bij het installeren van de browser extensie van het toepassingsvenster](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Ik zie een foutmelding bij het installeren van de browseruitbreiding van het deelvenster Toepassingstoegang](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Ik ondervind problemen met een functie in het toegangsvenster voor toepassingen**
+**Ik heb problemen met een functie in het deelvenster toegang tot de toepassing**
 
-Zie de volgende onderwerpen voor informatie over het oplossen van problemen met een specifieke functie in het toegangsvenster van de toepassing:
+Zie de volgende onderwerpen voor het oplossen van problemen met betrekking tot een specifieke functie in het deelvenster Toegang tot toepassingen:
 
-- [Ik weet niet hoe ik de toegang tot selfservice toepassing moet gebruiken](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Ik weet niet hoe ik toegang tot selfservice-toepassingen moet gebruiken](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Er is een probleem opgetreden bij het gebruiken van de toegang tot selfservice toepassingen](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Ik heb een probleem ondervonden bij het gebruik van selfservice-toepassingstoegang](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Als u problemen hebt met de implementatie of het gebruik van de portal mijn apps**
+**Als u problemen hebt met het implementeren of gebruiken van de portal Mijn apps**
 
-Zie de volgende onderwerpen voor informatie over het oplossen van problemen die zich voordoen bij de implementatie of het gebruik van de mijn apps-portal:
+Als u problemen wilt oplossen die u ervaart bij het implementeren of gebruiken van de MyApps-portal, gaat u naar:
 
-- [Verzamelingen maken in de portal mijn apps](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Verzamelingen maken in de portal Mijn apps](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [De toewijzing van selfservice apps configureren](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Selfservice-app-toewijzing configureren](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Problemen met eindgebruikers in de portal mijn apps oplossen](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Problemen met eindgebruikers in de portal Mijn apps oplossen](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

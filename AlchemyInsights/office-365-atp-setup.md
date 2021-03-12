@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801068"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708633"
 ---
 # <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender voor Office 365 (ATP)
 
-Office 365 ATP bevat [veilige bijlagen](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [veilige koppelingen](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Advanced anti phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)en meer. 
+Office 365 ATP bevat veilige [bijlagen,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) [veilige koppelingen,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [geavanceerde anti-phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)en meer. 
 
-ATP is inbegrepen in abonnementen, zoals Office 365 Enterprise E5, Office 365 education A5 en Microsoft 365 Business Premium. Als uw abonnement geen ATP bevat, kunt u ATP kopen als een invoegtoepassing. Zie de [Beschrijving van Office 365 ATP service](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)voor meer informatie.
+ATP is opgenomen in abonnementen, zoals Office 365 Enterprise E5, Office 365 Education A5 en Microsoft 365 Business Premium. Als ATP niet is vermeld in uw abonnement, kunt u ATP als een invoegabonnement aanschaffen. Zie de servicebeschrijving van [Office 365 ATP voor meer informatie.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
 ## <a name="set-up-office-365-atp"></a>Office 365 ATP instellen
 
-Als u wilt dat de ATP-beveiliging van kracht is, moet u beleidsregels configureren. Zie de [handleiding aan de slag: Microsoft Defender for Office 365 instellen](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+U moet beleid configureren om ATP-beveiliging van kracht te laten zijn. Zie [Aan de slag: Microsoft Defender voor Office 365 instellen.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 

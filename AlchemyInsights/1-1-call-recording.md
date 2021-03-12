@@ -1,5 +1,5 @@
 ---
-title: 1:1-oproep opname
+title: 1:1-oproep opnemen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721833"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733844"
 ---
-# <a name="11-call-recording"></a>1:1-oproep opname
+# <a name="11-call-recording"></a>1:1-oproep opnemen
 
-1:1 oproep over opname beleid van teams is binnenkort beschikbaar. Zie het volgende bericht centrum voor meer informatie:
+Beheerders moeten nu actie ondernemen om ervoor te zorgen dat gebruikers 1:1-gesprekken kunnen opnemen.
+ 
+Vanaf 12 april 2021 wordt een nieuwe optie voor het oproepbeleid van Teams *AllowCloudRecordingForCalls afdwingen.* 
 
-[Inleiding tot de 1:1 oproep opname beleid](https://admin.microsoft.com/AdminPortal/Home)
+De mogelijkheden voor het opnemen van gesprekken met één op één worden momenteel bepaald door de *optie AllowCloudRecording* in Vergaderbeleid voor Teams. Als uw gebruikers toestemming hebben om Teams-vergaderingen op te nemen, kunnen ze ook een-op-een-gesprekken opnemen.
+
+Als u liever niet wilt dat alle gebruikers een-op-een-gesprekken kunnen opnemen, hoeft u niets te doen. *De beleidsoptie AllowCloudRecordingForCalls* wordt $False standaard uitgeschakeld.
+
+Deze wijziging wordt beschreven in het volgende bericht in het berichtencentrum: [(Bijgewerkt) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Introductie tot oproepopnamebeleid Om de optie Oproepbeleid voor Teams in te stellen, moet u [Teams PowerShell gebruiken.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+
+**Oproepopname inschakelen in een-op-een-gesprekken:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+**Oproepopname uitschakelen in een-op-een-gesprekken:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+

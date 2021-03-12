@@ -1,5 +1,5 @@
 ---
-title: Wordt u herhaaldelijk gevraagd om een wachtwoord in Outlook voor Mac te vinden?
+title: Wordt u herhaaldelijk gevraagd om een wachtwoord in Outlook voor Mac?
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: c70d9b41d8905f668c8c413f298f61588ca8b9e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb63e5035daa960de33b2b16e481226399245cf
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783006"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708741"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Wordt u herhaaldelijk gevraagd om een wachtwoord in Outlook voor Mac te vinden?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Wordt u herhaaldelijk gevraagd om een wachtwoord in Outlook voor Mac?
 
-We kunnen u helpen rechtstreeks vanuit de toepassing extra gespecialiseerde Help voor Outlook voor Mac te bieden.
+We kunnen u rechtstreeks vanuit de toepassing helpen om specifiekere help voor Outlook voor Mac te bieden.
   
-Ga naar de Mac van de getroffen gebruiker, Open Outlook en **Klik op** \> **contact opnemen met ondersteuning**.
+Ga naar de Mac van de getroffen gebruiker, open Outlook en klik op **Help** contact opnemen \> **met ondersteuning.**
   
-Zie het volgende artikel voor meer informatie over klantenondersteuning voor Outlook voor Mac in de app: [nieuwe functie voor contact opnemen met ondersteuning in Outlook 2016 voor Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Zie het volgende artikel voor meer informatie over klantondersteuning voor Outlook voor Mac in de app: Nieuwe functie Contact opnemen met ondersteuning [in Outlook 2016 voor Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 

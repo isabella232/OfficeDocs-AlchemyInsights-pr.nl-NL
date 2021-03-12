@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met Apple MDM push Certificate in Microsoft intune
+title: Problemen met het Apple MDM-pushcertificaat in Microsoft Intune oplossen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: f27b515ea460b55afb653b789682591f09bc2906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efb67cb3609266b40c564569941c1598637b5898
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690129"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709029"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Problemen oplossen met Apple MDM push Certificate in Microsoft intune
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Problemen met het Apple MDM-pushcertificaat in Microsoft Intune oplossen
 
-Bekijk de onderstaande bronnen om uw probleem nu op te lossen.
+Bekijk de onderstaande bronnen om het probleem nu op te lossen.
   
-1. Bekijk [dit document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) voor het configureren of verlengen van Apple MDM push Certificate.
+1. Bekijk [dit document om](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) het Apple MDM-pushcertificaat te configureren of te verlengen.
 
-2. Gebruik de portal voor het [oplossen van problemen](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) bij het opsporen en oplossen van veelvoorkomende problemen met de inschrijving. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
+2. Gebruik [intune Troubleshooting Portal om](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) veelvoorkomende registratiefouten op te sporen en op te lossen. Bekijk [dit document](https://docs.microsoft.com/intune/help-desk-operators) voor meer informatie.
 
-3. Bekijk deze documenten voor een lijst met veelvoorkomende fouten die kunnen worden ingeschreven en opgelost: voor het [oplossen van problemen](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) en het oplossen van [problemen met doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+3. Bekijk deze documenten voor een lijst met veelvoorkomende fouten die registratie en oplossingen voor elk van deze fouten [verhinderen:](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) Handleiding voor probleemoplossing en [probleemoplossing van een document.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
