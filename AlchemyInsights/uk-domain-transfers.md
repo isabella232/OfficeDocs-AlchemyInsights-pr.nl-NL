@@ -1,5 +1,5 @@
 ---
-title: . VK-domein overdrachten
+title: .uk-domeinoverdrachten
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598644"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896646"
 ---
-# <a name="uk-domain-transfers"></a>. VK-domein overdrachten
+# <a name="uk-domain-transfers"></a>.uk-domeinoverdrachten
 
-Neem contact op met Microsoft ondersteuning en vraag een IP-adres van een **IPS-wijziging** aan de bewaarder van uw domein dat u wilt beheren. Wanneer het label is gewijzigd, wordt het domein direct overgebracht naar de nieuwe bewaarder. U moet vervolgens met de nieuwe bewaarder samenwerken om de overdracht te voltooien, waarschijnlijk kosten in rekening te brengen en het overgedragen domein toe te voegen aan uw account met uw nieuwe bewaarder.
+Neem contact op met Microsoft Support en vraag een **IPS-tagwijziging** aan die past bij de registrar die u in de toekomst uw domein wilt beheren. Nadat de tag is gewijzigd, wordt het domein onmiddellijk overboekt naar de nieuwe registrar. Vervolgens moet u samenwerken met de nieuwe registrar om de overdracht te voltooien, waarschijnlijk om overdrachtskosten te betalen en het overgedragen domein toe te voegen aan uw account met uw nieuwe registrar.
 
-Zie voor meer informatie over domein overdrachten [een domein van Microsoft overbrengen naar een andere host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Zie Een domein van Microsoft overbrengen naar een andere host voor meer informatie over [domeinoverdrachten.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+
+Wees bereid om de IPS-tag van de nieuwe registrar op te geven, die te vinden is op https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .

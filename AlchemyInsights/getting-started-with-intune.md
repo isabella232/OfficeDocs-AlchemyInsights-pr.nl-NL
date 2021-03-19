@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706338"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897078"
 ---
 # <a name="getting-started-with-intune"></a>Aan de slag met Intune
 
-Voor een korte rondleiding door intune en de beheerconsole raadpleegt u het [overzicht van intune in de Azure-Portal](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Voor een snelle rondleiding door Intune en de beheerconsole, bekijkt u [Walkthrough of Intune in de Azure Portal.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Als u intune wilt uitchecken of een proefversie wilt instellen, controleert u het [volgende: Microsoft intune gratis proberen](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Als u Intune wilt uitproberen of een proefabonnement wilt instellen, bekijkt u [Quickstart: Probeer Microsoft Intune gratis.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Als u de functie al hebt afstellen en deze wilt gebruiken, kunt u de overzichts handleiding voor [intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) bekijken. 
+Als u klaar bent om Intune te gaan gebruiken, bekijkt u [Intune instellen.](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps) Raadpleeg de intune-installatiehandleiding voor een [begeleide installatie.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)
