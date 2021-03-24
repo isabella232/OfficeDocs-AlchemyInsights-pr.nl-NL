@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-Apps implementeren en bijwerken met Configuration Manager-adviseur
+title: Microsoft 365-apps implementeren en bijwerken met configuration manager-adviseur
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fe3cc8693e41639de590450fc4b678c44bd9e784
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677368"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122874"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="488eb-102">Microsoft 365-Apps implementeren en bijwerken met Configuration Manager-adviseur</span><span class="sxs-lookup"><span data-stu-id="488eb-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="96337-102">Microsoft 365-apps implementeren en bijwerken met configuration manager-adviseur</span><span class="sxs-lookup"><span data-stu-id="96337-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
 
-<span data-ttu-id="488eb-103">Voor organisaties die gebruikmaken van Configuration Manager, kunt u [Microsoft 365-Apps implementeren en bijwerken met behulp van Configuration Manager-adviseur](https://admin.microsoft.com/adminportal/home#/oppinstall) voor het genereren van een script waarmee u automatisch uw implementatie van microsoft 365-apps kunt configureren met behulp van aanbevolen procedures.</span><span class="sxs-lookup"><span data-stu-id="488eb-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://admin.microsoft.com/adminportal/home#/oppinstall) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
+<span data-ttu-id="96337-103">Voor organisaties die Configuration Manager gebruiken, kunt u microsoft [365-apps](https://go.microsoft.com/fwlink/?linkid=2146549) implementeren en bijwerken met de adviseur configuratiebeheer om een script te genereren dat automatisch uw implementatie van Microsoft 365 Apps configureert met aanbevolen procedures voor FastTrack-technici.</span><span class="sxs-lookup"><span data-stu-id="96337-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://go.microsoft.com/fwlink/?linkid=2146549) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
 
-<span data-ttu-id="488eb-104">Gebruik deze handleiding om uw implementatie groepen samen te stellen, uw Office-apps en-functies aan te passen, dynamische of Lean-installaties te configureren en vervolgens het script uit te voeren om de toepassingen, automatische implementatie regels en verzamelingen te maken waarop u de implementatie moet richten.</span><span class="sxs-lookup"><span data-stu-id="488eb-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
+<span data-ttu-id="96337-104">Gebruik deze handleiding om uw implementatiegroepen te maken, uw Office-apps en -functies aan te passen, dynamische of lean-installaties te configureren en vervolgens het script uit te voeren om de toepassingen, regels voor automatische implementatie en apparaatverzamelingen te maken die u nodig hebt om uw implementatie te richten.</span><span class="sxs-lookup"><span data-stu-id="96337-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
