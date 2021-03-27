@@ -2,7 +2,7 @@
 title: Office installeren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,19 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707733"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200632"
 ---
 # <a name="how-to-install-office"></a>Office installeren
 
-Als u de Office-clientapps wilt installeren, hebt u een zakelijk abonnement nodig, zoals Microsoft 365 Business Premium Standard, Microsoft 365-apps voor ondernemingen of Office 365 Education.
+Als u de Office-clientapps wilt installeren, hebt u een zakelijk abonnement nodig, zoals Microsoft 365 Business Standard, Microsoft 365-apps voor bedrijven of Office 365 voor onderwijs.
   
-*Opmerking: [Office voor Thuisgebruik en Zelfstandigen](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) is een [Office-product voor thuisgebruik](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) en geen onderdeel van een zakelijk abonnement. Zie [Visio installeren](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) of [Project installeren](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281) voor specifieke instructies voor Visio of Project*.
+> [!NOTE]
+> [Opmerking: Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) is een [Office-product voor thuisgebruik](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) en maakt geen deel uit van een zakelijk abonnement. Zie voor specifieke instructies voor het installeren van Visio of Project [Visio installeren](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) of [Project installeren](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Maak de gebruikersaccounts en voeg uw domein toe. Zorg ervoor dat de gebruiker een [toegewezen licentie](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) heeft.
 

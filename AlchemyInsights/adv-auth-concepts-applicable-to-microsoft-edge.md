@@ -1,5 +1,5 @@
 ---
-title: Basisprincipes van geavanceerde verificatie voor Microsoft Edge
+title: Geavanceerde verificatieconcepten die van toepassing zijn op Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573393"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398552"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Basisprincipes van geavanceerde verificatie voor Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Geavanceerde verificatieconcepten die van toepassing zijn op Microsoft Edge
 
-Hieronder vindt u de geavanceerde verificatie basis die van toepassing is op Microsoft Edge:
+Hieronder volgen de geavanceerde verificatieconcepten die van toepassing zijn op Microsoft Edge:
 
-**Proactief verificatie**
+**Proactieve verificatie**
 
-Wanneer u het [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) -beleid inschakelt, probeert Microsoft Edge aangemelde gebruikers niet te verifiëren via Microsoft-services. Met regelmatige tussenpozen wordt een online service gebruikt om te controleren op een bijgewerkt manifest met de configuratie voor de proactieve verificatie.
+Wanneer u het [ProactiveAuthEnabled-beleid](https://go.microsoft.com/fwlink/?linkid=2134621) inschakelen, probeert Microsoft Edge aangemelde gebruikers proactief te verifiëren via Microsoft-services. Met regelmatige tussenpozen wordt een onlineservice gebruikt om te controleren op een bijgewerkt manifest met de configuratie voor Proactieve verificatie.
 
-Voordelen: proactieve verificatie schakelt verificatie in voor de belangrijkste services, zoals het nieuwe tabblad Office. Als Bing ook als zoekprogramma wordt gebruikt, kunt u met proactieve verificatie de prestaties van de adresbalk verbeteren en zoekresultaten met de behoeften van uw bedrijf personaliseren.
+Voordelen: Met proactieve verificatie kan verificatie worden gebruikt voor belangrijke services, zoals de nieuwe tabbladpagina van Office. Als Bing wordt gebruikt als de zoekmachine, verbetert Proactieve verificatie ook de prestaties van de adresbalk en helpt u zoekresultaten te genereren die zijn afgestemd op de behoeften van uw bedrijf.
 
-**Windows Hallo CredUI voor NTLM-authenticatie**
+**Windows Hello CredUI voor NTLM-verificatie**
 
-Als eenmalige aanmelding (SSO) niet beschikbaar is wanneer een website probeert zich aan te melden bij de gebruiker via het NTLM-of Negotiate-mechanisme, kan de gebruiker de OS-referenties met de website delen en voldoen aan de gebruikersinterface van de Windows hello-referenties. Deze aanmeldings stroom wordt alleen weergegeven in Windows 10 en alleen voor gebruikers die geen EENMALIGe aanmelding krijgen tijdens een NTLM of een Negotiate-uitdaging.
+Als eenmalige aanmelding (SSO) niet beschikbaar is wanneer een website de gebruiker probeert aan te melden via het mechanisme NTLM of Onderhandelen, kan de gebruiker met deze functie de referenties van het besturingssysteem delen met de website en de verificatie-uitdaging aangaan met behulp van de Windows Hello Cred-gebruikersinterface. Deze aanmeldingsstroom wordt alleen weergegeven in Windows 10 en alleen voor gebruikers die geen SSO krijgen tijdens een NTLM- of een onderhandelingen-uitdaging.
 
-**Automatisch aanmelden met opgeslagen wachtwoorden**
+**Opgeslagen wachtwoorden gebruiken om u automatisch aan te melden**
 
-Gebruikers die het wachtwoord opslaan in Microsoft Edge kunnen automatisch aanmelden bij websites waarop ze hun referenties hebben opgeslagen. Gebruikers kunnen deze functie in-of uitschakelen in edge://settings/passwords en u kunt deze configureren in het [Wachtwoordbeheer](https://go.microsoft.com/fwlink/?linkid=2134622) beleid.
+Gebruikers die wachtwoorden opslaan in Microsoft Edge kunnen automatische aanmelding inschakelen bij websites waar ze referenties hebben opgeslagen. Gebruikers kunnen deze functie in- of uitschakelen in edge://settings/passwords en u kunt deze configureren in het [beleid voor wachtwoordbeheer.](https://go.microsoft.com/fwlink/?linkid=2134622)

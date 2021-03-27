@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677247"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398652"
 ---
 # <a name="sign-in-to-microsoft-edge-manually"></a>Handmatig aanmelden bij Microsoft Edge
 
-Als een gebruiker zich niet automatisch bij de eerste keer aanmeldt, kan de gebruiker zich handmatig aanmelden via de instellingen van de browser of via de flyout van de identiteit. Voor het beheren van de aanmelding gebruikt u het volgende beleid:
+Als een gebruiker niet automatisch is aangemeld tijdens een eerste gebruikservaring, kan de gebruiker zich handmatig aanmelden via de instellingen van de browser of de flyout voor identiteiten. Als u aanmelding wilt beheren, gebruikt u het volgende beleid:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) : om ervoor te zorgen dat een gebruiker altijd een werkprofiel heeft in Microsoft Edge.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) : het aanmelden bij een set vertrouwde accounts beperken.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) : u kunt zich aanmelden of gebruikers dwingen om u aan te melden.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - Om ervoor te zorgen dat een gebruiker altijd een werkprofiel heeft in Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - Om aanmelding te beperken tot een set vertrouwde accounts.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) : aanmelding uitschakelen of gebruikers dwingen zich aan te melden.
 
