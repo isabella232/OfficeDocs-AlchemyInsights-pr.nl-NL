@@ -3,7 +3,7 @@ title: Microsoft Secure Score
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: c8fe2efbc8832b02004bcd01eb289d54a42d78f8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481714"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403234"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
-U kunt uw omgeving veiliger maken met Behulp van Microsoft Secure Score. U kunt het zien als een kredietscore voor beveiliging. Hier ziet u de acties die u kunt ondernemen om de beveiliging van uw organisatie te verbeteren.
+U kunt uw omgeving veiliger maken met Behulp van Microsoft Secure Score. Zie het als een kredietscore voor beveiliging. U ziet welke acties u kunt ondernemen om de beveiliging van uw organisatie te verbeteren.
 
-1. Ga naar het [Office 365-& compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Ga naar het [Office 365-beveiligings- & Compliancecentrum](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Selecteer de Microsoft Secure Score-kaart of ga naar [Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2099589)
     > [!TIP]
-    >  Selecteer op de pagina Microsoft Secure Score Overview acties voor het verbeteren van aanbevelingen voor het beveiligen van uw organisatie. U kunt Filteren of Groeperen op selecteren in de tabel om snel acties te identificeren die mogelijk beter zijn als u ze op volgorde voltooit.
+    >  Selecteer op de pagina Microsoft Secure Score Overview de optie Verbeteracties voor aanbevelingen voor het beveiligen van uw organisatie. U kunt Filteren of Groeperen op selecteren in de tabel om snel acties te identificeren die mogelijk beter zijn als u ze in de juiste volgorde voltooit.
 1. Selecteer een verbeteringsactie in de lijst. Er wordt een flyout weergegeven met een korte beschrijving van de actie.
-1. Klik **op Weergave-instellingen** en volg de richtlijnen in de **volgende stappen.**
+1. Klik **op Weergave-instellingen** en volg de richtlijnen die worden gegeven in de **volgende stappen.**
     > [!NOTE]
-    > U krijgt punten voor het configureren van aanbevolen beveiligingsfuncties, maar houd er rekening mee dat sommige acties het label **[Niet scored] hebben.** Dit betekent dat zelfs als u deze verbeteringsactie implementeert, u geen punten krijgt voor uw score. Anders kan *het tot 24 uur* duren voordat uw score is bijgewerkt.
+    > U krijgt punten voor het configureren van aanbevolen beveiligingsfuncties, maar houd er rekening mee dat sommige acties het label **[Niet gescored] hebben.** Dit betekent dat zelfs als u die verbeteringsactie implementeert, u geen punten voor uw score krijgt. Anders kan *het tot 24* uur duren voordat uw score is bijgewerkt.
 
 Zie Microsoft Secure Score voor meer informatie [over Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2103077)

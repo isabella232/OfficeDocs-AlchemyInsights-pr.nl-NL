@@ -1,5 +1,5 @@
 ---
-title: Werkstroom wordt niet gestart
+title: Werkstroom start niet
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,39 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794762"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403738"
 ---
-# <a name="workflow-is-not-starting"></a>Werkstroom wordt niet gestart
+# <a name="workflow-is-not-starting"></a>Werkstroom start niet
 
-- Werkstromen van SharePoint 2010 en SharePoint 2013 worden niet gestart.
+- SharePoint 2010- en SharePoint 2013-werkstromen beginnen niet.
 
-    - Als de werkstroom niet kan worden gestart, is er mogelijk een tijdelijk serviceprobleem waarbij gebruikers de werkstroom af en toe kunnen zien. Controleer het [Dashboard service status](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of uw organisatie van invloed is.
+    - Als uw werkstroom niet wordt begonnen, is er mogelijk een tijdelijk serviceprobleem waarbij gebruikers mogelijk met af en toe vertragingen met de voortgang van de werkstroom te maken kunnen krijgen. Controleer het [dashboard Service health om](https://admin.microsoft.com/AdminPortal/Home/servicehealth) te zien of uw organisatie wordt beïnvloed.
 
-    - Als het probleem zich nog steeds voordoet, kunt u een ondersteuningsticket registreren als u meer dan 24 uur hebt verstreken sinds u het eerst hebt gezien. In veel gevallen werken we al met een oplossing. Geef ons minstens 24 uur om een oplossing te voltooien.
+    - Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst hebt gezien, moet u een ondersteuningsticket aanmelden. In veel gevallen werken we al aan een oplossing. Geef ons ten minste 24 uur om een oplossing te voltooien.
 
-- SharePoint 2010-werkstromen vertraagd bij start.
+- SharePoint 2010-werkstromen zijn vertraagd bij de start.
 
-    - Dit gebeurt als de werkstroom wordt geactiveerd in grote batches. (bijvoorbeeld wanneer meerdere items tegelijk worden toegevoegd).
+    - Dit gebeurt als de werkstroom wordt geactiveerd in grote batches. (bijvoorbeeld wanneer er meerdere items tegelijk worden toegevoegd).
 
-    - Werkstromen zijn niet ontworpen voor het uitvoeren van realtime en daarom is een vertraging inherent aan het ontwerp gedrag.
+    - Werkstromen zijn niet ontworpen om realtime uit te voeren, dus een vertraging is ontwerpgedrag.
 
-   -  Als de werkstroom complexe Extensible object Markup Language (XMOL) is, kan de compilatie traag worden. Raadpleeg [Dit](https://support.microsoft.com//kb/3043697) artikel.
+   -  Als de werkstroom complex is Extensible Object Markup Language (XMOL), kan de compilatie traag zijn. Controleer [dit](https://support.microsoft.com//kb/3043697) artikel.
 
-    - U dient de werkstroom te vereenvoudigen of opnieuw te ontwerpen met het type Microsoft SharePoint 2013-werkstroom platform.
+    - U moet de werkstroom vereenvoudigen of deze opnieuw ontwerpen met behulp van het type Microsoft SharePoint 2013-werkstroomplatform.
 
-    - Als uw werkstroomgeschiedenis groot is geworden, kunt u de items verwijderen of een nieuwe geschiedenislijst maken.
+    - Als de werkstroomgeschiedenis groot is geworden, kunt u de items verwijderen of een nieuwe geschiedenislijst maken.
 
-        Meer informatie: [werkstroomgeschiedenis wissen](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Meer informatie: [Werkstroomgeschiedenis verwijderen](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Verwante onderwerpen
-Wilt u Microsoft flow uitproberen in SharePoint Online?
+Wilt u Microsoft Flow proberen in SharePoint Online?
 - [Stroom maken](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint en flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-
+- [SharePoint en Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

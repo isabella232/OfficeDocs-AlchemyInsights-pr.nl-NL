@@ -3,7 +3,7 @@ title: Een waarschuwing controleren of erop reageren
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5ea8434eb7fca9b11ffec1cc563c8e194e1443ba
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 986907debe21cee760485148eb971abf80041899
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481499"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403054"
 ---
 # <a name="review-or-act-on-an-alert"></a>Een waarschuwing controleren of erop reageren
 
 Ga als volgt te werk:
 
-1. Ga naar het [& compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Klik **op**  >  **[Waarschuwingenweergave waarschuwingen.](https://go.microsoft.com/fwlink/?linkid=2103301)**
-1. Klik op een waarschuwing. Bekijk in het detailvenster wat de waarschuwing heeft geactiveerd.
-1. Klik op de verstrekte koppeling in de buurt van de details als u actie wilt ondernemen voor de waarschuwing.
-1. Klik **op** Oplossen als u de waarschuwing wilt sluiten.
+1. Ga naar het [beveiligings- & compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Klik **op Waarschuwingen** weergeven  >  **[waarschuwingen](https://go.microsoft.com/fwlink/?linkid=2103301)**.
+1. Klik op een waarschuwing. Bekijk in het detailvenster wat de waarschuwing heeft veroorzaakt.
+1. Klik op de meegeleverde koppeling in de buurt van de details als u actie wilt ondernemen voor de waarschuwing.
+1. Klik **op Oplossen**, als u de waarschuwing wilt sluiten.
 
-Zie Het beleid voor waarschuwingen in het beveiligings- en compliancecentrum voor meer informatie over het beheren [van waarschuwingen.](https://go.microsoft.com/fwlink/?linkid=2103211)
+Zie Waarschuwingsbeleid in het [beveiligings- en compliancecentrum](https://go.microsoft.com/fwlink/?linkid=2103211)voor meer informatie over het beheren van waarschuwingen.
 
