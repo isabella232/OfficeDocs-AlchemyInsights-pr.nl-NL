@@ -1,9 +1,9 @@
 ---
-title: Doorgestuurde adressen uit het postvak verwijderen
+title: Doorsturende adressen in het postvak verwijderen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3b44ae0a981ad851ea368b3aff194ec061ae6648
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 52c205714bcb82cb50d22211ecb0b77c22569a9d
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481506"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403162"
 ---
-# <a name="remove-forwarding-addresses-on-the-mailbox"></a><span data-ttu-id="4fce1-102">Doorgestuurde adressen uit het postvak verwijderen</span><span class="sxs-lookup"><span data-stu-id="4fce1-102">Remove forwarding addresses on the mailbox</span></span>
+# <a name="remove-forwarding-addresses-on-the-mailbox"></a><span data-ttu-id="f83fb-102">Doorsturende adressen in het postvak verwijderen</span><span class="sxs-lookup"><span data-stu-id="f83fb-102">Remove forwarding addresses on the mailbox</span></span>
 
-<span data-ttu-id="4fce1-103">Soms sturen hackers e-mailberichten van gebruikers door naar zichzelf door een doorsturend adres aan het postvak toe te voegen.</span><span class="sxs-lookup"><span data-stu-id="4fce1-103">Sometimes hackers forward users' email messages to themselves by adding a forwarding address to the mailbox.</span></span> <span data-ttu-id="4fce1-104">U kunt als volgende controleren op doorgestuurde adressen en deze verwijderen:</span><span class="sxs-lookup"><span data-stu-id="4fce1-104">Here's how to check for forwarding addresses and remove them:</span></span>
+<span data-ttu-id="f83fb-103">Soms sturen hackers e-mailberichten van gebruikers naar zichzelf door een doorsturend adres toe te voegen aan het postvak.</span><span class="sxs-lookup"><span data-stu-id="f83fb-103">Sometimes hackers forward users' email messages to themselves by adding a forwarding address to the mailbox.</span></span> <span data-ttu-id="f83fb-104">U kunt als volgende controleren of u adressen doorsturen en verwijderen:</span><span class="sxs-lookup"><span data-stu-id="f83fb-104">Here's how to check for forwarding addresses and remove them:</span></span>
 
-1. <span data-ttu-id="4fce1-105">Gebruikers **selecteren**  >  **[die actief zijn.](https://go.microsoft.com/fwlink/p/?linkid=834822)**</span><span class="sxs-lookup"><span data-stu-id="4fce1-105">Select **Users** > **[Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)**.</span></span>
-1. <span data-ttu-id="4fce1-106">Selecteer de gebruiker van wie het account is gehackt.</span><span class="sxs-lookup"><span data-stu-id="4fce1-106">Select the user whose account has been compromised.</span></span> <span data-ttu-id="4fce1-107">Vouw in de flyout die wordt weergegeven **e-mailinstellingen** uit en klik **op Bewerken** voor **e-mail doorsturen.**</span><span class="sxs-lookup"><span data-stu-id="4fce1-107">In the flyout that appears, expand **Mail Settings** and click **Edit** for **Email forwarding**.</span></span>
-1. <span data-ttu-id="4fce1-108">Verwijder eventuele doorsturende adressen.</span><span class="sxs-lookup"><span data-stu-id="4fce1-108">Remove any forwarding addresses.</span></span>
+1. <span data-ttu-id="f83fb-105">Selecteer **Gebruikers**  >  **[Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822)**.</span><span class="sxs-lookup"><span data-stu-id="f83fb-105">Select **Users** > **[Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)**.</span></span>
+1. <span data-ttu-id="f83fb-106">Selecteer de gebruiker van wie het account is gehackt.</span><span class="sxs-lookup"><span data-stu-id="f83fb-106">Select the user whose account has been compromised.</span></span> <span data-ttu-id="f83fb-107">Vouw in het flyout dat wordt weergegeven **E-mailinstellingen uit** en klik **op Bewerken** voor **e-mail doorsturen.**</span><span class="sxs-lookup"><span data-stu-id="f83fb-107">In the flyout that appears, expand **Mail Settings** and click **Edit** for **Email forwarding**.</span></span>
+1. <span data-ttu-id="f83fb-108">Verwijder eventuele doorsturende adressen.</span><span class="sxs-lookup"><span data-stu-id="f83fb-108">Remove any forwarding addresses.</span></span>
