@@ -1,5 +1,5 @@
 ---
-title: SharePoint-bestanden of-mappen delen
+title: SharePoint- of OneDrive-bestanden of -mappen delen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779010"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408109"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>SharePoint-bestanden of-mappen delen
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePoint- of OneDrive-bestanden of -mappen delen
 
-De bestanden die u hebt opgeslagen op een SharePoint-site zijn meestal beschikbaar voor iedereen met machtigingen voor de site, maar het is handig om bepaalde bestanden of mappen te delen met personen die geen toegang hebben tot de site. Wanneer u bestanden en mappen deelt, kunt u bepalen of anderen deze kunnen bewerken of alleen weergeven.
+De bestanden die u op een SharePoint-site opgeslagen hebt, zijn meestal beschikbaar voor iedereen met machtigingen voor de site, maar u wilt mogelijk specifieke bestanden of mappen delen met personen die anders geen toegang hebben tot de site. Wanneer u bestanden en mappen deelt, kunt u bepalen of personen ze mogen bewerken of alleen mogen bekijken. Zie voor meer informatie:
 
-[SharePoint-bestanden of-mappen delen](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[SharePoint-bestanden of -mappen delen](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive-bestanden en -mappen delen](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
