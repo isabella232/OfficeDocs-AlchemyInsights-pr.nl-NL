@@ -1,5 +1,5 @@
 ---
-title: Microsoft to do downloaden en installeren
+title: Microsoft To Do downloaden en installeren
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823026"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401938"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a>Microsoft to do downloaden en installeren
+# <a name="how-to-download-and-install-microsoft-to-do"></a>Microsoft To Do downloaden en installeren
 
-De app Microsoft to do voor Win32, iOS, Android en Mac kunt u downloaden vanuit de juiste Store.
+De Microsoft To Do-app voor Win32-, iOS-, Android- en Mac-app kan worden gedownload in de juiste Store.
 
-Als u toegang hebt tot de toegangsbeperkingen voor uw Tenant, raadpleegt u het [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) offline-installatieprogramma
+Als u beperkte Store-toegang voor uw tenant heeft, raadpleeg dan [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) voor het offline-installatieprogramma
 
-Als u een app wilt downloaden uit Store met behulp van uw **werk** account, moet de app worden gepubliceerd in de **persoonlijke winkel** van uw bedrijf. Voor meer informatie raadpleegt u [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
+Om een app uit de Store te downloaden met uw **Werk**-account, moet de app worden gepubliceerd in de **Private Store** van uw bedrijf. Raadpleeg voor meer informatie [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)

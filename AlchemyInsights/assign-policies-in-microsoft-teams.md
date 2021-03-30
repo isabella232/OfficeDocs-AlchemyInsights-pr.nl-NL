@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035386"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401794"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Beleid toewijzen in Microsoft Teams
 
-- Als u eenvoudig beleid in uw organisatie wilt beheren, biedt Teams verschillende manieren om beleid toe te wijzen aan gebruikers. Een beleid rechtstreeks toewijzen aan gebruikers, afzonderlijk of op schaal via een batchtoewijzing, of aan een groep waar de gebruikers lid van zijn.  Op dit moment is beleidstoewijzing voor groepen met het Microsoft Teams-beheercentrum alleen beschikbaar voor specifieke beleidstypen. 
-- Een gebruiker heeft één effectief beleid voor elk beleidstype. Als u de volgorde wilt bekijken waarin beleidsregels worden toegepast op gebruikers, bekijkt u [welk beleid voorrang heeft?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Zie Beleid toewijzen aan uw gebruikers in Microsoft Teams voor [meer informatie.](https://docs.microsoft.com/microsoftteams/assign-policies)
+- Teams biedt verschillende manieren om beleid toe te wijzen aan gebruikers om eenvoudig beleid te beheren in uw organisatie. Wijs een beleid rechtstreeks toe aan gebruikers, afzonderlijk of op schaal via een batchtoewijzing, of aan een groep waar de gebruikers lid van zijn.  Beleidstoewijzingen aan groepen via het beheercentrum van Microsoft Teams zijn op dit moment alleen beschikbaar voor specifieke beleidstypen. 
+- Een gebruiker heeft voor elk type beleid één effectief beleid. Als u de volgorde wilt bekijken waarin beleid op gebruikers wordt toegepast, bekijkt u [welk beleid heeft prioriteit?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Zie voor meer informatie [Beleidsregels toewijzen aan uw gebruikers in Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
