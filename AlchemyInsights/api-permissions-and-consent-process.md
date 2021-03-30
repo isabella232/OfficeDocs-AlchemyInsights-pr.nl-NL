@@ -1,0 +1,37 @@
+---
+title: API-machtigingen en toestemmingsproces
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004345"
+- "9200"
+ms.openlocfilehash: 23fed786e7b33adf0b6c76fc71a7e69f2cfcceb7
+ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.translationtype: MT
+ms.contentlocale: nl-NL
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "51404502"
+---
+# <a name="api-permissions-and-consent-process"></a><span data-ttu-id="82eff-102">API-machtigingen en toestemmingsproces</span><span class="sxs-lookup"><span data-stu-id="82eff-102">API Permissions and Consent Process</span></span>
+
+<span data-ttu-id="82eff-103">Als uw app toegang heeft tot gegevens in Microsoft Graph, moet de gebruiker of beheerder deze de juiste machtigingen verlenen via een toestemmingsproces.</span><span class="sxs-lookup"><span data-stu-id="82eff-103">For your app to access data in Microsoft Graph, the user or administrator must grant it the correct permissions via a consent process.</span></span> <span data-ttu-id="82eff-104">[Microsoft Graph-machtigingenverwijzing bevat](https://docs.microsoft.com/graph/permissions-reference) de machtigingen die zijn gekoppeld aan elke belangrijke set Microsoft Graph-API's.</span><span class="sxs-lookup"><span data-stu-id="82eff-104">[Microsoft Graph permissions reference](https://docs.microsoft.com/graph/permissions-reference) lists the permissions associated with each major set of Microsoft Graph APIs.</span></span> <span data-ttu-id="82eff-105">Het bevat ook richtlijnen voor het gebruik van de machtigingen.</span><span class="sxs-lookup"><span data-stu-id="82eff-105">It also provides guidance about how to use the permissions.</span></span>
+
+<span data-ttu-id="82eff-106">**Service principal instellen of bijwerken**</span><span class="sxs-lookup"><span data-stu-id="82eff-106">**Set up or update service principal**</span></span>
+
+- <span data-ttu-id="82eff-107">[Serviceprincipal maken:](https://docs.microsoft.com/graph/api/serviceprincipal-post-serviceprincipals) in dit artikel wordt beschreven hoe u een nieuw servicePrincipal-object maakt.</span><span class="sxs-lookup"><span data-stu-id="82eff-107">[Create serviceprincipal](https://docs.microsoft.com/graph/api/serviceprincipal-post-serviceprincipals) - This article shows you how to create a new servicePrincipal object.</span></span>
+- <span data-ttu-id="82eff-108">[Maak een Azure AD-app & service](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) principal in de portal: in dit artikel wordt beschreven hoe u een nieuwe Azure Active Directory-toepassing (Azure AD) en service principal maakt die kan worden gebruikt met het op rollen gebaseerde toegangsbeheer.</span><span class="sxs-lookup"><span data-stu-id="82eff-108">[Create an Azure AD app & service principal in the portal](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) - This article shows you how to create a new Azure Active Directory (Azure AD) application and service principal that can be used with the role-based access control.</span></span>
+- <span data-ttu-id="82eff-109">[Apps & service-principals in Azure AD: in](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) dit artikel worden toepassingsregistratie, toepassingsobjecten en service-principals in Azure Active Directory beschreven: wat ze zijn, hoe ze worden gebruikt en hoe ze aan elkaar zijn gerelateerd.</span><span class="sxs-lookup"><span data-stu-id="82eff-109">[Apps & service principals in Azure AD](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) - This article describes application registration, application objects, and service principals in Azure Active Directory: what they are, how they are used, and how they are related to each other.</span></span>
+
+<span data-ttu-id="82eff-110">**App-registratie toevoegen of bijwerken en toestemming geven voor beheerders**</span><span class="sxs-lookup"><span data-stu-id="82eff-110">**Add or update app registration and provide admin consent**</span></span>
+
+- <span data-ttu-id="82eff-111">[Een app-registratie maken:](https://docs.microsoft.com/graph/api/application-post-applications) in dit artikel ziet u hoe u een nieuw toepassingsobject maakt.</span><span class="sxs-lookup"><span data-stu-id="82eff-111">[Create an app registration](https://docs.microsoft.com/graph/api/application-post-applications) - This article shows you how to create a new application object.</span></span>
+- <span data-ttu-id="82eff-112">[Een app-registratie bijwerken - API-machtigingen](https://docs.microsoft.com/graph/api/application-update) - In dit artikel wordt beschreven hoe u de eigenschappen van een toepassingsobject kunt bijwerken.</span><span class="sxs-lookup"><span data-stu-id="82eff-112">[Update an app registration - API permissions](https://docs.microsoft.com/graph/api/application-update) - This article shows you how to update the properties of an application object.</span></span>
+- <span data-ttu-id="82eff-113">[Toestemming van beheerder verlenen:](https://docs.microsoft.com/graph/security-authorization#grant-permissions-to-an-application) voor toestemming van de beheerder en toestemming in het algemeen is vereist dat een beheerder expliciet toestemming verleent.</span><span class="sxs-lookup"><span data-stu-id="82eff-113">[Provide admin consent](https://docs.microsoft.com/graph/security-authorization#grant-permissions-to-an-application) - For admin consent and consent in general, we require that an admin explicitly grants consent.</span></span>
+- <span data-ttu-id="82eff-114">[RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) - Rollenbeheercontainer voor geïntegreerde roldefinities en roltoewijzingen voor Microsoft 365 RBAC-providers die meerdere principals en meerdere scopes ondersteunen in één roltoewijzing.</span><span class="sxs-lookup"><span data-stu-id="82eff-114">[RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) - Role management container for unified role definitions and role assignments for Microsoft 365 RBAC providers that support multiple principals and multiple scopes in a single role assignment.</span></span> <span data-ttu-id="82eff-115">Dit verschilt van *het resourcetype rbacApplication.*</span><span class="sxs-lookup"><span data-stu-id="82eff-115">This is different from *rbacApplication* resource type.</span></span> <span data-ttu-id="82eff-116">Microsoft Intune is een voorbeeld van een dergelijke RBAC-provider.</span><span class="sxs-lookup"><span data-stu-id="82eff-116">Microsoft Intune is an example of such a RBAC provider.</span></span> <span data-ttu-id="82eff-117">Een roltoewijzing in Intune kan een matrix van principals en een matrix van bereikgroepen hebben.</span><span class="sxs-lookup"><span data-stu-id="82eff-117">A role assignment in Intune can have an array of principals and an array of scope groups.</span></span> <span data-ttu-id="82eff-118">**Dit is in beta, wat betekent dat het nog in ontwikkeling is en niet wordt aanbevolen voor gebruik in de productie.**</span><span class="sxs-lookup"><span data-stu-id="82eff-118">**This is in beta, meaning that it is still in development and not recommended for use in production.**</span></span>
