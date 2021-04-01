@@ -1,5 +1,5 @@
 ---
-title: Microsoft Information Protection instellen
+title: Microsoft-gegevensbescherming instellen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677380"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440924"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Microsoft Information Protection instellen
+# <a name="set-up-microsoft-information-protection"></a>Microsoft-gegevensbescherming instellen
 
-Bekijk een overzicht van de mogelijkheden die u kunt toepassen op uw strategie voor informatiebeveiliging, zodat u zeker weet dat u uw vertrouwelijke informatie kunt beschermen. Gebruik een cyclus van vier fasen waarbij u gevoelige informatie opsporen, classificeren, beveiligen en beheren. De handleiding voor de installatie van Microsoft Information Protection bevat richtlijnen voor het uitvoeren van deze stappen.
+Hier vindt u een overzicht van de mogelijkheden die u op uw strategie voor gegevensbeveiliging kunt toepassen, zodat u er zeker van kunt zijn dat uw gevoelige informatie is beveiligd. Gebruik een levenscyclus met vier fases voor het ontdekken, classificeren, beveiligen en bewaken van gevoelige informatie. De [Microsoft-handleiding voor het instellen van gegevensbeveiliging](https://go.microsoft.com/fwlink/?linkid=2146619) bevat richtlijnen voor het voltooien van elk van deze stadia.

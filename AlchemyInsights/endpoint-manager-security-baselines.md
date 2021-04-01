@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager - Basislijnen voor beveiliging
+title: EndPoint Manager - beveiligingsbasislijnen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420775"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440876"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - Basislijnen voor beveiliging
+# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - beveiligingsbasislijnen
 
-Beveiligingslijnlijnen zijn vooraf geconfigureerde groepen Windows-instellingen die u helpen bij het toepassen van de beveiligingsinstellingen die worden aanbevolen door de relevante beveiligingsteams. Deze basislijnen kunnen worden aangepast om alleen de gewenste instellingen en waarden te leveren. Zie Beveiligingslijnlijnen gebruiken om [Windows 10-apparaten in Intune te configureren voor meer informatie over beveiligingslijnlijnen.](https://docs.microsoft.com/mem/intune/protect/security-baselines)
+Beveiligingsbasislijnen zijn vooraf geconfigureerde groepen Windows-instellingen die u helpen bij het toepassen van de beveiligingsinstellingen die door de relevante beveiligingsteams worden aanbevolen. U kunt deze basislijnen aanpassen om alleen de instellingen en waarden te kunnen leveren. Voor meer informatie over beveiligingsbasislijnen, zie [Beveiligingsbasislijnen gebruiken om Windows 10-apparaten te configureren in Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
 Er zijn momenteel basislijnen voor deze producten:
 
 - Windows MDM-beveiligingsinstellingen
-- Microsoft Defender voor EndPoint-beveiliging
+- Microsoft Defender voor eindpuntbeveiliging
 - Microsoft Edge
 
-Elk van de basislijnen wordt regelmatig bijgewerkt en uitgebracht in incrementele versies. Met elke versie worden instellingen uit de vorige versie toegevoegd en of verwijderd om ervoor te zorgen dat de basislijn voldoet aan de huidige richtlijnen. Met de console Beveiligingslijnlijnen in Endpoint Security kunnen verschillende versies worden vergeleken door de wijzigingen van versie naar versie zichtbaar te maken.
+Alle basislijnen wordt periodiek bijgewerkt en uitgebracht in incrementele versies. In elke versie worden instellingen toegevoegd en verwijderd uit de vorige versie om ervoor te zorgen dat de basislijn voldoet aan de huidige richtlijnen. Met de console voor beveiligingsbasislijnen in Eindpuntbeveiliging, kunnen verschillende versies worden vergeleken door de wijzigingen van versie naar versie zichtbaar te maken.
 
-Zie Beveiligingslijnprofielen beheren [in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)voor informatie over het zo effectief mogelijk wijzigen van welke versie van basislijn wordt geïmplementeerd.
+Voor instructies om zo effectief mogelijk te wijzigen welke basislijnversie is geïmplementeerd, zie [Profielen voor beveiligingsbasislijn beheren in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Nadat u een beveiligingslijn hebt geïmplementeerd, kunt u de status van de implementatie controleren en de instellingen per apparaat controleren.
+Nadat u een basislijn voor beveiliging hebt geïmplementeerd, kunt u de status van de implementatie controleren en de instellingen per apparaat controleren.
 
-**Opmerking:** Het kan maximaal 24 uur duren voordat de rapportagegegevens voor basislijnen worden weergegeven vanaf de eerste implementatie naar een apparaat en tot 6 uur voor verdere updates. 
+**Opmerking:** Het kan maximaal 24 uur duren voordat de rapportagegegevens voor basislijnen worden weergegeven vanaf de eerste implementatie op een apparaat en tot 6 uur voor verdere updates. 
 
-De meest voorkomende oorzaak van het niet toepassen van een basislijninstelling is omdat dezelfde instelling wordt gebruikt in een ander profiel. Dit scenario kan worden onderzocht voor een specifiek apparaat door dat apparaat te selecteren in het knooppunt Apparaatstatus van het beveiligingslijnprofiel. Zie Conflicten voor beveiligingslijnlijnen oplossen voor meer [informatie.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+De meest voorkomende oorzaak voor het niet-toepassen van een basislijninstelling is dat dezelfde instelling in een ander profiel wordt gebruikt. U kunt dit scenario onderzoeken op een specifiek apparaat door dat apparaat te selecteren in het knooppunt Apparaatstatus van het profiel Beveiligingsbasislijnen. Voor meer informatie, zie [Conflicten in beveiligingsbasislijnen oplossen](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
