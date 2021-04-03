@@ -1,5 +1,5 @@
 ---
-title: BitLocker-herstelsleutels
+title: Bitlocker-herstelsleutels
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685881"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505063"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>BitLocker-herstelsleutels openen
+# <a name="accessing-bitlocker-recovery-keys"></a>Toegang tot Bitlocker-herstelsleutels
 
-Wanneer u BitLocker-instellingen configureert voor een beleid voor intune-eindpunten, kunt u definiëren of de BitLocker-herstelinformatie moet worden opgeslagen in azure Active Directory.
+Bij het configureren van Bitlocker-instellingen Intune Endpoint Protection Policy is het mogelijk om te bepalen of Bitlocker-herstelgegevens moeten worden opgeslagen in Azure Active Directory.
 
-Als deze instelling is geconfigureerd, zijn de opgeslagen herstelgegevens zichtbaar voor een intune-beheerder als onderdeel van de apparaat-recordgegevens in de bladweergave van intune-apparaten op twee manieren:
+Als deze instelling is geconfigureerd, moeten de opgeslagen herstelgegevens op twee manieren zichtbaar zijn voor een Intune-beheerder als onderdeel van de apparaatrecordgegevens in het blade Intune Devices:
 
-Apparaten – Azure AD-apparaten-> apparaat of apparaten-> alle apparaten-> "apparaat"-> herstelsleutels
+Apparaten - Azure AD-apparaten -> 'Device' OR Devices -> All Devices -> 'Device' -> Recovery keys
 
-Als er ook beheerderstoegang tot het apparaat zelf is, kunt u de herstelsleutel (wachtwoord) bekijken door de volgende opdracht uit te voeren vanaf een opdrachtprompt met verhoogde bevoegdheid:
+Als er ook beheerderstoegang tot het apparaat zelf is, kunt u de herstelsleutel (Wachtwoord) zien door de volgende opdracht uit te voeren vanuit een opdrachtprompt met verhoogde opdracht:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Als het apparaat is versleuteld voordat enrolment in intune is versleuteld, is de herstelsleutel mogelijk gekoppeld aan de ' Microsoft-account ' (MSA) waarmee u zich tijdens het OOBE-proces aanmeldt bij het apparaat. Als dat het geval is,  https://onedrive.live.com/recoverykey moet u de apparaten voor wie de herstelsleutels zijn opgeslagen, weergeven en u hierbij aanmelden.
+Als het apparaat is versleuteld vóór de inschrijving in Intune, is de herstelsleutel mogelijk gekoppeld aan het 'Microsoft-account' (MSA) dat is gebruikt om u aan te melden bij het apparaat tijdens het OOBE-proces. Als dat het geval was, moet het openen en aanmelden met die MSA de apparaten laten zien waarvoor  https://onedrive.live.com/recoverykey herstelsleutels zijn opgeslagen.
  
-Als het apparaat is versleuteld als gevolg van de configuratie via Groepsbeleid op basis van een domein, kunnen de herstelinformatie in de lokale Active Directory worden opgeslagen.
- 
+Als het apparaat is versleuteld als gevolg van configuratie via domeingebaseerd groepsbeleid, worden de herstelgegevens mogelijk opgeslagen in de on-premises Active Directory.
+
+Als u het endpointbeveiligingsbeleid hebt geconfigureerd voor het opslaan van de herstelsleutel in Azure Active Directory, maar de sleutel voor een specifiek apparaat niet is geüpload, kunt u de upload activeren door de herstelsleutel voor dat apparaat te draaien vanaf de MEM-console. Zie [BitLocker-herstelsleutels draaien voor meer informatie.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

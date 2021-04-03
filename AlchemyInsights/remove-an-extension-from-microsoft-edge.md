@@ -1,5 +1,5 @@
 ---
-title: Een uitbreiding van Microsoft Edge verwijderen
+title: Een extensie verwijderen uit Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003881"
 - "6936"
-ms.openlocfilehash: d0fda273317a2f2437f8808cbf29d9a9788df225
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8311"
+- "9004621"
+ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677559"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504955"
 ---
-# <a name="remove-an-extension-from-microsoft-edge"></a>Een uitbreiding van Microsoft Edge verwijderen
+# <a name="remove-an-extension-from-microsoft-edge"></a>Een extensie verwijderen uit Microsoft Edge
 
-U verwijdert als volgt een uitbreiding uit Microsoft Edge:
+Een extensie verwijderen uit Microsoft Edge:
 
 1. Open Microsoft Edge.
-2. Selecteer **... > extensies**.
-3. Zoek op de pagina **geïnstalleerde extensies** de extensie die u wilt verwijderen en selecteer vervolgens **verwijderen** .
-4. Selecteer **verwijderen** in het bevestigingsvenster.
+2. Selecteer **... > Extensies.**
+3. Zoek op **de** pagina Geïnstalleerde extensies de extensie die u wilt verwijderen en selecteer **vervolgens Verwijderen** er naast.
+4. Selecteer verwijderen in het **bevestigingsdialoogvenster.**

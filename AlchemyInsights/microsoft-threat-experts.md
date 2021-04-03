@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: f14410c61fe5c9dd3a72124da12915bc4dbf7182
-ms.sourcegitcommit: aebf4e1ef31305c2219f0c2ac7c3f1e30f6f1e66
+ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50713718"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505387"
 ---
 # <a name="microsoft-threat-experts"></a>Microsoft Threat Experts
 
-Microsoft Threat Experts is een managed threat hunting service in Microsoft Defender for Endpoint.  We werken samen met het Security Operations Center om kritieke bedreigingen in uw unieke omgeving te controleren, analyseren en ondersteunen.
+Microsoft Threat Experts is een beheerde bedreigingsjachtservice in Microsoft Defender voor Eindpunt.  We werken samen met uw Beveiligingscentrum om kritieke bedreigingen in uw unieke omgeving te controleren, analyseren en te ondersteunen.
 
-Deze beheerde service voor risicozoeken biedt op expert gebaseerde inzichten en gegevens via deze twee mogelijkheden: gerichte meldingen over aanvallen en toegang tot experts op aanvraag. Zie [de documentatie van Microsoft Threat Experts](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-threat-experts) voor meer informatie.
+Deze beheerde bedreigingsjachtservice biedt op experts gebaseerde inzichten en gegevens via deze twee mogelijkheden: gerichte aanvalsmelding en toegang tot experts op aanvraag. Zie Microsoft Threat Experts voor meer informatie over Microsoft Defender voor [eindpunten.]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)
+
+Zie Microsoft [Threat Experts in Microsoft 365 overview (Microsoft Threat Experts in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)overview) voor meer informatie over de beheerde service voor het zoeken naar bedreigingen in het kader van het beschermen van eindpunten, e-mail en identiteiten van uw organisatie.
