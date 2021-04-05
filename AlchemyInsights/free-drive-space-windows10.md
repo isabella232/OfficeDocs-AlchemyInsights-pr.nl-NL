@@ -1,5 +1,5 @@
 ---
-title: Schijfruimte vrij maken in Windows 10
+title: Schijfruimte vrijmaken in Windows 10
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035666"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505351"
 ---
-# <a name="free-up-drive-space-in-windows-10"></a>Schijfruimte vrij maken in Windows 10
+# <a name="free-up-drive-space-in-windows-10"></a>Schijfruimte vrijmaken in Windows 10
 
-Hier zijn twee opties om schijfruimte vrij te maken in Windows:
+Hier volgen twee opties voor het vrijmaken van schijfruimte in Windows:
 
-- Schijfruimte vrij maken in Windows 10.
-- Ruimte vrij maken voor Windows 10-updates met een extern opslagapparaat.
+- Schijfruimte vrijmaken in Windows 10.
+- Schijfruimte vrijmaken voor Windows 10 updates met extern opslagapparaat.
 
-Als u na het gebruik van Schijfopruiming nog steeds weinig schijfruimte hebt, is het mogelijk dat de map Temp snel wordt gevuld met toepassingsbestanden (.appx) die door Microsoft Store worden gebruikt. U kunt dit probleem oplossen door de Store opnieuw in te stellen, de Store-cache te wissen en vervolgens de probleemoplosser voor Windows Update uit te voeren. Zorg ervoor dat de Microsoft Store is gesloten voordat u verder gaat met deze stappen.
+Als je nog steeds weinig schijfruimte heeft na het gebruiken van Disk Cleanup is het mogelijk dat uw tijdelijke map snel vol geraakt met applicatiebestanden (.appx) die gebruikt worden door Microsoft Store. Los dit probleem op de Store opnieuw in te stellen de cache van de Store te wissen en vervolgens de Windows Update probleemoplosser uit te voeren. Zorg ervoor dat Microsoft Store gesloten is voor je verder gaat met deze stappen.
 
 **Stap 1: Microsoft Store opnieuw instellen**
 
-**Opmerking** Hiermee worden de app-gegevens op het apparaat definitief verwijderd, inclusief uw voorkeuren en aanmeldingsgegevens.
+**Opmerking** Dit verwijdert de app-gegevens op dit apparaat permanent, inclusief je voorkeuren en aanmeldingsgegevens.
 
-1. Selecteer **Instellingen instellingen**  >  **apps** starten  >  **Apps**&  >  **functies**.
+1. Selecteer **Start** > **Instellingen** > **Apps** > **Apps en functies**.
 
-1. Zoek en selecteer Microsoft Store in de lijst met apps.
+1. Vind en selecteer Microsoft Store in de lijst met apps.
 
-1. Selecteer **Geavanceerde opties.**
+1. Selecteer **Geavanceerde opties**.
 
-1. Schuif omlaag en selecteer **Opnieuw instellen** en bevestig **opnieuw instellen.**
+1. Schuif naar beneden en selecteer **Opnieuw instellen** en vervolgens **Opnieuw instellen bevestigen**.
 
-**Stap 2: De Microsoft Store-cache wissen**
+**Stap 2: de Microsoft Store cache verwijderen**
 
 1. Druk op de Windows-logotoets + R om het dialoogvenster Uitvoeren te openen.
 
-1. Typ wsreset.exe en selecteer **OK.**
+1. Typ in wsreset.exe en selecteer **Ok**.
 
-1. Er wordt een leeg venster met opdrachtprompt geopend. Na ongeveer 10 seconden wordt het venster gesloten en wordt de Store automatisch geopend.
+1. Een lege opdrachtprompt wordt geopend. Na ongeveer 10 seconden wordt het venster gesloten en wordt de Store automatisch geopend.
 
-**Stap 3: Windows Update opnieuw instellen**
+**Stap 3: Windows update opnieuw instellen**
 
-1. Selecteer **Instellingen bijwerken**  >  **starten** om &  >  **beveiligingsproblemen op te**  >  **lossen.**
+1. Selecteer **Start** > **Instellingen** > **Updates en beveiliging** > **Probleemzoeker**.
 
-1. Schuif omlaag en selecteer **Windows Update** in de lijst en selecteer **De probleemoplosser uitvoeren.**
+1. Schuif naar beneden en kies **Windows update** uit de lijst en selecteer **Probleemzoeker uitvoeren**.
 
-1. Start uw computer opnieuw op en controleer of u het probleem nog steeds ondervindt.
+1. Start de computer opnieuw op en controleer of het probleem zich nog steeds voordoet.
 

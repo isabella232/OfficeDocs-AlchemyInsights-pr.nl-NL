@@ -5,23 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 5cc160eb3d78f92ffb82cab79db2685fa9aef88f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 2939012f3a3e01106bcf7a44bed14b954005211d
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553240"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505783"
 ---
 # <a name="recording-in-teams"></a>Opnemen in Teams
 
-Als u niet kunt opnemen in Teams of wilt weten hoe u kunt opnemen in Teams, leest u een van de volgende artikelen.
+Microsoft Teams opnames van vergaderingen kunnen nu opgeslagen worden in OneDrive en SharePoint. Zie het volgende bericht van het berichtcentrum voor meer informatie en in te schrijven: [(Bijgewerkt) Microsoft Teams: opnames van vergaderingen die zijn opgeslagen in OneDrive en SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-- Zie [Een vergadering opnemen in Teams](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) voor meer informatie over het starten van een opname in Teams of het soort gebruikers dat een opname in Teams kan starten of stoppen.
+De opslaglocatie verplaatsen naar OneDrive of SharePoint verwijdert de vorige vereiste dat Stream beschikbaar moet zijn uw regio.
 
-- Zie [Opname van cloudvergadering in Teams](https://docs.microsoft.com/microsoftteams/cloud-recording) voor meer informatie over het inschakelen en configureren van de opnamefunctie in Teams voor uw organisatie.
+Leer hoe u **de opnamefunctie kan inschakelen en configureren** in Teams voor uw organisatie, **inclusief besturingselementen voor het inschakelen of uitschakelen van opnames van vergaderingen voor specifieke gebruikers** en controleer [Teams cloudopnames van vergadering](https://docs.microsoft.com/microsoftteams/cloud-recording).
+
+Als u **niet kunt opnemen in Teams of wilt weten hoe u kunt opnemen** in Teams, leest u dan een van de volgende artikelen:
+
+- Als u nog niet ingeschreven bent voor OneDrive- of SharePoint-opslag voor Teams opnames van vergaderingen, dan hangen de mogelijkheden af van de regionale en nationale beschikbaarheid van Stream. Als u een vergadering niet kunt opnemen, controleer dan of [Stream beschikbaar is in uw land of regio](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Voor meer informatie leest u het volgende bericht van het berichtcentrum in het beheerderportaal: [Bijgewerkte functie: regionale opslagcontrole van Microsoft Stream cloudopnames](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+
+- Opnames van vergaderingen in Teams [vereisen dat specifieke licenties en beleid toegewezen worden](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), inclusief Stream-licenties om opnames van vergaderingen te uploaden of downloaden naar Microsoft Stream.
+
+- Wanneer u bevestigd heeft u aan alle vereisten voldoet, inclusief licentie, beleid en regionale beschikbaarheid van Stream, controleert u dan [Een vergadering opnemen in Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).

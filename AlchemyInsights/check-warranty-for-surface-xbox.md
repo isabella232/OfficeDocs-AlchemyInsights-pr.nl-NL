@@ -1,5 +1,5 @@
 ---
-title: Controleer de garantiestatus voor een Surface- of Xbox-apparaat
+title: Controleer de status van de waarborg voor een Surface- of Xbox-apparaat
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035330"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505315"
 ---
-# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Controleer de garantiestatus voor een Surface- of Xbox-apparaat
+# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Controleer de status van de waarborg voor een Surface- of Xbox-apparaat
 
-Als u een Surface- of Xbox-apparaat hebt, kunt u uw Microsoft-account gebruiken om uw garantie te controleren. Ga als volgende te werk:
+Als je een Surface- of Xbox-apparaat hebt kan je jouw Microsoft-account gebruiken om de waarborg te controleren. Dat kan als volgt:
 
-1. Meld u aan bij uw Microsoft-account. 
+1. Aanmelden bij jouw [Microsoft-account](https://account.microsoft.com/devices/). 
 
-1. Selecteer het apparaat waar u de garantie op wilt controleren.
+1. Selecteer het apparaat waarvoor je de waarborg wilt controleren.
 
-1. In **Apparaatdekking** ziet u welk soort garantiedekking uw apparaat heeft en hoeveel tijd er nog over is.
+1. Onder **Apparaatdekking** kan je zien wat voor waarborg jouw apparaat heeft en hoelang die nog geldig is.
 
-**Opmerking** Uw apparaat moet zijn geregistreerd voordat u uw garantie kunt controleren of service kunt krijgen. Als u uw apparaat moet registreren of uw apparaat niet hebt weergegeven nadat u zich hebt aangemeld bij uw account, gaat u naar Uw Surface of [Xbox registreren.](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376)
+**Opmerking** Het apparaat moet eerst geregistreerd zijn voordat je de waarborg kan controleren of service kan verkrijgen. Als je het apparaat nog moet registreren of als je het apparaat niet kon zien nadat je bent aangemeld bij je account, ga dan naar [Surface of Xbox registreren](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).
