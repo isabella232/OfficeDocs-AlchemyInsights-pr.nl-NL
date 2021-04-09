@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
-ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
+ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51597438"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645126"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Een verwijderde Microsoft 365-groep herstellen
 
 U kunt een verwijderde Microsoft 365-groep of Microsoft Teams binnen 30 dagen na de verwijdering herstellen.
 
-1. Ga naar het [Microsoft 365-beheercentrum om](https://aka.ms/RestoreDeletedGroup) u aan te melden en de verwijderde groepen en teams op te nemen.
+1. Ga naar het [Microsoft 365-beheercentrum](https://aka.ms/RestoreDeletedGroup) om u aan te melden bij een lijst met de verwijderde groepen en teams.
 
     **Opmerking:** Meld u aan met het account dat is toegewezen aan de tenantbeheerder of de beheerdersrol voor groepen.
 

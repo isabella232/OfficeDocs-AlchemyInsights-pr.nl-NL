@@ -1,5 +1,5 @@
 ---
-title: Problemen bij het installeren van updates voor Exchange Server
+title: Problemen bij het installeren van Exchange Server-updates
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50693397"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645162"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Problemen bij het installeren van updates voor Exchange Server
+# <a name="issues-when-installing-exchange-server-updates"></a>Problemen bij het installeren van Exchange Server-updates
 
-Voordat u Exchange Server-updates installeert, bekijkt u de sectie 'Best Practices' van het artikel [Exchange upgraden naar de meest recente cumulatieve update.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Het is met name belangrijk om updates te installeren met de verhoogde CMD-prompt (tenzij updates worden geïnstalleerd via Microsoft Update). Dit geldt voor cumulatieve en beveiligingsupdates.
+Als u wilt bijwerken naar de meest recente cumulatieve update (CU) voor Exchange Server, kunt u een gedetailleerde reeks stappen downloaden om bij te werken van uw huidige CU naar de [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) doel-CU.
 
-Als u fouten ziet bij het installeren van beveiligingsupdates of nadat de update is geïnstalleerd, kunt u dit artikel lezen over het oplossen [van problemen met mislukte installaties.](https://aka.ms/exupdatefaq)
+Zie de sectie 'Best Practices' van het artikel Exchange upgraden naar de meest recente cumulatieve update als er fouten zijn tijdens of na de installatie van Exchange [Server-updates.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Het is erg belangrijk om beveiligingsupdates te installeren met behulp van de verhoogde CMD-prompt (als updates niet worden geïnstalleerd via Microsoft Update).
+
+Zie Mislukte installaties van cumulatieve en beveiligingsupdates van Exchange herstellen als u fouten ziet bij het installeren van beveiligingsupdates of nadat de update [is geïnstalleerd.](https://aka.ms/exupdatefaq)
