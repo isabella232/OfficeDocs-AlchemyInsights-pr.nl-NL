@@ -1,5 +1,5 @@
 ---
-title: Aan de slag met Microsoft Edge
+title: Microsoft Edge gebruiken
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677514"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692749"
 ---
-# <a name="start-using-microsoft-edge"></a>Aan de slag met Microsoft Edge
+# <a name="start-using-microsoft-edge"></a>Microsoft Edge gebruiken
 
-Microsoft heeft de nieuwe Microsoft-Edge uitgebracht, namelijk de volgende generatie van de webbrowser. Het is gebaseerd op de open-source Foundation van zeswaardig en is geoptimaliseerd voor gebruik met Microsoft-producten, zoals SharePoint en OneDrive.
+Microsoft heeft de nieuwe Microsoft Edge uitgebracht, de volgende generatie van de webbrowser. Het is gebouwd op de open-source basis van Chromium en is geoptimaliseerd voor gebruik met Microsoft-producten, zoals SharePoint en OneDrive.
 
-Als u problemen ondervindt met Google Chrome, Mozilla Firefox of Safari, is het raadzaam Microsoft Edge te gebruiken.
+Als u problemen ondervindt met Google Chrome, Mozilla Firefox of Safari, raden we u aan Microsoft Edge te gebruiken.
 
-Als u een beheerder bent van een grote organisatie, kunt u de [installatiehandleiding van Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) gebruiken om aan de slag te gaan.
+Als u een beheerder van een grote organisatie bent, gebruikt u onze Installatiehandleiding voor [Microsoft Edge om](https://go.microsoft.com/fwlink/?linkid=2142423) aan de slag te gaan.
 
-Als u Microsoft Edge op een bepaald apparaat tegelijk wilt downloaden, gaat u naar [de nieuwe Microsoft Edge introduceren](https://go.microsoft.com/fwlink/?linkid=2141049).
+Als u Microsoft Edge op één apparaat tegelijk wilt downloaden, gaat u naar [Introductie van de nieuwe Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)
