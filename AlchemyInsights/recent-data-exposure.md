@@ -1,8 +1,8 @@
 ---
-title: Nieuwste belichtingsgegevens
+title: Recente blootstelling aan gegevens
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693226"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789355"
 ---
-# <a name="recent-data-exposure"></a>Nieuwste belichtingsgegevens
+# <a name="recent-data-exposure"></a>Recente blootstelling aan gegevens
 
-Microsoft is op de hoogte gesteld van een onderzoeker van derden dat een database waarop Microsoft-ondersteuningsgegevens is geredigeerd, zonder verificatie toegankelijk is. Op 31 december 2019 beveiligt Microsoft de database.
+Microsoft is door een externe onderzoeker op de hoogte gesteld dat een database die redacted Microsoft-ondersteuningsgegevens host, toegankelijk was zonder verificatie. Op 31 december 2019 heeft Microsoft de database beveiligd.
 
-We zijn belangrijk voor de privacy en de veiligheid van onze klanten en ondernemen actie om toekomstige gevallen van dit probleem te voorkomen. We hebben meldingen ontvangen voor klanten wiens gegevens zijn opgenomen in deze geredigeerde database. Ga voor meer informatie naar informatie over [klant bewustmaking met betrekking tot een recente informatie over de blootstelling](https://aka.ms/privacyinfo).
+We zetten ons in voor de privacy en beveiliging van onze klanten en ondernemen actie om toekomstige gebeurtenissen van dit probleem te voorkomen. We zijn begonnen met meldingen aan klanten van wie de gegevens aanwezig waren in deze opnieuw besleede database. Voor meer informatie gaat u naar [Informatie over klantbekendheid met betrekking tot een recente blootstelling aan informatie.](https://aka.ms/privacyinfo)

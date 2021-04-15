@@ -1,26 +1,30 @@
 ---
-title: 665 ontvangt u te veel phishing of spam in uw Postvak?
+title: 665 Ontvangt u te veel phish of spam in uw postvak?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700234"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767932"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ontvangt u te veel phishing of ongewenste e-mail in uw Postvak?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ontvangt u te veel phish of spam in uw postvak?
 
-Als Microsoft 365-beheerder kunt u de beste manier bepalen waarom een malafide of spambericht is bezorgd door het voorbeeld bij Microsoft te verzenden in de [Verkenner](https://protection.office.com/reportsubmission). U ontvangt direct feedback over het filteren van berichten en waarom er problemen zijn.
+> [!NOTE]
+> U hebt toegang tot het Microsoft 365-beveiligingscentrum op [security.microsoft.com.](https://security.microsoft.com)
 
-U kunt uw gebruikers toestaan om rechtstreeks met Microsoft te rapporteren via de [invoegtoepassing bericht melden](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Als Microsoft 365-beheerder kunt u het beste bepalen waarom een phishing- of spambericht is bezorgd door het voorbeeld in te dienen bij Microsoft in [Submissions Explorer.](https://security.microsoft.com/reportsubmission) U krijgt direct feedback over het filteren van berichten en waarom er problemen zijn.
 
-**Wist u dat?**: u kunt nu voorbeelden rechtstreeks indienen vanuit de [bericht tracering](https://protection.office.com/messagetrace) en E5/ATP-abonnement 2-klanten kunnen voorbeelden van de [bedreigings Verkenner](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)indienen.
+U kunt ervoor zorgen dat uw gebruikers zich rechtstreeks bij Microsoft kunnen melden via de invoegvoegapp [Rapportbericht.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**Wist u dat?**: U kunt nu rechtstreeks steekproeven indienen vanuit [Message Trace](https://security.microsoft.com/messagetrace) en klanten van E5/ATP-abonnement 2 kunnen steekproeven indienen vanuit [Threat Explorer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

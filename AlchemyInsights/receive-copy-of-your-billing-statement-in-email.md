@@ -1,8 +1,8 @@
 ---
-title: Kopie van uw Factuuroverzicht per e-mail ontvangen
+title: Kopie van uw factuuroverzicht per e-mail ontvangen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 8bd05fe4876328e22bbd614a1e6b3ee95338c0ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4b6a5b7e1cff8f109af09009ba5887e8ab38a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693262"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789427"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Kopie van uw Factuuroverzicht per e-mail ontvangen
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Kopie van uw factuuroverzicht per e-mail ontvangen
 
 U kunt, indien u dat wenst, een kopie van uw factuuroverzicht als e-mailbijlage ontvangen. Houd in dat geval rekening met het volgende:
   
 - Er wordt een e-mailbericht verzonden naar zowel het primaire als het alternatieve e-mailadres van elke persoon die als ontvanger van meldingen staat geregistreerd.
 
-- U ontvangt twee afzonderlijke e-mailberichten: één waarmee u weet dat uw factuur klaar is, met instructies om u aan te melden bij het Beheercentrum, en om een tweede e-mailbericht met het factuuroverzicht als bijlage te zien.
+- U ontvangt twee afzonderlijke e-mailberichten: een e-mailbericht waarmee u weet dat uw factuur gereed is, met instructies om u aan te melden bij het beheercentrum om deze te bekijken, en een tweede e-mailbericht met de factuurverklaring als bijlage.
 
-Uw Factuuroverzicht per e-mail ontvangen:
+Uw factuuroverzicht per e-mail ontvangen:
   
-1. Ga in het Beheercentrum naar de pagina **facturerings** \> [meldingen](https://go.microsoft.com/fwlink/p/?linkid=853212) .
+1. Ga in het beheercentrum  naar de pagina \> [Factureringsmeldingen.](https://go.microsoft.com/fwlink/p/?linkid=853212)
 
-2. Zet onder **het factuuroverzicht ontvangen als e-mailbijlage?** de wisselknop op **aan**. U kunt op elk gewenst moment de ontvangst van e-mails met factuuroverzichten beëindigen door de wisselknop op **Uit** te zetten.
+2. Schakel **onder Factuuroverzicht ontvangen als e-mailbijlage?** de wisselknop over naar **Aan**. U kunt op elk gewenst moment de ontvangst van e-mails met factuuroverzichten beëindigen door de wisselknop op **Uit** te zetten.

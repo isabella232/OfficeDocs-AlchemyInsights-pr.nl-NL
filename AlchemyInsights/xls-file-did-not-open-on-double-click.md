@@ -1,8 +1,8 @@
 ---
-title: XLS-bestand werd niet geopend bij dubbelklikken
+title: XLS-bestand is niet geopend bij dubbelklikken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796319"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770590"
 ---
 # <a name="excel-file-doesnt-open"></a>Excel-bestand wordt niet geopend
 
-Probeer een van de volgende suggesties:
+Probeer een van deze suggesties:
 
-**Kies Excel als standaard**
+**Excel als standaard kiezen**
 
-* Klik met de rechtermuisknop op het werkblad, kies **openen met**en kies vervolgens **Excel**
+* Klik met de rechtermuisknop op het werkblad, kies **Openen met** en kies **vervolgens Excel**
 
-**Snel herstellen uitvoeren**
+**Een snelle reparatie uitvoeren**
 
-1. Ga naar **het Configuratiescherm > Programma's > Programma's en onderdelen**.
+1. Ga naar **Configuratiescherm > Programma's > programma's en functies.**
 
-2. Selecteer het Office-product dat u wilt herstellen en kies **wijzigen**.
+2. Selecteer het Office-product dat u wilt herstellen en kies vervolgens **Wijzigen.**
 
-3. Kies de optie **snel herstellen** en kies vervolgens **herstellen**.
+3. Kies de **optie Snel** herstellen en kies vervolgens **Herstellen.**
 
 **Versies van Office verwijderen die u niet gebruikt**
 
-1. Ga naar **het Configuratiescherm > een programma verwijderen**en selecteer vervolgens de versie van Office die u wilt verwijderen.
+1. Ga naar **Configuratiescherm > Een programma** verwijderen en selecteer vervolgens de versie van Office die u wilt verwijderen.
 
-2. Klik op **verwijderen**.
+2. Klik **op Verwijderen.**
 
 3. Start de computer opnieuw op.
 
@@ -47,4 +47,4 @@ Probeer een van de volgende suggesties:
 
 1. Voer deze probleemoplosser uit: https://aka.ms/diag_officefile .
 
-2. Afhankelijk van de browser **opent** of **slaat** u de probleemoplosser op uw bureaublad op en voert u de probleemoplosser vervolgens **uit** .
+2. Afhankelijk van uw browser, **opent of** **Sla de** probleemoplosser op uw bureaublad op en voer deze **vervolgens** uit.

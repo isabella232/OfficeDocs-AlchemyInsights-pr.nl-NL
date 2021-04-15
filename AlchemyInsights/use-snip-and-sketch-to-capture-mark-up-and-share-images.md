@@ -1,8 +1,8 @@
 ---
-title: Afbeelding van het gebruik van knipsel & voor het vastleggen, markeren en delen van afbeeldingen
+title: Knip de & gebruiken om afbeeldingen vast te leggen, te markeren en te delen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773194"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770806"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Afbeelding van het gebruik van knipsel & voor het vastleggen, markeren en delen van afbeeldingen
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Knip de & gebruiken om afbeeldingen vast te leggen, te markeren en te delen
 
-Scherm schets heet nu **knipsel & schets**. **U kunt als volgt snel een knipsel doen**:
+Schermschets heet nu **Knip & Sketch.** **Snel een knipsel maken:**
 
-1. Druk op de **Windows-logo toets + SHIFT + S**. U ziet het scherm donkerder en de cursor wordt weergegeven als een kruis. 
+1. Druk op **de Windows-logotoets + Shift + S.** Het scherm wordt donkerder en de cursor wordt weergegeven als een kruis. 
 
-2. Kies een punt op de rand van het gebied dat u wilt kopiëren en klik met de rechtermuisknop op de cursor. 
+2. Kies een punt aan de rand van het gebied dat u wilt kopiëren en klik met de linkerkant op de cursor. 
 
-3. Plaats de cursor om het gebied te markeren dat u wilt vastleggen. Het gebied dat u hebt vastgelegd, wordt weergegeven op het scherm.
+3. Verplaats de cursor om het gebied te markeren dat u wilt vastleggen. Het gebied dat u vast legt, wordt weergegeven op het scherm.
 
    ![afbeelding van gemarkeerde selectie](media/snipone.png)
 
-De afbeelding die u knipsel, wordt opgeslagen op het Klembord, zodat u deze kunt plakken in een e-mailbericht of een document. 
+De afbeelding die u knipt, wordt opgeslagen op het klembord, klaar om in een e-mailbericht of document te worden gepijverd. 
 
-**Als u de afbeelding wilt bewerken of bekijken**: 
+**Als u de afbeelding wilt bewerken of weergeven:** 
 
-- Klik op het meldingen pictogram uiterst rechts op de taakbalk. Klik vervolgens op de afbeelding die u zojuist hebt vastgelegd. U opent een knipsel in de app knipsel & schets.
+- Klik op het pictogram Meldingen aan de rechterkant van de taakbalk. klik vervolgens op de afbeelding die u zojuist hebt vastgelegd. Uw knipsel wordt geopend in de knip-& Sketch-app.
 
-   ![afbeelding van afbeelding van de knip-app](media/sniptwo.png)
+   ![afbeelding van afbeelding die wordt weergegeven in knip-app](media/sniptwo.png)

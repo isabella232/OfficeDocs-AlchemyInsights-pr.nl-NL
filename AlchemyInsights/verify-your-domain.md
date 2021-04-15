@@ -2,7 +2,7 @@
 title: Verify your domain
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a34de7fa2aaaae365cf4562d31590d4b5fb7544
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734301"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770986"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **De record is waarschijnlijk niet bijgewerkt via internet.**
+ **De record is waarschijnlijk niet op internet bijgewerkt.**
   
-Het duurt meestal maar een paar minuten voordat de nieuwe record kan worden weergegeven, maar soms kan het even duren voordat het een paar uur duurt. 
+Meestal duurt het slechts enkele minuten voordat we de nieuwe record kunnen zien, maar af en toe kan het enkele uren duren. 
   
-- Als u de presentatie al lang hebt gewacht, controleert u of u de exacte waarde hebt gekopieerd en geplakt in de TXT-verificatie record bij de DNS-host. Een veelvoorkomende fout is dat het gedeelte 'MS=' van de record niet mee is gekopieerd. Maar dat hebben we ook nodig!
+- Als u al zo lang hebt gewacht, controleert u of u de exacte waarde hebt gekopieerd en in de TXT-verificatierecord bij uw DNS-host hebt gekopieerd en geklikt. Een veelvoorkomende fout is dat het gedeelte 'MS=' van de record niet mee is gekopieerd. Maar dat hebben we ook nodig!
 
-- Bij sommige DNS-hosts moet u een extra stap nemen om het zonebestand (waarin de DNS-record wordt opgeslagen) op te slaan zodat dit overal op internet wordt bijgewerkt. Zorg ervoor dat u de wijzigingen hebt opgeslagen, zodat Microsoft de record kan zien en verifiëren.
+- Bij sommige DNS-hosts moet u een extra stap nemen om het zonebestand (waarin de DNS-record wordt opgeslagen) op te slaan zodat dit overal op internet wordt bijgewerkt. Zorg ervoor dat u uw wijzigingen hebt opgeslagen, zodat Microsoft de record kan zien en controleren.
