@@ -1,8 +1,8 @@
 ---
-title: Wanneer wordt mijn creditcard aangerekend?
+title: Wanneer wordt mijn creditcard in rekening gebracht?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796391"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806077"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Wanneer wordt mijn creditcard aangerekend?
+# <a name="when-is-my-credit-card-charged"></a>Wanneer wordt mijn creditcard in rekening gebracht?
 
-Met een eerste aankoop kan het tot twee dagen duren voordat de kosten zijn opgetreden.
+Bij een eerste aankoop kan het maximaal twee dagen duren voordat de kosten zijn opgeladen.
   
-Periodieke kosten lopen af binnen één dag van de factuur die wordt gemaakt.
+Terugkerende kosten gebeuren binnen één dag na het maken van de factuur.
   
-Als het niet lukt om het saldo over de komende weken te belasten, blijft het systeem proberen het saldo over de komende weken af te rekenen. U kunt op elk gewenst moment updates van uw betalingsgegevens maken om te controleren of het volgende bedrag is gelukt. Zie voor meer informatie [betalingsmethoden beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Als de kosten niet zijn gelukt, blijft het systeem de komende weken proberen het saldo te regelen. U kunt uw betalingsgegevens op elk moment updaten om ervoor te zorgen dat de volgende poging tot betaling succesvol is. Zie Betalingsmethoden [beheren voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

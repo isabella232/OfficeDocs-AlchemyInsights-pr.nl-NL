@@ -2,21 +2,22 @@
 title: Veelvoorkomende problemen en oplossingen voor Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: c83b7588d06df1ba36581b7ebcc0cf4a357a762c
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43601432"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805465"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Veelvoorkomende problemen en oplossingen voor Yammer
 

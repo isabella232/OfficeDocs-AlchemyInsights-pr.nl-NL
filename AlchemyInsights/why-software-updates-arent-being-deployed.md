@@ -1,8 +1,8 @@
 ---
-title: Waarom software-updates niet worden geïmplementeerd?
+title: Waarom worden software-updates niet geïmplementeerd?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461785"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805681"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>Waarom software-updates niet worden geïmplementeerd?
+# <a name="why-software-updates-are-not-being-deployed"></a>Waarom worden software-updates niet geïmplementeerd?
 
-Controleer het volgende als u software-updates hebt geconfigureerd via een update-ring van Windows 10, maar de updates worden niet geïmplementeerd:  
+Lees het volgende als u software-updates hebt geconfigureerd via een update-ring van Windows 10, maar de updates niet worden geïmplementeerd:  
 
-- Overweeg om Windows-Servicing van een  **Semi-Annual-kanaal**  Releasetype te wijzigen in een strictr, beterere Releasetype  
-- Controleer de uitstelperiode voor  **kwaliteitsupdates**  en  **onderdelenupdate**. De vertraagde periode kan leiden tot updates voor 180 dagen.
+- U kunt de Windows-service te wijzigen van het releasetype **Semi-Annual-kanaal** naar een strikter, frequenter releasetype  
+- Bekijk de uitstelperiode voor **Kwaliteitsupdate** en **Onderdelenupdate**. De uitstelperiode kan ertoe leiden dat updates maximaal 180 dagen worden vertraagd.
