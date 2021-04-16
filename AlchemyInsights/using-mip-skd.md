@@ -1,40 +1,41 @@
 ---
-title: MIP SKD gebruiken
+title: MIP-SKD gebruiken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357739"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770950"
 ---
-# <a name="using-mip-skd"></a>MIP SKD gebruiken
+# <a name="using-mip-skd"></a>MIP-SKD gebruiken
 
-Als u de MIP SDK wilt gebruiken, zijn er verschillende stappen nodig om uw Office 365-abonnement en clientwerkstation in te stellen en te configureren. Deze stappen omvatten:
+Als u de MIP SDK wilt gebruiken, zijn er verschillende stappen nodig voor het instellen en configureren van uw Office 365-abonnement en client-werkstation. Deze stappen omvatten:
 
-- Meld u aan voor een Office 365-abonnement.
+- Registreren voor een proefabonnement op Office 365.
 - Gevoeligheidslabels configureren.
-- Configureer uw clientwerkstation.
-- Registreer een clienttoepassing met Azure Active Directory.
-- Vraag een informatiebeschermingsintegratieovereenkomst (IPIA) aan.
-- Zorg ervoor dat uw app de vereiste runtime heeft.
+- Uw client-werkstation configureren.
+- Een client-toepassing registreren bij Azure Active Directory.
+- Een IPIA-overeenkomst (Information Protection Integration Agreement) aanvragen.
+- Zorg ervoor dat de app over de vereiste runtime beschikt.
 
-Zie [MIP SDK instellen en configureren](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)voor meer informatie over deze stappen.
+Zie voor meer informatie over deze stappen [MIP-SDK instellen en configureren](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
-Zie voor aanvullende bronnen:
+Zie voor meer informatie:
 
-- [Microsoft Information Protection SDK-documentatie](https://docs.microsoft.com/information-protection/develop/)
-- [Handleiding voor azure-informatiebeveiliging](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Microsoft-gegevensbescherming SDK-documentatie](https://docs.microsoft.com/information-protection/develop/)
+- [Handleiding voor ontwikkelaars van Azure Information Protection](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
 - [Microsoft Information Protection Software Development Kit downloaden](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Microsoft Information Protection (MIP) SDK-installatie en -configuratie](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [Azure-codevoorbeelden voor MIP SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [Installatie en configuratie van Microsoft Information Protection (MIP) SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Azure Code Samples voor MIP-SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
