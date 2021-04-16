@@ -2,30 +2,31 @@
 title: Sitesjabloon kan niet worden gemaakt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0b5e5d7cc2ddd939562ac6bb392441120c703515
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786880"
 ---
 # <a name="site-template-cannot-be-created"></a>Sitesjabloon kan niet worden gemaakt
 
-De sjabloon mist mogelijk een functie en wordt niet geactiveerd. Als de functie niet beschikbaar is om te activeren in de huidige siteverzameling, u de sitesjabloon niet gebruiken om een site te maken.
+De sjabloon mist mogelijk een functie en kan niet worden geactiveerd. Als de functie niet kan worden geactiveerd in de huidige siteverzameling, kunt u de sitesjabloon niet gebruiken om een site te maken.
 
-- Controleer of lijsten of bibliotheken de [drempelwaarde voor lijstweergave](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) van 5000 items overschrijden, omdat hiermee het maken van een sitesjabloon kan worden geblokkeerd.
+- Controleer of er lijsten of bibliotheken zijn die de [Drempelwaarde voor lijstweergave](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) van 5000 items overschrijden, aangezien dit het maken van een sitesjabloon kan blokkeren.
 
-- De site gebruikt mogelijk te veel bronnen en daarom overschrijdt de sitesjabloon de limiet van 50 MB.
+- De site gebruikt mogelijk te veel resources en daardoor overschrijdt de sjabloon de limiet van 50 MB.
 
-- Er zijn problemen met het weergeven van gegevens uit een lijst die een opzoekkolom gebruikt. Zie [Lijst met gegenereerde sjablonen geeft geen gegevens weer uit de juiste opzoeklijst in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)voor meer informatie.
+- Er zijn problemen bij het weergeven van gegevens uit een lijst met een opzoekkolom. Zie [In de met een sjabloon gegenereerde lijst worden geen gegevens uit de juiste opzoeklijst weergegeven in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data) voor meer informatie.
 
-Zie [Sitesjablonen maken en gebruiken](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)voor meer gedetailleerde informatie over veelvoorkomende problemen en oplossingen.
+Zie voor meer gedetailleerde informatie over veelvoorkomende problemen en oplossingen [Sitesjablonen maken en gebruiken](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).

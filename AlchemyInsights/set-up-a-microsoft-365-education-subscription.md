@@ -2,21 +2,22 @@
 title: Een Microsoft 365 Education-abonnement instellen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915065"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787456"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Een Microsoft 365 Education-abonnement instellen
 
@@ -24,6 +25,5 @@ Bekijk voor een rondleiding een [beschrijvende video met audio](https://aka.ms/M
 
 **Meer handige informatiebronnen**
 
-- Zie [Een Office 365 Education-tenant instellen](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) voor een overzicht.
-- Zie [aan de slag met Microsoft 365 Education](https://docs.microsoft.com/education/) voor IT-beheerders, ontwikkelaars en partners. 
-- [Koppel uw Microsoft Store-account aan Intune voor Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Zie [Create your Office 365 tenant account](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) (Uw Office 365-tenantaccount maken) voor een overzicht.
+- Zie [Getting started with Microsoft 365 Education](https://docs.microsoft.com/education/) (Aan de slag met Microsoft 365 Education) voor IT-beheerders, ontwikkelaars en partners.
