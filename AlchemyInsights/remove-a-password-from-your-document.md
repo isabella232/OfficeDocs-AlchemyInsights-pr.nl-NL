@@ -1,8 +1,8 @@
 ---
-title: Een wachtwoord van een document verwijderen
+title: Een wachtwoord uit uw document verwijderen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768206"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799408"
 ---
-# <a name="remove-a-password-from-a-word-document"></a>Een wachtwoord van een Word-document verwijderen
+# <a name="remove-a-password-from-a-word-document"></a>Een wachtwoord verwijderen uit een Word-document
 
-Als u het oorspronkelijke wachtwoord weet, kunt u een eenvoudig proces voor het verwijderen van een wachtwoord van een document.
+Zolang u het oorspronkelijke wachtwoord kent, is het verwijderen van een wachtwoord uit een document een eenvoudig proces.
 
 1. Open het document en voer het wachtwoord in.
-2. Ga naar **Bestands**  >  **info**  >  **documenten**  >  **versleutelen met wachtwoord**beveiligen.
-3. Wis het wachtwoord in het **vak Wachtwoord**en selecteer **OK**.
+2. Ga naar  >  **Bestandsgegevens**  >  **Beveiligen**  >  **Documentversleutelen met wachtwoord**.
+3. Schakel het wachtwoord uit in **het vak Wachtwoord** en selecteer **OK.**

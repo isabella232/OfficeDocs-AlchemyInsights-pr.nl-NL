@@ -1,8 +1,8 @@
 ---
-title: Herhaaldelijke aanmeldings prompts/login-lus
+title: Herhaalde aanmeldingsprompts /aanmeldingslus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692758"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799048"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Herhaaldelijke aanmeld vragen in Microsoft 365-apps
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Herhaalde aanmeldingsprompts in Microsoft 365-apps
 
-Zie de volgende informatie over het oplossen van herhaaldelijke aanmeldings vragen in Microsoft 365-apps:
+Zie het volgende als u herhaaldelijke aanmeldingsprompts in Microsoft 365-apps wilt oplossen:
 
-- [Problemen met niet-browser-apps oplossen waarmee u zich niet kunt aanmelden bij Microsoft 365, Azure of intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [Toegang geweigerd of gebruikers wordt herhaaldelijk gevraagd om referenties bij het maken van verbinding met Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Een federatieve gebruiker wordt herhaaldelijk gevraagd om referenties bij het aanmelden bij Microsoft 365, Azure of intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Problemen oplossen met niet-browser-apps die zich niet kunnen aanmelden bij Microsoft 365, Azure of Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ['Toegang geweigerd', of gebruiker wordt herhaaldelijk gevraagd om referenties bij het maken van verbinding met Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Een federatief gebruiker wordt herhaaldelijk om referenties gevraagd tijdens het aanmelden bij Microsoft 365, Azure of Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
