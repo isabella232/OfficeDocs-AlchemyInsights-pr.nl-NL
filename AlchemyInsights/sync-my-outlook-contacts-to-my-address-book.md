@@ -2,7 +2,7 @@
 title: Mijn Outlook-contactpersonen synchroniseren met mijn adresboek
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737372"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797536"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Mijn Outlook-contactpersonen synchroniseren met mijn adresboek
 
-In Outlook kunt u uw contactpersonen exporteren naar de standaard-app voor contactpersonen in Android. Hiermee kunt u de naam van een contactpersoon bekijken wanneer u een oproep of SMS-bericht ontvangt en al uw contactgegevens rechtstreeks in de standaard-app contactpersonen weergeven.
+Met Outlook kunt u uw contactpersonen exporteren naar de standaard-app Contactpersonen op Android. Hierdoor kunt u de naam van een contactpersoon zien wanneer u een oproep of sms-bericht ontvangt en kunt u alle contactgegevens rechtstreeks weergeven in de standaard-app Contactpersonen.
  
-**Om deze functie in te schakelen**:
+**Deze functie inschakelen:**
  
-1. Ga op uw apparaat naar **instellingen**.
+1. Ga op uw apparaat naar **Instellingen.**
 
-2. Tik onder **accounts**op het account waarmee u contactpersonen wilt synchroniseren.
+2. Tik **onder Accounts** op het account met wie u contactpersonen wilt synchroniseren.
 
-3. Zet de schuifregelaar **contactpersonen synchroniseren** aan.
+3. Schakel de **schuifregelaar Contactpersonen synchroniseren** in.
  
-Het exporteren van twee richtings contactpersonen wordt ondersteund voor Microsoft 365, Outlook.com en hybride moderne verificatie voor on-premises postvakken. Ondersteuning voor twee manieren zorgt ervoor dat nieuwe contactpersonen die u toevoegt of bestaande contactpersonen die u bewerkt, worden gesynchroniseerd tussen uw apparaat en Outlook-accounts.
+De export van tweewegcontactcontacten wordt ondersteund voor Microsoft 365, Outlook.com en hybride moderne verificatie voor on-premises postvakken. Ondersteuning in twee delen zorgt ervoor dat nieuwe contactpersonen die u toevoegt of bestaande contactpersonen die u bewerkt, worden gesynchroniseerd tussen uw apparaat en uw Outlook-accounts.
  
-Voor verouderde Exchange-accounts kunt u uw contactpersonen exporteren en opslaan op het apparaat. Wanneer **contactpersonen synchroniseren** is ingeschakeld, worden nieuwe contactpersonen die u hebt toegevoegd aan uw contactpersonen in Outlook, opgeslagen in de app contactpersonen op uw apparaat. Wijzigingen rechtstreeks in de app contactpersonen van uw apparaat worden echter niet opgeslagen in Outlook. Houd er rekening mee dat we geen ondersteuning bieden voor het toevoegen/bewerken van contactpersonen vanuit Outlook voor Android voor on-premises Exchange-accounts, zodat u uw contactpersonen in een andere Outlook-client moet beheren.
+Voor oudere Exchange-accounts kunt u uw contactpersonen exporteren die u wilt opgeslagen op het apparaat. Wanneer **Contactpersonen synchroniseren** is ingeschakeld, worden nieuwe contactpersonen en bewerkingen die zijn aangebracht aan uw contactpersonen in Outlook, opgeslagen in de app Contactpersonen op uw apparaat. Wijzigingen die rechtstreeks in de app Contactpersonen van uw apparaat worden gemaakt, worden echter niet opgeslagen in Outlook. Houd er rekening mee dat we geen ondersteuning bieden voor het toevoegen/bewerken van contactpersonen uit Outlook voor Android voor on-premises exchange-accounts, dus u moet uw contactpersonen beheren vanuit een andere Outlook-client.
  
-Voortaan wordt het synchroniseren van contactpersonen voor GMAIL en iCloud niet ondersteund.
+Contactsynchronisatie voor GMAIL en iCloud wordt momenteel niet ondersteund.
  
-Als u deze gesynchroniseerde contactpersonen wilt verwijderen, kunt u op elk gewenst moment de **synchronisatie van contactpersonen** in-of uitschakelen en ze worden uit uw adresboek verwijderd.
+Als u deze gesynchroniseerde contactpersonen wilt verwijderen,  kunt u op elk moment contactpersonen synchroniseren in- of uitschakelen en deze worden uit uw adresboek verwijderd.
