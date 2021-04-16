@@ -1,8 +1,8 @@
 ---
-title: Groepen en kanalen organiseren in Microsoft stream
+title: Groepen en kanalen organiseren in Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6451"
-ms.openlocfilehash: a6395f3777938c3b8bfd96cd7726430dc5a0bde1
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: b14fc07dfbcb0dd91a757704ee1ccb289705df6f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48274784"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801910"
 ---
-# <a name="organize-groups-and-channels-in-microsoft-stream"></a><span data-ttu-id="88427-102">Groepen en kanalen organiseren in Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="88427-102">Organize groups and channels in Microsoft Stream</span></span>
+# <a name="organize-groups-and-channels-in-microsoft-stream"></a><span data-ttu-id="67695-102">Groepen en kanalen organiseren in Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="67695-102">Organize groups and channels in Microsoft Stream</span></span>
 
-<span data-ttu-id="88427-103">Met een combinatie van kanalen en groepen in de organisatie in Microsoft stream kunt u een gebied instellen voor het organiseren van uw Video's, zodat deze aan uw behoeften voldoen.</span><span class="sxs-lookup"><span data-stu-id="88427-103">With the combination of organization-wide channels and groups in Microsoft Stream, you can set up an area to organize and permission your videos to match your needs.</span></span>  
+<span data-ttu-id="67695-103">Met de combinatie van kanalen en groepen voor de hele organisatie in Microsoft Stream kunt u een gebied instellen om uw video's te organiseren en machtigingen te geven die aan uw behoeften voldoen.</span><span class="sxs-lookup"><span data-stu-id="67695-103">With the combination of organization-wide channels and groups in Microsoft Stream, you can set up an area to organize and permission your videos to match your needs.</span></span>  
 
-- [<span data-ttu-id="88427-104">Groepen en kanalen organiseren in Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="88427-104">How to organize groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
+- [<span data-ttu-id="67695-104">Groepen en kanalen organiseren in Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="67695-104">How to organize groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
