@@ -2,7 +2,7 @@
 title: Standaardinstellingen voor beveiliging
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740325"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809182"
 ---
 # <a name="security-defaults"></a>Standaardinstellingen voor beveiliging
 
-Zie voor meer informatie over beveiligingsstandaarden de [instelling beveiligingsstandaarden?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Zie Wat [zijn beveiligingsinstellingen?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)voor informatie over beveiligingsinstellingen.
 
-Met behulp van beveiligingsstandaarden in azure Active Directory (Azure AD) kunt u eenvoudiger veilig zijn en uw organisatie beschermen. Beveiligingsstandaard waarden bevatten vooraf geconfigureerde beveiligingsinstellingen voor algemene aanvallen.
+Beveiligingsinstellingen in Azure Active Directory (Azure AD) maken het gemakkelijker om veilig te zijn en uw organisatie te beschermen. Beveiligingsinstellingen bevatten vooraf geconfigureerde beveiligingsinstellingen voor veelvoorkomende aanvallen.
 
-Microsoft doet beveiligingsstandaarden voor iedereen beschikbaar stellen. Het doel is om ervoor te zorgen dat alle organisaties een elementair niveau van beveiliging tegen geen extra kosten hebben ingeschakeld. U kunt de standaardwaarden voor beveiliging in de Azure-Portal inschakelen.
+Microsoft stelt beveiligingsinstellingen beschikbaar voor iedereen. Het doel is ervoor te zorgen dat alle organisaties een basisniveau van beveiliging hebben dat zonder extra kosten is ingeschakeld. U schakel beveiligingsinstellingen in in de Azure-portal.

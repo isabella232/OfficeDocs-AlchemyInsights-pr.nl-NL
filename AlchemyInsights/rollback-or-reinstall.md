@@ -1,8 +1,8 @@
 ---
-title: Ongedaan maken of opnieuw installeren
+title: Terugdraaien of opnieuw installeren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 4a5c613cecf9287ca4a7ac709fc5993a480d8bd8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 51ec547d99c6d13ddc14bc1b3288ff54fb1cd056
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560507"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809218"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Office opnieuw installeren of herstellen
+# <a name="reinstall-or-roll-back-office"></a>Office opnieuw installeren of terugdraaien
 
-Als u algemene problemen ondervindt na een recente update van de Office-Suite, kunt u het probleem mogelijk oplossen door een nieuwe versie van Office uit te voeren of terug te gaan naar de vorige versie van Office.
+Als u algemene problemen ondervindt na een recente update van de Office-suite, kunt u het probleem mogelijk oplossen door een herinstallatie van Office uit te voeren of terug te gaan naar de vorige versie van Office.
 
-Als u een nieuwe versie van Office wilt **installeren** , raadpleegt u [Office 365 of Office 2019 downloaden en installeren of opnieuw installeren op een PC of Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
+Als u Office **opnieuw** wilt installeren, bekijkt u [Office 365 of Office 2019](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)downloaden en installeren of opnieuw installeren op een pc of Mac.
 
-Als u een **Rollback** van Office wilt uitvoeren, leest u hoe u terugkeert [naar een eerdere versie van Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).
+Als u een **terugdraaiing van** Office wilt uitvoeren, bekijkt u Hoe u terug kunt keren [naar een eerdere versie van Office.](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic)

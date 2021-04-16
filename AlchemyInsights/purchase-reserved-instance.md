@@ -1,8 +1,8 @@
 ---
-title: Gereserveerd exemplaar van aankoop
+title: Een gereserveerd exemplaar kopen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741357"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809902"
 ---
-# <a name="questions-before-purchase"></a>Vragen voordat u koopt
+# <a name="questions-before-purchase"></a>Vragen vóór aankoop
 
-**Hoe wordt de reserverings korting toegepast op bestaande resources?**  
-De vergoeding van de reservering is automatisch van toepassing op bestaande bronnen die overeenkomen met de reserverings SKU, regio en scope. Er is geen tags voor een reservering van een resource. [Meer informatie](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Hoe wordt de reserveringskorting toegepast op bestaande bronnen?**  
+Het reserveringsvoordeel is automatisch van toepassing op bestaande resources die overeenkomen met de SKU, de regio en het bereik van de reservering. Een bron wordt niet als een reservering gelabeld. [Meer informatie](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
 **Welke VM-grootte moet ik kopen?**  
-Lees dit artikel: [de juiste grootte van de VM bepalen voordat u gaat kopen](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+Lees hiervoor dit artikel: [De juiste VM-grootte bepalen voordat je koopt](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Vragen over het kopen van een gereserveerde SQL-capaciteit?**  
-Lees dit artikel: [gereserveerde capaciteit van een SQL-database](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Heb je vragen over het kopen van de gereserveerde SQL-capaciteit?**  
+Lees hiervoor dit artikel: [Gereserveerde SQL Database-capaciteit kopen](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Ik heb een indirecte EA-klant, moet ik mijn partner kopen?**  
-Nee, u kunt de RI kopen als u een eigenaar bent van een EA-abonnement.
+**Ik ben een indirecte EA-klant. Heb ik mijn partner nodig om te kopen?**  
+Nee, je kunt zelf een gereserveerd exemplaar kopen als je eigenaar van een EA-abonnement bent.
 
-**Houdt RI-aankopen af van monetaire toezeggingen?**  
-Ja. Als u niet voldoende monetaire toezegging hebt, krijgt u een overage factuur voor het bedrag dat de beschikbare monetaire toezegging overschrijdt.
+**Wordt de aankoop van een gereserveerd exemplaar in minder gebracht op de monetaire commitment?**  
+Ja. Als de monetaire commitment niet voldoende is, ontvang je een meerkostenfactuur voor het bedrag boven de beschikbare monetaire commitment.
 
-**Hoe is een gereserveerd exemplaar van toepassing op Windows-Vm's of voor mijn SQL IP-kosten?**  
-De gereserveerde exemplaar korting geldt alleen voor het berekenings gebruik. IP-of SQL IP-kosten worden apart berekend en krijgen geen RI-korting. [Software kosten die niet zijn opgenomen met door Azure gereserveerde VM-exemplaren](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Hoe is een gereserveerd exemplaar van toepassing op VM's van Windows of op mijn SQL IP-kosten?**  
+De korting op een gereserveerd exemplaar geldt alleen voor het berekeningsgebruik. Kosten voor Windows IP of SQL IP worden afzonderlijk in rekening gebracht en je krijgt geen korting voor een gereserveerd exemplaar. [Softwarekosten die niet zijn opgenomen in Azure Reserved Virtual Machine Instances](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Facturering voor een gereserveerd exemplaar van aankoop**  
+**Facturering voor een gekocht gereserveerd exemplaar**  
       
-Voor de aankoop van een gereserveerd exemplaar wordt rekening gebracht met de betaalwijze die is gekoppeld aan het abonnement dat u op het moment van aankoop selecteert. Het type abonnement moet een Enterprise Agreement zijn (nummer van aanbieding: MS-AZR-0017P), pay-as-u-go (aanbiedings nummer: MS-AZR-0003P), Microsoft Customer Agreement of CSP.
+De aankoop van de gereserveerde exemplaren wordt afgeschreven van de betalingswijze die is gekoppeld aan het tijdens de aankoop geselecteerd abonnement. Het abonnementstype moet een Enterprise Agreement (aanbiedingsnummer: MS-AZR-0017P), Betalen per gebruik (aanbiedingsnummer: MS-AZR-0003P), Microsoft-klantovereenkomst of Microsoft Cloud Solution Provider zijn.
 
--   Voor een Enterprise-abonnement worden de kosten in rekening gebracht voor het monetaire toezeggings saldo van de inschrijving of in rekening gebracht als overage
--   Voor Pay-to-go-abonnementen worden de kosten gefactureerd aan de betaling per creditcard of factuur methode voor het abonnement
+-   Voor een Enterprise-abonnement worden de kosten afgeschreven van het saldo van de monetaire commitment van de inschrijving of de kosten worden als meerkosten in rekening gebracht
+-   Bij een abonnement met betalen per gebruik worden de kosten in rekening gebracht bij het abonnement via de betalingswijze creditcard of factuur
 
-**Een serviceplan kopen:**
+**Een serviceabonnement kopen:**
 
--   [Vooruitbetalen voor Cosmos DB gereserveerde capaciteit](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Vooruitbetalen voor SQL database Compute-bronnen met gereserveerde capaciteit van Azure SQL database](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Vooruitbetalen voor virtuele machines met Azure gereserveerde VM-exemplaren](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Vooruitbetalen voor de gereserveerde capaciteit van Cosmos Database](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Vooruitbetalen van SQL Database-berekeningsbronnen met de gereserveerde capaciteit van Azure SQL-database](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Vooruitbetalen voor virtuele machines met Azure Reserved Virtual Machine Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Een software abonnement kopen:**
+**Een softwareabonnement kopen:**
 
--   [Vooruitbetalen voor rode Hat-Software-abonnementen van Azure reserveringen](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Vooruitbetalen voor SUSE-software-abonnementen van Azure reserveringen](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Vooruitbetalen van Red Hat-softwareabonnementen van Azure Reservations](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Vooruitbetalen van SUSE-softwareabonnementen van Azure Reservations](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

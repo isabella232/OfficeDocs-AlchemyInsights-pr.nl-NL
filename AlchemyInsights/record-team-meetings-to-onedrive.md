@@ -1,8 +1,8 @@
 ---
-title: Opnamen van vergaderingen in teams in OneDrive
+title: Opnames Teams-vergadering naar OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
-ms.translationtype: MT
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807283"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810263"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Opnamen van vergaderingen in teams in OneDrive
+# <a name="teams-meeting-recordings-to-onedrive"></a>Opnames Teams-vergadering naar OneDrive
 
-Microsoft teams heeft een nieuwe methode voor het opslaan van opnamen van vergaderingen. In de eerste fase van een overgang van de klassieke Microsoft stream naar de [nieuwe stream](https://docs.microsoft.com/stream/streamnew/new-stream), wordt met deze methode opnamen opgeslagen in Microsoft OneDrive voor bedrijven en SharePoint in microsoft 365 en worden veel voordelen geboden.  
+Microsoft Teams heeft een nieuwe methode voor het opslaan van opnames van vergaderingen. Als eerste fase van het overstappen van de klassieke Microsoft Stream naar de [nieuwe Stream](https://docs.microsoft.com/stream/streamnew/new-stream) slaat deze methodes opnames op in Microsoft OneDrive voor Bedrijven en SharePoint in Microsoft 365 en biedt vele voordelen.  
 
-- [De opname optie voor vergaderingen instellen voor OneDrive voor bedrijven en SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Afmelden voor OneDrive voor bedrijven en SharePoint om de stroom te blijven gebruiken](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Stel de optie voor het opnemen van vergaderingen in in OneDrive voor Bedrijven en SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Meld af bij OneDrive voor Bedrijven en SharePoint om de Stream te blijven gebruiken](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Veelgestelde vragen](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)

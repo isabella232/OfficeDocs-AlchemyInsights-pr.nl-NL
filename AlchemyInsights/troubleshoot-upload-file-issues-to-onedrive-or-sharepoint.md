@@ -1,8 +1,8 @@
 ---
-title: Problemen oplossen met het uploaden van bestanden naar OneDrive of SharePoint
+title: Problemen met uploadbestand oplossen naar OneDrive of SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: b4b4e1e3603d7a2758c027c957961ae2651fbfe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f53002cfd8c8437cefe181e48e644cc55f76b568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800099"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808930"
 ---
-# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Problemen oplossen met het uploaden van bestanden naar OneDrive of SharePoint
+# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Problemen met uploadbestand oplossen naar OneDrive of SharePoint
 
-Meer informatie over het [uploaden van uw bestanden naar OneDrive](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a). 
+Meer informatie over het [uploaden van uw bestanden naar OneDrive.](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a) 
