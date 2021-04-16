@@ -1,8 +1,8 @@
 ---
-title: Upgrade van teams uitstellen
+title: Teams upgrade uitstellen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741766"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801226"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>De upgrade van Microsoft-team voor teams uitstellen
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>De microsoft-teams-upgrade uitstellen
 
-**Belangrijk**: we kunnen u helpen om dit probleem op te lossen met een ondersteunings diagnose, maar het lijkt erop dat u het nieuwe Beheercentrum niet gebruikt. Als u het nieuwe Beheercentrum wilt gebruiken, schuift u de schuifknop in de rechterbovenhoek van het **nieuwe Beheercentrum** . Als u het nieuwe Beheercentrum gebruikt, klikt u op de widget **hulp nodig?** , typt u upgrade van teams uitstellen en volgt u de aanwijzingen om de diagnostische gegevens uit te voeren.
+**Belangrijk:** We kunnen u helpen dit probleem op te lossen met behulp van een diagnostische ondersteuning, maar het lijkt erop dat u het nieuwe beheercentrum niet gebruikt. Als u het nieuwe beheercentrum wilt gebruiken, schuift u de schakelknop rechtsboven met het nieuwe **beheercentrum** aan de rechterkant. Klik in het nieuwe beheercentrum op de widget **Help nodig?** en typ 'Teams upgrade uitstellen'. Volg vervolgens de aanwijzingen om de diagnostische versie uit te voeren.
 
-Als u een door Microsoft gerichte geautomatiseerde upgrade van Skype voor bedrijven naar Microsoft teams hebt ontvangen en u de geautomatiseerde upgrade naar een latere datum wilt uitstellen, kunt u zich aanmelden bij de [beheerportal van teams](https://admin.teams.microsoft.com/dashboard) en na het selecteren van de knop **Status vernieuwen** onder Microsoft teams-upgrade, selecteert u de knop **uitstellen** . Om de nieuwe datum te zien voor de geautomatiseerde upgrade van de Tenant naar Microsoft teams, vernieuwt u de portal pagina van de teams-beheerder.
+Als u communicatie hebt ontvangen over een door Microsoft gestuurde geautomatiseerde upgrade van Skype voor Bedrijven naar Microsoft Teams en u de geautomatiseerde upgrade wilt uitstellen naar  een latere datum, kan uw globale beheerder zich aanmelden bij de [Teams-beheerportal](https://admin.teams.microsoft.com/dashboard) en selecteert u na het selecteren van de knop **Status** vernieuwen onder Microsoft Teams Upgrade de knop Uitstellen. Als u de nieuwe datum wilt zien voor de geautomatiseerde upgrade van uw tenant naar Microsoft Teams, vernieuwt u de pagina Teams-beheerportal.
 
-**Opmerking:** De knop **uitstellen** is alleen beschikbaar als u de melding van het berichtencentrum met betrekking tot de geautomatiseerde upgrade hebt ontvangen. 
+**Opmerking:** De **knop** Uitstellen is alleen beschikbaar als u de melding van het berichtencentrum over de geautomatiseerde upgrade hebt ontvangen. 
 
-Globale beheerders kunnen ook [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) uitvoeren om meer te weten te komen over de huidige status van de upgrade.
+Globale beheerders kunnen ook [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) uitvoeren voor meer informatie over hun huidige upgradestatus.

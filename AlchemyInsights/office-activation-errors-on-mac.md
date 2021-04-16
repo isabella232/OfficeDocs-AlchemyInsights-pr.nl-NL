@@ -2,21 +2,22 @@
 title: Fouten bij de activering van Office op Mac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: ecdfe282d910dcfc077e0276e46a5e7e43c4108d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: db17f222ccd245b7c9199c159098fbcc8e78c003
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509991"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802558"
 ---
 # <a name="office-activation-errors-on-mac"></a>Fouten bij de activering van Office op Mac
 
