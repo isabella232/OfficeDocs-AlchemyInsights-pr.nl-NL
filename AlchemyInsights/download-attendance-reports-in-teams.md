@@ -1,27 +1,28 @@
 ---
-title: Presentierapporten downloaden in Teams
+title: Aanwezigheidsrapporten downloaden in Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: d11f8114595b8201cfdd1bdf6c925097aee185cb
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: 5f52c57e7ec09a0c52dfbc1e3c63fab80c97e9ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569009"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814692"
 ---
-# <a name="download-attendance-reports-in-teams"></a>Presentierapporten downloaden in Teams
+# <a name="download-attendance-reports-in-teams"></a>Aanwezigheidsrapporten downloaden in Teams
 
-Organisatoren van vergaderingen kunnen aanwezigheidsrapporten downloaden tijdens vergaderingen. Als beheerder bepaalt u of organisatoren van vergaderingen de aanwezigheidsrapporten van vergaderingen kunnen downloaden door een vergaderbeleid voor Teams in te stellen. Standaard is de mogelijkheid om het rapport te downloaden uitgeschakeld. Zie [Beleidsinstellingen vergadering - Aanwezigheidsrapport vergadering voor](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)stappen over het inschakelen van deze functie.
+Organisatoren van vergaderingen kunnen aanwezigheidsrapporten downloaden tijdens vergaderingen. Als beheerder bepaalt u of organisatoren van vergaderingen de aanwezigheidsrapporten van vergaderingen kunnen downloaden door een Teams-vergaderbeleid in te stellen. De mogelijkheid om het rapport te downloaden is standaard uitgeschakeld. Zie [Instellingen vergaderingsbeleid - Aanwezigheidsrapportage](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report) voor stappen voor het inschakelen van deze functie.
 
-Zodra dit is ingeschakeld, kunnen organisatoren van vergaderingen tijdens de vergadering **deelnemers weergeven** selecteren en **de lijst met deelnemers**downloaden kiezen. Zie [Aanwezigheidsrapporten downloaden in het](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) aanwezigheidsrapport voor teams en [Microsoft Teams-vergaderingen](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)voor meer informatie.
+Zodra dit is ingeschakeld, kunnen organisatoren van de vergadering tijdens de vergadering **Deelnemers tonen** selecteren en **Deelnemerslijst downloaden** kiezen. Zie [Aanwezigheidsrapporten downloaden in Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) en [Microsoft Teams-aanwezigheidsrapportage](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report) voor meer informatie.
 
-**Belangrijk:** u het aanwezigheidsrapport alleen downloaden terwijl de vergadering aan de gang is en deelnemers nog steeds aanwezig zijn.
+**Belangrijk**: u kunt het aanwezigheidsrapport alleen downloaden terwijl de vergadering bezig is en er deelnemers aanwezig zijn.

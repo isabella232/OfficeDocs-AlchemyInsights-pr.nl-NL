@@ -2,31 +2,32 @@
 title: Een notitieblok exporteren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 16dc0db4b871426d18fca4341f7ea8e97c5e1f87
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.openlocfilehash: 51153353a62ea4643b24cb369e2727b707a80ce5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44282337"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813395"
 ---
 # <a name="export-a-notebook"></a>Een notitieblok exporteren
 
-In de bureaubladapp van OneNote 2016:
+In OneNote 2016 bureaubladapp:
 
-1. Klik op de pagina die u wilt exporteren op **Bestand > exporteren**.
-2. Klik **onder Huidige exporteren**op wat u wilt exporteren (pagina, sectie of notitieblok).
-3. Klik **op Exporteren**.
+1. Klik op de pagina die u wilt exporteren op **Bestand > Exporteren**.
+2. Klik onder **Exporteer Huidige** op wat je wilt exporteren (pagina, sectie of notitieblok).
+3. Klik op **Exporteren**.
  
-Als u het eigendom van een bestand dat in de cloud is opgeslagen, wilt overdragen, u ook de functies van de sectie **Delen** of de sectie **Verplaatsen/kopiëren** gebruiken om de inhoud van notitieblokken te migreren.  
+Om eigenschap van een bestand in de cloud over te dragen kun je de **Delen** of de **Verplaatsen/Kopiëren** sectie functie gebruiken om inhoud van notitieblokken te migreren.  
 
-- Klik of tik in de rechterbovenhoek van het app-venster op Delen of tik op **Delen**.
-- Zie [Een OneNote voor Windows-notitieblok verplaatsen dat u met anderen hebt gedeeld](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US)als u het notitieblok wilt verplaatsen.
+- Klik of tik rechtsboven in het appvenster op **Delen**. 
+- Ga om een notitieblok te verplaatsen naar [Een notitieblok van OneNote voor Windows verplaatsen dat u met anderen hebt gedeeld](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US).

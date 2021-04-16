@@ -2,34 +2,35 @@
 title: Meer doen met multitasking in Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 8d8e73f4d9c5466badae1688981b8a968f6b010a
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
-ms.translationtype: MT
+ms.openlocfilehash: 18259192bd5e6aeb85abaf6aa988cfcbbebd88af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268944"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814953"
 ---
 # <a name="do-more-with-multitasking-in-windows-10"></a>Meer doen met multitasking in Windows 10
 
-Als u apps wilt zien of schakelen: u op de knop **Taakweergave** op de taakbalk klikken of op **Alt-Tab** op het toetsenbord drukken. De knop Taakweergave ziet er als volgt uit:
+Als u de apps wilt bekijken of ertussen wilt schakelen, klikt u op de knop **Taakweergave** op de taakbalk of drukt u op **Alt-Tab** op het toetsenbord. De knop Taakweergave ziet er als volgt uit:
 
 ![Knop Taakweergave](media/task-view.png)
 
-Als u eenvoudig twee apps naast elkaar wilt rangschikken, gebruikt u Snap Assist: pak de bovenkant van een app-venster en sleep het naar één kant om het naar die helft van het scherm te "klikken". Kies vervolgens een andere app en deze wordt automatisch op zijn plaats in de andere helft van het scherm vastgesnapt.
+U kunt twee apps eenvoudig naast elkaar plaatsen. Hiervoor gebruikt u Snap Assist: sleep de bovenkant van een app-venster naar één kant om het aan die helft van het scherm vast te maken. Kies vervolgens een andere app. Deze wordt automatisch vastgemaakt aan de andere helft van het scherm.
 
-**Om verschillende virtuele desktops voor thuis en op het werk te maken:**
+**Verschillende virtuele bureaubladen maken voor thuis en op het werk**:
 
 1. Klik op de knop **Taakweergave** op de taakbalk of druk op **Alt-Tab** op het toetsenbord.
-2. Klik op **+ Nieuw bureaublad** (linksboven in het scherm in de taakweergave).
+2. Klik op **+ Nieuw bureaublad** (in de taakweergave linksboven in het scherm).
 3. Open de apps die u wilt gebruiken. 
 
-Ga terug naar **taakweergave** om uw bureaubladen te bekijken en tussen deze bureaubladen te schakelen.
+Ga terug naar **Taakweergave** om de bureaubladen te bekijken en ertussen te schakelen.

@@ -1,8 +1,8 @@
 ---
-title: 0x8004de40-fout bij het starten van OneDrive
+title: 0x8004de40 bij het starten van OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: f689fcf9432e9b356843efe73ed0f79a32735e6f
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823017"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813647"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40-fout bij het starten van OneDrive
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 bij het starten van OneDrive
 
-Als u een foutmelding krijgt **0x8004de40** wanneer u zich aanmeldt bij OneDrive, start u de computer opnieuw op terwijl u verbinding hebt met het domein van uw werk of school. Als u deze foutmelding krijgt nadat u de computer opnieuw hebt opgestart, kunt u dit proberen wanneer u verbinding hebt met uw werk-of school domein:
+Als u een foutmelding **0x8004de40** wanneer u zich bij OneDrive aanmeldt, start u de computer opnieuw op terwijl deze is verbonden met uw werk- of schooldomein. Als u deze fout ontvangt na het opnieuw opstarten, probeert u dit terwijl u verbonden bent met uw werk- of schooldomein:
 
-1. Klik op Start en typ **cmd** of **Command prompt**  in het zoekvak, klik met de rechtermuisknop op de opdrachtprompt-app en selecteer  **als administrator uitvoeren** . Als u wordt gevraagd om een beheerderswachtwoord of een bevestiging, typt u het wachtwoord of klikt u op **toestaan** .  
+1. Klik op Start en typ **cmd** of **opdrachtprompt** in het zoekvak, klik met de rechtermuisknop op de opdrachtprompt-app en selecteer **Als beheerder uitvoeren.** Als u wordt gevraagd om een beheerderswachtwoord of om een bevestiging, typt u het wachtwoord of klikt u op **Toestaan.**  
 
-2. Typ in het venster met de opdracht prompt de tekst **dsregcmd/Leave**  en wacht totdat de opdracht klaar is. Typ vervolgens **dsregcmd/join** en wacht tot de opdracht klaar is.
+2. Typ in het venster Opdrachtprompt **dsregcmd /leave**  en wacht totdat de opdracht is voltooid. Typ **vervolgens dsregcmd /join** en wacht totdat de opdracht is voltooid.
 3. Start de computer opnieuw op.

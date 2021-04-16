@@ -1,8 +1,8 @@
 ---
-title: Verzenden direct na verbinding inschakelen
+title: Direct verzenden inschakelen wanneer er verbinding is
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709578"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813971"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Verzenden direct na verbinding inschakelen
+# <a name="enable-send-immediately-when-connected"></a>Direct verzenden inschakelen wanneer er verbinding is
  
-1. Klik op het tabblad bestand op **Opties**.
+1. Klik op het tabblad Bestand op **Opties.**
 
-2. Klik in het dialoogvenster Opties voor Outlook op **Geavanceerd**.
+2. Klik in het dialoogvenster Opties voor Outlook op **Geavanceerd.**
 
-3. Selecteer in de sectie verzenden en ontvangen de optie **verzenden direct wanneer u verbonden bent**. Klik op **OK**.
+3. Klik in de sectie Verzenden en ontvangen op om Direct verzenden **in te stellen wanneer er verbinding is.** Klik op **OK**.
 
 Zie voor meer informatie:
-- [Video: een vastgelopen e-mailbericht verzenden of verwijderen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-mail blijft in de map Postvak uit staan tot u handmatig een bewerking voor verzenden/ontvangen in Outlook start](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+- [Video: Een vastgelopen e-mail verzenden of verwijderen](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [E-mail blijft in de map Postvak UIT totdat u handmatig een verzend-/ontvangstbewerking start in Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

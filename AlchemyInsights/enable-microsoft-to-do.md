@@ -1,8 +1,8 @@
 ---
-title: Microsoft to-do inschakelen
+title: Microsoft-To-Do
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: ba45cd308114037a0090aa218c7764442b0d81d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516ad0ccadd74eee7e00353d7439eebc6d88718f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709866"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814097"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Microsoft to-do inschakelen
+# <a name="how-to-enable-microsoft-to-do"></a>Microsoft-To-Do
 
-Als u Microsoft to-do wilt gebruiken, moet de beheerder de app inschakelen voor de account van een gebruiker. Ga naar de [ &amp; pagina invoegtoepassingen voor services](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) van de pagina met instellingen voor Microsoft 365-beheerders om to-do voor elke gebruiker in te schakelen.
+Als u Microsoft To-Do wilt gebruiken, moet een beheerder de app inschakelen voor het account van elke gebruiker. Ga naar de [pagina &amp; Services-invoegvoegingen](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) van de pagina Microsoft 365-beheerinstellingen om de To-Do voor elke gebruiker in te stellen.
   
-Microsoft to-do maakt gebruik van functies in Exchange Online voor het synchroniseren en opslaan van taakitems van gebruikers. Als een gebruiker Microsoft to-do wil gebruiken, moet deze een geldig postvak van Exchange Online hebben.
+Microsoft To-Do functies in Exchange Online gebruikt om de to-do-items van gebruikers te synchroniseren en op te slaan. Als u Microsoft To-Do wilt gebruiken, heeft een gebruiker een geldig Exchange Online-postvak nodig.
   
-Zie beheer van de [proefversie van Microsoft to-do](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)voor meer informatie.
+Zie Microsoft To-Do [Preview-beheer voor meer informatie.](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)
   
- **Opmerking**: als u een 501-fout ontvangt wanneer u zich probeert aan te melden [https://todo.microsoft.com](https://todo.microsoft.com) , probeert u het opnieuw [https://to-do.microsoft.com](https://to-do.microsoft.com) .
+ **Opmerking:** Als u een 501-foutmelding krijgt wanneer u zich probeert aan te [https://todo.microsoft.com](https://todo.microsoft.com) melden, probeert u [https://to-do.microsoft.com](https://to-do.microsoft.com) .
   
 
