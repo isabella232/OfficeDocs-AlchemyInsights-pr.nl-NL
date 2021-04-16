@@ -1,31 +1,32 @@
 ---
-title: Knop Site-/lijstsjabloon opslaan die niet beschikbaar of ontbreekt
+title: Knop voor site-/lijstsjabloon opslaan niet beschikbaar of ontbreekt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357642"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789283"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Knop Site-/lijstsjabloon opslaan die niet beschikbaar of ontbreekt
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Knop voor site-/lijstsjabloon opslaan niet beschikbaar of ontbreekt
 
-De mogelijkheid om een site op te slaan als sjabloon wordt niet ondersteund met moderne communicatie- of teamsites. Zie [Een SharePoint-site opslaan, downloaden en uploaden als sjabloon](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)voor meer informatie over het gebruik van sjablonen.
+De mogelijkheid om een site als sjabloon op te slaan, wordt niet ondersteund door moderne Communicatie- of Teamsites. Zie [Een SharePoint-site als sjabloon opslaan, downloaden en uploaden](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template) voor meer informatie over het gebruik van sjablonen.
 
 Beheerders moeten Aangepast script toestaan om de sjabloonfuncties in te schakelen. Zie voor gedetailleerde stappen, voorbeelden en overwegingen:
 
-- [Aangepast script toestaan of voorkomen](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Aangepaste scripts toestaan of tegenhouden](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- De opdracht Site opslaan als sjabloon wordt niet ondersteund en kan problemen veroorzaken op sites die de SharePoint Server Publishing Infrastructure gebruiken.
+- De opdracht Site opslaan als sjabloon wordt niet ondersteund en kan problemen veroorzaken op sites die gebruikmaken van de publicatie-infrastructuur SharePoint Server.
 
 
