@@ -1,8 +1,8 @@
 ---
-title: Hoe sla ik mijn Outlook-contactpersonen op in de app contactpersonen van iOS?
+title: Hoe sla ik mijn Outlook-contactpersonen op in mijn iOS-contacten-app?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781782"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811127"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Hoe sla ik mijn Outlook-contactpersonen op in de app contactpersonen van iOS?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Hoe sla ik mijn Outlook-contactpersonen op in mijn iOS-contacten-app?
 
-Outlook-contactpersonen opslaan in uw eigen Adresboek:
+Outlook-contactpersonen opslaan in uw eigen adresboek:
  
-1. Ga naar **Device Settings**  >  **contactpersonen** voor apparaat-instellingen en controleer of het **standaard account** is ingesteld op **iCloud**. Houd er rekening mee dat deze instelling alleen beschikbaar is als u meer dan één account hebt toegevoegd aan uw apparaat. Als er geen account is verbonden met het apparaat, worden uw Outlook-contactpersonen lokaal opgeslagen, maar worden deze niet gesynchroniseerd met andere apparaten.
+1. Ga naar **Contactpersonen met apparaatinstellingen**  >   en bevestig dat het **standaardaccount** is ingesteld op **iCloud.** Houd er rekening mee dat deze instelling alleen beschikbaar is als u meer dan één account hebt toegevoegd aan uw apparaat. Als er geen account is verbonden met het apparaat, worden uw Outlook-contactpersonen lokaal opgeslagen, maar worden ze niet gesynchroniseerd met andere apparaten.
  
-2. Open Outlook voor iOS, ga naar het linkernavigatievenster, selecteer het instellingen tandwiel, kies **uw account selecteren**en schakel de wisselknop **contactpersonen opslaan** in.
+2. Open Outlook voor iOS en selecteer in de linkernavigatie het tandwiel Instellingen, kies **Uw account selecteren** en schakel de schakelknop Contactpersonen opslaan in. 
  
-Opgeslagen contactpersonen worden toegevoegd onder de contactpersonen in uw iCloud-account. Deze contactpersonen worden gesynchroniseerd met alle apparaten die zijn aangemeld met hetzelfde iCloud-account. U kunt alleen contactpersonen van een apparaat tegelijk exporteren.
+Opgeslagen contactpersonen worden toegevoegd onder de contactpersonen in uw iCloud-account. Deze contactpersonen worden gesynchroniseerd met alle apparaten die zijn aangemeld met hetzelfde iCloud-account. Houd er rekening mee dat u contactpersonen slechts van één apparaat tegelijk kunt exporteren.
  
-Als een gebruiker contactpersoon heeft ingeschakeld, is de functie voor het exporteren van een contactpersoon en van de iPhone een functie uitgeschakeld om conflicten te voorkomen. Het kan 24 uur duren voordat duplicaten zijn reconciliated.
+Als een gebruiker het exporteren van contactpersonen heeft ingeschakeld, moet zowel de iPad als de iPhone worden uitgeschakeld om conflicten te voorkomen. Het kan 24 uur duren voordat duplicaten opnieuw worden samengesteld.

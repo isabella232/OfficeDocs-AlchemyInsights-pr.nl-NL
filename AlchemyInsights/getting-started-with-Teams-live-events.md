@@ -2,27 +2,30 @@
 title: Aan de slag met live evenementen van Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
-ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
+ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142984"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811955"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Aan de slag met live evenementen van Teams
 
 Live-evenementen van Microsoft Teams zijn een uitbreiding van Teams-vergaderingen waarmee u evenementen kunt plannen en produceren die naar een groot online publiek kunnen worden gestreamd.
 
 Om een live evenement te maken, heb je het volgende nodig:
+
+- Bevestig eerst dat Teams Live Evenementen [beschikbaar is in uw land en regio](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Live Eventementen worden in sommige landen/regio's nog niet ondersteund.  Als u licenties toegewezen heeft en een beleid heeft ingesteld, en u kunt nog steeds geen Teams Live Eventementen maken, dan is Live Evenementen waarschijnlijk nog niet beschikbaar in uw land of regio.
 
 - Een [ Office 365 Enterprise E1-, E3- of E5-licentie of een Office 365 A3- of A5-licentie ](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Let op**: vanwege een recente toename van het Teams-gebruik, kan het ongeveer 24 uur duren voordat u een Teams-licentie aan een gebruiker toewijst voordat deze volledig is ingesteld. Tot die tijd kunt u hen geen Teams-beleid toewijzen en hebben ze mogelijk geen toegang tot bepaalde Teams-functies zoals bellen en audioconferenties.
 
@@ -31,8 +34,7 @@ Om een live evenement te maken, heb je het volgende nodig:
 - Toestemming om [ live-evenementen te maken in Microsoft Stream ](https://docs.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events) (voor evenementen die zijn geproduceerd met een externe uitzendapp of apparaat).
 
 - Volledig teamlidmaatschap in de organisatie (kan geen gast zijn of van een andere organisatie).
-
-- Planning van privévergaderingen, screensharing en delen van IP-video's is ingeschakeld in het beleid voor teamvergaderingen.
+Planning van privévergaderingen, screensharing en delen van IP-video's is ingeschakeld in het beleid voor teamvergaderingen.
 
 - [Aanbevolen procedures](https://support.office.com/article/Best-practices-for-producing-a-Teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42) voor teams en kanalen.
 

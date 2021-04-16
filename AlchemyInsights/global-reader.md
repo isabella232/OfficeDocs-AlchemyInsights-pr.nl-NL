@@ -2,25 +2,26 @@
 title: Algemene lezer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 556f766ffdb2a869e809cc03fefa06357703564d
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
-ms.translationtype: MT
+ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278942"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811847"
 ---
 # <a name="global-reader"></a>Algemene lezer
 
-Gebruikers in deze rol kunnen instellingen en administratieve gegevens lezen in Microsoft 365-services, maar kunnen geen beheeracties uitvoeren. Wereldwijde lezer is de alleen-lezen tegenhanger van Global administrator.
-OneDrive-beheercentrum biedt geen ondersteuning voor de rol Van De lezer wereldwijd.
+Gebruikers in deze rol kunnen de instellingen en administratieve informatie lezen via alle Microsoft 365-diensten maar kunnen geen beheeracties ondernemen. Algemene lezer is de enige alleen-lezen tegenhanger van Globale beheerder.
+OneDrive beheercentrum ondersteunt geen Algemene lezer-rol.
 
-Zie [Global Reader](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader)voor meer informatie over de wereldwijde lezer en de huidige beperkingen.
+Ga om meer te weten komen over Algemene lezer en zijn huidige beperkingen naar [Algemene lezer](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).

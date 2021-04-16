@@ -1,8 +1,8 @@
 ---
-title: Bluetooth-problemen oplossen in Windows 10
+title: Bluetooth-problemen in Windows 10 oplossen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730154"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812927"
 ---
-# <a name="fix-bluetooth-problems-in-windows-10"></a>Bluetooth-problemen oplossen in Windows 10
+# <a name="fix-bluetooth-problems-in-windows-10"></a>Bluetooth-problemen in Windows 10 oplossen
 
-Als Bluetooth niet is in-of uitgeschakeld, kunt u de probleemoplosser voor Bluetooth uitvoeren. [Open de instellingen voor probleemoplossing](ms-settings:troubleshoot), **Klik onder** **andere problemen zoeken en oplossen**op **de probleemoplosser uitvoeren**.
+Als het Bluetooth-pictogram ontbreekt of Bluetooth niet kan worden in- of uitgeschakeld, kunt u de Bluetooth-probleemoplosser uitvoeren. [Open de instellingen voor probleemoplossing,](ms-settings:troubleshoot)klik **op Bluetooth** onder Andere problemen zoeken en **oplossen,** klik **op De probleemoplosser uitvoeren.**
 
-Als u het pictogram Bluetooth niet ziet, maar Bluetooth wel in Apparaatbeheer wordt weergegeven:
+Als u het Bluetooth-pictogram niet ziet, wordt Bluetooth wel weergegeven in Device Manager:
 
-1. Klik in Apparaatbeheer op **Bluetooth**. Houd de naam van de Bluetooth-adapter ingedrukt (of klik erop met de rechtermuisknop) en klik op **apparaat verwijderen**.
+1. Klik in Apparaatbeheer op **Bluetooth.** Houd de naam van de Bluetooth-adapter ingedrukt (of klik er met de rechtermuisknop op) en klik op **Apparaat verwijderen.**
 
-2. Sluit het Windows-apparaat af, wacht een paar seconden en schakel het weer in. Windows zal proberen het stuurprogramma opnieuw te installeren.
+2. Sluit uw Windows-apparaat af, wacht enkele seconden en schakel het weer in. Windows probeert het stuurprogramma opnieuw te installeren.
 
-Als u onlangs Windows 10-updates hebt geïnstalleerd of een upgrade hebt uitgevoerd naar Windows 10, kunt u controleren op updates voor Stuurprogramma's:
+Als u onlangs Windows 10-updates hebt geïnstalleerd of een upgrade hebt uitgevoerd naar Windows 10, wilt u mogelijk controleren op stuurprogramma-updates:
 
-1. Klik in Apparaatbeheer op **Bluetooth**en klik vervolgens op de naam van de Bluetooth-adapter (die het woord ' Radio ' bevat).
+1. Klik in Apparaatbeheer op **Bluetooth** en klik vervolgens op de naam van de Bluetooth-adapter (waaronder mogelijk het woord 'radio').
 
-2. Houd de Bluetooth-adapter ingedrukt (of klik er met de rechtermuisknop op) en klik vervolgens op **stuurprogramma**  >  **Search automatisch bijwerken naar bijgewerkte Stuurprogramma's**. Voer de stappen uit en klik vervolgens op **sluiten**.
+2. Houd de Bluetooth-adapter ingedrukt (of klik er met de rechtermuisknop op) en klik vervolgens op Stuurprogramma automatisch bijwerken zoeken  >  **naar bijgewerkte stuurprogrammasoftware.** Volg de stappen en klik vervolgens op **Sluiten.**
 
-      - Als Windows geen nieuw Bluetooth-stuurprogramma kan vinden, gaat u naar de website van de fabrikant van de PC en downloadt u de nieuwste versie van het Bluetooth-stuurprogramma.
+      - Als Windows geen nieuw Bluetooth-stuurprogramma kan vinden, gaat u naar de website van de fabrikant van de pc en downloadt u het nieuwste Bluetooth-stuurprogramma.
 
-    - Wanneer u de app hebt gedownload, klikt u op **stuurprogramma**  >  **zoeken**  >  **naar** de locatie van het stuurprogramma **OK**  >  en voert u de stappen uit die worden opgeslagen >**volgende**en voert u de stappen uit om de installatie uit te voeren.
+    - Nadat u het hebt gedownload, klikt u op **Stuurprogramma** bijwerken Bladeren op mijn computer voor stuurprogrammasoftware Blader naar de locatie waar de stuurprogrammabestanden zijn opgeslagen > OK Volgende en volg de stappen om  >    >     >  te installeren.
 
-3. Start de computer opnieuw op nadat u het bijgewerkte stuurprogramma hebt geïnstalleerd en controleer of het probleem met de verbinding is opgelost.
+3. Nadat u het bijgewerkte stuurprogramma hebt geïnstalleerd, start u de computer opnieuw op en controleert u of het verbindingsprobleem is opgelost.
 
-Voor meer informatie over het oplossen van problemen met Bluetooth raadpleegt u het volledige artikel, het [oplossen van Bluetooth-problemen in Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).
+Zie het volledige artikel Bluetooth-problemen oplossen in Windows 10 voor meer informatie over het oplossen van [Bluetooth-problemen.](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)

@@ -2,7 +2,7 @@
 title: De weergavetaal van apps herstellen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730082"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812855"
 ---
 # <a name="fix-the-display-language-of-apps"></a>De weergavetaal van apps herstellen
 
-Nadat u de weergavetaal in Windows 10 hebt gewijzigd, wordt in sommige apps de vorige taal mogelijk nog steeds gebruikt wanneer u deze opent. Dit gebeurt omdat nieuwe versies van de apps voor de desbetreffende taal moeten worden gedownload uit de Store. U kunt dit probleem oplossen door te wachten op de automatische update of u kunt de bijgewerkte versie van de apps handmatig installeren.
+Nadat u de weergavetaal in Windows 10 hebt gewijzigd, kunnen sommige apps nog steeds de vorige taal gebruiken wanneer u ze opent. Dit gebeurt omdat nieuwe versies van de apps voor die taal moeten worden gedownload uit de Store. Als u dit probleem wilt oplossen, kunt u wachten op de automatische update of u kunt de bijgewerkte versie van de apps handmatig installeren.
 
-Als u de update handmatig wilt installeren, opent u **Microsoft Store** en klikt u in de rechterbovenhoek op **downloads en updates** . Klik vervolgens op **updates ontvangen**. Als de taal niet wordt gewijzigd nadat de update is voltooid, start u de PC opnieuw op.
+Als u de update handmatig wilt installeren, opent **u de Microsoft Store** en klikt u in de rechterbovenhoek op Downloads en **updates.** Klik vervolgens **op Updates downloaden.** Als de taal niet wordt gewijzigd nadat de update is voltooid, start u de pc opnieuw op.
 
-![Updates te ontvangen.](media/get-updates.png)
+![Updates downloaden.](media/get-updates.png)
 
-Zie [uw invoer-en weergavetaal instellingen beheren in Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)voor meer informatie over de taalinstellingen voor invoer en weergave.
+Zie Uw invoer- en weergavetaalinstellingen beheren in Windows 10 voor meer informatie over invoer- en [weergavetaalinstellingen.](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)

@@ -1,8 +1,8 @@
 ---
-title: Voor de openbare map Migration batch met de status CompletedWithErrors
+title: Voor migratiebatch openbare mappen met de status CompletedWithErrors
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744108"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812459"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Voor de openbare map Migration batch met de status CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Voor migratiebatch openbare mappen met de status CompletedWithErrors
 
-Gebruik de volgende stappen om de batch te voltooien en de grote/beschadigde items over te slaan: 
-1. De overgeslagen items goedkeuren in migratie batch:
+Gebruik de volgende stappen om de batch te voltooien en de grote/slechte items over te slaan: 
+1. De overgeslagen items voor migratiebatch goedkeuren:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Met de volgende opdracht kunt u de overgeslagen items goedkeuren bij migratie verzoeken die zijn gesynchroniseerd, maar niet zijn voltooid:
+2. Gebruik de volgende opdracht om de overgeslagen items voor migratieaanvragen goed te keuren die 'Gesynchroniseerd' zijn, maar niet zijn voltooid:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. De migratie batch en aanvragen worden binnen enkele minuten hervat en voltooid.
+3. De migratiebatch en aanvragen moeten binnen enkele minuten worden hervat en voltooid.
 

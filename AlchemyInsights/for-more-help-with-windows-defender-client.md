@@ -1,8 +1,8 @@
 ---
-title: Voor meer hulp bij de Windows Defender-client
+title: Voor meer hulp bij Windows Defender-client
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: e39ba958540c85eab3b35e78bf75adf017773247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5c584bdd39a98e19fde88c59bfdcb64cbd33d69
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708138"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812495"
 ---
-# <a name="for-more-help-with-windows-defender-client"></a>Voor meer hulp bij de Windows Defender-client
+# <a name="for-more-help-with-windows-defender-client"></a>Voor meer hulp bij Windows Defender-client
 
-Bezoek Microsoft [Beveiligingsdocumentatie](https://docs.microsoft.com/security/#pivot=products&panel=products1) centrum.
+Ga naar het [Microsoft-beveiligingsdocumentatiecentrum.](https://docs.microsoft.com/security/#pivot=products&panel=products1)

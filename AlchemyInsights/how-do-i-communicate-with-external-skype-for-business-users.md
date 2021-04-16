@@ -1,8 +1,8 @@
 ---
-title: Hoe kan ik communiceren met externe gebruikers van Skype voor bedrijven
+title: Hoe communiceer ik met externe Skype voor Bedrijven-gebruikers
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: f5e1e597067efff58872a5f0080bb18c42af648e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9580a1e9f850726210f403a5dc6c84cd9a7df196
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781854"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811271"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Externe communicatie toestaan met Skype voor bedrijven 
+# <a name="allow-external-communications-with-skype-for-business"></a>Externe communicatie toestaan met Skype voor Bedrijven 
 
-Wilt u toestaan dat uw gebruikers van Skype voor bedrijven contact opnemen met gebruikers buiten uw organisatie? Zie [gebruikers kunnen contact opnemen met externe gebruikers van Skype voor bedrijven](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+Wilt u toestaan dat gebruikers van Skype voor Bedrijven contact opnemen met gebruikers buiten uw organisatie? Zie [Toestaan dat gebruikers contact opnemen met externe Skype voor Bedrijven-gebruikers.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Uw DNS-records moeten correct worden ingesteld om externe communicatie correct te laten functioneren. Kijk [hier](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) om te zien of er specifieke instructies zijn voor de manier waarop u DNS-records moet instellen met uw provider. 
+Uw DNS-records MOETEN correct zijn ingesteld om externe communicatie correct te laten functioneren. Controleer [hier](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) of we specifieke instructies hebben voor het instellen van DNS-records bij uw provider. 
 
-Wilt u alleen uw Skype voor bedrijven-gebruikers contact laten opnemen met gebruikers van Skype? Zie:
+Wilt u alleen uw Skype voor Bedrijven-gebruikers inschakelen om contact op te nemen met consumentengebruikers van Skype? Zie:
 
-- [Laat gebruikers van Skype voor bedrijven Skype-contactpersonen toevoegen](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+- [Laat Skype voor Bedrijven-gebruikers Skype-contactpersonen toevoegen.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
 
-- [Een contactpersoon toevoegen in Skype voor bedrijven](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+- [Een contactpersoon toevoegen in Skype voor Bedrijven](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Als u wilt dat uw teams-gebruikers contact kunnen opnemen met gebruikers buiten uw organisatie (waaronder gebruikers van Skype voor bedrijven), bekijkt u [externe toegang beheren in Microsoft teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+Als u wilt dat uw Teams-gebruikers contact kunnen opnemen met gebruikers buiten uw organisatie (inclusief Gebruikers van Skype voor Bedrijven), bekijkt u Externe toegang [beheren in Microsoft Teams.](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 
