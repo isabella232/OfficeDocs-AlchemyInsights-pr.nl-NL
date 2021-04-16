@@ -2,7 +2,7 @@
 title: Uw domein verifiëren met Dreamhost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 8f682944a9f06da15bfe61c63db320a0c1cc4028
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 80dc791d28362074e3a3beeacbf807f65f73dd1f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816356"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807409"
 ---
 # <a name="verify-your-domain-with-dreamhost"></a>Uw domein verifiëren met Dreamhost
 
-Als u uw domein wilt controleren, moet u een TXT-record aan uw domeinregistratie toevoegen om te bevestigen dat u eigenaar van uw domein bent. 
+Als u uw domein wilt verifiëren, moet u een TXT-record toevoegen aan uw domeinregistrar om te controleren of u de eigenaar bent van uw domein. 
 
-Voer eerst de [wizard domein toevoegen](https://admin.microsoft.com/Adminportal#/Domains) uit door **instellingen** \> **domeinen**te selecteren en vervolgens **domein toevoegen**te selecteren.
+Volg eerst de wizard [Domein toevoegen door](https://admin.microsoft.com/Adminportal#/Domains) Instellingen **Domeinen** te \> **selecteren** en vervolgens Domein **toevoegen.**
   
-Zie [DNS-records maken op Dreamhost voor Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) voor stapsgewijze instructies.
+Zie [DNS-records maken bij Dreamhost voor Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) voor stapsgewijs instructies.

@@ -1,8 +1,8 @@
 ---
-title: Audio-uitbreiding uitschakelen
+title: Audioverbetering uitschakelen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797183"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808750"
 ---
-# <a name="turn-off-audio-enhancement"></a>Audio-uitbreiding uitschakelen
+# <a name="turn-off-audio-enhancement"></a>Audioverbetering uitschakelen
 
-Volg deze stappen:
+Ga als volgt te werk:
 
-1. Ga naar **Start**, typ **geluid**en selecteer **geluids Configuratiescherm** of **Wijzig systeemgeluiden** in de lijst met resultaten.
+1. Ga naar **Start,** voer **Geluid in** en selecteer **Geluid** configuratiescherm of **Systeemgeluiden wijzigen** in de lijst met resultaten.
 
-2. Klik op het tabblad **afspelen** met de rechtermuisknop op het standaardapparaat (of tik erop en houd dit ingedrukt) en selecteer **Eigenschappen**.
+2. Klik op **het** tabblad Afspelen met de rechtermuisknop op het standaardapparaat (of tik erop en houd vast) en selecteer **Eigenschappen**.
 
-3. Schakel op het tabblad **verbeteringen** het selectievakje **Alle geluidseffecten uitschakelen** in en probeer het audioapparaat af te spelen. Als dat niet werkt, selecteert u **Annuleren** en selecteert u op het tabblad **afspelen** een ander standaardapparaat (als u er een hebt), schakelt u het selectievakje **Alle geluidseffecten uitschakelen** in en probeert u de audio opnieuw af te spelen. Doe dit voor elk standaardapparaat.
+3. Schakel op **het tabblad** Verbeteringen het selectievakje **Alle geluidseffecten** uitschakelen in en probeer uw audioapparaat af te spelen. Als dat niet werkt, selecteert u  Annuleren en selecteert u op het tabblad  Afspelen een ander standaardapparaat (als u er een hebt), schakelt u het selectievakje Alle geluidseffecten uitschakelen in en probeert u audio opnieuw af te spelen.  Doe dit voor elk standaardapparaat.
