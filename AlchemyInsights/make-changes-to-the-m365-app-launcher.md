@@ -1,29 +1,30 @@
 ---
-title: Wijzigingen aanbrengen in de Microsoft 365 App Launcher
+title: Wijzigingen aanbrengen in het startprogramma voor apps van Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: adb59243b9d5abd6629848917fa99236b9d5e365
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
-ms.translationtype: MT
+ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650333"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794899"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Wijzigingen aanbrengen in de Microsoft 365 App Launcher
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Wijzigingen aanbrengen in het startprogramma voor apps van Microsoft 365
 
 U kunt aan het startprogramma voor apps uw eigen aangepaste tegels toevoegen die verwijzen naar SharePoint-sites, externe sites, oude apps en meer.
 
-1. [Voeg een aangepaste tegel toe aan het startprogramma](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) voor apps in het beheercentrum door naar **Instellingen > Organisatie-instellingen** te gaan en kies het tabblad **Organisatieprofiel.**
-2. [Promoot de tegel naar het startprogramma voor apps](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) door **de app** vast te maken aan het startprogramma.
-3. [Een aangepaste tegel bewerken of verwijderen](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) als er iets is gewijzigd voor de app.
+1. [Voeg een aangepaste tegel toe aan het app-opstartprogramma](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) in het beheercentrum door naar **Instellingen > Organisatie-instellingen** te gaan en het tabblad **Organisatieprofiel** te kiezen.
+2. [Promoot de tegel naar het startprogramma voor apps](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) door de app **vast te zetten** op het startprogramma.
+3. [Bewerk of verwijder een aangepaste tegel](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) als er iets is veranderd voor de app.
 
-Zie [Het startprogramma voor apps aanpassen voor](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher)meer informatie.
+Zie voor meer informatie [Het startprogramma voor apps aanpassen](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).

@@ -1,8 +1,8 @@
 ---
-title: Service status in Microsoft 365
+title: Microsoft 365 Service Health
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742738"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794467"
 ---
-# <a name="microsoft-365-service-health"></a>Service status in Microsoft 365
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Health
 
 
-Controleer de servicestatus van een service in het [Dashboard voor servicestatus](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Als u **het nieuwe Beheercentrum** in de rechterbovenhoek selecteert, ziet u de nieuwe opties voor de service status.
+Controleer de service-status van een service via het [Dashboard Service health.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Als u **Het nieuwe beheercentrum** in de rechterbovenhoek selecteert, ziet u nieuwe opties voor service status.
 
-- Selecteer **Voorkeuren** voor het ontvangen van **e-mail meldingen**voor de servicestatus.
+- Selecteer **Voorkeuren om** e-mailmeldingen over service health te **ontvangen.**
 
-- Selecteer **een probleem melden** als u een probleem met de service ondervindt.
+- Selecteer **Een probleem melden** als u een probleem ondervindt met de service.
 
-- Selecteer **geschiedenis** om de servicestatus geschiedenis van uw organisatie te bekijken. 
+- Selecteer **Geschiedenis** om de statusgeschiedenis van de service van uw organisatie te bekijken. 
 
-Zie de [servicestatus van Microsoft 365 controleren](https://docs.microsoft.com/office365/enterprise/view-service-health)voor meer informatie. 
+Zie De status van [microsoft 365-service controleren](https://docs.microsoft.com/office365/enterprise/view-service-health)voor meer informatie. 

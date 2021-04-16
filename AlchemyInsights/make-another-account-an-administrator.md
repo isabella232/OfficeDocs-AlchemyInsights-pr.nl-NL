@@ -1,8 +1,8 @@
 ---
-title: Een beheerder van een ander account maken
+title: Een ander account een beheerder maken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794689"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795007"
 ---
 # <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Een standaardgebruikersaccount wijzigen in een beheerder in Windows 10
 
-U kunt als volgt een standaardgebruikersaccount wijzigen in een beheerder in Windows 10:
+U kunt als volgende een standaardgebruikersaccount wijzigen in een beheerder in Windows 10:
 
-1. Ga naar instellingen voor het account van de **Start**  >  **instellingen**  >  **Account**  >  **& andere mensen** (of **andere personen**) als u Windows 10 Enterprise gebruikt).
-2. Selecteer het account waarvoor u een beheerder wilt maken en selecteer **account wijzigen**.
-3. Selecteer **beheerder**onder **type account**en selecteer vervolgens **OK**.
+1. Ga naar **Start**  >  **Settings**  >  **Account**  >  **Family & andere personen** (of **Andere personen**, als u Windows 10 Enterprise gebruikt).
+2. Selecteer het account dat u wilt maken als beheerder en selecteer **Account wijzigen.**
+3. Selecteer **onder Accounttype** de optie **Beheerder** en selecteer **ok.**
 
-**Opmerking:** U kunt alleen accounts wijzigen in een beheerder van een bestaande beheerdersaccount.
+**Opmerking:** U kunt accounts alleen wijzigen in een beheerder vanuit een bestaand beheerdersaccount.

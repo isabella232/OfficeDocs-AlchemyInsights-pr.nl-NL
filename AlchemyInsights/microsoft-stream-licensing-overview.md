@@ -1,8 +1,8 @@
 ---
-title: Overzicht van Microsoft stream Licensing
+title: Overzicht microsoft streamlicenties
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675329"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794215"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>Overzicht van Microsoft stream Licensing
+# <a name="microsoft-stream-licensing-overview"></a>Overzicht microsoft streamlicenties
 
-Microsoft stream is een cloudservice, licentie verleend op basis van een abonnement per gebruiker. Het is beschikbaar als onderdeel van in aanmerking komende Microsoft 365-abonnementen. Zie Microsoft 365 prijzen voor informatie over elk type abonnement.
+Microsoft Stream is een cloudservice die is gelicentieerd op basis van een abonnement per gebruiker. Deze is beschikbaar als onderdeel van in aanmerking komende Microsoft 365-abonnementen. Zie Microsoft 365-prijzen voor informatie over elk abonnementstype.
 
-- [Overzicht van Microsoft stream Licensing](https://docs.microsoft.com/stream/license-overview)
+- [Overzicht microsoft streamlicenties](https://docs.microsoft.com/stream/license-overview)
