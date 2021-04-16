@@ -2,7 +2,7 @@
 title: E-mail verzenden als gedeeld postvak
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "622"
 - "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 45468ed831f15585d68f2a7b02386f62b6cb3874
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0311a22e689f27868a2b0cd252af34926dad9902
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801215"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809146"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="be6e8-102">E-mail verzenden als gedeeld postvak</span><span class="sxs-lookup"><span data-stu-id="be6e8-102">Sending email as the shared mailbox</span></span>
+# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="7a9a4-102">E-mail verzenden als gedeeld postvak</span><span class="sxs-lookup"><span data-stu-id="7a9a4-102">Sending email as the shared mailbox</span></span>
 
-<span data-ttu-id="be6e8-103">Wanneer u een gedeeld postvak hebt gemaakt, kunnen gebruikers die lid zijn van het postvak e-mail verzenden als de identiteit van het gedeelde Postvak (bijvoorbeeld  *info@contoso.com*  ).</span><span class="sxs-lookup"><span data-stu-id="be6e8-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="be6e8-104">Voor instructies raadpleegt u:</span><span class="sxs-lookup"><span data-stu-id="be6e8-104">For instructions, see:</span></span>
+<span data-ttu-id="7a9a4-103">Nadat u een gedeeld postvak hebt gemaakt, kunnen gebruikers die lid zijn van het postvak e-mail verzenden als de identiteit van het gedeelde  *postvak (bijvoorbeeld*  info@contoso.com).</span><span class="sxs-lookup"><span data-stu-id="7a9a4-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="7a9a4-104">Zie voor instructies:</span><span class="sxs-lookup"><span data-stu-id="7a9a4-104">For instructions, see:</span></span>
   
-[<span data-ttu-id="be6e8-105">Een gedeeld postvak openen en gebruiken in Outlook 2016 en Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="be6e8-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[<span data-ttu-id="7a9a4-105">Een gedeeld postvak openen en gebruiken in Outlook 2016 en Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="7a9a4-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[<span data-ttu-id="be6e8-106">Een gedeeld postvak toevoegen aan de webversie van Outlook</span><span class="sxs-lookup"><span data-stu-id="be6e8-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[<span data-ttu-id="7a9a4-106">Een gedeeld postvak toevoegen aan de webversie van Outlook</span><span class="sxs-lookup"><span data-stu-id="7a9a4-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   

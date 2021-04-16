@@ -2,9 +2,10 @@
 title: E-mail omleiden via Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 074a9106553bf3a2a5e563f9ebaca9dfc38111cb
-ms.sourcegitcommit: 9872280f71429d2344b0b441e218fba5b3bd3cf7
-ms.translationtype: MT
+ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45023454"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809650"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email"></a><span data-ttu-id="48461-102">Een multifunctioneel apparaat of een toepassing instellen voor het verzenden van e-mail</span><span class="sxs-lookup"><span data-stu-id="48461-102">Set up a multifunction device or application to send email</span></span>
+# <a name="set-up-a-multifunction-device-or-application-to-send-email"></a><span data-ttu-id="60b44-102">Een multifunctioneel apparaat of een toepassing instellen voor het verzenden van e-mail</span><span class="sxs-lookup"><span data-stu-id="60b44-102">Set up a multifunction device or application to send email</span></span>
 
-<span data-ttu-id="48461-103">Zie [Een multifunctioneel apparaat of een toepassing instellen voor het verzenden van e-mail via Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) voor meer informatie over de opties en de uit te voeren stappen.</span><span class="sxs-lookup"><span data-stu-id="48461-103">To learn about your options and the steps, see [How to set up a multifunction device or application to send email using Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).</span></span>
+<span data-ttu-id="60b44-103">Zie [Een multifunctioneel apparaat of een toepassing instellen voor het verzenden van e-mail via Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) voor meer informatie over de opties en de uit te voeren stappen.</span><span class="sxs-lookup"><span data-stu-id="60b44-103">To learn about your options and the steps, see [How to set up a multifunction device or application to send email using Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).</span></span>
   
-<span data-ttu-id="48461-104">**Opmerking:** als u een apparaat of toepassing hebt die sinds kort niet meer werkt, houd er dan rekening mee dat volgens planning onlangs is begonnen met het [uitschakelen van het 3DES-encryptiealgoritme](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption).</span><span class="sxs-lookup"><span data-stu-id="48461-104">**Note:** If you have a device or application that recently stopped working, please note we have recently begun [disabling the 3DES cipher](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) as planned.</span></span> <span data-ttu-id="48461-105">Als u de apparaten wilt zien die worden beïnvloed, gaat u naar het [SMTP-verificatierapport voor clients](https://protection.office.com/mailflow/dashboard).</span><span class="sxs-lookup"><span data-stu-id="48461-105">To see affected devices, go to the [SMTP Auth Clients report](https://protection.office.com/mailflow/dashboard).</span></span> <span data-ttu-id="48461-106">Veelvoorkomende fouten kunnen lijken op: verificatiefouten, TLS-fouten, encryptiealgoritmefouten, algoritmen die niet overeenkomen of verbroken verbinding.</span><span class="sxs-lookup"><span data-stu-id="48461-106">Common errors could be similar to: Authentication failure/error, TLS failure/error, Cipher algorithm error, Algorithm mismatch, or Connection dropped.</span></span> <span data-ttu-id="48461-107">Hoe u het probleem op kunt lossen:</span><span class="sxs-lookup"><span data-stu-id="48461-107">To resolve the issue:</span></span>
+<span data-ttu-id="60b44-104">**Opmerking:** als u een apparaat of toepassing hebt die sinds kort niet meer werkt, houd er dan rekening mee dat volgens planning onlangs is begonnen met het [uitschakelen van het 3DES-encryptiealgoritme](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption).</span><span class="sxs-lookup"><span data-stu-id="60b44-104">**Note:** If you have a device or application that recently stopped working, please note we have recently begun [disabling the 3DES cipher](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) as planned.</span></span> <span data-ttu-id="60b44-105">Als u de apparaten wilt zien die worden beïnvloed, gaat u naar het [SMTP-verificatierapport voor clients](https://protection.office.com/mailflow/dashboard).</span><span class="sxs-lookup"><span data-stu-id="60b44-105">To see affected devices, go to the [SMTP Auth Clients report](https://protection.office.com/mailflow/dashboard).</span></span> <span data-ttu-id="60b44-106">Veelvoorkomende fouten kunnen lijken op: verificatiefouten, TLS-fouten, encryptiealgoritmefouten, algoritmen die niet overeenkomen of verbroken verbinding.</span><span class="sxs-lookup"><span data-stu-id="60b44-106">Common errors could be similar to: Authentication failure/error, TLS failure/error, Cipher algorithm error, Algorithm mismatch, or Connection dropped.</span></span> <span data-ttu-id="60b44-107">Hoe u het probleem op kunt lossen:</span><span class="sxs-lookup"><span data-stu-id="60b44-107">To resolve the issue:</span></span>
 
- - <span data-ttu-id="48461-108">**Windows Server 2003 IIS SMTP werkt niet meer. Er is een nieuwe versie van Windows vereist.**</span><span class="sxs-lookup"><span data-stu-id="48461-108">**Windows Server 2003 IIS SMTP will no longer work – a newer version of Windows is required.**</span></span>  
- - <span data-ttu-id="48461-109">Neem contact op met de fabrikant van uw toepassing of apparaat om na te vragen of een modern encryptiealgoritme wordt ondersteund of of er een update is.</span><span class="sxs-lookup"><span data-stu-id="48461-109">Please check with your application or device vendor to see if a modern cipher is supported or if there is an update.</span></span>
+ - <span data-ttu-id="60b44-108">**Windows Server 2003 IIS SMTP werkt niet meer. Er is een nieuwe versie van Windows vereist.**</span><span class="sxs-lookup"><span data-stu-id="60b44-108">**Windows Server 2003 IIS SMTP will no longer work – a newer version of Windows is required.**</span></span>  
+ - <span data-ttu-id="60b44-109">Neem contact op met de fabrikant van uw toepassing of apparaat om na te vragen of een modern encryptiealgoritme wordt ondersteund of of er een update is.</span><span class="sxs-lookup"><span data-stu-id="60b44-109">Please check with your application or device vendor to see if a modern cipher is supported or if there is an update.</span></span>
