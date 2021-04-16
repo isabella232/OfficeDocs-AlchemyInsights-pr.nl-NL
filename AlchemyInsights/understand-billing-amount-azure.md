@@ -2,7 +2,7 @@
 title: Inzicht in uw factuur
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808273"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782686"
 ---
-# <a name="understand-billing-amount"></a>Meer informatie over factureringsbedrag
+# <a name="understand-billing-amount"></a>Meer inzicht in het factureringsbedrag
 
-De aanbieding van Azure gratis accounts omvat $200 van Azure tegoed (voor gebruik binnen de eerste 30 dagen na registratie) en 12 maanden met Select Free Services (onderhevig aan wijzigingen)
+De aanbieding voor het gratis Azure-account omvat $ 200 aan Azure-tegoeden (die binnen de eerste 30 dagen na aanmelding moeten worden gebruikt) en 12 maanden gratis gebruik van geselecteerde services (die kunnen worden gewijzigd)
 
-Deze aanbieding is beperkt tot één inschrijving per in aanmerking komende klant en kan niet worden gecombineerd met andere aanbiedingen, tenzij anders door Microsoft is toegestaan.
+Deze aanbieding is beperkt tot één inschrijving per in aanmerking komende klant en kan niet worden gecombineerd met een andere aanbieding, tenzij dit anderszins is toegestaan door Microsoft
 
-Binnen 30 dagen na registratie van de tegoed van de klant (afhankelijk van wat zich het eerste voordoet) dient de klant een upgrade uit te voeren naar een account voor betalen naar gebruik door de bestedingslimiet te verwijderen. Dit betekent dat het gebruik van de resterende 11 maanden verder blijft werken met het Azure gratis-account. Wanneer de klant een upgrade heeft uitgevoerd, wordt voor gebruik buiten de oorspronkelijke kredieten gefactureerd tegen betaling-naar-gebruik-tarieven. Als de klant geen upgrade doet, wordt het gratis account abonnement uitgeschakeld.
+Binnen 30 dagen na aanmelding of wanneer de tegoeden van de klant verbruikt zijn (afhankelijk van wat zich het eerste voordoet), moet de klant naar een Account met de optie Betalen per gebruik upgraden door de bestede limiet te verwijderen. Hierdoor kan het gratis Azure-account de resterende 11 maanden blijven worden gebruikt. Nadat de klant een upgrade heeft uitgevoerd, wordt het gebruik buiten de aanvankelijke tegoeden en de geselecteerde gratis services gefactureerd tegen de tarieven voor Betalen per gebruik. Als de klant ervoor kiest niet te upgraden, wordt het gratis accountabonnement uitgeschakeld.
 
-Meer informatie: [beschikbare producten per maand gratis onder Azure Free-account](https://azure.microsoft.com/free/free-account-faq/)
+Voor meer informatie: [Maandelijks gratis beschikbare producten bij gratis Azure-account](https://azure.microsoft.com/free/free-account-faq/)
 
-**Abonnement opnieuw activeren uitgeschakeld na 30 dagen**
+**Na 30 dagen uitgeschakeld abonnement opnieuw inschakelen**
 
-- Als u uw gratis proefabonnement opnieuw inschakelt en verstuurt naar betalen naar gebruik, kunt u de gratis proefversie starten vanaf het moment dat het abonnement is geactiveerd. Daarnaast kunt u de voordelen van de Azure gratis-account omzetten naar X-aanbiedingen (maar ook voor betalen naar gebruik).
+- Zodra je het gratis proefabonnement opnieuw inschakelt en omzet naar een gratis proefabonnement voor Betalen per gebruik, moet de inbegrepen services weer starten vanaf het moment dat het abonnement is ingeschakeld. Als je het gratis Azure-account per ongeluk converteert naar de X-aanbieding (anders dan Betalen per gebruik) blijf je de voordelen ontvangen.
 
 Meer informatie: 
 - [Een abonnement opnieuw inschakelen](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
@@ -39,42 +39,42 @@ Meer informatie:
 
 **Onverwachte kosten voor het account**
 
-- Als uw account onverwachte kosten bevat, kunt u de gebruiksgegevens downloaden en controleren of er ongewenste services of bronnen actief zijn.
-- Meer informatie: [Azure-gebruiksgegevens downloaden](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
+- Als je onverwachte kosten in je account ziet, downloadt je je gebruiksgegevens en controleert je of er ongewenste services of bronnen worden uitgevoerd
+- Voor meer informatie: [Azure-gebruiksgegevens downloaden](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
-**Veelgestelde vragen:**
+**Veelgestelde vragen**
 
-**Betaal ik iets wanneer ik een Azure-gratis account heb?**
+**Betaal ik iets wanneer ik het gratis Azure-account gebruik?**
 
-U wordt alleen kosten in rekening gebracht als u Services implementeert die niet zijn opgenomen in het Azure gratis-account. Wanneer u de $200-tegoed hebt afgeteld of de periode van 30 dagen (afhankelijk van wat zich het eerste voordoet), wordt u eerst gefactureerd tegen betaling-naar-gebruik-tarieven.
+Er worden alleen kosten in rekening gebracht als je services implementeert die niet zijn opgenomen in het Gratis Azure-account. Pas nadat je het tegoed van $ 200 hebt verbruikt of de periode van 30 dagen is afgelopen (afhankelijk van wat zich het eerste voordoet), wordt er gefactureerd tegen de tarieven voor Betalen per gebruik.
 
-**Hoeveel Azure gratis account abonnementen mag ik gebruiken op mijn account?**  
+**Hoeveel gratis Azure-accountabonnementen mag ik voor mijn account gebruiken?**  
 
-Er geldt een limiet van één Azure gratis-account abonnement per account.
+Er geldt een limiet van één gratis Azure-accountabonnement per account.
 
-**Hoe werkt Azure gratis account met klanten van de Enterprise Agreement (EA)?**  
+**Hoe werkt een Gratis Azure-account bij klanten met een Enterprise Agreement (EA)?**  
 
-Deze aanbieding is niet beschikbaar voor EA-klanten. Als een klant echter wel een gratis account heeft en in een nieuwe periode wordt omgezet, blijven de gratis account voordelen gedurende 12 maanden na het tijdstip van het gratis account aanmelden.
+Deze aanbieding is niet beschikbaar voor EA-klanten. Als een klant echter een Gratis account heeft en dat later naar een EA-niveau omzet, blijven de voordelen van het Gratis account 12 maanden na de aanmelding voor een Gratis account gewoon doorlopen.
 
-**Worden er services gebruikt in de gratis tier van de oorspronkelijke $200-kredieten?**  
+**Maken services die beschikbaar zijn op het gratis niveau gebruik van het begintegoed van $ 200?**  
 
-Nee. Klanten kopen een vast aantal gratis service nummers en een $200-tegoed voor de eerste 30 dagen. Daarom kon de klant $200 tegoed gebruiken op andere niet-gratis tier-Services.
+Nee. Klanten krijgen een vast aantal service op het gratis niveau en een tegoed van $ 200 voor de eerste 30 dagen. De klant kan dus gebruikmaken van het tegoed van $ 200 voor services op het betaalde niveau.
 
-**Kan ik mijn Details van een sponsor weergeven?**
+**Kan ik mijn sponsorgegevens bekijken?**
 
-- Een privé-incognito browservenster (CTRL + SHIFT + P in Edge) openen
-- Navigeren naar [Azure sponsorers](http://www.microsoftazuresponsorships.com/)
-- Klik op de koppeling Controleer uw saldo.
-- Meld u aan met uw accountreferenties voor Azure Government (logins moet de user.name@xxxx.onmicrosoft.com-indeling gebruiken)
-- U wordt omgeleid naar een pagina waarin de volgende informatie wordt weergegeven: begindatum, einddatum, sponsor bedrag, gebruikt, resterend saldo
+- Open een privé-/Incognito-browservenster (Ctr l +Shift + P in Microsoft Edge).
+- Navigeer naar de [Azure-sponsors](http://www.microsoftazuresponsorships.com/)
+- Klik op de koppeling Je saldo controleren
+- Meld je aan met de inloggegevens van je door Azure Government gesponsord account (Gebruik om aan te melden de indeling user.name@xxxx.onmicrosoft.com)
+- Je wordt doorgestuurd naar een pagina met de volgende informatie: Begindatum, Einddatum, Sponsorbedrag, Verbruikt, Resterend saldo
 
-**Hoe kan ik ervoor zorgen dat gratis services actief zijn of wanneer ze verlopen?**
+**Hoe kan ik controleren of de gratis services actief zijn of wanneer deze verlopen?**
 
-Ga in het Ibiza-> > overzicht > Schuif omlaag naar gratis services voor 12 maanden en klik op het informatiepictogram. In dit voorbeeld wordt de datum weergegeven waarop de gratis services **notitie** verstrijkt: geen v1-Services maken deel uit van Azure gratis services. Voor de meest recente lijst met gratis services raadpleegt u [welke producten gedurende 12 maanden gratis zijn](http://www.microsoftazuresponsorships.com/)
+Scrol op de pagina > abonnement > Overzichtspagina naar beneden naar Gratis services voor 12 maanden en klik op het pictogram Informatie. Hier wordt de datum weergegeven waarop de gratis services verlopen **Opmerking**: V1-services maken geen deel uit van de gratis inbegrepen Azure-services. Raadpleeg voor de recentste lijst met gratis services [Welke producten zijn 12 maanden gratis](http://www.microsoftazuresponsorships.com/)
 
-Aanvullende Veelgestelde vragen: [Veelgestelde vragen over accounts](https://azure.microsoft.com/free/free-account-faq/)
+Meer veelgestelde vragen: [Veelgestelde vragen over gratis account](https://azure.microsoft.com/free/free-account-faq/)
 
 **Aanbevolen documenten**
 
-- [Voorwaarden Azure gratis account aanbieding](https://azure.microsoft.com/offers/ms-azr-0044p/)
-- [Prijzen van Azure](https://azure.microsoft.com/pricing/)
+- [Aanbiedingsvoorwaarden Gratis Azure-account](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Azure-prijzen](https://azure.microsoft.com/pricing/)
