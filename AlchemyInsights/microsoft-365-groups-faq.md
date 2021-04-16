@@ -1,23 +1,30 @@
 ---
-title: Veelgestelde vragen over Microsoft 365-groepen
+title: 'Microsoft 365 Groepen: veelgestelde vragen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: 6d80a5f3ec4a63ec81ff73a720b183d4f2859d8a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357622"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794539"
 ---
-# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="a0bd4-102">Veelgestelde vragen over Microsoft 365-groepen</span><span class="sxs-lookup"><span data-stu-id="a0bd4-102">Microsoft 365 Groups FAQ</span></span>
+# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="3bc67-102">Microsoft 365 Groepen: veelgestelde vragen</span><span class="sxs-lookup"><span data-stu-id="3bc67-102">Microsoft 365 Groups FAQ</span></span>
 
-<span data-ttu-id="a0bd4-103">Controleer **[de veelgestelde vragen over microsoft 365-groep](https://aka.ms/M365GroupsFAQ)** voor topbeheertaken met betrekking tot Microsoft 365-groepen.</span><span class="sxs-lookup"><span data-stu-id="a0bd4-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
+<span data-ttu-id="3bc67-103">Raadpleeg **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** (Microsoft 365 Groepen: veelgestelde vragen) voor de belangrijkste beheertaken met betrekking tot Microsoft 365 Groepen.</span><span class="sxs-lookup"><span data-stu-id="3bc67-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
+
+- <span data-ttu-id="3bc67-104">Problemen met de berichtenstroom</span><span class="sxs-lookup"><span data-stu-id="3bc67-104">Mail flow issues</span></span>
+- <span data-ttu-id="3bc67-105">E-mailadresbeheer</span><span class="sxs-lookup"><span data-stu-id="3bc67-105">Email address management</span></span>
+- <span data-ttu-id="3bc67-106">Scripts om gegevens van groepsleden te exporteren</span><span class="sxs-lookup"><span data-stu-id="3bc67-106">Scripts to export group member information</span></span>
+- <span data-ttu-id="3bc67-107">Verzenden als en andere delegatie</span><span class="sxs-lookup"><span data-stu-id="3bc67-107">Send-As and other delegation</span></span>
+- <span data-ttu-id="3bc67-108">Groepen die niet worden weergegeven op of toegankelijk zijn vanuit de Outlook-client</span><span class="sxs-lookup"><span data-stu-id="3bc67-108">Groups not showing/accessible from Outlook client</span></span>
