@@ -1,8 +1,8 @@
 ---
-title: Een groep bewerken en beheren in Microsoft stream
+title: Een groep bewerken en beheren in Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6452"
-ms.openlocfilehash: cc4c64468df911f803d7abbb90e5edd1123013fb
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 801c945a88b6edd09fb6c39b3bca0646ace9f84b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48274794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814439"
 ---
-# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="cf46c-102">Een groep bewerken en beheren in Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="cf46c-102">Edit and manage a group in Microsoft Stream</span></span>
+# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="0d0e3-102">Een groep bewerken en beheren in Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="0d0e3-102">Edit and manage a group in Microsoft Stream</span></span>
 
-<span data-ttu-id="cf46c-103">U kunt de groepsinstellingen in Microsoft stream wijzigen in de stroom van de eigenaar van de groep.</span><span class="sxs-lookup"><span data-stu-id="cf46c-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
+<span data-ttu-id="0d0e3-103">Groepsinstellingen in Microsoft Stream kunnen worden gewijzigd in Stream door de groepseigenaar.</span><span class="sxs-lookup"><span data-stu-id="0d0e3-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
 
-- [<span data-ttu-id="cf46c-104">Een groep bewerken en beheren in Microsoft stream</span><span class="sxs-lookup"><span data-stu-id="cf46c-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
+- [<span data-ttu-id="0d0e3-104">Een groep bewerken en beheren in Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="0d0e3-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
