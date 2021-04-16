@@ -1,8 +1,8 @@
 ---
-title: Wordt de prijs niet correct weergeven?
+title: Ziet prijs er niet correct uit?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92290384e7995ccb44f41665b7166fd07196f947
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693658"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790435"
 ---
-# <a name="price-doesnt-look-correct"></a>Wordt de prijs niet correct weergeven?
+# <a name="price-doesnt-look-correct"></a>Ziet prijs er niet correct uit?
 
-Als de kosten op uw factuur niet kloppen, is dit mogelijk een prijswijziging bij het verlengen. Als u niet denkt dat dit het probleem opneemt, kunt u de optie ' We bellen u ' gebruiken om met een ondersteuningsmedewerker te praten.
+Als de prijs op uw factuur er niet correct uit ziet, kan dit het gevolg zijn van een prijswijziging bij verlenging. Als u denkt dat dit het probleem niet verklaart, gebruikt u de optie 'Laten we u bellen' om met een ondersteuningsmedewerker te praten.
