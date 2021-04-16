@@ -2,21 +2,22 @@
 title: Map Onbelangrijke e-mail ontbreekt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4855"
-ms.openlocfilehash: 3fa3f5c97ee1d3e96a5b7f6070d794916200907d
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: f9753c9b278b7a48b8bbb23c064f2af5864dc581
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530168"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793351"
 ---
 # <a name="missing-clutter-folder"></a>Map Onbelangrijke e-mail ontbreekt
 

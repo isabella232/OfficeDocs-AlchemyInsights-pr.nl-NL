@@ -1,8 +1,8 @@
 ---
-title: Hulp nodig met mijn Outlook.com-account
+title: Hulp nodig bij mijn Outlook.com account
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803276"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792379"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Hulp nodig met mijn Outlook.com-account
+# <a name="need-help-with-my-outlookcom-account"></a>Hulp nodig bij mijn Outlook.com account
 
-Als u hulp nodig hebt bij de Outlook.com-service, hebben we speciale hulp nodig om u te helpen. Ga als volgt te werk rechtstreeks via de web-app: 
+Als u hulp nodig hebt bij de Outlook.com service, hebben we hulp nodig om u te helpen. Ga als eerste naar de web-app om ondersteuning te krijgen: 
 
-1. Klik op de? in de rechterbovenhoek van het scherm. 
+1. Klik op de ? rechtsboven in het scherm. 
 
-2. Typ wat u hulp nodig hebt in het venster Help dat wordt weergegeven in het pop-upvenster en klik op **verzenden**. 
+2. Typ waar u hulp bij nodig hebt in het helpvak dat wordt weergegeven in het pop-upvenster en klik op **Verzenden.** 
 
-3. Als er geen oplossing wordt gepresenteerd, schuift u omlaag in het deelvenster en klikt u op **e-mail ons**.
+3. Als er geen oplossing wordt gepresenteerd, schuift u omlaag in het zijpaneel en klikt u op **e-mail.**
