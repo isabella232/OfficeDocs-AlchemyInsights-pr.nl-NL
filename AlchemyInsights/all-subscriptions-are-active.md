@@ -1,8 +1,8 @@
 ---
-title: Alle abonnementen zijn actief
+title: Alle abonnementen zijn Actief
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: fdce9c19e589d53cccd90aff26eb3af0f2404c1e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348696"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821550"
 ---
-# <a name="all-subscriptions-are-active"></a>Alle abonnementen zijn actief
+# <a name="all-subscriptions-are-active"></a>Alle abonnementen zijn Actief
 
-Uw abonnementen zijn actief. U kunt dit controleren door naar de pagina **Billing** \> [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) facturering te gaan. Uw abonnementen worden weergegeven op het tabblad **Products** en de status van elk abonnement wordt weergegeven in de kolom **status van abonnement** . Selecteer een abonnement om de pagina Details van abonnement weer te geven voor meer informatie.
+Uw abonnementen zijn Actief. U kunt dit controleren door naar de pagina **Facturering** \> [uw producten te](https://go.microsoft.com/fwlink/p/?linkid=842054) gaan. Uw abonnementen worden weergegeven  op het tabblad Producten en de status voor elk abonnement wordt weergegeven in de **kolom Abonnementsstatus.** Selecteer een abonnement om de pagina met abonnementsgegevens weer te geven voor meer informatie.
   
-Als u uw actieve abonnementen wilt verwijderen of uw account wilt sluiten, raadpleegt u [uw account sluiten](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
+Zie Uw account sluiten als u uw actieve abonnementen wilt verwijderen of uw account [wilt sluiten.](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)

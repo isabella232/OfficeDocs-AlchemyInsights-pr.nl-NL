@@ -1,8 +1,8 @@
 ---
-title: Betalingsgegevens in azure wijzigen
+title: Betalingsgegevens wijzigen in Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807397"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820713"
 ---
-# <a name="change-payment-information-in-azure"></a>Betalingsgegevens in azure wijzigen
+# <a name="change-payment-information-in-azure"></a>Betalingsgegevens wijzigen in Azure
 
-Als account beheerder kunt u in de Azure-Portal een nieuwe creditcard toevoegen, een bestaande creditcard bijwerken of een creditcard verwijderen die u niet gebruikt. Voor [Microsoft Customer Agreement](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)zijn betaalwijzen aan [facturerings profielen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)gekoppeld. Alleen de gebruiker die zich heeft geregistreerd voor Azure kan de betalingsmethode bijwerken.
+In Azure Portal kunt u als accountbeheerder een nieuwe creditcard toevoegen, een bestaande creditcard bijwerken of een niet-gebruikte creditcard verwijderen. Voor [Microsoft-klantovereenkomst](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement) zijn betaalmethoden gekoppeld aan [factureringsprofielen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Alleen de gebruiker die zich heeft aangemeld voor Azure kan de betaalmethode bijwerken.
 
-**Een nieuwe credit card of betaalkaart toevoegen aan een Azure-abonnement**
+**Een nieuwe creditcard of betaalpas toevoegen aan een Azure-abonnement**
 
-1. Meld u aan bij de [Azure-Portal](https://portal.azure.com/) als [account beheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Zoeken op **kostenbeheer + facturering**
-2. Selecteer het abonnement waaraan u een creditcard of betaalkaart wilt toevoegen. **Betaalmethoden** selecteren
-3. Selecteer in de linkerbovenhoek + om een kaart toe te voegen. Aan de rechterkant wordt een creditcard formulier weergegeven. Voer de details van uw creditcard of betaalkaart in 4.To Voer uw actieve betaalmethode in en schakel het selectievakje in naast deze mijn actieve betaalmethode instellen boven het formulier. Deze kaart wordt het actieve betalings instrument voor alle abonnementen met dezelfde kaart als het geselecteerde abonnement. Selecteer **volgend** 5.to u **een andere creditcard wilt gebruiken** , schakelt u het selectievakje in van de kaart die u wilt instellen als de actieve betaalwijze.
-6. Klik op **actieve instellen**
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/) als [accountbeheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Zoek op **Kostenbeheer en facturering**
+2. Selecteer het abonnement waaraan u de creditcard of betaalpas wilt koppelen. Selecteer **Betaalmethoden**
+3. Selecteer + in de linkerbovenhoek om een kaart toe te voegen. Aan de rechterkant wordt een creditcardformulier weergegeven. Voer de gegevens van de creditcard of betaalpas in 4. Als u deze card of pas voor uw actieve betalingen wilt gebruiken, selecteert u het selectievakje boven het formulier en naast Deze card of pas voor mijn actieve betaalmethode gebruiken. Deze card of pas wordt het actieve betaalmiddel voor alle abonnementen waarvoor dezelfde card of pas wordt gebruikt als voor het geselecteerde abonnement. Selecteer **Volgende** 5. Als u **een andere creditcard wilt gebruiken**, schakelt u het selectievakje in naast de card die u wilt gebruiken voor de actieve betaalmethode.
+6. Klik op **Actief maken**
 
-**Een bestaande credit card of betaalkaart bijwerken/wijzigen/verwijderen**
+**Een bestaande creditcard of betaalpas bijwerken/wijzigen/verwijderen**
 
-1. Meld u aan bij de [Azure-Portal](https://portal.azure.com/) als [account beheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Zoek op **kostenbeheer + facturering** .
-2. Selecteer **betaalwijzen** . Klik op de creditcard of betaalkaart die u wilt bewerken. Er verschijnt een creditcard formulier rechts 3. bijwerk de details van uw creditcard of betaalkaart. Klik op **Opslaan** .
-4.To **verwijderen** , schakel het selectievakje in naast de kaart die u 5 wilt verwijderen. Klik op **verwijderen** .
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/) als [accountbeheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Zoek op **Kostenbeheer en facturering**.
+2. Selecteer **Betaalmethoden**. Klik op de creditcard of betaalpas die u wilt bewerken. Aan de rechterkant wordt een creditcardformulier weergegeven. 3. Werk de gegevens van de creditcard of betaalpas bij. Selecteer **Opslaan**.
+4. Als u een card of pas wilt **verwijderen**, selecteert u het selectievakje naast de card of pas die u wilt verwijderen. 5. Klik op **Verwijderen**
 
-_Opmerking_ : u kunt uw creditcard niet verwijderen als die is gekoppeld aan andere actieve Microsoft-abonnementen. U dient de creditcard te verwijderen van alle actieve abonnementen die u met Microsoft hebt, en probeer het opnieuw.
+_Opmerking_: u kunt uw creditcard niet verwijderen als deze is gekoppeld aan andere actieve Microsoft-abonnementen. U moet de creditcard verwijderen van alle actieve Microsoft-abonnementen en het opnieuw proberen.
 
-Meer informatie: [betalingsmethoden bijwerken, wijzigen of verwijderen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+Meer informatie: [Betaalmethoden bijwerken, wijzigen of verwijderen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Problemen met betaling oplossen**
+**Betaalproblemen oplossen**
 
-Zie [problemen met uw betaling en fouten oplossen](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) om te zien of uw probleem is opgelost.
+Raadpleeg [Betaalproblemen en foutscenario's oplossen](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) om te zien of het probleem hiermee kan worden opgelost.
 
-Neem contact op met uw **financiële instelling** om het probleem op te lossen als er nog een betaling in behandeling op de kaart is geannuleerd. Gebruik de onderstaande verwijzingen:
+Als er een betaling op de kaart in behandeling is sinds de card door uw financiële instelling is geweigerd, neemt u contact op met uw **financiële instelling** om het probleem te verhelpen. Gebruik de onderstaande aanwijzingen:
 
-- Mogelijk moet u bij de Bank inkijken om te zien of de internationale transactie op de kaart is ingeschakeld.
-- Als de kaart kredietlimiet heeft om het saldo te bezinken
-- Als periodieke betaling is ingeschakeld op de kaart
+- Mogelijk moet u contact opnemen met de bank om er achter te komen: of de internationale transactie voor de kaart is ingeschakeld;
+- of er voldoende saldo op de card aanwezig is;
+- of terugkerende betaling voor de kaart is ingeschakeld.
 
 **Aanbevolen documenten**
 
 - [Facturering instellen](https://azure.microsoft.com/pricing/invoicing/)
-- [Betaalmethode wijzigen-Veelgestelde vragen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Betalingswijze voor een factuur profiel wijzigen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Toegang tot een Microsoft-klant overeenkomst controleren](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Betaalmethode wijzigen: veelgestelde vragen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Betaalmethode wijzigen voor een factureringsprofiel](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Toegang tot een Microsoft-klantovereenkomst controleren](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

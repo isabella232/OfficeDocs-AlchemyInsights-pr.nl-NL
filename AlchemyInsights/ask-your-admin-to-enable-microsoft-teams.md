@@ -1,8 +1,8 @@
 ---
-title: Neem contact op met uw beheerder om Microsoft teams in te schakelen
+title: Vraag uw beheerder om Microsoft Teams in te stellen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821181"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>U mist geen ervaring meer. Neem contact op met uw beheerder om Microsoft teams in te schakelen
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>U mist! Vraag uw beheerder om Microsoft Teams in te stellen
 
-Als u een EDU-tenant hebt, moet u Microsoft Teams handmatig inschakelen. Ga hiervoor naar het Microsoft 365-Beheercentrum > **Services en invoegtoepassingen > Microsoft teams**. Als u het nieuwe teams-Beheercentrum gebruikt, moet u **het nieuwe Beheercentrum**uitschakelen   om **Services en invoegtoepassingen**te vinden. 
+Als u een EDU-tenant hebt, moet u Microsoft Teams handmatig inschakelen. Ga hiervoor naar het Microsoft 365-beheercentrum >Services en invoegvoegingen  **> Microsoft Teams.** Als u het nieuwe Teams-beheercentrum gebruikt, moet u Probeer het nieuwe **beheercentrum** uitschakelen om Services en invoegvoegingen   te **vinden.** 
 
-**Belangrijk**: u moet mogelijk tot 24 uur wachten voordat de wijzigingen van kracht worden.
+**BELANGRIJK:** Mogelijk moet u maximaal 24 uur wachten voordat de wijzigingen van kracht worden.

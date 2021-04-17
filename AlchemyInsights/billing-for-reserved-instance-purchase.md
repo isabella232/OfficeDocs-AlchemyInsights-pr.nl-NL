@@ -1,8 +1,8 @@
 ---
-title: Facturering voor een gereserveerd exemplaar van aankoop
+title: Facturering voor aankoop van gereserveerd exemplaar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,104 +12,104 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823031"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820317"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Facturering voor een gereserveerd exemplaar van aankoop
+# <a name="billing-for-reserved-instance-purchase"></a>Facturering voor aankoop van gereserveerd exemplaar
 
-Voor de aankoop van een gereserveerd exemplaar wordt rekening gebracht met de betaalwijze die is gekoppeld aan het abonnement dat u op het moment van aankoop selecteert. Het type abonnement moet een Enterprise Agreement zijn (nummer van aanbieding: MS-AZR-0017P), pay-as-u-go (aanbiedings nummer: MS-AZR-0003P), Microsoft Customer Agreement of CSP.
+De aankoop van het gereserveerde exemplaar wordt in rekening gebracht op de betalingswijze die is gekoppeld aan het abonnement dat u op het moment van aankoop selecteert. Het abonnementstype moet een ondernemingsovereenkomst zijn (aanbiedingsnummer: MS-AZR-0017P), Pay-As-You-Go (aanbiedingsnummer: MS-AZR-0003P), Microsoft Customer Agreement of CSP.
 
-- Voor een Enterprise-abonnement worden de kosten in rekening gebracht voor het monetaire toezeggings saldo van de inschrijving of in rekening gebracht als overage
-- Voor Pay-to-go-abonnementen worden de kosten gefactureerd aan de betaling per creditcard of factuur methode voor het abonnement
+- Voor een ondernemingsabonnement worden de kosten afgetrokken van het saldo van de inschrijving of als overwaarde in rekening gebracht
+- Voor betalen per gebruik-abonnement worden de kosten gefactureerd op de betalingswijze van de creditcard of factuur van het abonnement
 
 **Reservering annuleren**
 
-- **Self-service:** U kunt met behulp van [Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)zelf een gereserveerd exemplaar annuleren of uitwisselen. Selecteer de reservering en klik op restitutie of Exchange. U moet beschikken over de eigenaren van de reserverings order voor Exchange of restitutie. U kunt met alleen de reservering verdergaan met restitutie of Exchange. Vraag de eigenaar van de reserverings order om u de reserverings order toegang te geven
-- **Exchange-beleid:** U kunt een reservering uitwisselen voor een andere reservering van hetzelfde type – er zijn **geen sancties** voor de reserverings uitwisseling. De totale toezegging met de nieuwe reservering moet groter zijn dan de som van het restitutiebedrag van de geexchangeeerde reservering en de toekomstige maandelijkse aflossing (indien van toepassing).
-- **Restitutiebeleid:** De som van de restitutie en de geannuleerde toekomstige betaling mag niet groter zijn dan $50.000 USD in een rolling venster van 12 maanden. Er worden op **dit moment geen boete** aan betaald, maar het bedrag voor toekomstige restituties werd opgeheven.
+- **Selfservice:** U kunt een gereserveerd exemplaar zelf annuleren of uitwisselen met [Behulp van Azure Portal.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Selecteer de reservering en klik op restitutie of omruiling. Houd er rekening mee dat u toegang moet hebben tot de eigenaar van de reserveringsorder om deze om te wisselen of terug te betalen. Als u alleen toegang hebt tot de reservering, kunt u niet doorgaan met restitutie of omruiling. Vraag de eigenaar van de reserveringsorder om u de eigenaar toegang te geven tot de reserveringsorder
+- **Exchange-beleid:** U kunt een reservering inruilen voor een andere reservering van hetzelfde type: er zijn **geen boetes voor reserveringsuitwisseling.** De totale verbintenis met nieuwe reservering moet groter zijn dan de som van het terugbetalingsbedrag van de geruilde reservering en de toekomstige maandelijkse betalingen (indien van toepassing)
+- **Restitutiebeleid:** De som van de terugbetaling en de geannuleerde toekomstige betalingen mogen niet hoger zijn dan $ 50.000 USD in een rollend venster van 12 maanden. We brengen **momenteel geen boete in rekening voor** restituties, maar kunnen deze in rekening brengen bij toekomstige restituties
 
-**Uitzonderingen:** Service voor selfservice uitwisseling en annuleren is niet beschikbaar voor klanten van de Amerikaanse overheid Enterprise Agreement
+**Uitzonderingen:** Selfservice-mogelijkheid voor exchange en annuleren is niet beschikbaar voor klanten van de Amerikaanse overheid voor enterprise agreement
 
-- **API/PS/cli-** ondersteuning is niet beschikbaar voor annulering en teruggave [van selfservice-uitwisseling en restitutie voor Azure reserveringen](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Selfservice Exchange en de mogelijkheid om te annuleren is niet beschikbaar voor klanten van de Amerikaanse overheid Enterprise Agreement. Andere typen US Government-abonnementen, waaronder pay-as-nl-go en CSP, worden ondersteund
+- **API / PS / CLI-ondersteuning** is niet beschikbaar voor annulering en terugbetalingen [selfservice-exchanges en restituties voor Azure Reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Selfservice-exchange- en annuleermogelijkheden zijn niet beschikbaar voor klanten van de Enterprise Agreement van de Amerikaanse overheid. Andere abonnementstypen van de Amerikaanse overheid, waaronder Pay-As-You-Go en CSP, worden ondersteund
 
-Meer informatie: meer informatie [over de manier waarop retour-en Exchange-transacties worden verwerkt](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) [meer: meer](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) vragen over het Exchange- [en restitutiebeleid](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+Meer informatie: Hoe retour- en [exchange-transacties](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) worden verwerkt Meer informatie: Exchange- en [Restitutiebeleid](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Andere vragen: Ga naar [gereserveerde exemplaar docs](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Een bestaand gereserveerd exemplaar (Self-Service) uitwisselen**
+**Een bestaand gereserveerd exemplaar uitwisselen (Selfservice)**
 
-U kunt een reservering uitwisselen voor een andere reservering van hetzelfde type. Als u het niet meer nodig hebt, betaalt u ook een reservering van maximaal $50.000 USD per jaar. Selfservice Exchange en de mogelijkheid om te annuleren is niet beschikbaar voor klanten van de Amerikaanse overheid Enterprise Agreement. Andere typen US Government-abonnementen, waaronder pay-as-u-go en CSP, worden ondersteund. U moet beschikken over de eigenaren van de reserverings order voor het omwisselen van een bestaande reserve.
+U kunt een reservering inruilen voor een andere reservering van hetzelfde type. U kunt ook een reservering, tot $ 50.000 per jaar, terugbetalen als u deze niet meer nodig hebt. Selfservice-exchange- en annuleermogelijkheden zijn niet beschikbaar voor klanten van de Enterprise Agreement van de Amerikaanse overheid. Andere amerikaanse overheidsabonnementstypen, waaronder Pay-As-You-Go en CSP, worden ondersteund. U moet toegang hebben tot de eigenaar van de reserveringsorder om een bestaande reservering te kunnen omruilen of terug te betalen.
 
-De volgende stappen helpen u bij de procedure voor het voltooien van de transactie
+In de volgende stappen wordt de procedure voor het voltooien van de transactie
 
-1. Meld u aan bij uw [Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selecteer de reserveringen die u wilt terugbetalen en klik op **Exchange** 2. Selecteer het VM-product dat u wilt kopen en typ een hoeveelheid. Zorg ervoor dat het nieuwe totale aankoopbedrag hoger is dan het retour totaal, [Bepaal de juiste grootte voordat u koopt](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
-3. de transactie controleren en voltooien
+1.Meld u aan bij uw [Azure-portal.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Selecteer de reserveringen die u wilt terugbetalen en klik op **Exchange** 2.Selecteer het VM-product dat u wilt kopen en typ een hoeveelheid. Zorg ervoor dat het nieuwe aankooptotaal groter is dan het retourtotaal [Bepaal de juiste grootte voordat u de aankoop doet.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3.De transactie controleren en voltooien
 
 **Restitutie voor een gereserveerd exemplaar**
 
-Als u een reservering wilt terugbetalen, gaat u naar **reserverings details** en klikt u op **restitutie**
+Als u een reservering wilt terugbetalen, gaat u naar **Reserveringsgegevens** en klikt u op **Restitutie**
 
-**Met Pro geclassificeerde restitutie:**
+**Pro-rated refund:**
 
-Voor **beelden van Pro-en minimumvereisten voor restitutie en uitwisseling** Voorbeeld van precover reservation:
+**Voorbeelden van pro-ration en minimumvereiste voor restitutie en omruiling** Voorbeeld van reservering vooraf:
 
-- U koopt een term RI voor 1 jaar voor $120 op 1 januari
-- Op 7 april wilt u deze reservering vervragen of verwisselen
-- Aangezien de reservering voor 97 dagen live is, krijgt u (1-97/365) * $120 back. (bijvoorbeeld $88,1). Er is momenteel geen boete voor de vergoeding
-- Als de uitwisseling is opgebruikt, moet uw nieuwe aankoop groter zijn dan $88,1
-- Er is op dit moment geen boete voor restituties
+- U koopt op 1 januari een ri met een looptijd van één jaar voor $ 120
+- Op 7 april wilt u deze reservering terugbetalen of omruilen
+- Aangezien de reservering al 97 dagen live is, krijgt u (1-97/365) * $ 120 terug. (dat wil zeggen $ 88,1). Er is momenteel geen boete voor restituties
+- Als u wisselt, moet uw nieuwe aankoop groter zijn dan $ 88,1
+- Er is momenteel geen boete voor restituties
 
-**Voorbeeld van reservering van facturerings abonnement:**
+**Voorbeeld van reservering van factureringsplan:**
 
-- U koopt een term RI van één jaar voor $10 per maand
-- Op 7 april wilt u deze reservering vervragen of verwisselen
-- Aangezien de laatste betaling 7 dagen plaatsvond, krijgt u (1-7/31) * $10 terug. (bijvoorbeeld $7,74)
-- De termijn voor toekomstige betalingen zijn $80. Er is momenteel geen boete voor de vergoeding
-- Met deze annulering wordt $87,74 afgetrokken van u de $50.000-restitutie limiet
-- Als de totale waarde van de aankoop groter is dan $87,74, moet de totale waarde van de nieuwe aankoop groter zijn dan.
+- U koopt een ri met een looptijd van één jaar voor $ 10 per maand
+- Op 7 april wilt u deze reservering terugbetalen of omruilen
+- Aangezien de laatste betaling 7 dagen heeft plaatsgevonden, krijgt u (1-7-31) * $ 10 terug. (dat wil zeggen $ 7,74)
+- De toekomstige geannuleerde betalingen zijn $ 80. Er is momenteel geen boete voor restituties
+- Met deze annulering wordt $ 87,74 aftrekken van de limiet van $ 50.000
+- Als u wisselt, moet de totale waarde van nieuwe aankoop groter zijn dan $ 87,74
 
-**De factuur voor de laatste factureringsperiode kan niet worden weergegeven**
+**Factuur voor de laatste factureringsperiode kan niet worden gezien**
 
-Mogelijke redenen zijn dat u een factuur niet ziet:
+Enkele mogelijke redenen waarom u mogelijk geen factuur ziet:
 
-- U hebt een maandbedrag met uw abonnement dat u niet meer weet of als u een gratis proefabonnement hebt. Een factuur wordt alleen gegenereerd wanneer u geld verschuldigt
-- 30 dagen na de dag waarop u zich hebt geabonneerd op Azure
-- De factuur is nog niet gegenereerd. Wachten tot het einde van de factureringsperiode
-- Als u niet de account beheerder bent, zijn oudere facturen mogelijk niet voor u beschikbaar
+- U hebt een maandelijks tegoedbedrag met uw abonnement dat u niet hebt overschreden of u hebt een gratis proefabonnement. Een factuur wordt alleen gegenereerd wanneer u geld verschuldigd bent
+- Het is minder dan 30 dagen vanaf de dag dat u zich hebt geabonneerd op Azure
+- De factuur wordt nog niet gegenereerd. Wachten tot het einde van de factureringsperiode
+- Als u niet de accountbeheerder bent, zijn oudere facturen mogelijk niet beschikbaar voor u
 
-**Uw factuur downloaden van Azure Portal (. PDF)**
+**Uw factuur downloaden van Azure Portal (.pdf)**
 
-- Selecteer uw abonnement op de pagina [abonnementen](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) in azure-portal als [een gebruiker met toegang tot facturen](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- **Facturen** selecteren
-- Klik op **factuur downloaden** om een kopie van de PDF-factuur weer te geven. Zie [Waarom zie ik geen factuur voor de laatste factuurperiode?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice) als dit **niet beschikbaar** is.
+- Selecteer uw abonnement op [de pagina Abonnementen](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) in azure portal als gebruiker met toegang tot [facturen](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Facturen **selecteren**
+- Klik **op Factuur downloaden** om een kopie van uw PDF-factuur te bekijken. Zie Waarom zie **ik** geen factuur voor de laatste factureringsperiode als deze niet [beschikbaar is?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**Uw factuur ontvangen via e-mail (. PDF)**
+**Uw factuur per e-mail ontvangen (.pdf)**
 
-- Selecteer uw abonnement op de pagina [abonnementen](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) . Klik op **factuur** en vervolgens op e-mail verzenden
-- Klik op **Afmelden** en accepteer de voorwaarden. U moet zich aanmelden voor elk abonnement dat u bezit
+- Selecteer uw abonnement op [de pagina](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Abonnementen. Klik **op Facturen** en e-mail mijn factuur
+- Klik **op Opt in** en accepteer de voorwaarden. U moet zich inschrijven voor elk abonnement dat u bezit
 
-Opmerking: als u na het uitvoeren van de stappen geen e-mail ontvangt, controleert u of uw e-mailadres juist is in de [communicatievoorkeuren van uw profiel](https://account.windowsazure.com/profile)
+Opmerking: Als u na het volgen van de stappen geen e-mailbericht ontvangt, moet u ervoor zorgen dat uw e-mailadres juist is in de communicatievoorkeuren [in uw profiel](https://account.windowsazure.com/profile)
 
-**Uw gebruiksgegevens downloaden van de Azure-Portal**
+**Uw gebruiksgegevens downloaden van de Azure-portal**
 
-- Meld u aan bij het [Azure-account centrum](https://account.windowsazure.com/Subscriptions) als [account beheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- Selecteer het abonnement waarvoor u de factuur en gebruiksinformatie wilt
-- **Factureringsgeschiedenis** selecteren
-- Selecteer **huidige instructie weergeven** om een raming van uw kosten te zien op het moment dat de raming werd gegenereerd.
-- Selecteer **gebruik downloaden** om de dagelijkse gebruiksgegevens te downloaden als een CSV-bestand. Als u twee versies beschikbaar ziet, download versie 2.
+- Meld u aan bij [het Azure Account Center](https://account.windowsazure.com/Subscriptions) als [accountbeheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- Selecteer het abonnement waarvoor u de factuur- en gebruiksgegevens wilt gebruiken
+- **Factureringsgeschiedenis selecteren**
+- Selecteer **Huidige instructie weergeven** om een schatting van uw kosten te bekijken op het moment dat de schatting is gegenereerd
+- Selecteer **Gebruik downloaden** om de dagelijkse gebruiksgegevens te downloaden als een CSV-bestand. Als er twee versies beschikbaar zijn, downloadt u versie 2
 
-Overige vragen: [naar documenten met gereserveerde exemplaren van documenten](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) gaan
+Andere vragen: [Ga naar gereserveerde exemplaar docs](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Aanbevolen documenten**
 
-- [Basisprincipes van facturering](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Inzicht in de manier waarop de gereserveerde exemplaar korting wordt toegepast](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Uw Azure-facturerings factuur en dagelijkse gebruiksgegevens downloaden of weergeven](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Inzicht in de manier waarop de gereserveerde exemplaar korting wordt toegepast](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Gebruik van het gereserveerde exemplaar voor uw abonnement voor betalen naar gebruik](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Gebruik van het gereserveerde exemplaar van uw Enterprise-registratie](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Windows-softwarekosten die niet zijn opgenomen in gereserveerde exemplaren](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Gereserveerde exemplaren in partner Central Cloud Solution Provider (CSP)-programma](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Factureringsprincipes](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Meer inzicht in de manier waarop de korting op gereserveerde exemplaren wordt toegepast](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Uw Factuur voor Azure-facturering en gegevens voor dagelijks gebruik downloaden of weergeven](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Meer inzicht in de manier waarop de korting op gereserveerde exemplaren wordt toegepast](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Het gebruik van gereserveerde exemplaren voor uw abonnement op betalen per gebruik begrijpen](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Het gebruik van gereserveerde exemplaren voor uw ondernemingsinschrijving begrijpen](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows-softwarekosten niet inbegrepen bij Gereserveerde exemplaren](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Gereserveerde exemplaren in het CSP-programma (Partner Central Cloud Solution Provider)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
