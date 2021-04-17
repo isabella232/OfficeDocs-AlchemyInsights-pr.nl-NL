@@ -2,7 +2,7 @@
 title: Apparaten registreren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: 8fe73750296cb163789e3b7639f6b2404252bc44
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825654"
 ---
 # <a name="how-to-enroll-devices"></a>Apparaten registreren
 
-Hier volgen de basisbeginselen van de inschrijving:
+Hieronder volgen de basisbeginselen van Inschrijving:
 
-- Zie [Wat is apparaatregistratie in intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)voor meer informatie over intune-registratie.
+- Zie Wat is apparaatinschrijving [in Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)voor meer informatie over intune-registratie.
 
-- Zie [apparaten registreren in Microsoft intune](https://docs.microsoft.com/mem/intune/enrollment/) -portal voor uitgebreide informatie over het registreren van bepaalde platforms, handleidingen en zelfstudies.
+- Zie Apparaten registreren in de [Microsoft Intune-portal](https://docs.microsoft.com/mem/intune/enrollment/) voor meer informatie over de inschrijving voor specifieke platforms, handleidingen en zelfstudies.
 
 **Problemen met het registreren van apparaten oplossen**
 
-- [Problemen oplossen met het registreren van apparaten in Microsoft intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [Problemen met de registratie van apparaten oplossen in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [Problemen met iOS-iPadOS-apparaat registreren](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Problemen met de registratie van iOS/iPadOS-apparaten oplossen](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Problemen met registratie van Windows-apparaten oplossen](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Problemen met de registratie van Windows-apparaten oplossen](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Problemen oplossen met automatisch registreren in Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Problemen met automatische registratie van Windows 10 oplossen](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Problemen met Android Enterprise-apparaat oplossen](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Problemen met Android Enterprise-apparaten oplossen](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 

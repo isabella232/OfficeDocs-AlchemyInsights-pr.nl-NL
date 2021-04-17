@@ -2,21 +2,22 @@
 title: Dynamics 365 ondersteuningsaanvragen indienen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "274"
 - "6200001"
-ms.openlocfilehash: 7bd8606570eda916955978e30f2016b0267bcd2d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b5a1eae36e1eb55b3460a311e5f4f38c5783fe60
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666043"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828003"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>Dynamics 365 ondersteuningsaanvragen indienen
 

@@ -1,8 +1,8 @@
 ---
-title: Meer informatie over factureringsbedrag
+title: Factureringsbedrag begrijpen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,73 +12,73 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808274"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827859"
 ---
-# <a name="understand-billing-amount"></a>Meer informatie over factureringsbedrag
+# <a name="understand-billing-amount"></a>Factureringsbedrag begrijpen
 
-**LED voor klant (WD):**
+**Klant geleid (WD):**
 
-- Raadpleeg de volgende onderwerpen voor meer informatie over het controleren en leren van uw factuur: [Zelfstudie: de afzonderlijke Azure-factuur controleren](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Meer informatie over de voorwaarden op uw factuur: [uitleg van Azure-factuur termen](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Voorwaarden voor de gebruikskosten van Azure: [Gebruiksvoorwaarden](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Als u een PDF-bestand van uw factuur en een kopie van uw gedetailleerde dagelijkse gebruiks bestand wilt verkrijgen (. CSV): [factuur-en gebruiksgegevens weer](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support) geven
+- Raadpleeg zelfstudie: Uw afzonderlijke Azure-factuur controleren om uw factuur te bekijken en te [begrijpen.](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Voorwaarden op uw factuur begrijpen: [Azure-factuurvoorwaarden uitgelegd](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Voorwaarden voor Azure Gebruikskosten begrijpen: [Gebruiksvoorwaarden uitgelegd](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Een PDF-bestand van uw factuur en een kopie van het uitgebreide bestand voor dagelijks gebruik (. CSV): [Factuur- en gebruiksgegevens ontvangen](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Opmerking** : als u uw abonnement/resource in het midden van de factureringscyclus opzegt, ziet u mogelijk nog steeds kosten voor gebruik in de afgelopen maand. Voorbeeld: wanneer de factureringscyclus van de 26 van de maand tot en met de 25e van de volgende maand & u het abonnement op de zoals 23e hebt geschorst, is het mogelijk dat u 28 dagen in de factureringscyclus voor juni ziet. Zorg dat u geen andere ondersteunings abonnementen onderneemt die de kosten in rekening brengen als u de kosten van een abonnement niet wilt opzeggen. Als u dat doet, kunt u het abonnement annuleren.
+**Opmerking:** Als u uw abonnement/resource opzegt in het midden van uw factureringscyclus, ziet u mogelijk nog steeds een vergoeding die voor elk gebruik in de vorige maand zou zijn. Als uw factureringscyclus van de 26e van elke maand tot de 25e van de volgende maand & hebt u het abonnement op de 23e opgeschort, wat 28 dagen in de factureringscyclus voor juni is, ziet u mogelijk kosten voor de 28 gebruiksdagen. Als u kosten ziet ondanks het annuleren van een abonnement, moet u ervoor zorgen dat u geen andere ondersteuningsplannen hebt waardoor de kosten worden veroorzaakt. Als u dat doet, moet u doorgaan en het plan annuleren.
 
 **Microsoft Customer Agreement (MCA):**
 
-[Hoe controleer ik de toegang tot een Microsoft-klant overeenkomst?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+[Hoe controleert u de toegang tot een Microsoft-klantovereenkomst?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
-- Raadpleeg de volgende onderwerpen voor meer informatie over het controleren en begrijpen van uw factuur: [Zelfstudie: uw factuur voor Microsoft Customer Agreement nakijken](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Meer informatie over de voorwaarden op uw factuur: uitleg van de [factuur voorwaarden voor Microsoft Customer Agreement](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Voorwaarden voor de gebruikskosten van Azure: [Microsoft voor](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support) waarden voor gebruik van gebruikersovereenkomsten
-- Als u een [Microsoft-klant overeenkomst](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)hebt, kunt u deze downloaden in de [Azure-Portal](https://portal.azure.com/).
+- Raadpleeg zelfstudie: Uw factuur voor [microsoft-klantovereenkomst controleren](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) om uw factuur te bekijken en te begrijpen
+- Voorwaarden op uw factuur begrijpen: [Factuurvoorwaarden van Microsoft-klantovereenkomst uitgelegd](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Voorwaarden voor Azure Gebruikskosten begrijpen: Gebruiksvoorwaarden voor [Microsoft-klantovereenkomst uitgelegd](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Als u een [Microsoft-klantovereenkomst](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)hebt, kunt u het gebruik downloaden in de [Azure-portal.](https://portal.azure.com/)
 
-**Microsoft Partner Agreement (MPA):**
+**Microsoft-partnerovereenkomst (MPA):**
 
-- Raadpleeg voor meer informatie over het gebruik van uw [factuur: zelfstudie: de factuur van uw Microsoft-partner overeenkomst controleren](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Meer informatie over de voorwaarden op uw factuur: [uitleg in Microsoft Partner Agreement-factuur](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Raadpleeg zelfstudie: Uw factuur voor [microsoft-partnerovereenkomst controleren](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) om uw factuur te bekijken en te begrijpen
+- Voorwaarden op uw factuur begrijpen: [Voorwaarden in microsoft-partnerovereenkomstfactuur uitgelegd](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Enterprise Agreement (EA)**
 
-- Voor de beoordeling en uitleg van uw factuur raadpleegt u: [de factuur van een Azure Enterprise-overeenkomst begrijpen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Als u een Azure-klant bent met een Enterprise Agreement (EA-klant), kunt u de facturen van uw organisatie niet downloaden. Facturen worden verzonden naar wie is ingesteld voor het ontvangen van facturen voor de inschrijving, en u kunt het gebruik downloaden in de [Azure-Portal](https://portal.azure.com/).
+- Als u uw factuur wilt controleren en begrijpen, raadpleegt u: [Uw Azure Enterprise Agreement-factuur begrijpen](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Als u een Azure-klant bent met een EA-klant (Enterprise Agreement), kunt u de facturen van uw organisatie niet downloaden. Facturen worden verzonden naar degene die is ingesteld voor het ontvangen van facturen voor de inschrijving, u kunt het gebruik downloaden in de [Azure-portal.](https://portal.azure.com/)
 
-Service overage factuur bekijken:
+Factuur voor service oververstoring controleren:
 
-- Meld u aan bij **Enterprise Portal** . Selecteer **Rapporten**
-- In de rechterbovenhoek van het tabblad zet u de weergave van **M** naar **C** en gaat u overeen met de periode op de factuur.
-- Het totale **gebruiks** bedrag moet overeenkomen met het totale **uitgebreide** bedrag op de factuur van de service overage
-- Ga naar de downloadversie **> uitgebreid rapport downloaden** voor meer informatie over **uw kosten:** dit rapport bevat geen belastingen, kosten voor reserveringen of kosten van de markt.
+- Meld u aan bij de **Enterprise-portal.** Selecteer **Rapporten**
+- Schakel in de rechterbovenhoek van het tabblad de weergave over van **M** naar **C** en kom overeen met de periode op de factuur
+- Het totale **gebruiksbedrag** moet overeenkomen met het totale **uitgebreide** bedrag op uw factuur voor te veel servicekosten
+- Ga naar **Gebruik van > geavanceerd rapport downloaden** voor meer informatie over uw kosten **Opmerking:** Dit rapport bevat geen belastingen, kosten voor reserveringen of marketplacekosten
 
 **Azure Marketplace**
 
-- Meer informatie over de facturering van derden: [Azure Marketplace-facturering](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Meer informatie over facturering door derden: [Facturering via Azure Marketplace](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Bekijk de factuur van de Marketplace:
+Marketplace-factuur controleren:
 
-Vergelijk het totaal van Azure Marketplace op rapporten > het overzicht van het gebruik in de Enterprise Portal met de factuur van uw Marketplace. De factuur van de Marketplace is alleen voor aankopen en gebruik van Azure Marketplace. De bedragen in het gebruiksoverzicht bevatten geen BTW.
+Vergelijk uw Azure Marketplace-totaal op rapporten > Overzicht van gebruik in de Enterprise-portal met uw marketplace-factuur. De marketplace-factuur is alleen voor aankopen en gebruik van Azure Marketplace. De bedragen in het gebruiksoverzicht bevatten geen belasting.
 
-- Meld u aan bij **Enterprise Portal** . Selecteer **Rapporten**
-- In de rechterbovenhoek van het tabblad zet u de weergave van **M** naar **C** en gaat u overeen met de periode op de factuur.
-- Het totaal van **Azure Marketplace** moet overeenkomen met de **totale verkoop** op de factuur van de Marketplace
-- Ga naar het **Download gebruik** voor meer informatie over de kosten op basis van verbruik. Selecteer onder **kosten van Marketplace** de optie **Opmerking** **downloaden** : dit rapport bevat geen BTW of eenmalige aankoop weergeven
+- Meld u aan bij de **Enterprise-portal.** Selecteer **Rapporten**
+- Schakel in de rechterbovenhoek van het tabblad de weergave over van **M** naar **C** en kom overeen met de periode op de factuur
+- Het **totaal van Azure Marketplace** moet overeenkomen met de totale **verkoop** op uw marketplacefactuur
+- Ga naar **Gebruik downloaden voor** meer informatie over uw gebruikskosten. Selecteer **onder Marketplace-kosten** **de optie Notitie** **downloaden:** Dit rapport bevat geen belastingen of een een time purchases
 
-**Provider van cloud oplossingen**
+**Cloud Solution Provider (CSP)**
 
-- Meer informatie over de manier waarop facturering werkt in azure Cloud Solution Provider (Azure CSP)-programma: [Azure CSP-facturering](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Meer informatie over het lezen en begrijpen van uw CSP factuur: [Azure CSP-factuur](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Meer informatie over hoe facturering werkt in Azure Cloud Solution Provider (Azure CSP)-programma: [Azure CSP Billing](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Meer informatie over het lezen en begrijpen van uw CSP-factuur: [Azure CSP-factuur](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Aanbevolen documenten**
 
-- Meer informatie over het voorkomen van onverwachte kosten en het regelen van uw kosten: [onverwachte kosten voorkomen](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Facturerings-of kredietwaarschuwingen instellen om de facturerings activiteit voor uw accounts te controleren en beheren: [facturerings waarschuwingen instellen](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Meer informatie over Azure-uitgavenlimiet](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Meer informatie over uw Azure-facturering voor externe servicekosten: [hoe externe services worden gefactureerd](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Veelgestelde vragen over Azure gratis account](https://azure.microsoft.com/free/free-account-faq/)
-- [Meer informatie over Azure Enterprise Agreement Administrative roles in azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Meer informatie over het voorkomen van onverwachte kosten en het beheer van uw kosten: [Onverwachte kosten voorkomen](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Facturerings- of kredietwaarschuwingen instellen voor het controleren en beheren van factureringsactiviteit voor uw accounts: [Factureringswaarschuwingen instellen](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure-bestedingslimiet begrijpen](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Uw Azure-facturering voor externe servicekosten begrijpen: [Hoe externe services worden gefactureerd](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Veelgestelde vragen over Azure Free Account](https://azure.microsoft.com/free/free-account-faq/)
+- [Beheerdersrollen van Azure Enterprise Agreement in Azure begrijpen](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

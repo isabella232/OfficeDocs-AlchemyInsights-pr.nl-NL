@@ -1,8 +1,8 @@
 ---
-title: Veelvoorkomende problemen en oplossingen van planner
+title: Veelvoorkomende problemen en oplossingen voor planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: b30b47493f9b9df0f6a5fd177745cad98c2d018a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a289c9e932c1c1724017ffd6711b8466d4cad6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802052"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826878"
 ---
-# <a name="planner-common-issues-and-resolutions"></a>Veelvoorkomende problemen en oplossingen van planner
+# <a name="planner-common-issues-and-resolutions"></a>Veelvoorkomende problemen en oplossingen voor planner
 
-Hier volgen enkele veelgestelde vragen over Microsoft planner.
+Hier zijn enkele veelgevraagde onderwerpen met Microsoft Planner.
  
-- **Aan de slag:** [planner gaan gebruiken](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)en leren hoe u [planner activeert voor uw organisatie, gastgebruikers toevoegt en toegang beheert in uw omgeving](https://docs.microsoft.com/office365/planner/planner-for-admins).
+- **Aan de slag:** [Gebruik Planner](https://support.office.com/article/microsoft-planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc)en leer hoe u Planner activeert voor uw organisatie, gastgebruikers toevoegt en de toegang in uw omgeving [beheert.](https://docs.microsoft.com/office365/planner/planner-for-admins)
 
-- **Planner gebruiken in teams**: Zie [planner gebruiken in Microsoft teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)voor een algemeen overzicht van planner-integratie met Microsoft teams.
+- **Planner gebruiken in Teams**: Zie Planner gebruiken in Microsoft Teams voor een algemeen overzicht van plannerintegratie [met Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
 
-     - [Een planner-tabblad toevoegen aan een team kanaal](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). De gebruiker die het tabblad toevoegt, moet een lid van het team zijn, dus niet alleen een eigenaar. U kunt de gebruiker toevoegen als lid via de teams-interface. U kunt ook [een bestaand plan toevoegen aan Microsoft teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+     - [Voeg een plannertabblad toe aan een teamkanaal.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) De gebruiker die het tabblad toevoegt, moet lid zijn van het team, niet alleen een eigenaar. U kunt de gebruiker toevoegen als lid via de Teams-interface. U kunt ook [een bestaand abonnement toevoegen aan Microsoft Teams.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
 
-    - [Een planner-tabblad verwijderen of een plan verwijderen](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Verwijderde abonnementen kunnen niet worden hersteld in teams. Als een groep al is verwijderd, kunt u [Verwijderde abonnementen en groepen herstellen](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
-).
+    - [Een plannertabblad verwijderen of een abonnement verwijderen.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Verwijderde abonnementen kunnen niet worden hersteld in Teams. Als een groep al is verwijderd, kunt u [verwijderde plannen en groepen herstellen.](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
+)
  
-- **Gastgebruikers:** Beheer [gastgebruikers toegang](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) tot planner.
+- **Gastgebruikers:** Toegang [van gastgebruikers tot](https://support.office.com/article/guest-access-in-microsoft-planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6) Planner beheren.
  
-- **Meldingen:** Bekijk welke [typen meldingen u ontvangt](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859), welke activiteiten ze activeren en waar u de instellingen van de meldingen kunt wijzigen.
+- **Meldingen:** Bekijk de typen meldingen die u [ontvangt,](https://support.office.com/article/stay-on-top-of-tasks-and-plans-with-email-and-notifications-cce223d6-b0ae-43cf-a080-266e2414a859)de activiteiten die deze activeren en waar u de instellingen voor meldingen kunt wijzigen.
  
-- **Ontvangen** 
-   - Meer informatie over [problemen met het bekijken of toevoegen van opmerkingen](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) aan een taak zonder een Exchange Online-postvak.
-   - Meer informatie over hoe u [ervoor kunt zorgen dat alle gebruikers e-mailberichten krijgen voor planner](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner).
+- **Opmerkingen:** 
+   - Meer informatie [over problemen met het weergeven of toevoegen](https://docs.microsoft.com/office365/planner/planner-for-admins#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox) van opmerkingen aan een taak zonder een Exchange Online-postvak.
+   - Lees hoe u [ervoor kunt zorgen dat alle gebruikers e-mailberichten voor Planner kunnen ontvangen.](https://docs.microsoft.com/office365/planner/planner-for-admins#how-do-i-make-sure-all-my-users-can-get-emails-forplanner)
 
-- **Taken beheren:** Lees meer over het maken [van opmerkingen over taken](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) en het [verwijderen van taken of plannen](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a).
+- **Taken beheren:** Bekijk informatie over [opmerkingen over taken en](https://support.office.com/article/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) het verwijderen van taken of [plannen.](https://support.office.com/article/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a)

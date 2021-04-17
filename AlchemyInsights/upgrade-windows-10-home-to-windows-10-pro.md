@@ -2,7 +2,7 @@
 title: Windows 10 Home upgraden naar Windows 10 Pro
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 86181f0c14cf9ad20f5da7d22238af2974cf5d06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811647"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827283"
 ---
-# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Upgrade met een productcode of een digitale licentie
+# <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Upgraden met een productcode of een digitale licentie
 
-**Upgrade uitvoeren naar Windows 10 Pro met behulp van een productcode**
+**Upgraden naar Windows 10 Pro met een productcode**
 
-1. Selecteer **Start**  >  **instellingen**  >  **bijwerken & beveiligings**  >  **Activering**.
-2. Selecteer **productcode wijzigen**en voer de productcode van 25 tekens in voor Windows 10 Pro.
-3. Selecteer **volgende** om de upgrade naar Windows 10 Pro te starten.
+1. Selecteer **Instellingen**  >  **starten**  >  **Update & beveiligingsactivering**  >  .
+2. Selecteer **Productcode wijzigen** en voer vervolgens de 25-tekens windows 10 Pro-productcode in.
+3. Selecteer **Volgende** om de upgrade naar Windows 10 Pro te starten.
 
-**Een upgrade uitvoeren naar Windows 10 Pro met een digitale licentie**
+**Upgraden naar Windows 10 Pro met een digitale licentie**
 
-Als u Windows 10 Pro al hebt geïnstalleerd en geactiveerd op uw apparaat, beschikt u over een digitale licentie waarmee u een upgrade kunt uitvoeren van Windows 10 voor thuisgebruik naar Windows 10 Pro zonder een productcode.
+Als u Windows 10 Pro al op uw apparaat hebt geïnstalleerd en geactiveerd, hebt u een digitale licentie waarmee u kunt upgraden van Windows 10 Home naar Windows 10 Pro zonder productcode.
 
-Selecteer **Start**  >  **instellingen**  >  **bijwerken & beveiligings**  >  **Activering**.
+Selecteer **Instellingen**  >  **starten**  >  **Update & beveiligingsactivering**  >  .
 
-- Als u een digitale licentie voor Windows 10 Pro hebt en Windows 10 voor thuisgebruik momenteel is geactiveerd op uw apparaat, selecteert u **Ga naar Microsoft Store** en wordt u gevraagd om een upgrade uit te voeren naar Windows 10 Pro gratis.
-- Als u een digitale licentie voor Windows 10 Pro hebt en Windows 10 Home niet is geactiveerd op uw apparaat, selecteert u **problemen oplossen**en volgt u de stappen om een upgrade uit te voeren naar Windows 10 Pro.
+- Als u een digitale licentie voor Windows 10 Pro hebt en Windows 10 Home momenteel is geactiveerd op uw apparaat, selecteert u Ga naar **de Microsoft Store** en wordt u gevraagd gratis een upgrade uit te voeren naar Windows 10 Pro.
+- Als u een digitale licentie voor Windows 10 Pro hebt en Windows 10 Home niet is geactiveerd op uw apparaat, selecteert u Probleemoplossing en volgt u vervolgens de stappen om een upgrade uit te voeren naar Windows 10 Pro.
 
-[Meer informatie over het activeren van Windows 10](https://support.microsoft.com/help/12440)
+[Meer informatie over activering in Windows 10](https://support.microsoft.com/help/12440)
