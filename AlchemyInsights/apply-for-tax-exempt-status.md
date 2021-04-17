@@ -2,34 +2,35 @@
 title: Belastingvrijstelling aanvragen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286582"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821289"
 ---
-# <a name="apply-for-tax-exempt-status"></a><span data-ttu-id="a83ce-102">Belastingvrijstelling aanvragen</span><span class="sxs-lookup"><span data-stu-id="a83ce-102">Apply for tax exempt status</span></span>
+# <a name="apply-for-tax-exempt-status"></a><span data-ttu-id="496b9-102">Belastingvrijstelling aanvragen</span><span class="sxs-lookup"><span data-stu-id="496b9-102">Apply for tax exempt status</span></span>
 
-<span data-ttu-id="a83ce-103">Houd de volgende documentatie bij de hand.</span><span class="sxs-lookup"><span data-stu-id="a83ce-103">Please have the following documentation ready.</span></span> <span data-ttu-id="a83ce-104">U moet [een serviceaanvraag starten](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) om belastingvrijstelling aan te vragen.</span><span class="sxs-lookup"><span data-stu-id="a83ce-104">You'll need to [start a service request](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) to establish tax exempt status.</span></span>
+<span data-ttu-id="496b9-103">Houd de volgende documentatie bij de hand.</span><span class="sxs-lookup"><span data-stu-id="496b9-103">Please have the following documentation ready.</span></span> <span data-ttu-id="496b9-104">U moet [een serviceaanvraag starten](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) om belastingvrijstelling aan te vragen.</span><span class="sxs-lookup"><span data-stu-id="496b9-104">You'll need to [start a service request](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) to establish tax exempt status.</span></span>
 
-- <span data-ttu-id="a83ce-105">**Verenigde Staten**: houd het **Sales Tax Exemption Certificate** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="a83ce-105">**United States** - Please have the **Sales Tax Exemption Certificate** ready.</span></span>
+- <span data-ttu-id="496b9-105">**Verenigde Staten**: houd het **Sales Tax Exemption Certificate** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="496b9-105">**United States** - Please have the **Sales Tax Exemption Certificate** ready.</span></span>
 
-- <span data-ttu-id="a83ce-106">**Canada**: houd het **Certificate of Exemption (of een vergelijkbare machtigingsbrief)** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="a83ce-106">**Canada** - Please have the **Certificate of Exemption (or equivalent letter of authorization)** ready.</span></span>
+- <span data-ttu-id="496b9-106">**Canada**: houd het **Certificate of Exemption (of een vergelijkbare machtigingsbrief)** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="496b9-106">**Canada** - Please have the **Certificate of Exemption (or equivalent letter of authorization)** ready.</span></span>
 
-- <span data-ttu-id="a83ce-107">**Ierland**: houd het **13B/56A Tax Exemption Certificate** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="a83ce-107">**Ireland** - Please have the **13B/56A Tax Exemption Certificate** ready.</span></span>
+- <span data-ttu-id="496b9-107">**Ierland**: houd het **13B/56A Tax Exemption Certificate** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="496b9-107">**Ireland** - Please have the **13B/56A Tax Exemption Certificate** ready.</span></span>
 
-- <span data-ttu-id="a83ce-108">**Internationale organisaties met belastingsvrijstelling**: houd de **Bevestigingsbrief/-certificaat van lokale belastingdiensten** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="a83ce-108">**International organizations that hold tax exemption** - Please have the **Certification/letter confirmation from local tax authorities** ready.</span></span>
+- <span data-ttu-id="496b9-108">**Internationale organisaties met belastingsvrijstelling**: houd de **Bevestigingsbrief/-certificaat van lokale belastingdiensten** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="496b9-108">**International organizations that hold tax exemption** - Please have the **Certification/letter confirmation from local tax authorities** ready.</span></span>
 
-- <span data-ttu-id="a83ce-109">**Puerto Rico**: houd het **Certificado de Compras Exentas** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="a83ce-109">**Puerto Rico** - Please have the **Certificado de Compras Exentas** ready.</span></span>
+- <span data-ttu-id="496b9-109">**Puerto Rico**: houd het **Certificado de Compras Exentas** bij de hand.</span><span class="sxs-lookup"><span data-stu-id="496b9-109">**Puerto Rico** - Please have the **Certificado de Compras Exentas** ready.</span></span>
 
-<span data-ttu-id="a83ce-110">Bekijk [Belastinginformatie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="a83ce-110">For more info, see [Tax Information](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide).</span></span>
+<span data-ttu-id="496b9-110">Bekijk [Belastinginformatie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="496b9-110">For more info, see [Tax Information](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).</span></span>
