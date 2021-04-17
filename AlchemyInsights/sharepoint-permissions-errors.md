@@ -1,8 +1,8 @@
 ---
-title: SharePoint-machtigingen fouten
+title: Fouten met SharePoint-machtigingen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653391"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826590"
 ---
-# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="b2089-102">SharePoint-machtigingen fouten</span><span class="sxs-lookup"><span data-stu-id="b2089-102">SharePoint permissions errors</span></span>
+# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="1abb3-102">Fouten met SharePoint-machtigingen</span><span class="sxs-lookup"><span data-stu-id="1abb3-102">SharePoint permissions errors</span></span>
 
-<span data-ttu-id="b2089-103">Er zijn veel scenario's waarmee een van deze berichten kan worden gevraagd.</span><span class="sxs-lookup"><span data-stu-id="b2089-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="b2089-104">De meest voorkomende machtigingen voor de gebruiker of beheerder zijn onjuist geconfigureerd of zijn niet geconfigureerd.</span><span class="sxs-lookup"><span data-stu-id="b2089-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
+<span data-ttu-id="1abb3-103">Er zijn veel scenario's waarin een van deze berichten kan worden gevraagd.</span><span class="sxs-lookup"><span data-stu-id="1abb3-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="1abb3-104">Meestal worden machtigingen voor de gebruiker of beheerder onjuist geconfigureerd of helemaal niet geconfigureerd.</span><span class="sxs-lookup"><span data-stu-id="1abb3-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
 
-<span data-ttu-id="b2089-105">Voor meer informatie raadpleegt u '[toegang geweigerd ', ' u hebt geen toestemming voor toegang tot deze site ' of ' gebruiker is niet gevonden in de Directory-fouten in SharePoint Online en OneDrive voor bedrijven](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span><span class="sxs-lookup"><span data-stu-id="b2089-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
+<span data-ttu-id="1abb3-105">Zie 'Toegang geweigerd', 'U hebt machtiging nodig voor toegang tot deze site' of 'Gebruiker niet gevonden in de[adreslijst' in SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)en OneDrive voor Bedrijven voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="1abb3-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
