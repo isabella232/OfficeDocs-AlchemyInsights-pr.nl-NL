@@ -2,7 +2,7 @@
 title: Geen toegang tot openbare mappen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812542"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819507"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Er kan geen verbinding worden gemaakt met openbare mappen
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan geen verbinding maken met openbare mappen
 
-Als openbare mappen voor gebruikers niet werken, kunt u het volgende proberen:
+Als de toegang tot openbare mappen voor sommige gebruikers niet werkt, gaat u als volgt te werk:
 
-Maak verbinding met EXO PowerShell en configureer de DefaultPublicFolderMailbox-parameter in het gebruikersaccount van het probleem, zodat het overeenkomt met de parameter van een werkend gebruikersaccount.
+Maak verbinding met EXO PowerShell en configureer de parameter DefaultPublicFolderMailbox op het gebruikersaccount van het probleem op basis van de parameter voor een werkend gebruikersaccount.
 
 Voorbeeld:
 
-Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-Wacht minimaal één uur voordat de wijziging van kracht wordt.
+Wacht ten minste één uur totdat de wijziging van kracht wordt.
 
-Als het probleem zich blijft voordoen, volgt u [deze procedure](https://aka.ms/pfcte) voor het oplossen van problemen met openbare mappen in Outlook.
+Als het probleem blijft bestaan, volgt u [deze procedure om](https://aka.ms/pfcte) problemen met toegang tot openbare mappen op te lossen met Outlook.
  
-**Bepalen welke gebruikers toegang hebben tot openbare mappen met Outlook**:
+**Bepalen welke gebruikers toegang hebben tot openbare mappen met Outlook:**
 
-1.  Set-CASMailbox <mailboxname> -PublicFolderClientAccess $True of $false gebruiken  
+1.  Gebruik Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true of $false  
       
-    $true: gebruikers toegang geven tot openbare mappen in Outlook  
+    $true: Gebruikers toegang verlenen tot openbare mappen in Outlook  
       
-    $false: voorkomen dat gebruikers toegang krijgen tot openbare mappen in Outlook. Dit is de standaardwaarde.  
+    $false: Gebruikerstoegang tot openbare mappen in Outlook voorkomen. Dit is de standaardwaarde.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Opmerking** Met deze procedure kunt u alleen verbindingen beheren met de bureaubladversie van Outlook voor Windows-clients. Een gebruiker kan blijven toegang krijgen tot openbare mappen met OWA of Outlook voor Mac.
+**Opmerking** Met deze procedure kunnen verbindingen alleen worden uitgevoerd met Outlook-bureaublad voor Windows-clients. Een gebruiker kan toegang blijven krijgen tot openbare mappen met OWA of Outlook voor Mac.
  
-Voor meer informatie raadpleegt [u de ondersteuning voor gecontroleerde verbindingen met openbare mappen in Outlook aangekondigde ondersteuning](https://aka.ms/controlpf).
+Zie Ondersteuning aankondigen voor gecontroleerde verbindingen met openbare mappen [in Outlook voor meer informatie.](https://aka.ms/controlpf)

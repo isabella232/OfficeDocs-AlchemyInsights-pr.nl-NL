@@ -1,8 +1,8 @@
 ---
-title: Een abonnement op de eigenaar annuleren
+title: Opzeggen van een abonnement door de eigenaar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: 9078c61f693294973f820e94bcea798dd319c34d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 2a96aacb9def733451ffebc247b2e8c3967e7fa1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819795"
 ---
-# <a name="cancellation-of-a-subscription-by-owner"></a>Een abonnement op de eigenaar annuleren
+# <a name="cancellation-of-a-subscription-by-owner"></a>Opzeggen van een abonnement door de eigenaar
 
-U kunt alleen het Azure-abonnement op de Azure-Portal opzeggen als u de eigenaar van het abonnement bent. Als u het abonnement niet meer nodig hebt, volgt u de onderstaande stappen.
+U kunt het Azure-abonnement in Azure Portal alleen opzeggen als u de eigenaar van het abonnement bent. Als u het abonnement niet meer nodig hebt, volgt u de onderstaande stappen.
 
-1. Selecteer het abonnement dat u wilt opzeggen op de [pagina Abonnementen in de Azure-Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Selecteer **overzicht** en selecteer vervolgens **abonnement opzeggen**.
+1. Selecteer het abonnement dat u wilt opzeggen op de [pagina Abonnementen in Azure Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. Selecteer **Overzicht** en selecteer vervolgens **Abonnement opzeggen**.
 
 **Wat gebeurt er als ik mijn abonnement heb opgezegd?**
 
-Nadat u het abonnement hebt opgezegd, wordt de facturering direct beëindigd. Het kan wel tien minuten duren voordat de annulering in de portal wordt weergegeven. Als u in het midden van een factuurperiode opzegt, verzenden we de definitieve factuur op de gebruikelijke factuurdatum na de periode.
+Nadat u het abonnement hebt opgezegd, wordt de facturering direct gestopt. Het kan echter tien minuten duren voordat de opzegging in de portal wordt getoond. Als u het abonnement tijdens een factureringsperiode opzegt, wordt de laatste factuur op de gebruikelijke factuurdatum naar u toe gestuurd nadat de periode is verstreken.
 
-Wanneer uw abonnement is geannuleerd, wordt door Microsoft gewacht tot 30-90 dagen voordat u uw gegevens permanent verwijdert, voor het geval u dit nodig hebt, of als u van gedachten verandert. We brengen u geen kosten in rekening voor het bewaren van de gegevens. Voor meer informatie raadpleegt u [Microsoft Vertrouwenscentrum-hoe wij uw gegevens beheren](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Nadat uw abonnement is opgezegd, hebt u nog 30-90 dagen de tijd voordat uw gegevens definitief worden verwijderd. U hebt dus nog tijd om ze te raadplegen of om van gedachten te veranderen. Er worden geen kosten in rekening gebracht voor het bewaren van de gegevens. Zie [Microsoft Vertrouwenscentrum: gegevensbeheer](https://www.microsoft.com/trust-center/privacy/data-management#leave) voor meer informatie.
 
 

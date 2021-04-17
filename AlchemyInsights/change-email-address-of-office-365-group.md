@@ -1,30 +1,31 @@
 ---
-title: E-mailadres van een Microsoft 365-groep wijzigen
+title: Het e-mailadres van een Microsoft 365-groep wijzigen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: MT
+ms.openlocfilehash: 8eaafae8650a8072cdfbec281afe6d5e93fea655
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580652"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819039"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>E-mailadres van een Microsoft 365-groep wijzigen
+# <a name="change-email-address-of-a-microsoft-365-group"></a>Het e-mailadres van een Microsoft 365-groep wijzigen
 
-U het e-mailadres van een Microsoft 365-groep wijzigen met behulp van het beheercentrum. Selecteer de groep en selecteer @edit e-mailadres.
+U kunt het e-mailadres van een Microsoft 365-groep wijzigen via het beheercentrum. Selecteer de groep en kies @bewerken e-mailadres.
 
-U de opdracht EXO PowerShell ook gebruiken om het primaire SMTP-adres van een Microsoft 365-groep te wijzigen:
+U kunt ook de EXO Windows PowerShell-opdracht gebruiken om het primaire SMTP-adres van een Microsoft 365-groep te wijzigen:
 
-Set-UnifiedGroup <Group Name> -PrimarySmtpAddress<new SMTP Address>
+Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>
 
 Voorbeeld:
 

@@ -2,7 +2,7 @@
 title: Reservering annuleren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807362"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819687"
 ---
 # <a name="cancelling-reservation"></a>Reservering annuleren
 
-- **Self-service:** U kunt met behulp van [Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)zelf een gereserveerd exemplaar annuleren of uitwisselen. Selecteer de reservering en klik op restitutie of Exchange. U moet beschikken over de eigenaren van de reserverings order voor Exchange of restitutie. U kunt met alleen de reservering verdergaan met restitutie of Exchange. Vraag de eigenaar van de reserverings order om u de reserverings order toegang te geven
-- **Exchange-beleid:** U kunt een reservering uitwisselen voor een andere reservering van hetzelfde type – er zijn **geen sancties** voor de reserverings uitwisseling. De totale toezegging met de nieuwe reservering moet groter zijn dan de som van het restitutiebedrag van de geexchangeeerde reservering en de toekomstige maandelijkse aflossing (indien van toepassing).
-- **Restitutiebeleid:** De som van de restitutie en de geannuleerde toekomstige betaling mag niet groter zijn dan $50.000 USD in een rolling venster van 12 maanden. Er worden op **dit moment geen boete** aan betaald, maar het bedrag voor toekomstige restituties werd opgeheven.  
-    **Uitzonderingen:** Service voor selfservice uitwisseling en annuleren is niet beschikbaar voor klanten van de Amerikaanse overheid Enterprise Agreement
-- **API/PS/cli-** ondersteuning is niet beschikbaar voor annulering en teruggave [van selfservice-uitwisseling en restitutie voor Azure reserveringen](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Selfservice Exchange en de mogelijkheid om te annuleren is niet beschikbaar voor klanten van de Amerikaanse overheid Enterprise Agreement. Andere typen US Government-abonnementen, waaronder pay-as-nl-go en CSP, worden ondersteund
+- **Selfservice:** U kunt een gereserveerd exemplaar zelf annuleren of uitwisselen in de [Microsoft Azure-portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selecteer de reservering en klik op terugbetaling of omruiling. Houd er rekening mee dat u eigenaarstoegang op de reserveringsorder moet hebben om deze te kunnen ruilen of terugbetalen. Als u alleen toegang hebt tot de reservering, kunt u geen restitutie of omruiling verlenen. Vraag de eigenaar van de Reserveringsorder u toegang te geven tot de Reserveringsorder
+- **Omruilbeleid:** u kunt een reservering omruilen voor een andere reservering van hetzelfde type, er zijn **geen boetes** voor het omwisselen van reserveringen. De totale verplichting met een nieuwe reservering moet groter zijn dan de som van het restitutiebedrag van de uitgewisselde reservering en de toekomstige maandelijkse betalingen (indien van toepassing)
+- **Restitutiebeleid:** de som van de restitutie en de geannuleerde toekomstige betalingen mag niet hoger zijn dan $ 50.000 in een doorlopend venster van 12 maanden. We **brengen momenteel geen boete in rekening** voor restituties, maar kunnen deze wel in rekening brengen voor toekomstige restituties  
+    **Uitzonderingen:** Selfservice-omruil- en annuleringsmogelijkheid is niet beschikbaar voor klanten van Enterprise Agreement van de Amerikaanse overheid
+- **API/PS/CLI**-ondersteuning is niet beschikbaar voor annulering en restituties [Selfservice-uitwisselingen en restituties voor Azure-reserveringen](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Selfservice-omruil- en annuleringsmogelijkheid is niet beschikbaar voor klanten van Enterprise Agreement van de Amerikaanse overheid. Andere soorten abonnementen van de Amerikaanse overheid, waaronder Pay-As-You-Go en Microsoft Cloud Solution Provider, worden ondersteund
 
-Meer informatie: [hoe retour-en Exchange-transacties worden verwerkt](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Meer informatie: [beleid voor koers uitwisseling en restitutie](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Overige vragen: [naar documenten met gereserveerde exemplaren van documenten](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) gaan
+Meer informatie: [hoe retour- en omruilingstransacties worden verwerkt](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Meer informatie: [omruilings- en restitutiebeleid](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Overige vragen: [Gereserveerde documenten bezoeken](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Een bestaand gereserveerd exemplaar (Self-Service) uitwisselen**
+**Een bestaand gereserveerd exemplaar omruilen (selfservice)**
 
-U kunt een reservering uitwisselen voor een andere reservering van hetzelfde type. Als u het niet meer nodig hebt, betaalt u ook een reservering van maximaal $50.000 USD per jaar. Selfservice Exchange en de mogelijkheid om te annuleren is niet beschikbaar voor klanten van de Amerikaanse overheid Enterprise Agreement. Andere typen US Government-abonnementen, waaronder pay-as-u-go en CSP, worden ondersteund. U moet beschikken over de eigenaren van de reserverings order voor het omwisselen van een bestaande reserve.
+U kunt een reservering uitwisselen voor een andere reservering van hetzelfde type. U kunt ook een reservering terugbetalen, tot $ 50.000 USD per jaar, als u deze niet langer nodig heeft. Selfservice-omruil- en annuleringsmogelijkheid is niet beschikbaar voor klanten van Enterprise Agreement van de Amerikaanse overheid. Andere soorten abonnementen van de Amerikaanse overheid, waaronder Pay-As-You-Go en Microsoft Cloud Solution Provider,, worden ondersteund. U moet eigenaarstoegang hebben op de reserveringsopdracht om een bestaande reservering te ruilen of terug te betalen.
 
-De volgende stappen helpen u bij de procedure voor het voltooien van de transactie
+De volgende stappen volgen de procedure voor het voltooien van de transactie
 
-1. Meld u aan bij uw [Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selecteer de reserveringen die u wilt terugbetalen en klik op **Exchange** .
-2. Selecteer het VM-product dat u wilt kopen en typ een hoeveelheid. Zorg ervoor dat het nieuwe totale aankoopbedrag groter is dan het retour totaal, [de juiste grootte bepalen voordat u koopt](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+1. Meld u aan bij uw [Microsoft Azure-portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Selecteer de reserveringen die u wilt terugbetalen en klik op **Ruilen**
+2. Selecteer het VM-product dat u wilt kopen en typ een hoeveelheid. Zorg ervoor dat het nieuwe aankoopbedrag meer is dan het retourbedrag. [Bepaal de juiste grootte voordat u tot aankoop overgaat](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 3. De transactie controleren en voltooien
 
 **Restitutie voor een gereserveerd exemplaar**
 
-Als u een reservering wilt terugbetalen, gaat u naar **reserverings details** en klikt u op **restitutie**
+Om een reservering terug te betalen, gaat u naar **Reserveringsgegevens** en klikt u op **Restitutie**
 
-**Met Pro geclassificeerde restitutie:**
+**Terugbetaling naar rato:**
 
-**Voorbeelden van Pro-en minimumvereisten voor restitutie en uitwisseling**  
-Voorbeeld van precover reservation:
+**Voorbeelden van pro rata en minimumvereisten voor terugbetaling en omruiling**  
+Voorbeeld van een reservering vooraf:
 
-- U koopt een term RI voor 1 jaar voor $120 op 1 januari
-- Op 7 april wilt u deze reservering vervragen of verwisselen
-- Aangezien de reservering voor 97 dagen live is, krijgt u (1-97/365) * $120 back. (bijvoorbeeld $88,1). Er is momenteel geen boete voor de vergoeding
-- Als de uitwisseling is opgebruikt, moet uw nieuwe aankoop groter zijn dan $88,1
-- Er is op dit moment geen boete voor restituties
+- U koopt op 1 januari een RI met een looptijd van één jaar voor $ 120
+- Op 7 april wilt u een restitutie geven of deze reservering uitwisselen
+- Aangezien de reservering 97 dagen actief is, krijgt u (1-97/365) * $ 120 terug. (dat wil zeggen, $ 88,1). Er geldt momenteel geen boete voor restituties
+- Als u ruilt, moet uw nieuwe aankoop groter zijn dan $ 88,1
+- Er geldt momenteel geen boete voor restituties
 
-**Voorbeeld van reservering van facturerings abonnement:**
+**Voorbeeld van reservering van factureringsplan:**
 
-- U koopt een term RI van één jaar voor $10 per maand
-- Op 7 april wilt u deze reservering vervragen of verwisselen
-- Aangezien de laatste betaling 7 dagen plaatsvond, krijgt u (1-7/31) * $10 terug. (bijvoorbeeld $7,74)
-- De termijn voor toekomstige betalingen zijn $80. Er is momenteel geen boete voor de vergoeding
-- Met deze annulering wordt $87,74 afgetrokken van u de $50.000-restitutie limiet
-- Als de totale waarde van de aankoop groter is dan $87,74, moet de totale waarde van de nieuwe aankoop groter zijn dan.
+- U koopt een RI met een looptijd van één jaar voor $ 10 per maand
+- Op 7 april wilt u een restitutie geven of deze reservering uitwisselen
+- Omdat de laatste betaling 7 dagen geleden plaatsvond, krijgt u (1-7/31) * $ 10 terug. (dat wil zeggen, $ 7,74).
+- De toekomstige betalingen die worden geannuleerd zijn $ 80. Er geldt momenteel geen boete voor restituties
+- Deze annulering betekent dat er $ 87,74 wordt afgetrokken van de teruggavelimiet van $ 50.000
+- Als u ruilt, moet uw nieuwe aankoop groter zijn dan $ 87,74
 
 **Aanbevolen documenten**
 
-- [Hoe retour-en Exchange-transacties worden verwerkt](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Beleid voor Exchange en restitutie](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Hoe retour- en omruilingstransacties worden verwerkt](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Omruilings- en restitutiebeleid](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
