@@ -1,8 +1,8 @@
 ---
-title: Word-regel voor alles
+title: Word catch-all-regel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: 9cb582ab66e6236effbec968a8e7dae54270cfe3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 538bf292b5baa51a6a24ae4c2d060848cea97695
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698647"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834222"
 ---
 # <a name="common-issues-and-resolutions-with-word"></a>Veelvoorkomende problemen en oplossingen met Word
 
-Hier volgen een aantal vaak gevraagde artikelen waarmee u veelvoorkomende problemen in Word kunt oplossen:
+Hier zijn enkele veelgevraagde artikelen die kunnen helpen bij het oplossen van veelvoorkomende problemen in Word:
 
 - [Fouten oplossen bij het openen of opslaan van Word-bestanden](https://docs.microsoft.com/alchemyinsights/errors-opening-or-saving-files)
-- [Waarom is mijn bestand als alleen-lezen geopend?](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
-- [Samenwerken aan Word-documenten met cocreatie in realtime](https://support.office.com/article/collaborate-on-word-documents-with-real-time-co-authoring-7dd3040c-3f30-4fdd-bab0-8586492a1f1d?wt.mc_id=fsn_word_share_and_coauthor)
+- [Waarom is mijn bestand alleen-lezen geopend?](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
+- [Samenwerken aan Word-documenten met co-authoring in realtime](https://support.office.com/article/collaborate-on-word-documents-with-real-time-co-authoring-7dd3040c-3f30-4fdd-bab0-8586492a1f1d?wt.mc_id=fsn_word_share_and_coauthor)
 - [Problemen met afdrukfouten in Word oplossen](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)
 
-Zie voor meer informatie het [Help-centrum van Word](https://support.office.com/word).
+Zie het [Helpcentrum voor Word](https://support.office.com/word)voor meer informatie.

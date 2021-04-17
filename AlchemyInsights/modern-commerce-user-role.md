@@ -1,27 +1,28 @@
 ---
-title: Moderne commerce gebruikersrol
+title: Rol Modern Commerce-gebruiker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748758"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833610"
 ---
-# <a name="modern-commerce-user-role"></a>Moderne commerce gebruikersrol
+# <a name="modern-commerce-user-role"></a>Rol Modern Commerce-gebruiker
 
-De rol Gebruikers van Moderne handel geeft bepaalde gebruikers toestemming om toegang te krijgen tot het Microsoft 365-beheercentrum en de linkernavigatieitems voor **Thuis,** **Facturering**en **Ondersteuning te bekijken.** De inhoud die beschikbaar is in deze gebieden wordt beheerd door handelsspecifieke rollen die aan gebruikers zijn toegewezen om producten te beheren die ze voor zichzelf of uw organisatie hebben gekocht. Dit kan taken zijn zoals het betalen van facturen, of voor toegang tot factureringsaccounts en factureringsprofielen.
+De rol Modern Commerce-gebruiker geeft bepaalde gebruikers toegang tot het Microsoft 365-beheercentrum en laat de linkernavigatie-items voor **Home**, **Facturering** en **Ondersteuning** zien. De inhoud die in deze gebieden beschikbaar is, wordt beheerd door commerce-specifieke rollen die aan gebruikers zijn toegewezen om producten te beheren die ze voor zichzelf of voor uw organisatie hebben gekocht. Dit kunnen taken zijn zoals het betalen van rekeningen of voor toegang tot factureringsaccounts en factureringsprofielen.
 
-Gebruikers met de rol Modern Commerce-gebruikers hebben doorgaans beheerdersmachtigingen in andere Microsoft-inkoopsystemen, maar hebben geen beheerdersrechten voor beheerders of factureringsbeheerders.
+Gebruikers met de rol van Modern Commerce-gebruiker hebben doorgaans beheerdersrechten in andere Microsoft-aankoopsystemen, maar hebben geen algemene beheerders- of factureringsbeheerdersrechten.
 
-Zie [Machtigingen administratorrol in Azure Active Directory voor](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)meer informatie over deze en andere beheerrollen.
+Zie voor meer informatie over deze en andere beheerdersrollen [Beheerdersmachtigingen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).

@@ -1,8 +1,8 @@
 ---
-title: Outlook-invoegtoepassing voor teams
+title: Outlook-invoegversie van Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2cfa8f02ed7238d059ec7796786bc1b80d013251
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735985"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835014"
 ---
-# <a name="teams-outlook-add-in"></a>Outlook-invoegtoepassing voor teams
+# <a name="teams-outlook-add-in"></a>Outlook-invoegversie van Teams
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Problemen met een Outlook-invoegtoepassing voor ontbrekende teams oplossen
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Problemen met ontbrekende Teams Outlook-invoegversie oplossen
 
-1. Voer service controle uit in de beheer Portal. 
-2. Als de service diagnose geen problemen oplevert, opvraagt en corrigeert van client problemen op de desbetreffende gebruikers machines door het Office-scenario voor de invoegtoepassing [Microsoft ondersteuning en herstel-assistent](https://aka.ms/SaRA-TeamsAddInScenario)te downloaden en uit te voeren  >  **Teams Outlook Add-in Scenario**.
+1. Voer de servicediagnose uit in de beheerportal. 
+2. Als de servicediagnose geen problemen aangeeft, diagnosticeert en corrigeert u eventuele clientproblemen op de getroffen gebruikersapparaten door het Outlook-invoegscenario van [Microsoft Ondersteunings-](https://aka.ms/SaRA-TeamsAddInScenario)en herstelassistent Teams te downloaden en uit  >  **te werken.**
 
-Als u handmatig een invoegtoepassing voor Outlook-invoegtoepassingen wilt oplossen, raadpleegt u de lijst met mogelijke factoren die ertoe kunnen leiden dat uw teams-invoegtoepassing niet wordt weergegeven. Zie [invoegtoepassing teamvergadering in Outlook voor Windows wordt niet weergegeven](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)voor meer informatie.
+Als u handmatig een probleem wilt oplossen met een ontbrekende Teams Outlook-invoegversie, bekijkt u de lijst met mogelijke factoren die ertoe kunnen leiden dat uw Teams-invoegversie niet wordt weergegeven. Zie De invoegversie van Teams Meeting in Outlook voor Windows wordt [niet voor meer informatie gebruikt.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Problemen met het plannen van teams-vergaderingen plannen namens iemand anders (gedelegeerde)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Problemen met het plannen van een Teams-vergadering oplossen namens iemand anders (gedelegeerde)
 
-Als u een teamvergadering wilt plannen namens iemand anders, raadpleegt u [problemen met interactie met Microsoft teams en Exchange Server oplossen](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Zie Microsoft Teams en Exchange Server-interactieproblemen oplossen als u namens iemand anders een Teams-vergadering [wilt plannen.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

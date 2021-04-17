@@ -1,8 +1,8 @@
 ---
-title: Mijn profielgegevens bijwerken of mijn foto wijzigen
+title: Mijn profielgegevens bijwerken of mijn afbeelding wijzigen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796931"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834438"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Mijn profielgegevens bijwerken of mijn foto wijzigen
+# <a name="update-my-profile-information-or-change-my-picture"></a>Mijn profielgegevens bijwerken of mijn afbeelding wijzigen
 
-Op dit moment kunt u uw profielgegevens niet rechtstreeks vanuit Outlook voor iOS bewerken en bijwerken, maar u kunt deze informatie ook op een andere plek bewerken. 
+Momenteel is het niet mogelijk om uw profielgegevens rechtstreeks vanuit Outlook voor iOS te bewerken en bij te werken, maar het is mogelijk om deze informatie elders te bewerken. 
 
-U kunt updates voor uw profiel maken in Outlook voor Windows of in de webversie van Outlook. 
+U kunt uw profiel in Outlook voor Windows of de webversie van Outlook (OWA) updaten. 
 
-**Outlook voor Windows**: 
+**Outlook voor Windows:** 
 
-- **Bestand**  >  **Office-account**  >  **Gebruikersgegevens**  >  **Over mij** (microsoft 365-profiel online) > **profiel bijwerken** of klik op het camera pictogram om uw foto te wijzigen  
+- **Bestand**  >  **Office-account**  >  **Gebruikersgegevens**  >  **Over mij** (brengt u online naar Microsoft 365-profiel) > **Profiel** bijwerken of klik op het camerapictogram om uw foto te wijzigen  
   
 **De webversie van Outlook (OWA)**: 
 

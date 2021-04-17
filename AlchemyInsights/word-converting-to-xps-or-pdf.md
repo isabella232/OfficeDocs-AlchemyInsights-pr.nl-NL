@@ -1,8 +1,8 @@
 ---
-title: Word-converteren naar XPS of PDF
+title: Word - Converteren naar XPS of PDF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794834"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834186"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Problemen oplossen bij het converteren van een Word-document naar XPS of PDF
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Problemen met het converteren van een Word-document naar XPS of PDF oplossen
 
-Hier volgen enkele oplossingen voor veelvoorkomende problemen. 
+Hier zijn enkele oplossingen voor veelvoorkomende problemen. 
 
 **Een Word-document exporteren of opslaan als PDF of XPS:**
 
-1. Kies in het Word-document de optie **bestand**  >  **exporteren**,  >  **PDF-of XPS-document**maken,  >  **PDF of XPS maken**.
+1. Kies in uw Word-document **Bestand**  >  **exporteren**  >  **PDF/XPS-document maken**  >  **PDF/XPS.**
 
-2. Blader in het venster **publiceren als PDF of XPS** naar de locatie van het bestand, wijzig de bestandsnaam als u wilt en kies **publiceren**.
+2. Blader in het venster Publiceren als PDF of **XPS** naar de locatie voor het bestand, wijzig de bestandsnaam zo u wilt en kies **Publiceren.**
 
-**U verbetert de afbeeldingskwaliteit in een PDF-bestand dat in Word wordt gegenereerd:**
+**De beeldkwaliteit in een PDF-bestand dat door Word wordt gegenereerd verbeteren:**
 
-1. Kies in het Word-document de optie **bestand**  >  **exporteren**,  >  **PDF-of XPS-document**maken,  >  **PDF of XPS maken**.
+1. Kies in uw Word-document **Bestand**  >  **exporteren**  >  **PDF/XPS-document maken**  >  **PDF/XPS.**
 
-2. Kies in het venster **publiceren als PDF of XPS** de **optie**  >  **optimaliseren voor kwaliteit van afbeelding**. Stel de gewenste opties in en kies **OK**. 
+2. Kies in **het venster Publiceren als PDF of XPS** de optie **Opties** optimaliseren  >  **voor beeldkwaliteit.** Stel eventuele andere opties in en kies **OK.** 
 
-**U kunt als volgt toegankelijkheids markeringen toevoegen aan een PDF-bestand dat in Word wordt gegenereerd:**
+**Toegankelijkheidslabels toevoegen aan een PDF-bestand dat door Word wordt gegenereerd:**
  
-1. Kies in het Word-document de optie **bestand**  >  **exporteren**,  >  **PDF-of XPS-document**maken,  >  **PDF of XPS maken**.
+1. Kies in uw Word-document **Bestand**  >  **exporteren**  >  **PDF/XPS-document maken**  >  **PDF/XPS.**
 
-2. Kies in het **dialoog**venster **publiceren als PDF of XPS** de optie  >  **labels voor document structuur voor toegankelijkheid**. Stel de gewenste opties in en kies **OK**.
+2. Kies in het venster Publiceren als PDF of **XPS** de optie **Opties**  >  **Documentstructuurlabels voor toegankelijkheid.** Stel eventuele andere opties in en kies **OK.**
 
-Zie [opslaan of converteren naar PDF of XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)voor meer informatie over opties voor het converteren van Office-bestanden naar XPS of PDF.
+Zie Opslaan of converteren naar PDF of XPS voor meer informatie over opties voor het converteren van Office-bestanden [naar XPS of PDF.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

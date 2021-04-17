@@ -1,8 +1,8 @@
 ---
-title: Met de Microsoft Authenticator-app
+title: De Microsoft Authenticator-app gebruiken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770078"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834330"
 ---
-# <a name="using-the-microsoft-authenticator-app"></a>Met de Microsoft Authenticator-app
+# <a name="using-the-microsoft-authenticator-app"></a>De Microsoft Authenticator-app gebruiken
 
 Meld u aan bij uw persoonlijke Microsoft-account met een vingerafdruk, gezichtsherkenning of een pincode.
 
-- [De Microsoft Authenticator-app gebruiken](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
+- [De Microsoft Authenticator-app gebruiken.](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app) 
 
-- U hoeft [de Authenticator-app](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) in te stellen door de QR-code te scannen of door [handmatig een account toe te voegen](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- [Stel de Authenticator-app in](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) door de QR-code te scannen of [door handmatig een account toe te voegen.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual)  
 
-Zie het overzicht van de [verificator-app](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)voor meer informatie.
+Zie het overzicht van de [Authenticator-app](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)voor meer informatie.

@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365-apps herstellen er is een bericht over tijdelijke server problemen.
+title: Microsoft 365-apps oplossen Sorry, er zijn tijdelijke serverproblemen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835266"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Het bericht ' er zijn tijdelijke problemen met 365 de server ' wordt opgelost
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Fix the Microsoft 365 apps "Sorry, we are having temporary server issues" message
 
-Als dit bericht wordt weergegeven, probeert u het volgende:
+Als u dit bericht ontvangt, gaat u als volgt te werk:
 
-1. Controleer uw firewall, antivirussoftware en proxy-instellingen om te controleren of de Internet toegang tot Microsoft 365-apps niet wordt geblokkeerd. Zie [url's en IP-](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)adresbereiken.
+1. Controleer uw firewall-, antivirussoftware- en proxy-instellingen om te bevestigen dat ze geen internetverbinding blokkeren voor Microsoft 365-apps. Zie [URL's en IP-adresbereiken.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-2. Ga naar **Start**  >  **Run**en typ **Services. msc**. Zorg dat de volgende services allemaal worden uitgevoerd:
-    - Automatisch instellen met netwerk verbonden apparaten
-    - Service voor netwerk lijsten
-    - Bewustmaking van netwerklocatie
-    - Gebeurtenissenlogboek van Windows
+2. Ga naar **Start**  >  **Run** en typ **services.msc**. Zorg ervoor dat de volgende services worden uitgevoerd:
+    - Auto-setup van verbonden netwerkapparaten
+    - Netwerklijstservice
+    - Netwerklocatiebekendheid
+    - Windows-gebeurtenislogboek
 
-Als een van deze services niet actief is, probeert u het programma te starten. Als u problemen ondervindt bij het starten van de service, voert u de volgende opdracht uit als u een opdrachtprompt opent met verhoogde machtigingen:
+Als een van deze services niet wordt uitgevoerd, probeert u deze te starten. Als u een probleem hebt met het starten van de service, kunt u de volgende opdracht uitvoeren door een opdrachtprompt met verhoogde machtigingen te openen:
 
-**sfc/scannow**
+**sfc /scannow**
 
-Start de computer opnieuw op nadat u deze opdracht hebt voltooid.
+Nadat deze opdracht is klaar, start u de computer opnieuw op.
 
-Voor meer informatie raadpleegt [u ' Sorry, we kunnen geen verbinding maken met uw account. Probeer het later opnieuw "wanneer u activeert](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Zie 'Sorry, we kunnen geen verbinding maken met uw account' voor [meer informatie. Probeer het later opnieuw' fout wanneer u activeert.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

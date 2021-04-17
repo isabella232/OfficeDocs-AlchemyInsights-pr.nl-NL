@@ -1,8 +1,8 @@
 ---
-title: Microsoft Edge gebruiken op basis van chroom browsers voor eDiscovery-export
+title: Microsoft Edge gebruiken op basis van Chromium-browsers voor Ediscovery-export
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734510"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834366"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Microsoft Edge gebruiken op basis van chroom browsers voor eDiscovery-export
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Microsoft Edge gebruiken op basis van Chromium-browsers voor Ediscovery-export
 
-Vanwege een recente wijziging ondersteunen Microsoft Edge-browsers geen ondersteuning meer voor de ondersteuning van de ondersteuning. Als u het hulpprogramma voor het exporteren van Microsoft 365 eDiscovery wilt blijven gebruiken, moet u Microsoft Internet Explorer of ondersteuning voor ondersteuning inschakelen in Microsoft Edge. 
+Als gevolg van een recente wijziging hebben Microsoft Edge-browsers standaard geen ClickOnce-ondersteuning meer ingeschakeld. Als u het Microsoft 365 eDiscovery-exportprogramma wilt blijven gebruiken, moet u Microsoft Internet Explorer gebruiken of ClickOnce-ondersteuning inschakelen in Microsoft Edge. 
 
-Ondersteuning van de ondersteuning voor de ondersteuning van de Cloud inschakelen in Microsoft Edge op basis van chroom: 
-1. Ga in de browser Microsoft Edge naar edge://flags/#edge-Click-once.
-2. Voor de optie ondersteuningsoptie ondersteuningsoptie voor de ondersteuning van de **optie voor de** ondersteuning van **de ondersteuning de**waarde van **standaard** 
-3. Selecteer onder in het browservenster **opnieuw opstarten**. <br>
- De wijziging wordt doorgevoerd na Microsoft Edge opnieuw starten. 
+KlikOnce-ondersteuning in Microsoft Edge inschakelen op basis van Chromium: 
+1. Ga in uw Microsoft Edge-browser naar edge://flags/#edge-click-once.
+2. Voor de optie ClickOnce-ondersteuning wijzigt u de waarde van **Standaard** of **Uitgeschakeld** in **Ingeschakeld.** 
+3. Selecteer start onder aan het **browservenster.** <br>
+ De wijziging treedt in werking na het opnieuw opstarten van Microsoft Edge. 
 
-Zie voor meer informatie over deze en stappen voor het installeren van het hulpprogramma exporteren: [ Zoekresultaten voor inhoud exporteren](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Zie Voor meer informatie over deze en de stappen voor het installeren van het exporthulpmiddel: [Resultaten van inhoudszoekactie exporteren.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)

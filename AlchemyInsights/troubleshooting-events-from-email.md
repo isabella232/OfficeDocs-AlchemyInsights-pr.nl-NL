@@ -1,47 +1,48 @@
 ---
-title: Problemen met gebeurtenissen oplossen via e-mail
+title: Problemen met gebeurtenissen vanuit e-mail oplossen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569006"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834834"
 ---
-# <a name="troubleshooting-events-from-email"></a>Problemen met gebeurtenissen oplossen via e-mail
+# <a name="troubleshooting-events-from-email"></a>Problemen met gebeurtenissen vanuit e-mail oplossen
 
-1. Controleer of de functie is ingeschakeld voor het postvak: **Get-EventsFromEmailConfiguration -Identity <mailbox> **
+1. Controleer of de functie is ingeschakeld voor het postvak: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Kijk dan naar de 'Gebeurtenissen uit e-mail' logs **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Bekijk vervolgens de logboeken 'Gebeurtenissen uit e-mail' **Export-MailboxDiagnosticLogs<mailbox> -Component TimeProfile**
 
 3. Zoek in de logboeken 'Gebeurtenissen uit e-mail' de InternetMessageId die overeenkomt met het item in het postvak.  
 
-4. De TrustScore bepaalt of het item is toegevoegd of niet. Gebeurtenissen worden alleen toegevoegd als de TrustScore = "Vertrouwd" wordt.
+4. De TrustScore bepaalt of het item wordt toegevoegd of niet. Gebeurtenissen worden alleen toegevoegd als de TrustScore = 'Trusted'.
 
-De TrustScore wordt bepaald door de eigenschappen SPF, Dkim of Dmarc, die zich in de berichtkoptekst bevinden.
+De TrustScore wordt bepaald door de SPF-, Dkim- of Dmarc-eigenschappen, die in de berichtkop staan.
 
-Ga als u deze eigenschappen wilt bekijken:
+Om deze eigenschappen te bekijken:
 
-**Bureaublad Outlook**
+**Bureaubladversie van Outlook**
 
 - Het item openen
-- Bestands -> Eigenschappen -> internetkoppen
+- Bestand -> Eigenschappen -> Internetkoppen
 
 of
 
-**MFCMapi MFCMapi**
+**MFCMapi**
 
-- Navigeren naar het item in het postvak IN
+- Naar het item in het Postvak IN gaan
 - Zoek naar PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Deze eigenschappen worden bepaald en geregistreerd tijdens transport en routing. Voor verdere probleemoplossing moet u mogelijk de transportondersteuning opvolgen over de fouten in SPF, DKIM en.or DMARC.
+Deze eigenschappen worden bepaald en vastgelegd tijdens transport en routering. Voor verdere probleemoplossing moet u mogelijk contact opnemen met Transport Support over de fouten in SPF, DKIM en/of DMARC.
