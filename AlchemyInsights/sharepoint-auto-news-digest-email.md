@@ -1,8 +1,8 @@
 ---
-title: E-mail automatisch samenvatting van SharePoint
+title: SharePoint Auto Digest-e-mail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831189"
 ---
-# <a name="sharepoint-auto-digest-email"></a>E-mail automatisch samenvatting van SharePoint
+# <a name="sharepoint-auto-digest-email"></a>SharePoint Auto Digest-e-mail
 
-De samenvatting van de automatische nieuwstoepassing van SharePoint stuurt geautomatiseerd e-mailberichten naar gebruikers in uw bedrijf over de laatste nieuwsberichten die ze nog niet hebben gelezen.
+SharePoint Auto-News Digest verzendt geautomatiseerde e-mail naar gebruikers in uw bedrijf over de meest recente nieuwsberichten die ze nog niet hebben gelezen die relevant zijn voor hen.
 
-Voor meer informatie raadpleegt u [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Ga voor meer informatie naar [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Microsoft 365-wegwijzer-ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Tijdsinstelling: gerichte release klanten in  **medio juli (eerder juni**  en voltooid voor alle klanten vóór en met  **medio augustus)**.
-- Uitvouwen: gebruikersniveau-implementatie
-- Type besturingselement: gebruikersbesturing, * * beheer beheer via PowerShell (binnenkort beschikbaar)
+- Microsoft 365 Roadmap ID:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Timing: Gerichte releaseklanten half juli **(voorheen** juni en voltooid voor alle klanten half augustus **(eerder begin augustus).**
+- Uitrol: implementatie op gebruikersniveau
+- Type besturingselement: Gebruikersbesturingselement, **Beheer via PowerShell (binnenkort beschikbaar)

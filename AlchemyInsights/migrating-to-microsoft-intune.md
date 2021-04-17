@@ -1,25 +1,26 @@
 ---
-title: Migreren naar Microsoft Intune
+title: Naar Microsoft Intune migreren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: acfebfb787bfc93eb9a2a7a365ebdb78cc597366
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: MT
+ms.openlocfilehash: 17b565a6034e2687a1733fa53d988a83df2e3b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493116"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831765"
 ---
-# <a name="migrating-to-microsoft-intune"></a>Migreren naar Microsoft Intune
+# <a name="migrating-to-microsoft-intune"></a>Naar Microsoft Intune migreren
 
-Als u probeert te migreren naar Intune, controleert u de [migratiegids in intune](https://docs.microsoft.com/intune/fundamentals/migration-guide).
+Bekijk, als u probeert naar Intune te migreren, de [Intune Migratiehandleiding](https://docs.microsoft.com/intune/fundamentals/migration-guide).
 
-Voor meer specifieke richtlijnen voor het migreren van System Center Configuration Manager (en SCCM Hybrid) naar Intune, reivew onze [hybride migratiedocumentatie.](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa) 
+Bekijk, voor meer specifieke begeleiding over het migreren van System Center Configuration Manager (en SCCM Hybrid) naar Intune, onze [Hybrid Migratiedocumentatie](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa). 

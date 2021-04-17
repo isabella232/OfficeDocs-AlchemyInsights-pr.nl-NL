@@ -1,24 +1,25 @@
 ---
-title: DNS records bijwerken bij Dreamhost
+title: DNS-records bijwerken bij Dreamhost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5822"
-ms.openlocfilehash: 946b3e681d095923e73e5c1c7347c17200cb57a5
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 540ed9398105c233a170e6a36c1704e525da81ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707724"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830352"
 ---
-# <a name="update-dns-records-at-dreamhost"></a>DNS records bijwerken bij Dreamhost
+# <a name="update-dns-records-at-dreamhost"></a>DNS-records bijwerken bij Dreamhost
 
 Gebruik de onderstaande koppelingen om uw DNS-records bij te werken.
 

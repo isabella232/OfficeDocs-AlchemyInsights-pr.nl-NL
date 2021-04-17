@@ -1,8 +1,8 @@
 ---
-title: E-mail van Gmail-accounts kan niet worden ontvangen
+title: Kan geen e-mail ontvangen van Gmail-accounts
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735446"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830388"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>E-mail van Gmail-accounts kan niet worden ontvangen
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Kan geen e-mail ontvangen van Gmail-accounts
 
-**VERLENEN**
+**PROBLEEM**
 
-Sommige gebruikers kunnen mogelijk geen e-mail ontvangen van Gmail-accounts. We onderzoeken een mogelijk probleem.
+We zijn ons ervan bewust dat sommige gebruikers mogelijk geen e-mail kunnen ontvangen van Gmail-accounts. We onderzoeken een mogelijk probleem.
 
-**GEBODEN**
+**TIJDELIJKE OPLOSSING**
 
-Ga na of u het Gmail-domein niet per ongeluk hebt geblokkeerd wanneer u één Gmail-gebruiker blokkeert.
+Controleer of u het Gmail-domein niet per ongeluk hebt geblokkeerd wanneer u één Gmail-gebruiker blokkeert.
 
-1. Open uw [lijst met geblokkeerde afzenders](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Open uw [lijst met geblokkeerde afzenders.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Als Gmail.com in de lijst staat, klikt u op het prullenbakpictogram naast het item en drukt u op **Opslaan**.
+2. Als Gmail.com in de lijst staat, klikt u op het prullenbakpictogram naast het item en drukt u op **Opslaan.**

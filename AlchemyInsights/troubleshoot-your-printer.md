@@ -2,25 +2,26 @@
 title: Problemen met uw printer oplossen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 42125b5103f429c1287400c3c1dc659cfa2067b7
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034211"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830469"
 ---
 # <a name="troubleshoot-your-printer"></a>Problemen met uw printer oplossen
 
-Probeer eerst een ** stroomcyclus van de printer **. Volg deze stappen:
+Probeer eerst een **stroomcyclus van de printer**. Volg deze stappen:
 
 1. Schakel uw printer uit en koppel de stroomkabel los.
 
@@ -28,46 +29,46 @@ Probeer eerst een ** stroomcyclus van de printer **. Volg deze stappen:
 
 3. Sluit uw printer weer aan en zet de printer weer aan.
 
-Als uw probleem hiermee niet is opgelost, voert u de probleemoplosser voor printers uit door naar ** Start> Instellingen> Update en beveiliging> Problemen oplossen ** te gaan. Klik op ** Printer ** en vervolgens op ** De probleemoplosser uitvoeren **.
+Als uw probleem hiermee niet is opgelost, voert u de probleemoplosser voor printers uit door naar **Start> Instellingen> Update en beveiliging> Problemen oplossen** te gaan. Klik op **Printer** en vervolgens op **De probleemoplosser uitvoeren**.
 
-** Als uw printer via een netwerkverbinding op uw pc is aangesloten ** (als u haast heeft, kunt u uw printer mogelijk snel laten werken door een USB-kabel te gebruiken om uw printer rechtstreeks op uw pc aan te sluiten) :
+**Als uw printer via een netwerkverbinding op uw pc is aangesloten** (als u haast heeft, kunt u uw printer mogelijk snel laten werken door een USB-kabel te gebruiken om uw printer rechtstreeks op uw pc aan te sluiten) :
 
-1. ** Controleer de netwerkverbinding van uw printer **.
+1. **Controleer de netwerkverbinding van uw printer**.
     
     - Volg de instructies van de printer om de netwerkverbinding te controleren.
 
     - Als uw printer niet is verbonden met een netwerk, volgt u de instructies van uw apparaat om verbinding te maken met uw netwerk.
 
-2. ** Stem de netwerkverbinding van uw pc af op die van uw printer **.
+2. **Stem de netwerkverbinding van uw pc af op die van uw printer**.
 
-    - Klik op ** Start> Instellingen> Netwerk en internet **.
+    - Klik op **Start> Instellingen> Netwerk en internet**.
 
-    - Zoek uw netwerknaam onder ** Netwerkstatus **. Dit moet exact overeenkomen met de verbindingsnaam van de printer.
+    - Zoek uw netwerknaam onder **Netwerkstatus**. Dit moet exact overeenkomen met de verbindingsnaam van de printer.
 
     - Als deze twee verbindingen niet hetzelfde zijn, wijzigt u de verbinding van uw pc zodat deze overeenkomt met het netwerk van de printer.
 
-U kunt ook proberen ** uw netwerkprinter te verwijderen en opnieuw te installeren **:
+U kunt ook proberen **uw netwerkprinter te verwijderen en opnieuw te installeren**:
 
-1. ** Verwijder de printer via Instellingen **.
+1. **Verwijder de printer via Instellingen**.
 
-    - Klik op ** Start> Instellingen> Apparaten> Printers en scanners **.
+    - Klik op **Start> Instellingen> Apparaten> Printers en scanners**.
 
-    - Klik onder de kop Printers en scanners op de printer waarmee u problemen oplost. Klik op ** Apparaat verwijderen **. Volg de instructies om de printer volledig te verwijderen.
+    - Klik onder de kop Printers en scanners op de printer waarmee u problemen oplost. Klik op **Apparaat verwijderen**. Volg de instructies om de printer volledig te verwijderen.
 
-2. ** Verwijder alle software van fabrikanten van printers van derden **.
+2. **Verwijder alle software van fabrikanten van printers van derden**.
 
-    - Klik op ** Start> Instellingen> Apps **.
+    - Klik op **Start> Instellingen> Apps**.
 
     - Scrol onder de kop Apps en functies om software te vinden die is geïnstalleerd door de fabrikant van uw printer (zoals HP, Canon of Epson).
 
-    - Klik op de software en klik op ** Verwijderen **.
+    - Klik op de software en klik op **Verwijderen**.
 
-3. ** Schakel uw printer uit en start deze opnieuw op **.
+3. **Schakel uw printer uit en start deze opnieuw op**.
 
     - Schakel uw printer uit en koppel de stroomkabel los. Wacht 30 seconden. Sluit uw printer weer aan en zet de printer weer aan.
 
-4. ** Installeer uw printer opnieuw in Instellingen **.
+4. **Installeer uw printer opnieuw in Instellingen**.
 
-    - Klik op ** Start> Instellingen> Apparaten> Printers en scanners **.
+    - Klik op **Start> Instellingen> Apparaten> Printers en scanners**.
  
-    - Klik boven aan het scherm op ** Printer of scanner toevoegen ** en volg de instructies om uw printer opnieuw te installeren.
+    - Klik boven aan het scherm op **Printer of scanner toevoegen** en volg de instructies om uw printer opnieuw te installeren.
