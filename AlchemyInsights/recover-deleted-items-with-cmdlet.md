@@ -2,26 +2,27 @@
 title: Verwijderde items herstellen met cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493028"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835806"
 ---
 # <a name="recover-deleted-items-with-cmdlet"></a>Verwijderde items herstellen met cmdlet
 
-- Gebruik de [cmdlet Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) om verwijderde items in postvakken weer te geven. Nadat u de verwijderde items hebt gevonden, gebruikt u de cmdlet [Herstelbare Items](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) om ze te herstellen.
+- Gebruik de cmdlet [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) (Engelstalig) om verwijderde items in postvakken weer te geven. Nadat u de verwijderde items hebt gevonden, gebruikt u de cmdlet [ Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) om de items te herstellen.
 
-- Bekijk alle details in [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Kijk in [van Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) voor de volledige details.
 
-- U moet de rol Postvak exporteren voordat u deze cmdlet uitvoeren. Zie [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) voor meer informatie.
+- U moet de rol voor het importeren en exporteren van postvakken toegewezen hebben gekregen om deze cmdlet uit te voeren. Zie [van Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) voor meer informatie.

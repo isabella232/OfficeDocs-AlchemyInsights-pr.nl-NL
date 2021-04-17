@@ -1,8 +1,8 @@
 ---
-title: Apps op het bureaublad plaatsen
+title: Apps op het bureaublad zetten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768242"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835842"
 ---
-# <a name="put-apps-on-the-desktop"></a>Apps op het bureaublad plaatsen
+# <a name="put-apps-on-the-desktop"></a>Apps op het bureaublad zetten
 
-Zoek de app in het menu **Start** en pak het pictogram van de app door de linkermuisknop ingedrukt te houden en het pictogram naar het bureaublad te verplaatsen.
+Zoek naar de app in het **startmenu** en pak het app-pictogram door de linkermuisknop ingedrukt te houden en het pictogram naar het bureaublad te verplaatsen.
 
-U kunt ook op de **Windows-toets + R** drukken en deze opdracht typen:
+U kunt ook op **de Windows-toets + R** drukken en vervolgens in deze opdracht typen:
 
 `shell:appsfolder`
 
-Hiermee wordt de map **Programma's** geopend in **Verkenner**. U kunt nu het app-pictogram naar het bureaublad slepen en neerzetten.
+Hiermee wordt de map **Toepassingen** in **Verkenner geopend.** U kunt nu het app-pictogram naar het bureaublad slepen en neerzetten.
