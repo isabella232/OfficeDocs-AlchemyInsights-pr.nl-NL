@@ -1,8 +1,8 @@
 ---
-title: Service voor selfservice aankopen
+title: Selfservice-aankoopvraag
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740000"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835626"
 ---
-# <a name="self-service-purchase"></a><span data-ttu-id="fcced-102">Zelf aankoop van service</span><span class="sxs-lookup"><span data-stu-id="fcced-102">Self-service purchase</span></span>
+# <a name="self-service-purchase"></a><span data-ttu-id="5a495-102">Selfservice-aankoop</span><span class="sxs-lookup"><span data-stu-id="5a495-102">Self-service purchase</span></span>
 
-<span data-ttu-id="fcced-103">**Welke mogelijkheden biedt een beheerder voor Self-service-aankopen?**</span><span class="sxs-lookup"><span data-stu-id="fcced-103">**What capabilities does an admin have for self-service purchases?**</span></span>
+<span data-ttu-id="5a495-103">**Welke mogelijkheden heeft een beheerder voor selfserviceaankopen?**</span><span class="sxs-lookup"><span data-stu-id="5a495-103">**What capabilities does an admin have for self-service purchases?**</span></span>
 
-<span data-ttu-id="fcced-104">Beheerders kunnen alle selfservice aankopen weergeven die zijn gemaakt in hun organisatie in het Microsoft 365-Beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="fcced-104">Admins can view all self-service purchases made in their organization in the Microsoft 365 admin center.</span></span> <span data-ttu-id="fcced-105">Ze kunnen het product, de naam van de verkoper, gekochte abonnementen, vervaldatum, ordergeschiedenis, aankoopprijs en toegewezen gebruikers voor elke selfservice aankoop zien.</span><span class="sxs-lookup"><span data-stu-id="fcced-105">They can see the product, purchaser name, subscriptions purchased, expiration date, order history, purchase price, and assigned users for each self-service purchase.</span></span>  <span data-ttu-id="fcced-106">Indien nodig voor hun organisatie, kunnen beheerders selfservice aankopen voor één product op basis van de voorwaarden via PowerShell uitschakelen.</span><span class="sxs-lookup"><span data-stu-id="fcced-106">If required for their organization, admins will be able to turn off self-service purchasing on a per-product basis via PowerShell.</span></span>  <span data-ttu-id="fcced-107">Beheerders hebben dezelfde beleidsregels voor gegevensbeheer en toegang via producten die zijn gekocht via selfservice aankoop of centraal.</span><span class="sxs-lookup"><span data-stu-id="fcced-107">Admins have the same data management and access policies over products bought through self-service purchase or centrally.</span></span>
+<span data-ttu-id="5a495-104">Beheerders kunnen alle selfserviceaankopen in hun organisatie bekijken in het Microsoft 365-beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="5a495-104">Admins can view all self-service purchases made in their organization in the Microsoft 365 admin center.</span></span> <span data-ttu-id="5a495-105">Ze kunnen het product, de naam van de inkoper, de gekochte abonnementen, de vervaldatum, de ordergeschiedenis, de aankoopprijs en de toegewezen gebruikers voor elke selfserviceaankoop zien.</span><span class="sxs-lookup"><span data-stu-id="5a495-105">They can see the product, purchaser name, subscriptions purchased, expiration date, order history, purchase price, and assigned users for each self-service purchase.</span></span>  <span data-ttu-id="5a495-106">Indien vereist voor hun organisatie, kunnen beheerders selfservice-aankopen uitschakelen op basis van per product via PowerShell.</span><span class="sxs-lookup"><span data-stu-id="5a495-106">If required for their organization, admins will be able to turn off self-service purchasing on a per-product basis via PowerShell.</span></span>  <span data-ttu-id="5a495-107">Beheerders hebben hetzelfde gegevensbeheer- en toegangsbeleid voor producten die zijn gekocht via selfserviceaankoop of centraal.</span><span class="sxs-lookup"><span data-stu-id="5a495-107">Admins have the same data management and access policies over products bought through self-service purchase or centrally.</span></span>
 
-[<span data-ttu-id="fcced-108">Veelgestelde vragen over self-service aankopen</span><span class="sxs-lookup"><span data-stu-id="fcced-108">Self-service purchase FAQ</span></span>](https://aka.ms/self-service-purchase-faq)
+[<span data-ttu-id="5a495-108">Veelgestelde vragen over selfservice-aankoop</span><span class="sxs-lookup"><span data-stu-id="5a495-108">Self-service purchase FAQ</span></span>](https://aka.ms/self-service-purchase-faq)
 
