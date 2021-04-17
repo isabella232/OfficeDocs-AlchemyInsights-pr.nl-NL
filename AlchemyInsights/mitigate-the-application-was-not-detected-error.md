@@ -2,21 +2,22 @@
 title: Corrigeren van de fout De applicatie is niet gedetecteerd
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: e07c6b128a39f1fb1c998d051aafe72205d8cbee
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: 4e0599f9bdf2c7d16d009627f44b3691c2c250b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810479"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836346"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>Corrigeren van de fout 'De applicatie is niet gedetecteerd'
 

@@ -1,8 +1,8 @@
 ---
-title: Een e-mailbericht in Outlook permanent verwijderen
+title: Een e-mailbericht definitief verwijderen in Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836094"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Een e-mailbericht in Outlook permanent verwijderen
+# <a name="permanently-delete-an-email-in-outlook"></a>Een e-mailbericht definitief verwijderen in Outlook
 
-- In de weergave Postvak in kunt u lang op een bericht drukken en ziet u het pictogram van de prullenmand. Tik op dit pictogram om het bericht te verwijderen.
+- Druk in de weergave Postvak IN lang op een bericht en u ziet het prullenbakpictogram. Tik op dit pictogram om het bericht te verwijderen.
 
-- U kunt ook ' verwijderen ' als een swipe optie instellen (**instellingen-> swipe-opties**). Veeg vervolgens met uw vinger op het e-mailbericht dat u wilt verwijderen. 
+- U kunt ook 'verwijderen' instellen als een swipeoptie **(Instellingen -> Swipe-opties);** gebruik vervolgens uw vinger om te swipen op de e-mail die u wilt verwijderen. 
 
-- Als u een bericht uit een geopende e-mail weergave wilt verwijderen, tikt u op het prullenbakpictogram boven aan het scherm. Verwijderde berichten worden verplaatst naar de Prullenbak van de map. 
+- Als u een bericht wilt verwijderen uit een geopende e-mailweergave, tikt u op het prullenbakpictogram boven aan het scherm. Verwijderde berichten worden verplaatst naar de map Prullenbak. 
 
-**Een e-mailbericht permanent verwijderen**
+**Een e-mailbericht definitief verwijderen**
 
-- Open de Prullenbak van de weergave e-mail, tik op het account pictogram (3 regels) en tik op de prullenmand.
+- Open de prullenbakmap vanuit de e-mailweergave, tik op het accountpictogram (3 regels) en tik op de prullenbakmap.
 
-- Afzonderlijke e-mailberichten verwijderen of meerdere e-mailberichten markeren en ze verwijderen. ze worden permanent verwijderd.
+- Verwijder afzonderlijke e-mailberichten of markeer meerdere e-mailberichten en verwijder ze hier vandaan. deze worden definitief verwijderd.

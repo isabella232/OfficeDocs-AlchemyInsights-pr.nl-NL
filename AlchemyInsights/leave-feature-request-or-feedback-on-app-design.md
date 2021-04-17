@@ -1,8 +1,8 @@
 ---
-title: Een functie aanvraag of feedback over het app-ontwerp houden
+title: Een functieaanvraag of feedback over app-ontwerp achterlaten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676517"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836526"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Een functie aanvraag of feedback over het app-ontwerp houden
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Een functieaanvraag of feedback over app-ontwerp achterlaten
 
-We waarderen dat u uw gedachten deelt wanneer we blijven werken in Outlook. *UserVoice* is een forum waar u feedback kunt geven en stemmen op de ideeën van anderen.  
+We stellen het op prijs dat u uw gedachten deelt terwijl we aan Outlook blijven werken. *UserVoice* is een forum waar u feedback kunt geven en kunt stemmen op de ideeën van anderen.  
 
-Om ons een idee te geven: 
+Laat ons een idee achter: 
 
-**Instellingen > Help & feedback > een functie voorstellen > een idee te plaatsen** 
+**Instellingen > Help & feedback > Een functie voorstellen > Een idee posten** 
 
-**Hoe uw naam/e-mail wordt weergegeven?**
+**Hoe wordt uw naam/e-mail weergegeven?**
 
-Wanneer u een opmerking aan een bestaande functie aanvraag toevoegt, wordt uw naam of e-mailadres in de app automatisch ingevuld via uw primaire account ingesteld in de app. Als u wilt kiezen welke naam wordt weergegeven, dient u een **nieuwe** functie aanvraag in te dienen. 
+Wanneer u een opmerking toevoegt aan een bestaande functieaanvraag, vult de app automatisch uw naam of e-mailadres in van uw primaire account dat is ingesteld in de app. Als u wilt kiezen welke naam wordt weergegeven, moet u een **nieuwe functieaanvraag** indienen. 
 
-Een aanvraag indienen is een eenvoudige procedure van drie stappen. Op de derde en de laatste pagina ziet u een lijn voor uw e-mailadres (vereist) en een lijn voor uw naam. Hier kunt u opgeven hoe uw naam wordt weergegeven, of u kunt het idee anoniem indienen. 
+Het indienen van een aanvraag is een eenvoudig proces in drie stappen. Op de derde en laatste pagina ziet u een regel voor uw e-mailadres (vereist) en een regel voor uw naam. Hier kunt u kiezen hoe uw naam wordt weergegeven, of u kunt het idee anoniem indienen. 
 
-**Opmerking:** Het kan ook zijn dat u het e-mailadres wilt wijzigen dat automatisch wordt ingevuld op deze pagina. Als uw naam op een bepaalde manier wordt ingesteld binnen de instellingen van uw e-mailclient, kan het wijzigen van de feedback verzenden naar anoniem worden overschreven door uw instellingen. 
+**Opmerking:** Mogelijk moet u ook wijzigen welk e-mailadres automatisch wordt ingevuld op deze pagina. Als uw naam op een bepaalde manier is ingesteld binnen de instellingen van uw e-mailclient, kan het wijzigen van de feedbackinzending in anoniem worden overgenomen door uw instellingen. 

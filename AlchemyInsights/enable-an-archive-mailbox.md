@@ -1,8 +1,9 @@
 ---
-title: Een archief postvak inschakelen
+title: Een archiefpostvak inschakelen
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811700"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857875"
 ---
-# <a name="enable-an-archive-mailbox"></a>Een archief postvak inschakelen
+# <a name="enable-an-archive-mailbox"></a>Een archiefpostvak inschakelen
 
-Als u wilt dat wij geautomatiseerde controles uitvoeren om ervoor te zorgen dat een archief postvak kan worden geconfigureerd, selecteert u de knop terug <--boven aan deze pagina en voert u het e-mailadres van het account in.
+Een archief inschakelen in het M365 Compliance Center:
 
-Postvakken archiveren in Microsoft 365 (ook wel *online archieven* of *in-place archieven*genoemd) geven gebruikers met extra e-mail opslag. Gebruikers kunnen items naar hun archief Postvak verplaatsen of kopiëren, en beheerders kunnen een archiefbeleid maken waarmee items automatisch worden verplaatst naar archief postvakken.
-  
-U maakt als volgt een archief postvak:
-  
-1. Ga naar [https://protection.office.com](https://protection.office.com).
+1. Ga naar [https://compliance.microsoft.com](https://compliance.microsoft.com).
+2. Selecteer **Informatiebeheer**.
+3. Klik vervolgens op **de optie** Archiveren.
 
-2. Meld u aan bij Microsoft 365 met uw beheerdersaccount.
+Of volg [deze koppeling.](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)  
 
-3. Selecteer in het linkerdeelvenster van het beveiligings &amp; compliance-centrum de optie **Information governance** \> **Archief**.
+Voor gedeelde postvakken:
 
-4. Selecteer de gebruiker van wie u het archief postvak wilt inschakelen.
+1. Ga naar het [Exchange-beheercentrum](https://outlook.office365.com/ecp) en meld u aan met uw beheerdersaccount.
+2. Ga naar **Gedeelde**  >  **geadresseerden.**
+3. Selecteer het gedeelde postvak.
+4. Klik in het detailvenster aan de rechterkant onder **Archief op In-Place** op Inschakelen **en** klik vervolgens op **Ja** om het archiefpostvak in te stellen.
 
-5. Klik in het detailvenster aan de rechterkant op **inschakelen** en klik vervolgens op **Ja** in het waarschuwingsbericht om het archief postvak in te schakelen.
-
-U kunt ook bulksgewijs archief postvakken inschakelen door meerdere gebruikers te selecteren (met de **SHIFT** of **CTRL** toetsen) en vervolgens te klikken op **inschakelen** in het detailvenster.
-  
-### <a name="shared-mailboxes"></a>Gedeelde postvakken
-
-Als u het Archief voor een gedeeld postvak wilt inschakelen, moet u een licentie voor Exchange Online plan 2 of een licentie voor Exchange Online abonnement 1 met een licentie voor archivering van Exchange Online gebruiken.  
-
-Het Archief voor een gedeeld postvak inschakelen:
-
-1. Ga naar het [Exchange-Beheercentrum](https://outlook.office365.com/ecp) en meld u aan met uw beheerdersaccount.
-
-2. Ga naar **Recipients**  >  **gedeelde**geadresseerden.
-
-3. Selecteer het gedeelde Postvak.
-
-4. Klik in het detailvenster aan de rechterkant op **inschakelen**en klik vervolgens op **Ja** om het archief **Postvak in te**schakelen.
-
-Zie voor meer informatie:
-  
-- [Archiveren van postvakken inschakelen](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [Een archief-en verwijderingsbeleid instellen](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+Zie Een archief- en verwijderingsbeleid instellen voor meer informatie over het verplaatsen van berichten naar het [archiefpostvak.](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
