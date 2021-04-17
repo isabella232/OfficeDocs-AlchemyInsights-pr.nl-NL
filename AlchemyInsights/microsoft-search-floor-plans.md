@@ -2,7 +2,7 @@
 title: Plattegronden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724718"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836382"
 ---
-# <a name="floor-plans"></a><span data-ttu-id="e01ac-102">Plattegronden</span><span class="sxs-lookup"><span data-stu-id="e01ac-102">Floor Plans</span></span>
+# <a name="floor-plans"></a><span data-ttu-id="7c360-102">Plattegronden</span><span class="sxs-lookup"><span data-stu-id="7c360-102">Floor Plans</span></span>
 
-<span data-ttu-id="e01ac-103">Raadpleeg de volgende artikelen over ondersteuning voor meer informatie over **Microsoft Search**  -abonnementen.</span><span class="sxs-lookup"><span data-stu-id="e01ac-103">For information on **Microsoft Search**  floor plans, review following support articles:</span></span>
-- [<span data-ttu-id="e01ac-104">Aanbevolen procedures voor Microsoft Search-plattegronden</span><span class="sxs-lookup"><span data-stu-id="e01ac-104">Best practices for Microsoft Search floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [<span data-ttu-id="e01ac-105">Plattegronden beheren</span><span class="sxs-lookup"><span data-stu-id="e01ac-105">Manage floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- <span data-ttu-id="e01ac-106">Voor informatie over het maken van een plattegrond in  **Visio**raadpleegt u [een plattegrond maken](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span><span class="sxs-lookup"><span data-stu-id="e01ac-106">For information on how to create a floor plan in  **Visio**, review [Create a floor plan](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span></span>
+<span data-ttu-id="7c360-103">Bekijk de  volgende ondersteuningsartikelen voor meer informatie over Microsoft Search-plattegronden:</span><span class="sxs-lookup"><span data-stu-id="7c360-103">For information on **Microsoft Search**  floor plans, review following support articles:</span></span>
+- [<span data-ttu-id="7c360-104">Best practices voor Microsoft Search-plattegronden</span><span class="sxs-lookup"><span data-stu-id="7c360-104">Best practices for Microsoft Search floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [<span data-ttu-id="7c360-105">Plattegronden beheren</span><span class="sxs-lookup"><span data-stu-id="7c360-105">Manage floor plans</span></span>](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- <span data-ttu-id="7c360-106">Voor informatie over het maken van een plattegrond in **Visio,** [bekijkt](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791) u Een plattegrond maken</span><span class="sxs-lookup"><span data-stu-id="7c360-106">For information on how to create a floor plan in  **Visio**, review [Create a floor plan](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)</span></span>
