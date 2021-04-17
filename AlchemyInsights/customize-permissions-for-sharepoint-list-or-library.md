@@ -1,8 +1,8 @@
 ---
-title: Machtigingen voor een SharePoint-lijst of-bibliotheek aanpassen
+title: Machtigingen voor een SharePoint-lijst of -bibliotheek aanpassen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 087223e62e5009df9c0bd11240fb98e1095798c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6baa38c0aab87bdfdd2643aa4871d0e8fdba0eeb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731918"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815718"
 ---
-# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="35635-102">Machtigingen voor een SharePoint-lijst of-bibliotheek aanpassen</span><span class="sxs-lookup"><span data-stu-id="35635-102">How to customize permissions for a SharePoint list or library</span></span>
+# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="f6a5c-102">Machtigingen voor een SharePoint-lijst of -bibliotheek aanpassen</span><span class="sxs-lookup"><span data-stu-id="f6a5c-102">How to customize permissions for a SharePoint list or library</span></span>
 
-<span data-ttu-id="35635-103">Als beheerder of eigenaar van een bibliotheek, lijst of enquête kunt u machtigingen wijzigen, zodat ze de gegevens die ze nodig hebben toegang tot de gegevens die ze nodig hebben en anderen kunnen beperken.</span><span class="sxs-lookup"><span data-stu-id="35635-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
+<span data-ttu-id="f6a5c-103">Als beheerder of eigenaar van een bibliotheek, lijst of enquête kunt u machtigingen wijzigen om een groep personen toegang te geven tot de gegevens die ze nodig hebben en anderen te beperken.</span><span class="sxs-lookup"><span data-stu-id="f6a5c-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
 
-[<span data-ttu-id="35635-104">Machtigingen voor een SharePoint-lijst of-bibliotheek aanpassen</span><span class="sxs-lookup"><span data-stu-id="35635-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[<span data-ttu-id="f6a5c-104">Machtigingen voor een SharePoint-lijst of -bibliotheek aanpassen</span><span class="sxs-lookup"><span data-stu-id="f6a5c-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)

@@ -2,7 +2,7 @@
 title: Verbinding maken met de MSCommerce-module
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713233"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817023"
 ---
-# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="2a5b7-102">Verbinding maken met de MSCommerce-module</span><span class="sxs-lookup"><span data-stu-id="2a5b7-102">Connect to the MSCommerce module</span></span>
+# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="a4bec-102">Verbinding maken met de MSCommerce-module</span><span class="sxs-lookup"><span data-stu-id="a4bec-102">Connect to the MSCommerce module</span></span>
 
-<span data-ttu-id="2a5b7-103">U moet verbinding hebben met de MSCommerce-module voordat u het AllowSelfServicePurchase-beleid kunt weergeven of instellen.</span><span class="sxs-lookup"><span data-stu-id="2a5b7-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
+<span data-ttu-id="a4bec-103">U moet zijn verbonden met de MSCommerce-module voordat u het allowSelfServicePurchase-beleid kunt bekijken of instellen.</span><span class="sxs-lookup"><span data-stu-id="a4bec-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
 
-<span data-ttu-id="2a5b7-104">Als u verbinding wilt maken met de MSCommerce-module, \) typt u de volgende opdracht bij de PowerShell-prompt (PS C::</span><span class="sxs-lookup"><span data-stu-id="2a5b7-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
+<span data-ttu-id="a4bec-104">Als u verbinding wilt maken met de MSCommerce-module, voert u bij de PowerShell-prompt (PS C: \) ) de volgende opdracht in:</span><span class="sxs-lookup"><span data-stu-id="a4bec-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
 
 `Connect-MSCommerce`
 
-<span data-ttu-id="2a5b7-105">Hiermee opent u een aanmeldingsdialoogvenster.</span><span class="sxs-lookup"><span data-stu-id="2a5b7-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="2a5b7-106">Voer uw gebruikersnaam en wachtwoord in om u aan te melden.</span><span class="sxs-lookup"><span data-stu-id="2a5b7-106">Enter your username and password to sign-in.</span></span>
+<span data-ttu-id="a4bec-105">Hiermee wordt een aanmeldingsdialoogvenster geopend.</span><span class="sxs-lookup"><span data-stu-id="a4bec-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="a4bec-106">Voer uw gebruikersnaam en wachtwoord in om u aan te melden.</span><span class="sxs-lookup"><span data-stu-id="a4bec-106">Enter your username and password to sign-in.</span></span>
 
-<span data-ttu-id="2a5b7-107">**Opmerking:** &nbsp; &nbsp; Het account waarmee u zich aanmeldt, moet een bedrijf of Factureringsbeheerder zijn.</span><span class="sxs-lookup"><span data-stu-id="2a5b7-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
+<span data-ttu-id="a4bec-107">**OPMERKING:** &nbsp; &nbsp; Het account dat wordt gebruikt om u aan te melden, moet een bedrijf of factureringsbeheerder zijn.</span><span class="sxs-lookup"><span data-stu-id="a4bec-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
