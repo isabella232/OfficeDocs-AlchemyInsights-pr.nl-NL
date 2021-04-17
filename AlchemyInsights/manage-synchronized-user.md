@@ -2,7 +2,7 @@
 title: Gesynchroniseerde gebruiker beheren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823962"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Kan het primaire e-mailadres niet instellen, gebruikerskenmerken wijzigen of een gesynchroniseerde gebruiker verwijderen/verwijderen
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Kan geen primair e-mailadres instellen, gebruikerskenmerken wijzigen of een gesynchroniseerde gebruiker verwijderen/verwijderen
 
-Als adreslijstsynchronisatie is ingeschakeld voor uw omgeving, kunnen sommige kenmerken van gebruikers of objecten niet worden gewijzigd met het Microsoft 365-Beheercentrum.
+Als adreslijstsynchronisatie is ingeschakeld voor uw omgeving, kunnen bepaalde gebruikers- of objectkenmerken niet worden gewijzigd via het Microsoft 365-beheercentrum.
 
-Als u gesynchroniseerde gebruikers en alle bijbehorende kenmerken volledig wilt beheren, gebruikt u de lokale Active Directory-gebruikers en groepen beheerconsole (adsiedit. msc).  
+Als u gesynchroniseerde gebruikers en al hun kenmerken volledig wilt beheren, gebruikt u uw lokale active directory-gebruikers en groepenbeheerconsole (adsiedit.msc).  
 
-U kunt ook individuele gebruikers of kenmerken wijzigen voor gesynchroniseerde gebruikers met behulp van PowerShell, zoals in deze algemene voorbeelden:
+U kunt ook afzonderlijke gebruikers of kenmerken voor gesynchroniseerde gebruikers wijzigen met powershell, zoals wordt weergegeven in deze veelvoorkomende voorbeelden:
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 

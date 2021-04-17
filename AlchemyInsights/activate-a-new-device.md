@@ -2,7 +2,7 @@
 title: Een nieuw apparaat activeren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668377"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823278"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Een nieuw apparaat activeren waarop Windows 10 wordt uitgevoerd
+# <a name="activating-a-new-device-running-windows-10"></a>Een nieuw apparaat met Windows 10 activeren
 
-Als u een nieuw apparaat met Windows 10 hebt gekocht, wordt het automatisch geactiveerd wanneer u het apparaat verbindt met internet. Als de activeringsservers bezet zijn, moet u mogelijk een ogenblik geduld om Windows te activeren.
+Als u een nieuw apparaat met Windows 10 hebt gekocht, wordt dit automatisch geactiveerd wanneer u uw apparaat verbindt met internet. Als de activeringsservers bezet zijn, moet u mogelijk even wachten totdat Windows is geactiveerd.
 
-Als u de activeringsstatus wilt controleren, kiest u update van **Start** **instellingen**  >  **& beveiligings**  >  **Activering**.
+Als u de activeringsstatus wilt controleren, **kiest u Instellingen** **bijwerken**&  >  **beveiligingsactivering**  >  .
 
-**Opmerking:** In sommige gevallen moet u de productcode voor Windows 10 invoeren die bij de verpakking van het apparaat is geleverd, of die is opgenomen als een kaart of op het certificaat van echtheid (COA) die aan het apparaat is gekoppeld.
+**Opmerking:** In sommige gevallen moet u mogelijk de Windows 10-productcode invoeren die bij de verpakking van het apparaat is meegeleverd, of als kaart of op het certificaat van echtheid (COA) dat aan het apparaat is gekoppeld.
 
-[Meer informatie over het activeren van Windows 10](https://support.microsoft.com/help/12440)
+[Meer informatie over activering in Windows 10](https://support.microsoft.com/help/12440)

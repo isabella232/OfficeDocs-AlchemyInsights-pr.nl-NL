@@ -11,17 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767932"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824610"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ontvangt u te veel phish of spam in uw postvak?
 
-> [!NOTE]
-> U hebt toegang tot het Microsoft 365-beveiligingscentrum op [security.microsoft.com.](https://security.microsoft.com)
+**Opmerking**: u hebt toegang tot het Microsoft 365-beveiligingscentrum op [https://security.microsoft.com](https://security.microsoft.com).
 
 Als Microsoft 365-beheerder kunt u het beste bepalen waarom een phishing- of spambericht is bezorgd door het voorbeeld in te dienen bij Microsoft in [Submissions Explorer.](https://security.microsoft.com/reportsubmission) U krijgt direct feedback over het filteren van berichten en waarom er problemen zijn.
 

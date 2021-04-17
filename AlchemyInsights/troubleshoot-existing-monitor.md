@@ -1,8 +1,8 @@
 ---
-title: Problemen oplossen met bestaande monitor
+title: Problemen met bestaande monitor oplossen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824574"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>Problemen met een bestaande monitor oplossen
 
-Probeer deze oplossingen om problemen op te lossen met een beeldscherm. 
+Probeer deze oplossingen om problemen met een monitor op te lossen. 
 
-**De weergave van het beeldscherm vernieuwen:**
+**Het beeldscherm vernieuwen:**
 
-Druk op de volgende toetsen tegelijk: Windows-toets + CTRL + SHIFT + B. Hiermee wordt de communicatie met uw grafische stuurprogramma vernieuwd. Uw monitoren knipperen en werken na een paar seconden opnieuw.
+Druk tegelijkertijd op de volgende toetsen: Windows-toets + Ctrl + Shift + B. Hierdoor wordt de communicatie met het grafische stuurprogramma vernieuwd. Uw beeldschermen knipperen tijdelijk en komen na enkele seconden terug.
 
-**Problemen met monitor-hardware oplossen:**
+**Problemen met monitorhardware oplossen:**
 
-1. Ontkoppel de kabel die uw PC verbindt met uw monitor en sluit de kabel weer aan.
-2. Verbreek de verbinding van niet-essentiële apparaten vanaf uw PC (zoals adapters en docks).
+1. Loskoppel de kabel die uw pc verbindt met uw monitor en sluit deze weer aan.
+2. Loskoppelen van niet-essentiële apparaten van uw pc (zoals adapters of docks).
 
-**Als u onlangs een update op uw PC hebt geïnstalleerd, kunt u het beeldschermstuurprogramma herstellen:**
+**Als u onlangs een update op uw pc hebt geïnstalleerd, kunt u het display-stuurprogramma terugdraaien:**
 
-1. Selecteer **Start**, typ **Apparaatbeheer**en kies **Apparaatbeheer** in de resultaten.
-2. Vouw de sectie **weergave-adapters** uit, klik met de rechtermuisknop op de beeldschermadapter, ands Selecteer **Eigenschappen**.
-3. Ga naar het tabblad **stuurprogramma** en selecteer vorig **stuurprogramma terugdraaien**. <br>
-Opmerking: als dit niet beschikbaar is of niet beschikbaar is, selecteert u **Nee** in de onderstaande opties om naar de volgende stap te gaan.
-4. Mogelijk moet u de PC opnieuw opstarten voordat de wijzigingen van kracht worden.
+1. Selecteer **Start,** typ **Apparaatbeheer** en selecteer **Apparaatbeheer** in de resultaten.
+2. Vouw de **sectie Beeldschermadapters** uit, klik met de rechtermuisknop op de beeldschermadapter en selecteer **Eigenschappen.**
+3. Ga naar het **tabblad Stuurprogramma** en selecteer **Stuurprogramma terugdraaien.** <br>
+Opmerking: Als dit niet beschikbaar is of niet beschikbaar is, selecteert u Nee **in** de onderstaande opties om naar de volgende stap te gaan.
+4. Mogelijk moet u uw pc opnieuw opstarten voordat deze wijzigingen van kracht worden.
 
-**Het beeldschermstuurprogramma verwijderen en opnieuw installeren:**
+**Verwijder en installeer het beeldschermstuur stuurprogramma:**
 
-1. Selecteer **Start**, typ **Apparaatbeheer**en kies **Apparaatbeheer** in de resultaten.
-2. Vouw de sectie **weergave-adapters** uit, klik met de rechtermuisknop op de beeldschermadapter, ands Selecteer **apparaat verwijderen**. 
-3. Schakel het selectievakje in naast **de stuurprogrammasoftware voor dit apparaat verwijderen** en selecteer **verwijderen**.<br>
-Opmerking: u wordt mogelijk gevraagd om de computer in deze fase opnieuw op te starten. Noteer de overige instructies voordat u de computer opnieuw opstart.
-4. Open Apparaatbeheer opnieuw.
-5. Vouw de sectie **weergave-adapters** uit, klik met de rechtermuisknop op de beeldschermadapter en selecteer **Driver bijwerken**.
-6. Selecteer **automatisch zoeken naar Stuurprogrammasoftware bijwerken** en volg de installatie-instructies.
+1. Selecteer **Start,** typ **Apparaatbeheer** en selecteer **Apparaatbeheer** in de resultaten.
+2. Vouw de **sectie Beeldschermadapters** uit, klik met de rechtermuisknop op de beeldschermadapter en selecteer **Apparaat verwijderen.** 
+3. Schakel het vakje naast **De stuurprogrammasoftware voor** dit apparaat verwijderen in en selecteer **Verwijderen.**<br>
+Opmerking: mogelijk wordt u gevraagd uw computer in dit stadium opnieuw op te starten. Schrijf de resterende instructies op voordat u opnieuw start.
+4. Open Device Manager opnieuw.
+5. Vouw de **sectie Beeldschermadapters** uit, klik met de rechtermuisknop op de beeldschermadapter en selecteer **Stuurprogramma bijwerken.**
+6. Selecteer **Automatisch zoeken naar software voor het bijwerken van stuurprogramma's** en volg de installatie-instructies.

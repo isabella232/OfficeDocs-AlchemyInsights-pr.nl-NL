@@ -1,8 +1,8 @@
 ---
-title: Welke versie van Android biedt ondersteuning voor de app?
+title: Welke versie van Android ondersteunt uw app?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773050"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824178"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Welke versie van Android biedt ondersteuning voor de app?
+# <a name="what-version-of-android-does-your-app-support"></a>Welke versie van Android ondersteunt uw app?
 
-Voor de beste prestaties werkt onze app op elk apparaat met Android-versie 5,0 en hoger.
+Voor de beste prestaties werkt onze app op elk apparaat met Android-versie 5.0 en hoger.
 
-Als u up-to-date bent in het besturingssysteem Android maar wel meldingen ontvangt over het besturingssysteem dat niet compatibel is met uw apparaat, kunt u proberen de cache en gegevens van de Play Store-app uit te schakelen.
+Als u up-to-date bent op uw Android-besturingssysteem, maar nog steeds meldingen ontvangt over het besturingssysteem dat niet compatibel is met uw apparaat, probeert u de cache en gegevens van de Play Store-app te wissen.
 
 U gaat hiervoor als volgt te werk: 
 
-1. Open op uw Android-telefoon of-Tablet **instellingen** en vervolgens **apps** of **toepassingen**.
+1. Open op uw Android-telefoon of -tablet **Instellingen** en vervolgens **Apps** of **Toepassingen.**
 
-2. Tik boven aan het scherm op **meer** (dit kan ook een weglatingsteken zijn of drie verticale stippen) en vervolgens op **systeem weergeven**. 
+2. Tik boven aan het scherm op **Meer** (dit kan ook een beletselteken zijn, of drie verticale puntjes) en vervolgens **Systeem tonen.** 
 
-3. Schuif omlaag en tik op **Google play-services**. 
+3. Schuif omlaag en tik op **Google Play-services.** 
 
-4. Tik op **opslag** en vervolgens op **cache wissen**. 
+4. Tik **op Opslag** en vervolgens Cache **wissen.** 
 
-5. Tik op **ruimte beheren** en vervolgens op **alle gegevens wissen**. 
+5. Tik **op Ruimte beheren** en vervolgens alle gegevens **verwijderen.** 
 
-6. Open de **Google Play Store**. 
+6. Open de **Google Play Store.** 
 
-7. Wacht ongeveer 5 minuten en probeer het opnieuw. 
+7. Wacht 5 minuten en probeer het opnieuw. 

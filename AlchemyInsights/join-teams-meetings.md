@@ -1,8 +1,8 @@
 ---
-title: Deelnemen aan teams-vergaderingen
+title: Deelnemen aan Teams-vergaderingen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772906"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823998"
 ---
-# <a name="join-a-meeting-in-teams"></a>Deelnemen aan een vergadering in teams
+# <a name="join-a-meeting-in-teams"></a>Deelnemen aan een vergadering in Teams
 
-Als u wilt deelnemen aan een teamvergadering, stelt u eerst het beleid voor de vergadering in en voegt u direct gebruikers van de gewenste apparatuur samen
+Als u wilt deelnemen aan een Teams-vergadering, stelt u eerst het vergaderingsbeleid in en stuurt u gebruikers vervolgens om deel te nemen vanaf hun voorkeursapparaten:
 
-- Stel beleidsregels voor vergaderingen in die bepalen wie er kan deelnemen aan de vergadering als [deelnemers of gasten](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Stel vergaderbeleid in om te bepalen wie als deelnemers of gasten aan de vergadering [kan deelnemen.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Gebruik Microsoft teams [PowerShell-cmdlets](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) om beleidswijzigingen door te voeren.    
+- Gebruik Microsoft Teams [PowerShell-cmdlets om](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) beleidswijzigingen aan te brengen.    
 
 **Opmerking:** Het kan tot 24 uur duren voordat beleidswijzigingen van kracht worden.
