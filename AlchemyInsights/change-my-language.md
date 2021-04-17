@@ -2,7 +2,7 @@
 title: Mijn taal wijzigen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682965"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818967"
 ---
-# <a name="change-my-language"></a><span data-ttu-id="fe020-102">Mijn taal wijzigen</span><span class="sxs-lookup"><span data-stu-id="fe020-102">Change my language</span></span>
+# <a name="change-my-language"></a><span data-ttu-id="76191-102">Mijn taal wijzigen</span><span class="sxs-lookup"><span data-stu-id="76191-102">Change my language</span></span>
 
-<span data-ttu-id="fe020-103">De Outlook-app wordt automatisch vertaald in de taal waarop het apparaat is ingesteld.</span><span class="sxs-lookup"><span data-stu-id="fe020-103">The Outlook app is automatically translated into the language your device is set to.</span></span> 
+<span data-ttu-id="76191-103">De Outlook-app wordt automatisch vertaald in de taal op uw apparaat.</span><span class="sxs-lookup"><span data-stu-id="76191-103">The Outlook app is automatically translated into the language your device is set to.</span></span> 
 
-<span data-ttu-id="fe020-104">(Zie een [lijst met talen die worden ondersteund in Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span><span class="sxs-lookup"><span data-stu-id="fe020-104">(See a [list of languages supported in Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span></span> 
+<span data-ttu-id="76191-104">(Zie een [lijst met talen die worden ondersteund in Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span><span class="sxs-lookup"><span data-stu-id="76191-104">(See a [list of languages supported in Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span></span> 
 
-<span data-ttu-id="fe020-105">**De taal van uw apparaat wijzigen**:</span><span class="sxs-lookup"><span data-stu-id="fe020-105">**To change the language on your device**:</span></span> 
+<span data-ttu-id="76191-105">**De taal op uw apparaat wijzigen:**</span><span class="sxs-lookup"><span data-stu-id="76191-105">**To change the language on your device**:</span></span> 
 
-<span data-ttu-id="fe020-106">**Voor Android**:</span><span class="sxs-lookup"><span data-stu-id="fe020-106">**On Android**:</span></span> 
+<span data-ttu-id="76191-106">**Op Android:**</span><span class="sxs-lookup"><span data-stu-id="76191-106">**On Android**:</span></span> 
 
-- <span data-ttu-id="fe020-107">Instellingen voor apparaten > taal en invoer</span><span class="sxs-lookup"><span data-stu-id="fe020-107">Device Settings > Language and input</span></span> 
+- <span data-ttu-id="76191-107">Apparaatinstellingen > taal en invoer</span><span class="sxs-lookup"><span data-stu-id="76191-107">Device Settings > Language and input</span></span> 
 
-<span data-ttu-id="fe020-108">**Voor IOS**:</span><span class="sxs-lookup"><span data-stu-id="fe020-108">**On iOS**:</span></span> 
+<span data-ttu-id="76191-108">**Op iOS:**</span><span class="sxs-lookup"><span data-stu-id="76191-108">**On iOS**:</span></span> 
 
-- <span data-ttu-id="fe020-109">Instellingen voor apparaten > algemeen > taal & regio</span><span class="sxs-lookup"><span data-stu-id="fe020-109">Device Settings > General > Language & Region</span></span> 
+- <span data-ttu-id="76191-109">Apparaatinstellingen > Algemene > taal & regio</span><span class="sxs-lookup"><span data-stu-id="76191-109">Device Settings > General > Language & Region</span></span> 
