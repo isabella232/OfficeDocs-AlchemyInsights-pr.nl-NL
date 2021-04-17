@@ -1,8 +1,8 @@
 ---
-title: OCM wordt in juni 2020 teruggetrokken
+title: OCM wordt in juni 2020 met pensioen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 045ba28f29fcd37b7cbf7d5566bd4ae5c7210fe6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704817"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833538"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM wordt in juni 2020 teruggetrokken
+# <a name="ocm-to-be-retired-june-2020"></a>OCM wordt in juni 2020 met pensioen
 
 
-Vanaf **30 juni 2020** worden de invoegversie van Outlook Customer Manager en de mobiele app niet meer gebruikt. U kunt **vóór** **deze datum gegevens exporteren.**  
+Met **ingang van 30 juni 2020** worden de invoegversie van Outlook Customer Manager en de mobiele app ingetrokken. U kunt **gegevens hieruit** exporteren **vóór deze datum.**  
 
-U kunt controleren wie in uw organisatie een abonnement heeft op Microsoft 365 Business Standard (voorheen Bekend als Office 365 Business Premium) of Microsoft 365 Business Premium (voorheen Microsoft 365 Business) met rechten voor Outlook Customer Manager door hier te [klikken.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
+U kunt controleren wie in uw organisatie een Microsoft 365 Business Standard -abonnement (voorheen Bekend als Office 365 Business Premium) of Microsoft 365 Business Premium (voorheen Bekend als Microsoft 365 Business) heeft met rechten op Outlook Customer Manager door hier [te](https://admin.microsoft.com/AdminPortal/Home?ref=/users)klikken.
 
 Zie voor meer informatie:
 

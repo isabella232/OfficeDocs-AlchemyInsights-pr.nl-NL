@@ -1,8 +1,8 @@
 ---
-title: Problemen met Apple Watch
+title: Problemen met de Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700018"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832269"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Problemen met Apple Watch
+# <a name="trouble-with-the-apple-watch"></a>Problemen met de Apple Watch
 
-Als u problemen ondervindt bij het gebruiken van Outlook op het Apple Watch, zijn dit enkele stappen voor probleemoplossing: 
+Als u problemen hebt met het gebruik van Outlook op de Apple Watch, volgen hier enkele stappen voor het oplossen van problemen: 
 
-1. Ga naar de app kijken op de iPhone.
+1. Ga naar de app Watch op iPhone.
 
 2. Schuif naar de Outlook-app.
 
-3. Schakel de optie app op Apple Watch weergeven **uit** om de installatie ongedaan te maken.
+3. Schakel 'App tonen op Apple Watch' in **op UIT** om de installatie te verwijderen.
 
-4. Schakel ' app weergeven op Apple Watch ' **in om** de app opnieuw te installeren.
+4. Schakel 'App tonen op Apple Watch' in **op AAN** om de app opnieuw te installeren op de Watch.
 
-5. Start de Outlook-app op het Apple Watch en wacht tot de laatste keer dat er gegevens worden gesynchroniseerd. 
+5. Start de Outlook-app op de Apple Watch en wacht totdat gegevens worden gesynchroniseerd naar het nieuwste. 
 
-Als het probleem niet is opgelost, kan het ondersteuningsteam u helpen. Ga naar **instellingen > Help & Feedback > neem contact op met de ondersteuning**. 
+Als uw probleem niet is opgelost, helpt het ondersteuningsteam u graag. Ga naar **Instellingen > Help & feedback > Contact opnemen met ondersteuning.** 

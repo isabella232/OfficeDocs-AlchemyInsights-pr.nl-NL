@@ -1,25 +1,26 @@
 ---
-title: Automatische antwoorden op Out Of Office oplossen
+title: 'Probleemoplossing automatische Niet aanwezig antwoorden '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 761ce82515eb264ea3266ccf20948a5ca470a1ec
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707718"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832233"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Automatische antwoorden op Out Of Office oplossen
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Probleemoplossing automatische Niet aanwezig antwoorden 
 
-Een breed scala aan mogelijke oorzaken kan de reden zijn voor problemen, afhankelijk van hoe u de automatische antwoorden van Out of Office hebt geconfigureerd.
+Een breed scala aan mogelijke problemen kunnen de reden zijn voor problemen, afhankelijk van hoe u uw automatische Niet aanwezig antwoorden heeft ingesteld.
 
-Voor een dieper begrip van waar het probleem zou kunnen zijn, lees [Begrijpen en het oplossen van problemen Out of Office (OOF) antwoorden](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Raadpleeg om beter te begrijpen wat het probleem zou kunnen zijn [Niet aanwezig antwoorden begrijpen en probleemoplossing](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)

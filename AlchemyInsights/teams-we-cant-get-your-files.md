@@ -1,8 +1,8 @@
 ---
-title: We kunnen uw bestanden niet vinden
+title: We kunnen uw bestanden niet downloaden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5748"
 - "9003042"
-ms.openlocfilehash: bc7370b4b6f47c9bbf532e23b0439b8204c24b70
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 833f794d079eeed7042362ac440ca85659c30625
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803482"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833322"
 ---
-# <a name="we-cant-get-your-files"></a>We kunnen uw bestanden niet vinden
+# <a name="we-cant-get-your-files"></a>We kunnen uw bestanden niet downloaden
 
-Gebruikers zien deze fout als ze geen lid zijn van het team. Voeg de gebruiker toe aan de groep om deze toegang tot de groepssite te geven.
+Gebruikers kunnen deze fout zien als ze geen lid van het team zijn. Voeg de gebruiker toe aan de groep om ze toegang te geven tot de groepssite.
 
-- Zie [leden toevoegen aan een team in teams](https://support.office.com/article/add-people-to-a-team-aff2249d-b456-4bc3-81e7-52327b6b38e9)voor meer informatie over het toevoegen van een gebruiker aan een team.
-- Zie [een site delen](https://support.office.com/article/Share-a-site-958771A8-D041-4EB8-B51C-AFEA2EAE3658)voor meer informatie over het rechtstreeks delen van een site.
+- Zie Leden toevoegen aan een team in Teams voor meer informatie over het toevoegen van een gebruiker [aan een team.](https://support.office.com/article/add-people-to-a-team-aff2249d-b456-4bc3-81e7-52327b6b38e9)
+- Zie Een site delen voor meer informatie over het rechtstreeks delen [van een site.](https://support.office.com/article/Share-a-site-958771A8-D041-4EB8-B51C-AFEA2EAE3658)
 
-Deze fout kan ook optreden als de groep geen verbinding heeft met het SharePoint-Team. Zie [verbinding maken met een Microsoft 365-groep](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) voor meer informatie over het verbinden van een groep met een SharePoint-site.
+Deze fout kan ook optreden als de groep niet is verbonden met het SharePoint-team. Zie Verbinding maken met een [Microsoft 365-groep](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) voor meer informatie over het verbinden van een groep met een SharePoint-site

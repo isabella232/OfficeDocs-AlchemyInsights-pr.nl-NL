@@ -2,21 +2,22 @@
 title: Meldingen in Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002878"
 - "5480"
-ms.openlocfilehash: ff4c13560b9cbf283e5c6b92a259debdf96cca62
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 8e7c03f2b557a7d3c409b2ee418df055d0569ee6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911898"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833574"
 ---
 # <a name="notifications-in-yammer"></a>Meldingen in Yammer
 

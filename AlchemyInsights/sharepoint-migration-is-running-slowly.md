@@ -2,27 +2,28 @@
 title: Waarom kan ik dit bestand niet bewerken?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: aa27d36a4a16eb43c2879b6ecbd03069d567de4e
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
-ms.translationtype: MT
+ms.openlocfilehash: f0e3992ff88e57aa595790b0ef77ff2a1acb4680
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44236358"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833502"
 ---
-# <a name="sharepoint-migration-is-running-slowly"></a>SharePoint-migratie wordt langzaam uitgevoerd
+# <a name="sharepoint-migration-is-running-slowly"></a>SharePoint Migration is langzaam
 
 Migratieprestaties kunnen worden beïnvloed door netwerkinfrastructuur, bestandsgrootte, migratietijd en beperking. Een beter begrip van deze factoren kan u helpen bij het plannen en maximaliseren van een efficiënte migratie.
 
-Zie voor meer informatie:
+Voor meer informatie, zie:
 
 - [Ik ervaar slechte prestaties of beperkingen tijdens de migratie](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)
 - [Algemene richtlijnen voor migratieprestaties](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

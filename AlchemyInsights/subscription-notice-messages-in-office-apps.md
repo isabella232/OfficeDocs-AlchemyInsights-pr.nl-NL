@@ -1,24 +1,25 @@
 ---
-title: Berichten over abonnementen in Office-apps
+title: Berichten over abonnementen in Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 1a09075b4092573054c594224387980598b6f8a1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789189"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832449"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Berichten over abonnementen in Office-apps
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Berichten over abonnementen in Microsoft 365-apps
 
 - Als Office al is geïnstalleerd op uw nieuwe apparaat, raadpleegt u [Office activeren](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) voor hulp bij het activeren van Office op een nieuw apparaat.
 
@@ -32,7 +33,7 @@ ms.locfileid: "43789189"
 
 - Voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) uit en start de computer opnieuw op.
 
-- [Stel de activeringsstatus van Office opnieuw in](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) op de betreffende computer.
+- [Stel de activeringsstatus van Office opnieuw in](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) op de betreffende computer.
 
 Voor gedetailleerde instructies raadpleegt u: 
 

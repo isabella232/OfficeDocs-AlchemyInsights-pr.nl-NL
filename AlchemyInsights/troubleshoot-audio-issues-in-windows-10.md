@@ -1,8 +1,8 @@
 ---
-title: Audioproblemen oplossen in Windows 10
+title: Problemen met audio in Windows 10 oplossen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750302"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833286"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Audioproblemen oplossen in Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Problemen met audio oplossen in Windows 10
 
 **De probleemoplosser voor audio uitvoeren**
 
-1.  Open de [instellingen voor probleemoplossing](ms-settings:troubleshoot).
+1.  Open de [instellingen voor probleemoplossing.](ms-settings:troubleshoot)
 
-2.  Selecteer **Audio afspelen**als u  >  **de probleemoplosser wilt uitvoeren**.
+2.  Selecteer **Audio afspelen** Voer de  >  **probleemoplosser uit.**
 
 **Het standaardapparaat instellen**
 
-Als u verbinding maakt met een audioapparaat via USB of HDMI, moet u dat apparaat mogelijk als standaard instellen.
+Als u verbinding maakt met een audioapparaat via USB of HDMI, moet u dat apparaat mogelijk instellen als de standaardinstelling:
 
-1. Open het **Start**  >  **geluid**en selecteer vervolgens **geluiden** of **Wijzig systeemgeluiden** in de lijst met resultaten.
+1. Open **Geluid** starten en selecteer vervolgens Geluid of  >   **Systeemgeluiden wijzigen** in de lijst met resultaten. 
 
-2.  Selecteer een apparaat op het tabblad **afspelen** , selecteer **standaard instellen**en klik vervolgens op **OK**.
+2.  Selecteer op **het** tabblad Afspelen een apparaat, selecteer **Standaard instellen** en selecteer **ok.**
 
 **Kabels, volume, luidsprekers en hoofdtelefoon controleren**
 
-1. Controleer uw luidspreker-en hoofdtelefoonaansluitingen voor losse kabels en zorg ervoor dat deze zijn aangesloten op de juiste stekker.
+1. Controleer de luidspreker- en hoofdtelefoonverbindingen op losse kabels en controleer of deze zijn aangesloten op de juiste aansluiting.
 
-2. Controleer de energie-en volumeniveaus en schakel alle volumeregeling in.
+2. Controleer de machts- en volumeniveaus en probeer alle volumebesturingselementen omhoog te draaien.
 
-3. Sommige luidsprekers en apps beschikken over hun eigen volumeregeling; het kan zijn dat u deze allemaal moet controleren om ervoor te zorgen dat ze zich op de juiste niveaus bevinden.
+3. Sommige luidsprekers en apps hebben hun eigen volumebesturingselementen. Mogelijk moet u ze allemaal controleren om te controleren of ze zich op de juiste niveaus hebben.
 
 4. Probeer verbinding te maken met een andere USB-poort.
 
-**Opmerking**: Vergeet niet dat uw luidsprekers niet werken wanneer de hoofdtelefoon is aangesloten.
+**Opmerking:** Houd er rekening mee dat uw luidsprekers mogelijk niet werken wanneer een hoofdtelefoon is aangesloten.
 
 **Apparaatbeheer controleren**
 
-Ga als volgt te werk om ervoor te zorgen dat de bestuurders up-to-date zijn:
+Als u wilt controleren of de stuurprogramma's up-to-date zijn:
 
-1. Selecteer **Start**, typ **Apparaatbeheer**en selecteer vervolgens **Apparaatbeheer** in de lijst met resultaten.
+1. Selecteer **Start,** typ **Apparaatbeheer** en selecteer **vervolgens Apparaatbeheer** in de lijst met resultaten.
 
-2. Selecteer de geluidskaart onder **Audio-, video-en game controllers**, open de geluidskaart, selecteer het tabblad **stuurprogramma** en selecteer **Driver bijwerken**.
+2. Selecteer **onder Geluids-, video- en gamecontrollers** uw  geluidskaart, open deze, selecteer het tabblad Stuurprogramma en selecteer **Stuurprogramma bijwerken.**
 
-**Opmerking**: als er geen nieuw stuurprogramma wordt gevonden, gaat u naar een van de website van de fabrikant van het apparaat en volgt u de instructies.
+**Opmerking:** Als Windows geen nieuw stuurprogramma vindt, zoek dan een stuurprogramma op de website van de fabrikant van het apparaat en volg de instructies.
 
 **Het stuurprogramma opnieuw installeren**
 
-Voer de volgende stappen uit als u niet kunt bijwerken via Apparaatbeheer of een nieuw stuurprogramma kunt vinden op de website van de fabrikant:
+Als u niet kunt bijwerken via Device Manager of een nieuw stuurprogramma op de website van de fabrikant kunt vinden, gaat u als volgende stappen te werk:
 
-1. Klik in Apparaatbeheer met de rechtermuisknop op het audiostuurprogramma (of tik erop en houd dit ingedrukt) en selecteer **verwijderen**. Start het apparaat opnieuw op en Windows zal proberen het stuurprogramma opnieuw te installeren.
+1. Klik in Apparaatbeheer met de rechtermuisknop op het audiostuurapparaat (of houd het ingedrukt) en selecteer **Verwijderen.** Start uw apparaat opnieuw op en Windows probeert het stuurprogramma opnieuw te installeren.
 
-2. Als het opnieuw installeren van het stuurprogramma niet werkt, gebruikt u het algemene audiostuurprogramma van Windows. In Apparaatbeheer klikt u met de rechtermuisknop op uw audiostuurprogramma (of tik erop en houd dit vast) > **stuurprogramma**voor het bijwerken van het stuurprogramma  >  op**mijn computer voor stuurprogrammasoftware**  >  , selecteert u in**de lijst met Stuurprogramma's op mijn computer**de optie **high definition audio-apparaat**, selecteert u **volgende**en volgt u de instructies om het programma te installeren.
+2. Als het opnieuw installeren van het stuurprogramma niet werkt, gebruikt u het algemene audiostuurapparaat dat bij Windows wordt geleverd. Klik **in** Apparaatbeheer met de rechtermuisknop op uw audio-stuurprogramma (of houd deze ingedrukt) > Stuurprogrammasoftware bijwerken Blader op mijn computer naar stuurprogrammasoftware Laat me kiezen uit een lijst met apparaat stuurprogramma's op mijn  >    >  **computer,** selecteer **High Definition AudioApparaat,** selecteer **Volgende** en volg de instructies om het te installeren.

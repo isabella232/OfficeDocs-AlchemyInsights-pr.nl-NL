@@ -2,7 +2,7 @@
 title: Skype voor Bedrijven installeren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51e9c110fd1874d688b92e1d8098186eddf29953
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778254"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832053"
 ---
 # <a name="install-skype-for-business"></a>Skype voor Bedrijven installeren
 
-U kunt Skype voor bedrijven installeren door [de volgende stappen uit te voeren.](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
+U kunt Skype voor Bedrijven installeren door de stappen hier [te volgen.](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
 
-Zie [Skype voor bedrijven verwijderen](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)voor meer informatie over het verwijderen van de installatie.
+Zie [Skype](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)voor Bedrijven verwijderen voor meer informatie over het verwijderen.
