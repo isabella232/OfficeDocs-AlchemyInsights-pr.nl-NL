@@ -1,8 +1,8 @@
 ---
-title: Windows 10 voor de eerste keer activeren of na opnieuw installeren
+title: Windows 10 voor het eerst of na het opnieuw installeren activeren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698164"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823062"
 ---
 # <a name="activate-windows-10"></a>Windows 10 activeren
 
-**Windows 10 activeren na de installatie voor de eerste keer:**
+**Als u Windows 10 wilt activeren na de eerste installatie:**
 
-- U moet een geldige productcode gebruiken om Windows 10 te activeren op een apparaat waarop nooit een geactiveerde versie van Windows 10 is geactiveerd.
-- U moet ook een geldige productcode hebben als u een editie van Windows 10 installeert die niet eerder met het apparaat is geactiveerd. Als u bijvoorbeeld Windows 10 Pro wilt installeren en activeren op een apparaat waarop Windows 10 voor thuisgebruik is geïnstalleerd, hebt u een geldige productcode voor Windows 10 Pro nodig.
-- Tijdens de installatie wordt u gevraagd een geldige productcode op te geven. Wanneer de installatie is voltooid, wordt Windows 10 automatisch online geactiveerd. Als u de activeringsstatus van Windows 10 wilt controleren **, selecteert u** >  Update-**instellingen**  >  **bijwerken & beveiligings**  >  **Activering**.
+- U moet een geldige productcode gebruiken om Windows 10 te activeren op een apparaat dat nog nooit een geactiveerde kopie van Windows 10 heeft staan.
+- U hebt ook een geldige productcode nodig als u een versie van Windows 10 installeert die nog niet eerder op het apparaat is geactiveerd. Als u bijvoorbeeld Windows 10 Pro wilt installeren en activeren op een apparaat waar Windows 10 Home is geïnstalleerd, hebt u een geldige Windows 10 Pro-productcode nodig.
+- Tijdens de installatie wordt u gevraagd een geldige productcode in te voeren. Nadat de installatie is voltooid, wordt Windows 10 automatisch online geactiveerd. Als u de activeringsstatus in Windows 10 wilt controleren, **selecteert** u Instellingen >  **bijwerken**  >  **&**  >  **beveiligingsactivering**.
 
-**Activeren na opnieuw installeren van Windows 10:**
+**Activeren na het opnieuw installeren van Windows 10:**
 
-- Als u een gratis upgrade naar Windows 10 hebt geactiveerd of Windows 10 via de Microsoft Store hebt gekocht en geactiveerd, hebt u een digitale licentie voor uw apparaat in plaats van een productcode. Dit betekent dat u dezelfde editie van Windows 10 opnieuw kunt installeren waarop uw apparaat een digitale licentie heeft, zonder dat u een productcode hoeft in te voeren.
-- Als u tijdens de installatie een productcode wilt opgeven, selecteert u **overslaan**. Als Windows 10 op uw apparaat is geactiveerd voordat u het opnieuw installeert, wordt in de meeste gevallen automatisch geactiveerd wanneer u online bent.
+- Als u een gratis upgrade naar Windows 10 hebt geactiveerd of Windows 10 hebt gekocht en geactiveerd in de Microsoft Store, hebt u een digitale licentie voor uw apparaat in plaats van een productcode. Dit betekent dat u dezelfde versie van Windows 10 kunt installeren als waar uw apparaat een digitale licentie voor heeft zonder een productcode in te leveren.
+- Als u tijdens het opnieuw installeren wordt gevraagd een productcode in te voeren, selecteert u **Overslaan.** Als Windows 10 in de meeste gevallen is geactiveerd op uw apparaat voordat u het apparaat opnieuw installeert, wordt windows automatisch geactiveerd nadat u online bent.
