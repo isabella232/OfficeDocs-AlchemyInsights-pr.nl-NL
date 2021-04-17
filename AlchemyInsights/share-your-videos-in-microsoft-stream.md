@@ -1,8 +1,8 @@
 ---
-title: Video's in Microsoft stream delen
+title: Uw video's delen in Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8363706fbc6dc87ce06ead90a6ff68f809ca9ac4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727310"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828399"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>Video's in Microsoft stream delen
+# <a name="share-your-videos-in-microsoft-stream"></a>Uw video's delen in Microsoft Stream
 
-U wilt mogelijk Video's in Microsoft stream delen met mensen die niet anders toegang hebben. U kunt Video's op verschillende manieren delen:
+Mogelijk wilt u video's in Microsoft Stream delen met personen die anders geen toegang hebben. Er zijn verschillende manieren om uw video's te delen:
 
-- [Video's in Microsoft stream delen](https://docs.microsoft.com/stream/portal-share-video)
+- [Uw video's delen in Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
 
 - [Machtigingen voor uw video](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

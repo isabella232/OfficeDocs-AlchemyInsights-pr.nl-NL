@@ -1,8 +1,8 @@
 ---
-title: Problemen oplossen met afdrukken in Word
+title: Afdrukfouten oplossen in Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720857"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828687"
 ---
-# <a name="resolving-print-failures-in-word"></a>Afdrukproblemen oplossen in Word
+# <a name="resolving-print-failures-in-word"></a>Afdrukfouten oplossen in Word
 
-Als u in Word een fout ontvangt wanneer u afdrukt, kunt u proberen om te zien of het probleem aan een specifiek document is gerelateerd.
+Als u fouten krijgt bij het afdrukken in Word, kunt u afdrukken vanuit een nieuw testdocument om te bepalen of het probleem gerelateerd is aan een specifiek document.
 
-- Als u vanuit het testdocument kunt afdrukken, maar het oorspronkelijke document nog steeds niet kunt afdrukken, is het mogelijk dat het oorspronkelijke document beschadigd is. Volg de aanwijzingen in [het artikelproblemen met beschadigde documenten oplossen in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- Als u nog steeds niet kunt afdrukken, volgt u de instructies in [problemen met afdrukken oplossen in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) om het probleem op te sporen en op te lossen.
+- Als u vanuit het testdocument kunt afdrukken, maar het oorspronkelijke document nog steeds niet kunt afdrukken, is het oorspronkelijke document mogelijk beschadigd. Volg de instructies in [Het oplossen van beschadigde documenten in Word.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)
+- Als u nog steeds niet kunt afdrukken, volgt u de instructies in [Afdrukfouten oplossen in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) om het probleem te diagnosticeren en op te lossen.

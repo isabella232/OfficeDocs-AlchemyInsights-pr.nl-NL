@@ -2,7 +2,7 @@
 title: Verbinding maken met de MSCommerce-module
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702610"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829731"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>Voor MSCommerce is een account van een beheerder voor bedrijven of facturering vereist
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce vereist een account van de bedrijfs- of factureringsbeheerder
 
-Voor de MSCommerce-module is een account met beheerdersbevoegdheden voor de beheerder of de beheerder vereist. Als de volgende fout wordt weergegeven, moet u opnieuw verbinding maken met een ander account.
+Voor de MSCommerce-module is een account vereist met de bevoegdheden bedrijf- of factureringsbeheerder. Als u de volgende foutmelding ontvangt, moet u opnieuw verbinding maken met een ander account.
 
-*ErrorMessage-de externe server heeft een fout geretourneerd: (403) niet toegestaan. ErrorDetails-in C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 tekens: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage "kon niet worden retri...*<br>
+*ErrorMessage - De externe server heeft een fout geretourneerd: (403) Verboden. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Failed to retri ...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Schrijffout]; WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. Command. WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Neem contact op met uw IT-beheerder als u geen beheerdersrechten hebt voor uw account.
+Als uw account geen bevoegdheden voor bedrijf of factureringsbeheerder heeft, neemt u contact op met uw IT-beheerder.

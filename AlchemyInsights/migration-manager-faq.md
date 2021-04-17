@@ -1,23 +1,24 @@
 ---
-title: Veelgestelde vragen over migratiebeheer
+title: 'Migratiebeheer: veelgestelde vragen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5669"
-ms.openlocfilehash: 9fe58236a335613526948f87225e770e512a37d8
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 29ee4191464e70164795ff4049597b25b794f8d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354119"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829767"
 ---
-# <a name="migration-manager-faq"></a>Veelgestelde vragen over migratiebeheer
+# <a name="migration-manager-faq"></a>Migratiebeheer: veelgestelde vragen
 
-- Zie [veelgestelde vragen met betrekking tot migratiebeheer](https://docs.microsoft.com/sharepointmigration/mm-faqs).
+- Zie [Veelgestelde vragen over migratiebeheer](https://docs.microsoft.com/sharepointmigration/mm-faqs).

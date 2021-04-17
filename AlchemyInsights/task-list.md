@@ -1,8 +1,8 @@
 ---
-title: Takenoverzicht
+title: Takenlijst
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5780"
 - "9002971"
-ms.openlocfilehash: 93721f193c20c1a8bec3c7344aefcac192c987cf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b691b9a5136c0307a739064a2b36407e349a720b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659089"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829479"
 ---
-# <a name="task-list"></a>Takenoverzicht
+# <a name="task-list"></a>Takenlijst
 
-In een SharePoint-takenlijst wordt een verzameling taken weergegeven die deel uitmaken van een project. Nadat u een SharePoint-takenlijst hebt gemaakt, kunt u taken toevoegen, resources aan taken toewijzen, de voortgang van taken bijwerken en de taakgegevens weergeven op balken die langs een tijdlijn worden weergegeven. Zie [een takenlijst maken en beheren](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a).  
+In een SharePoint-takenlijst wordt een verzameling taken weergegeven die deel uitmaken van een project. Nadat u een SharePoint-takenlijst hebt gemaakt, kunt u taken toevoegen, resources toewijzen aan taken, de voortgang van taken bijwerken en de taakgegevens weergeven op balken die langs een tijdlijn worden weergegeven. Zie [Een takenlijst maken en beheren.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)  
 
--   De takenlijst is nog niet samengesteld om weer te geven in de moderne gebruikersinterface, dus blijf de klassieke ervaring voor takenlijsten gebruiken en zie de lijst [met moderne lijsten en bibliotheken optimaliseren](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
--   Met de functie synchroniseren met SharePoint kan een project manager een MPP-project bestanddelen met Microsoft SharePoint-gebruikers. De project manager moet deel uitmaken van de groep eigenaren van SharePoint (of met de laagste ontwerpers machtigingen) op de bovenliggende siteverzameling waar de nieuwe of bestaande site zich bevindt. Zie [synchroniseren met SharePoint-takenlijst in Project Professional](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project).
+-   Takenlijst is nog niet zo gemaakt dat deze wordt weergegeven in de moderne gebruikersinterface. Ga dus verder met het gebruik van de klassieke ervaring voor takenlijsten, zie Het gebruik van moderne lijsten [en bibliotheken maximaliseren.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+-   Met de functie Synchroniseren met SharePoint kan een Project Manager een MPP-projectbestand delen met Microsoft SharePoint-gebruikers. Projectmanager moet deel uitmaken van de groep SharePoint-eigenaren (of ten minste ontwerpermachtigingen hebben) in de bovenliggende siteverzameling waar de nieuwe of bestaande site zich bevindt. Zie [Synchroniseren met SharePoint-takenlijst van Project Professional.](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project)

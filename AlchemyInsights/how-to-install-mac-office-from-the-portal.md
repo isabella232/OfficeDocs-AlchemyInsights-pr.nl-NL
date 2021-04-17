@@ -2,7 +2,7 @@
 title: Mac Office installeren vanuit de portal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +13,12 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: fbaa197d274c476d74f5c213d6efdf47862fa6e6
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: fde99246db75dc146469f517a4071b329e071d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707769"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829335"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>Mac Office installeren vanuit de portal
 
@@ -28,4 +28,4 @@ ms.locfileid: "50707769"
 
 3. [Licenties toewijzen aan gebruikers.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-4. Gebruikers kunnen vervolgens de Office-software zelf installeren of u kunt Office implementeren [voor uw Mac-gebruikers.](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)
+4. Gebruikers kunnen de Office-software vervolgens zelf installeren of u kunt Office implementeren gebruiken [voor uw Mac-gebruikers.](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)

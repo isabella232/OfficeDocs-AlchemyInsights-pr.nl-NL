@@ -1,8 +1,8 @@
 ---
-title: Het delen van OneDrive-of SharePoint-bestanden of-mappen stoppen
+title: OneDrive- of SharePoint-bestanden of -mappen niet meer delen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: f9a9e4c958a1b70560724f1628f9ad5f95a79b4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f498cc2658a9a78fd802cffe4a947acb57f6af3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795311"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828111"
 ---
-# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>Het delen van OneDrive-of SharePoint-bestanden of-mappen stoppen
+# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a>OneDrive- of SharePoint-bestanden of -mappen niet meer delen
 
-U kunt het delen van een item stoppen, kijken met wie het item is gedeeld of de machtigingen van anderen voor een item wijzigen als u de eigenaar van het item bent.
+U kunt het delen van een item stoppen, zien met wie het item wordt gedeeld of de machtigingen wijzigen die anderen aan het item hebben, als u de eigenaar van het item bent.
 
-[Het delen van OneDrive-of SharePoint-bestanden of-mappen stoppen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+[OneDrive- of SharePoint-bestanden of -mappen niet meer delen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)

@@ -1,8 +1,8 @@
 ---
-title: QoS implementeren en de gesprekskwaliteit controleren in teams
+title: QoS implementeren en de gesprekskwaliteit in Teams controleren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667945"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829227"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>QoS implementeren en de gesprekskwaliteit controleren in teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>QoS implementeren en de gesprekskwaliteit in Teams controleren
 
-Gespreks analyse en het dashboard voor gesprekskwaliteit kunnen worden gebruikt om problemen met de gesprekskwaliteit in Microsoft teams op te lossen. Zie [QoS implementeren en de gesprekskwaliteit controleren in Microsoft teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)voor meer informatie over Quality of service (QoS), oproep analyse en het dashboard voor gesprekskwaliteit (CQD). 
+Gespreksanalyse en het dashboard Gesprekskwaliteit kunnen worden gebruikt om problemen met gesprekskwaliteit in Microsoft Teams op te lossen. Zie QoS implementeren en gesprekskwaliteit bewaken in Microsoft Teams voor meer informatie over QoS (Quality of Service), Call Analytics en het Dashboard [Gesprekskwaliteit](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)(CQD). 
