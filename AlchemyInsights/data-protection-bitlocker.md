@@ -1,8 +1,8 @@
 ---
-title: DataProtection-BitLocker
+title: DataProtection - Bitlocker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
-ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
+ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778188"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815610"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>BitLocker-versleuteling inschakelen met intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Bitlocker-versleuteling inschakelen met Intune
 
-Het beleid voor het intune-endpoint voor beveiliging kan worden gebruikt voor het configureren van BitLocker-versleutelingsinstellingen voor Windows-apparaten. Zie voor meer informatie de [instellingen van Windows 10 (en later) om apparaten te beschermen met intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+Intune Endpoint Protection Policy kan worden gebruikt voor het configureren van Bitlocker-versleutelingsinstellingen voor Windows-apparaten. Zie Windows [10 (en hoger)](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)instellingen voor het beveiligen van apparaten met Intune voor meer informatie.
 
-Naast de Endpoint Protection-beleidsregels wordt ook een versleutelings rapport weergegeven met een gedetailleerde weergave van de versleutelingsstatus voor apparaten. Dit rapport kan worden geopend vanuit de portal van MEM onder **apparaten > monitor**, en selecteer vervolgens onder **configuratie** [versleutelings rapport](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)selecteren.
+Naast het endpointbeveiligingsbeleid is er ook een versleutelingsrapport dat een gedetailleerdere weergave biedt van de versleutelingsstatus voor apparaten. Dit rapport kan worden geopend vanuit de MEM-portal onder **Apparaten > Monitor** en vervolgens onder **Configuratie** selecteer [Versleutelingsrapport](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
 
-Als BitLocker niet op de verwachte manier kan worden ingeschakeld of als het profiel wordt gebruikt voor het inschakelen van BitLocker een foutstatus, controleert u het versleutelings rapport zodat u beter kunt begrijpen waarom het gedrag zich voordoet.
+Als u vindt dat Bitlocker niet is ingeschakeld zoals verwacht of als het profiel dat wordt gebruikt om Bitlocker in te stellen een fouttoestand heeft, raadpleegt u het versleutelingsrapport om beter te begrijpen waarom het gedrag optreedt.
 
-Zie [apparaatversleuteling met intune controleren](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)voor meer informatie over het interpreteren van het rapport en de diverse waarden voor de versleutelingsstatus.
+Zie Apparaatversleuteling controleren met [Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)voor meer informatie over het interpreteren van het rapport, inclusief de verschillende waarden voor versleutelingsstatus.
 
-U dient te beseffen dat veel nieuwere apparaten met Windows 10 automatische BitLocker-versleuteling ondersteunen, die wordt geactiveerd zonder de toepassing van MDM-beleid. Dit kan van invloed zijn op de toepassing van beleid als niet-standaardinstellingen zijn geconfigureerd. Zie de volgende veelgestelde vragen voor meer informatie.
+U moet er rekening mee houden dat veel nieuwere apparaten met Windows 10 automatische Bitlocker-versleuteling ondersteunen, die wordt geactiveerd zonder de toepassing van MDM-beleid. Dit kan van invloed zijn op de toepassing van beleid als niet-standaardinstellingen zijn geconfigureerd. Zie de volgende veelgestelde vragen voor meer informatie.
 
-Voor informatie over het oplossen van problemen met BitLocker, raadpleegt u [problemen met BitLocker-beleid in Microsoft intune oplossen](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Zie BitLocker-beleid in Microsoft Intune oplossen voor informatie over het oplossen van [bitlockerproblemen.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
  
  
 **Veelgestelde vragen**
 
-V: welke versies van Windows ondersteunen apparaatversleuteling met het Endpoint Protection-beleid?<br>
-A: de instellingen in intune-Endpoint Protection-beleid worden geïmplementeerd met de [BitLocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Niet alle edities of versies van Windows ondersteunen de BitLocker CSP. <br><br>
+V: Welke versies van Windows ondersteunen apparaatversleuteling met het endpointbeveiligingsbeleid?<br>
+A: De instellingen in het Intune Endpoint Protection Policy worden geïmplementeerd met de [Bitlocker CSP.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Niet alle versies of builds van Windows ondersteunen de Bitlocker CSP. <br><br>
 
-V: hoe kan BitLocker worden ingeschakeld op apparaten zonder dat de interactie met eindgebruikers is vereist?<br>
-A: zo lang de noodzakelijke voorwaarden zijn aan te passen, kunt u BitLocker ' stille versleuteling ' inschakelen via intune. Zie de details van de hardwarevereisten en de voorbeeld beleidsinstellingen voor het inschakelen van de Stille versleuteling in het volgende document: [BitLocker-versleuteling](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)op de achtergrond inschakelen. <br><br>
+V: Hoe kan Bitlocker worden ingeschakeld op apparaten zonder tussenkomst van de eindgebruiker?<br>
+A: Zolang aan de vereiste vereisten wordt voldaan, kunt u Bitlocker 'Silent Encryption' inschakelen via Intune. Zie de details van de apparaatvereisten en voorbeeldbeleidsinstellingen voor het inschakelen van stille versleuteling in het volgende document: Bitlockerversleuteling stil [inschakelen.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
 
-V: als een apparaat al met BitLocker is versleuteld met de standaardinstellingen van het besturingssysteem voor versleutelingsmethode en versleutelingssterkte (XTS-AES-128), wordt een beleid toegepast met andere instellingen om het station automatisch opnieuw te versleutelen met de nieuwe instellingen?<br>
-A: Nee. Als u de nieuwe versleutelingsinstellingen wilt toepassen, moet het station eerst worden gedecodeerd.<br><br>
-**Opmerking:** Voor apparaten die met auto pilot worden ingeschreven, wordt de automatische versleuteling die zich in OOBE voordoet, niet geactiveerd totdat het intune-beleid wordt geëvalueerd, zodat de instellingen op basis van het beleid kunnen worden gebruikt in plaats van de standaardinstellingen van het besturingssysteem.
+V: Als een apparaat al is versleuteld met Bitlocker met behulp van de standaardinstellingen van het besturingssysteem voor versleutelingsmethode en codeersterkte (XTS-AES-128), wordt er automatisch een beleid met verschillende instellingen toegepast waarmee de versleuteling van het station automatisch wordt geactiveerd met de nieuwe instellingen?<br>
+A: Nee. Als u de nieuwe coderingsinstellingen wilt toepassen, moet het station eerst worden ontsleuteld.<br><br>
+**Opmerking:** Voor apparaten die zijn geregistreerd met Autopilot, wordt de automatische versleuteling die zou plaatsvinden tijdens OOBE pas geactiveerd als het Intune-beleid is geëvalueerd, zodat de beleidsinstellingen kunnen worden gebruikt in plaats van de standaardinstellingen van het besturingssysteem.
  
-V: als een apparaat is versleuteld als gevolg van de toepassing van intune-beleid, wordt deze gedecodeerd wanneer dat beleid wordt verwijderd?<br>
-A: het verwijderen van het versleutelingsbeleid veroorzaakt geen decodering van de stations die zijn geconfigureerd.
+V: Als een apparaat is versleuteld als gevolg van de toepassing van het Intune-beleid, wordt het dan ontsleuteld wanneer dat beleid wordt verwijderd?<br>
+A: Verwijdering van versleutelingsgerelateerde beleid resulteert NIET in ontsleuteling van de stations die zijn geconfigureerd.
  
-V: Waarom wordt in het nalevingsbeleid van intune aangegeven dat mijn apparaat BitLocker niet heeft ingeschakeld, ook niet als dit is?<br>
-A: de instelling ' BitLocker ingeschakeld ' in het intune-nalevingsbeleid maakt gebruik van de client (DHA) voor Windows-apparaatstatusverklaring. Dit is alleen van toepassing op de status van het apparaat tijdens het opstarten. Als een apparaat na voltooiing van BitLocker-versleuteling niet opnieuw is opgestart, meldt de DHA client service geen BitLocker als actief.
+V: Waarom wordt in het Compliancebeleid van Intune laten zien dat bitlocker op mijn apparaat niet is ingeschakeld, ook al is dat zo?<br>
+A: De instelling 'Bitlocker enabled' in de Intune Compliance Policy maakt gebruik van de Windows Device Health Attestation (DHA) client. Deze client meet alleen de apparaattoestand tijdens het opstarten. Dus als een apparaat niet opnieuw is opgestart sinds Bitlocker-versleuteling is voltooid, wordt Bitlocker niet als actief door de DHA-clientservice rapporteren.
  
  

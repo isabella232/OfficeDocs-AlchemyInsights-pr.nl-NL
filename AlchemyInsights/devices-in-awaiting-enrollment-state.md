@@ -1,8 +1,8 @@
 ---
-title: Voor apparaten wordt de inschrijvings status niet in de wachtstand gebruikt
+title: Apparaten zijn in afwachting van inschrijvingstoestand
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730730"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815349"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>De status van apparaten is aangemeld
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Apparaten hebben de status Wachten op inschrijving
 
-Bureaublad analyse biedt geen diagnostische gegevens voor dit apparaat. 
+DesktopAnalyse heeft geen diagnostische gegevens voor dit apparaat. 
 
-Dit probleem kan zich voordoen omdat u het apparaat onlangs hebt toegevoegd aan de doelverzameling en nog geen gegevens hebt verzonden. Het kan ook betekenen dat het apparaat niet correct communiceert met de service en dat de meest recente diagnostische gegevens langer dan 28 dagen oud zijn.
+Dit probleem kan optreden omdat u het apparaat onlangs hebt toegevoegd aan de doelverzameling en er nog geen gegevens zijn verzonden. Dit kan ook betekenen dat het apparaat niet goed communiceert met de service en dat de meest recente diagnostische gegevens meer dan 28 dagen oud zijn.
 
-Zorg dat het apparaat kan communiceren met de service. Zie [eindpunten](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)voor meer informatie.
+Zorg ervoor dat het apparaat met de service kan communiceren. Zie Eindpunten voor [meer informatie.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Zie [Verbindingsstatus controleren](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)voor meer informatie over de wachtstand van de wacht op inschrijving.
+Zie Verbindingsstatus controleren voor meer informatie over de status van de verwachte [inschrijving.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

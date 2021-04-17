@@ -1,8 +1,8 @@
 ---
-title: Bij het downloaden van een bericht tracering wordt deze fout niet herkend in de aangepaste fout module
+title: Als u een aangepaste foutmodule krijgt, wordt deze fout niet herkend bij het downloaden van een berichtspoor?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731954"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815754"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>De foutmelding ' de module aangepaste fout wordt niet herkend ' bij het downloaden van een bericht tracering?
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Krijgt u 'aangepaste foutmodule herkent deze fout niet' bij het downloaden van een berichtspoor?
 
-We zijn op de hoogte van het probleem en werken aan een oplossing.  U kunt in de tussentijd **uw browsercache wissen**of de InPrivate-modus gebruiken om dit probleem op te lossen.
+We zijn op de hoogte van het probleem en werken aan een oplossing.  Probeer ondertussen uw **browsercache te** wissen of gebruik de InPrivate-modus om dit probleem op te lossen.

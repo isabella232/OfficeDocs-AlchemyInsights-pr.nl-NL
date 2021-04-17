@@ -2,7 +2,7 @@
 title: Een bestandsaanvraag maken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: db3169c3ffd69af0987d6beb8a8142b6ca385253
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746934"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816006"
 ---
 # <a name="how-to-create-a-file-request"></a>Een bestandsaanvraag maken
 
-Met de functie voor bestandsaanvragen in OneDrive kunt u een map kiezen waarin anderen bestanden kunnen uploaden met een koppeling die u kunt verzenden. De gebruikers van wie u bestanden vraagt, kunnen niet zien wat de map is en ze kunnen alleen bestanden uploaden naar de map.
+Met de functie bestandsaanvraag in OneDrive kunt u een map kiezen waarin anderen bestanden kunnen uploaden via een koppeling die u ze verzendt. De gebruikers van wie u bestanden aanvraagt, kunnen niet zien wat er in de map staat. Ze kunnen alleen bestanden naar de map uploaden.
 
-**Opmerking**: een beheerder moet [iedereen](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive in te schakelen, zodat de bestands verzoeken werken.
+**Opmerking:** Een beheerder moet Koppelingen [van iedereen](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive inschakelen zodat bestandsaanvragen kunnen werken.
 
-- Zie [een bestandsaanvraag maken](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)voor meer informatie.
+- Zie Een [bestandsaanvraag maken voor meer informatie.](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)

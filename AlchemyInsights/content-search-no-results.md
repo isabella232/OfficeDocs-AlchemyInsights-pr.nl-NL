@@ -1,8 +1,8 @@
 ---
-title: Inhoud zoeken geen resultaten
+title: Inhoud zoeken zonder resultaten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680642"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816843"
 ---
-# <a name="no-results-from-content-searchexports"></a>Geen resultaten van inhouds zoekactie/-uitvoer
+# <a name="no-results-from-content-searchexports"></a>Geen resultaten van Inhoud zoeken/exporteren
 
-Problemen bij het zoeken naar inhoud en exporteren van inhoud kan worden veroorzaakt door een bepaald nalevings beveiligings filter dat door een specifieke beheerder is ingesteld en de communicatie met de beheerder niet naar alle beheerders hoeft te communiceren.
+Problemen met Inhoud zoeken/exporteren die geen gegevens retourneren, kunnen het gevolg zijn van bepaalde compliancebeveiligingsfilters die zijn ingesteld door een specifieke beheerder en die niet aan alle beheerders zijn door te geven.
 
-U kunt dit oplossen door te controleren of er beveiligings filters voor compliance zijn die dit mogelijk veroorzaken:
-1. Verbinding maken met PowerShell van Beveiligingscentrum en compliance
-2. Voer de volgende Commandlets:
+Als u dit wilt oplossen, controleert u of er compliancebeveiligingsfilters zijn die dit kunnen veroorzaken:
+1. Verbinding maken met Powershell voor beveiligings- en compliancecentrum
+2. Voer de volgende opdrachtlets uit:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-organisatie $org
+<br>Get-ComplianceSecurityFilter -Organisatie $org

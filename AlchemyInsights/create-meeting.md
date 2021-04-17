@@ -1,8 +1,8 @@
 ---
-title: Een vergadering plannen in teams
+title: Een vergadering plannen in Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746898"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815970"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Een vergadering plannen in teams
+# <a name="schedule-a-meeting-in-teams"></a>Een vergadering plannen in Teams
 
-**Belangrijk** Als u problemen ondervindt bij het maken van een vergadering of het niet mogelijk is om de vergadering te vinden in teams, controleert u of gebruikers van invloed zijn op een ingeschakeld Exchange-postvak op een ondersteunde versie voor Microsoft teams. Terwijl Exchange Online wordt aanbevolen, worden Exchange on-premises postvakken ondersteund op Exchange Server 2016 CU3 of later met OAuth is geconfigureerd tussen online en on-premises. Zie voor meer informatie [gebruikerspostvakken maken in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) en [vereisten voor postvakken die on-premises worden gehost](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Belangrijk** Als er problemen zijn bij het maken van een vergadering of als u de optie voor de vergadering niet kunt vinden in Teams, moet u ervoor zorgen dat de betreffende gebruiker(s) een Ingeschakeld Exchange-postvak hebben in een ondersteunde versie voor Microsoft Teams. Hoewel Exchange Online wordt aanbevolen, worden On-Premises Exchange-postvakken ondersteund op Exchange Server 2016 CU3 of hoger met OAuth die is geconfigureerd tussen Online en On-Premises. Zie Gebruikerspostvakken maken [in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) en Vereisten voor postvakken die [on-premises worden gehost](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises)voor meer informatie. 
 
 1. U kunt een vergadering plannen door het volgende te selecteren:
 
-    - **Een pictogram voor een vergadering plannen** in een chat onder het vak opstellen om een vergadering te boeken met de personen in het chatgesprek.
+    - **Plan een pictogram voor** een vergadering in een chat onder het op te stellen vak om een vergadering te boeken met de personen in de chat.
 
-    - **Agenda** pictogram aan de linkerkant van de app. Selecteer **nieuwe vergadering** in de rechterbovenhoek of selecteer een tijdsinterval in uw agenda om een plannings formulier te openen.
+    - **Agendapictogram** aan de linkerkant van de app. Selecteer **Nieuwe vergadering** rechtsboven of selecteer een tijdsbereik in uw agenda om een planningsformulier te openen.
 
-2. Als u een vergadering wilt plannen in Outlook, geeft u de vergadering een titel, nodig u personen uit en voegt u vergaderingen toe.
+2. Net als bij het plannen van een vergadering in Outlook, geeft u uw vergadering een titel, nodigt u personen uit en voegt u details van vergaderingen toe.
 
-3. Aan de rechterkant van het plannings formulier kunt u een kanaal of afzonderlijke personen toevoegen, of leeg laten als u een privé-afspraak wilt plannen.
+3. Aan de rechterkant van het planningsformulier kunt u een kanaal of afzonderlijke personen toevoegen of beide leeg laten om een persoonlijke afspraak te plannen.
 
-Zie [een vergadering plannen in teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)voor meer informatie over het maken en plannen van vergaderingen in Microsoft teams.
+Zie Een vergadering plannen in Teams voor meer informatie over het maken en plannen van vergaderingen in Microsoft [Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Zie [limieten en specificaties voor Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)voor meer informatie over limieten en specificaties voor vergaderingen.
+Zie Limieten en specificaties voor Microsoft Teams voor meer informatie over limieten en specificaties [voor vergaderingen.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Zie [problemen met Microsoft teams en Exchange Server oplossen](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)voor hulp bij het oplossen van teams en Exchange-subacties, met name voor het oplossen van problemen met de overdracht van gemachtigden
+Zie Problemen met de interactie tussen Microsoft Teams en Exchange Server oplossen voor hulp bij het oplossen van Teams- en Exchange-interacties, met name voor problemen met het plannen van [gedelegeerden.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

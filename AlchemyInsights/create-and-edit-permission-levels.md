@@ -2,7 +2,7 @@
 title: Werken met SharePoint-machtigingsniveaus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: db92439091859e828d658c383be71aedc876100c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f447aea6c844746f1901382120cb4081e46ec578
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732494"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816087"
 ---
 # <a name="working-with-sharepoint-permission-levels"></a>Werken met SharePoint-machtigingsniveaus
 
-SharePoint bevat standaardmachtigingsniveaus die u kunt gebruiken, zoals **bijdragen** en **alleen weergeven**. Als een van deze niet aan uw wensen voldoet, kunt u een nieuw machtigingsniveau maken. Houd er rekening mee dat het eenvoudiger is om machtigingsniveaus bij te houden als u de standaardinstellingen niet wijzigt.
+SharePoint wordt geleverd met standaardmachtigingsniveaus die u kunt gebruiken, zoals **Bijdragen** en **Alleen weergeven.** Maar als een van deze niet aan uw behoeften voldoet, kunt u een nieuw machtigingsniveau maken. Houd er rekening mee dat het gemakkelijker is om machtigingsniveaus bij te houden als u de standaardwaarden niet wijzigt.
 
 [Machtigingsniveaus maken en bewerken](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
