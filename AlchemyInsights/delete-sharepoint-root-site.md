@@ -1,8 +1,8 @@
 ---
-title: De SharePoint-hoofdsite verwijderen
+title: 'Verwijder de oorspronkelijke site van SharePoint '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713530"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815466"
 ---
-# <a name="delete-the-sharepoint-root-site"></a>De SharePoint-hoofdsite verwijderen
+# <a name="delete-the-sharepoint-root-site"></a>Verwijder de oorspronkelijke site van SharePoint 
 
-Het verwijderen van de SharePoint-hoofdsite  **wordt niet ondersteund.**
+Verwijder de oorspronkelijke site van SharePoint wordt **niet ondersteund.**
 
-1.  Als de hoofdsite al is verwijderd, krijgen gebruikers de fout 404 Bestand niet gevonden wanneer ze toegang tot de site proberen te krijgen.
-2.  U lost dit op door de site te herstellen vanuit het nieuwe SharePoint-beheercentrum door naar de pagina Verwijderde sites te gaan,  [de](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)  hoofdsite te selecteren en op Herstellen te klikken.
-3.  In plaats van de hoofdsite te verwijderen, kunt u de [site](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)  vervangen in het nieuwe SharePoint-beheercentrum gebruiken nadat de hoofdsite is hersteld.
+1.  Als de oorspronkelijke site al verwijderd is zullen gebruikers een 404 Bestand Niet Gevonden foutmelding krijgen wanneer ze toegang proberen te krijgen tot de site.
+2.  Herstel om het op te lossen de site vanaf het nieuwe SharePoint-beheercentrum door naar de [Verwijderde sites](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) pagina te gaan, selecteer de oorspronkelijke site en klik op Herstellen.
+3.  Gebruik, in plaats van de oorspronkelijke site te verwijderen, [site vervangen](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) vanaf het nieuwe SharePoint-beheercentrum zodra de oorspronkelijke site hersteld is.
 
-Zie Uw hoofdsite moderniseren [voor meer informatie](https://docs.microsoft.com/sharepoint/modern-root-site)
+Ga voor meer informatie naar [Moderniseer uw oorspronkelijke site](https://docs.microsoft.com/sharepoint/modern-root-site)

@@ -2,24 +2,35 @@
 title: Beleid voor app-configuratie voor Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423434"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821325"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Beleid voor app-configuratie voor Microsoft Intune
 
-App-configuratiebeleid in Microsoft Intune biedt configuratie-instellingen voor iOS- of Android-toepassingen. Met deze configuratie-instellingen kan een app worden aangepast. Ondersteuning van configuratiebeleid wordt beperkt door versies en toepassingen van het besturingssysteem.
+Beleidsregels voor app-configuratie in Microsoft Intune worden gebruikt om configuratie-instellingen voor iOS- of Android-applicaties te bieden. Met deze configuratie-instellingen kan een app worden aangepast. Er gelden beperkingen met betrekking tot welke versies van het besturingssysteem en welke toepassingen het gebruik van configuratiebeleid ondersteunen.
 
-Zie [App-configuratiebeleid voor Microsoft Intune voor](https://docs.microsoft.com/intune/app-configuration-policies-overview)meer informatie.
+Bekijk de volgende documentatie voor details:
+
+[Beleidsregels voor app-configuratie voor Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Beleidsregels voor app-configuratie toevoegen voor beheerde iOS-apparaten](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Beleidsregels voor app-configuratie toevoegen voor beheerde Android-apparaten](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Beleidsregels voor app-configuratie toevoegen voor beheerde apps zonder inschrijving](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
