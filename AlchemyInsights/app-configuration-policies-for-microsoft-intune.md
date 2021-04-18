@@ -2,24 +2,35 @@
 title: Beleid voor app-configuratie voor Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423434"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821325"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="3b812-102">Beleid voor app-configuratie voor Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="3b812-102">App Configuration policies for Microsoft Intune</span></span>
+# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="c9f1a-102">Beleid voor app-configuratie voor Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="c9f1a-102">App Configuration policies for Microsoft Intune</span></span>
 
-<span data-ttu-id="3b812-103">App-configuratiebeleid in Microsoft Intune biedt configuratie-instellingen voor iOS- of Android-toepassingen.</span><span class="sxs-lookup"><span data-stu-id="3b812-103">App configuration policies in Microsoft Intune provide configuration settings for iOS or Android applications.</span></span> <span data-ttu-id="3b812-104">Met deze configuratie-instellingen kan een app worden aangepast.</span><span class="sxs-lookup"><span data-stu-id="3b812-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="3b812-105">Ondersteuning van configuratiebeleid wordt beperkt door versies en toepassingen van het besturingssysteem.</span><span class="sxs-lookup"><span data-stu-id="3b812-105">Configuration policy support is limited by operating system versions and applications.</span></span>
+<span data-ttu-id="c9f1a-103">Beleidsregels voor app-configuratie in Microsoft Intune worden gebruikt om configuratie-instellingen voor iOS- of Android-applicaties te bieden.</span><span class="sxs-lookup"><span data-stu-id="c9f1a-103">App configuration policies in Microsoft Intune are used to provide configuration settings for iOS or Android applications..</span></span> <span data-ttu-id="c9f1a-104">Met deze configuratie-instellingen kan een app worden aangepast.</span><span class="sxs-lookup"><span data-stu-id="c9f1a-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="c9f1a-105">Er gelden beperkingen met betrekking tot welke versies van het besturingssysteem en welke toepassingen het gebruik van configuratiebeleid ondersteunen.</span><span class="sxs-lookup"><span data-stu-id="c9f1a-105">Be aware that there are limitations in respect of which operating system versions and which applications support the use of configuration policies.</span></span>
 
-<span data-ttu-id="3b812-106">Zie [App-configuratiebeleid voor Microsoft Intune voor](https://docs.microsoft.com/intune/app-configuration-policies-overview)meer informatie.</span><span class="sxs-lookup"><span data-stu-id="3b812-106">For more details, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span></span>
+<span data-ttu-id="c9f1a-106">Bekijk de volgende documentatie voor details:</span><span class="sxs-lookup"><span data-stu-id="c9f1a-106">Please review the following documentation for details</span></span>
+
+[<span data-ttu-id="c9f1a-107">Beleidsregels voor app-configuratie voor Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="c9f1a-107">App configuration policies for Microsoft Intune</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[<span data-ttu-id="c9f1a-108">Beleidsregels voor app-configuratie toevoegen voor beheerde iOS-apparaten</span><span class="sxs-lookup"><span data-stu-id="c9f1a-108">Add app configuration policies for managed iOS devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[<span data-ttu-id="c9f1a-109">Beleidsregels voor app-configuratie toevoegen voor beheerde Android-apparaten</span><span class="sxs-lookup"><span data-stu-id="c9f1a-109">Add app configuration policies for managed Android devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[<span data-ttu-id="c9f1a-110">Beleidsregels voor app-configuratie toevoegen voor beheerde apps zonder inschrijving</span><span class="sxs-lookup"><span data-stu-id="c9f1a-110">Add app configuration policies for managed apps without device enrollment</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
