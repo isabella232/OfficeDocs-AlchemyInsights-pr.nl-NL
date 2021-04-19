@@ -1,24 +1,25 @@
 ---
-title: DNS records bijwerken bij Bluehost
+title: DNS-records bijwerken bij Bluehost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: ceaa1901b2ab3cabd3df055815270d1c1471542f
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 1ae896816dfe1308e4f1e455fce563e72f2b9617
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707721"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827643"
 ---
-# <a name="update-dns-records-at-bluehost"></a>DNS records bijwerken bij Bluehost
+# <a name="update-dns-records-at-bluehost"></a>DNS-records bijwerken bij Bluehost
 
 Gebruik de onderstaande koppelingen om uw DNS-records bij te werken.
 

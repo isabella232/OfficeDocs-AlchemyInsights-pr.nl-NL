@@ -1,24 +1,25 @@
 ---
-title: DNS records bijwerken bij Cloudflare
+title: DNS-records bijwerken bij Cloudflare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5807"
-ms.openlocfilehash: 73e143cbb62937ade55fe9f7fa260e0f897f8bb3
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: db97091ebad06bab69900d33c6af269bcb350b25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650344"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827607"
 ---
-# <a name="update-dns-records-at-cloudflare"></a>DNS records bijwerken bij Cloudflare
+# <a name="update-dns-records-at-cloudflare"></a>DNS-records bijwerken bij Cloudflare
 
 Gebruik de onderstaande koppelingen om uw DNS-records bij te werken.
 
