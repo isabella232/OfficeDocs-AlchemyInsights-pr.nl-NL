@@ -1,30 +1,31 @@
 ---
-title: Aanmelden teams AADSTS9000411
+title: Aanmeldingsfout voor Teams aanpakken AADSTS9000411
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "5689"
-ms.openlocfilehash: b70f1320ea1dfa29e6fa489bd02acfcd1d92971b
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
+ms.openlocfilehash: 7b0e90e3fea716df649ec906ad8b3008386684be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357551"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821982"
 ---
-# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Aanmelden teams AADSTS9000411
+# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Aanmeldingsfout voor Teams aanpakken AADSTS9000411
 
-Wanneer u zich aanmeldt bij Microsoft Teams, ontvangt u mogelijk de fout: **Sorry, maar we hebben problemen met het ondertekenen van u in AADSTS9000411: Het verzoek is niet goed opgemaakt. De parameter "login_hint" wordt gedupliceerd.**
+Wanneer u zich aanmeldt bij Microsoft Teams, krijgt u mogelijk de foutmelding: Sorry, maar we hebben problemen met het ondertekenen van u **in AADSTS9000411: De aanvraag is niet correct opgemaakt. De parameter 'login_hint' wordt gedupliceerd.**
 
-Als u dit probleem wilt oplossen, moet u ervoor zorgen dat uw Microsoft Teams-clients worden bijgewerkt. Zie [Microsoft Teams bijwerken](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)voor meer informatie over het bijwerken van uw client.
+Als u dit probleem wilt oplossen, moet u ervoor zorgen dat uw Microsoft Teams-clients worden bijgewerkt. Zie Microsoft Teams bijwerken voor meer informatie over het bijwerken [van uw client.](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)
 
-Als u uw client om de een of andere reden niet bijwerken, worden de meeste gegevens in de cache gewist. Als u echter nog steeds problemen hebt na het afmelden/aanmelden, sluit u Teams en schakelt u de cache van uw client uit door het volgende te doen:
+Als u uw client om wat voor reden dan ook niet kunt bijwerken, worden de meeste gegevens in de cache verwijderd als u zich afmeldt bij de client. Als u echter nog steeds problemen hebt na het logoff/aanmelding, sluit u Teams af en leegt u de cache van uw client door het volgende te doen:
 1. Sluit Microsoft Teams.
 2. Ga naar: %appdata%\microsoft\teams en verwijder alle bestanden.
-3. Microsoft Teams opnieuw openen.
+3. Open Microsoft Teams opnieuw.

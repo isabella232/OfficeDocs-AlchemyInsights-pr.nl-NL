@@ -2,21 +2,22 @@
 title: Telefoonnummers aan gebruikers toevoegen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: dbc3d3d9048730e709373e104345db51af9348e4
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: a8e8b3a56b25fb7841d4f8d8f84d7d9df766386b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915078"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822018"
 ---
 # <a name="adding-phone-numbers-to-users"></a>Telefoonnummers aan gebruikers toevoegen
 

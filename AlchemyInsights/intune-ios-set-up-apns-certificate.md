@@ -2,21 +2,22 @@
 title: 'Intune iOS: APNS-certificaat instellen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3543"
-ms.openlocfilehash: 027e1e0fa3b625fa0f619bc6d74844f6ec5be769
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
-ms.translationtype: HT
+ms.openlocfilehash: 66590b8a063e74e80bbe3e1e497c596d63a54ece
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211226"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824034"
 ---
 # <a name="intune-ios-set-up-apns-certificate"></a>Intune iOS: APNS-certificaat instellen
 

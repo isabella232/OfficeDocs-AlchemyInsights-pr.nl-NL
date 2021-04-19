@@ -1,24 +1,25 @@
 ---
-title: Melding 'Abonnement is niet geverifieerd' in Office-apps
+title: Abonnementsbericht kan niet worden geverifieerd in Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788769"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816447"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Melding 'Abonnement is niet geverifieerd' in Office-apps
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Bericht 'Abonnement kan niet worden geverifieerd' in Microsoft 365-apps
 
 - Controleer of de [abonnementsstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) geldig is, of er een [geldige licentie is toegewezen](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) aan de betreffende gebruiker en of er verbinding is met internet.
 
@@ -28,7 +29,7 @@ ms.locfileid: "43788769"
 
 - Voer de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) uit en start de computer opnieuw op.
 
-- [Stel de activeringsstatus van Office opnieuw in](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) op de betreffende computer.
+- [Stel de activeringsstatus van Office opnieuw in](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) op de betreffende computer.
 
 Voor gedetailleerde instructies raadpleegt u: 
 

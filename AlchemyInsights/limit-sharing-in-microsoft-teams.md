@@ -2,28 +2,29 @@
 title: Delen in Microsoft Teams beperken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "5577"
-ms.openlocfilehash: b7dc02a0298f8a6843925544a80a1c725365afc6
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: f6e1133dd1ab01efb23d6ae41bd77d1a33256298
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235400"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825582"
 ---
 # <a name="limit-sharing-in-microsoft-teams"></a>Delen in Microsoft Teams beperken
 
-Als u wilt begrijpen hoe u delen in Teams en Microsoft 365 in het algemeen beperken, bekijkt [u Delen beperken in Microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide).
+Als u wilt weten hoe u delen in Teams en Microsoft 365 in het algemeen kunt beperken, bekijkt u Delen beperken [in Microsoft 365.](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide)
 
-Zie het als nodig hebben om te begrijpen hoe u de toegang beheren via beleid voor voorwaardelijke toegang:
+Zie voor meer informatie over het beheer van toegang via beleidsregels voor voorwaardelijke toegang:
 
 - [Toegang beheren vanaf niet-beheerde apparaten](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [Zelfstudie: Download van gevoelige informatie blokkeren](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad)
+- [Zelfstudie: Het downloaden van gevoelige informatie blokkeren](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad)
 - [Beleid voor voorwaardelijke toegang instellen](https://docs.microsoft.com/microsoft-365/business/set-up-conditional-access-policies?view=o365-worldwide)
