@@ -2,9 +2,10 @@
 title: Hoe stel ik audiovergaderingen voor Teams in
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,31 +13,31 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709934"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811055"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Audiovergadering in Microsoft Teams
 
-Hulp nodig bij het inschakelen of het instellen van audiovergaderingen in Microsoft Teams? Is deze gebruiker onlangs gemaakt?  Als dat het geval is, moet u 2 tot 24 uur wachten voordat de instellingen van kracht worden.
+Hebt u hulp nodig bij het in- of instellen van [audiovergaderingen voor Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Is de gebruiker onlangs gemaakt? Als dat het het beste is, moet u enkele uren wachten voordat de instellingen van kracht worden.
 
-U kunt als volgt controleren of de gebruiker een licentie heeft voor audiovergaderingen en een standaard tolnummer:
+Als [er licenties zijn aangeschaft,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)controleert u of de gebruiker een licentie heeft voor Microsoft 365 Audiovergaderingen en een standaard tolnummer heeft.
 
 1. Ga naar [actieve gebruikers](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) en selecteer de gebruiker in kwestie.
 
 2. Afhankelijk van de versie van het beheercentrum kiest u **licenties en apps** of klikt u op **bewerken** bij **productlicenties**.
 
-3. Controleer of de gebruiker licenties heeft geselecteerd voor **audiovergaderingen, Microsoft Teams** en **Skype voor Bedrijven Online (abonnement 2)**.
+3. Controleer of de gebruiker licenties heeft geselecteerd voor **Microsoft 365 Audiovergaderingen, Microsoft Teams** en Skype voor Bedrijven Online **(Abonnement 2).** Als de **licentie voor Audiovergaderingen van Microsoft 365** niet aanwezig is, moet u eerst add on [licenses aanschaffen.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
-4. Gebruikers **-beheercentra** Klik op **Alles weergeven** en klik vervolgens op **Teams**.
+4. Gebruikers **-beheercentra** klik op **Alles weergeven** en vervolgens op **Teams**.
 
-5. Klik op **Legacy-portaal** in het **In het Microsoft Teams-beheercentrum**
+5. Klik op **Legacy-portaal** in het **In het Microsoft Teams-beheercentrum**.
 
-6. Klik in het **Skype voor Bedrijven-beheercentrum**op **audiovergaderingen** en vervolgens op **gebruikers**.
+6. Klik in het **Skype voor Bedrijven-beheercentrum** op **audiovergaderingen** en vervolgens op **gebruikers**.
 
 7. Selecteer de gewenste gebruiker en controleer of de gebruiker een **standaard tolnummer** heeft.
 
-Zie voor meer informatie [belabonnementen](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) of bel het Microsoft Commerce-factureringsteam voor hulp bij vragen over licenties.
+Als u meer hulp nodig hebt bij het aanschaffen van licenties voor **Microsoft Audiovergaderingen,** belt u [Microsoft Billing Support.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)
