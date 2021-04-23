@@ -1,5 +1,5 @@
 ---
-title: Tips voor DLP-beleid werken niet
+title: DLP-beleidstips werken niet
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679580"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952187"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problemen met DLP-Beleidstip
+# <a name="dlp-policy-tip-issues"></a>Problemen met DLP-beleidstips
 
 **Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
 
-**Tips voor DLP-beleid**
+Ga als volgt te werk om beleidstips voor uw DLP-beleid in het beveiligings- & compliancecentrum in de volledige afdwingingsmodus te configureren:
 
-Wanneer u **DLP-beleidsregels**gebruikt, kunnen gebruikers op de hoogte worden gesteld van een beleidsovertreding met **beleidstips**. Beheerders kunnen beleidstips configureren die kunnen worden weergegeven bij het testen van het DLP-beleid of wanneer het beleid zich in de volledige modus voor afdwinging bevindt.
-  
-Ga als volgt te werk als u beleidstips wilt configureren voor het DLP-beleid in het beveiligings-en compliance Center in de volledige uitvoering:
-  
-- Met behulp van de [volgende stappen kunt](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)u ervoor zorgen dat de beleidstips voor de DLP-regel zijn **ingeschakeld** .
+- Controleer of beleidstips **zijn ingeschakeld op** de DLP-regel. Zie E-mailmeldingen [verzenden en beleidstips voor DLP-beleid verzenden](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)voor stappen.
 
-- Zorg ervoor dat uw **inhoud overeenkomt met** de **vereisten** voor het activeren van de regel die in [dit artikel wordt](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)beschreven.
+Zorg ervoor dat de inhoud overeenkomt met wat nodig is om de regel te activeren die wordt beschreven in [entiteitsdefinities van het type Gevoelige informatie.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Beleidstips worden weergegeven in OWA en Outlook. Wanneer u echter **Outlook 2013 of hoger**gebruikt, worden tips voor beleidsregels alleen weergegeven onder bepaalde voorwaarden. Deze voorwaarden worden hier weergegeven: [ondersteunde voorwaarden voor Outlook 2013 of hoger voor het weergeven van beleids tips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Beleidstips worden weergegeven in zowel OWA als Outlook. Wanneer u Outlook 2013 of hoger gebruikt, worden beleidstips echter alleen onder bepaalde voorwaarden weergegeven. Zie Ondersteunde voorwaarden voor [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)of hoger voor het weergeven van beleidstips voor de lijst met specifieke voorwaarden.
 
-Zie [Tips voor beleidsregels weergeven voor DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips) -beleidsregels voor meer informatie over DLP-beleidstips.
-  
+Zie Naslaginformatie over [DLP-beleidstips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) en ondersteuningsmatrix voor [DLP-beleidstips voor informatie over DLP-beleidstips.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
