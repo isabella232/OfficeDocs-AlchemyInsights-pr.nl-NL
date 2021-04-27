@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826158"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059810"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Problemen oplossen bij het importeren van een PST-bestand
 
-- Als u in de Outlook-client zelf importeert, raadpleegt u [Problemen oplossen bij het importeren van een .pst-bestand van Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Zie Problemen met het importeren van een PST-bestand van Outlook oplossen als u importeert in de [Outlook-client zelf.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Als u de importservice gebruikt en de service is vastgelopen, moet u er rekening mee houden dat elk .pst-bestand dat u uploadt naar de Azure Storage-locatie, niet groter mag zijn dan 20 GB. PST-bestanden die groter zijn dan 20 GB, beïnvloeden mogelijk de prestaties van het PST-importproces.
+- Als u importservice gebruikt en deze vastzit, moet elk PST-bestand dat u uploadt naar de Azure Storage-locatie, niet groter zijn dan 20 GB. PST-bestanden groter dan 20 GB kunnen van invloed zijn op de prestaties van het PST-importproces. Zie Problemen die van invloed zijn op [pst-importtaken](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)voor meer informatie over het oplossen van problemen met vastgelopen taken.
 
-- Als u de status van een bepaalde importtaak wilt controleren, kunt u [Get-MailboxImportRequest -batchnaam](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest) gebruiken.
+- Als u de status van een specifieke importklus wilt controleren, gebruikt [u Get-MailboxImportRequest -batchname.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest)
 
-- Zie [Overzicht van het importeren van de PST-bestanden van uw organisatie](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide) voor de volledige informatie over de importservice.
+- Zie Overzicht van het importeren van pst-bestanden van uw organisatie voor meer informatie over de [importservice.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)
