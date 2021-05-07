@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52124966"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233516"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Invoegvoegingen implementeren voor Microsoft 365-apps
 
 Gecentraliseerde implementatie is de aanbevolen manier om Office te implementeren voor gebruikers en groepen binnen uw organisatie. Als u invoegvoegingen wilt implementeren, volgt u de onderstaande stappen:
 
-**Opmerking:** Zie Invoegvoegingen weergeven, beheren en installeren in Office programma's als u invoegprogramma's wilt installeren voor Office [als individuele gebruiker.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Zorg er ook voor dat individuele overname van Office Store-invoegvoegingen is ingeschakeld. 
+**Opmerking:** Zie Invoegvoegingen weergeven, beheren en installeren in Office programma's als u invoegprogramma's wilt installeren voor Office [als individuele gebruiker.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Zorg er ook voor dat individuele overname van Office Store-invoegvoegingen is ingeschakeld. Zie Invoegdownloads voorkomen door de store Office alle clients uit te schakelen [(behalve Outlook) voor meer informatie.](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Zorg ervoor dat uw omgeving voldoet aan de vereisten voor de implementatie van invoegvoegingen met gecentraliseerde implementatie. Zie Vereisten voor [meer informatie.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. Ga naar **Instellingen**  >  **Geïntegreerde apps Apps**  >  **downloaden** in het Microsoft 365-beheercentrum om invoegvoegingen te implementeren. 
