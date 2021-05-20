@@ -1,5 +1,5 @@
 ---
-title: Problemen bij het openen van secties van Microsoft Defender ATP-portal
+title: Problemen met het openen van secties van Microsoft Defender voor Office 365 portal
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713550"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545227"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a><span data-ttu-id="07704-102">Problemen bij het openen van secties van Microsoft Defender ATP-portal</span><span class="sxs-lookup"><span data-stu-id="07704-102">Issues accessing sections of Microsoft Defender ATP portal</span></span>
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a><span data-ttu-id="22789-102">Problemen met het openen van secties van Microsoft Defender voor Office 365 portal</span><span class="sxs-lookup"><span data-stu-id="22789-102">Issues accessing sections of Microsoft Defender for Office 365 portal</span></span>
 
-<span data-ttu-id="07704-103">Als in het portaldashboard en andere secties een foutbericht wordt weergegeven zoals 'Gegevens zijn momenteel niet beschikbaar', zijn bepaalde URL-domeinen en alle subdomeinen waarschijnlijk toegestaan in uw organisatie en geopend voor communicatie.</span><span class="sxs-lookup"><span data-stu-id="07704-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
+<span data-ttu-id="22789-103">Als in het portaldashboard en andere secties een foutbericht wordt weergegeven, zoals 'Gegevens zijn momenteel niet beschikbaar', is het waarschijnlijk dat bepaalde URL-domeinen en alle subdomeinen zijn toegestaan in uw organisatie en worden geopend voor communicatie.</span><span class="sxs-lookup"><span data-stu-id="22789-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
 
-<span data-ttu-id="07704-104">Zie Problemen met abonnementen en [portaltoegang oplossen voor meer informatie.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)</span><span class="sxs-lookup"><span data-stu-id="07704-104">For more information, see [Troubleshoot subscription and portal access issues](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>
+<span data-ttu-id="22789-104">Zie Problemen met abonnementen [en portaltoegang oplossen](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="22789-104">For more information, see [Troubleshoot subscription and portal access issues](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>

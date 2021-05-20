@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met Microsoft Defender voor Office 365
+title: Problemen met Microsoft Defender oplossen voor Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801438"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545263"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="1b04c-102">Problemen oplossen met Microsoft Defender voor Office 365</span><span class="sxs-lookup"><span data-stu-id="1b04c-102">Troubleshooting Microsoft Defender for Office 365</span></span>
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="f8f63-102">Problemen met Microsoft Defender oplossen voor Office 365</span><span class="sxs-lookup"><span data-stu-id="f8f63-102">Troubleshooting Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="1b04c-103">Merkt u vertragingen bij het bezorgen van berichten?</span><span class="sxs-lookup"><span data-stu-id="1b04c-103">Do you notice delays in message delivery?</span></span> <span data-ttu-id="1b04c-104">Gebruik de optie [dynamische bezorgings](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) functie in het beleid voor veilige bijlagen van ATP.</span><span class="sxs-lookup"><span data-stu-id="1b04c-104">Use the [Dynamic Delivery](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your ATP Safe Attachments policy.</span></span> <span data-ttu-id="1b04c-105">Dit helpt geen vertragingen van berichten te voorkomen tijdens de bescherming van geadresseerden tegen kwaadwillende bestanden.</span><span class="sxs-lookup"><span data-stu-id="1b04c-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="f8f63-103">**Ziet u vertragingen in de bezorging van berichten?**</span><span class="sxs-lookup"><span data-stu-id="f8f63-103">**Do you notice delays in message delivery?**</span></span> <span data-ttu-id="f8f63-104">Gebruik de [optie Dynamische bezorging](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) in uw Microsoft Defender voor Office 365 Safe bijlagenbeleid.</span><span class="sxs-lookup"><span data-stu-id="f8f63-104">Use the [Dynamic Delivery](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your Microsoft Defender for Office 365 Safe Attachments policy.</span></span> <span data-ttu-id="f8f63-105">Zo voorkomt u vertragingen in berichten terwijl geadresseerden worden beschermd tegen schadelijke bestanden.</span><span class="sxs-lookup"><span data-stu-id="f8f63-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
 
-- <span data-ttu-id="1b04c-106">Wilt u onjuiste of onjuiste negatieven rapporteren aan Microsoft?</span><span class="sxs-lookup"><span data-stu-id="1b04c-106">Do you want to report false positives or false negatives to Microsoft?</span></span> <span data-ttu-id="1b04c-107">Gebruik deze [koppeling](https://www.microsoft.com/wdsi/filesubmission/) om bestanden in te dienen voor analyse.</span><span class="sxs-lookup"><span data-stu-id="1b04c-107">Use this [link](https://www.microsoft.com/wdsi/filesubmission/) to submit files for analysis.</span></span>
+- <span data-ttu-id="f8f63-106">**Wilt u false positives of false negatives rapporteren aan Microsoft?**</span><span class="sxs-lookup"><span data-stu-id="f8f63-106">**Do you want to report false positives or false negatives to Microsoft?**</span></span> <span data-ttu-id="f8f63-107">[Inzendingsverkenner gebruiken.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="f8f63-107">Use [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span>
 
-- <span data-ttu-id="1b04c-108">Wist u dat u de bescherming van veilige koppelingen kunt inschakelen voor interne e-mail die wordt verzonden tussen geadresseerden binnen uw organisatie?</span><span class="sxs-lookup"><span data-stu-id="1b04c-108">Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?</span></span> <span data-ttu-id="1b04c-109">Ga als volgt te werk:</span><span class="sxs-lookup"><span data-stu-id="1b04c-109">Follow these steps:</span></span>
+<span data-ttu-id="f8f63-108">-\*\* Wist u dat u de beveiliging Safe koppelingen kunt inschakelen voor interne e-mail die wordt verzonden tussen geadresseerden binnen uw organisatie?\*\* Volg de volgende stappen:</span><span class="sxs-lookup"><span data-stu-id="f8f63-108">-\*\* Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?\*\* Follow these steps:</span></span>
 
-  1. <span data-ttu-id="1b04c-110">Ga naar [https://protection.office.com](https://protection.office.com) en meld u aan met een globale beheerder of een beheerdersaccount voor beveiliging.</span><span class="sxs-lookup"><span data-stu-id="1b04c-110">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+  1. <span data-ttu-id="f8f63-109">Ga naar [https://protection.office.com](https://protection.office.com) en meld u aan met een globale beheerder of beveiligingsbeheerderaccount.</span><span class="sxs-lookup"><span data-stu-id="f8f63-109">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-  2. <span data-ttu-id="1b04c-111">Kies in het linker navigatiedeelvenster onder **Threat Management** de optie **beleids** \> **veilige koppelingen** .</span><span class="sxs-lookup"><span data-stu-id="1b04c-111">In the left navigation pane under **Threat management** , choose **Policy** \> **Safe Links** .</span></span>
+  2. <span data-ttu-id="f8f63-110">Kies in het linkernavigatiedeelvenster  onder **Bedreigingsbeheer** de optie \> **Beleid Safe Koppelingen.**</span><span class="sxs-lookup"><span data-stu-id="f8f63-110">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Links**.</span></span>
 
-  3. <span data-ttu-id="1b04c-112">Selecteer in de sectie **beleidsregels die van toepassing zijn op de hele organisatie** het beleid en klik op **bewerken** .</span><span class="sxs-lookup"><span data-stu-id="1b04c-112">In the **Policies that apply to the entire organization** section, select the policy and click **Edit** .</span></span>
+  3. <span data-ttu-id="f8f63-111">Selecteer in **de sectie Beleidsregels die** van toepassing zijn op de hele organisatie het beleid en klik op **Bewerken.**</span><span class="sxs-lookup"><span data-stu-id="f8f63-111">In the **Policies that apply to the entire organization** section, select the policy and click **Edit**.</span></span>
 
-  4. <span data-ttu-id="1b04c-113">Selecteer onder **instellingen** de optie **veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden** .</span><span class="sxs-lookup"><span data-stu-id="1b04c-113">Under **Settings** , enable **Apply safe links to messages sent within the organization** .</span></span>
+  4. <span data-ttu-id="f8f63-112">Schakel **onder Instellingen** veilige koppelingen toepassen op berichten die binnen de organisatie worden **verzonden in.**</span><span class="sxs-lookup"><span data-stu-id="f8f63-112">Under **Settings**, enable **Apply safe links to messages sent within the organization**.</span></span>
