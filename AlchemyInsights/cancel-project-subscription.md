@@ -1,5 +1,5 @@
 ---
-title: Project abonnement opzeggen
+title: Abonnement Project opzeggen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416488"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543392"
 ---
-# <a name="cancel-project-subscription"></a><span data-ttu-id="551ce-102">Project abonnement opzeggen</span><span class="sxs-lookup"><span data-stu-id="551ce-102">Cancel Project subscription</span></span>
+# <a name="cancel-project-subscription"></a><span data-ttu-id="d464d-102">Abonnement Project opzeggen</span><span class="sxs-lookup"><span data-stu-id="d464d-102">Cancel Project subscription</span></span>
 
-<span data-ttu-id="551ce-103">Beheerders kunnen het project abonnement voor hun organisatie opzeggen in het Microsoft 365-Beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="551ce-103">Admins can cancel the Project subscription for their organization in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="d464d-103">Beheerders kunnen het Project voor hun organisatie opzeggen in het Microsoft 365 beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="d464d-103">Admins can cancel the Project subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="551ce-104">Ga naar de **Billing** \> pagina [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.</span><span class="sxs-lookup"><span data-stu-id="551ce-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="551ce-105">Zoek op het tabblad **producten** naar het project abonnement dat u wilt opzeggen.</span><span class="sxs-lookup"><span data-stu-id="551ce-105">On the **Products** tab, find the Project subscription that you want to cancel.</span></span> <span data-ttu-id="551ce-106">Selecteer **meer acties** (drie puntjes) en selecteer vervolgens **abonnement annuleren**.</span><span class="sxs-lookup"><span data-stu-id="551ce-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="551ce-107">Kies in het deelvenster **abonnement annuleren** een reden waarom u wilt opzeggen.</span><span class="sxs-lookup"><span data-stu-id="551ce-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="551ce-108">U kunt ook feedback geven.</span><span class="sxs-lookup"><span data-stu-id="551ce-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="551ce-109">Kies **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="551ce-109">Select **Save**.</span></span>
+1. <span data-ttu-id="d464d-104">Ga naar de **pagina Facturering** van \> [uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="d464d-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="d464d-105">Zoek op **het** tabblad Producten naar Project abonnement dat u wilt annuleren.</span><span class="sxs-lookup"><span data-stu-id="d464d-105">On the **Products** tab, find the Project subscription that you want to cancel.</span></span> <span data-ttu-id="d464d-106">Selecteer de drie puntjes (meer acties) en selecteer vervolgens **Abonnement annuleren.**</span><span class="sxs-lookup"><span data-stu-id="d464d-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="d464d-107">Kies in het deelvenster **Abonnement annuleren** een reden waarom u wilt opzeggen.</span><span class="sxs-lookup"><span data-stu-id="d464d-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="d464d-108">Geef desgewenst feedback.</span><span class="sxs-lookup"><span data-stu-id="d464d-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="d464d-109">Kies **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="d464d-109">Select **Save**.</span></span>
 
-<span data-ttu-id="551ce-110">**Restitutie:** Het naar u verzonden tegoed wordt binnen de volgende factureringscyclus weergegeven.</span><span class="sxs-lookup"><span data-stu-id="551ce-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="d464d-110">**Restitutie:** een eventueel tegoed naar rato wordt aan u terugbetaald in de volgende factureringscyclus.</span><span class="sxs-lookup"><span data-stu-id="d464d-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="551ce-111">Zie [uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="551ce-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="d464d-111">Zie Uw abonnement [opzeggen voor meer informatie.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="d464d-111">To learn more, see [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>

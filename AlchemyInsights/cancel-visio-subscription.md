@@ -1,5 +1,5 @@
 ---
-title: Visio-abonnement opzeggen
+title: Abonnement Visio annuleren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416393"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543356"
 ---
-# <a name="cancel-visio-subscription"></a><span data-ttu-id="0d0a2-102">Visio-abonnement opzeggen</span><span class="sxs-lookup"><span data-stu-id="0d0a2-102">Cancel Visio subscription</span></span>
+# <a name="cancel-visio-subscription"></a><span data-ttu-id="488ea-102">Abonnement Visio annuleren</span><span class="sxs-lookup"><span data-stu-id="488ea-102">Cancel Visio subscription</span></span>
 
-<span data-ttu-id="0d0a2-103">Beheerders kunnen het Visio-abonnement voor hun organisatie opzeggen in het Microsoft 365-Beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-103">Admins can cancel the Visio subscription for their organization in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="488ea-103">Beheerders kunnen het Visio voor hun organisatie opzeggen in het Microsoft 365 beheercentrum.</span><span class="sxs-lookup"><span data-stu-id="488ea-103">Admins can cancel the Visio subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="0d0a2-104">Ga naar de **Billing** \> pagina [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="0d0a2-105">Zoek op het tabblad **producten** naar het Visio-abonnement dat u wilt opzeggen.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-105">On the **Products** tab, find the Visio subscription that you want to cancel.</span></span> <span data-ttu-id="0d0a2-106">Selecteer **meer acties** (drie puntjes) en selecteer vervolgens **abonnement annuleren**.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="0d0a2-107">Kies in het deelvenster **abonnement annuleren** een reden waarom u wilt opzeggen.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="0d0a2-108">U kunt ook feedback geven.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="0d0a2-109">Kies **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-109">Select **Save**.</span></span>
+1. <span data-ttu-id="488ea-104">Ga naar de **pagina Facturering** van \> [uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="488ea-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="488ea-105">Zoek op **het** tabblad Producten het Visio abonnement dat u wilt annuleren.</span><span class="sxs-lookup"><span data-stu-id="488ea-105">On the **Products** tab, find the Visio subscription that you want to cancel.</span></span> <span data-ttu-id="488ea-106">Selecteer de drie puntjes (meer acties) en selecteer vervolgens **Abonnement annuleren.**</span><span class="sxs-lookup"><span data-stu-id="488ea-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="488ea-107">Kies in het deelvenster **Abonnement annuleren** een reden waarom u wilt opzeggen.</span><span class="sxs-lookup"><span data-stu-id="488ea-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="488ea-108">Geef desgewenst feedback.</span><span class="sxs-lookup"><span data-stu-id="488ea-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="488ea-109">Kies **Opslaan**.</span><span class="sxs-lookup"><span data-stu-id="488ea-109">Select **Save**.</span></span>
 
-<span data-ttu-id="0d0a2-110">**Restitutie:** Het naar u verzonden tegoed wordt binnen de volgende factureringscyclus weergegeven.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="488ea-110">**Restitutie:** een eventueel tegoed naar rato wordt aan u terugbetaald in de volgende factureringscyclus.</span><span class="sxs-lookup"><span data-stu-id="488ea-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="0d0a2-111">Zie [uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="0d0a2-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="488ea-111">Zie Uw abonnement [opzeggen voor meer informatie.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="488ea-111">To learn more, see [Cancel your subscription](/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
