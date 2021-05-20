@@ -1,32 +1,35 @@
 ---
-title: Invoegtoepassing teams voor Mac
+title: Teams invoeging voor Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 74bd424f71a59b80a91b960b815363668bee7036
-ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46629491"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582065"
 ---
-# <a name="teams-add-in-for-mac"></a>Invoegtoepassing teams voor Mac
+# <a name="teams-add-in-for-mac"></a>Teams invoeging voor Mac
 
-Voer de volgende stappen uit als u een ontbrekende invoegtoepassing voor teams voor een Mac-besturingssysteem wilt problemen:
+Als u een probleem wilt oplossen Teams gebruikers van een Mac-besturingssysteem, gaat u als volgt te werk:
 
-**Stap 1:** Als u een hybride Exchange on-premises (2016 CU3 of hoger) hebt, gebruikt u het hulpprogramma Test-HMA.ps1 om te controleren of de hybride moderne verificatie correct is geconfigureerd. Zie [hybride instellingen voor moderne verificatie valideren voor Outlook voor IOS en Android](https://aka.ms/AA980zq)voor meer informatie.  
+**Stap 1:** Als u hybride Exchange on-premises (2016 CU3 of hoger vereist) hebt, gebruikt u het hulpprogramma Test-HMA.ps1 om te controleren of hybride moderne verificatie correct is geconfigureerd. Zie Valideren van hybride moderne verificatie voor Outlook [voor iOS en Android voor meer informatie.](https://aka.ms/TestHMAEAS)  
 
-**Opmerking** Gebruik de notatie voor de UPN-adres (bijvoorbeeld [username@contoso.com](mailto:username@contoso.com)), niet DOMEIN\gebruikersnaam. Doe dit ook voor gebruikers met postvakken van Exchange Online.
+**Opmerking** Gebruik de UPN-adresnotatie [(bijvoorbeeld](mailto:username@contoso.com)username@contoso.com ), niet domein\gebruikersnaam. Doe dit zelfs voor gebruikers met Exchange Online postvakken.
 
-**Stap 2:** Laat de gebruiker naar **extra**  >  **accounts**gaan... in Outlook voor Mac, zoekt en selecteert u het account. Controleer of de naam van de gebruikersnaam in de weergegeven UPN-indeling is (bijvoorbeeld [username@contoso.com](mailto:username@contoso.com)).
+**Stap 2:** Laat de gebruiker naar **Hulpmiddelenaccounts**  >  **gaan**... in Outlook voor Mac en het account zoeken en selecteren. Bevestig dat de gebruikersnaam die wordt vermeld, in UPN-indeling staat [(bijvoorbeeld username@contoso.com).](mailto:username@contoso.com)
 
-**Stap 3:** Controleer of de gebruiker een licentie heeft voor Microsoft teams. De gebruiker moet het Office 365 voor Mac-abonnement, productversie 16,24 of hoger, gebruiken.
+**Stap 3:** Controleer of de gebruiker een gelicentieerde Microsoft Teams is. De gebruiker moet het abonnement Office 365 voor Mac, productversie 16.24 of hoger gebruiken.

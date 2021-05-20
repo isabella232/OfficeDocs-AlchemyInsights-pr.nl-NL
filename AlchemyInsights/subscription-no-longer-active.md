@@ -1,35 +1,33 @@
 ---
 title: Abonnement is niet langer actief
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789225"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544249"
 ---
 # <a name="subscription-no-longer-active"></a>Abonnement is niet langer actief
 
-Als er een melding voor een [-abonnement wordt weergegeven wanneer een Microsoft-toepassing](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) wordt geopend, moet u mogelijk uw abonnement opnieuw activeren.
+Als een [abonnementsbericht wordt weergegeven](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) wanneer een Microsoft-toepassing wordt geopend, moet u waarschijnlijk uw abonnement opnieuw activeren.
 
 **Een abonnement opnieuw activeren**
 
-1. Ga in het beheercentrum naar de pagina **Facturering > [Producten en services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Ga in het beheercentrum naar de pagina **Facturering** > [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Zoek op **het** tabblad Producten het abonnement dat u opnieuw wilt activeren. Selecteer de drie puntjes (meer acties) en selecteer **vervolgens Dit abonnement opnieuw activeren.**
+3. Selecteer in **het deelvenster Dit abonnement opnieuw** activeren een betalingswijze in de vervolgkeuzelijst of selecteer **Betalingswijze toevoegen.**
+4. Kies **Opslaan**.
 
-2. Zoek op de pagina Producten en services naar het abonnement dat u opnieuw wilt activeren.
-
-3. Klik in de sectie Facturering op **Nu opnieuw activeren**.  Als u zich in de weergave Kaarten bevindt, klikt u op de drie puntjes tussen Naam en Beschikbare hoeveelheid en kiest u Opnieuw activeren in het menu. **Opmerking**: als u het gezochte abonnement niet ziet, moet u mogelijk het filter voor Abonnementsstatus bovenaan de pagina wijzigen in **Alle**.
-
-4. Bevestig uw betalingsgegevens om uw bestaande betalingsgegevens bij te werken. Wanneer u klaar bent met het invoeren van uw betalingswijze, klikt u op **Opnieuw activeren**.
-
-Raadpleeg [Uw abonnement opnieuw activeren](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) voor meer informatie. 
+Raadpleeg [Uw abonnement opnieuw activeren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.

@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088679"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573741"
 ---
 # <a name="disable-chat"></a>Chat uitschakelen
 
-Als u chat voor uw organisatie wilt uitschakelen, kunt u beleidsregels maken waarmee u kunt bepalen welke functies voor chatberichten en kanaalberichten beschikbaar zijn. U kunt dit op verschillende manieren doen, afhankelijk van de manier waarop u de chat moet configureren.
+Als u chat voor uw organisatie wilt in- of uitschakelen, kunt u beleidsregels maken waarmee u kunt bepalen welke chat- en kanaalberichtenfuncties beschikbaar zijn. Er zijn verschillende manieren om dit te bereiken, afhankelijk van hoe u chat moet configureren.
 
-- **Berichten**: in het team centrum voor teams gaat u naar [berichten beleid](https://admin.teams.microsoft.com/)en schakelt u **Chat berichten in** of **uit**. Zie [berichten beleidsregels beheren in teams](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)voor meer informatie over het aanpassen van beleidsregels voor aangepaste berichten en over hoe u beleidsregels aan gebruikers toewijst.
-- **Vergadering**: Ga in het team centrum voor teams naar [beleidsregels voor vergaderingen](https://admin.teams.microsoft.com/) -de instelling voor chatten staat **chats toe aan vergaderingen**. Zie voor meer informatie over het maken van aangepaste vergaderings beleidsregels voor het maken van [vergaderings beleid in teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) en [chatberichten in vergaderingen toestaan](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
-- **Gastgebruikers**: u kunt gast toegangsbeleidsregels configureren, zodat gasten toegang hebben tot de chat, zodat ze de chat kunnen **in** -of **uitschakelen**. Raadpleeg voor meer informatie [gasttoegang configureren in het team centrum voor teams](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
-- **Leerlingen/studenten**: als u de chatfunctie voor een leerling/student wilt uitschakelen, raadpleegt u de opties voor chatberichten in vergaderingen en voor het toestaan van een 1:1-chat in [teams-beleidsregels en-beleids pakketten voor onderwijs](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+- **Vergadering:** Ga in het Teams beheercentrum naar Vergaderingsbeleid [-](https://admin.teams.microsoft.com/) De instelling voor chatten is Chat in **vergaderingen toestaan.** Zie Beleidsregels voor vergaderingen beheren [in](/microsoftteams/meeting-policies-in-teams) Teams en Chat toestaan in vergaderingen voor meer informatie over het maken van aangepast [vergaderingsbeleid.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
+- **M*essaging:** Ga in het Teams beheercentrum naar [Berichtenbeleid](https://admin.teams.microsoft.com/)en schakel **Chatten in** of **uit.** Zie Berichtenbeleid beheren in Teams voor meer informatie over aangepast berichtenbeleid en over het toewijzen [van beleidsregels aan gebruikers.](/microsoftteams/messaging-policies-in-teams)
+
+- **Leerlingen/studenten:** Als u chat voor een leerling/student wilt uitschakelen, bekijkt u de opties voor het toestaan van chatten in vergaderingen en voor het toestaan van een 1:1-chat in Teams beleid en beleidspakketten [voor onderwijs.](/microsoftteams/policy-packages-edu)
+
+- Gastgebruikers: U kunt het beleid voor gasttoegang zo configureren dat gasten toegang hebben tot de chat, die **chatten kunnen** in- of **uitschakelen.** Zie Gasttoegang configureren in het Teams [beheercentrum voor meer informatie.](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
 
 
 

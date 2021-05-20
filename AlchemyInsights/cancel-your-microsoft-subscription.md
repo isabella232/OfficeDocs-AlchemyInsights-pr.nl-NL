@@ -1,29 +1,31 @@
 ---
 title: Uw Microsoft-abonnement opzeggen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707666"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543320"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Uw Microsoft-abonnement opzeggen
 
-1. Ga naar [Services en abonnementen](https://account.microsoft.com/services/) en meld u aan met de Microsoft-account die u hebt gebruikt bij de aanschaf van uw abonnement.
+Beheerders kunnen het abonnement voor hun organisatie opzeggen in het Microsoft 365 beheercentrum.
 
-2. Zoek uw abonnement en klik op **Beheren**. Als u **Terugkerende facturering inschakelen** ziet in plaats van **Beheren**, ga dan naar de sectie Probleemoplossing, ga anders verder met stap 3.
+1. Ga naar de **pagina Facturering** van \> [uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Zoek op het tabblad **Producten** het abonnement dat u wilt opzeggen. Selecteer de drie puntjes (meer acties) en selecteer **Abonnement annuleren**.
+3. Kies in het deelvenster **Abonnement annuleren** een reden waarom u wilt opzeggen. Geef desgewenst feedback.
+4. Kies **Opslaan**.
 
-3. Klik op de volgende pagina op **Opzeggen** of **Bijwerken of opzeggen**, afhankelijk van het type abonnement.
-
-4. Volg de instructies op de pagina om door te gaan met de opzegging.
+**Restitutie:** een eventueel tegoed naar rato wordt aan u terugbetaald in de volgende factureringscyclus.

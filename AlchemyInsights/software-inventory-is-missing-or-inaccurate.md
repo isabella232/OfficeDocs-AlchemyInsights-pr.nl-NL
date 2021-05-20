@@ -1,32 +1,33 @@
 ---
-title: Software-inventaris ontbreekt of onjuist
+title: Softwarevoorraad ontbreekt of is onjuist
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 0edafc8fab84ccdabecdc4853fde998ae79a8184
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197870"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543959"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Software-inventaris ontbreekt of onjuist
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Softwarevoorraad ontbreekt of is onjuist
 
-De softwareinventaris in de ATP-service van Microsoft Defender biedt de productnaam of leverancier, het nieuwste versienummer en ontdekte zwakke punten en kwetsbaarheden. Zie [Softwareinventaris - bedreigings- en kwetsbaarheidsbeheer](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)voor meer informatie.
+De softwarevoorraad in Microsoft Defender ATP service bevat de productnaam of leverancier, het nieuwste versienummer en gedetecteerde zwakke punten en beveiligingslekken. Zie Software inventory [- Threat and Vulnerability Management.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
-U vage of onvolledige informatie, onjuiste versienummers of gesaneerde softwarevoorraadgegevens rapporteren door deze stappen te volgen.  
+U kunt vage of onvolledige informatie, onjuiste versienummers of gesaneerde softwarevoorraadgegevens rapporteren door deze stappen uit te voeren.  
 
-1. Open de software-flyout en selecteer de toepassing op de pagina Softwarevoorraad.
-2. Selecteer **Onjuistheden van rapport**en selecteer in het flyout-deelvenster een categorie in het vervolgkeuzemenu.
-3. Vul uw e-mailadres en de details van de onnauwkeurigheid in.
+1. Open de software flyout en selecteer de toepassing op de pagina Softwarevoorraad.
+2. Selecteer **Onnauwkeurigheid melden** en selecteer in het deelvenster Flyout een categorie in de vervolgkeuzelijst.
+3. Vul uw e-mailadres in en de details van de onnauwkeurigheid.
 4. Selecteer **Verzenden**.</br>
-    Uw feedback wordt onmiddellijk verzonden naar Threat & Vulnerability Management experts.
+    Uw feedback wordt onmiddellijk verzonden naar experts & Beveiligingsprobleembeheer.

@@ -1,5 +1,5 @@
 ---
-title: Invoegingen beheren tijdens het lezen van een bericht
+title: Invoegvoegingen beheren tijdens het lezen van een bericht
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713560"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543995"
 ---
-# <a name="how-to-manage-add-ins-while-reading-a-message"></a>Invoegingen beheren tijdens het lezen van een bericht
+# <a name="how-to-manage-add-ins-while-reading-a-message"></a>Invoegvoegingen beheren tijdens het lezen van een bericht
 
-1. Selecteer een bericht in de webversie van Outlook.
+1. Selecteer Outlook op internet een bericht.
     
-2. Selecteer **Meer acties** boven aan het bericht.
+2. Selecteer de drie puntjes (meer acties) boven aan het bericht.
 
-3. Ga naar het einde van de lijst en selecteer **Invoeg graag.**
+3. Ga naar de onderkant van de lijst en selecteer **Invoegvoegingen krijgen.**
     
-4. Selecteer de 3D-invoegversie op de pagina Invoegingen voor Outlook.
+4. Selecteer op de pagina Invoegvoegingen voor Outlook de juiste invoegvoegvoeging.
     
-    Selecteer Voor gratis invoegingen de optie **Toevoegen om** deze aan uw postvak toe te voegen.
+    Voor gratis invoegvoegingen selecteert u **Toevoegen om** het toe te voegen aan uw postvak.
     
-    Selecteer Downloaden voor betaalde invoeg  graag en gratis proefversies om uw aankoop te starten.
+    Voor betaalde invoegversies en gratis proefversies **selecteert** u Downloaden om uw aankoop te starten.
     
-Zie Invoegingen gebruiken in de [webversie van Outlook voor meer informatie.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)
+Zie Invoegvoegingen gebruiken in Outlook web voor [meer informatie.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)

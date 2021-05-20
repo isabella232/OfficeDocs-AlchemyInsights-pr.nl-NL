@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 9f5bdb508f2e1ab884cb199914885ccb6103f2fb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821289"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543887"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Belastingvrijstelling aanvragen
 
-Houd de volgende documentatie bij de hand. U moet [een serviceaanvraag starten](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) om belastingvrijstelling aan te vragen.
+Houd de volgende documentatie bij de hand. U moet [een serviceaanvraag starten](https://go.microsoft.com/fwlink/p/?linkid=518322) om belastingvrijstelling aan te vragen.
 
 - **Verenigde Staten**: houd het **Sales Tax Exemption Certificate** bij de hand.
 
@@ -33,4 +33,4 @@ Houd de volgende documentatie bij de hand. U moet [een serviceaanvraag starten](
 
 - **Puerto Rico**: houd het **Certificado de Compras Exentas** bij de hand.
 
-Bekijk [Belastinginformatie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information) voor meer informatie.
+Bekijk [Belastinginformatie](/microsoft-365/commerce/billing-and-payments/tax-information) voor meer informatie.
