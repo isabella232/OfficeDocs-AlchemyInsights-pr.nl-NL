@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683861"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569610"
 ---
 # <a name="how-to-verify-your-domain"></a>Uw domein verifiëren
 
-Als u een domein wilt controleren, volgt u de [wizard domein toevoegen](https://admin.microsoft.com/Adminportal#/Domains/Wizard)of opent **u hand** matig  >    >  **domein toevoegen**.
+Als u een domein wilt verifiëren, volgt u [de wizard Domein toevoegen](https://admin.microsoft.com/Adminportal#/Domains/Wizard)of gaat u handmatig naar Domein toevoegen   >  **domein**  >  **instellen.**
 
-Zie de instructies in [DNS-records toevoegen om uw](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)domein te koppelen voor meer informatie over het controleren van uw domein in DNS-wijzigingen.
+Zie de instructies in [DNS-records toevoegen](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)om uw domein te verbinden voor meer informatie over DNS-wijzigingen die nodig zijn om uw domein te verifiëren.
 
-Zie de [Veelgestelde vragen over domeinen](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)voor andere domeinen vragen.
+Zie de veelgestelde vragen over domeinen voor [andere domeinen.](/microsoft-365/admin/setup/domains-faq)
