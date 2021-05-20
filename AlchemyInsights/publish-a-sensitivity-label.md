@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233781"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539639"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Een gevoeligheidslabel publiceren
 
@@ -26,7 +26,7 @@ ms.locfileid: "52233781"
 
 1. Selecteer op de pagina Gevoeligheidslabels het **tabblad Labelbeleid** en selecteer **vervolgens Labels publiceren.**
 
-1. Selecteer **Gevoeligheidslabels kiezen om te publiceren.** Selecteer de etiketten die u beschikbaar wilt maken in apps en services en selecteer vervolgens **Toevoegen.**
+1. Selecteer **Gevoeligheidslabels kiezen om te publiceren.** Selecteer de labels die u beschikbaar wilt maken in apps en services en selecteer vervolgens **Toevoegen**.
 
     **Belangrijk:** Als u een sublabel selecteert, moet u ook het bovenliggende label selecteren.
 
@@ -34,8 +34,8 @@ ms.locfileid: "52233781"
 
 1. Volg de aanwijzingen om de beleidsinstellingen te configureren.
 
-1. Herhaal deze stappen als u verschillende beleidsinstellingen voor verschillende gebruikers of locaties nodig hebt. U wilt bijvoorbeeld extra labels voor een groep gebruikers of een ander standaardlabel voor een subset gebruikers.
+1. Herhaal deze stappen als u verschillende beleidsinstellingen voor verschillende gebruikers of locaties nodig hebt. Stel dat u extra labels voor een groep gebruikers wilt of een ander standaardlabel wilt voor een subset van gebruikers.
 
-1. Als u meer dan één labelbeleid maakt dat kan leiden tot een conflict voor een gebruiker of locatie, controleert u de beleidsorder en verplaatst u deze zo nodig omhoog of omlaag. Als u de volgorde van een labelbeleid wilt wijzigen, **selecteert** u ... voor **Meer acties** en selecteert u Vervolgens **Omhoog** of **Omlaag gaan.**
+1. Als u meer dan één labelbeleid maakt dat kan leiden tot een conflict voor een gebruiker of locatie, controleert u de beleidsorder en verplaatst u deze zo nodig omhoog of omlaag. Als u de volgorde van een labelbeleid wilt wijzigen, selecteert u de drie puntjes (meer acties) en selecteert u Omhoog of **Omlaag gaan.** 
 
 Als u de wizard voltooit, wordt het labelbeleid automatisch gepubliceerd.

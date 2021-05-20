@@ -1,5 +1,5 @@
 ---
-title: Meer informatie over ATP
+title: Meer informatie over Microsoft Defender voor Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403558"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539783"
 ---
-# <a name="learn-about-atp"></a>Meer informatie over ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Meer informatie over Microsoft Defender voor Office 365
 
-Hier vindt u informatie over Office 365 Advanced Threat Protection (ATP):
+Hier vindt u enkele informatie over Microsoft Defender voor Office 365:
 
-**Wat is ATP?**
+**Wat is Microsoft Defender voor Office 365?**
 
-ATP is een cloud-e-mailfilterservice die organisaties helpt beschermen tegen onbekende malware en virussen door krachtige zero-day-beveiliging te bieden. Het bevat functies om organisaties in realtime te beschermen tegen schadelijke koppelingen.
+Microsoft Defender voor Office 365 is een cloud-gebaseerde e-mailfilterservice waarmee organisaties worden beschermd tegen onbekende malware en virussen door krachtige zero-day-beveiliging te bieden. Het bevat functies om organisaties in realtime te beschermen tegen schadelijke koppelingen.
 
-**Hoe activeer ik ATP?**
+**Hoe activeer ik Microsoft Defender voor Office 365?**
 
-Veilige bijlagen, veilige koppelingen en anti-phishing maken deel uit van de ATP-functie. Enterprise E5, Education A5 en Microsoft 365 Business bevatten ingebouwde ATP-functies. Voor alle andere abonnementen is een ATP-invoegabonnement vereist. U moet de juiste licenties toewijzen aan uw gebruikers om te worden beschermd door Office 365 ATP. U moet globale beheerders- of beveiligingsbeheerdersmachtigingen hebben om toegang te krijgen tot deze functie. Zie Licenties toewijzen aan gebruikers [in Office 365 voor Bedrijven](https://go.microsoft.com/fwlink/?linkid=2093435)voor meer informatie over het bulksgewijs toepassen van licenties op uw eindgebruikers.
+Safe Bijlagen, Safe koppelingen en anti-phishing maken deel uit van de Microsoft Defender voor Office 365 functie. Enterprise E5, Education A5 en Microsoft 365 Business bevatten ingebouwde Microsoft Defender voor Office 365 functies. Voor alle andere abonnementen is een invoegabonnement op Microsoft Defender Office 365 vereist. U moet de juiste licenties toewijzen aan uw gebruikers om te worden beschermd door Microsoft Defender voor Office 365. U moet globale beheerders- of beveiligingsbeheerdersmachtigingen hebben om toegang te krijgen tot deze functie. Zie Licenties toewijzen aan gebruikers in Office 365 voor bedrijven voor meer informatie over het [bulksgewijs](https://go.microsoft.com/fwlink/?linkid=2093435)toepassen van licenties op uw eindgebruikers.
 
-**Hoe beheer ik ATP of lees ik er meer over?**
+**Hoe beheer ik Microsoft Defender voor Office 365 of meer informatie?**
 
 a. Ga naar [Setup](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 b. Zoek **onder Aanmelden en beveiliging** de optie Beveiliging tegen **geavanceerde** bedreigingen vergroten en selecteer [Vervolgens Weergeven.](https://go.microsoft.com/fwlink/?linkid=2109302)

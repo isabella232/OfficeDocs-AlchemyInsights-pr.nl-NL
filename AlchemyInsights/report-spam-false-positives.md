@@ -1,5 +1,5 @@
 ---
-title: 975 wilt u een spam melden dat positief is voor Microsoft?
+title: 975 Wilt u een spam onwaar positief melden bij Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692326"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540395"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Wilt u een spam melden dat er positief aan Microsoft is.
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Wilt u een spam false positive melden bij Microsoft?
 
-Als beheerder kunt u de beste manier bepalen waarom een malafide of spambericht is bezorgd door het voorbeeld bij Microsoft te verzenden in de [Verkenner](https://protection.office.com/reportsubmission). U kunt uw gebruikers toestaan om rechtstreeks met Microsoft te rapporteren via de [invoegtoepassing bericht melden](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Als beheerder kunt u het beste bepalen waarom een phishing- of spambericht is bezorgd door het voorbeeld in te dienen bij Microsoft in [Submissions Explorer.](https://protection.office.com/reportsubmission) U kunt ervoor zorgen dat uw gebruikers zich rechtstreeks bij Microsoft kunnen melden via de invoegvoegapp [Rapportbericht.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-We raden u aan dat u [de spamfilters van Microsoft 365 wilt omzeilen](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+We raden u aan voorzichtig te zijn als u besluit de [Microsoft 365 spamfilters te omzeilen.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Wist u dat?**: u kunt nu voorbeelden rechtstreeks indienen vanuit de [bericht tracering](https://protection.office.com/messagetrace) en E5/ATP-abonnement 2-klanten kunnen voorbeelden van de [bedreigings Verkenner](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)indienen.
+**Wist u dat?**: U kunt nu rechtstreeks steekproeven indienen vanuit [Message Trace](https://protection.office.com/messagetrace) en E5/Microsoft Defender voor Office 365 Plan 2-klanten kunnen steekproeven indienen vanuit [Threat Explorer.](/microsoft-365/security/office-365-security/threat-explorer)
