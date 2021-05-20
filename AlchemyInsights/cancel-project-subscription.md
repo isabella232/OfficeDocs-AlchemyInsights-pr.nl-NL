@@ -1,5 +1,5 @@
 ---
-title: Project abonnement opzeggen
+title: Abonnement Project opzeggen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416488"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543392"
 ---
-# <a name="cancel-project-subscription"></a>Project abonnement opzeggen
+# <a name="cancel-project-subscription"></a>Abonnement Project opzeggen
 
-Beheerders kunnen het project abonnement voor hun organisatie opzeggen in het Microsoft 365-Beheercentrum.
+Beheerders kunnen het Project voor hun organisatie opzeggen in het Microsoft 365 beheercentrum.
 
-1. Ga naar de **Billing** \> pagina [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
-2. Zoek op het tabblad **producten** naar het project abonnement dat u wilt opzeggen. Selecteer **meer acties** (drie puntjes) en selecteer vervolgens **abonnement annuleren**.
-3. Kies in het deelvenster **abonnement annuleren** een reden waarom u wilt opzeggen. U kunt ook feedback geven.
+1. Ga naar de **pagina Facturering** van \> [uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Zoek op **het** tabblad Producten naar Project abonnement dat u wilt annuleren. Selecteer de drie puntjes (meer acties) en selecteer vervolgens **Abonnement annuleren.**
+3. Kies in het deelvenster **Abonnement annuleren** een reden waarom u wilt opzeggen. Geef desgewenst feedback.
 4. Kies **Opslaan**.
 
-**Restitutie:** Het naar u verzonden tegoed wordt binnen de volgende factureringscyclus weergegeven.
+**Restitutie:** een eventueel tegoed naar rato wordt aan u terugbetaald in de volgende factureringscyclus.
 
-Zie [uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)voor meer informatie.
+Zie Uw abonnement [opzeggen voor meer informatie.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

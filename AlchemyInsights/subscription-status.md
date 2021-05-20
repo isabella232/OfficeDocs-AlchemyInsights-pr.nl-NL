@@ -1,5 +1,5 @@
 ---
-title: Status van abonnement
+title: Abonnementsstatus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286953"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542780"
 ---
-# <a name="subscription-status"></a>Status van abonnement
+# <a name="subscription-status"></a>Abonnementsstatus
 
-De status van het abonnement, de vervaldatum en het aantal licenties vindt u op de pagina **uw producten** van het microsoft 365-Beheercentrum.
+De abonnementsstatus, vervaldatum en het aantal licenties vindt u op de pagina Uw **producten** van het Microsoft 365 beheercentrum.
 
-1. Ga in het Beheercentrum naar de pagina **Billing**  >  [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
-2. Op het tabblad **Products** ziet u standaard alle abonnementen en hun status (actief, verlopen, uitgeschakeld, of verwijderd). Als u een subset van alle abonnementen wilt bekijken, selecteert u het pictogram filter en selecteert u vervolgens de status van het **abonnement** dat u wilt bekijken.
-3. Als u een verlopen of uitgeschakeld abonnement opnieuw wilt activeren, selecteert u **meer acties** (drie puntjes) en selecteert u vervolgens **dit abonnement opnieuw activeren**.
-4. Op de pagina **uw producten** wordt ook de volgende informatie weergegeven:
-    - Het aantal licenties dat aan gebruikers is toegewezen, wordt weergegeven in de kolom **toegewezen licenties** .
-    - Het totale aantal licenties dat in het abonnement is opgenomen, wordt weergegeven in de kolom **aangeschaft aantal** .
-    - De vervaldatum of verlengings datum in de kolom **status van abonnement** .
-    - De betaalwijze waarmee voor elk abonnement wordt betaald, wordt weergegeven in de kolom **betaald met** .
-    - Het aan elk abonnement gekoppelde factureringsaccount wordt weergegeven in de kolom **factureringsaccount** .
-5. Als u kolommen wilt toevoegen of verwijderen, selecteert u **kolommen kiezen**.
+1. Ga in het beheercentrum naar de pagina **Facturering** > [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Op **het tabblad** Producten ziet u standaard alle abonnementen en hun status (Actief, Verlopen, Uitgeschakeld of Verwijderd). Als u een subset van alle abonnementen wilt zien, selecteert u het filterpictogram en selecteert u vervolgens de **abonnementsstatus** die u wilt zien.
+3. Als u een verlopen of uitgeschakeld abonnement opnieuw wilt activeren, selecteert u de drie puntjes (meer acties) en selecteert u vervolgens **Dit abonnement opnieuw activeren.**
+4. Op **de pagina Uw** producten worden ook de volgende gegevens weergegeven:
+    - Het aantal licenties dat aan gebruikers is toegewezen, wordt weergegeven in de kolom **Toegewezen** licenties.
+    - Het totale aantal licenties dat in het abonnement is opgenomen, wordt weergegeven in **de kolom Gekocht aantal.**
+    - De vervaldatum of verlengingsdatum in de **kolom Abonnementsstatus.**
+    - De betalingswijze die wordt gebruikt om voor elk abonnement te betalen, wordt weergegeven in **de kolom Betaald met.**
+    - Het factureringsaccount dat aan elk abonnement is gekoppeld, wordt weergegeven in de **kolom Factureringsaccount.**
+5. Als u kolommen wilt toevoegen of verwijderen, **selecteert u Kolommen kiezen.**

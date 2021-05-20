@@ -1,5 +1,5 @@
 ---
-title: Advanced Threat Protection in SharePoint en OneDrive
+title: Geavanceerde bedreigingsbeveiliging in SharePoint en OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663328"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542924"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Advanced Threat Protection (ATP) in SharePoint en OneDrive
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender voor Office 365 in SharePoint en OneDrive
 
 Zie de volgende artikelen:
-- [ATP voor SharePoint, OneDrive en teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Bedreigings Verkenner en realtime detectie](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Microsoft Defender voor Office 365 voor SharePoint, OneDrive en Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Bedreigingsverkenner en realtimedetectie](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Aanvullende informatie:
 
-- [Virus detectie in SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Gegevensversleuteling in ODB en SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Uw gegevens in SharePoint beveiligen](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware-detectie en het herstellen van bestanden](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Virusdetectie in SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Gegevensversleuteling in ODB en SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Uw gegevens beschermen in SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Ransomware Detection and recovering files](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

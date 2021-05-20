@@ -1,5 +1,5 @@
 ---
-title: Wilt u uw Microsoft 365-abonnement opzeggen?
+title: Uw abonnement Microsoft 365 opzeggen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232002"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543212"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Wilt u uw Microsoft 365-abonnement opzeggen?
+# <a name="canceling-your-microsoft-365-subscription"></a>Uw abonnement Microsoft 365 opzeggen?
 
-Jammer dat u op zoek bent!
+Het spijt ons dat u weg bent.
   
-Op basis van gegevens van uw organisatie zien wij dat al uw huidige abonnementen meer dan 25 toegewezen licenties hebben. Voordat u kunt annuleren:
+Op basis van uw organisatiegegevens zijn we van mening dat al uw huidige abonnementen meer dan 25 toegewezen licenties hebben. Voordat u kunt annuleren:
 
 1. Verwijder licenties van gebruikers totdat u minder dan 25 gebruikers met een licentie hebt.
-2. Ga naar de **pagina Je** \> **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-3. Zoek op **het** tabblad Producten naar het abonnement dat u wilt opzeggen, selecteer Meer acties **(drie** puntjes) en selecteer Vervolgens **Abonnement annuleren.**
+2. Ga naar de **pagina Facturering** van \> **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. Zoek op **het** tabblad Producten het abonnement dat u wilt annuleren, selecteer de drie puntjes (meer acties) en selecteer **vervolgens Abonnement annuleren.**
 
-**Terugbetaling:** Een tegoed naar rekening wordt aan u geretourneerd in de volgende factureringscyclus.
+**Restitutie:** een eventueel tegoed naar rato wordt aan u terugbetaald in de volgende factureringscyclus.
 
-Zie Uw abonnement [opzeggen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Zie Uw abonnement [opzeggen voor meer informatie.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
