@@ -1,5 +1,5 @@
 ---
-title: Een app opzeggen
+title: Een app annuleren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 2006de9e9789dd080a45fa4962109690eb41d923
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488840"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544609"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Software-as-service-apps annuleren
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Software-as-a-service-apps annuleren
 
-1. In het Beheercentrum, op de **Billing**  >  pagina[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren.
-2. Schuif op de pagina **Products** omlaag naar de sectie **apps** en zoek het abonnement dat u wilt opzeggen. 
-3. Selecteer **meer acties** (drie puntjes) en selecteer vervolgens **abonnement annuleren**.
-4. Kies in het deelvenster **abonnement annuleren** een reden waarom u wilt opzeggen. U kunt ook feedback geven.
+1. In het beheercentrum gaat u naar **de pagina Uw** producten  >  [factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Schuif op **de** pagina Producten omlaag naar de sectie **Apps** en zoek het abonnement dat u wilt annuleren. 
+3. Selecteer de drie puntjes (meer acties) en selecteer vervolgens **Abonnement annuleren.**
+4. Kies in het deelvenster **Abonnement annuleren** een reden waarom u wilt opzeggen. Geef desgewenst feedback.
 5. Kies **Opslaan**.

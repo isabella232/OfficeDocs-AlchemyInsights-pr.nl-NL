@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.openlocfilehash: 7f0bd783afac9726e223de74c7ef286a4d971d02
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: c1f3e780cbb6fa1e6240f0c057ec91b6b64658d2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261839"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544213"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Volume licensing enterprise agreement activated on the wrong account or transfering licenses from one account to another
 
-Als uw abonnementen die zijn gekocht via een **volumelicentie-Enterprise Agreement** zijn geactiveerd op de verkeerde  **tenant** of als u licenties van de ene tenant naar de andere wilt overstappen, neem dan [contact](/microsoft-365/admin/contact-support-for-business-products)op met ondersteuning.
+Als uw abonnementen die zijn gekocht via een **volumelicentie-Enterprise Agreement** zijn geactiveerd op de verkeerde  **tenant** of als u licenties van de ene tenant naar de andere wilt overstappen, neem dan [contact](https://go.microsoft.com/fwlink/p/?linkid=518322)op met ondersteuning.

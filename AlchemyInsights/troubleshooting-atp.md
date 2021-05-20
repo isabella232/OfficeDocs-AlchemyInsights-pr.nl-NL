@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met Microsoft Defender voor Office 365
+title: Problemen met Microsoft Defender oplossen voor Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801438"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545263"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problemen oplossen met Microsoft Defender voor Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problemen met Microsoft Defender oplossen voor Office 365
 
-- Merkt u vertragingen bij het bezorgen van berichten? Gebruik de optie [dynamische bezorgings](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) functie in het beleid voor veilige bijlagen van ATP. Dit helpt geen vertragingen van berichten te voorkomen tijdens de bescherming van geadresseerden tegen kwaadwillende bestanden.
+- **Ziet u vertragingen in de bezorging van berichten?** Gebruik de [optie Dynamische bezorging](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) in uw Microsoft Defender voor Office 365 Safe bijlagenbeleid. Zo voorkomt u vertragingen in berichten terwijl geadresseerden worden beschermd tegen schadelijke bestanden.
 
-- Wilt u onjuiste of onjuiste negatieven rapporteren aan Microsoft? Gebruik deze [koppeling](https://www.microsoft.com/wdsi/filesubmission/) om bestanden in te dienen voor analyse.
+- **Wilt u false positives of false negatives rapporteren aan Microsoft?** [Inzendingsverkenner gebruiken.](https://protection.office.com/reportsubmission)
 
-- Wist u dat u de bescherming van veilige koppelingen kunt inschakelen voor interne e-mail die wordt verzonden tussen geadresseerden binnen uw organisatie? Ga als volgt te werk:
+-** Wist u dat u de beveiliging Safe koppelingen kunt inschakelen voor interne e-mail die wordt verzonden tussen geadresseerden binnen uw organisatie?** Volg de volgende stappen:
 
-  1. Ga naar [https://protection.office.com](https://protection.office.com) en meld u aan met een globale beheerder of een beheerdersaccount voor beveiliging.
+  1. Ga naar [https://protection.office.com](https://protection.office.com) en meld u aan met een globale beheerder of beveiligingsbeheerderaccount.
 
-  2. Kies in het linker navigatiedeelvenster onder **Threat Management** de optie **beleids** \> **veilige koppelingen** .
+  2. Kies in het linkernavigatiedeelvenster  onder **Bedreigingsbeheer** de optie \> **Beleid Safe Koppelingen.**
 
-  3. Selecteer in de sectie **beleidsregels die van toepassing zijn op de hele organisatie** het beleid en klik op **bewerken** .
+  3. Selecteer in **de sectie Beleidsregels die** van toepassing zijn op de hele organisatie het beleid en klik op **Bewerken.**
 
-  4. Selecteer onder **instellingen** de optie **veilige koppelingen toepassen op berichten die binnen de organisatie worden verzonden** .
+  4. Schakel **onder Instellingen** veilige koppelingen toepassen op berichten die binnen de organisatie worden **verzonden in.**

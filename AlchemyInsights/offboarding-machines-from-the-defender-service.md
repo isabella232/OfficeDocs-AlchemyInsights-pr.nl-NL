@@ -1,5 +1,5 @@
 ---
-title: Offboarding machines van de Microsoft Defender ATP-service
+title: Offboarding-machines van de Microsoft Defender ATP service
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: fbba15ad0d93f61d5a3fd2bb24ae54f17141ee8b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713510"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544681"
 ---
-# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Offboarding machines van de Microsoft Defender ATP-service
+# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Offboarding-machines van de Microsoft Defender ATP service
 
-Als u hulp nodig hebt bij het offboarden van een computer met de Defender ATP-service, raadpleegt u de instructies voor uw besturingssysteem:  
+Raadpleeg de instructies voor uw besturingssysteem als u hulp nodig hebt bij het offboarden van een computer van de ATP-service van Defender:  
 
-- Zie Offboard-apparaten van de [Microsoft Defender ATP-service](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)voor Windows 10-apparaten.
-- Zie [Offboard-apparaten](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)die niet van Windows zijn.
+- Zie Offboard Windows 10-apparaten van de Microsoft Defender ATP [voor meer apparaten.](/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)
+- Zie Niet-Windows [offboard-apparaten voor niet-Windows apparaten.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)

@@ -1,5 +1,5 @@
 ---
-title: nieuwe functie 2554 voor hulp bij het opsporen van EOP en ATP
+title: 2554 Nieuwe functie voor het opsporen van EOP en Microsoft Defender voor Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726482"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544897"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Nieuwe functie voor het oplossen van problemen met EOP en ATP
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Nieuwe functie voor het diagnosticeren van EOP en Microsoft Defender voor Office 365
 
-Als beheerder kunt u nu eenvoudig verdachte e-mailberichten, Url's en inhoud aan Microsoft melden in de [Verkenner](https://protection.office.com/reportsubmission). U kunt het zelfs gebruiken om inzicht te krijgen in het feit waarom een legitiem bericht onjuist is gemarkeerd. Voor meer informatie raadpleegt u deze [aankondiging](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Als beheerder kunt u nu eenvoudig verdachte e-mailberichten, URL's en inhoud rapporteren aan Microsoft in [Submissions Explorer.](https://protection.office.com/reportsubmission) U kunt het bericht zelfs gebruiken om te begrijpen waarom een legitiem bericht onjuist is gemarkeerd. Zie deze aankondiging voor [meer informatie.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)

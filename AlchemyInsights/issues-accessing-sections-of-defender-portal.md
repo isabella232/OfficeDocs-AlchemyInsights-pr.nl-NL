@@ -1,5 +1,5 @@
 ---
-title: Problemen bij het openen van secties van Microsoft Defender ATP-portal
+title: Problemen met het openen van secties van Microsoft Defender voor Office 365 portal
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713550"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545227"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Problemen bij het openen van secties van Microsoft Defender ATP-portal
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Problemen met het openen van secties van Microsoft Defender voor Office 365 portal
 
-Als in het portaldashboard en andere secties een foutbericht wordt weergegeven zoals 'Gegevens zijn momenteel niet beschikbaar', zijn bepaalde URL-domeinen en alle subdomeinen waarschijnlijk toegestaan in uw organisatie en geopend voor communicatie. 
+Als in het portaldashboard en andere secties een foutbericht wordt weergegeven, zoals 'Gegevens zijn momenteel niet beschikbaar', is het waarschijnlijk dat bepaalde URL-domeinen en alle subdomeinen zijn toegestaan in uw organisatie en worden geopend voor communicatie. 
 
-Zie Problemen met abonnementen en [portaltoegang oplossen voor meer informatie.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)
+Zie Problemen met abonnementen [en portaltoegang oplossen](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)voor meer informatie.

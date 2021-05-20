@@ -1,5 +1,5 @@
 ---
-title: 2491-waarschuwingen voor e-mailberichten van het beleid ' phishing verzonden vanwege Tenant of gebruiker override '
+title: 2491 E-mailberichten van het beleid 'Phish Delivered due to tenant or user override'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728606"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544573"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Waarschuwen voor e-mailberichten van het beleid ' phishing is bezorgd vanwege Tenant of gebruiker override '
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>E-mailberichten waarschuwen vanuit het beleid 'Phish Delivered due to tenant or user override'
 
-Een standaard waarschuwings beleid met de naam ' phishing bezorgd vanwege Tenant of gebruiker override ' is uitgerold naar tenants met Office 365 ATP P1 en P2-licenties. Als u deze melding ontvangt, volgt u deze stappen:
+Er is een standaardwaarschuwingsbeleid met de naam 'Phish Delivered due to tenant or user override' uitgerold naar tenants met Microsoft Defender voor Office 365 P1- en P2-licenties. Als u deze waarschuwing hebt ontvangen, volgen de volgende stappen om dit te onderzoeken:
 
-1. Klik in het waarschuwingsbericht op **melding weergeven** om naar de pagina **waarschuwingen** in het beveiligings & nalevings centrum te gaan.
+1. Klik in het waarschuwingsbericht op **Waarschuwing weergeven om** naar de pagina **Waarschuwingen** te gaan in & Compliancecentrum.
 
-2. Selecteer de melding om de optie voor het **weergeven** van berichten **in Verkenner**weer te geven. Met deze opties kunt u de details van het bericht, inclusief de bericht-ID, volgen. Houd er rekening mee dat de koppeling bedreigings Verkenner automatisch de berichten filtert die voldoen aan de waarschuwingscriteria. Mogelijk moet u het datumfilter in de bedreigings Verkenner aanpassen.
+2. Selecteer de waarschuwing om de optie Berichtenlijst weergeven **of** **Berichten weergeven in Verkenner te zien.** Beide opties brengen u naar de details van het bericht, inclusief de bericht-id. Houd er rekening mee dat de koppeling Threat Explorer automatisch de berichten filtert die voldoen aan de waarschuwingscriteria. Mogelijk moet u het datumfilter in Threat Explorer aanpassen.
 
-Het malafide bericht is bezorgd vanwege een handmatig geconfigureerde Override:
+Het phishingbericht is bezorgd vanwege een handmatig geconfigureerde override:
 
-- Een toegestane afzender of domein dat is opgegeven door de gebruiker.
+- Een toegestane afzender of domein die door de gebruiker is ingesteld.
 
-- Een toegestane afzender of domein dat door de beheerder is ingesteld op een antispambeleid.
+- Een toegestane afzender of domein die door de beheerder is ingesteld in een antispambeleid.
 
-- Een toegestaan IP-adres in een beleid voor verbindings filters.
+- Een toegestaan IP-adres in een verbindingsfilterbeleid.
 
-- Een e-mail stroom regel (ook wel een transportregel genoemd) die is geconfigureerd voor het toestaan van berichten in.
+- Een regel voor de e-mailstroom (ook wel een transportregel genoemd) die is geconfigureerd om berichten toe te staan.
 
-Als u van mening bent dat het bericht onjuist is gemarkeerd als phishing, gebruikt u de [invoegtoepassing rapportbericht](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) in Outlook om bericht voorbeelden bij Microsoft in te dienen.
+Als u denkt dat het bericht ten onrechte is gemarkeerd als phish, gebruikt u de invoeg Outlook [Rapportbericht](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) om berichtvoorbeelden in te dienen bij Microsoft.

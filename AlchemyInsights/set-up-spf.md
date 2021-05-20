@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798947"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544645"
 ---
 # <a name="set-up-spf"></a>SPF instellen
 
-Werk uw DNS-records bij, zodat u met uw aangepaste domein uitgaande e-mail die u vanuit uw aangepaste domein verzendt, kunt valideren. Hiermee kunt u voorkomen dat anderen e-mail ' spoofing ' verzenden alsof deze afkomstig zijn van uw domein.
+Werk uw DNS-records bij, zodat u een SPF (Sender Policy Framework) kunt gebruiken met uw aangepaste domein om uitgaande e-mail te valideren die is verzonden vanuit uw aangepaste domein. Zo voorkomt u dat anderen e-mail 'spoofen' alsof deze vanuit uw domein zijn verzonden.
   
-- [SPF instellen om adresvervalsing te helpen voorkomen](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [SPF instellen om adresvervalsing te helpen voorkomen](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Hulp bij het instellen van alle DNS-records](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Problemen met SPF-records oplossen](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Help bij het instellen van alle DNS-records](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

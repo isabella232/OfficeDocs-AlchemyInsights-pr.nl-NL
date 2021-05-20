@@ -1,5 +1,5 @@
 ---
-title: Office 365 ATP inschakelen voor SharePoint, OneDrive en Microsoft teams
+title: Schakel Office 365 ATP in voor SharePoint, OneDrive en Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801042"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543923"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Microsoft Defender for Office 365 inschakelen voor SharePoint Online, OneDrive en Microsoft teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Microsoft Defender inschakelen voor Office 365 voor SharePoint Online, OneDrive en Microsoft Teams
 
 1. Ga naar https://protection.office.com en meld u aan.
-2. Selecteer **Threat management**  >  **Policy**  >  **veilige bijlagen** voor het beleid voor bedreigings beheer.
-3. Selecteer **ATP voor SharePoint, OneDrive en Microsoft teams inschakelen** en klik op **Opslaan** .
-4. Beter Als globale beheerder of een SharePoint Online-beheerder voert u de cmdlet [set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) uit waarbij de **DisallowInfectedFileDownload** -parameter is ingesteld op *waar* .
-5. Beter [Waarschuwingen instellen](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) voor gedetecteerde bestanden.
+2. Kies **Bedreigingsbeheerbeleid**  >    >  **Safe Bijlagen**.
+3. Selecteer **Defender in Office 365 voor SharePoint, OneDrive en Microsoft Teams** en klik vervolgens op **Opslaan.**
+4. (Aanbevolen) Als globale beheerder of SharePoint Online-beheerder kunt u de cmdlet [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) uitvoeren met de parameter **DisallowInfectedFileDownload** die is ingesteld op *true.*
+5. (Aanbevolen) [Waarschuwingen instellen voor](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) gedetecteerde bestanden.
 
 > [!NOTE]
-> Met ATP kan ik elk afzonderlijk bestand in SharePoint Online, OneDrive of Microsoft teams scannen. Bestanden worden asynchroon gescand, via een proces waarbij gebeurtenissen voordelen en gebeurtenissen met gebeurtenissen van een gast worden gebruikt, samen met slimme heuristische en bedreigings signalen om kwaadaardige bestanden te identificeren. Bekijk [ATP voor SharePoint, OneDrive en Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+> Microsoft Defender voor Office 365 scant niet elk bestand in SharePoint Online, OneDrive of Microsoft Teams. Bestanden worden asynchroon gescand, via een proces dat gebruikmaakt van gebeurtenissen voor delen en gastactiviteit, samen met slimme heuristische en bedreigingssignalen om schadelijke bestanden te identificeren. Zie [Microsoft Defender voor Office 365 voor SharePoint, OneDrive en Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
