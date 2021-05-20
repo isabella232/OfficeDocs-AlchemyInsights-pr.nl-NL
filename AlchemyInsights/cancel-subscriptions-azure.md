@@ -3,7 +3,7 @@ title: Abonnementen in Azure opzeggen
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
+ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819579"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936149"
 ---
 # <a name="cancel-subscription"></a>Abonnement opzeggen
 
-Alleen accountbeheerder of recht van eigendom op het abonnement U kunt uw Azure-abonnement opzeggen in Azure Portal als u het abonnement niet meer nodig hebt. Voer de onderstaande stappen uit.
+Als u uw Azure-abonnement niet meer nodig hebt, kunt u dit annuleren in de Azure-portal. Azure-abonnementen kunnen alleen worden geannuleerd door de accountbeheerder of door gebruikers met eigenaarrechten voor het abonnement.
 
 1. Selecteer uw abonnement op de [pagina Abonnementen in Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Selecteer het abonnement dat u wilt opzeggen.
@@ -29,7 +29,7 @@ Alleen accountbeheerder of recht van eigendom op het abonnement U kunt uw Azure-
 
 **Wat gebeurt er als ik mijn abonnement heb opgezegd?**
 
-Nadat u het abonnement hebt opgezegd, wordt de facturering direct gestopt. Het kan echter tien minuten duren voordat de opzegging in de portal wordt getoond. Als u het abonnement tijdens een factureringsperiode opzegt, wordt de laatste factuur op de gebruikelijke factuurdatum naar u toe gestuurd nadat de periode is verstreken.
+Nadat u het abonnement hebt opgezegd, wordt de facturering direct gestopt. Het kan echter 10 minuten duren voordat de opzegging in de portal wordt getoond. Als u het abonnement tijdens een factureringsperiode opzegt, wordt de laatste factuur op de gebruikelijke factuurdatum naar u toe gestuurd nadat de periode is verstreken.
 
 Nadat u het abonnement hebt opgezegd, worden uw services opgeheven. Dat betekent dat de toewijzing van virtuele machines wordt opgeheven, dat tijdelijke IP-adressen worden vrijgegeven en dat opslag alleen-lezen is.
 
