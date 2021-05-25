@@ -1,5 +1,5 @@
 ---
-title: Ontwikkelaarsmodus inschakelen in Windows 10
+title: De ontwikkelaarsmodus inschakelen in Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,10 +19,10 @@ ms.contentlocale: nl-NL
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51814295"
 ---
-# <a name="enable-developer-mode-in-windows-10"></a>Ontwikkelaarsmodus inschakelen in Windows 10
+# <a name="enable-developer-mode-in-windows-10"></a>De ontwikkelaarsmodus inschakelen in Windows 10
 
-Ontwikkelaarsmodus is voor gebruikers die toepassingen ontwikkelen en die toepassingen moeten kunnen sideloaden en toegang moeten kunnen hebben tot andere ontwikkelaarsfuncties, zoals een toepassing uitvoeren de modus fouten opsporen in Visual Studio.
+De ontwikkelaarsmodus is bedoeld voor gebruikers die toepassingen ontwikkelen. Hiermee kunnen ze apps sideloaden en krijgen ze toegang tot andere ontwikkelaarsfuncties, zoals het uitvoeren van een app in de foutopsporingsmodus in Visual Studio.
 
-Ga om de ontwikkelaarsmodus inschakelen naar **[Instellingen > Update & beveiligng > Voor ontwikkelaars](ms-settings:developers?activationSource=GetHelp)**. Afhankelijk van uw Windows 10 build, ziet u of een selectielijst met de optie om sideloaden of de ontwikkelaarsmodus in te schakelen, of een wisselknop om **Ontwikkelaarsmodus** in te schakelen.
+Ga om de ontwikkelaarsmodus in te schakelen naar **[Instellingen > Bijwerken en beveiliging > Voor ontwikkelaars](ms-settings:developers?activationSource=GetHelp)**. Afhankelijk van de Windows 10-build die je gebruikt, zie je ofwel een selectielijst met de optie om sideloaden of de ontwikkelaarsmodus in te schakelen, of alleen een wisselknop om **Ontwikkelaarsmodus** in te schakelen.
 
-Ga voor meer informatie over de Ontwikkelaarsmodus naar [Uw apparaat inschakelen voor ontwikkeling](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development).
+Ga voor meer informatie over de ontwikkelaarsmodus naar het artikel over [het inschakelen van de ontwikkelaarsmodus voor je apparaat ](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development) (Engelstalig).

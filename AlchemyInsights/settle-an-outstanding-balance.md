@@ -1,5 +1,5 @@
 ---
-title: Betaal een openstaand saldo
+title: Een openstaand saldo betalen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,18 +19,18 @@ ms.contentlocale: nl-NL
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51831261"
 ---
-# <a name="settle-an-outstanding-balance"></a>Betaal een openstaand saldo
+# <a name="settle-an-outstanding-balance"></a>Een openstaand saldo betalen
 
-Als u een openstaand saldo heeft kunt u het saldo betalen via het **Microsoft 365-beheercentrum**.
+Als je een openstaand saldo hebt, kun je het saldo betalen via het **Microsoft 365-beheercentrum**.
 
 1. Ga naar **Facturering > [Uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Zoek het abonnement met het openstaand saldo. Klik in de Factureringssessie naast **Abonnement heeft een verschuldigd bedrag** op **Saldo betalen**.
+2. Zoek het abonnement met het openstaande saldo. Klik in de factureringssectie naast **Abonnement heeft een achterstallige betaling** op **Saldo betalen**.
 
-3. Als u de eigenaar van de creditcard bent, kunt u de verloopdatum van de kaart wijzigen, een andere kaart kiezen of [een nieuwe kaart toevoegen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+3. Als je de eigenaar van de creditcard bent, kun je de vervaldatum van de kaart wijzigen, een andere kaart kiezen of [een nieuwe kaart toevoegen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 
-4. Als u niet de eigenaar van de creditcard bent, kunt u een andere creditcard kiezen of [een nieuwe kaart toevoegen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+4. Als je niet de eigenaar van de creditcard bent, kun je een andere creditcard kiezen of [een nieuwe kaart toevoegen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 
-5. Klik nadat u uw creditcardinformatie heeft bijgewerkt of u de creditcard gewijzigd heeft op **Opslaan**.
+5. Klik nadat je jouw creditcardinformatie hebt bijgewerkt of de creditcard hebt gewijzigd op **Opslaan**.
 
-Raadpleeg [Uw abonnement betalen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide) voor meer informatie.
+Raadpleeg [Betalen voor jouw abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide) voor meer informatie.
