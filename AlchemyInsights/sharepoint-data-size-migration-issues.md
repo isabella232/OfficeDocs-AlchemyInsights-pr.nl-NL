@@ -1,5 +1,5 @@
 ---
-title: Problemen bij het migreren van gegevens naar SharePoint Online
+title: Problemen tijdens het migreren van gegevens naar SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700882"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694771"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="c85d2-102">Problemen bij het migreren van gegevens naar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="c85d2-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="1f26c-102">Problemen tijdens het migreren van gegevens naar SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="1f26c-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="c85d2-103">**Migreren over 100TB van gegevens**</span><span class="sxs-lookup"><span data-stu-id="c85d2-103">**Migrating over 100TB of data**</span></span>
+<span data-ttu-id="1f26c-103">**Meer dan 100 TB aan gegevens migreren**</span><span class="sxs-lookup"><span data-stu-id="1f26c-103">**Migrating over 100TB of data**</span></span>
 
-<span data-ttu-id="c85d2-104">U wordt gemigreerd naar 100TB gegevens naar SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c85d2-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="c85d2-105">Voer de onderstaande stappen uit, dus we kunnen u zo snel mogelijk helpen.</span><span class="sxs-lookup"><span data-stu-id="c85d2-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="1f26c-104">Het lijkt erop dat u meer dan 100 TB aan gegevens migreert naar SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="1f26c-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="1f26c-105">Volg de onderstaande stappen, zodat we u zo snel mogelijk kunnen helpen.</span><span class="sxs-lookup"><span data-stu-id="1f26c-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-1. <span data-ttu-id="c85d2-106">Selecteer **nieuwe serviceaanvraag**en vervolgens **nieuwe serviceaanvraag**.</span><span class="sxs-lookup"><span data-stu-id="c85d2-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="c85d2-107">Behoud de titel en beschrijving als **SharePoint-migratie via 100TB**.</span><span class="sxs-lookup"><span data-stu-id="c85d2-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="c85d2-108">Wanneer het ticket is ingediend, moet u dit bijwerken met de volgende informatie:</span><span class="sxs-lookup"><span data-stu-id="c85d2-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
+1. <span data-ttu-id="1f26c-106">Selecteer **Contact opnemen met ondersteuning** en vervolgens Nieuwe **serviceaanvraag.**</span><span class="sxs-lookup"><span data-stu-id="1f26c-106">Select **Contact Support**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="1f26c-107">Laat de titel en beschrijving als SharePoint **migratie van meer dan 100 TB.**</span><span class="sxs-lookup"><span data-stu-id="1f26c-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="1f26c-108">Nadat het ticket is verzonden, kunt u dit bijwerken met de volgende informatie:</span><span class="sxs-lookup"><span data-stu-id="1f26c-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-    - <span data-ttu-id="c85d2-109">Geschatte grootte van uw migratie.</span><span class="sxs-lookup"><span data-stu-id="c85d2-109">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="c85d2-110">Een raming van de manier waarop u de migratie wilt starten en voltooien.</span><span class="sxs-lookup"><span data-stu-id="c85d2-110">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="c85d2-111">Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, box, GDrive, bestandsshares, enzovoort.</span><span class="sxs-lookup"><span data-stu-id="c85d2-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="1f26c-109">Geschatte grootte van uw migratie.</span><span class="sxs-lookup"><span data-stu-id="1f26c-109">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="1f26c-110">Een schatting van wanneer u de migratie wilt starten en voltooien.</span><span class="sxs-lookup"><span data-stu-id="1f26c-110">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="1f26c-111">Beschrijf waar u uw inhoud vandaan migreert, zoals SharePoint Server, Box, GDrive, Bestandsaandelen, enzovoort.</span><span class="sxs-lookup"><span data-stu-id="1f26c-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
