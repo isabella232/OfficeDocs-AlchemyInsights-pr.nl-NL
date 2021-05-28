@@ -1,5 +1,5 @@
 ---
-title: Kan de opname van Een Teams-vergadering niet vinden
+title: Kan de opname van de Teams vergadering niet vinden
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294182"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696931"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Kan de opname van Een Teams-vergadering niet vinden
+# <a name="cant-find-the-teams-meeting-recording"></a>Kan de opname van de Teams vergadering niet vinden
 
-Als u een Opname van Teams-vergadering niet kunt vinden of vinden, raadpleegt u de volgende documentatie voor probleemoplossing:
+Als u een opname van een vergadering niet kunt vinden of Teams, moet u eerst de diagnostische opname ontbrekende vergadering uitvoeren door **Diag: Ontbrekende** opname te typen in het vak hierboven. 
 
-[Problemen met het opnemen van Teams-vergadering oplossen - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Opnamen worden gevonden in Stream, OneDrive of SharePoint, afhankelijk van hoe uw tenant is geconfigureerd en of de opname voor een kanaalvergadering was. Zie voor instructies over het handmatig vinden van de opname van de vergadering: 
 
-De opname van uw vergadering bevindt zich in Stream, OneDrive of SharePoint, afhankelijk van hoe uw tenant is geconfigureerd.
+[Probleem 2: De koppeling voor het opnemen van de vergadering is niet zichtbaar in een chatvenster](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Voor instructies over het zoeken naar de opname van een vergadering gaat u naar:
-
-**[Probleem 2: De koppeling voor het opnemen van de vergadering is niet zichtbaar in een chatvenster](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Zie Problemen met vergaderopnamen voor [meer informatie.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)

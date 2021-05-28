@@ -1,5 +1,5 @@
 ---
-title: 1:1-oproep opnemen
+title: 1:1 oproepopname
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733844"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696917"
 ---
-# <a name="11-call-recording"></a>1:1-oproep opnemen
+# <a name="11-call-recording"></a>1:1 oproepopname
 
-Beheerders moeten nu actie ondernemen om ervoor te zorgen dat gebruikers 1:1-gesprekken kunnen opnemen.
- 
-Vanaf 12 april 2021 wordt een nieuwe optie voor het oproepbeleid van Teams *AllowCloudRecordingForCalls afdwingen.* 
+Als de **knop Opname** starten grijs wordt weergegeven in een 1:1-gesprek, moet u de beleidsinstellingen voor de beïnvloede gebruiker wijzigen.   
 
-De mogelijkheden voor het opnemen van gesprekken met één op één worden momenteel bepaald door de *optie AllowCloudRecording* in Vergaderbeleid voor Teams. Als uw gebruikers toestemming hebben om Teams-vergaderingen op te nemen, kunnen ze ook een-op-een-gesprekken opnemen.
+Vanaf 31 mei 2021 gaan we een nieuwe Teams Belbeleid *AllowCloudRecordingForCalls afdwingen.* Vóór deze wijziging wordt de opname van 1:1-gesprekken bepaald door *het Teams AllowCloudRecording.* Deze wijziging wordt beschreven in het Berichtcentrumbericht: [(Bijgewerkt) 1:1 Beleidsintroductie voor het](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)opnemen van gesprekken.  
 
-Als u liever niet wilt dat alle gebruikers een-op-een-gesprekken kunnen opnemen, hoeft u niets te doen. *De beleidsoptie AllowCloudRecordingForCalls* wordt $False standaard uitgeschakeld.
+*AllowCloudRecordingForCalls*   De optie voor het bellen van het **$False** standaard ingesteld. Als u wilt blokkeren dat alle gebruikers 1:1-oproepen opnemen, hoeft u geen actie te ondernemen.  
 
-Deze wijziging wordt beschreven in het volgende bericht in het berichtencentrum: [(Bijgewerkt) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Introductie tot oproepopnamebeleid Om de optie Oproepbeleid voor Teams in te stellen, moet u [Teams PowerShell gebruiken.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+Als u oproepopname wilt inschakelen voor alle gebruikers in 1:1-oproepen, gebruikt u Teams PowerShell om de volgende cmdlet uit te voeren: 
 
-**Oproepopname inschakelen in een-op-een-gesprekken:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**Oproepopname uitschakelen in een-op-een-gesprekken:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+U kunt ook een nieuw beleid maken en **AllowCloudRecordingForCalls** instellen voor $true **en** dat beleid toewijzen aan uw gebruikers. 
 
+Zie [1:1 Gespreksopnamebeleidsbesturingselementen zijn (bijna!) voor meer informatie. Hier](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).

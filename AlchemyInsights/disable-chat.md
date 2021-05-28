@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573741"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696881"
 ---
 # <a name="disable-chat"></a>Chat uitschakelen
 
@@ -26,7 +26,7 @@ Als u chat voor uw organisatie wilt in- of uitschakelen, kunt u beleidsregels ma
 
 - **Vergadering:** Ga in het Teams beheercentrum naar Vergaderingsbeleid [-](https://admin.teams.microsoft.com/) De instelling voor chatten is Chat in **vergaderingen toestaan.** Zie Beleidsregels voor vergaderingen beheren [in](/microsoftteams/meeting-policies-in-teams) Teams en Chat toestaan in vergaderingen voor meer informatie over het maken van aangepast [vergaderingsbeleid.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **M*essaging:** Ga in het Teams beheercentrum naar [Berichtenbeleid](https://admin.teams.microsoft.com/)en schakel **Chatten in** of **uit.** Zie Berichtenbeleid beheren in Teams voor meer informatie over aangepast berichtenbeleid en over het toewijzen [van beleidsregels aan gebruikers.](/microsoftteams/messaging-policies-in-teams)
+- **Berichten:** Ga in het Teams beheercentrum naar [Berichtenbeleid](https://admin.teams.microsoft.com/)en schakel **Chatten in of** **uit.** Zie Berichtenbeleid beheren in Teams voor meer informatie over aangepast berichtenbeleid en over het toewijzen [van beleidsregels aan gebruikers.](/microsoftteams/messaging-policies-in-teams)
 
 - **Leerlingen/studenten:** Als u chat voor een leerling/student wilt uitschakelen, bekijkt u de opties voor het toestaan van chatten in vergaderingen en voor het toestaan van een 1:1-chat in Teams beleid en beleidspakketten [voor onderwijs.](/microsoftteams/policy-packages-edu)
 
