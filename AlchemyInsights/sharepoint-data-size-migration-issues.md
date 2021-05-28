@@ -1,5 +1,5 @@
 ---
-title: Problemen bij het migreren van gegevens naar SharePoint Online
+title: Problemen tijdens het migreren van gegevens naar SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700882"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694771"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemen bij het migreren van gegevens naar SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemen tijdens het migreren van gegevens naar SharePoint Online
 
-**Migreren over 100TB van gegevens**
+**Meer dan 100 TB aan gegevens migreren**
 
-U wordt gemigreerd naar 100TB gegevens naar SharePoint Online. Voer de onderstaande stappen uit, dus we kunnen u zo snel mogelijk helpen. 
+Het lijkt erop dat u meer dan 100 TB aan gegevens migreert naar SharePoint Online. Volg de onderstaande stappen, zodat we u zo snel mogelijk kunnen helpen. 
 
-1. Selecteer **nieuwe serviceaanvraag**en vervolgens **nieuwe serviceaanvraag**. 
-2. Behoud de titel en beschrijving als **SharePoint-migratie via 100TB**.
-3. Wanneer het ticket is ingediend, moet u dit bijwerken met de volgende informatie: 
+1. Selecteer **Contact opnemen met ondersteuning** en vervolgens Nieuwe **serviceaanvraag.** 
+2. Laat de titel en beschrijving als SharePoint **migratie van meer dan 100 TB.**
+3. Nadat het ticket is verzonden, kunt u dit bijwerken met de volgende informatie: 
 
     - Geschatte grootte van uw migratie.
-    - Een raming van de manier waarop u de migratie wilt starten en voltooien.
-    - Beschrijf waar u uw inhoud migreert, zoals SharePoint Server, box, GDrive, bestandsshares, enzovoort.
+    - Een schatting van wanneer u de migratie wilt starten en voltooien.
+    - Beschrijf waar u uw inhoud vandaan migreert, zoals SharePoint Server, Box, GDrive, Bestandsaandelen, enzovoort.
