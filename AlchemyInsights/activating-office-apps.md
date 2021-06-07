@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-apps activeren
+title: Het activeren Microsoft 365 apps
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823026"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798603"
 ---
-# <a name="activating-microsoft-365-apps"></a>Microsoft 365-apps activeren
+# <a name="activating-microsoft-365-apps"></a>Het activeren Microsoft 365 apps
+
+**Opmerking:** Als u een oudere versie van Windows gebruikt (bijvoorbeeld Windows 7), controleert u of TLS 1.2 is ingeschakeld als de standaardversie. Zie Bijwerken om [TLS 1.1 en TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)in te stellen als standaardveilige protocollen in WinHTTP in Windows.
 
 Om Office te activeren, zie:
 
@@ -27,7 +29,7 @@ Om Office te activeren, zie:
 
 - [Office activeren op een Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Opmerking:**  Zorg ervoor dat u een Office 365- of Microsoft 365-abonnement hebt met [Office-client-apps,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)bijvoorbeeld Microsoft 365 Business Standard, Microsoft 365 Apps voor Bedrijven of Microsoft 365 Apps voor bedrijven. Zorg er bovendien voor dat aan het gebruikersaccount dat u gebruikt om u aan te melden bij Office-apps een [licentie is toegewezen.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Opmerking:**  Zorg ervoor dat u een Office 365- of Microsoft 365-abonnement hebt met Office [client-apps,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)zoals Microsoft 365 Business Standard, Microsoft 365-apps voor bedrijven of Microsoft 365-apps voor ondernemingen. Zorg er bovendien voor dat aan het gebruikersaccount dat u gebruikt om u aan te melden bij Office apps een licentie [is toegewezen.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Om problemen met de activering van Office op te lossen, zie:
 
@@ -38,7 +40,7 @@ Om problemen met de activering van Office op te lossen, zie:
 
 **Tip** op Windows-machines kunnen verschillende algemene problemen met aanmelden bij Office geconstateerd en automatisch opgelost worden. Download en voer de **[Microsoft Ondersteunings- en herstelassistent](https://aka.ms/SaRA-OfficeSignInScenario)** uit om het automatische hulpprogramma te gebruiken.
 
-Als u zich niet kunt aanmelden bij Microsoft 365-apps, volgt u de onderstaande stappen:
+Als u zich niet kunt aanmelden bij Microsoft 365 apps, volgt u de onderstaande stappen:
 
 1. Open een Office-app en [meld u af](https://go.microsoft.com/fwlink/?linkid=2114082) bij bestaande gebruikersaccounts.
 
