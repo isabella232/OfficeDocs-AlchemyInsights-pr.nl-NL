@@ -13,21 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830577"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774354"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
 Werkt u met PowerShell of Scripts in Sharepoint Online? Ga naar de onderstaande koppelingen voor meer informatie.
-- [Aan de slag met SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Verbinding maken met SPO PowerShell met meervoudige verificatie (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) bevat een bibliotheek met PowerShell-opdrachten waarmee u complexe beheeracties naar SPO kunt uitvoeren.
-
-> [!NOTE]
-> - Als u problemen hebt met het maken van verbinding met de SPO-beheershell, moet u ervoor zorgen dat u hebt bijgewerkt naar de nieuwste versie en probeert u de [module](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) opnieuw te importeren met behulp van *'Import-Module Microsoft.Online.SharePoint.PowerShell'.*
-> - Als u probeert clientobjectmodelscripts uit te voeren, moet u de [Sharepoint Online Client Components SDK](https://www.microsoft.com/download/details.aspx?id=42038) op uw lokale computer installeren.
-> - Als u problemen hebt met het uitvoeren van scripts vanuit PowerShell, kunt u overwegen PowerShell als beheerder uit te voeren en het uitvoeringsbeleid [te wijzigen.](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)
+- [Aan de slag met SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Verbinding maken naar SPO PowerShell met meervoudige verificatie (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [SharePoint Patterns and Practices (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) bevat een bibliotheek met PowerShell-opdrachten waarmee u complexe beheeracties naar SPO kunt uitvoeren.
