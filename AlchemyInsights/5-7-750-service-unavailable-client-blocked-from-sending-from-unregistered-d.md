@@ -1,5 +1,5 @@
 ---
-title: de 5.7.750-service van 1048 is niet beschikbaar. Client geblokkeerd voor het verzenden van niet-geregistreerde domeinen
+title: 1048 5.7.750 Service niet beschikbaar. Client die is geblokkeerd voor het verzenden van niet-geregistreerde domeinen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,17 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5879c5996a28e8e9e61c696c51e7c590d1245ba1
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664237"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774246"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="7d7c4-103">5.7.750-client geblokkeerd voor verzending van niet-geregistreerde domein</span><span class="sxs-lookup"><span data-stu-id="7d7c4-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="c657a-103">5.7.750 Client geblokkeerd voor het verzenden van niet-geregistreerd domein</span><span class="sxs-lookup"><span data-stu-id="c657a-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="7d7c4-104">De fout treedt op wanneer een groot aantal berichten wordt verzonden vanuit domeinen die niet in de Tenant zijn ingericht (toegevoegd als geaccepteerde domeinen en gevalideerd).</span><span class="sxs-lookup"><span data-stu-id="7d7c4-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
+<span data-ttu-id="c657a-104">De fout treedt op wanneer een groot aantal berichten wordt verzonden vanuit domeinen die niet zijn ingericht in uw tenant (toegevoegd als geaccepteerde domeinen en gevalideerd).</span><span class="sxs-lookup"><span data-stu-id="c657a-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="7d7c4-105">Om deze fout te voorkomen, kunt u een e-mail stroom verbinding op basis van certificaat gebruiken waarbij het domein van het certificaat een ingerichte domein is, of u kunt alle verzonden domeinen inrichten.</span><span class="sxs-lookup"><span data-stu-id="7d7c4-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="c657a-105">U kunt deze fout voorkomen door een op een certificaat gebaseerde e-mailstroomconnector te gebruiken waarbij het domein van het certificaat een ingericht domein is, of u kunt alle verzendende domeinen inrichten.</span><span class="sxs-lookup"><span data-stu-id="c657a-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+
+<span data-ttu-id="c657a-106">Zie Problemen met e-mailbezorging oplossen voor [foutcodes 5.7.700 tot en met 5.7.750 in Exchange Online.](https://go.microsoft.com/fwlink/?linkid=2164955)</span><span class="sxs-lookup"><span data-stu-id="c657a-106">For more information, see [Fix email delivery issues for error codes 5.7.700 through 5.7.750 in Exchange Online](https://go.microsoft.com/fwlink/?linkid=2164955).</span></span>
