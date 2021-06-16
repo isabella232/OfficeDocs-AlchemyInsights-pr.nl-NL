@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Sharepoint PowerShell kan geen verbinding maken
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774354"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931006"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell kan geen verbinding maken
 
-Werkt u met PowerShell of Scripts in Sharepoint Online? Ga naar de onderstaande koppelingen voor meer informatie.
-- [Aan de slag met SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Verbinding maken naar SPO PowerShell met meervoudige verificatie (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Patterns and Practices (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) bevat een bibliotheek met PowerShell-opdrachten waarmee u complexe beheeracties naar SPO kunt uitvoeren.
+Als u problemen hebt met het maken van verbinding met SharePoint Online PowerShell-module, zie Fouten bij het maken van verbinding met SharePoint [Online Management Shell.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
