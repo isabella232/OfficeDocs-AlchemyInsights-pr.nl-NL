@@ -1,5 +1,5 @@
 ---
-title: Uw implementatie van Microsoft Edge plannen
+title: Uw implementatie van Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035479"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989928"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>Uw implementatie van Microsoft Edge plannen
+# <a name="plan-your-deployment-of-microsoft-edge"></a>Uw implementatie van Microsoft Edge
 
-Het implementeren van een nieuwe browser voor een groot aantal gebruikers kan ontmoedigend zijn. We kunnen u helpen het in te breken in stappen en u door elk stappen heen te helpen. Als u deze zeven stappen volgt, hebt u een succesvolle Implementatie van Microsoft Edge met minimale frustratie van de gebruiker:
+Het implementeren van een nieuwe browser voor een groot aantal gebruikers kan ontmoedigend zijn. We kunnen u helpen het in te breken in stappen en u door elk stappen heen te helpen. Als u deze zeven stappen volgt, hebt u een succesvolle implementatie Microsoft Edge met minimale frustratie van de gebruiker:
 
 1. Evalueer uw bestaande browseromgeving en -behoeften.
 2. Bepaal uw implementatiemethodologie.
@@ -29,6 +31,6 @@ Het implementeren van een nieuwe browser voor een groot aantal gebruikers kan on
 4. Bepaal uw kanaalstrategie.
 5. Beleid definiëren en configureren.
 6. Doe compatibiliteitstests voor apps.
-7. Microsoft Edge implementeren in een testgroep en valideren.
+7. Implementeer Microsoft Edge een testgroep en valideer deze.
 
-Zie Uw implementatie van Microsoft Edge plannen als u deze stappen zelf [wilt doorlopen.](https://go.microsoft.com/fwlink/?linkid=2129990)
+Als u deze stappen zelf wilt doorlopen, zie [Uw implementatie](https://go.microsoft.com/fwlink/?linkid=2129990)van Microsoft Edge.

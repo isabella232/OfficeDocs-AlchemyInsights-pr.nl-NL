@@ -1,5 +1,5 @@
 ---
-title: De Beheerstatus van Microsoft-apps weergeven met behulp van Microsoft Edge voor iOS-of Android-apparaten
+title: De beheerstatus van Microsoft-apps weergeven met Microsoft Edge voor iOS- of Android-apparaten
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677344"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989892"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>De Beheerstatus van Microsoft-apps weergeven met behulp van Microsoft Edge voor iOS-of Android-apparaten
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>De beheerstatus van Microsoft-apps weergeven met Microsoft Edge voor iOS- of Android-apparaten
 
-Als u toegang wilt krijgen tot app-logboeken voor het oplossen van problemen met uw beheerde iOS-of Android-apps, opent u Microsoft Edge en typt u **about: intunehelp** in het vak adres. Microsoft Edge wordt gestart in de probleemoplossingsmodus.
+Als u app-logboeken wilt openen voor gebruik bij het oplossen van problemen met uw beheerde iOS- of Android-apps, opent u Microsoft Edge en typt u **about:intunehelp** in het adresvak. Microsoft Edge start in de probleemoplossingsmodus.
 
-Zie [Logboeken van de client-app-beveiliging bekijken](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)voor een lijst met instellingen die zijn opgeslagen in de app-Logboeken.
+Zie [Client-appbeveiligingslogboeken controleren](/mem/intune/apps/app-protection-policy-settings-log)voor een lijst met de instellingen die zijn opgeslagen in de app-logboeken.
 
-Zie voor meer informatie over het weergeven van app-logboeken op Android-apparaten de [Logboeken uploaden en e-mail logboeken](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Zie Upload en e-maillogboeken voor meer informatie over het weergeven van app-logboeken op [Android-apparaten.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

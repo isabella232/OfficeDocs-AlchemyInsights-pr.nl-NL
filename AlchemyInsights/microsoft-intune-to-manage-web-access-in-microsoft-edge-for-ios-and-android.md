@@ -1,5 +1,5 @@
 ---
-title: Microsoft intune gebruiken voor het beheren van Web Access in Microsoft Edge voor iOS en Android
+title: Microsoft Intune gebruiken om webtoegang te beheren in Microsoft Edge voor iOS en Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677446"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989659"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Microsoft intune gebruiken voor het beheren van Web Access in Microsoft Edge voor iOS en Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Microsoft Intune gebruiken om webtoegang te beheren in Microsoft Edge voor iOS en Android
 
-Met Microsoft Edge voor iOS en Android kunnen gebruikers in het web zoeken naar meerdere, volledig gescheiden profielen.
+Met Microsoft Edge voor iOS en Android kan een gebruiker surfen op het web vanuit meerdere, volledig afzonderlijke profielen.
 
-De uitgebreide beveiligingsmogelijkheden voor Microsoft 365 gegevens zijn beschikbaar wanneer u zich abonneert op een Enterprise Mobility + beveiligingspakket, waaronder Microsoft intune-en Azure Active Directory Premium-functies, zoals voorwaardelijke toegang. U dient ten minste een beleid voor voorwaardelijke toegang toe te passen dat gebruikers van mobiele apparaten kunnen verbinden met Microsoft Edge voor iOS en Android en dat (2) een Microsoft intune-beleid voor app-beveiliging biedt met een beveiligde browser ervaring.
+De ruimste beveiligingsmogelijkheden voor Microsoft 365-gegevens worden beschikbaar wanneer u zich abonneert op de Enterprise Mobility + Security-suite, die microsoft Intune- en Azure Active Directory Premium-functies bevat, zoals voorwaardelijke toegang. U wilt minimaal een beleid voor voorwaardelijke toegang implementeren waarmee (1) gebruikers verbinding kunnen maken vanaf mobiele apparaten met Microsoft Edge voor iOS en Android en dat (2) een Microsoft Intune-beleid voor app-beveiliging implementeert dat een beveiligde browse-ervaring biedt.
 
-Ga als volgt te werk als u wilt weten hoe u voorwaardelijke toegang en beleidsregels kunt gebruiken:
+Zie voor meer informatie over hoe u voorwaardelijke toegang en beleid kunt gebruiken:
 
-[Azure Active Directory-beleid voor voorwaardelijke toegang toepassen](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Beleid voor voorwaardelijke toegang van Azure Active Directory toepassen](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Beveiligingsbeleid voor Microsoft intune-apps maken](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Microsoft Intune-appbeveiligingsbeleid maken](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Eenmalige aanmelding gebruiken voor Azure Active Directory-verbonden web apps in beleid-beveiligde browsers](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Eén aanmelding gebruiken voor met Azure Active Directory verbonden web-apps in met beleid beveiligde browsers](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[De configuratie van de app gebruiken om de browse ervaring te beheren](https://go.microsoft.com/fwlink/?linkid=2132483)
+[App-configuratie gebruiken om de browse-ervaring te beheren](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Het gebruik van alleen werk-en school accounts toestaan](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Het gebruik van alleen werk- en schoolaccounts toestaan](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Algemeen configuratiebeleid voor Apps implementeren](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Algemene app-configuratiebeleid implementeren](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Beleid voor de configuratie van de apps implementeren voor gegevensbeveiliging](https://go.microsoft.com/fwlink/?linkid=2132654)
+[App-configuratiebeleid implementeren voor gegevensbescherming](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Microsoft Endpoint Manager gebruiken om het configuratiebeleid voor apps te implementeren](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Microsoft Endpoint Manager gebruiken om app-configuratiebeleid te implementeren](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Als u wilt weten hoe u toegang krijgt tot beheerde app-logboeken, raadpleegt u [Microsoft Edge voor IOS en Android gebruiken voor toegang tot de logboeken van beheerde apps](https://go.microsoft.com/fwlink/?linkid=2132578).
+Zie Microsoft Edge voor iOS en Android gebruiken voor toegang tot beheerde app-logboeken voor meer informatie over het openen van beheerde [app-logboeken.](https://go.microsoft.com/fwlink/?linkid=2132578)
