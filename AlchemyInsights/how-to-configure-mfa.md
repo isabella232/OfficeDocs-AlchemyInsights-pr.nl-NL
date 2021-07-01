@@ -1,5 +1,5 @@
 ---
-title: 955 voor het configureren van MFA
+title: 955 MFA configureren
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704448"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218769"
 ---
-# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="3743b-102">Multi-factor Authentication configureren</span><span class="sxs-lookup"><span data-stu-id="3743b-102">Configure multi-factor authentication</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="f991c-102">Meervoudige verificatie configureren</span><span class="sxs-lookup"><span data-stu-id="f991c-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="3743b-103">Zie [multi-factor Authentication instellen](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)voor meer informatie over het configureren van MFA.</span><span class="sxs-lookup"><span data-stu-id="3743b-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="f991c-103">Zie Meervoudige verificatie instellen [of gebruik de](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) handleiding voor het instellen van Microsoft 365-beheercentrum MFA als u MFA wilt [configureren.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)</span><span class="sxs-lookup"><span data-stu-id="f991c-103">To configure MFA, see [Set up multi-factor authentication](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) or use the [Microsoft 365 admin center setup guide](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:).</span></span>
 
-<span data-ttu-id="3743b-104">U moet een globale beheerder zijn om MFA in te schakelen en te configureren.</span><span class="sxs-lookup"><span data-stu-id="3743b-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="f991c-104">**Opmerking:** U moet een globale beheerder zijn om MFA in te stellen en te configureren.</span><span class="sxs-lookup"><span data-stu-id="f991c-104">**Note**: You must be a global admin to enable and configure MFA.</span></span>
