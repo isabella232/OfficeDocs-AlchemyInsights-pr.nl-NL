@@ -1,5 +1,5 @@
 ---
-title: Ondersteuning van Microsoft Edge voor Microsoft Defender Application Guard
+title: Microsoft Edge ondersteuning voor Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583365"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346057"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Ondersteuning van Microsoft Edge voor Microsoft Defender Application Guard
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge ondersteuning voor Microsoft Defender Application Guard
 
-Voor Application Guard is ontworpen voor Windows 10 en Microsoft Edge, wordt in Application Guard een hardwarematige, door een gebruiker gebruikgemaakt van een niet-vertrouwde site, van een geïsoleerde, Hyper-V-ingeschakelde container, gescheiden van het host Operating System.
+Microsoft Defender voor identiteit biedt een centrale locatie waar beheerders on-premises identiteitsrisico's kunnen identificeren, detecteren en onderzoeken. 
 
-Een beheerder van het bedrijf definieert een lijst met vertrouwde websites, Cloud bronnen en interne netwerken. Wanneer een gebruiker een site bezoekt die niet in de lijst staat, wordt in Microsoft Edge de site in de container geopend. Dit betekent dat als de site schadelijk is voor de hostcomputer, de hostcomputer niet is beveiligd en de kwaadwillende persoon geen toegang krijgt tot de bedrijfsgegevens.
+Gebruik de [installatiehandleiding voor Microsoft Defender voor](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) identiteit om te controleren of u aan alle vereisten voor de omgeving hebt voldaan. maak een exemplaar, maak verbinding met Active Directory en installeer de sensor. 
 
-Installatie van extensies in de container wordt ondersteund op Microsoft Edge versie 81 en kan worden beheerd via een beleid. Het updateURL-adres dat wordt gebruikt in het ExtensionInstallForcelist-beleid, moet als een neutrale resource worden toegevoegd aan het netwerkgeïsoleerde beleid dat wordt gebruikt door Application Guard.
-
-Zie [Microsoft edge support voor Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2134229)voor meer informatie.
+Wanneer u klaar bent, worden de identiteiten van gebruikers gecontroleerd en kan onmiddellijk actie worden ondernomen tegen schadelijke activiteiten die uw organisatie in gevaar brengen.
