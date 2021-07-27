@@ -1,5 +1,5 @@
 ---
-title: Groeps site verwijderen
+title: Groepssite verwijderen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745817"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532106"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Een SharePoint-site verwijderen die hoort bij een Microsoft 365-groep
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Een SharePoint verwijderen die deel uit maakt van een Microsoft 365 groep
 
-Als u een site met een groep verwijdert, wordt de groep en alle bijbehorende bronnen verwijderd, inclusief het postvak en de agenda van Outlook, en eventuele teams-kanalen.
+Als u een met een groep verbonden site verwijdert, worden de groep en alle resources ervan verwijderd, inclusief het postvak Outlook agenda en alle Teams kanalen.
   
-Belangrijke
+Belangrijk:
 
-- U kunt verwijderde sites voor 93 dagen herstellen. Verwijderde groepen moeten binnen 30 dagen worden hersteld. [Bekijk en herstel verwijderde sites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) rechtstreeks vanuit het SharePoint-Beheercentrum. Als u [ **Verwijderde groepen**wilt weergeven of herstellen](https://outlook.office.com/people/group/deleted), selecteert u **groepen beheren**en kiest u vervolgens **verwijderen**.
-- Als de site deel uitmaakt van een bewaarbeleid, kunt u deze mogelijk niet verwijderen totdat de site is verwijderd uit het [beveiligings & nalevings Beheercentrum](https://protection.office.com/?rfr=AdminCenter#/retention). Zie voor meer informatie het [overzicht van bewaarbeleid](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- U kunt verwijderde sites 93 dagen herstellen. Verwijderde groepen moeten binnen 30 dagen worden hersteld. [Verwijderde sites rechtstreeks vanuit het](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) SharePoint weergeven en terugzetten. Als [u verwijderde groepen **wilt weergeven en herstellen,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups) **selecteert** u Groepen beheren en kiest **u Vervolgens Verwijderd.**
+- Als de site deel uitmaakt van een bewaarbeleid, kunt u deze mogelijk pas verwijderen als de site is verwijderd uit het Beveiligings- [& Compliance-beheercentrum.](https://protection.office.com/?rfr=AdminCenter#/retention) Zie Het overzicht van bewaarbeleid voor meer [informatie.](/microsoft-365/compliance/retention-policies)
   
-Zie [sites beheren in het nieuwe SharePoint-Beheercentrum](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)voor meer informatie.
+Zie Sites beheren in het nieuwe beheercentrum [SharePoint meer informatie.](/sharepoint/manage-sites-in-new-admin-center)
