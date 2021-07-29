@@ -1,5 +1,5 @@
 ---
-title: Externe e-mailberichten doorsturen naar postvakken in controlelogboeken
+title: Externe e-mail doorsturen in postvakken identificeren in auditlogboeken
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696292"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630244"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificeren wanneer externe e-mail forwarding is geconfigureerd voor postvakken
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Bepalen wanneer extern doorsturen van e-mail is geconfigureerd in postvakken
 
-Wanneer een Microsoft 365-gebruiker externe e-mail forwarding configureert voor een postvak, wordt de activiteit gecontroleerd als onderdeel van de cmdlet **set-mailbox** . U kunt de activiteit zien met de zoekfunctie voor auditlogboeken in de beveiligings & compliance Center.
+Wanneer een Microsoft 365 externe **e-mail** doorsturen configureert in een postvak, wordt de activiteit gecontroleerd als onderdeel van de cmdlet Postvak instellen. U kunt de activiteit zien met behulp van zoeken in het auditlogboek in & Compliancecentrum.
 
-1. Meld u aan bij het [Microsoft 365-beveiligings & nalevings centrum](https://protection.office.com/).
+1. Meld u aan bij [Microsoft 365 compliancecentrum.](https://protection.office.com/)
 
-2. Ga **naar de pagina zoeken in**het  >  **audit logboek** .
+2. Ga naar de **zoekpagina**  >  **Van het zoeklogboek zoeken.**
 
-3. Selecteer het datumbereik in de velden **begindatum** en **einddatum** . U hoeft geen gebruikersnaam op te geven. Controleer of het veld **activiteiten** is ingesteld op **resultaten voor alle activiteiten weergeven**.
+3. Selecteer het datumbereik in de **velden Begindatum** en **Einddatum.** U hoeft geen gebruikersnaam op te geven. Controleer of **het veld** Activiteiten is ingesteld op Resultaten voor alle **activiteiten tonen.**
 
-4. Klik op **zoeken**.
+4. Klik **op Zoeken**.
 
-Klik in de resultaten op **resultaten filteren** en **Postvak** voor typen in het vak activiteiten filter. Selecteer een controlerecord in de resultaten. Klik in het vervolgmenu **Details** op **meer informatie**. U dient de details van elke controlerecord te bekijken om te bepalen of de activiteit betrekking heeft op het doorsturen van e-mail.
+Klik in de resultaten op **Resultaten filteren** en typ **Postvak** instellen in het vak activiteitsfilter. Selecteer een auditrecord in de resultaten. Klik in **het** fly-out Details op **Meer informatie.** U moet de details van elke auditrecord bekijken om te bepalen of de activiteit betrekking heeft op het doorsturen van e-mail.
 
-- **ObjectId**: de alias waarde van het postvak dat is gewijzigd.
+- **ObjectId:** de aliaswaarde van het postvak dat is gewijzigd.
 
-- **Parameters**: _ForwardingSmtpAddress_ geeft het doel-e-mailadres aan.
+- **Parameters:** _ForwardingSmtpAddress_ geeft het doel-e-mailadres aan.
 
-- **UserID**: de gebruiker die e-mail heeft geconfigureerd voor het postvak in het veld **ObjectId** .
+- **UserId:** de gebruiker die het doorsturen van e-mail heeft geconfigureerd in het postvak in het **veld ObjectId.**
 
-Zie voor meer informatie [bepalen wie het doorsturen van e-mail voor een postvak heeft ingesteld](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Zie Bepalen wie e-mail doorsturen voor een postvak heeft [ingesteld voor meer informatie.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

@@ -1,5 +1,5 @@
 ---
-title: Regel activiteiten voor Postvak in in auditlogboeken
+title: Activiteit in postvak IN identificeren in auditlogboeken
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779046"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630172"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Regel activiteiten voor Postvak in in auditlogboeken
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Activiteit in postvak IN identificeren in auditlogboeken
 
-U kunt zoeken in auditlogboeken gebruiken in de Microsoft 365-beveiligings & nalevings centrum voor het weergeven van regels voor Postvak in-regels (regels voor Postvak in maken, wijzigen en verwijderen).
+U kunt zoeken in auditlogboek gebruiken in het Microsoft 365 Beveiligings- & Compliancecentrum om regelgebeurtenissen in postvak IN weer te geven (regels voor postvak IN maken, wijzigen en verwijderen).
 
-1. Meld u aan bij het [Microsoft 365-beveiligings & nalevings centrum](https://protection.office.com/).
+1. Meld u aan bij [Microsoft 365 compliancecentrum.](https://protection.office.com/)
 
-2. Ga **naar de pagina zoeken in**het  >  **audit logboek** .
+2. Ga naar de **zoekpagina**  >  **Van het zoeklogboek zoeken.**
 
-3. Selecteer het datumbereik in de velden **begindatum** en **einddatum** .
+3. Selecteer het datumbereik in de **velden Begindatum** en **Einddatum.**
 
-4. Controleer onder activiteiten van het **Exchange-postvak**de optie het veld **activiteiten** is ingesteld op **Nieuw-InboxRule de regel voor Postvak in maken/wijzigen/inschakelen/uitschakelen**.
+4. Controleer **onder Exchange postvakactiviteiten**  of het veld Activiteiten is ingesteld op **Nieuw-Postvak INRegel Maken/wijzigen/inschakelen/uitschakelen van de regel Postvak IN.**
 
-5. Klik op **zoeken**.
+5. Klik **op Zoeken**.
 
-Selecteer een controlerecord in de resultaten. Klik in het vervolgmenu Details op **meer informatie**. Informatie over de regelinstellingen voor Postvak in wordt weergegeven in het veld **parameters** .
+Selecteer in de resultaten een auditrecord. Klik in de flyout details op **Meer informatie.** In het veld Parameters wordt informatie over de instellingen voor de regels voor **postvak** IN weergegeven.
 
-Zie [bepalen of een gebruiker een regel voor Postvak in maakt](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule) voor meer informatie.
+Zie Bepalen of een gebruiker een regel [voor Postvak IN](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule) heeft gemaakt voor meer informatie.

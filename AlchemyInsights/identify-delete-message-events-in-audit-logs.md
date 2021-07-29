@@ -1,5 +1,5 @@
 ---
-title: Berichten verwijderen uit de logboekgebeurtenissen in auditlogboeken
+title: Berichtgebeurtenissen in auditlogboeken identificeren
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696508"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630064"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Controlelogboeken voor verwijderde e-mailberichten
+# <a name="audit-logs-for-deleted-email-messages"></a>Auditlogboeken voor verwijderde e-mailberichten
 
-Vanaf januari 2019 wordt in Microsoft de auditlogboek registratie voor Postvak in standaard ingeschakeld. Als u de berichten voor een bepaalde gebruiker ook wilt verwijderen, moet u de Delete-acties handmatig inschakelen voor de controle. Voer de onderstaande stappen uit als controlelogboeken voor de Postvak al zijn ingeschakeld voor uw organisatie of voor de specifieke gebruiker.
+Vanaf januari 2019 wordt de logboekregistratie voor postvakken standaard ingeschakeld door Microsoft. Als u anders berichtgebeurtenissen voor een specifieke gebruiker wilt controleren, moet u de verwijderacties handmatig inschakelen voor controle. Als de logboekregistratie voor postvakcontrole al is ingeschakeld voor uw organisatie of voor de specifieke gebruiker, volgt u de onderstaande stappen.
 
-1. Meld u aan bij het [Microsoft 365-beveiligings & nalevings centrum](https://protection.office.com/)
+1. Meld u aan bij [het Microsoft 365 compliancecentrum](https://protection.office.com/)
 
-2. Klik op **zoeken en onderzoeken** en selecteer **Zoeken in audit logboek**.
+2. Klik **op Zoeken en onderzoeken** en selecteer **Auditlogboek zoeken.**
 
-3. Selecteer het datumbereik in de velden **begindatum** en **einddatum** . Geef de gebruikersnaam op voor de gebruiker die u wilt onderzoeken (de gebruiker die de items heeft verwijderd). Selecteer in het veld **activiteiten** de optie **Verwijderde berichten uit de map Verwijderde items** en **verplaatste berichten naar de map Verwijderde items**.
+3. Selecteer het datumbereik in de **velden Begindatum** en **Einddatum.** Geef gebruikersnaam op voor de gebruiker die u wilt onderzoeken (de gebruiker die de items heeft verwijderd). Selecteer in **het** veld Activiteiten **Deleted messages from Deleted Items folder** and Moved messages to **Deleted Items folder**.
 
-4. Klik op **zoeken**.
+4. Klik **op Zoeken**.
 
-Selecteer een controlerecord in de resultaten. Klik in het vervolgmenu Details op **meer informatie**. Aanvullende informatie over het verwijderde item (bijvoorbeeld de onderwerpregel en de locatie van het item na verwijdering) wordt weergegeven in het veld **AffectedItems** . De eigenschap **ClientInfoString** wordt weergegeven als de verwijdering is uitgevoerd in Outlook, de webversie van Outlook (voorheen Outlook Web app) of een ander apparaat.
+Selecteer in de resultaten een auditrecord. Klik in de flyout details op **Meer informatie.** Aanvullende informatie over het verwijderde item (bijvoorbeeld de onderwerpregel en de locatie van het item toen het werd verwijderd) wordt weergegeven in het veld **AffectedItems.** De **eigenschap ClientInfoString** laat zien of het verwijderen heeft plaatsgevonden in Outlook, webversie van Outlook (voorheen bekend als Outlook Web App) of een ander apparaat.
 
-Zie voor meer informatie [bepalen wie het doorsturen van e-mail voor een postvak heeft ingesteld](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Zie Bepalen wie e-mail doorsturen voor een postvak heeft [ingesteld voor meer informatie.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Opmerking**: u kunt verwijderde items niet ophalen met de functie auditlogboek. Zie [Verwijderde items herstellen in Outlook Web app](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)voor informatie over het ophalen van verwijderde berichten in de webversie van Outlook.
+**Opmerking:** U kunt verwijderde items niet ophalen met de functie auditlogboek. Als u verwijderde berichten in webversie van Outlook wilt ophalen, zie [Verwijderde items herstellen in Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
