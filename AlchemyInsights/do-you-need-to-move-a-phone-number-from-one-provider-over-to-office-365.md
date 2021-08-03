@@ -1,5 +1,5 @@
 ---
-title: Wilt u een telefoonnummer verplaatsen van één provider naar Microsoft?
+title: Moet u een nummer van Telefoon provider verplaatsen naar Microsoft?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712143"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689401"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Overdracht bestaande nummers aan Teams
 
-Als u momenteel een aanbieder of een telecombedrijf hebt en al telefoonnummers hebt voor uw gebruikers of services, moet u een 'overdrachtsorder' maken om deze telefoonnummers over te zetten naar Microsoft Teams.
+Als u momenteel een aanbieder of een telecombedrijf hebt en al telefoonnummers hebt voor uw gebruikers of services, moet u een 'overdrachtsorder' maken om deze telefoonnummers over te zetten naar Microsoft Teams.  
 
-- Zie [Telefoonnummers overzetten naar Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) voor meer informatie over het voltooien van de overdracht. 
+Als u een nieuwe poortorder wilt maken of een bestaande wilt controleren, gaat u als volgt te werk: 
 
-- Zie [Telefoonnummers voor uw organisatie beheren](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) voor hulp bij het beheren van telefoonnummers. 
+1. Ga naar het [Teams beheercentrum om](https://admin.teams.microsoft.com/phone-numbers) de pagina met Telefoon openen. 
 
-Zie [Overzicht overdrachtsorder](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview), voor meer informatie.  
+1. Selecteer **Ondersteuningskoppeling voor telefoonnummers ontvangen.** 
+
+Als u rechtstreeks naar ondersteuning voor telefoonnummers wilt gaan, [Telefoon Servicecentrum voor telefoonnummers.](https://pstnsd.powerappsportals.com/)  

@@ -1,8 +1,10 @@
 ---
-title: Een Microsoft 365-aankoop doen
+title: Een aankoop doen Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,30 +12,31 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232362"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689077"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Een Microsoft 365-aankoop doen
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Een aankoop doen Microsoft 365
 
-U kunt een Microsoft 365-abonnement kopen in het beheercentrum.
+U kunt een abonnement Microsoft 365 kopen in het beheercentrum.
   
-- Als u een abonnement wilt kopen, gaat u naar de **pagina** \> **[Factureringsaankopen voor services.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
-- Als u extra licenties wilt kopen, gaat u naar **de pagina** Je \> **[producten factureren.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Selecteer het abonnement dat u wilt wijzigen en selecteer vervolgens **Licenties kopen.\**
-**BEKIJK een video** om te zien hoe u dit doet: [Nieuwe licenties kopen](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- Als u een abonnement wilt kopen, gaat u naar **de pagina Factureringsaankoopservices.** \> **[](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Als u extra licenties wilt kopen, gaat u naar **de pagina Facturering** van uw \> **[producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Selecteer het abonnement dat u wilt wijzigen en selecteer **vervolgens Licenties kopen**.\
+**BEKIJK een video** die laat zien hoe u dit kunt doet: [Nieuwe licenties kopen](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Zie Licenties kopen of [verwijderen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Zie Licenties kopen of [verwijderen voor meer informatie.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Problemen oplossen**
 
 Indien u problemen ondervindt bij het laden van de pagina, kunt u de webpagina openen in een andere browser of in een privé browservenster, zoals een InPrivate-venster in Microsoft Edge of een incognito-venster in Google Chrome.
 
-**Aanvullende informatiebronnen**
+**Aanvullende resources**
   
-- [Licenties toewijzen aan gebruikers in Microsoft 365 voor Bedrijven](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Microsoft 365 voor Bedrijven annuleren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Licenties toewijzen aan gebruikers in Microsoft 365 voor bedrijven](/microsoft-365/admin/add-users/add-users)
+- [Uw Microsoft 365 voor Bedrijven annuleren](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
