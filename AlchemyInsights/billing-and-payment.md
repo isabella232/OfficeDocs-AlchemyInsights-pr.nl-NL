@@ -3,6 +3,8 @@ title: Facturering en betaling
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820389"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686881"
 ---
 # <a name="billing-and-payment"></a>Facturering en betaling
 
@@ -52,10 +55,10 @@ Als u een nieuwe kaart hebt toegevoegd en u nog steeds een melding voor weigeren
 
 7. De nieuwe betalingsmethode is al geselecteerd in de vervolgkeuzelijst. Selecteer **Vervangen**.
 
-Zie Betalingsmethoden [beheren voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Zie [Betaalmethoden beheren](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) voor meer informatie.
 
 **Factureringsfrequentie**
 
 Facturen worden maandelijks of jaarlijks gegenereerd, afhankelijk van de factureringsfrequentie die bij het afrekenen is gekozen.  
 
-**Opmerking:** Orders met jaarlijkse facturering ontvangen mogelijk een factuur halverwege de looptijd als er wijzigingen zijn aangebracht, zoals het toevoegen of verwijderen van licenties. [Uw factureringsfrequentie wijzigen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Opmerking:** Orders met jaarlijkse facturering ontvangen mogelijk een factuur halverwege de looptijd als er wijzigingen zijn aangebracht, zoals het toevoegen of verwijderen van licenties. [Uw factureringsfrequentie wijzigen.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

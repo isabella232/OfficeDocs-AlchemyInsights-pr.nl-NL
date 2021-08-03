@@ -3,6 +3,7 @@ title: Abonnement verlopen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: e397f9cb39f289b96f20a9d69b8ff9e8efe5f40c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544285"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687421"
 ---
 # <a name="subscription-expired"></a>Abonnement verlopen
 
@@ -31,7 +33,7 @@ Als uw abonnement is verlopen, is uitgeschakeld door Microsoft of als u in het m
     > [!NOTE]
     > Als u dit abonnement niet **opnieuw kunt activeren,** neem dan contact op met ondersteuning.
 3. Selecteer in **het deelvenster Dit abonnement opnieuw** activeren een betalingswijze in de vervolgkeuzelijst of selecteer **Betalingswijze toevoegen.**
-4. Kies **Opslaan**.
+4. Selecteer **Opslaan**.
 
 Zie [Uw abonnement opnieuw activeren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
 

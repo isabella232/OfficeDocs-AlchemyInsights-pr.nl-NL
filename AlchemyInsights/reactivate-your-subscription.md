@@ -3,6 +3,7 @@ title: Uw abonnement opnieuw activeren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,17 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002304"
 - "4473"
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: bde53301b351359012394304a2236f526a478a32
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 6f54052d42bc385d087bdd81bbcb8b4dbad9e76d
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544429"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686485"
 ---
 # <a name="reactivate-your-subscription"></a>Uw abonnement opnieuw activeren
 
@@ -29,7 +31,7 @@ Als uw abonnement is verlopen, is uitgeschakeld door Microsoft of als u in het m
 1. Ga in het beheercentrum naar de pagina **Facturering** > [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Zoek op **het** tabblad Producten het abonnement dat u opnieuw wilt activeren. Selecteer de drie puntjes (meer acties) en selecteer **vervolgens Dit abonnement opnieuw activeren.**
 3. Selecteer in **het deelvenster Dit abonnement opnieuw** activeren een betalingswijze in de vervolgkeuzelijst of selecteer **Betalingswijze toevoegen.**
-4. Kies **Opslaan**.
+4. Selecteer **Opslaan**.
 
 Raadpleeg [Uw abonnement opnieuw activeren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
 
