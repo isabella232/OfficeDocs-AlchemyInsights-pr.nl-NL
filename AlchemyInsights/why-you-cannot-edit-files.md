@@ -1,5 +1,5 @@
 ---
-title: Bestanden zijn vergrendeld voor bewerking
+title: Bestanden zijn vergrendeld voor bewerken
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,26 +14,26 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664489"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907805"
 ---
 # <a name="why-cant-i-edit-files"></a>Waarom kan ik geen bestanden bewerken?
 
-Bekijk een paar van de redenen [Waarom u het bestand mogelijk niet kunt bewerken](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Bekijk enkele van de redenen waarom u het bestand mogelijk niet [kunt bewerken.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Als u bibliotheken hebt met **uitchecken, verplichte** of **validatie** kolommen of metagegevens, of als de **beveiliging van conceptitems** is ingesteld op **alleen gebruikers die items kunnen bewerken** of **alleen gebruikers die items kunnen goedkeuren** in versie-instellingen van de bibliotheek:
+Als u bibliotheken hebt met  de  kolommen **Uitchecken,** Vereist of Validatie of metagegevens, of als Beveiliging van conceptitems **is** ingesteld op Alleen gebruikers die kunnen bewerken of Alleen gebruikers die **items** kunnen goedkeuren in versie Instellingen van de bibliotheek:
 
-- Voor documentbibliotheken van SharePoint worden deze items als alleen-lezen gesynchroniseerd.
+- Voor SharePoint documentbibliotheken worden deze items gesynchroniseerd als alleen-lezen.
 
-- Voor OneDrive-bibliotheken wordt in OneDrive een vergrendelingspictogram (pictogram OneDrive-bestand vergrendeld) weergegeven naast de synchronisatiestatus en de gebruiker kan de bibliotheek niet synchroniseren totdat de genoemde instellingen zijn verwijderd. 
+- Voor OneDrive bibliotheken wordt in OneDrive naast de synchronisatiestatus een pictogram voor vergrendeling (OneDrive bestand vergrendeld) weergegeven en kan de gebruiker de bibliotheek pas synchroniseren als de genoemde instellingen zijn verwijderd. 
 
-Zie de volgende artikelen voor meer informatie over vergrendelde bestanden voor Word of Excel.
+Voor meer informatie over vergrendelde bestanden voor Word of Excel, raadpleegt u de onderstaande artikelen.
 
-- [Ik heb de fout ' uploaden mislukt ' of ' de fout niet automatisch opslaan ' weergegeven bij het bewerken van een Office-bestand](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Ik heb een "Uploaden mislukt of "Kon niet automatisch opslaan" foutmelding gekregen bij het bewerken van een Office-bestand](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
 - [Excel-bestand is vergrendeld voor bewerking door een andere gebruiker](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

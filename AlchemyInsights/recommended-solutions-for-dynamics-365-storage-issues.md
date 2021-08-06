@@ -1,5 +1,5 @@
 ---
-title: Oplossingen aanbevelen voor problemen met Dynamics 365-opslag
+title: Oplossingen aanbevelen voor dynamics 365 Storage problemen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922946"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Oplossingen aanbevelen voor problemen met Dynamics 365-opslag
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Oplossingen aanbevelen voor opslagproblemen met Dynamics 365
 
-* Als globale beheerder kunt u opslag specificatie per omgeving, tien belangrijkste tabellen en meer weergeven
+* Als globale beheerder kunt u de verdeling van de opslag weergeven per omgeving, de tien bovenste tabellen en meer
 
-* [Vragen over opslag en abonnementen](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Storage vragen over facturering en abonnement](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365 prijzen en licentie richtlijnen](https://dynamics.microsoft.com/pricing/)
+* [Dynamics 365-prijs- en licentiehandleiding](https://dynamics.microsoft.com/pricing/)
 
-* [Meer opslagruimte aanschaffen](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Meer opslagruimte kopen](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Opslagruimte vrijmaken](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Opslagruimte vrij maken](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

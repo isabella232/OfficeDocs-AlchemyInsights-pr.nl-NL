@@ -1,5 +1,5 @@
 ---
-title: Blijft Office 365-services online?
+title: Blijven Office 365 online?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036847"
 ---
-# <a name="will-office-365-services-stay-online"></a>Blijft Office 365-services online?
+# <a name="will-office-365-services-stay-online"></a>Blijven Office 365 online?
 
-Ja. We hebben deze services ontwikkeld met tolerantie. Elke service voert meerdere exemplaren tegelijk uit, dus zelfs als er sprake is van één exemplaar, worden onze klanten niet beïnvloed. Elke service is ook opgenomen, dus als een probleem bij een service komt, dan wordt het niet verspreid over de rest van de service. Tot slot zijn de veiligheden in de code van elke dienst opgenomen om te voorkomen dat u problemen ondervindt bij het trapsgewijs doorlopen van de service.
+Ja. We hebben deze services ontwikkeld met tolerantie in gedachten. Elk van de services wordt meerdere exemplaren tegelijk uitgevoerd, dus zelfs als één exemplaar problemen heeft, worden onze klanten niet beïnvloed. Elke service is ook opgenomen, dus als er een probleem is met één service, wordt deze niet naar de rest van de service verspreid. Ten slotte zijn beveiligingen ingebouwd in de code van elke service om te voorkomen dat problemen trapsgevat worden via de service.
 
-Zie [Enterprise Business continuïteits beheer (EBCM) met cloudservices](https://go.microsoft.com/fwlink/?linkid=2124377)voor meer informatie over ons streven om onze diensten stabiel te houden.
+Zie [Enterprise Business Continuity Management (EBCM) met cloudservices](https://go.microsoft.com/fwlink/?linkid=2124377)voor meer informatie over onze inspanningen om onze services stabiel te houden.
 
-We stellen uw feedback op de hoogte, dus Selecteer **Ja** / **Nee** voor de vraag die wordt weergegeven en beoordeel vervolgens de ervaring.
+We waarderen uw feedback, dus selecteer **Ja** Nee voor de vraag die wordt weergegeven en beoordeel /  uw ervaring.

@@ -1,5 +1,5 @@
 ---
-title: Een query uitvoeren op de Microsoft Graph-API
+title: Query's uitvoeren op de Microsoft Graph API
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923234"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Een query uitvoeren op de Microsoft Graph-API
+# <a name="querying-the-microsoft-graph-api"></a>Query's uitvoeren op de Microsoft Graph API
 
-Dit onderwerp is mogelijk ook van toepassing op ontwikkelaars die gebruikmaken van Azure AD Graph API. Het wordt **ten zeerste** aanbevolen dat u Microsoft Graph gebruikt voor al uw adreslijst, identiteit en toegangsbeheer scenario's.
+Dit onderwerp kan ook van toepassing zijn op ontwikkelaars die nog steeds Azure AD Graph API. U wordt echter **ten zeerste** aangeraden Microsoft-Graph te gebruiken voor al uw adreslijst-, identiteits- en toegangsbeheerscenario's.
 
-**Verificatie-of autorisatie problemen**
+**Problemen met verificatie of autorisatie**
 
-- Als het **niet lukt om** Microsoft Graph te bellen met de app, kiest u **probleem met het verkrijgen van een toegangstoken (Authentication)** Microsoft Graph-categorie voor een specifiekere Help en ondersteuning voor dit onderwerp.
-- Als in uw app **401-of 403-autorisatiefouten** worden weergegeven bij het bellen van Microsoft Graph, kiest u de categorie **een fout bij het openen van een Access-fout (autorisatie)** bij het openen van een Microsoft Graph API-categorie voor een specifiekere Help en ondersteuning.
+- Als uw  app geen tokens kan verkrijgen om Microsoft Graph te bellen, kiest u Probleem met het verkrijgen van een access **token (Authentication)** Microsoft Graph-categorie voor meer specifieke hulp en ondersteuning voor dit onderwerp.
+- Als uw app **401 of 403** autorisatiefouten ontvangt bij het bellen van Microsoft Graph, kiest u de categorie Toegang geweigerde fout **(Autorisatie)** microsoft Graph API voor meer specifieke hulp en ondersteuning voor dit onderwerp.
 
-**Ik wil Microsoft Graph gebruiken, maar weet niet zeker waar u moet beginnen**
+**Ik wil Microsoft-Graph gebruiken, maar weet niet waar ik moet beginnen**
 
-Zie voor meer informatie over Microsoft Graph:
+Zie het volgende voor meer informatie Graph Microsoft-Graph:
 
-- [Overzicht van Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [Overzicht van identiteit en toegangsbeheer in Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Aan de slag met Microsoft Graph-apps](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** -Api's Microsoft Graph testen in uw Tenant of een demo Tenant
+- [Overzicht van Microsoft-Graph](https://docs.microsoft.com/graph/overview)
+- [Overzicht van identiteits- en accessbeheer in Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Aan de slag met het bouwen Graph Microsoft-apps](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** - Microsoft-Graph testen in uw tenant of een demo-tenant
 
-**Ik wil Microsoft Graph gebruiken, maar biedt wel ondersteuning voor de v 1.0 Directory-Api's die ik nodig heb?**
+**Ik wil Microsoft-Graph gebruiken, maar ondersteunt het de v1.0 directory-API's die ik nodig heb?**
 
-Microsoft Graph is de aanbevolen API voor Directory, identiteit en toegangsbeheer. De mogelijkheden van Azure AD Graph en Microsoft Graph bestaan echter nog maar een paar hiaten. Lees de volgende artikelen om de meest recente verschillen te markeren om uw keuze te helpen:
+Microsoft Graph is de aanbevolen API voor adreslijst-, identiteits- en toegangsbeheer. Er zijn echter nog enkele verschillen tussen wat er mogelijk is in Azure AD Graph en Microsoft Graph. Bekijk de volgende artikelen, waarin de meest recente verschillen worden belicht om u te helpen bij uw keuze:
 
-- [Verschillen in brontype tussen Azure AD Graph en Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Eigenschappen verschillen tussen Azure AD Graph en Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Methode verschillen tussen Azure AD en Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Verschillen in resourcetype tussen Azure AD-Graph en Microsoft-Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Eigenschappenverschillen tussen Azure AD-Graph en Microsoft-Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Methodeverschillen tussen Azure AD en Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Wanneer ik een query in het *gebruikers* object krijg, ontbreken een aantal eigenschappen**
+**Wanneer ik een query op het *gebruikersobject* uitvoert, ontbreken veel van de eigenschappen ervan**
 
-`GET https://graph.microsoft.com/v1.0/users` Hiermee worden alleen 11 eigenschappen geretourneerd, omdat Microsoft Graph automatisch een standaardreeks *gebruikers* eigenschappen selecteert om te retourneren. Als u andere *gebruikers* eigenschappen nodig hebt, gebruikt u $SELECT om de eigenschappen te kiezen die de toepassing nodig heeft. Probeer het eerst in **Microsoft Graph Explorer** .
+`GET https://graph.microsoft.com/v1.0/users`retourneert alleen 11 eigenschappen, omdat Microsoft Graph automatisch een  standaardset gebruikerseigenschappen selecteert die u wilt retourneren. Als u andere *gebruikerseigenschappen nodig* hebt, gebruikt u $select om de eigenschappen te kiezen die uw toepassing nodig heeft. Probeer het eerst in **Microsoft Graph Explorer.**
 
-**Sommige waarden van gebruikerseigenschappen zijn *Null* , hoewel ik weet dat ze zijn ingesteld**
+**Sommige eigenschappen van gebruikers zijn *null,* ook al weet ik dat ze zijn ingesteld**
 
-De meest waarschijnlijke uitleg is dat de toepassing de machtiging *User. ReadBasic. all* heeft gekregen. Hiermee kan de toepassing een beperkte set gebruikerseigenschappen lezen en alle andere eigenschappen als null terugzetten, zelfs als deze eerder zijn ingesteld. Probeer de toepassing *User. all. all* te verlenen.
+De meest waarschijnlijke verklaring is dat aan de toepassing de machtiging *User.ReadBasic.All is* verleend. Hierdoor kan de toepassing een beperkt aantal gebruikerseigenschappen lezen, waarbij alle andere eigenschappen als null worden geretourneerd, zelfs als ze eerder zijn ingesteld. Probeer in plaats daarvan de machtiging *User.Read.All* te verlenen.
 
-Zie [gebruikersmachtigingen in Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions)voor meer informatie.
+Zie Microsoft Graph [gebruikersmachtigingen voor meer informatie.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
 
-**Ik ondervind problemen bij het gebruik van OData-queryparameters om gegevens in mijn aanvragen te filteren**
+**Ik heb problemen met het gebruik van OData-queryparameters om gegevens in mijn aanvragen te filteren**
 
-Hoewel Microsoft Graph een groot aantal van de OData-queryparameters ondersteunt, worden veel van deze parameters niet volledig ondersteund door adreslijstservices (bronnen die gegevens overnemen van *directoryObject*) in Microsoft Graph. De beperkingen die aanwezig waren in azure AD Graph blijven voor het meeste deel in Microsoft Graph:
+Hoewel Microsoft Graph een groot aantal OData-queryparameters ondersteunt, worden veel van deze parameters niet volledig ondersteund door adreslijstservices (bronnen die overnemen van *directoryObject)* in Microsoft Graph. Dezelfde beperkingen die aanwezig waren in Azure AD Graph blijven voor het grootste deel in Microsoft Graph:
 
-1. **Niet ondersteund**: $count, $search en $filter voor *Null* -of *niet-null* -waarden
-2. **Niet ondersteund**: Hiermee $filter u op bepaalde eigenschappen (Zie de onderwerpen van bronnen over welke eigenschappen kunnen worden gefilterd)
-3. **Niet ondersteund**: tegelijk pagineren, filteren en sorteren
-4. **Niet ondersteund**: filteren op een relatie. Als u bijvoorbeeld alle leden van de technische groep in het VK wilt vinden.
-5. **Gedeeltelijke ondersteuning**: $OrderBy op *gebruikers* (alleen naam en userPrincipalName) en *groep*
-6. **Gedeeltelijke ondersteuning**: $filter (alleen ondersteuning voor *EQ*, *startsWith*, *of*, *en* *beperkte en* beperkte) ondersteuning, $expand (de relaties van één object uitvouwen, worden alle relaties geretourneerd, maar het uitvouwen van een verzameling objecten relaties is beperkt)
+1. **Niet ondersteund:**$count, $search en $filter  *null-waarden*
+2. **Niet ondersteund:**$filter op bepaalde eigenschappen (zie resourceonderwerpen waarop eigenschappen kunnen worden gefilterd)
+3. **Niet ondersteund:** pagineren, filteren en sorteren tegelijk
+4. **Niet ondersteund:** filteren op een relatie. Zoek bijvoorbeeld alle leden van de technische groep die zich in het Verenigd Koninkrijk hebben.
+5. **Gedeeltelijke ondersteuning:**$orderby *op gebruiker* (alleen displayName en userPrincipalName) en *groep*
+6. Gedeeltelijke **ondersteuning:**$filter (ondersteunt alleen eq  *,* begint *met* of , en beperkt) ondersteuning, $expand (het uitbreiden van de relaties van één object retourneert alle relaties, maar het uitbreiden van een verzameling objectenrelaties is beperkt) 
 
-Zie [antwoorden aanpassen met queryparameters](https://docs.microsoft.com/graph/query-parameters)voor meer informatie.
+Zie Reacties aanpassen [met queryparameters voor](https://docs.microsoft.com/graph/query-parameters)meer informatie.
 
-**De API die ik bel, werkt niet; waar kan ik meer testen?**
+**De API die ik bel werkt niet, waar kan ik meer testen?**
 
-**Microsoft Graph Explorer** -Microsoft Graph-api's testen in uw Tenant of een demo Tenant en ook de **Voorbeeldquery's** in Microsoft Graph Verkenner raadplegen.
+**Microsoft Graph Explorer-** Test Microsoft Graph API's in uw tenant of een demoten tenant en bekijk ook de voorbeeldquery's **in** Microsoft Graph Explorer.
 
-**Wanneer ik een query voor de gegevens Zoek, lijkt het alsof ik een niet-voltooide gegevensverzameling weer**
+**Wanneer ik gegevens opvraag, lijkt het alsof ik een onvolledige gegevensset terug krijg**
 
-Als u een query uitvoert op een verzameling (zoals *gebruikers*), worden in Microsoft Graph pagina limieten voor pagina's gebruikt, zodat resultaten altijd met een standaardpagina formaat worden geretourneerd. De verzameling die wordt geretourneerd door de service, moet altijd aan de app worden doorlopen.
+Als u een verzameling query's uitvoert (zoals *gebruikers),* gebruikt Microsoft Graph paginalimieten aan de serverzijde, zodat resultaten altijd worden geretourneerd met een standaardpaginaformaat. Uw app moet altijd verwachten dat u door verzamelingen gaat die zijn geretourneerd uit de service.
 
 Zie voor meer informatie:
 
-- [Best practices voor Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Gegevens van Microsoft Graph in de app gepagineerd](https://docs.microsoft.com/graph/paging)
+- [Microsoft Graph best practices](https://docs.microsoft.com/graph/best-practices-concept)
+- [Gegevens van Microsoft Graph in uw app](https://docs.microsoft.com/graph/paging)
 
-**Mijn app is te traag en wordt ook vertraagd. Welke verbeteringen kan ik aanbrengen?**
+**Mijn app is te traag en wordt ook beperkt. Welke verbeteringen kan ik aanbrengen?**
 
-Afhankelijk van uw scenario zijn er verschillende opties voor de verwijdering, zodat de toepassing langer presteert en in sommige gevallen minder gevoelig is voor het beperken van de service (wanneer u te veel oproepen doet).
+Afhankelijk van uw scenario zijn er verschillende opties beschikbaar om uw toepassing performanter te maken en in sommige gevallen minder geneigd te worden beperkt door de service (wanneer u te veel gesprekken voert).
 
 Hier vindt u meer informatie:
 
-- [Best practices voor Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Batchaanvragen](https://docs.microsoft.com/graph/json-batching)
-- [Wijzigingen bijhouden via een Delta query](https://docs.microsoft.com/graph/delta-query-overview)
-- [Meldingen ontvangen over wijzigingen via webhooks](https://docs.microsoft.com/graph/webhooks)
-- [Richtlijnen voor beperken](https://docs.microsoft.com/graph/throttling)
+- [Microsoft Graph best practices](https://docs.microsoft.com/graph/best-practices-concept)
+- [Batching requests](https://docs.microsoft.com/graph/json-batching)
+- [Wijzigingen bijhouden via deltaquery](https://docs.microsoft.com/graph/delta-query-overview)
+- [Ontvang een melding van wijzigingen via webhooks](https://docs.microsoft.com/graph/webhooks)
+- [Richtlijnen voor beperking](https://docs.microsoft.com/graph/throttling)
 
 **Waar vind ik meer informatie over fouten en bekende problemen?**
 
-- [Informatie over fout antwoorden in Microsoft Graph](https://docs.microsoft.com/graph/errors)
-- [Bekende problemen met Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
+- [Microsoft Graph foutreactiegegevens](https://docs.microsoft.com/graph/errors)
+- [Bekende problemen met Microsoft-Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Waar kan ik de status van de beschikbaarheid van de service en de verbinding controleren?**
+**Waar kan ik de status van de beschikbaarheid en connectiviteit van de service controleren?**
 
-De beschikbaarheid van de service en de verbinding van de onderliggende services die toegankelijk zijn via Microsoft Graph, kunnen de algehele beschikbaarheid en prestaties van Microsoft Graph beïnvloeden.
+De beschikbaarheid en connectiviteit van de onderliggende services die via Microsoft-Graph kunnen worden gebruikt, kunnen van invloed zijn op de algehele beschikbaarheid en prestaties van Microsoft Graph.
 
-- Voor de status van Azure Active Directory-service controleert u de status van **Security + Identity** services die op de [pagina Azure status](https://azure.microsoft.com/status/)wordt weergegeven.
-- Voor Office-services die bijdragen aan Microsoft Graph, controleert u de status van de services die worden vermeld in het [Dashboard Office service status](https://portal.office.com/adminportal/home#/servicehealth).
+- Voor Azure Active Directory servicestatus controleert u de status van **beveiligings- en identiteitsservices** die worden vermeld op de [pagina Azure-status.](https://azure.microsoft.com/status/)
+- Voor Office services die bijdragen aan Microsoft-Graph, controleert u de status van services die worden vermeld in [het Office Servicestatusdashboard.](https://portal.office.com/adminportal/home#/servicehealth)

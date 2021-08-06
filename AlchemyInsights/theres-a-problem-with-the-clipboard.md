@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908669"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Excel-klembordfout oplossen
+# <a name="resolving-excel-clipboard-error"></a>Oplossing van Excel klembordfout
 
-Als u een foutmelding krijgt in Excel met de tekst 'Er is een probleem met het klembord, maar u kunt uw inhoud nog steeds in deze werkmap plakken', kunt u de functie Live Preview uitschakelen door de volgende stappen uit te voeren:
+Als u een foutmelding ontvangt in Excel met de tekst 'Er is een probleem met het klembord, maar u kunt uw inhoud nog steeds in deze werkmap plakken', kunt u de functie Live Preview uitschakelen door de volgende stappen uit te voeren:
 
-1. Klik in Excel op  >  **Bestandsopties.**
-3. Selecteer algemeen in het dialoogvenster Opties **voor** **Excel.**
+1. Klik Excel op   >  **Bestandsopties.**
+3. Selecteer in **Excel dialoogvenster Opties** de optie **Algemeen.**
 4. Schakel **onder Gebruikersinterfaceopties** de optie **Livevoorbeeld inschakelen uit.**
 5. Klik op **OK**.
-6. Start Excel opnieuw.
+6. Start Excel.

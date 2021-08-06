@@ -1,5 +1,5 @@
 ---
-title: Abonnement geannuleerd – verouderde aanbevolen stappen
+title: Abonnement geannuleerd - verouderd - aanbevolen stappen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999055"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Abonnement geannuleerd – verouderde aanbevolen stappen
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Abonnement geannuleerd - verouderd - aanbevolen stappen
 
-Onze record geeft aan dat het abonnement is geannuleerd door een gebruiker met rechten voor de eigenaar. Zoek de onderstaande stappen om het abonnement opnieuw te activeren.
+Onze record geeft aan dat het abonnement is geannuleerd door een gebruiker met eigenaarrechten. Zoek de onderstaande stappen om het abonnement opnieuw te activeren.
 
-De [account beheerder](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan een geannuleerde pay-to-Go-abonnement opnieuw activeren in het account centrum.
+De [accountbeheerder](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan een geannuleerd abonnement op betalen per keer opnieuw activeren in het accountcentrum.
 
-1. Meld u aan bij het [account centrum](https://account.azure.com/Subscriptions).
-2. Selecteer het geannuleerde abonnement en klik op **opnieuw activeren**.
+1. Meld u aan bij [accountcentrum.](https://account.azure.com/Subscriptions)
+2. Selecteer het geannuleerde abonnement en klik **op Opnieuw activeren.**
 
-Neem voor andere abonnements typen [contact op met de ondersteuning](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) om uw abonnement te activeren.
+Neem voor andere abonnementstypen [contact op met de](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) ondersteuning om uw abonnement opnieuw te activeren.

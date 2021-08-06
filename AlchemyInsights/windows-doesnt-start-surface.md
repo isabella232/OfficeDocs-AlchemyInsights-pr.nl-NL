@@ -1,5 +1,5 @@
 ---
-title: Windows start niet op Surface
+title: Windows start niet op surface
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: d4e86433bb15e07143b0b25bb515eedcfd329cb9
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 91ccb5d24b820978579ece9a412cb87c5540564d9c1005482ab928b53a0c1a10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036775"
 ---
-# <a name="windows-doesnt-start-on-surface"></a>Windows start niet op Surface
+# <a name="windows-doesnt-start-on-surface"></a>Windows start niet op surface
 
-Als Windows niet start op uw Surface of als uw apparaat niet wordt wakker uit de slaapstand, kunt u de volgende stappen voor het oplossen van problemen proberen:
+Als Windows niet start op uw Surface of als uw apparaat niet wordt wakker uit de slaapstand, kunt u de volgende stappen voor probleemoplossing proberen:
 
-- Als Windows niet correct start wanneer u uw Surface in gebruik neemt (dat wil zeggen windows wordt niet opgestart), zie Windows start niet op surface voor stappen om het probleem op te [lossen.](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c)
+- Als Windows niet correct start wanneer u uw Surface in- of uitstart (dat wil zeggen dat Windows niet wordt opgestart), zie [Windows](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c)start niet op surface voor stappen om het probleem op te lossen.
 
 - Zie Surface wordt niet in- of uit de slaapstand gezet als uw Surface niet wordt in- of wakker voor het oplossen [van problemen.](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a)
 

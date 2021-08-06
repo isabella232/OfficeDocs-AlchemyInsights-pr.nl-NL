@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923126"
 ---
 # <a name="rbac-rules"></a>RBAC-regels
 
-Als u de machtigingsfout krijgt: 
+Als de machtigingsfout wordt weergegeven: 
 
-- **De client met object-id heeft geen autorisatie om actie uit te voeren over het bereik (code: AuthorizationFailed)**: wanneer u een resource probeert te maken, controleert u of u momenteel bent aangemeld met een gebruiker aan wie de rol voor schrijven voor de resource is toegewezen. Als u bijvoorbeeld virtuele machines wilt beheren in een resourcegroep, moet u beschikken over de rol van beheerder van [virtuele machine](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) voor de bronnengroep (of bovenliggend bereik). Zie [ingebouwde rollen voor Azure-bronnen](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)voor een lijst met machtigingen voor elke ingebouwde rol.
-- **U bent niet gemachtigd om een ondersteuningsaanvraag te maken**: wanneer u probeert een ondersteuningsticket te maken of bij te werken, controleert u of u momenteel bent aangemeld met een gebruiker aan wie de rol Microsoft. support/supportTickets/schrijfbevoegdheid is [toegewezen.](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)
-- **Er kunnen geen rollen worden gemaakt (code: RoleAssignmentLimitExceeded)**: wanneer u probeert een rol toe te wijzen, kunt u het aantal roltoewijzingen verlagen door rollen toe te wijzen aan groepen. Azure biedt ondersteuning voor **2000** -roltoewijzingen per abonnement.
+- De client met object-id heeft geen machtiging om actie uit te voeren via het bereik **(code: AutorisatieFailed)**: als u een resource probeert te maken, controleert u of u momenteel bent aangemeld bij een gebruiker die een rol heeft toegewezen die schrijfmachtigingen heeft voor de resource in het geselecteerde bereik. Als u bijvoorbeeld virtuele machines in een resourcegroep wilt beheren, moet u de rol Virtual [Machine Contributor](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) hebben in de resourcegroep (of bovenliggend bereik). Zie Ingebouwde rollen voor [Azure-resources](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)voor een lijst met machtigingen voor elke ingebouwde rol.
+- U hebt geen machtiging om een ondersteuningsaanvraag te **maken:** wanneer u een ondersteuningsticket probeert te maken of bij te werken, controleert u of u momenteel bent aangemeld bij een gebruiker die een rol heeft toegewezen die de machtiging Microsoft.Support/supportTickets/write heeft, zoals Medewerker ondersteuningsaanvraag. [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)
+- Er kunnen geen roltoewijzingen meer worden gemaakt **(code: RoleAssignmentLimitExceeded)**: wanneer u een rol probeert toe te wijzen, probeert u het aantal roltoewijzingen te verminderen door in plaats daarvan rollen toe te wijzen aan groepen. Azure ondersteunt maximaal **2000** roltoewijzingen per abonnement.
 
-Zie voor meer informatie [over Azure RBAC](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)-rollen.
+Zie Azure RBAC-rollen voor meer informatie over Azure [RBAC-rollen.](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)

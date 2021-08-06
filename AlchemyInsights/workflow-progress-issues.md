@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 77f7f3b68ea4c99f39049b90f3feaf2f7f9b1364
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f5fa5f8afdfacbefb071f6899b75c397b26705379d11bb1958c3d7f7be499b1f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907769"
 ---
-# <a name="intermittent-delays-with-workflow-progress"></a>Periodieke vertragingen met werkstroom voortgang
+# <a name="intermittent-delays-with-workflow-progress"></a>Af en toe vertragingen met de voortgang van de werkstroom
 
-Als de werkstroom niet kan worden gestart, is er mogelijk een tijdelijk serviceprobleem waarbij gebruikers de werkstroom af en toe kunnen zien. Controleer het [Dashboard service status](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) om te zien of uw organisatie van invloed is. 
+Als uw werkstroom niet wordt begonnen, is er mogelijk een tijdelijk serviceprobleem waarbij gebruikers mogelijk met af en toe vertragingen met de voortgang van de werkstroom te maken kunnen krijgen. Controleer het [dashboard Service health om](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) te zien of uw organisatie wordt beïnvloed. 
 
-Als het probleem zich nog steeds voordoet, kunt u een ondersteuningsticket registreren als u meer dan 24 uur hebt verstreken sinds u het eerst hebt gezien. In veel gevallen werken we al met een oplossing. Geef ons minstens 24 uur om een oplossing te voltooien.
+Als er meer dan 24 uur zijn verstreken sinds u dit probleem voor het eerst hebt gezien, moet u een ondersteuningsticket aanmelden. In veel gevallen werken we al aan een oplossing. Geef ons ten minste 24 uur om een oplossing te voltooien.
 
 
   

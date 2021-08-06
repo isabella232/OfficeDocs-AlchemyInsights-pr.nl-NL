@@ -1,5 +1,5 @@
 ---
-title: Abonnement geannuleerd-geen verouderd account
+title: Abonnement geannuleerd - Verouderd - Gratis account
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573482"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999199"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Abonnement geannuleerd-geen verouderd account
+# <a name="subscription-cancelled---legacy---free-account"></a>Abonnement geannuleerd - Verouderd - Gratis account
 
-Uw abonnement is uitgeschakeld omdat Azure tegoed is verlopen.
+Uw abonnement is uitgeschakeld als het Azure-tegoed is verlopen.
 
-**Azure tegoed is verlopen**
+**Azure-tegoed is verlopen**
 
-Wanneer u zich aanmeldt voor een Azure gratis-account, krijgt u een gratis proefabonnement, zodat u gedurende 30 dagen en 12 maanden gratis services kunt $200 in azure-kredieten. Aan het einde van 30 dagen, heeft Azure uw abonnement uitgeschakeld. Uw abonnement is uitgeschakeld zodat u per ongeluk kosten hoeft te beschermen voor gebruik buiten de tegoed en de gratis diensten die bij uw abonnement inbegrepen zijn. U moet [uw abonnement upgraden](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription)om Azure-Services te kunnen blijven gebruiken. Wanneer u een upgrade hebt uitgevoerd, heeft uw abonnement nog steeds toegang tot gratis services voor 12 maanden. U ontvangt uitsluitend kosten voor gebruik buiten de gratis services en hoeveelheden.
+Wanneer u zich registreert voor een gratis Azure-account, krijgt u een gratis proefabonnement, waarmee u $ 200 aan Azure-tegoed krijgt voor 30 dagen en 12 maanden gratis services. Na 30 dagen schakelt Azure uw abonnement uit. Uw abonnement is uitgeschakeld om u te beschermen tegen onbedoelde kosten voor gebruik buiten het tegoed en gratis services die zijn inbegrepen bij uw abonnement. Als u Azure-services wilt blijven gebruiken, moet u [uw abonnement upgraden.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Nadat u een upgrade hebt uitgevoerd, heeft uw abonnement nog steeds 12 maanden toegang tot gratis services. Er worden alleen kosten in rekening gebracht voor gebruik buiten de gratis services en hoeveelheden.
 
-Voer de volgende stappen uit om uw abonnement bij te werken:
+Voer de volgende stappen uit om uw abonnement te upgraden:
 
-1. Meld u aan bij de [Azure-Portal](https://portal.azure.com/).
-2. Zoeken naar **abonnementen**.
-3. Selecteer het abonnement dat is gemaakt toen u zich aanmeldde voor een Azure-account.
-4. Klik in het overzicht abonnement op de knop **upgrade abonnement** op de opdrachtbalk. Als u de knop abonnement upgraden niet ziet, klikt u op de banner van de upgrade boven aan de pagina.
-5. Als u geen betaalmethode voor uw account hebt, wordt u gevraagd om er een toe te voegen.
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
+2. Zoeken naar **abonnementen.**
+3. Selecteer het abonnement dat is gemaakt toen u zich aanmeldde voor een gratis Azure-account.
+4. Klik in het abonnementsoverzicht op **De knop Abonnement** upgraden op de opdrachtbalk. Als u de knop upgradeabonnement niet ziet, klikt u op de upgradebanner boven aan de pagina.
+5. Als u geen betalingswijze voor uw account hebt, wordt u gevraagd er een toe te voegen.
 6. Mogelijk moet u een telefoonnummer invoeren om uw identiteit te verifiëren.
 7. Typ een naam voor uw abonnement.
-8. Klik op  **upgrade**.
+8. Klik  **op Upgrade**.
