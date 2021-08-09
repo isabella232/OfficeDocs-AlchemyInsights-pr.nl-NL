@@ -1,5 +1,5 @@
 ---
-title: Teams-analyses en -rapporten in het Teams-beheercentrum
+title: Teams Analyse en rapporten in het Teams beheercentrum
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc421e64d02f58a0264db5467b9473abe2b398dcca39eebe2f072a0f283276f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909062"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams-analyses en -rapporten in het Teams-beheercentrum
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analyse en rapporten in het Teams beheercentrum
 
-Er zijn een aantal gebruiks- en **activiteitenrapporten** beschikbaar in het Teams-beheercentrum, waaronder gebruikersactiviteit, apparaatgebruik en livegebeurtenisgebruik. Zie De analyse en rapportage van [Microsoft Teams voor meer informatie.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
+Er zijn een aantal **gebruiks-** en activiteitenrapporten beschikbaar in het Teams-beheercentrum, inclusief gebruikersactiviteit, apparaatgebruik en livegebeurtenisgebruik. Zie voor meer [informatie Microsoft Teams analyse en rapportage.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**Let op:** Er zijn extra teamsgebruiks- en activiteitenrapporten beschikbaar in het Microsoft 365-beheercentrum. Zie [De Teams-rapporten weergeven in het dashboard Rapporten.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
+**Let op:** Er zijn extra Teams gebruiks- en activiteitsrapporten beschikbaar in het Microsoft 365-beheer centrum. Zie [De rapporten bekijken Teams rapporten in het dashboard Rapporten.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
 
-Zie QoS implementeren en  Gesprekskwaliteit bewaken in Microsoft Teams voor gerelateerde documentatie als u op zoek bent naar rapportages of analyses met betrekking tot gesprekken of [gesprekskwaliteit.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 
+Als u op zoek bent  naar rapportages of analyses met betrekking tot oproepen of gesprekskwaliteit, zie QoS implementeren en [Gesprekskwaliteit](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) bewaken in Microsoft Teams voor gerelateerde documentatie.
 

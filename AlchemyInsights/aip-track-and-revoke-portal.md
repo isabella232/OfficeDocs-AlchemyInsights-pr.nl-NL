@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a98b2dd7ae24674d7d346335e0729daec3a00db7bb0580dd0dd4ba08f58e7aca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934216"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: Portal bijhouden en intrekken
 
-Gebruik de **documenttrackingsite** in de Azure Portal om documenten bij te houden en in te trekken wanneer u Azure Information Protection gebruikt. De Office-toepassingen (Word, Excel en PowerPoint) en Verkenner kunnen ook worden gebruikt om documenten bij te houden en in te trekken.
+Gebruik de **documenttrackingsite** in de Azure Portal om documenten bij te houden en in te trekken wanneer u Azure Information Protection gebruikt. De Office (Word, Excel en PowerPoint) en Verkenner kunnen ook worden gebruikt om documenten bij te houden en in te trekken.
 
 1. Klik op de site voor het bijhouden van documenten op **Toegang intrekken.** Als u een document inroept, wordt de toegang van geautoriseerde gebruikers verwijderd. het document wordt niet verwijderd.
-2. In de Office-toepassing:
+2. In de Office toepassing:
     - Open het beveiligde document dat u wilt bijhouden of intrekken.
     - Klik op **het tabblad** Start in **de** groep Beveiliging op > Bijhouden **en intrekken.**
 

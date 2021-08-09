@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "9000738"
 - "4367"
-ms.openlocfilehash: 3118b17a210f07cf2f325a5a8fda3fc0f4764a1d
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: c41ab0552985681f14090cc049f8bd77b8b49242823a418822674cd21dea0f77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908984"
 ---
 # <a name="teams-chat-functionality"></a>Teams-chatfunctionaliteit
 
