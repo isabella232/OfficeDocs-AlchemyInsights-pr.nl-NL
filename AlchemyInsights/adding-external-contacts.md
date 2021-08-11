@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934900"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Externe communicatie inschakelen en contactpersonen toevoegen
 
@@ -25,4 +25,4 @@ In Skype voor Bedrijven kunt u personen toevoegen aan uw lijst met contactperson
 
 Zorg ervoor dat de tenantbeheerder de stappen voor Externe communicatie [toestaan heeft gevolgd.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Wilt u alleen uw gebruikers inschakelen om contact op te nemen met consumentengebruikers van Skype? Zie [Skype voor Bedrijven-gebruikers Skype-contactpersonen laten toevoegen.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+Wilt u alleen uw gebruikers inschakelen om contact op te nemen met Skype consumenten? Zie [Laat Skype voor Bedrijven gebruikers Skype toevoegen.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 

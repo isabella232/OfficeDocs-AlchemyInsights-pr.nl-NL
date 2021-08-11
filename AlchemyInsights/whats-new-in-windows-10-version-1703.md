@@ -1,5 +1,5 @@
 ---
-title: Nieuw in Windows 10, versie 1703
+title: Nieuwe functies in Windows 10, versie 1703
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: b2b8882a3a4c2b527c1a6eb8300b810a539599c8
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 0e4dea85d86d768fce69f3c1aa5269a84d5103f6c908c72928d39bfc9143dd76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970686"
 ---
-# <a name="whats-new-in-windows-10-version-1703"></a>Nieuw in Windows 10, versie 1703
+# <a name="whats-new-in-windows-10-version-1703"></a>Nieuwe functies in Windows 10, versie 1703
 
-Dit is wat er nieuw is in informatietechnologie (IT) Pro-functies in Windows 10, versie 1703, ook wel bekend als de Creators update:
+Dit zijn de nieuwe functies in it-functies (Information Technology) in Windows 10, versie 1703, ook wel de makersupdate genoemd:
 
 1. [Configuratie](https://go.microsoft.com/fwlink/?linkid=2114188)
 1. [Implementatie](https://go.microsoft.com/fwlink/?linkid=2114365)    
 1. [Beveiliging](https://go.microsoft.com/fwlink/?linkid=2114366)
 1. [Update](https://go.microsoft.com/fwlink/?linkid=2114189)
 1. [Beheer](https://go.microsoft.com/fwlink/?linkid=2114367)
-1. [Windows 10 Mobile-verbeteringen](https://go.microsoft.com/fwlink/?linkid=2114368)
+1. [Windows 10 Mobile verbeteringen](https://go.microsoft.com/fwlink/?linkid=2114368)
 1. [Miracast op een bestaand draadloos netwerk of LAN](https://go.microsoft.com/fwlink/?linkid=2114190)

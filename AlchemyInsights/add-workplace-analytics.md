@@ -1,5 +1,5 @@
 ---
-title: Analyse van werkplek toevoegen
+title: Werkplekanalyse toevoegen
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: 37748293e62e490ad6322d9095cd7b08904f50c6
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d3abd1110b78092563ce26b279cd955d31ef5063425db78567c3cfd906007c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935116"
 ---
-# <a name="add-workplace-analytics"></a>Analyse van werkplek toevoegen
+# <a name="add-workplace-analytics"></a>Werkplekanalyse toevoegen
 
-Met de juiste licentieverlening kan uw bedrijf de bewerkings analyse van uw bedrijf als een invoegtoepassing verkrijgen aan de gebruiksrechtovereenkomst. Om analytische bewerkings-licenties te kunnen kopen, moet uw bedrijf het volgende doen: 
+Met de juiste licenties kan uw bedrijf Workplace Analytics verkrijgen als een add-on aan de licentieovereenkomst. Uw bedrijf heeft het volgende nodig om licenties voor Workplace Analytic te kunnen kopen: 
 
 - Een [Enterprise Agreement (EA)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) met Microsoft
-- Een Office 365-of Microsoft 365-product dat [Exchange Online abonnement 1 of Exchange Online abonnement 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans) bevat
+- Een Office 365 of Microsoft 365 product met Exchange Online plan 1 of [Exchange Online plan 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)
 
-Zie [vereisten voor de analyse van Workplace](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements)voor meer informatie. 
+Zie Vereisten voor [Workplace Analytics voor meer informatie.](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements) 
