@@ -1,5 +1,5 @@
 ---
-title: Probleem met de app-proxy gateway
+title: App Proxy Gateway-probleem
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951524"
 ---
-# <a name="app-proxy-gateway-issue"></a>Probleem met de app-proxy gateway
+# <a name="app-proxy-gateway-issue"></a>App Proxy Gateway-probleem
 
-Als u veelvoorkomende problemen wilt oplossen met de fout ' deze corporate-app kan niet worden geopend ' in een toepassing voor een Azure AD-toepassingsproxy, raadpleegt u [de fout ' kan deze zakelijke toepassing niet openen ' wanneer u een toepassingsproxy toepassing gebruikt](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error).
+Als u veelvoorkomende problemen wilt oplossen voor de fout 'Deze zakelijke app kan niet worden gebruikt' in een Azure AD Application Proxy-toepassing, gaat u naar de fout ['Kan deze](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)bedrijfstoepassing niet openen' bij het gebruik van een toepassingsproxytoepassing.

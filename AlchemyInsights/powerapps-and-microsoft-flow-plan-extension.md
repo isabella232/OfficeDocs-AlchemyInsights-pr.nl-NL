@@ -1,5 +1,5 @@
 ---
-title: 1575-uitbreiding-PowerApps en Microsoft flow-schema
+title: 1575-PowerApps en Microsoft Flow-abonnementsextensie
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960434"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Uitbreiding PowerApps en Microsoft flow schema
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps en Microsoft Flow-abonnementsextensie
 
-Als u een abonnement-uitbreiding voor **Microsoft flow** of **PowerApps** wilt aanvragen en als de Tenant al actieve gebruikers van een van de volgende functies bevat, hoeft u geen verzoek voor ondersteuning te hoeven indienen.
+Als u een abonnementsextensie wilt aanvragen voor **Microsoft Flow** of PowerApps en uw tenant al actieve gebruikers van een van de volgende functies heeft, hoeft u geen **ondersteuningsaanvraag** in te voeren.
 
-- Maken en publiceren van aangepaste verbindingslijnen in PowerApps en Microsoft flow
-- HTTP-aangepaste acties geïntegreerd in de stroom buiten SharePoint en OneDrive
-- Integratie van on-premises gegevens via de on-premises data gateway
+- Het maken en publiceren van aangepaste connectors in PowerApps en Microsoft Flow
+- Aangepaste HTTP-acties geïntegreerd in Flow externe SharePoint en OneDrive
+- Integratie van on-premises gegevens via de on-premises gegevensgateway
 
-Klanten met actieve gebruikers van deze functies krijgen een automatische uitbreiding tot 31 januari 2020 of de vervaldatum van hun bestaande Microsoft 365-abonnementsperiode, afhankelijk van wat langer is.
+Klanten met actieve gebruikers van deze functies krijgen een automatische verlenging tot 31 januari 2020 of de vervaldatum van hun bestaande Microsoft 365 abonnementsperiode, indien langer.

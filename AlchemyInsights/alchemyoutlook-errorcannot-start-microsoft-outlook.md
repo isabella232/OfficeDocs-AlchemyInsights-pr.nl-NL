@@ -1,5 +1,5 @@
 ---
-title: Outlook-fout kan Microsoft Outlook niet starten
+title: Outlook kan Microsoft-Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,17 +13,17 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22c3c21d9a361712e84dd75123ded376a81756989ad1d7ec5aa573e0046c04b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933640"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook-fout: kan Microsoft Outlook niet starten
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook fout: Kan Microsoft-Outlook
 
-Als u problemen ondervindt bij het starten van Outlook 2016, Outlook 2013, Outlook 2010 of het ontvangen van Microsoft Outlook, kunt u niet beginnen. Het Outlook-venster kan niet worden geopend "foutberichten?
+Hebt u problemen met het Outlook 2016, Outlook 2013 of Outlook 2010 of ontvangt u 'Kan Microsoft niet Outlook. Kunt u het Outlook venster niet openen?
   
-Gebruik eerst de stappen voor probleemoplossing in [dit artikel](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) om de startproblemen op te lossen. 
+Gebruik eerst de stappen voor het oplossen van problemen in [dit artikel](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) om deze opstartproblemen op te lossen. 
   
-U kunt ook het [hulpprogramma geavanceerde diagnose](https://aka.ms/SaRA-OutlookAdvDiagnostics) uitvoeren op de desbetreffende computer.
+U kunt ook het hulpprogramma [Geavanceerde diagnostische gegevens uitvoeren](https://aka.ms/SaRA-OutlookAdvDiagnostics) op de betreffende computer.

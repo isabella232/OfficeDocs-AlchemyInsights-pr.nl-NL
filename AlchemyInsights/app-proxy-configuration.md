@@ -1,5 +1,5 @@
 ---
-title: Configuratie van app-proxy
+title: App-proxyconfiguratie
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951560"
 ---
-# <a name="app-proxy-configuration"></a>Configuratie van app-proxy
+# <a name="app-proxy-configuration"></a>App-proxyconfiguratie
 
-1. Als u wilt weten hoe u een toepassingsproxy toepassing kunt configureren in azure AD zodat u uw on-premises toepassingen kunt weergeven in de Cloud, leest u [hoe u een toepassing van de toepassing proxy kunt configureren](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. Eenmalige aanmelding (SSO) Hiermee kunnen uw gebruikers toegang krijgen tot een toepassing zonder verificatie meerdere keren. U kunt de authenticatie van de toepassing in de Cloud afronden op Azure Active Directory, zodat de service of connector de gebruiker kan imiteren om eventuele extra authenticatie van de toepassing te voltooien. Voor meer informatie raadpleegt u [eenmalige aanmelding configureren voor een toepassing van de toepassings proxy](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. Gebruik [dit artikel](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) om veelvoorkomende problemen met personen te verhelpen bij het maken van een nieuwe toepassing voor toepassingsproxy.
-4. Als u problemen ondervindt bij het instellen van een back-end-authenticatie voor uw toepassing, moet u mogelijk problemen met de [Kerberos-beperkte delegering voor de toepassings proxy oplossen](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) of de richtlijnen volgen voor het [configureren van de toepassing met PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) voor het oplossen van het probleem.
+1. Zie Een Toepassingsproxytoepassing configureren voor meer inzicht in het configureren van een toepassingsproxytoepassing in Azure AD om uw on-premises toepassingen aan de cloud [bloot te stellen.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
+2. Met eenmalige aanmelding (SSO) kunnen uw gebruikers toegang krijgen tot een toepassing zonder meerdere keren te authenticeren. Hiermee kan één verificatie plaatsvinden in de cloud, tegen Azure Active Directory, en kan de service of Connector zich voordoen als de gebruiker om eventuele extra verificatieuitdagingen uit de toepassing te voltooien. Zie Een enkele aanmelding configureren voor een [toepassingsproxytoepassing](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)voor meer informatie.
+3. Gebruik [dit artikel om](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) veelvoorkomende problemen op te lossen waar mensen mee te maken krijgen bij het maken van een nieuwe toepassingsproxytoepassing.
+4. Als u een probleem hebt met het instellen van back-endverificatie voor uw toepassing, moet u mogelijk de beperkte delegatieconfiguraties van [Kerberos](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) voor toepassingsproxy oplossen of richtlijnen volgen voor het configureren van toepassing met [PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) om het probleem op te lossen.

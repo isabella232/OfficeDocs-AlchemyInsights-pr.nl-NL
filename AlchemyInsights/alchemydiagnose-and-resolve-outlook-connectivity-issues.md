@@ -1,5 +1,5 @@
 ---
-title: 'Alchemy: problemen met Outlook-verbindingen vaststellen en oplossen'
+title: Alchemy - Problemen met de Outlook opsporen en oplossen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933712"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Problemen met Outlook-verbindingen vaststellen en oplossen
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Problemen met de Outlook opsporen en oplossen
 
-Als u uw Outlook-verbindingsproblemen wilt achterhalen en verhelpen, kunt u het [Outlook-verbindingsprogramma](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) op de desbetreffende computer uitvoeren.
+Als u problemen met de Outlook wilt opsporen en oplossen, kunt u het hulpprogramma Outlook [op](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) de betreffende computer uitvoeren.
   
-Met dit hulpprogramma voert u diagnostische tests uit en worden mogelijke oplossingen voorgesteld om het probleem met de Outlook-verbinding op te lossen.
+Dit hulpprogramma voert diagnostische controles uit en stelt mogelijke oplossingen voor om het probleem met Outlook oplossen.
   

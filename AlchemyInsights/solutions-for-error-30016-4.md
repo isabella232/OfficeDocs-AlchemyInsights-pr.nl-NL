@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909929"
 ---
 # <a name="solutions-for-error-30016-4"></a>Oplossingen voor fout 30016-4
 
-Wanneer u Microsoft 365-apps voor Enterprise van een computer probeert te verwijderen en het foutbericht wordt weergegeven, betekent dit dat **er iets 30016-4 mis**is met **een ander station** dan **% Program Files%**.
+Wanneer u Microsoft 365-apps voor ondernemingen van een computer probeert te verwijderen en u het foutbericht krijgt, is er iets misgegaan **30016-4,** betekent dit dat het **station %temp%** is toegesneden op een ander station dan **%ProgramFiles%.**
   
-De [ondersteunings-en herstel assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) repareren, downloaden en installeren
+Als u de oplossing wilt oplossen, downloadt en [installeert u de Ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Wanneer deze wordt geopend, selecteert u de versie die u wilt verwijderen en selecteert u **vervolgens volgende**van **Office-producten verwijderen** .
+1. Wanneer de app wordt geopend, **selecteert u Office de** versie die u wilt verwijderen en selecteert u **Volgende.**
 
 2. Volg de aanwijzingen op het scherm en start de computer opnieuw op wanneer daarom wordt gevraagd.
 
-    Wanneer de ondersteunings-en herstelfunctie opnieuw wordt gestart, wordt deze automatisch opnieuw geopend, zodat de installatieprocedure wordt voltooid.
+    Na het opnieuw opstarten wordt Ondersteunings- en herstelassistent automatisch opnieuw geopend om het installatieproces te voltooien.
 
-3. Volg de resterende aanwijzingen en [Installeer Office opnieuw](https://portal.office.com/OLS/MySoftware.aspx) of sluit de assistent.
+3. Volg de resterende aanwijzingen en [installeer de Office](https://portal.office.com/OLS/MySoftware.aspx) of sluit de assistent.

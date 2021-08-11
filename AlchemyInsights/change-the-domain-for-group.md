@@ -1,5 +1,5 @@
 ---
-title: Het domein voor Microsoft 365-groep wijzigen
+title: Het domein voor Microsoft 365 groep wijzigen
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916986"
 ---
-# <a name="change-the-domain-for-a-microsoft-365-group"></a>Het domein voor een Microsoft 365-groep wijzigen
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Het domein voor een groep Microsoft 365 wijzigen
 
-Als u tijdens het maken van een Microsoft 365-groep het domein wilt wijzigen, volgt u de stappen in [het domein kiezen dat u wilt gebruiken voor het maken van Microsoft 365-groepen](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Als u het domein voor een groep Microsoft 365 wilt wijzigen tijdens het maken, volgt u de stappen in Kies het domein dat u wilt gebruiken bij het maken [van Microsoft 365 Groepen.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Ga als volgt te werk als u het domein van een bestaande Microsoft 365-groep wilt wijzigen: Ga naar het Microsoft 365-Beheercentrum https://admin.microsoft.com en voer de volgende stappen uit:
+Als u het domein van een bestaande Microsoft 365 groep wilt wijzigen, kunt u als beheerder naar het Microsoft 365-beheer Center gaan en vervolgens de volgende stappen https://admin.microsoft.com uitvoeren:
 
-- **Groepen** kiezen in het menu aan de linkerkant
-- Ga naar de M365-groep die u wilt wijzigen en kies deze en klik vervolgens onder **e-mailadressen** op **bewerken** op het tabblad **Algemeen** .
-- U kunt nu het domein van het primaire e-mailadres wijzigen en u kunt ook e-mail aliassen toevoegen.
+- Groepen **kiezen** in het menu aan de linkerkant
+- Zoek naar de M365-groep die u wilt wijzigen en kies deze en klik vervolgens op Bewerken **onder** E-mailadressen **op** **het** tabblad Algemeen.
+- U kunt nu het domein van het primaire e-mailadres wijzigen en u kunt ook e-mailalias toevoegen.
 
 > [!IMPORTANT]
-> Met beschikbare distributiegroepen en beveiligingsgroepen met e-mail kunt u minder instellingen beheren via het M365-Beheercentrum, de sectie **groepen** . Als u meer van de details wilt beheren, klikt u op het tabblad **instellingen** wanneer u een ervan bewerkt in het M365-Beheercentrum en kiest u **meer instellingen beheren in de optie Exchange Admin Center** .
+> Met normale distributiegroepen en beveiligingsgroepen met e-mail kunt u minder instellingen beheren vanuit de sectie M365-beheercentrum **Groepen.** Als u meer van hun gegevens wilt beheren, klikt u op het **tabblad Instellingen** bij het bewerken van een van de gegevens in het M365-beheercentrum en kiest u Meer instellingen beheren in de optie Exchange **beheercentrum.**
