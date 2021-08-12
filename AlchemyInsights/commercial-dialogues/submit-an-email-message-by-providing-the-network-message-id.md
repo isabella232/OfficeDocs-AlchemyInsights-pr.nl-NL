@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: e4a0a3d9b4fede9198c8a235d05945b30a6e0807
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1a6f9815a36cc267a815ff9757d713afed5d95aec4f7c537135c88cadf26cc51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929912"
 ---
 # <a name="submit-an-email-message-by-providing-the-network-message-id"></a>Een e-mailbericht verzenden door de netwerkbericht-id op te geven
 
 1. Selecteer in **de flyout Nieuwe** inzending de optie **E-mail** en **netwerkbericht-id.**
-2. Volg deze stappen om de bericht-id voor een e-mailbericht in Outlook te vinden:
+2. Volg deze stappen om de bericht-id voor een e-mailbericht te vinden in Outlook:
     1. Dubbelklik op het e-mailbericht om het te openen.
     1. Selecteer   >  **Bestandseigenschappen.**
     1. Open Kladblok of een leeg Word-document en kopieer en plak de inhoud in het vak **Internetkoppen** in het geopende document voor een betere zichtbaarheid.
