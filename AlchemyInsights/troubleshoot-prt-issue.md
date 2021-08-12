@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972711"
 ---
 # <a name="troubleshoot-prt-issue"></a>Probleem met PRT oplossen
 
-Om te voorkomen dat een apparaat wordt geverifieerd, moet het volledig geregistreerd en in goede staat zijn en kan een primaire vernieuwings token (PRT) worden verkregen.
+Voor elk apparaat dat wordt geverifieerd, moet het volledig zijn geregistreerd en in goede staat zijn en een prt (Primary Refresh Token) kunnen verkrijgen.
 
-Voor het Hybrid Azure AD-registratieproces zijn apparaten in een bedrijfsnetwerk vereist. Dit werkt ook via VPN, maar er is een aantal voorbehoud. We willen klanten weten dat ze hulp nodig hebben bij het oplossen van problemen bij het registreren van het hybride Azure AD join-registratieproces onder externe werkomstandigheden. Dit is een uitsplitsing van wat er gebeurt onder de oppervlakte tijdens het registratieproces.
+Voor het registratieproces voor hybride Azure AD-joins moeten apparaten zich op een bedrijfsnetwerk hebben. Het werkt ook via VPN, maar er zijn enkele kanttekeningen. We hebben gehoord dat klanten hulp nodig hebben bij het oplossen van problemen met het hybride Azure AD-registratieproces onder externe werkomstandigheden. Hier volgen een overzicht van wat er 'onder de motorkap' gebeurt tijdens het registratieproces.
 
-**Cloud verificatie omgeving (via Azure AD Password Hash sync of Pass Through-verificatie)**
+**Cloudverificatieomgeving (met behulp van Wachtwoordhashsynchronisatie van Azure AD of pass-through-verificatie)**
 
-Deze registratie stroom wordt ook wel ' synchronisatie deelnemen ' genoemd.
+Deze registratiestroom wordt ook wel 'Synchronisatie join' genoemd.
 
-1. Windows 10 detecteert een SCP-record bij gebruikers die zich bij het apparaat aanmelden.
-    1. Het apparaat probeert eerst Tenant informatie op te halen uit de clientzijde-SCP in het register [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Zie dit [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)voor meer informatie.
-    2. Als dit mislukt, communiceert het apparaat met on-premises Active Directory (AD) om Tenant informatie op te halen van het service verbindingspunt (SCP). Als u SCP wilt controleren, raadpleegt u dit [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> U wordt aangeraden SCP in te schakelen in de advertentie en uitsluitend aan clientzijde-SCP te gebruiken voor initiële verificatie.
-
-2. Windows 10 probeert met Azure AD te communiceren onder de systeemcontext om zichzelf te verifiëren tegen Azure AD. U kunt controleren of het apparaat toegang heeft tot Microsoft-bronnen onder het systeemaccount met behulp van het script voor het registreren van apparaten.
-
-3. In Windows 10 wordt een zelfondertekend certificaat gegenereerd en opgeslagen onder het computerobject in on-premises advertenties. Dit vereist regel-van-gezichtsvermogen voor domein controller.
-
-4. Een apparaatobject met een certificaat wordt gesynchroniseerd met Azure AD via Azure AD Connect. De synchronisatie cyclus is standaard elke 30 minuten, maar dit is afhankelijk van de configuratie van Azure AD Connect. Raadpleeg dit [document](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)voor meer informatie.
-
-5. In dit stadium ziet u mogelijk het onderwerp-apparaat in de status in behandeling onder apparaatprofielen van Azure Portal.
-
-6. Bij de volgende gebruikersaanmelding met Windows 10 wordt de registratie beëindigd. 
+1. Windows 10 wordt een SCP-record ontdekt wanneer gebruikers zich aanmelden bij het apparaat.
+    1. Het apparaat probeert eerst tenantgegevens op te halen uit SCP aan clientzijde in register [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Zie dit document voor meer [informatie.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. Als dit mislukt, communiceert het apparaat met on-premises Active Directory (AD) om tenantgegevens op te halen bij Service Connection Point (SCP). Als u SCP wilt controleren, raadpleegt u dit [document.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Als u een VPN-verbinding hebt en een proces voor afmelden afmelden de domein verbinding beëindigt, kunt u de registratie handmatig activeren:
- 1. Meld u op een dsregcmd-/join lokale vragen of extern via PSExec op uw PC. Bijvoorbeeld PsExec-s \\ win10client01 cmd, dsregcmd/join
+> Het is raadzaam SCP in te stellen in de AD en alleen SCP aan de clientzijde te gebruiken voor de eerste validatie.
 
- 2. Zie [problemen met apparaten oplossen](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)voor meer informatie over problemen met hybride verbindingen.
+2. Windows 10 probeert te communiceren met Azure AD onder de systeemcontext om zich te verifiëren tegen Azure AD. U kunt controleren of het apparaat toegang heeft tot Microsoft-resources onder het systeemaccount met behulp van het script Test Device Registration Connectivity.
+
+3. Windows 10 genereert een zelf ondertekend certificaat en slaat het op onder het computerobject in on-premises AD. Hiervoor is een gezichtslijn vereist voor domeincontroller.
+
+4. Een apparaatobject met een certificaat wordt gesynchroniseerd met Azure AD via Azure AD Verbinding maken. Synchronisatiecyclus is standaard elke 30 minuten, maar is afhankelijk van de configuratie van Azure AD-Verbinding maken. Raadpleeg dit document voor meer [informatie.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. In dit stadium kunt u het onderwerpapparaat in de status 'In behandeling' zien onder Apparaatblad van Azure Portal.
+
+6. Bij de volgende gebruiker die zich aanmeld bij Windows 10, wordt de registratie voltooid. 
+
+> [!NOTE]
+> Als u VPN gebruikt en een aanmeldingsproces voor aanmelding de domeinconnectiviteit beëindigt, kunt u registratie handmatig activeren:
+ 1. Een dsregcmd /join lokaal op admin prompt of op afstand via PSExec naar uw pc. Bijvoorbeeld: PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Zie Problemen met apparaten oplossen voor meer informatie over problemen met hybride [joins.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)

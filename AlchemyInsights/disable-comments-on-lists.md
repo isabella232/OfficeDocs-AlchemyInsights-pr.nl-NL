@@ -1,5 +1,5 @@
 ---
-title: Opmerkingen voor lijsten uitschakelen
+title: Opmerkingen in lijsten uitschakelen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "7613"
-ms.openlocfilehash: 28a04424cdace0083ac012b7301595a7b9ca2687
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: e797c8ea75aa9a11358cec6ccac0f51f203f93aa5e6e0a0811ec50178c914b20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928734"
 ---
-# <a name="disable-comments-on-lists"></a>Opmerkingen voor lijsten uitschakelen
+# <a name="disable-comments-on-lists"></a>Opmerkingen in lijsten uitschakelen
 
-Beheerders kunnen de functie op organisatieniveau uitschakelen door de **CommentsOnListItemsDisabled** -parameter in de PowerShell **-cmdlet Set-SPOTenant** te wijzigen.
+Beheerders kunnen de functie op organisatieniveau uitschakelen door de parameter **CommentsOnListItemsDisabled** te wijzigen in de **PowerShell-cmdlet Set-SPOTenant.**
 
-Het is op dit moment niet mogelijk om opmerkingen in te schakelen op de site of het lijstniveau. We hopen dat ze de besturingselementen in een latere update willen zien, waarschijnlijk in het eerste kwartaal van 2021.
+Het is momenteel niet mogelijk om opmerkingen op site- of lijstniveau uit te schakelen. We hopen deze besturingselementen in een latere update te hebben, waarschijnlijk in het eerste kwartaal van 2021.

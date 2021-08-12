@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001464"
 - "3492"
-ms.openlocfilehash: 7b0f5c21a7e6afda0ee3000e75ee725cbadcedb7
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7e67a45b6f4d4b18f47ce55a0fde20f826498c5d25c4a6dec4311d8fe4c3735f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928544"
 ---
 # <a name="disable-network-scan"></a>Netwerkscan uitschakelen
 
-Scans van netwerk delen kunnen de prestaties beïnvloeden.  Als u er zeker van wilt zijn dat de client netwerk shares/bestanden standaard niet scant, moet u de volgende instellingen in de Windows Defender-toepassing configureren op **Waar:**
+Netwerk deelt scans kunnen van invloed zijn op de prestaties.  Als u ervoor wilt zorgen dat netwerkaandelen/bestanden niet standaard worden gescand door de client, configureert u de volgende instellingen in de Windows Defender toepassing op **Waar:**
 
 - DisableScanningMappedNetworkDrivesForFullScan
 - DisableScanningNetworkFiles
