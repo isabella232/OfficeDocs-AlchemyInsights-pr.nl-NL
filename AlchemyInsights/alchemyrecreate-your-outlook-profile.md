@@ -1,5 +1,5 @@
 ---
-title: 'Alchemy: uw Outlook-profiel opnieuw maken'
+title: Alchemy - Uw profiel opnieuw Outlook maken
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933532"
 ---
-# <a name="create-an-outlook-profile"></a>Een Outlook-profiel maken
+# <a name="create-an-outlook-profile"></a>Een profiel Outlook maken
 
-Als u uw Outlook-profiel wilt maken of opnieuw wilt maken, kunt u het [hulpprogramma voor Outlook-profielen](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) op de desbetreffende computer uitvoeren.
+Als u uw Outlook wilt maken of opnieuw wilt maken, kunt u het Outlook [op](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) de betreffende computer uitvoeren.
 
-Het hulpprogramma voert verschillende controles uit en wanneer u klaar bent, maakt u een Outlook-profiel met uw e-mailadres.
+Het hulpprogramma voert verschillende controles uit en wanneer u klaar bent, maakt u een Outlook profiel met uw e-mailadres.
