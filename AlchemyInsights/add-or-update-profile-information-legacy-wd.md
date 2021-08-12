@@ -1,5 +1,5 @@
 ---
-title: 'Profielgegevens toevoegen of bijwerken: verouderde WD-aanbevolen stappen'
+title: Profielgegevens toevoegen of bijwerken - Oudere WD - aanbevolen stappen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,50 +13,50 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7339"
-ms.openlocfilehash: a3cbf78949c7e22d537f54c2498133277a6cb5d6
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: 9f83ca6145219c7ebee94315b177a6922391f526514fbf2c846f9a26a44228ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953828"
 ---
-# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Profielgegevens toevoegen of bijwerken: verouderde WD-aanbevolen stappen
+# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Profielgegevens toevoegen of bijwerken - Oudere WD - aanbevolen stappen
 
-**Contactgegevens voor een Azure-factureringsaccount wijzigen**
+**Contactgegevens wijzigen voor een Azure-factureringsaccount**
 
-**Factuuradres**: het factuuradres is het adres en de contactgegevens van de organisatie of de persoon die verantwoordelijk is voor de betaling van de facturen die zijn gegenereerd voor een factuur account. Voor een [factuur account voor een Microsoft Online service-programma (MOSP)](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address)wordt er één factuuradres weergegeven, dat wordt weergegeven op alle facturen die voor het account zijn gegenereerd.
+**Factuuradres:** Het factuuradres is het adres en de contactgegevens van de organisatie of de persoon, die verantwoordelijk is voor de betaling van de facturen die zijn gegenereerd voor een factureringsaccount. Voor een factureringsaccount voor een [Microsoft Online Service Program (MOSP)](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address)is er één factuuradres dat wordt weergegeven op alle facturen die voor het account zijn gegenereerd.
 
-**Contact e-mailadres voor service-en marketing**-e-mail: u kunt [een e-mailadres opgeven](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) dat verschilt van het e-mailadres waarmee u zich aanmeldt om belangrijke berichten over factureringsfuncties, services en aanbevelingen te ontvangen over uw Azure-account. Service melding e-mailberichten, zoals urgente beveiligingskwesties, prijswijzigingen of het wijzigen van wijzigingen in services die door uw account worden gebruikt, worden altijd verzonden naar uw aanmeldingsadres.
+Contact opnemen met e-mailadres voor [](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) service- en marketing-e-mailberichten: U kunt een e-mailadres opgeven dat verschilt van het e-mailadres waar u zich bij aanmeld om belangrijke factureringsgerelateerde, servicegerelateerde en aanbevelingengerelateerde meldingen over uw Azure-account te ontvangen.  E-mailberichten over servicemeldingen, zoals urgente beveiligingsproblemen, prijswijzigingen of het wijzigen van wijzigingen in services die door uw account worden gebruikt, worden altijd naar uw aanmeldingsadres verzonden.
 
-Voer de volgende stappen uit om het adres van een MOSP-factuur account bij te werken:
-1. Meld u aan bij de Azure-Portal met het e-mailadres met de accountbeheerder voor het account.
-2. Zoek en selecteer **kostenbeheer + facturering**. 
-3. Klik op **Eigenschappen** aan de linkerkant. 
-4. Klik op **Factuuradres bijwerken** om de verkochte en factuuradressen bij te werken. Voer het nieuwe adres in en klik op **Opslaan**.
+Als u het adres van een MOSP-factureringsaccount wilt bijwerken, gaat u als volgt te werk:
+1. Meld u aan bij de Azure-portal met het e-mailadres waarvoor de accountbeheerder de machtiging voor het account heeft.
+2. Zoek naar en selecteer **Kostenbeheer + Facturering.** 
+3. Klik **aan de** linkerkant op Eigenschappen. 
+4. Klik **op Factuuradres bijwerken** om de verkochte adressen en de factuuradressen bij te werken. Voer het nieuwe adres in en klik op **Opslaan.**
 
-**Het e-mailadres van uw contactpersoon wijzigen** 
+**Uw e-mailadres voor contactpersonen wijzigen** 
 
-Voer de volgende stappen uit om het e-mailadres van uw contactpersoon te wijzigen:
-1. Als u een accountbeheerder voor een MOSP-account bent, volgt u de instructies in [een MOSP-factureringsaccount adres bijwerken](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) en klikt u in de laatste stap op **contactgegevens bijwerken** . 
+Als u het e-mailadres van uw contactpersoon wilt wijzigen, gaat u als volgt te werk:
+1. Als u een accountbeheerder bent voor een MOSP-account, volgt u de instructies in Het adres van een MOSP-factureringsaccount bijwerken en klikt u **in** de laatste stap op Contactgegevens bijwerken. [](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) 
 2. Voer het nieuwe e-mailadres in. 
-3. Ga naar het deelvenster [contact gegevens](https://ms.portal.azure.com/) in de Azure-Portal en voer het nieuwe e-mailadres in. 
+3. Ga naar het [deelvenster Contactgegevens](https://ms.portal.azure.com/) in de Azure-portal en voer het nieuwe e-mailadres in. 
 4. Klik op het pictogram met uw initialen of afbeelding. 
-5. Selecteer **contextmenu (...) > mijn contact gegevens** en voer het nieuwe e-mailadres in.
+5. Selecteer **contextmenu (...) > Mijn contactgegevens** en voer het nieuwe e-mailadres in.
 
 **Profielgegevens toevoegen of bijwerken**
 
-U kunt informatie over gebruikersprofielen toevoegen, zoals een profielafbeelding, specifieke informatie en bepaalde instellingen, via Azure Active Directory (Azure AD). Zie voor meer informatie over het toevoegen van nieuwe gebruikers [gebruikers toevoegen aan of verwijderen uit Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory).
+U kunt gebruikersprofielgegevens, waaronder een profielafbeelding, functiespecifieke informatie en sommige instellingen, toevoegen met Azure Active Directory (Azure AD). Zie Gebruikers toevoegen of verwijderen in Azure Active Directory voor meer informatie over het toevoegen [van nieuwe Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 
-Voer de volgende stappen uit om profielinformatie toe te voegen of te wijzigen:
+Als u profielgegevens wilt toevoegen of wijzigen, gaat u als volgt te werk:
 
-1. Meld u bij de Azure-portal aan als gebruiker van de beheerder van de organisatie.
-2. Selecteer **Azure Active Directory > gebruikers** en klik vervolgens op het gebruikersprofiel dat u wilt bijwerken. 
-3. Klik op **bewerken** als u de informatie in de beschikbare secties optioneel wilt toevoegen of bijwerken. 
+1. Meld u aan bij de Azure-portal als gebruiker-beheerder voor de organisatie.
+2. Selecteer **Azure Active Directory > Gebruikers** en klik vervolgens op het gebruikersprofiel dat u wilt bijwerken. 
+3. Klik **op** Bewerken om desgewenst de informatie in elk van de beschikbare secties toe te voegen of bij te werken. 
 4. Klik op **Opslaan**.
 
 **Aanbevolen documenten**
 
-- [Facturerings accounts en bereiken in de Azure-Portal](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
-- [Een creditcard voor Azure toevoegen of bijwerken](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Factureringsaccounts en -scopes in de Azure-portal](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
+- [Een creditcard toevoegen of bijwerken voor Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 
 

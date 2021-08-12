@@ -1,5 +1,5 @@
 ---
-title: 'KO-nummer toevoegen of bijwerken: verouderde WD-aanbevolen stappen'
+title: Po-nummer toevoegen of bijwerken - Oudere WD - aanbevolen stappen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953864"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>KO-nummer toevoegen of bijwerken: verouderde WD-aanbevolen stappen
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Po-nummer toevoegen of bijwerken - Oudere WD - aanbevolen stappen
 
-Het toevoegen van een IO-nummer (inkoop order) wordt alleen ondersteund voor klanten die [per factuur betalen](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) via een cheque of overschrijving. Instructies voor het bijwerken van het ko-nummer is afhankelijk van het [type factureringsaccount](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts).
+Het toevoegen van een po-nummer (Inkooporder) wordt alleen ondersteund voor klanten die per factuur [betalen](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) via een cheque of overboeking. Instructies voor het bijwerken van het PO-nummer zijn afhankelijk van het [type factureringsaccount.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-U moet een [accountbeheerder](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) hebben om een ko-nummer te kunnen bewerken.
+U moet een [accountbeheerderrol](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) hebben om een PO-nummer te kunnen bewerken.
 
-1. Selecteer uw abonnement op de [pagina Abonnementen](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
-2. Klik op **betalingsmethoden** aan de linkerkant.
-3. Klik in de tabel **betalingsmethoden** op **factuur**. 
-4. Voer uw nieuwe ko-nummer in en klik op **Opslaan**.
+1. Selecteer uw abonnement op [de pagina Abonnementen.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Klik **aan de linkerkant** op Betalingsmethoden.
+3. Klik in **de tabel Betalingsmethoden** op **Factuur**. 
+4. Voer het nieuwe PO-nummer in en klik op **Opslaan.**
 
 **Aanbevolen documenten**
 
 - [Ondersteunde landen/regio's en valuta's](https://azure.microsoft.com/en-us/pricing/faq/) 
 - [Betalen per factuur](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Contactgegevens van de Azure-factureringsaccount beheren](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Contactgegevens van azure-factureringsaccounts beheren](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 
