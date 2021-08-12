@@ -1,5 +1,5 @@
 ---
-title: Alleen-lezen voor onderhouds bericht bij het gebruik van SharePoint of OneDrive
+title: Read-Only voor onderhoudsbericht bij het gebruik van SharePoint of OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910541"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Alleen-lezen voor onderhouds bericht bij het gebruik van SharePoint of OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only voor onderhoudsbericht bij het gebruik van SharePoint of OneDrive
 
-Gebruikers kunnen een **alleen-lezen bericht ontvangen voor onderhoud** wanneer ze probeert SharePoint of OneDrive te gebruiken voor één van de volgende scenario's. 
+Gebruikers ontvangen mogelijk een **bericht alleen-lezen** voor onderhoud wanneer ze een SharePoint of OneDrive gebruiken voor een van de volgende scenario's. 
 
--   Een geplande of actieve onderhouds activiteit.  Ga naar het [berichtencentrum](https://portal.office.com/adminportal/home#/messagecenter)om dit te controleren.
--   Een hoge prioriteit, een actief service voorval dat mogelijk wordt uitgevoerd. Kijk op een of meer adviseurs/incidenten door naar [service status](https://portal.office.com/adminportal/home#/servicehealth)te navigeren.
--   Een klein herstelscenario met automatisch herstel dat kan optreden vanwege eventuele onverwachte gebeurtenissen op de servers die voor minder dan 30 minuten duren. 
+-   Een geplande of actieve onderhoudsactiviteit.  Controleer of ze zijn door naar het Berichtencentrum [te navigeren.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Een incident met een hoge prioriteit, actieve service die mogelijk plaatsvindt. Controleer op eventuele adviezen/incidenten door naar Service health [te gaan.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Een secundair scenario voor automatisch herstel dat kan plaatsvinden als gevolg van onverwachte gebeurtenissen op de servers die minder dan 30 minuten of zo kunnen duren. 
     
-    Er zijn geen berichtencentrum of service statusberichten voor deze kleine herdetecties, maar u moet altijd weer normaal zijn.
+    Er zijn geen Berichtencentrum of Service health-berichten voor deze secundaire herstelberichten, maar u moet binnenkort weer normaal zijn.
 
-In slechts een paar gevallen hebben we vastgesteld dat een van de drie scenario's hierboven de oorzaak was en de service hersteld is, maar de browsercache van de gebruikers niet is gewist.
+In zeer weinig gevallen hebben we vastgesteld dat een van de drie bovenstaande scenario's de oorzaak is en dat de service is hersteld, maar dat de browsercache van gebruikers niet is geweken.
 
-Probeer de cache van de browser te wissen voordat u naar de site navigeert.
+Probeer de browsercache te wissen voordat u naar de site gaat.
 
-1. Selecteer in de browser Microsoft Edge **instellingen**en selecteer vervolgens **Privacy en beveiliging**.
-2. Selecteer onder **Browse wissen**de **optie Selecteer wat u wilt wissen**.
-3. Selecteer **cookies en opgeslagen websitegegevens**en selecteer **wissen**.
+1. Selecteer in Microsoft Edge browser **Instellingen** en selecteer **vervolgens Privacy en beveiliging.**
+2. Selecteer **onder Bladeren verwijderen** de optie Kiezen wat u wilt **verwijderen.**
+3. Selecteer **Cookies en opgeslagen websitegegevens** en selecteer **Verwijderen.**
 
 >[!Note] 
 > Deze stappen kunnen verschillen wanneer u andere browsers gebruikt, zoals Mozilla Firefox of Google Chrome.
 
 >[!Note] 
-> Een andere mogelijkheid is om uw SharePoint-site of OneDrive te openen in een nieuw InPrivate-venster.
+> Een andere optie is het openen van uw SharePoint of OneDrive in een nieuw InPrivate-venster.

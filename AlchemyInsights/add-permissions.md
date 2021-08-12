@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7783"
-ms.openlocfilehash: b749278dc8e532ca723da5e6d8e4affc9a9266c7
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 02901b25ca9cd373d1e158cffdffb820b9ba7bb55c90a56aae57807a2e932192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935728"
 ---
 # <a name="add-permissions"></a>Machtigingen toevoegen
 
-1. Via het eindpunt voor de beheerder kunt u [de lijst met statisch gevraagde machtigingen voor een toepassing configureren](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application).
-1. U kunt aan de hand van de volgende twee machtigingen de mogelijkheid maken om toepassingen te maken. Zie [machtigingen voor toepassing registreren voor aangepaste rollen in azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)voor meer informatie.
-1. [Rollen machtigingen](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions): tabellen die zijn toegewezen aan een beschrijving van de specifieke machtigingen in azure Active Directory voor elke rol. Sommige rollen hebben mogelijk extra machtigingen in Microsoft-services buiten Azure Active Directory.
+1. Gebruik het eindpunt voor beheerdersmachtiging om de lijst met statisch aangevraagde machtigingen voor [een toepassing te configureren.](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application)
+1. Er zijn twee machtigingen beschikbaar voor het verlenen van de mogelijkheid om toepassingsregistraties te maken, elk met een ander gedrag. Zie Registratiemachtigingen voor toepassingen voor aangepaste rollen [in](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)Azure Active Directory.
+1. [Rolmachtigingen:](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions)tabellen waarin de specifieke machtigingen in Azure Active Directory elke rol worden beschreven. Sommige rollen hebben mogelijk extra machtigingen in Microsoft-services buiten Azure Active Directory.
