@@ -1,5 +1,5 @@
 ---
-title: Een e-mailhandtekening voor een gedeeld postvak maken
+title: Een e-mailhandtekening maken voor een gedeeld postvak
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b584ac2351b7ea6e0abe14db18af8785591cb5d6
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: f1b880455fdd96da7b20292a998d8e51db57f0cb7a196d5ff9dcb5ad2e484e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916302"
 ---
-# <a name="create-an-email-signature-for-a-shared-mailbox"></a>Een e-mailhandtekening voor een gedeeld postvak maken
+# <a name="create-an-email-signature-for-a-shared-mailbox"></a>Een e-mailhandtekening maken voor een gedeeld postvak
 
-Iedereen die het gedeelde postvak gebruikt, moet een nieuwe e-mailhandtekening toevoegen aan de lijst met handtekeningen.
+Elke persoon die het gedeelde postvak gebruikt, moet een nieuwe e-mailhandtekening toevoegen aan de lijst met handtekeningen.
 
-1. Zie Een handtekening maken en toevoegen aan berichten voor informatie over het maken van een e-mailhandtekening voor elk type [postvak.](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)
-2. **Tip:** wanneer gebruikers hun gedeelde adres gebruiken, moeten ze de handtekening van het gedeelde postvak als de standaardwaarde instellen.
-3. Wanneer ze vervolgens weer met hun eigen e-mailadres aan het werk gaan, moeten ze de handtekening weer wijzigen. Anders wordt het adres voor het gedeelde adres als het standaardadres gebruikt.
+1. Zie Een handtekening maken en toevoegen aan berichten voor meer informatie over het maken van een e-mailhandtekening voor elk type [postvak.](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)
+2. **Tip:** Wanneer gebruikers hun gedeelde adres gebruiken, moeten ze de handtekening van het gedeelde postvak instellen als de standaardinstelling.
+3. Wanneer ze vervolgens weer aan het werk gaan met hun eigen e-mailadres, moeten ze de handtekening weer wijzigen. Anders wordt de standaardinstelling gebruikt voor het gedeelde adres.

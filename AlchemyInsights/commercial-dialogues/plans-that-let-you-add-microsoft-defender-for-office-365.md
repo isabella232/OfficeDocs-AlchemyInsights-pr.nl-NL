@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 48e6f55c35a1a0af04453c17bb8dfe9cce194b5c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 890f55e87048d62121aaa07db24a518faddfe89db9c7162c593ef240de83f1b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916122"
 ---
 # <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Abonnementen voor het toevoegen van Microsoft Defender voor Office 365
 
-Als u een van de volgende abonnementen hebt, kunt u Microsoft Defender voor Office 365 hieraan toevoegen:
+Als u een van de volgende abonnementen hebt, kunt u Microsoft Defender voor Office 365 toevoegen:
 
-- Exchange Online-abonnement 1 of 2
+- Exchange Online Plan 1 of 2
 - Exchange Online Kiosk
 - Exchange Online Protection
-- Office 365 Business Essentials of Business Premium
+- Office 365 Business Essentials of Zakelijke Premium
 - Office 365 Enterprise E1, E3 of F1
 - Office 365 A1 of A3
