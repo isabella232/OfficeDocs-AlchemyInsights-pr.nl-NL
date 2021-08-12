@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85aa0ad68929eca77aa7adfb1031d91b0e9d46c77f6820ee52a7848cd4a19211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938474"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Een nieuw apparaat met Windows 10 activeren
+# <a name="activating-a-new-device-running-windows-10"></a>Een nieuw apparaat activeren met Windows 10
 
-Als u een nieuw apparaat met Windows 10 hebt gekocht, wordt dit automatisch geactiveerd wanneer u uw apparaat verbindt met internet. Als de activeringsservers bezet zijn, moet u mogelijk even wachten totdat Windows is geactiveerd.
+Als u een nieuw apparaat met Windows 10 hebt gekocht, wordt dit automatisch geactiveerd wanneer u uw apparaat verbindt met internet. Als de activeringsservers bezet zijn, moet u mogelijk even wachten totdat Windows activeren.
 
-Als u de activeringsstatus wilt controleren, **kiest u Instellingen** **bijwerken**&  >  **beveiligingsactivering**  >  .
+Als u de activeringsstatus wilt controleren, **kiest u** **Start** Instellingen  >  **Beveiligingsactivering &**  >  **bijwerken.**
 
 **Opmerking:** In sommige gevallen moet u mogelijk de Windows 10-productcode invoeren die bij de verpakking van het apparaat is meegeleverd, of als kaart of op het certificaat van echtheid (COA) dat aan het apparaat is gekoppeld.
 

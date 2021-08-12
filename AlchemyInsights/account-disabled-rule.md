@@ -1,5 +1,5 @@
 ---
-title: Regel met uitgeschakelde abonnement/account
+title: Regel abonnement/account uitgeschakeld
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938438"
 ---
 # <a name="azure-subscription-disabled"></a>Azure-abonnement uitgeschakeld
 
-Uw Azure-abonnement kan worden uitgeschakeld omdat uw tegoed is verlopen, u hebt uw uitgavenlimiet bereikt, heeft een achterstallige factuur, u kunt uw creditcardlimiet aanvullen, of omdat het abonnement is geannuleerd door de account beheerder. Kijk onder hoe u uw abonnement opnieuw kunt inschakelen. Meer informatie: [Azure-abonnement opnieuw activeren](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Uw Azure-abonnement kan worden uitgeschakeld omdat uw tegoed is verlopen, u uw bestedingslimiet hebt bereikt, een achterstallige factuur hebt, uw creditcardlimiet hebt bereikt of omdat het abonnement is geannuleerd door de accountbeheerder. Zie hieronder hoe u uw abonnement opnieuw kunt inschakelen. Meer informatie: [Azure-abonnement opnieuw activeren](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Uw Azure-abonnement opnieuw inschakelen (abonnement is per ongeluk geannuleerd)** De [accountbeheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan een geannuleerde pay-to-Go-abonnement opnieuw activeren in het account centrum:
+**Uw Azure-abonnement opnieuw inschakelen (abonnement is per ongeluk geannuleerd)** De [accountbeheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) kan een geannuleerd abonnement op betalen per keer opnieuw activeren in het accountcentrum:
 
-1. Meld u aan bij het [account centrum](https://account.windowsazure.com/Subscriptions).
-2. Selecteer het geannuleerde abonnement. Klik op **opnieuw activeren** .
+1. Meld u aan bij [het accountcentrum.](https://account.windowsazure.com/Subscriptions)
+2. Selecteer het geannuleerde abonnement. Klik **op Opnieuw activeren.**
 
-Neem voor andere abonnements typen [contact op met de ondersteuning](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) om uw abonnement te activeren.
+Neem voor andere abonnementstypen [contact op met de](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) ondersteuning om uw abonnement opnieuw te activeren.
 
-**Creditcard met verval punten**
+**Verlopen creditcard**
 
-Wanneer u zich aanmeldt voor een **Azure gratis-account** , krijgt u een gratis proefabonnement, zodat u gedurende 30 dagen en 12 maanden gratis services kunt $200 in azure-kredieten. Aan het einde van 30 dagen, heeft Azure uw abonnement uitgeschakeld. Uw abonnement is uitgeschakeld zodat u per ongeluk kosten hoeft te beschermen voor gebruik buiten de tegoed en de gratis diensten die bij uw abonnement inbegrepen zijn. U moet [uw abonnement upgraden](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)om Azure-Services te kunnen blijven gebruiken. Wanneer u een upgrade hebt uitgevoerd, heeft uw abonnement nog steeds toegang tot gratis services voor 12 maanden. U ontvangt uitsluitend kosten voor gebruik buiten de gratis services en hoeveelheden.  
-Meer informatie: [verlopen creditcard](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+Wanneer u zich registreert voor een **gratis Azure-account,** krijgt u een gratis proefabonnement, waarmee u $ 200 aan Azure-tegoed krijgt voor 30 dagen en 12 maanden gratis services. Na 30 dagen schakelt Azure uw abonnement uit. Uw abonnement is uitgeschakeld om u te beschermen tegen onbedoelde kosten voor gebruik buiten het tegoed en gratis services die zijn inbegrepen bij uw abonnement. Als u Azure-services wilt blijven gebruiken, moet u [uw abonnement upgraden.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support) Nadat u een upgrade hebt uitgevoerd, heeft uw abonnement nog steeds 12 maanden toegang tot gratis services. Er worden alleen kosten in rekening gebracht voor gebruik buiten de gratis services en hoeveelheden.  
+Meer informatie: [Verlopen creditcard](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
-**Uitgavenlimiet is bereikt**
+**Bestedingslimiet bereikt**
 
-Wanneer het gebruik de limiet heeft bereikt, wordt uw abonnement in azure uitgeschakeld voor de rest van de betalingsperiode. Uw abonnement is uitgeschakeld zodat u niet per ongeluk kosten hoeft te beschermen voor gebruik buiten het tegoed dat bij uw abonnement is inbegrepen. Als u uw uitgavenlimiet wilt verwijderen, raadpleegt u [limiet voor Azure-uitgaven](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-Meer informatie: [uw uitgavenlimiet is bereikt](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+Wanneer uw gebruik de bestedingslimiet bereikt, schakelt Azure uw abonnement uit voor de rest van die factureringsperiode. Uw abonnement is uitgeschakeld om u te beschermen tegen onbedoelde kosten voor gebruik buiten het tegoed dat is inbegrepen bij uw abonnement. Zie Bestedingslimiet voor Azure als u de bestedingslimiet [wilt verwijderen.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)  
+Meer informatie: [Uw bestedingslimiet bereikt](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Factuur achterstallig**
+**Factuur achtereen**
 
-Zie [het saldo van de einddatum van uw Azure-abonnement oplossen nadat u een e-mail van Azure hebt ontvangen](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)als u de einddatum wilt oplossen.
+Zie Achtereen verschuldigd saldo voor uw Azure-abonnement oplossen nadat u een e-mail hebt ontvangen van Azure om het achtereensaldo [op te lossen.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Factuur overschrijdt uw creditcardlimiet**
+**Factuur overschrijdt de limiet voor uw creditcard**
 
-Als u dit probleem wilt oplossen, [gaat u naar een andere creditcard](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Of als u een bedrijf aanstaat, kunt u [overstappen op betaling per factuur](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+Als u dit probleem wilt oplossen, [schakelt u over naar een andere creditcard.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support) Of als u een bedrijf vertegenwoordigt, kunt u [overschakelen naar betalen per factuur.](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Opmerking** : er wordt een nieuwe abonnement jubileum (SA) datum toegewezen aan abonnementen die opnieuw zijn ingeschakeld. Het aantal dagen (interval) waarin het abonnement is opgeschort, wordt opgeteld bij de oorspronkelijke SA-datum. Elke jubileumdatum die valt op de 29, 30 of 31, resulteert in de datum van SA die is ingesteld op de 1e van de volgende maand.  
+**Opmerking:** er wordt een nieuwe datum voor het jubileum van het abonnement toegewezen aan abonnementen die opnieuw zijn ingeschakeld. Het aantal dagen (interval) waarin het abonnement is opgeschort, wordt toegevoegd aan de oorspronkelijke SA-datum. Als een jubileumdatum valt op de 29e, 30e of 31e, wordt de SA-datum ingesteld op de 1e van de volgende maand.  
 Voorbeeld:
 
-- De oorspronkelijke jubileumdatum van het abonnement is de 25e.
-- Het abonnement is geschorst op 10/3 en opnieuw ingeschakeld op 10/9.
-- Het abonnement is voor 6 dagen uitgeschakeld (interval van 6);
-- Het interval wordt vervolgens toegevoegd aan de oorspronkelijke SA, en de som wordt de nieuwe SA-datum (25 + 6 = 31). 
+- Uw oorspronkelijke abonnementsverjaardag is de 25e;
+- Het abonnement is op 10-3 opgeschort en opnieuw ingeschakeld op 9-10.
+- Het abonnement is zes dagen uitgeschakeld (interval van 6);
+- Het interval wordt vervolgens toegevoegd aan de oorspronkelijke SA en de som wordt de nieuwe SA-datum (25+6=31). 
 
-**Opmerking** : in dit voorbeeld, aangezien de sa-datum nu groter is dan 28, wordt de nieuwe sa-datum de 1e van de volgende maand.
+**Opmerking:** In dit voorbeeld, aangezien de SA-datum nu groter is dan 28, is de nieuwe SA-datum de 1e van de volgende maand.
 
 **Aanbevolen documenten**
 
-- [Abonnement wijzigen](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Abonnement opzeggen](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Overstappen op een ander abonnement](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Abonnement annuleren](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- De [account beheerder](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) zoeken
+- De [accountbeheerder zoeken](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
 - [Wat moet ik doen als mijn Azure-abonnement wordt uitgeschakeld?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure-uitgavenlimiet](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Limiet voor Azure-uitgaven](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

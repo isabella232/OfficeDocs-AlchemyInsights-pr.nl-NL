@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4530abb3bf597458ea22441203a0db24b4b109f0760258310072891014c4b454
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929300"
 ---
 # <a name="create-a-group"></a>Een groep maken
 
@@ -29,10 +29,10 @@ Zorg ervoor dat u gemachtigd bent om een nieuwe groep te maken. Globale beheerde
 
 **Machtigingen voor het maken van groepen beheren**
 
-1. Globale beheerders kunnen machtigingen voor het maken van groepen beheren (om beveiligingsredenen) of Office 365-groepen die zijn gemaakt in de Azure-portal of het Access-panel, door in Alle groepen Algemeen  >  **(Instellingen)** de opties 'Gebruikers kunnen beveiligingsgroepen maken in Azure-portals' of 'Gebruikers kunnen Office 365-groepen maken in Azure-portals'.
-2. U kunt het maken van groepen ook beperken om een groep gebruikers te selecteren als u een Azure Active Directory P1 Premium-licentie hebt.
+1. Globale beheerders kunnen machtigingen voor het maken van groepen beheren (om beveiligingsgerelateerde redenen) of Office 365 groepen die zijn gemaakt in de Azure-portal of het Access-panel door in Alle groepen Algemeen  >  **(Instellingen)** de opties 'Gebruikers kunnen beveiligingsgroepen maken in Azure-portal Office 365 s' te kiezen.
+2. U kunt het maken van groepen ook beperken om een groep gebruikers te selecteren als u een Azure Active Directory P1-Premium hebt.
 
-**Welkomstmelding uitschakelen voor nieuwe Office 365-groepsleden**
+**Welkomstmelding uitschakelen voor nieuwe Office 365 groepsleden**
 
-De welkomstmelding die wordt verzonden naar gebruikers die zijn toegevoegd aan Office 365-groepen, kan worden uitgeschakeld door **UnifiedGroupWelcomeMessageEnabled** in te stellen op Onwaar in Powershell. Meer informatie over deze instelling [hier](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
+De welkomstmelding die wordt verzonden naar gebruikers die zijn toegevoegd aan Office 365 groepen, kan worden uitgeschakeld door **UnifiedGroupWelcomeMessageEnabled** in te stellen op Onwaar in Powershell. Meer informatie over deze instelling [hier](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
 

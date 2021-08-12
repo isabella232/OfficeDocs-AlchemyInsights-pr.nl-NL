@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met de veiligheidstip voor fraudedetectiecontroles
+title: Problemen met de veiligheidstip voor fraudedetectiecontroles oplossen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955961"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Problemen oplossen met de veiligheidstip voor fraudedetectiecontroles
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Problemen met de veiligheidstip voor fraudedetectiecontroles oplossen
 
-Als u een veiligheidstip krijgt met de opmerking 'De afzender heeft onze fraudedetectiecontroles niet uitgevoerd en is mogelijk niet de persoon die ze lijken te zijn', dan is de afzender niet geslaagd voor DKIM- of SPF-verificatiecontroles. De beste methode om dit op te lossen is voor de afzender om zichzelf te machtigen. Als de afzender namens u verstuurt, moet u deze machtigen door het IP-adres van de afzender toe te voegen aan uw SPF-record.
+Als u een veiligheidstip met de naam 'De afzender heeft onze controles voor fraudedetectie mislukt en mogelijk niet de persoon is die ze lijken te zijn', kan de afzender DKIM- of SPF-verificatiecontroles niet uitvoeren. De beste methode om dit op te lossen is voor de afzender om zichzelf te machtigen. Als de afzender namens u verstuurt, moet u deze machtigen door het IP-adres van de afzender toe te voegen aan uw SPF-record.
   
-Zie [Het oplossen van de rode (verdachte) veiligheidstip voor fraudedetectiecontroles](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) voor meer informatie.
+Zie [Problemen oplossen met de rode (verdachte) veiligheidstip voor fraudedetectiecontroles](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) voor meer informatie.
   
 Hier vindt u enkele andere koppelingen die u kunnen helpen:
   
