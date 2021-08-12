@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 51190e74e22208b7229a5295adbcbbf98e1c6a6a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 055d0fc75cfda123fe3b5abfb28f530ef1f14a58ed3875fae01fc41c50e7ca84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914826"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Bellen via PSTN met Skype voor Bedrijven Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>BELLEN via PSTN met Skype voor Bedrijven Online
 
 Als u pstn-gesprekken wilt voeren in Microsoft 365, hebt u een [Microsoft 365-abonnement](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) of een verbinding met uw on-premises PSTN-telefonieinfrastructuur nodig. Zie voor meer informatie:
 
-- [Beschikbaarheid van land en regio voor audiovergaderingen en Microsoft Teams-abonnementen](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Veelvoorkomende vragen over Audiovergaderingen van Microsoft 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Beschikbaarheid van land en regio voor audiovergaderingen en Microsoft Teams abonnementen](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Veelvoorkomende vragen over Microsoft 365 audiovergaderingen](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Fondsen toevoegen en communicatietegoeden beheren](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN-bebellen kunnen niet deelnemen aan een telefonische inbelgesprek in Skype voor Bedrijven](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [PSTN-bebellen kunnen niet deelnemen aan een Skype voor Bedrijven telefonische inbelgesprek](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

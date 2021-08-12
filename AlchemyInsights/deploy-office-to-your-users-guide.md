@@ -1,5 +1,5 @@
 ---
-title: Office implementeren voor uw gebruikershandleiding
+title: Implementatie Office gebruikershandleiding
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948086"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Office implementeren voor uw gebruikershandleiding
+# <a name="deploy-office-to-your-users-guide"></a>Implementatie Office gebruikershandleiding
 
-Implementeer Office-apps vanuit de cloud met de mogelijkheid om uw installatie aan te passen met het Office-implementatieprogramma.
+Implementeer Office apps vanuit de cloud met de mogelijkheid om uw installatie aan te passen met behulp van Office implementatieprogramma.
 
-Met [de handleiding Office](https://go.microsoft.com/fwlink/?linkid=2146451) implementeren voor uw gebruikers kunt u een aangepaste Office-configuratie met geavanceerde instellingen maken of een vooraf ontworpen aanbevolen configuratie gebruiken. Of uw gebruikers nu een zelf-installatie leiden of u deze individueel of bulksgewijs bij uw gebruikers implementeert, deze geavanceerde wizard biedt u stapsgewijs instructies om gebruikers een Office-installatie te bieden die is afgestemd op uw organisatie.
+Met [de handleiding Office](https://go.microsoft.com/fwlink/?linkid=2146451) gebruikers implementeren kunt u een aangepaste Office maken met geavanceerde instellingen, of u kunt een vooraf gebouwde aanbevolen configuratie gebruiken. Of uw gebruikers nu een zelfinstallatie uitvoeren of u implementeert voor uw gebruikers afzonderlijk of bulksgewijs, deze geavanceerde wizard biedt u stapsgewijs instructies om gebruikers een Office-installatie te geven die is afgestemd op uw organisatie.
