@@ -1,5 +1,5 @@
 ---
-title: Problemen met naadloze eenmalige aanmelding (SSO) op basis van een koppeling oplossen
+title: Problemen met koppelingsgebaseerd probleem met eenmalige aanmelding (SSO) oplossen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972855"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Problemen met naadloze eenmalige aanmelding (SSO) op basis van een koppeling oplossen
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Problemen met koppelingsgebaseerd probleem met eenmalige aanmelding (SSO) oplossen
 
-De meeste gebruikers kunnen hun probleem met naadloze eenmalige aanmelding (SSO) op basis van een koppeling oplossen aan de hand van de volgende stappen:
+De meeste gebruikers kunnen hun probleem met een koppelingsgebaseerd probleem met eenmalige aanmelding (SSO) oplossen met behulp van de onderstaande stappen:
 
-**Meer informatie over Gekoppelde eenmalige** aanmelding: met de optie Gekoppeld kunt u de doellocatie configureren wanneer een gebruiker de app selecteert in De apps of de Office 365-portal van uw organisatie. [](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) In dit artikel wordt in meer detail aandacht gebracht voor de gekoppelde optie.
+**Meer informatie over gekoppelde aanmelding:** meer informatie over gekoppelde [aanmelding:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) met de optie Gekoppeld kunt u de doellocatie configureren wanneer een gebruiker de app selecteert in de Portal Mijn apps of Office 365 van uw organisatie. Dit artikel gaat in op meer informatie over de gekoppelde optie.
 
-**Gekoppelde eenmalige aanmelding** [configureren: koppeling configureren](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Gekoppelde aanmelding** [configureren: koppeling configureren](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Help opvragen**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - Functieaanvragen en technische vragen indienen over eenmalige aanmelding (SSO) op basis van een koppeling in Azure Active Directory voor & ontwikkeling.
+**Hulp vragen**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - Verzend functieaanvragen en technische vragen over eenmalige aanmelding (SSO) op basis van koppeling in Azure Active Directory & ontwikkeling.

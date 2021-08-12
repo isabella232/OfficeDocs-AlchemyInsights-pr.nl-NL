@@ -1,5 +1,5 @@
 ---
-title: App-groepen beheren met behulp van het virtuele bureaublad van Azure-portal voor Windows
+title: App-groepen beheren met behulp van de Azure-portal voor Windows Virtual Desktop
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912053"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>App-groepen beheren met behulp van het virtuele bureaublad van Azure-portal voor Windows
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>App-groepen beheren met behulp van de Azure-portal voor Windows Virtual Desktop
 
-De standaard-app-groep die is gemaakt voor een nieuwe host-host voor het Windows-bureaublad, wordt ook het volledige bureaublad gepubliceerd. Daarnaast kunt u met de Azure-Portal een of meer RemoteApp-app-groepen maken voor de hostgroep.
+De standaard-appgroep die is gemaakt voor een nieuwe Windows Virtual Desktop-hostgroep publiceert ook het volledige bureaublad. Bovendien kunt u met de Azure-portal een of meer RemoteApp-app-groepen maken voor de hostgroep.
 
 Het implementatieproces gaat als volgt te werk:
 
-1. Maak de RemoteApp-app-groep.
-2. De geselecteerde apps toevoegen aan de app-groep.
+1. Maak de groep RemoteApp-apps.
+2. Voeg de geselecteerde apps toe aan de app-groep.
 3. Publiceer afzonderlijke gebruikers of gebruikersgroepen naar de app-groep.
-4. U kunt de app-groep registreren als u dit wilt doen.
+4. Registreer de app-groep als u ervoor kiest om dit te doen.
 5. Maak een koppeling naar een Azure Resource Manager-sjabloon op basis van uw configuratie, die u kunt downloaden en opslaan.
 
-Als u een RemoteApp-groep voor Windows virtueel bureaublad wilt maken, volgt u de instructies in [app-groepen beheren met de Azure-Portal](https://go.microsoft.com/fwlink/?linkid=2129550).
+Als u een RemoteApp-groep voor Windows virtuele bureaublad wilt maken, volgt u de instructies in [App-groepen beheren met de Azure-portal.](https://go.microsoft.com/fwlink/?linkid=2129550)

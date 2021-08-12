@@ -1,5 +1,5 @@
 ---
-title: Problemen met naadloze eenmalige aanmelding (SSO) met een wachtwoord oplossen
+title: Problemen met wachtwoordgebaseerde naadloze eenmalige aanmelding (SSO) oplossen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9374"
-ms.openlocfilehash: 4a9163f199a505df9b2de4f02b7c37a5f5677022
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 6b4d7335461c913a6b5f782756684c5526a96c58c44853ddf9154aa51607bd4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972819"
 ---
-# <a name="troubleshoot-password-based-seamless-single-sign-on-sso-issues"></a>Problemen met naadloze eenmalige aanmelding (SSO) met een wachtwoord oplossen
+# <a name="troubleshoot-password-based-seamless-single-sign-on-sso-issues"></a>Problemen met wachtwoordgebaseerde naadloze eenmalige aanmelding (SSO) oplossen
 
-Zie Wachtwoordgebaseerde verificatie bij Azure Active [Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/auth-password-based-sso)voor meer informatie over de basisprincipes van wachtwoordgebaseerde SSO.
+Zie Op wachtwoord gebaseerde verificatie met een wachtwoord voor meer informatie over de basisprincipes van wachtwoordgebaseerde [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/auth-password-based-sso)
 
-**Wachtwoordgebaseerde eenmalige aanmelding configureren**
+**Wachtwoordgebaseerde aanmelding configureren**
 
-1. [Eenmalige aanmelding op basis](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications) van een wachtwoord configureren: in dit artikel wordt meer informatie besproken over de optie voor eenmalige aanmelding op basis van een wachtwoord. Als voor de toepassing die u toevoegt een aangepaste configuratie is vereist en u een wachtwoordgebaseerde eenmalige aanmelding moet gebruiken, is dit artikel bedoeld voor u.
-2. [Wachtwoordgebaseerde een-op-een-aanmelding configureren voor on-prem-apps.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting) Toepassingsproxy ondersteunt verschillende modi voor een een aanmelding. Aanmelden via een wachtwoord is bedoeld voor toepassingen die een combinatie van gebruikersnaam en wachtwoord gebruiken voor verificatie. Wanneer u wachtwoordregistratie voor uw toepassing configureert, moeten uw gebruikers zich eenmaal aanmelden bij de on-premises toepassing. Daarna worden de aanmeldingsgegevens op slaat Azure Active Directory op en wordt deze automatisch aan de toepassing verstrekt wanneer uw gebruikers deze extern openen.
-    - U moet uw app al hebben gepubliceerd en getest met toepassingsproxy. Als dat niet zo is, volgt u de stappen in Toepassingen publiceren met behulp van Azure AD-toepassingsproxy en gaat u vervolgens verder met uw configuratie van wachtwoordgebaseerde SSO voor on-prem-apps. [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application)
+1. [Eenmalige aanmelding configureren](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications) op basis van een wachtwoord: dit artikel gaat in op meer informatie over de op wachtwoord gebaseerde SSO-optie. Als voor de toepassing die u toevoegt aangepaste configuratie is vereist en u een op wachtwoord gebaseerde aanmeldingsaanvraag moet gebruiken, is dit artikel voor u bedoeld.
+2. Eén aanmelding op basis van een wachtwoord [configureren voor on-prem-apps-](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting) Toepassingsproxy ondersteunt verschillende modi voor één aanmelding. Aanmelding op basis van een wachtwoord is bedoeld voor toepassingen met een combinatie van gebruikersnaam/wachtwoord voor verificatie. Wanneer u aanmelding op basis van een wachtwoord configureert voor uw toepassing, moeten uw gebruikers zich eenmaal aanmelden bij de on-premises toepassing. Daarna worden Azure Active Directory aanmeldingsgegevens op en worden deze automatisch aan de toepassing verstrekt wanneer uw gebruikers deze op afstand openen.
+    - U had de app al moeten publiceren en testen met toepassingsproxy. Als dit niet het beste is, volgt u de stappen in Toepassingen publiceren met [Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) en gaat u verder met de configuratie van op een wachtwoord gebaseerde SSSO voor on-prem-apps.
 
-Zie Problemen met eenmalige aanmelding op basis van een wachtwoord [oplossen in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) als u problemen met een wachtwoord voor eenmalige aanmelding wilt oplossen
+Zie Eenmalige aanmelding op basis van een wachtwoord oplossen [in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) voor problemen met wachtwoordgebaseerde aanmelding

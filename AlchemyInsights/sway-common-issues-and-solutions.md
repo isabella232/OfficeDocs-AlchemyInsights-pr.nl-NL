@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002626"
 - "5044"
-ms.openlocfilehash: aa77462394fb029646547c4daf2336385fa6a965
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f781e060f0054531b935b42a1dcc045c503ceda4a860f510771e6cd01ec4f399
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940742"
 ---
 # <a name="sway-common-issues-and-solutions"></a>Veelvoorkomende problemen en oplossingen voor Sway
 
@@ -28,5 +28,5 @@ Hier zijn enkele veelgevraagde onderwerpen met Sway:
 - **Inhoud herstellen:** beheerders kunnen [Sway van verwijderde](https://support.office.com/article/Reassign-Sways-from-a-deleted-user-account-Admin-Help-9580E618-3C3E-4D28-A6EF-74C00A997248) gebruikers opnieuw toewijzen om Sways te herstellen.
 - **Toegang tot Sway uitschakelen:** beheerders kunnen de toegang [tot Sway binnen](https://docs.microsoft.com/office365/enterprise/powershell/disable-access-to-sway-with-office-365-powershell) hun organisatie uitschakelen.
 - **Videobestanden toevoegen:** U kunt [video- of audiobestanden toevoegen](https://support.office.com/article/Add-video-and-audio-files-into-Sway-d2f14842-e103-49c0-9da2-0fbcfcad381f) aan Sway.
-- **Beheerdersinstellingen:** u kunt extern delen in- of uitschakelen en inhoudsbronnen toevoegen. Meer informatie in [beheerdersinstellingen voor Sway.](https://support.office.com/article/Administrator-settings-for-Sway-d298e79b-b6ab-44c6-9239-aa312f5784d4)
+- **Beheerder Instellingen:** U kunt extern delen in- of uitschakelen en inhoudsbronnen toevoegen. Meer informatie in [beheerdersinstellingen voor Sway.](https://support.office.com/article/Administrator-settings-for-Sway-d298e79b-b6ab-44c6-9239-aa312f5784d4)
 - **[Limieten voor bestandsgrootte](https://support.office.com/article/File-size-limits-in-Sway-4db21bc6-b42b-499f-9272-66e089db109f)**
