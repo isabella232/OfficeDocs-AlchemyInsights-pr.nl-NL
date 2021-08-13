@@ -1,5 +1,5 @@
 ---
-title: Er wordt een zwarte achtergrond weergegeven of de celopmaak wordt niet goed weergegeven
+title: Er wordt een zwarte achtergrond weergegeven of de celopmaak ziet er niet goed uit
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917850"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Er wordt een zwarte achtergrond weergegeven of de celopmaak wordt niet goed weergegeven
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Er wordt een zwarte achtergrond weergegeven of de celopmaak ziet er niet goed uit
 
-In Excel 2016 ziet u mogelijk een onverwachte zwarte achtergrond, of ziet u de celopmaak die niet juist wordt weergegeven. Dit kan gebeuren na het toevoegen van een kop-of voettekst in de weergave pagina-indeling en het toepassen van een opvulpatroon op een cel. Dit probleem is opgelost in versie 1708 (build 8431,2094). U kunt dit oplossen door een update uit te voeren naar de nieuwste versie van Office. Selecteer **File** \> **Account** \> nu bijwerk **Opties** voor het bestands account \> **bijwerken**.
+In Excel 2016 ziet u mogelijk een onverwachte zwarte achtergrond of ziet u celopmaak die niet correct wordt weergegeven. Dit kan gebeuren na het toevoegen van een kop- of voettekst in de pagina-indelingsweergave en het toepassen van een patroonopvulling op een cel. Dit probleem is opgelost in versie 1708 (build 8431.2094). U kunt dit oplossen door bij te werken naar de nieuwste versie van Office. Selecteer **Opties voor** het \> **bijwerken** van \> **bestandsaccounts** nu \> **bijwerken**.
   
 

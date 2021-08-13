@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 08620a44dcf693482c65ff05e19f11870f67afbe
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0ae926e6b31493e7359981c621fd27e8f53d49a17bdf107173b087fe6cc688fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008073"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Problemen oplossen met het registreren van Android-apparaten in Microsoft Intune
 
@@ -26,17 +26,17 @@ Bekijk de onderstaande resources om het probleem nu op te lossen.
   
 Enkele veelvoorkomende problemen en oplossingsstappen:
   
- **Fout apparaat niet versleuteld in bedrijfsportal:** Voor nieuwere versies van Android, met name vanaf v7.0, is een wachtwoordcode voor opstarten vereist om ervoor te zorgen dat uw apparaat volledig is versleuteld. Veelgebruikte oplossingen zijn het inschakelen van een opstartpin of het volledig versleutelen van het apparaat. Bekijk [dit document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) voor meer informatie.
+ **Fout apparaat niet versleuteld in Bedrijfsportal:** Voor nieuwere versies van Android, met name vanaf v7.0, is een wachtwoordcode voor opstarten vereist om ervoor te zorgen dat uw apparaat volledig is versleuteld. Veelgebruikte oplossingen zijn het inschakelen van een opstartpin of het volledig versleutelen van het apparaat. Bekijk [dit document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) voor meer informatie.
   
  **Apparaten kunnen niet inchecken met de Intune-service of weergeven als 'Ongezond' in de Intune-beheerconsole:** Sommige Samsung 4.4- en 5.5-apparaten kunnen mogelijk niet inchecken bij de service. Er zijn drie mogelijke oplossingen voor dit probleem:
   
-1. Open handmatig de Intune Company Portal-app, waarmee automatisch een apparaatsynchronisatie wordt gestart.
+1. Open handmatig de Intune-bedrijfsportal app, waarmee automatisch een apparaatsynchronisatie wordt gestart.
 
 2. Werk het apparaat bij naar Android 6.0 of hoger.
 
-3. Schakel Samsung Smart Manager uit om de Intune Company Portal te beheren. Bekijk [dit document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) voor meer informatie over deze problemen en oplossingen.
+3. Schakel Samsung Smart Manager uit om het beheer van de Intune-bedrijfsportal. Bekijk [dit document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) voor meer informatie over deze problemen en oplossingen.
 
- **Fout bij gebruikerslicentietype Ongeldig** of Niet-herkende **gebruikersnaam:** De gebruiker moet een Intune- of EMS-licentie krijgen. Controleer deze documenten om een licentie toe te wijzen via: Office-beheercentrum of Azure-portal.
+ **Fout bij gebruikerslicentietype Ongeldig** of Niet-herkende **gebruikersnaam:** De gebruiker moet een Intune- of EMS-licentie krijgen. Bekijk deze documenten om een licentie toe te wijzen via: Office Beheercentrum of Azure-portal.
   
 Extra bronnen om het probleem op te lossen:
   

@@ -1,5 +1,5 @@
 ---
-title: De prestaties van OneDrive oplossen
+title: Problemen met OneDrive oplossen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 4699f6113acd70b4778f9feeaeec012ff8fdd63f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15d9067e6b55b91af312671db9209f93ffc58859aaf69d63c84dbc354aff3dd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939122"
 ---
-# <a name="troubleshoot-onedrive-performance"></a>De prestaties van OneDrive oplossen
+# <a name="troubleshoot-onedrive-performance"></a>Problemen met OneDrive oplossen
 
-Als u een langzamere synchronisatie ondervindt dan verwacht, of vergelijkbare prestatieproblemen met OneDrive:
+Als u te maken hebt met een tragere synchronisatie dan verwacht of soortgelijke prestatieproblemen met OneDrive:
 
-- Ga na of er geen bekende problemen zijn met het [Dashboard voor de service status](https://portal.office.com/adminportal/home?ref=/servicehealth).
+- Controleer of er geen bekende problemen zijn met het [dashboard Service health.](https://portal.office.com/adminportal/home?ref=/servicehealth)
 
-- U kunt [bestanden op aanvraag inschakelen](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) , zodat u toegang hebt tot al uw bestanden in OneDrive zonder deze te hoeven downloaden en zonder gebruik te hoeven maken van opslagruimte op uw apparaat.
+- [Schakel Bestanden op aanvraag](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) in, zodat u toegang hebt tot al uw bestanden in OneDrive zonder ze allemaal te downloaden en opslagruimte op uw apparaat te gebruiken.
 
-- [Bekijk aanbevolen procedures](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) voor de netwerk planning en prestaties.
+- [Best practices voor](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) netwerkplanning en -prestaties bekijken.
 
-- [Minimaliseer de upload-en downloadsnelheid](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), met name als u een apparaat voor de eerste keer gaat synchroniseren.
+- [Maximale upload- en downloadsnelheid,](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)vooral als u een apparaat voor het eerst synchroniseert.
 
-- Als u een bibliotheek met meer dan 100.000 items synchroniseert, kan het synchroniseren van OneDrive lang lang lang duren, of de status geeft de verwerking van de 0KB van xMB weer. Meer [informatie over het synchroniseren van meer dan 100.000 bestanden](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) en [de ondersteunde limiet 300.000 van OneDrive-bestanden](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- Als u een bibliotheek synchroniseert met meer dan 100.000 items, lijken OneDrive-synchronisatie mogelijk lange tijd vast te zitten of wordt in de status Verwerking 0KB van xMB weergeven.' Meer informatie over het synchroniseren van meer dan [100.000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) bestanden en de ondersteunde limiet van [300.000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)bestanden van OneDrive.
 
-- Wanneer een gebruiker de gebruikslimiet overschrijdt, vertraagt SharePoint Online alle verzoeken van die gebruikersaccount gedurende een korte periode. Alle gebruikersacties worden vertraagd terwijl de gashendel van kracht is.
+- Wanneer een gebruiker de gebruikslimiet overschrijdt, SharePoint online eventuele verdere aanvragen van dat gebruikersaccount voor een korte periode beperkt. Alle gebruikersacties worden beperkt terwijl het gaspedaal van kracht is.

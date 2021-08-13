@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004622"
 - "8369"
-ms.openlocfilehash: 612ebc7913de55d25804789d9fded4291ead6dcc
-ms.sourcegitcommit: bdbe81bbb5beb641b27b974c69207428eb11e60f
+ms.openlocfilehash: 04f6d8d13f437a45b7d69a592610a84c6240236d17b3596c9ac28dcd3c3cacc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50841483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938546"
 ---
 # <a name="accessibility-features-in-microsoft-edge"></a>Toegankelijkheidsfuncties in Microsoft Edge
 
-Microsoft Edge wordt geleverd met ingebouwde toegankelijkheidsopties om u te helpen surfen op internet op een manier die het beste bij uw behoeften past.
+Microsoft Edge wordt geleverd met ingebouwde toegankelijkheidsopties om u te helpen surfen op het web op een manier die het beste bij uw behoeften past.
 
-Zie Toegankelijkheidsfuncties [in Microsoft Edge voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2153648)
+Zie Toegankelijkheidsfuncties [in](https://go.microsoft.com/fwlink/?linkid=2153648)Microsoft Edge.
