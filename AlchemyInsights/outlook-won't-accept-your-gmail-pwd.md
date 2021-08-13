@@ -1,5 +1,5 @@
 ---
-title: Outlook accepteert uw Gmail-wachtwoord niet
+title: Outlook Accepteert uw Gmail-wachtwoord niet
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924650"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook accepteert uw Gmail-wachtwoord niet
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook uw Gmail-wachtwoord niet accepteren
 
-U wordt aangeraden tweeledige verificatie in te schakelen en een app-wachtwoord te gebruiken.
+Het is raadzaam tweestapsverificatie in te schakelen en een app-wachtwoord te gebruiken.
 
-Gebruik de volgende stappen om tweeledige verificatie in te schakelen en een app-wachtwoord te maken:
+Als u tweestapsverificatie wilt inschakelen en een app-wachtwoord wilt krijgen, gebruikt u de volgende stappen.
 
-1. Ga in uw browser naar Gmail en klik op het pictogram **Google Apps** in de rechterbovenhoek van het scherm.
-1. Klik aan de linkerkant op **beveiliging**.
-1. Als **verificatie in twee stappen** is **uitgeschakeld**, schakelt u onder aanmelden bij Google de optie **>** **uit** om de verificatie **in** te schakelen. Anders gaat u verder met stap 4.
-1. Klik in het eerste scherm op **Doorgaan**.
-1. Als u hierom wordt gevraagd, voert u uw Gmail-wachtwoord in en klikt u op **volgende**.
-1. Voer uw telefoonnummer in en geef aan of u de verificatiecodes per SMS-bericht of een telefoongesprek wilt ontvangen.
-1. Klik op **volgende**.
-1. Voer de code in die u hebt ontvangen en klik op **volgende**.
-1. Klik op **inschakelen** om het instellen van tweeledige verificatie te voltooien.
-1. Ga terug naar het vorige scherm door te klikken op de pijl-links boven aan het scherm naast **verificatie in twee stappen**.
-1. Selecteer de **>** uiterst rechts van de regel met **app-wachtwoorden** .
-1. Voer uw Google-wachtwoord in en klik op **Aanmelden**. Klik onder in het volgende scherm op **e-mail** en Windows- **computer** in de vervolgkeuzelijsten en klik vervolgens op **genereren**.
-Google zal een appwachtwoord voor u weergeven. 
-13. Kopieer dit wachtwoord (zonder spaties) en voer dit wachtwoord in wanneer Outlook u om een wachtwoord vraagt.
+1. Ga vanuit uw browser naar Gmail en klik op **google-appspictogram** in de rechterbovenhoek van het scherm.
+1. Klik aan de linkerkant op **Beveiliging.**
+1. Klik onder Aanmelden bij Google, **als verificatie in twee** stappen is **uitgeschakeld,** op de volgende naast UIT om deze **>** in te **schakelen.**  Ga anders naar stap 4.
+1. Klik in het eerste scherm op **DOORGAAN.**
+1. Als u daarom wordt gevraagd, voert u uw Gmail-wachtwoord in en klikt u vervolgens op **VOLGENDE.**
+1. Voer uw telefoonnummer in en selecteer of u uw verificatiecodes wilt ontvangen via een sms-bericht of een telefoongesprek.
+1. Klik **op VOLGENDE**.
+1. Voer de code in die u hebt ontvangen en klik op **VOLGENDE.**
+1. Klik **op IN-SCHAKEL IN** om het instellen van verificatie in twee stappen te voltooien.
+1. Ga terug naar het vorige scherm door te klikken op de **pijl-links** boven aan het scherm naast verificatie in twee stappen.
+1. Selecteer de **>** aan de rechterkant van de regel **App-wachtwoorden.**
+1. Voer uw Google-wachtwoord in en klik vervolgens **op Aanmelden.** Klik onder in het volgende scherm op **E-mail** **en Windows computer** in de vervolgkeuzelijsten en klik vervolgens op **Genereren.**
+Google geeft een app-wachtwoord voor u weer. 
+13. Kopieer dit wachtwoord (zonder de spaties) en voer dit wachtwoord in wanneer Outlook om een wachtwoord vraagt.
 
-Zie [een Gmail-account toevoegen aan Outlook-Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)voor meer informatie.
+Zie Een [Gmail-account toevoegen aan Outlook - Outlook (microsoft.com) voor meer informatie.](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

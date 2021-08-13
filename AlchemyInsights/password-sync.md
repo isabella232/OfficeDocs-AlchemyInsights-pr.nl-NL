@@ -1,5 +1,5 @@
 ---
-title: Synchronisatie status van wachtwoorden controleren
+title: Status van wachtwoordsynchronisatie controleren
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960866"
 ---
 # <a name="enable-password-sync"></a>Wachtwoordsynchronisatie inschakelen
 
-1.  Kies **DirSync-status** op de startpagina van het microsoft 365-Beheercentrum. 
+1.  Kies **DirSync-status** op de Microsoft 365-beheercentrum startpagina. 
     
-     *U kunt **ook op** \> de pagina actieve gebruikers op de pagina actieve **gebruikers klikken**en **meer** \> **adreslijstsynchronisatie kiezen.*** 
+     *U kunt ook naar  Gebruikers Actieve gebruikers gaan en op de pagina Actieve gebruikers de optie \>  **Meer** \> **adreslijstsynchronisatie kiezen.*** 
     
-2. In het deelvenster adreslijstsynchronisatie kiest **u Ga naar DirSync-beheer**. 
+2. Kies in het deelvenster Adreslijstsynchronisatie **de optie Ga naar DirSync-beheer.** 
     
-3. U ziet nu de status en u kunt wijzigingen aanbrengen:
+3. Nu ziet u uw status en wijzigt u het volgende:
     
-    **Wachtwoordsynchronisatie ingeschakeld:** (waar of onwaar). Hiermee geeft u op of het synchroniseren van wachtwoorden tussen on-premises en uw Tenant is ingeschakeld. 
+    **Wachtwoordsynchronisatie ingeschakeld:** (Waar of Onwaar). Hiermee geeft u aan of wachtwoordsynchronisatie is ingeschakeld tussen on-premises en uw tenant. 
     
-    **Laatste Wachtwoordsynchronisatie:** (laatste keer dat de Wachtwoordsynchronisatie is uitgevoerd). Er wordt een waarschuwing en een koppeling naar het hulpprogramma voor probleemoplossing weergegeven als de laatste synchronisatie langer dan drie dagen geleden was. 
+    **Laatste wachtwoordsynchronisatie:** (Laatste keer dat wachtwoordsynchronisatie is afgelopen). Hier wordt een waarschuwing en een koppeling naar een hulpprogramma voor probleemoplossing weergegeven als de laatste synchronisatie meer dan drie dagen geleden was. 
     
 

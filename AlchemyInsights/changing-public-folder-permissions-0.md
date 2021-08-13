@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950183"
 ---
 # <a name="changing-public-folder-permissions"></a>Machtigingen voor openbare mappen wijzigen
 
-Machtigingen voor een openbare map kunnen worden gewijzigd door gebruikers en beheerders in Outlook. Beheerders kunnen als volgt de machtigingen van het Exchange Admin Center (SBV) beheren:
+Machtigingen voor openbare mappen kunnen worden gewijzigd door gebruikers en beheerders in Outlook. Beheerders kunnen ook machtigingen beheren vanuit het Exchange Admin Center (EAC), door het volgende te doen:
   
-1. Ga in het Microsoft 365-Beheercentrum naar Exchange- **beheer** centrum \> **Exchange**.
+1. Ga in Microsoft 365-beheercentrum naar **Beheercentra** \> **Exchange.**
 
-2. Selecteer **openbare mappen**.
+2. Selecteer **Openbare mappen.**
 
-3. Vervolgens kunt u machtigingen voor afzonderlijke openbare mappen wijzigen door beveiligingsgroepen aan machtigingen toe te wijzen. Als de gebruiker de machtigingen voor een openbare map wil wijzigen, moet de gebruiker beschikken over de rechten voor de eigenaar van de map.
+3. Hier kunt u machtigingen voor afzonderlijke openbare mappen wijzigen door beveiligingsgroepen toe te wijzen aan machtigingen. Als een eindgebruiker de machtigingen voor openbare mappen wilt wijzigen, moet de gebruiker eigenaarrechten op de map hebben.
 
-Voer de procedure uit die wordt beschreven in de procedure voor het oplossen van problemen met machtigingen voor openbare mappen voor [het](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) oplossen van problemen met openbare mappen.
+Volg de procedure die wordt beschreven in Problemen met het opsporen en [oplossen](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) van machtigingsproblemen met openbare mappen om problemen met machtigingen voor openbare mappen op te lossen.
 
-**Opmerking**: er zijn diverse bekende problemen die kunnen optreden wanneer u machtigingen voor openbare mappen probeert te wijzigen. Zie de volgende artikelen voor meer informatie.
+**Opmerking:** Er zijn verschillende bekende problemen die u kunt tegenkomen wanneer u machtigingen voor openbare mappen probeert te wijzigen. Zie de volgende artikelen voor meer informatie.
 
-- [Kan geen machtigingen toepassen op submappen in openbare mappen in het Exchange-Beheercentrum](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Kan geen machtigingen toepassen op submappen voor openbare mappen in EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- [Foutbericht ' het postvak is niet gevonden in het lokale forest ' wanneer u openbare mappen opent](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Fout 'Het postvak wordt niet gevonden in het lokale bos' wanneer u openbare mappen toegang geeft](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

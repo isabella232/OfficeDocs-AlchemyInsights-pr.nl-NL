@@ -1,5 +1,5 @@
 ---
-title: Outlook-synchronisatie limiet van 3,99 GB
+title: Outlook synchronisatielimiet van 3,99 GB
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc8dd130a727551181b05657d35c2872214a7b159ef42f0e52d8464fc38967b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924584"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>De statusbalk van Outlook synchronisatie blijft 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook synchronisatiestatusbalk blijft op 3,99 GB
 
-Verklein de grootte van de mapinhoud of maak een synchronisatiefilter voor grote mappen met of bijna 4 GB.
+Probeer de inhoud van de map te verkleinen of maak een synchronisatiefilter voor grote mappen van of bij 4 GB.
 
-Zie de voortgang van de status balk nooit meer dan 3,99 GB, resterende voor de eerste [synchronisatie van grote mappen voor meer informatie](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Zie Statusbalk progress never shows more than 3.99 GB remaining on initial [Sync of large folders for more information](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).

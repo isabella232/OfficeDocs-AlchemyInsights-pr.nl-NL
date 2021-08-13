@@ -1,5 +1,5 @@
 ---
-title: Overzicht van connectors van Microsoft Graph
+title: Overzicht van Microsoft-Graph connectors
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924520"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>Overzicht van connectors van Microsoft Graph
+# <a name="overview-of-microsoft-graph-connectors"></a>Overzicht van Microsoft-Graph connectors
 
-Voor het plannen van connectors in Microsoft Graph raadpleegt u het  [overzicht van connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Als u wilt plannen voor Microsoft Graph Connectors zie het [overzicht connectors.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- [Verbindingslijnen voor Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) of [connectors per partners](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)weergeven.
-- [Beheer de connector voor Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Zie [Connectors by Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) of  [Connectors by Partners](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
+- [Beheer uw connector voor Microsoft Search.](https://docs.microsoft.com/microsoftsearch/manage-connector)
 
-Voor het plannen van Microsoft Search raadpleegt u het  [overzicht van Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Zie Het [Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)overzicht van Microsoft Search.
