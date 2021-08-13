@@ -1,5 +1,5 @@
 ---
-title: Aangepaste profielen gebruiken in intune
+title: Aangepaste profielen gebruiken in Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971082"
 ---
-# <a name="using-custom-policy-in-intune"></a>Aangepaste beleidsregels gebruiken in intune
+# <a name="using-custom-policy-in-intune"></a>Aangepast beleid gebruiken in Intune
 
-InTune heeft veel instellingen gemaakt voor Android-, iOS-, macOS-en Windows-apparaten. U kunt ook een aangepast profiel maken en deze aangepaste instellingen vervolgens op uw apparaten implementeren met intune. Aangepaste profielen zijn ontworpen om Apparaatinstellingen en functies toe te voegen die niet zijn ingebouwd in intune.
+Intune heeft veel instellingen ingebouwd voor Android-, iOS-, macOS- en Windows apparaten. U kunt ook een aangepast profiel maken en deze aangepaste instellingen vervolgens implementeren op uw apparaten met Intune. Aangepaste profielen zijn ontworpen om apparaatinstellingen en -functies toe te voegen die niet zijn ingebouwd in Intune.
 
-[Aangepaste instellingen voor Android-apparaten in intune](https://docs.microsoft.com/intune/custom-settings-android)
+[Aangepaste instellingen voor Android-apparaten in Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Aangepaste instellingen voor Android Enterprise-apparaten in intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Aangepaste instellingen voor Android Enterprise-apparaten in Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Aangepaste instellingen voor iOS-apparaten in intune](https://docs.microsoft.com/intune/custom-settings-ios)
+[Aangepaste instellingen voor iOS-apparaten in Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Aangepaste instellingen voor macOS-apparaten in intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Aangepaste instellingen voor macOS-apparaten in Intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Aangepaste instellingen voor Windows 10-apparaten in intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Aangepaste instellingen voor Windows 10 apparaten in Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Aangepaste instellingen voor Windows Holographic voor Business-apparaten in intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Aangepaste instellingen voor Windows Holographic for Business apparaten in Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

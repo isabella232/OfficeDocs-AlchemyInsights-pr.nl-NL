@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met activering
+title: Problemen met activering oplossen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebd41479e74341decf818533c05c47f4121718e6ec3404df90ab28c5ca59f65d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937132"
 ---
-# <a name="activation-troubleshooting"></a>Problemen oplossen met activering
+# <a name="activation-troubleshooting"></a>Problemen met activering oplossen
 
-**Control Panel** \> Zoek naar Office in de **Programma's en onderdelen**van het Configuratiescherm. U ziet nu Microsoft 365-apps voor Enterprise of Microsoft 365-apps voor bedrijven. Als er meer dan één versie van Office wordt weergegeven, verwijdert u de versie die u niet gebruikt.
+Zoek **in** \> **Programma's en functies van** het Configuratiescherm naar Office. U ziet Microsoft 365-apps voor ondernemingen of Microsoft 365-apps voor bedrijven. Als er meer dan één versie van Office wordt weergegeven, verwijdert u de versie die u niet gebruikt.
   
-Als u het niet kunt verwijderen via het Configuratiescherm, gebruikt u de [ondersteunings-en herstel assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) om de versie te verwijderen die u niet gebruikt.
+Als u de installatie niet kunt verwijderen via [](https://aka.ms/SARA-OfficeUninstall-Alchemy) het Configuratiescherm, gebruikt u de Ondersteunings- en herstelassistent om de versie te verwijderen die u niet gebruikt.
   
-Als Office nog steeds geen licentie heeft, gaat u terug naar **Control Panel** de \> **Programma's en onderdelen**van het Configuratiescherm. Klik met de rechtermuisknop op de resterende Office-installatie, selecteer **wijzigen** (of wijzigen) en selecteer vervolgens **online herstellen**. Het online herstel kan even duren. Start Office vervolgens opnieuw op en meld u aan met uw werk- of schoolaccount als daarom wordt gevraagd.
+Als Office nog steeds niet is gelicenseerd, gaat u terug naar **de** programma's en functies van \> **het Configuratiescherm.** Klik met de rechtermuisknop op de resterende Office installeren, selecteer **Wijzigen** (of Wijzigen) en selecteer **vervolgens Online herstellen.** Het online herstel kan even duren. Start Office vervolgens opnieuw op en meld u aan met uw werk- of schoolaccount als daarom wordt gevraagd.
   
-Als Office nog steeds geen licentie heeft, kunt u de [probleemoplosser voor activering](https://aka.ms/SARA-OfficeActivation-Alchemy) downloaden en uitvoeren op de desbetreffende computer om de activeringsproblemen op te lossen.
+Als Office nog steeds niet is gelicenseerd, [](https://aka.ms/SARA-OfficeActivation-Alchemy) kunt u de probleemoplosser Activering op de betreffende computer downloaden en uitvoeren om de activeringsproblemen op te lossen.
   
-Zie voor meer informatie: [fouten met producten zonder licentie en activeringen in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Zie Voor meer informatie: Product- en [activeringsfouten](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)zonder Office.

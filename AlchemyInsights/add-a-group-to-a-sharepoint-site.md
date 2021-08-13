@@ -1,5 +1,5 @@
 ---
-title: Een groep toevoegen aan een SharePoint-site
+title: Een groep toevoegen aan een SharePoint site
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936952"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Een groep toevoegen aan een SharePoint-site
+# <a name="add-a-group-to-a-sharepoint-site"></a>Een groep toevoegen aan een SharePoint site
 
-Sommige SharePoint-Team sites (waaronder producten die zijn gemaakt in Microsoft teams) worden beheerd door eigenaren van Microsoft 365-groepen. SharePoint-sites en-inhoud kunnen ook worden gedeeld met Microsoft 365-groepen en met SharePoint-groepen. Een SharePoint-groep is een verzameling gebruikers die dezelfde set machtigingen voor sites en inhoud hebben. Voor klassieke sites raden we u aan dat u groepen ook kunt gebruiken om hetzelfde machtigingsniveau aan een groot aantal personen tegelijk toe te wijzen, in plaats van dat iemand tegelijk machtigingen toewijst.
+Sommige SharePoint teamsites (waaronder die die zijn gemaakt in Microsoft Teams) worden beheerd door Microsoft 365 groepseigenaren. SharePoint sites en inhoud kunnen ook worden gedeeld met Microsoft 365 groepen en met SharePoint groepen. Een SharePoint groep is een verzameling gebruikers die allemaal dezelfde set machtigingen voor sites en inhoud hebben. Voor klassieke sites raden we u aan groepen te gebruiken om hetzelfde machtigingsniveau gemakkelijk aan veel personen tegelijk toe te wijzen in plaats van machtigingen één persoon tegelijk toe te wijzen.
   
-Microsoft 365-groepsleden beheren:
+Beheer Microsoft 365 groepsleden:
   
-1. Ga naar de [pagina groepen in het Microsoft 365-Beheercentrum](https://portal.office.com/adminportal/home#/groups).
+1. Ga naar de [pagina Groepen in de Microsoft 365-beheercentrum.](https://portal.office.com/adminportal/home#/groups)
     
-2. Selecteer een groep om de eigenaren en leden ervan weer te geven. Als u personen wilt toevoegen of verwijderen, klikt u op de koppeling **bewerken** in de rij **eigenaren** of **leden** . 
+2. Selecteer een groep om de eigenaren en leden te zien. Als u personen wilt toevoegen of verwijderen, klikt u op **de** koppeling Bewerken in de rij **Eigenaren** **of** Leden. 
     
-Een communicatiesite delen met een Microsoft 365-groep:
+Een communicatiesite delen met een Microsoft 365 groep:
   
-1. Ga naar de site in een browser en klik in de rechterbovenhoek op **site delen** . 
+1. Ga naar de site in een browser en klik **op Site delen** in de rechterbovenhoek. 
     
-2. Voer de naam van de groep in en selecteer vervolgens het machtigingsniveau (lezen, bewerken of volledig beheer).
+2. Voer de groepsnaam in en selecteer vervolgens het machtigingsniveau (Lezen, Bewerken of Volledig beheer).
     
-Maak een SharePoint-groep voor gebruik met een klassieke site:
+Maak een SharePoint groep die u wilt gebruiken met een klassieke site:
   
-1. Ga naar de site in een browser en klik op het pictogram instellingen in de rechterbovenhoek.
+1. Ga naar de site in een browser en klik op het Instellingen in de rechterbovenhoek.
     
-2. Klik op **site-instellingen**en klik vervolgens onder **gebruikers en machtigingen**op **site machtigingen**.
+2. Klik **op Site-instellingen** en klik vervolgens onder **Gebruikers en machtigingen** op **Sitemachtigingen.**
     
-3. Klik op het tabblad Machtigingen op **groep maken**.
+3. Klik op het tabblad Machtigingen op **Groep maken.**
     
-[Een klassieke team site koppelen aan een nieuwe Microsoft 365-groep](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Verbinding maken een klassieke teamsite naar een nieuwe Microsoft 365 groep](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Meer informatie over het werken met SharePoint-groepen](https://go.microsoft.com/fwlink/?linkid=874658)
+[Meer informatie over het werken met SharePoint groepen](https://go.microsoft.com/fwlink/?linkid=874658)
   
 
