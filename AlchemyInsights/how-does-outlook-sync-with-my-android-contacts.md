@@ -1,5 +1,5 @@
 ---
-title: Hoe synchroniseert Outlook met mijn Android-contactpersonen?
+title: Hoe wordt Outlook met mijn Android-contactpersonen gesynchroniseerd?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6f33ee5b131b6c0bf0aa1f07c6da9ada4f9c69eea949d55858f549b43ebd29a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926960"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Hoe synchroniseert Outlook met mijn Android-contactpersonen?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Hoe wordt Outlook met mijn Android-contactpersonen gesynchroniseerd?
 
-Wanneer u een e-mailbericht op stelt in Outlook, zoeken we naar geadresseerden uit zowel uw Android-adresboek als uw Outlook-adresboek. Daarnaast bieden we u de optie om contactpersonen van uw e-mailaccounts te synchroniseren met uw Android-adresboek voor gebruik in andere apps. 
+Wanneer u een e-mailbericht op Outlook, zoeken we naar geadresseerden uit zowel uw Android-adresboek als uw Outlook adresboek. Daarnaast bieden we u de optie om contactpersonen van uw e-mailaccounts te synchroniseren met uw Android-adresboek voor gebruik in andere apps. 
  
 **Deze functie inschakelen:**
  
@@ -31,4 +31,4 @@ Wanneer u een e-mailbericht op stelt in Outlook, zoeken we naar geadresseerden u
 
 3. Schakel de **schuifregelaar Contactpersonen synchroniseren** in.
  
-**Opmerking:** Wanneer u de synchronisatie van contactpersonen in Microsoft Outlook voor Android probeert in te schakelen, als de schakeloptie voor Contactpersonen synchroniseren **is** uitgeschakeld, wordt mogelijk een bericht weergegeven met de tekst, is synchronisatie van contactpersonen niet ingeschakeld *in systeeminstellingen.* Dit kan komen doordat de **optie Gegevens** automatisch synchroniseren is uitgeschakeld in systeeminstellingen. Als u dit probleem wilt oplossen, schakelt u Gegevens automatisch synchroniseren in het **menu Accounts** in de instellingen van het **Android-systeem** **in.** Deze optie wordt meestal gevonden in een verticaal beletselteken (⋮) of drie balk (⫼). Het  **menu** Accounts kan zich op verschillende locaties bevinden, afhankelijk van het apparaat en de versie van Android. In de meeste nieuwere modellen kunnen **accounts** worden gezocht in **Instellingen.**
+**Opmerking:** Wanneer u de synchronisatie van contactpersonen probeert in te schakelen in Microsoft Outlook voor Android, als de schakeloptie voor Contactpersonen synchroniseren **is** uitgeschakeld, wordt mogelijk een bericht weergegeven met de tekst, is synchronisatie van contactpersonen niet ingeschakeld *in* systeeminstellingen. Dit kan komen doordat de **optie Gegevens** automatisch synchroniseren is uitgeschakeld in systeeminstellingen. Als u dit probleem wilt oplossen, schakelt u Gegevens automatisch synchroniseren in het **menu Accounts** in het **Android-systeem** **Instellingen.** Deze optie wordt meestal gevonden in een verticaal beletselteken (⋮) of drie balk (⫼). Het  **menu** Accounts kan zich op verschillende locaties bevinden, afhankelijk van het apparaat en de versie van Android. In de meeste nieuwere modellen kunnen **accounts** worden gezocht in **Instellingen.**

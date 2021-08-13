@@ -1,5 +1,5 @@
 ---
-title: Contactpersonen toevoegen aan Snelkeuze
+title: Contactpersonen toevoegen aan sneltoetsen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954548"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Contactpersonen toevoegen aan Snelkeuze
+# <a name="add-contacts-to-speed-dial"></a>Contactpersonen toevoegen aan sneltoetsen
 
-1. Ga in  **oproepen**naar  **contactpersonen**.
-2. Als u een kaart ziet voor de persoon die u wilt toevoegen aan de Snelkeuze, selecteert u  **meer opties**  (drie puntjes) op de kaart en selecteert  **u toevoegen aan Snelkeuze**.
+1. Ga **in Gesprekken** naar **Contactpersonen.**
+2. Als u een kaart ziet voor de persoon die u wilt toevoegen aan de sneltoets, selecteert u Meer opties **(drie** puntjes) op de kaart en selecteert u **Toevoegen aan sneltoets.**
 
-Als u de persoon niet ziet, selecteert u  **Snelkeuze toevoegen**  in de rechterbovenhoek van het scherm, typt u de naam van de persoon, selecteert u de persoon en selecteert u  **toevoegen**.
+Als u de persoon niet  ziet, selecteert u Sneltoets toevoegen rechtsboven in het scherm, typt u de naam, selecteert u de persoon en selecteert u **Vervolgens Toevoegen**.

@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966032"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Naadloze eenmalige aanmelding configureren (SSO)
 
@@ -38,11 +38,11 @@ Voor de apps in de galerie vindt u gedetailleerde, stapsgewijs instructies. Als 
 
 **SAML-gebaseerde SSSO configureren**
 
-1. [Snelstart: SamL-gebaseerde single sign-on (SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)instellen voor een toepassing in uw Azure Active Directory -tenant (Azure AD).
+1. [Snelstart: SamL-gebaseerde single sign-on (SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)instellen voor een toepassing in uw Azure Active Directory (Azure AD) tenant .
 2. Zie Op SAML gebaseerde enkelvoudige aanmelding begrijpen voor meer informatie over de [saml-optie](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)voor een enkele aanmelding.
-3. Zie Enkel Sign-On [SAML-protocol](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)voor meer informatie over de SAML 2.0-verificatieaanvragen en -antwoorden die Azure Active Directory (Azure AD) ondersteunt voor Eenmalige Sign-On (SSO).
+3. Zie Enkel Sign-On [SAML-protocol](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)voor meer informatie over de SAML 2.0-verificatieaanvragen en -antwoorden die door Azure Active Directory (Azure AD) worden ondersteund voor Single Sign-On (SSO).
 4. Zie SamL-gebaseerde eenmalige aanmelding configureren voor uw toepassing in Azure Active Directory (Azure AD) met de Microsoft Graph-API voor meer informatie over het maken en configureren van een op SAML gebaseerde eenmalige aanmelding voor uw toepassing met de [Microsoft Graph-API.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
-5. Zie Hoe het [Microsoft-identiteitsplatform het SAML-protocol gebruikt](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)voor meer informatie over het gebruik van het SAML-protocol in Azure AD.
+5. Zie How the Microsoft identity platform uses the SAML protocol (Hoe de Microsoft identity platform het SAML-protocol gebruikt) voor meer informatie over het gebruik van [het SAML-protocol](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)in Azure AD.
 
 **Tokens en claims configureren**
 
@@ -50,10 +50,10 @@ Voor de apps in de galerie vindt u gedetailleerde, stapsgewijs instructies. Als 
 2. Zie Claims die in tokens voor een specifieke app in een tenant worden uitgezonden aanpassen [(Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)voor meer informatie over het configureren van claims met PowerShell.
 3. Zie Optionele claims voor uw app voor meer informatie over het configureren van optionele [claims.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
 4. Zie Adreslijstschemaextensiekenmerken gebruiken in claims voor meer informatie over het gebruik van [adreslijstschemaextensiekenmerken](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions)voor het verzenden van gebruikersgegevens naar toepassingen in tokenclaims.
-5. Zie [Configureerbare tokenlevens in het Microsoft-identiteitsplatform (preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)voor meer informatie over het configureren van tokenlevens.
+5. Zie Configureerbare tokenlevens in de Microsoft identity platform (preview) voor meer informatie over het [configureren van tokenlevens.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 6. [Levensduurbeleid voor token configureren (voorbeeld)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) - In dit artikel wordt een veelvoorkomende beleidsscenario beschreven waarin u nieuwe regels kunt instellen voor de levensduur van het token. In het voorbeeld leert u hoe u een beleid kunt maken dat vereist dat gebruikers zich vaker verifiëren in uw web-app.
 
 **Problemen met SSO-configuratie oplossen**
 
-- Zie [Azure Active Directory Seamless Single Sign-On: Veelgestelde vragen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)voor veelgestelde vragen over Azure Active Directory Seamless Single Sign-On (Seamless SSO).
-- Zie Azure Active Directory Seamless Single [Sign-On](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)(Naadloze aanmelding) oplossen voor informatie over veelvoorkomende problemen met Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO).
+- Zie voor veelgestelde vragen over Azure Active Directory Naadloze eenmalige Sign-On (Naadloze aanmeldingssso) Azure Active Directory Naadloze eenmalige [aanmelding: veelgestelde vragen.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
+- Zie [Probleemoplossing](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)Azure Active Directory Naadloze eenmalige aanmelding voor meer informatie over veelvoorkomende problemen met betrekking tot Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO).
