@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940958"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Berichten oplossen die vastzitten in het Postvak UIT met SaRA
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Berichten die vastzitten in het Postvak UIT met Ondersteunings- en herstelassistent
 
-U wordt aangeraden om eerst het scenario 'Ik heb problemen met het [verzenden,](https://aka.ms/SaRA-OutlookSendReceive) ontvangen of vinden van e-mailberichten' uit te werken op de computer die is uitgevoerd met het hulpprogramma [Microsoft Support and Recovery Assistant (SaRa).](https://diagnostics.office.com/#/)
+U wordt aangeraden om eerst het scenario 'Ik heb problemen met het [verzenden,](https://aka.ms/SaRA-OutlookSendReceive) ontvangen of vinden van e-mailberichten' uit te werken op de computer die is uitgevoerd met het hulpprogramma [Microsoft Ondersteunings- en herstelassistent (SaRa).](https://diagnostics.office.com/#/)

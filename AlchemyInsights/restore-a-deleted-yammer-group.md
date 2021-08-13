@@ -1,5 +1,5 @@
 ---
-title: Een verwijderde Yammer-groep herstellen
+title: Een verwijderde Yammer herstellen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a8730116b58bfa2eb8b6bdf118a9d316b01f74c18383652c3c58bda5be15a7b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958760"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Een verwijderde Yammer-groep herstellen
+# <a name="restore-a-deleted-yammer-group"></a>Een verwijderde Yammer herstellen
 
-[Verbonden office 365-groepen in Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) kunnen binnen 30 dagen na verwijdering worden hersteld door de stappen te volgen om een [verwijderde Microsoft 365-groep te herstellen.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
-In sommige gevallen is een Yammer-groep mogelijk niet verbonden met een Microsoft 365-groep. Als dit het geval is, is het niet mogelijk om de groep automatisch te herstellen, maar mogelijk is het mogelijk om toegang te krijgen tot de verwijderde gegevens in de Yammer-gegevensexport als het beleid voor het bewaren van netwerkgegevens [is](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) ingesteld op *Soft Delete*. [](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Neem contact [op met de geverifieerde beheerder](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) voor uw Yammer-netwerk om het gegevensretentiebeleid te controleren of om een gegevensexport uit te voeren.
+[Office 365 verbonden groepen in Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) kunnen binnen 30 dagen na verwijdering worden hersteld door de stappen te volgen om een verwijderde groep Microsoft 365 [herstellen.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+In sommige gevallen is Yammer groep mogelijk niet verbonden met een Microsoft 365 groep. Als dit het geval is, is het niet mogelijk om de groep automatisch te herstellen, maar mogelijk is het mogelijk om toegang te krijgen tot de verwijderde gegevens in de [Yammer-gegevensexport](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) als het beleid voor het bewaren van netwerkgegevens [is](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) ingesteld op *Soft Delete*. Neem contact [op met de geverifieerde beheerder](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) voor Yammer netwerk om het gegevensretentiebeleid te controleren of om een gegevensexport uit te voeren.

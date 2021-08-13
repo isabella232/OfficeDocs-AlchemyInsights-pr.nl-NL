@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 46e491c51cdceaf8b46e97fbec2754f94d7ee66e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b1a5ca296c62956ef0a8a95ed8ea9c967d268bcedb9cd5122b39a9678ba1f152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967184"
 ---
 # <a name="recall-or-replace-email-message"></a>E-mailbericht in- of vervangen
 
 U kunt alleen berichten in- of vervangen die naar adressen in uw organisatie worden verzonden. Berichten die bijvoorbeeld naar een Gmail-adres zijn verzonden, kunnen niet worden teruggeroepen.
 
-1. Kies in het mappenvenster aan de linkerkant van het Outlook-venster de map **Verzonden** items.
+1. Kies in het mappenvenster aan de linkerkant van Outlook venster de map **Verzonden** items.
 2. Open het bericht dat u wilt inroepen. U moet dubbelklikken om het bericht te openen. Als u het bericht selecteert zodat het wordt weergegeven in het leesvenster, kunt u het bericht niet inroepen.
 3. Selecteer op **het** tabblad Bericht **de optie Acties**  >  **Inroepen van dit bericht.**
 4. Klik **op Ongelezen kopieën van** dit bericht verwijderen of **Ongelezen** kopieën verwijderen en vervangen door een nieuw bericht en klik vervolgens op **OK.**

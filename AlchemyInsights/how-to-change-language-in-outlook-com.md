@@ -1,5 +1,5 @@
 ---
-title: De taal wijzigen in Outlook.com
+title: Taal wijzigen in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913278"
 ---
 # <a name="change-your-language"></a>Uw taal wijzigen
 
-1. Als u de taal wilt instellen in Outlook, gaat u naar [**taal-en tijd**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) instellingen (**instellingen** \> **voor alle Outlook-instellingen in de**  >  **algemene**  >  **taal en-tijd**).
+1. Als u de taal wilt wijzigen [](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) in Outlook, gaat u naar Taal- en tijdinstellingen **(Instellingen** Alle Outlook instellingen Algemene taal en tijd \>   >    >  **weergeven).**
 
 2. Kies uw taal.
 
 3. Selecteer **Opslaan**.
 
-Zie [de tijdzone-en taalinstellingen wijzigen in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132)voor meer informatie.
+Zie De tijdzone en taalinstellingen wijzigen [in Outlook.com voor meer informatie.](https://go.microsoft.com/fwlink/p/?linkid=873132)
