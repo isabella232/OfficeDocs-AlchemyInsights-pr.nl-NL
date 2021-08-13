@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: 544308c909490fb8398e43cbc25fc8e41af79c84
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5821982252d3e4b8d8b09a144cbcd3297d969ab7541c262cc2ef7d85a2f4eaae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980928"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Problemen met registratieopties oplossen Microsoft Intune
 
@@ -27,6 +27,6 @@ Bekijk de onderstaande resources om het probleem nu op te lossen. Als deze bronn
     
 - Bekijk [dit document](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) voor een lijst met veelvoorkomende fouten die inschrijving en oplossingen voor elk document voorkomen. 
     
-- [Meer informatie over inschrijvingsopties in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Meer informatie over inschrijvingsopties in Microsoft Intune.](https://docs.microsoft.com/intune/enrollment-options)
     
 

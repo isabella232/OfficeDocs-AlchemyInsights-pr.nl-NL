@@ -1,5 +1,5 @@
 ---
-title: 124 krijg een machtigingsfout bij het openen van een gedeeld postvak in OWA?
+title: 124 Krijgt u een machtigingsfout bij het openen van een gedeeld postvak in OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913494"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Krijgt u een machtigingsfout bij het openen van een gedeeld postvak in de webversie van Outlook?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Krijgt u een machtigingsfout bij het openen van een gedeeld postvak in webversie van Outlook?
 
-Als u de foutmelding krijgt, **er iets mis is gegaan. U bent niet gemachtigd voor het openen van dit postvak.** Wanneer u een gedeeld postvak probeert te openen in de webversie van Outlook, is uw account mogelijk niet gemachtigd voor toegang tot het gedeelde Postvak. De beheerder van uw organisatie kan uw accountmachtigingen toewijzen aan het gedeelde Postvak door de instructies in het onderwerp [een gedeeld postvak maken](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)te volgen.
+Als u de foutmelding **krijgt, is er iets misgegaan. U hebt geen machtiging om dit postvak te openen.** wanneer u probeert een gedeeld postvak in een webversie van Outlook te openen, heeft uw account mogelijk geen machtiging voor toegang tot het gedeelde postvak. De beheerder van uw organisatie kan uw accountmachtigingen toewijzen aan het gedeelde postvak door de instructies in het onderwerp [Een gedeeld postvak maken te volgen.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
   

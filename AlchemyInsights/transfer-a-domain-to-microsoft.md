@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980964"
 ---
 # <a name="transfer-a-domain-to-microsoft"></a>Een domein overbrengen naar Microsoft
 
-Domeinen die u registreert en facturering, kunnen niet worden overgedragen naar Microsoft.
+Een domeinregistratie en facturering kunnen niet worden overgedragen naar Microsoft.
 
-Als u een domein wilt toevoegen dat u al hebt, volgt u de [wizard domein toevoegen](https://admin.microsoft.com/Adminportal/Domains/Wizard)of gaat u naar **instellingen**  >  **domeinen**  >  **domein toevoegen**.
+Als u een domein wilt toevoegen dat u al hebt, volgt u de [wizard](https://admin.microsoft.com/Adminportal/Domains/Wizard)Domein toevoegen of gaat u **naar Instellingen**  >  **Domein**  >  toevoegen.
 
-Zie [DNS-records toevoegen om uw](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)domein te koppelen voor meer informatie over het wijzigen van DNS-wijzigingen in uw domein.
+Zie [DNS-records](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)toevoegen om uw domein te verbinden voor meer informatie over DNS-wijzigingen die nodig zijn om uw domein te verifiëren.
 
-Zie [Veelgestelde vragen over domeinen](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)voor vragen over domeinen.
+Zie Veelgestelde vragen over domeinen voor [vragen over domeinen.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
