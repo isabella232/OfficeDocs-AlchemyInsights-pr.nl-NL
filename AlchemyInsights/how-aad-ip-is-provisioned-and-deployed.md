@@ -1,5 +1,5 @@
 ---
-title: Hoe Azure Active Directory-identiteitsbeveiliging wordt ingericht en geïmplementeerd
+title: Hoe Azure Active Directory identiteitsbeveiliging wordt ingericht en geïmplementeerd
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927854"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Hoe Azure Active Directory-identiteitsbeveiliging wordt ingericht en geïmplementeerd?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Hoe Azure Active Directory identiteitsbeveiliging wordt ingericht en geïmplementeerd?
 
-De functies van Azure Active Directory-identiteits bescherming zijn standaard ingeschakeld op tenantniveau voor alle gebruikers in de Tenant.
+Standaard zijn de functies van Azure Active Directory Identity Protection ingeschakeld op tenantniveau voor alle gebruikers binnen de tenant.
 
-Zie [Wat is Azure Active Directory-identiteitsbeveiliging?](https://go.microsoft.com/fwlink/?linkid=2130395) voor meer informatie.
+Zie Wat is Azure Active Directory [identiteitsbeveiliging? voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2130395)

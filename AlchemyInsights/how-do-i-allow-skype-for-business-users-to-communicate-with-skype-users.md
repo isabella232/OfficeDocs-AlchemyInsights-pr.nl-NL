@@ -1,5 +1,5 @@
 ---
-title: Hoe sta ik gebruikers van Skype voor Bedrijven toe om te communiceren met Skype-gebruikers
+title: Hoe kan ik toestaan dat Skype voor Bedrijven communiceren met Skype gebruikers
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927716"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Gebruikers van Skype voor Bedrijven Skype-contactpersonen laten toevoegen
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Gebruikers Skype voor Bedrijven contactpersonen Skype toevoegen
 
-Met Skype voor Bedrijven kunnen uw gebruikers zoeken naar en chatberichten maken met iedereen die Skype gebruikt, de gratis app! In dit artikel wordt uitgelegd wat u moet doen om Skype-contactpersonen toe te voegen.
+Met Skype voor Bedrijven kunnen uw gebruikers zoeken naar en chatberichten maken met iedereen die Skype, de gratis app! In dit artikel wordt uitgelegd wat u moet doen, zodat ze Skype toevoegen.
 
-[Gebruikers van Skype voor Bedrijven Skype-contactpersonen laten toevoegen](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Gebruikers Skype voor Bedrijven contactpersonen Skype toevoegen](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

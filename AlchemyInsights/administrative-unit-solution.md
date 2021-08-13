@@ -1,5 +1,5 @@
 ---
-title: Oplossing voor administratieve eenheden
+title: Oplossing voor beheereenheden
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7896"
-ms.openlocfilehash: c32d0652642fa4143b037662809f3ca5dec079f0
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: 93b77f0a23bc53035d63e08869067aff25270aed559d7cddded04aaa92285302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952460"
 ---
-# <a name="administrative-unit-solution"></a>Oplossing voor administratieve eenheden
+# <a name="administrative-unit-solution"></a>Oplossing voor beheereenheden
 
-1. Zorg ervoor dat de gebruiker de administratieve eenheden maakt en rollen toewijst aan een globale beheerder of een beheerder van een bevoegdheid.
-2. Zorg ervoor dat u gebruikers rechtstreeks aan de beheerders apparatuur toewijst. Als u een groep aan een administratieve eenheid toewijst, worden niet alle leden van de groep aan de administratieve eenheid toegewezen.
-3. Voor een bulkbewerking die wordt uitgevoerd voor een administratieve eenheid, kunnen de wijzigingen tijd in beslag nemen in de GEBRUIKERSINTERFACE, afhankelijk van diverse factoren (s), zoals de huidige servicebelasting.
+1. Zorg ervoor dat de gebruiker die de beheereenheden maakt en rollen toewijst een globale beheerder of een beheerder van een bevoegdhedenrol is.
+2. Zorg ervoor dat u gebruikers rechtstreeks aan de beheereenheden toewijst. Als u een groep toewijst aan een beheereenheid, worden niet alle leden van de groep aan de beheereenheid toegewezen.
+3. Voor een bulkbewerking die op een beheereenheid wordt uitgevoerd, kan het even duren voor de wijzigingen worden doorgevoerd in de gebruikersinterface, afhankelijk van verschillende factoren, zoals de huidige servicebelasting.
 
-Zie [rollen beheren in de beheerder](https://docs.microsoft.com/azure/active-directory/roles/administrative-units)voor meer informatie over administratieve eenheden.
+Zie Rollen beheren in de beheereenheid voor meer informatie over [beheereenheden.](https://docs.microsoft.com/azure/active-directory/roles/administrative-units)
