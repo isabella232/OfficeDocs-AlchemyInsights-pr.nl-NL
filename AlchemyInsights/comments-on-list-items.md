@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995473"
 ---
 # <a name="comments-on-list-items"></a>Opmerkingen over lijstitems
 
-Gebruikers kunnen alle opmerkingen weergeven voor een item in de lijst en vervolgens filteren op andere weergaven die opmerkingen of activiteiten met betrekking tot een item weergeven.
+Gebruikers kunnen alle opmerkingen over een lijstitem bekijken en filteren tussen weergaven met opmerkingen of activiteiten die betrekking hebben op een item.
 
-Gebruikers moeten het volgende weten voordat ze opmerkingen kunnen toevoegen en verwijderen:
+Gebruikers moeten het volgende noteren voordat ze opmerkingen kunnen toevoegen en verwijderen:
 
-- Opmerkingen Volg de machtigingsinstellingen die inherent zijn in SharePoint.
-- Klassieke lijsten die nog niet zijn gebouwd voor weergave in moderne gebruikersinterfaces, zoals taakoverzichten, hebben deze functie niet.
-- Opmerkingen voor lijsten in teams is niet beschikbaar in deze versie.
-- Opmerkingen worden niet geïndexeerd met Search.
+- Opmerkingen volgen de machtigingsinstellingen die inherent zijn aan SharePoint.
+- Klassieke lijsten die nog niet zijn gemaakt om in moderne gebruikersinterfaces weer te geven, zoals takenlijsten, hebben deze functie niet.
+- Opmerkingen over lijsten in Teams is niet beschikbaar met deze release.
+- Opmerkingen worden niet geïndexeerd door Zoeken.
 
-Beheerders kunnen deze functie uitschakelen op organisatieniveau door de **CommentsOnListItemsDisabled** -parameter in de PowerShell **-cmdlet Set-SPOTenant** te wijzigen.
+Beheerders kunnen deze functie op organisatieniveau uitschakelen door de parameter **CommentsOnListItemsDisabled** in de **PowerShell-cmdlet Set-SPOTenant** te wijzigen.
 
-Het is op dit moment niet mogelijk om opmerkingen in te schakelen op de site of het lijstniveau. We hopen dat deze besturingselementen in een latere update liggen, waarschijnlijk in het eerste kwartaal 2021.
+Het is momenteel niet mogelijk om opmerkingen op site- of lijstniveau uit te schakelen. We hopen deze besturingselementen in een latere update te hebben, waarschijnlijk in het eerste kwartaal van 2021.

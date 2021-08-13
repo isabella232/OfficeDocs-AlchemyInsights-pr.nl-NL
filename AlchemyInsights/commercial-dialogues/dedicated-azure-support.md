@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: c882c08dd2e87db207161dc4c2fa8e88125e6420
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d165b7857703a535e8971fed71b1c83b9f753d5bf26fd5f1b76fe583a6c61578
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979236"
 ---
 # <a name="dedicated-azure-support"></a>Speciale Azure-ondersteuning
 
-Voor hulp bij problemen met Azure raadpleegt u de sectie Azure-ondersteuning vragen [vragen, technische ondersteuning en bel ons.](https://go.microsoft.com/fwlink/?linkid=2081348)
+Voor hulp bij Azure-problemen raadpleegt u de sectie Azure-ondersteuning krijgen in Vragen over [facturering, Technische ondersteuning en Bel ons.](https://go.microsoft.com/fwlink/?linkid=2081348)
