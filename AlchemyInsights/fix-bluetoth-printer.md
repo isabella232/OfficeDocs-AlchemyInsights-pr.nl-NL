@@ -1,5 +1,5 @@
 ---
-title: Bluetooth-printer oplossen
+title: Oplossing Bluetooth printer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f2ebf9b54814e47063a7b096ceb83db526f268b28f95bc251e31ac717fc6620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928436"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Problemen met de Bluetooth-printerverbinding oplossen
+# <a name="fix-bluetooth-printer-connection-issues"></a>Problemen Bluetooth printerverbinding oplossen
 
-Probeer deze stappen om uw Bluetooth-printer weer aan de slag te laten gaan:
+Probeer de volgende stappen voor het oplossen van problemen om uw Bluetooth opnieuw te laten werken:
 
 
-1. Controleer of Bluetooth is ingeschakeld:
-    1. Selecteer **Instellingen van**  >  **Start**  >  **Apparaten** Bluetooth & andere  >  **apparaten**.
-    2. Schakel de bluetooth-schakelaar **in.**
-2. Voer de Bluetooth-probleemoplosser uit. <br>
+1. Controleer of de Bluetooth is ingeschakeld:
+    1. Selecteer **Start**  >  **Instellingen**  >  **Apparaten Bluetooth &** andere  >  **apparaten.**
+    2. Schakel de Bluetooth **in.**
+2. Voer de Bluetooth probleemoplosser uit. <br>
     Selecteer **Start,** typ **probleemoplossingsinstellingen** en selecteer vervolgens de optie **Probleemoplossingsinstellingen.** Selecteer **Bluetooth** in het menu en **Voer de probleemoplosser uit.**
 
-Als dat niet werkt, kunt u de Bluetooth-printer verwijderen en opnieuw installeren:
+Als dat niet werkt, kunt u de printer verwijderen en opnieuw Bluetooth verwijderen:
 
 1. Verwijder de printer in Instellingen:
-    1. Selecteer **Instellingen van**  >  **apparaten**  >  **starten** Printers &  >  **scanners**.
+    1. Selecteer **Start**  >  **Instellingen**  >  **Apparaten printers**&  >  **scanners**.
     2. Selecteer **onder Printers & scanners** de printer die u probleemoplossing aan het oplossen bent. Selecteer **Apparaat verwijderen.** Volg de instructies om de printer volledig te verwijderen.
 2. Verwijder software van een externe printerfabrikant:
-    1. Selecteer   >  **Instellingen-apps**  >  **starten.**
+    1. Selecteer **Start**  >  **Instellingen**  >  **Apps**.
     2. Blader **onder Apps & functies** naar software die is geïnstalleerd bij de fabrikant van uw printer (zoals HP, Canon of Epson).
 3.  Schakel uw printer uit en start deze opnieuw op .
    1. Schakel uw printer uit en koppel de stroomkabel los. Wacht 30 seconden. 
    2. Sluit uw printer weer aan en zet de printer weer aan.
 4. Installeer de printer opnieuw in Instellingen:
-    1. Selecteer **Instellingen van**  >  **apparaten**  >  **starten** Printers &  >  **scanners**.
+    1. Selecteer **Start**  >  **Instellingen**  >  **Apparaten printers**&  >  **scanners**.
     2. Selecteer de **koppeling Printer of scanner** toevoegen boven aan het scherm en volg de instructies om de printer opnieuw te installeren.
