@@ -1,5 +1,5 @@
 ---
-title: Outlook.com MSA-bewijzen
+title: Outlook.com MSA-proofs
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983952"
 ---
 # <a name="security-info-and-security-codes"></a>Beveiligingsgegevens en beveiligingscodes
 
-Beveiligingsgegevens toevoegen aan uw Microsoft-account:
+Als u beveiligingsgegevens wilt toevoegen aan uw Microsoft-account:
 
-1. Meld u aan met uw Microsoft-account op [basis van beveiligings beginselen](https://account.microsoft.com/security) .
-1. Selecteer **beveiligings contactgegevens**.
-1. Selecteer **beveiligingsgegevens toevoegen** en volg de instructies om een telefoonnummer of e-mailadres in te voeren.
-1. U ontvangt een beveiligingscode bij dit telefoonnummer of e-mailadres. Voer de beveiligingscode in die u hebt ontvangen in het venster **beveiligingsgegevens toevoegen** en selecteer **volgende**.
+1. Meld u aan [bij De basisbeginselen](https://account.microsoft.com/security) van beveiliging met uw Microsoft-account.
+1. Selecteer **Beveiligingscontactgegevens.**
+1. Selecteer **Beveiligingsgegevens toevoegen** en volg de instructies om een telefoonnummer of e-mailadres in te voeren.
+1. U ontvangt een beveiligingscode op dat telefoonnummer of e-mailadres. Voer de beveiligingscode in die u hebt ontvangen in **het venster Beveiligingsgegevens** toevoegen en selecteer **Volgende.**
 
-Als u een telefoonnummer of e-mailadres wilt verwijderen, selecteert u **verwijderen** ernaast.
+Als u een telefoonnummer of e-mailadres wilt verwijderen, **selecteert** u Verwijderen er naast.
 
-Als u wilt wijzigen welk telefoonnummer of e-mailadres beveiligingswaarschuwingen ontvangt, selecteert u **Opties voor meldingen wijzigen**.
+Als u wilt wijzigen welk telefoonnummer of e-mailadres beveiligingswaarschuwingen ontvangt, selecteert u **Waarschuwingsopties wijzigen.**
 
-Zie [beveiligingsgegevens en verificatiecodes van Microsoft-accounts](https://support.microsoft.com/help/12428/)voor meer informatie.
+Lees beveiligingsgegevens en verificatiecodes van [microsoft-account voor meer informatie.](https://support.microsoft.com/help/12428/)

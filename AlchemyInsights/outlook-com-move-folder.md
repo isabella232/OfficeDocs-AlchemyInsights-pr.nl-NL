@@ -13,15 +13,15 @@ ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.custom:
 - "8000062"
 - "1070"
-ms.openlocfilehash: 3ca780d479bace5415501370206a65c98d462573
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f226e7ddba2d0c5c0bd0e05540b4491f4351e852e477dbcd1b982478481f4642
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984096"
 ---
 # <a name="move-a-folder-in-outlookcom"></a>Een map verplaatsen in Outlook.com
 
-U kunt de volgorde van mappen onder **Favorieten**wijzigen, maar u kunt de volgorde van mappen onder **mappen** wijzigen of een submap maken van de map. Als u per ongeluk een map in een andere map verplaatst, maakt u een nieuwe map en kopieert u al uw e-mail uit de submap naar de nieuwe map.
+U kunt de volgorde van mappen wijzigen onder **Favorieten,** maar  u kunt mappen niet opnieuw ordenen onder Mappen of een submap een map maken. Als u per ongeluk een map naar een andere map verplaatst, maakt u een nieuwe map en kopieert u al uw e-mailberichten van de submap naar de nieuwe map.
   
-Zie voor meer informatie [werken met berichtmappen in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Lees Werken met berichtmappen [in Outlook.com voor meer informatie.](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965384"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Een Outlook-profiel maken of bewerken
+# <a name="create-or-edit-an-outlook-profile"></a>Een profiel maken of Outlook bewerken
 
-Als u een nieuw Outlook-profiel wilt maken, een profiel wilt bewerken of de naam van een profiel wilt wijzigen, gebruikt u de volgende stappen.
+Als u een nieuw Outlook profiel wilt maken, een profiel wilt bewerken of de naam van een profiel wilt wijzigen, gebruikt u de volgende stappen.
   
-1. Selecteer in Outlook de **File** optie \> **Account Settings** \> **profielen beheren**in het instellingen voor bestands accounts.
+1. Selecteer Outlook  \> **Bestandsaccount Instellingen** \> **Profielen beheren.**
     
-2. Selecteer in het dialoogvenster **e-mail instellingen** de optie **profielen weergeven**.
+2. Selecteer profielen **weergeven** in het dialoogvenster **E-mailinstellingen.**
     
-3. Voer een van de volgende bewerkingen uit:
+3. Voer een van de volgende handelingen uit:
     
-  - Selecteer **toevoegen**om een nieuw profiel te maken.
+  - Als u een nieuw profiel wilt maken, selecteert u **Toevoegen**.
     
-  - Als u een profiel wilt bewerken of de naam ervan wilt wijzigen, selecteert u **Eigenschappen**.
+  - Als u een profiel wilt bewerken of de naam van een profiel wilt wijzigen, **selecteert** u Eigenschappen .
     
-Als u problemen ondervindt bij het maken of bewerken van een Outlook-profiel, kunt u het [hulpprogramma voor Outlook-profielen](https://aka.ms/SaRA-OutlookSetupProfile) op de desbetreffende computer uitvoeren. Er gebeurt een aantal controles, en wanneer u klaar bent, maakt u een Outlook-profiel met uw e-mailadres. 
+Als u problemen hebt met het maken of bewerken van [](https://aka.ms/SaRA-OutlookSetupProfile) een Outlook profiel, kunt u het Outlook op de betreffende computer uitvoeren. Er worden enkele controles uitgevoerd en wanneer u klaar bent, maakt u een Outlook profiel met uw e-mailadres. 
   
 
