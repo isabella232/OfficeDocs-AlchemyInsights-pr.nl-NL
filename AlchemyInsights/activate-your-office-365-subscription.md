@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f74627ff414e8050d60d40dd6299a2cb02c981d
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937744"
 ---
 # <a name="activate-your-subscription"></a>Uw abonnement activeren
 
@@ -34,7 +34,7 @@ Als uw abonnement is verlopen, is uitgeschakeld door Microsoft of als u het midd
 1. Ga in het beheercentrum naar de pagina **Facturering** > [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Zoek op **het** tabblad Producten het abonnement dat u opnieuw wilt activeren. Selecteer de drie puntjes (meer acties) en selecteer **vervolgens Dit abonnement opnieuw activeren.**
 3. Selecteer in **het deelvenster Dit abonnement opnieuw** activeren een betalingswijze in de vervolgkeuzelijst of selecteer **Betalingswijze toevoegen.**
-4. Kies **Opslaan**.
+4. Selecteer **Opslaan**.
 
 Zie [Uw abonnement opnieuw activeren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
 
