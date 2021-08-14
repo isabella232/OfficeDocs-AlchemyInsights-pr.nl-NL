@@ -1,5 +1,5 @@
 ---
-title: De Teams-client blijft hangen bij laden
+title: Teams client is vastgelopen bij laden
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50092971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981684"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>De Teams-client blijft hangen bij laden
+# <a name="teams-client-is-stuck-on-loading"></a>Teams client is vastgelopen bij laden
 
-Microsoft is op de hoogte van een fout in een recente build van de Teams-desktop-app waardoor gebruikers zich niet kunnen aanmelden. Beïnvloede gebruikers zien een bericht over het laden van Microsoft Teams dat wordt weergegeven.
+Microsoft is op de hoogte van een fout in een recente versie Teams bureaublad-app die voorkomt dat gebruikers zich aanmelden. Beïnvloede gebruikers zien een bericht laden Microsoft Teams wordt weergegeven.
 
-De meest eenvoudige tijdelijke oplossing is om de Teams-web-app op <https://teams.microsoft.com/> .
+De meest eenvoudige tijdelijke oplossing op dit moment is het gebruik van de Teams web-app op <https://teams.microsoft.com/> .
 
-Zie voor meer informatie en de huidige status het bericht Servicestatusdashboard op <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Zie het bericht servicestatusdashboard op voor meer informatie en de huidige status <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

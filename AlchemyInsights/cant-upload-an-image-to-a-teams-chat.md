@@ -1,5 +1,5 @@
 ---
-title: Een afbeelding kan niet worden geüpload naar een teams-chat
+title: Een afbeelding kan niet worden geüpload naar een Teams chat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930796"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Een afbeelding kan niet worden geüpload naar een teams-chat
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Een afbeelding kan niet worden geüpload naar een Teams chat
 
 Suggesties voor probleemoplossing:
 
-- Als u teams op het web gebruikt, probeert u een andere browser. Voor een lijst met ondersteunde browsers raadpleegt u de sectie ' browsers ' in het artikel [beperkingen en specificaties voor Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Controleer de compatibiliteit van de hardware en de OS. Zie [hardwarevereisten voor Microsoft teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)voor meer informatie.
-- Controleer of u de meest recente versie van teams hebt. Voor meer informatie raadpleegt u [team update process](https://docs.microsoft.com/microsoftteams/teams-client-update) voor details.
+- Als u een Teams op internet gebruikt, kunt u een andere browser proberen. Zie de sectie 'Browsers' van Limieten en specificaties voor [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Controleer de compatibiliteit van uw hardware en besturingssysteem. Zie Hardwarevereisten voor [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
+- Controleer of u de nieuwste Teams hebt. Zie het updateproces [Teams voor](https://docs.microsoft.com/microsoftteams/teams-client-update) meer informatie.
