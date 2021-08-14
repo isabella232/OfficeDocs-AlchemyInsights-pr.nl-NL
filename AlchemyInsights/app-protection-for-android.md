@@ -1,5 +1,5 @@
 ---
-title: Beveiligingsbeleidsinstellingen voor Android-apps in Microsoft intune
+title: Beveiligingsbeleidsinstellingen voor Android-apps in Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 327df6e0a901037cd929cb845f805466d9bd4eff
-ms.sourcegitcommit: 81c86027933c06db08d264918f2698d9c9a1659a
+ms.openlocfilehash: ff253ad4b2ba12e25a786b5aa5bac76ae4765206a2e12880a0673ce5fcbf30c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951632"
 ---
-# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Beveiligingsbeleidsinstellingen voor Android-apps in Microsoft intune
+# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Beveiligingsbeleidsinstellingen voor Android-apps in Microsoft Intune
 
 Er zijn drie categorieën instellingen voor app-beveiligingsbeleid voor Android-apparaten:
 
-Met **gegevensbeveiliging** wordt bepaald hoe bedrijfsgegevens worden afgehandeld, bijvoorbeeld of gegevens kunnen worden gekopieerd of geplakt in een andere app of of een schermafbeelding van de app kan worden opgehaald. De instellingen leggen ook versleuteling af op bedrijfsgegevens en beheren of bepaalde gegevens kunnen worden gesynchroniseerd met de systeem-apps van de apparaat, zoals de lijst met contactpersonen of de webbrowser. Zie [gegevensbeveiliging](https://go.microsoft.com/fwlink/?linkid=2135259)voor meer informatie.
+**Gegevensbescherming** bepaalt hoe bedrijfsgegevens worden verwerkt, zoals of gegevens kunnen worden gekopieerd of in een andere app kunnen worden gekopieerd of in een andere app kunnen worden gekopieerd of dat er een schermafbeelding van de app kan worden gemaakt. De instellingen dwingen ook versleuteling op bedrijfsgegevens af en bepalen of bepaalde gegevens kunnen worden gesynchroniseerd met de native apparaat-apps, zoals de lijst met contactpersonen of de webbrowser. Zie Gegevensbeveiliging voor [meer informatie.](https://go.microsoft.com/fwlink/?linkid=2135259)
 
-**Toegangsvereisten voor** de gebruikers die toegang hebben tot een app. Als u bijvoorbeeld een app wilt gebruiken, moet de gebruiker een pincode of vingerafdruk voor dit programma opgeven. Zie [vereisten voor toegang](https://go.microsoft.com/fwlink/?linkid=2135260)voor meer informatie.
+**Toegangsvereisten** geven aan hoe gebruikers toegang hebben tot een app. Een app kan bijvoorbeeld vereisen dat de gebruiker een pincode of vingerafdruk in moet voeren om deze te openen. Zie [Access-vereisten](https://go.microsoft.com/fwlink/?linkid=2135260)voor meer informatie.
 
-**Voorwaardelijke start** de beveiligingsinstellingen voor aanmelding voor een app, zoals de maximale pincodes voor het vergrendelen of het minimale besturingssysteem dat nodig is om de app uit te voeren. Zie [voorwaardelijke start](https://go.microsoft.com/fwlink/?linkid=2135507)voor meer informatie.
+**Voorwaardelijke start** is van toepassing op de beveiligingsinstellingen voor aanmelding voor een app, zoals de maximale pincodepogingen vóór vergrendeling of het minimale besturingssysteem dat nodig is om de app uit te voeren. Zie Voorwaardelijke start [voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2135507)
