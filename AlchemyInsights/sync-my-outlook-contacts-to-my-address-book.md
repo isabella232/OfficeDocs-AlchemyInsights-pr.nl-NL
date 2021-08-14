@@ -1,5 +1,5 @@
 ---
-title: Mijn Outlook-contactpersonen synchroniseren met mijn adresboek
+title: Mijn contactpersonen Outlook mijn adresboek synchroniseren
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e5cac0c469fc3086144cb0445f76216728c61b7a9d6939153b36aacfde095b08
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009018"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Mijn Outlook-contactpersonen synchroniseren met mijn adresboek
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Mijn contactpersonen Outlook mijn adresboek synchroniseren
 
-Met Outlook kunt u uw contactpersonen exporteren naar de standaard-app Contactpersonen op Android. Hierdoor kunt u de naam van een contactpersoon zien wanneer u een oproep of sms-bericht ontvangt en kunt u alle contactgegevens rechtstreeks weergeven in de standaard-app Contactpersonen.
+Outlook kunt u uw contactpersonen exporteren naar de standaard-app Contactpersonen op Android. Hierdoor kunt u de naam van een contactpersoon zien wanneer u een oproep of sms-bericht ontvangt en kunt u alle contactgegevens rechtstreeks weergeven in de standaard-app Contactpersonen.
  
 **Deze functie inschakelen:**
  
@@ -31,9 +31,9 @@ Met Outlook kunt u uw contactpersonen exporteren naar de standaard-app Contactpe
 
 3. Schakel de **schuifregelaar Contactpersonen synchroniseren** in.
  
-De export van tweewegcontactcontacten wordt ondersteund voor Microsoft 365, Outlook.com en hybride moderne verificatie voor on-premises postvakken. Ondersteuning in twee delen zorgt ervoor dat nieuwe contactpersonen die u toevoegt of bestaande contactpersonen die u bewerkt, worden gesynchroniseerd tussen uw apparaat en uw Outlook-accounts.
+Het exporteren van contactpersonen in twee weg wordt ondersteund voor Microsoft 365, Outlook.com en hybride moderne verificatie voor on-premises postvakken. Ondersteuning in twee delen zorgt ervoor dat nieuwe contactpersonen die u toevoegt of bestaande contactpersonen die u bewerkt, worden gesynchroniseerd tussen uw apparaat en uw Outlook accounts.
  
-Voor oudere Exchange-accounts kunt u uw contactpersonen exporteren die u wilt opgeslagen op het apparaat. Wanneer **Contactpersonen synchroniseren** is ingeschakeld, worden nieuwe contactpersonen en bewerkingen die zijn aangebracht aan uw contactpersonen in Outlook, opgeslagen in de app Contactpersonen op uw apparaat. Wijzigingen die rechtstreeks in de app Contactpersonen van uw apparaat worden gemaakt, worden echter niet opgeslagen in Outlook. Houd er rekening mee dat we geen ondersteuning bieden voor het toevoegen/bewerken van contactpersonen uit Outlook voor Android voor on-premises exchange-accounts, dus u moet uw contactpersonen beheren vanuit een andere Outlook-client.
+Voor oudere Exchange kunt u uw contactpersonen exporteren die u wilt opgeslagen op het apparaat. Wanneer **Contactpersonen synchroniseren** is ingeschakeld, worden nieuwe contactpersonen en bewerkingen die zijn aangebracht aan uw contactpersonen in Outlook opgeslagen in de app Contactpersonen op uw apparaat. Wijzigingen die rechtstreeks in de app Contactpersonen van uw apparaat zijn gemaakt, worden echter niet opgeslagen in Outlook. Houd er rekening mee dat we geen ondersteuning bieden voor het toevoegen/bewerken van contactpersonen uit Outlook voor Android voor on-premises exchange-accounts, dus u moet uw contactpersonen beheren vanuit een andere Outlook client.
  
 Contactsynchronisatie voor GMAIL en iCloud wordt momenteel niet ondersteund.
  

@@ -1,5 +1,5 @@
 ---
-title: Uw SharePoint-agenda synchroniseren met Outlook
+title: Synchroniseer uw SharePoint agenda naar Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008874"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemen met het synchroniseren van uw agenda met apparaten
 
-SharePoint-Agenda's zijn klassieke lijst typen die soms worden verward met Microsoft 365-Groepsagenda's.
+SharePoint Agenda's zijn klassieke lijsttypen die soms worden verward met Microsoft 365 groepsagenda's.
 
-Voer de volgende stappen uit als u een SharePoint-agenda wilt synchroniseren met Outlook:
+Als u een SharePoint agenda wilt synchroniseren met Outlook, gaat u als volgt te werk:
 
-1. Klik op het tandwiel pictogram **instellingen** en klik vervolgens op **site-inhoud**.
-2. Open de agenda die u wilt synchroniseren (dit is een lijsttype voor gebeurtenissen).
-3. Klik in het menu klassiek lint op **agenda**en klik vervolgens op **verbinding maken met Outlook**.
-4. In het pop-upvenster waarin u wordt gevraagd om de synchronisatie te bevestigen, klikt u op **toestaan**.
+1. Klik op **Instellingen** tandwielpictogram en klik vervolgens op **Site-inhoud.**
+2. Open de agenda die u wilt synchroniseren (dit is een lijsttype Gebeurtenissen).
+3. Klik in het klassieke lintmenu op **Agenda** en klik **Verbinding maken om Outlook.**
+4. Klik in de pop-up waarin u wordt gevraagd de synchronisatie te bevestigen op **Toestaan.**
 
 >[!Note]
-> Wanneer u een wijziging aanbrengt in de gesynchroniseerde Outlook-agenda, wordt deze weergegeven in de SharePoint-agenda en omgekeerd.
+> Wanneer u een wijziging aan te brengen in de gesynchroniseerde Outlook agenda, wordt deze weergegeven in de SharePoint agenda en omgekeerd.
 
-Zie dit [artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)voor meer informatie over microsoft 365-groepen.
+Zie dit artikel voor meer Microsoft 365 [groepen.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
