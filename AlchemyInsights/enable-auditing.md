@@ -1,5 +1,5 @@
 ---
-title: Audit logboek inschakelen en zoeken
+title: Auditlogboek inschakelen en zoeken
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003629"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Het audit logboek inschakelen en doorzoeken
+# <a name="enable-and-search-the-audit-log"></a>Het auditlogboek inschakelen en doorzoeken
 
 **Microsoft 365**
 
-[Ga als volgt te werk](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)om te zoeken in het controlelogboek van microsoft 365.
+Als u wilt zoeken in Microsoft 365 auditlogboek, volgt [u deze stappen.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Activiteiten van Exchange-beheer zijn standaard gecontroleerd.
+- Exchange beheeractiviteiten worden standaard gecontroleerd.
 
-- Postvak controle is standaard ingeschakeld in Microsoft 365. Zie  [dit artikel](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)voor meer informatie.
+- Postvakcontrole is standaard ingeschakeld in Microsoft 365. Zie dit artikel voor [meer informatie.](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
 
-- De Microsoft 365-groeps postvakken en de Postvak in openbare mappen in Exchange Online ondersteunen geen controlelogboekregistratie.
+- Microsoft 365 Groepspostvakken en postvakken in openbare mappen in Exchange Online ondersteunen geen auditregistratie.
 
 **SharePoint en OneDrive**
 
-- Er is geen extra configuratie vereist voor het inschakelen van de controle voor SharePoint en OneDrive.
+- Er is geen extra configuratie vereist voor het inschakelen van auditing voor SharePoint en OneDrive.
 
-- Ondersteuning voor SharePoint en OneDrive de volgende soorten activiteiten controleren:
+- SharePoint en OneDrive ondersteuning bij het controleren van de volgende soorten activiteiten:
 
-    - Activiteiten van bestanden, mappen en pagina's
-    - Activiteiten voordelen en toegang aanvragen
-    - Activiteiten in verband met site beheer
+    - Bestands-, map- en paginaactiviteiten
+    - Activiteiten in verband met delen en aanvragen voor toegang
+    - Activiteiten in verband met sitebeheer
     - Activiteiten voor bestandssynchronisatie
 
-- Zie  [de tabel in dit artikel](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)voor meer informatie over het controleren van activiteiten in andere services.
+- Zie de tabel in dit artikel voor informatie over gecontroleerde activiteiten [in andere services.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Hier ziet u een lijst met veelgestelde [vragen met veelgestelde vragen over het](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) zoeken in het auditlogboek.
+- Hier een lijst met veelgestelde vragen [over](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) het doorzoeken van het auditlogboek.

@@ -1,5 +1,5 @@
 ---
-title: E-mail factuur-verouderd
+title: E-mailfactuur - Verouderd
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003609"
 ---
-# <a name="e-mail-invoice---legacy"></a>E-mail factuur-verouderd
+# <a name="e-mail-invoice---legacy"></a>E-mailfactuur - Verouderd
 
-**Meld u aan om abonnements facturen per e-mail te ontvangen**
+**Kies ervoor om abonnementsfacturen per e-mail te ontvangen**
 
-U moet beschikken over een accountbeheerder voor een abonnement of een ondersteunings abonnement om u aan te melden voor een e-mailbericht. E-mail facturen zijn alleen beschikbaar voor abonnementen en ondersteunings abonnementen, en niet voor reserveringen of Azure Marketplace-aankopen. Als u zich hebt aangemeld, kunt u extra geadresseerden toevoegen, wie de factuur ook per e-mail ontvangt.
+U moet de rol accountbeheerder hebben voor een abonnement of een ondersteuningsabonnement om de factuur per e-mail te ontvangen. Facturen per e-mail zijn alleen beschikbaar voor abonnementen en ondersteuningsabonnementen, niet voor reserveringen of aankopen van Azure Marketplace. Nadat u zich hebt aangeleverd, kunt u extra geadresseerden toevoegen, die de factuur ook per e-mail ontvangen.
 
-Voer de volgende stappen uit om uw abonnements facturen per e-mail te ontvangen:
+Volg deze stappen om uw abonnementsfacturen per e-mail te ontvangen:
 
-1. Meld u aan bij de [Azure-Portal](https://portal.azure.com/).
-2. Zoek naar **kostenbeheer + facturering**.
-3. Selecteer **facturen** via de opties aan de linkerkant.
-4. Selecteer uw abonnement op het Azure-abonnement of ondersteunings abonnement en selecteer vervolgens **factuur per E-mail ontvangen**.
-5. Klik op **e-mail factuur** en accepteer de voorwaarden.
-6. De factuur wordt verzonden naar uw e-mailadres voorkeur communicatie. Selecteer **profiel bijwerken** om het e-mailbericht bij te werken.
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/).
+2. Zoek naar **Kostenbeheer en facturering**.
+3. Selecteer **Facturen** in de opties aan de linkerkant.
+4. Selecteer uw Azure-abonnement of ondersteuningsabonnement en selecteer vervolgens **Factuur ontvangen per e-mail**.
+5. Klik op **Factuur per e-mail** en accepteer de voorwaarden.
+6. De factuur wordt verzonden naar het gewenste e-mailadres. Selecteer **Profiel bijwerken** als u het e-mailadres wilt bijwerken.
 
 **Extra geadresseerden toevoegen om facturen te ontvangen**
 
-U kunt als volgt de facturen voor uw abonnement en ondersteunings abonnement voor uw abonnement en ondersteunings abonnement delen met een financieel team of naar een van uw andere e-mailadressen verzenden:
+Als u de facturen voor uw abonnement en ondersteuningsplan elke maand wilt delen met uw boekhoudteam of deze wilt verzenden naar een van uw andere e-mailadressen:
 
-1. Voer de bovenstaande stappen uit als u per e-mail eerst factuur wilt inschakelen en selecteer vervolgens **geadresseerden configureren.**
-2. Voer een e-mailadres in en selecteer vervolgens **geadresseerde toevoegen**. U kunt meerdere e-mailadressen toevoegen.
-3. Wanneer u alle e-mailadressen hebt toegevoegd, selecteert u **gedaan** vanaf de onderkant van het scherm.
+1. Volg de bovenstaande stappen om eerst per e-mail factuur in te stellen en selecteer vervolgens **Geadresseerden configureren.**
+2. Voer een e-mailadres in en selecteer **Ontvanger toevoegen**. U kunt meerdere e-mailadressen toevoegen.
+3. Nadat u alle e-mailadressen hebt toegevoegd, selecteert u onder aan het scherm **Gereed**.
 
-**Anderen toestaan uw abonnements factuur te downloaden**
+**Toestaan dat anderen uw abonnementsfactuur downloaden**
 
-Gebruikers/groepen toestaan om toegang te krijgen tot uw factuur via abonnementsniveau:
+Gebruikers/groepen met toegang op abonnementsniveau toestaan uw factuur te downloaden:
 
-1. Meld u bij de [Azure-Portal](https://portal.azure.com/) aan als accountbeheerder voor het abonnement.
-2. Zoek naar **kostenbeheer + facturering**.
-3. Selecteer **facturen** via de opties aan de linkerkant.
-4. Selecteer uw Azure-abonnement en klik vervolgens op **toestaan dat anderen factuur downloaden**.
-5. Selecteer **aan** en klik boven aan de pagina op **Opslaan** .
+1. Meld u aan bij [Azure Portal](https://portal.azure.com/) als accountbeheerder voor het abonnement.
+2. Zoek naar **Kostenbeheer en facturering**.
+3. Selecteer **Facturen** in de opties aan de linkerkant.
+4. Selecteer uw Azure-abonnement en klik op **Toestaan dat anderen de factuur downloaden**.
+5. Selecteer **Aan** en vervolgens **Opslaan** boven aan de pagina.
 
 > [!NOTE]
-Als u niet de accountbeheerder bent, neemt u contact op met uw accountbeheerder om u aan te melden bij de bovenstaande instructies om u aan te melden, geadresseerden toe te voegen of andere gebruikers toe te staan de factuur te downloaden.
+Als u niet de accountbeheerder bent, neem dan contact op met uw accountbeheerder om de bovenstaande instructies te volgen om u aan te geven, geadresseerden toe te voegen of om andere gebruikers toe te staan de factuur te downloaden.
