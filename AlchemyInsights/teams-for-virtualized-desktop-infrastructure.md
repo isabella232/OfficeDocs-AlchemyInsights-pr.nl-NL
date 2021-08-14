@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008505"
 ---
 # <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams voor gevirtualiseerde bureaubladinfrastructuur
 
-Zie Teams voor gevirtualiseerde [bureaubladinfrastructuur](https://docs.microsoft.com/microsoftteams/teams-for-vdi)voor gedetailleerde informatie over Teams voor gevirtualiseerde desktopinfrastructuuromgevingen.
+Zie voor meer informatie over Teams virtualized desktop [infrastructure-omgevingen Teams virtualized desktop infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
 Bekende problemen en beperkingen in VDI-omgevingen worden beschreven in de sectie Bekende problemen en beperkingen van hetzelfde artikel, met de volgende onderwerpen: [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations)
  - Clientimplementatie, installatie en installatie

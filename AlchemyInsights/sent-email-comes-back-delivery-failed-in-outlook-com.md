@@ -1,5 +1,5 @@
 ---
-title: 8000044 verzonden e-mail wordt weergegeven op de Outlook.com is mislukt
+title: 8000044 Verzonden e-mail wordt als 'bezorging mislukt' in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1eeabc9ef499f870d3ce14507791fc11508f52f13830b706ad1044c98454c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767855"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942686"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Verzonden e-mail wordt weergegeven ' levering mislukt '
+# <a name="sent-email-comes-back-delivery-failed"></a>Verzonden e-mail wordt 'bezorging mislukt' teruggestuurd
 
-Bezorgings fouten of e-mailberichten die u als niet-bezorgbaar terugkomt, kunnen om een aantal redenen plaatsvinden. Als u meer wilt weten over de meest voorkomende foutberichten en voorgestelde oplossingen, raadpleegt u [e-mailberichten in Outlook.com worden weergegeven wanneer de bezorging is mislukt](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Bezorgingsfouten of e-mailberichten die niet kunnen worden bezorgd, kunnen om een aantal redenen optreden. Zie Verzonden e-mail [in Outlook.com](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie over de meest voorkomende foutberichten, samen met voorgestelde oplossingen.
   

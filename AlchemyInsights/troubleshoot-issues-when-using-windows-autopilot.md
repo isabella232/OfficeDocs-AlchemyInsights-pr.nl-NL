@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen bij het gebruik van Windows auto pilot
+title: Problemen oplossen bij het gebruik Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008325"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Problemen oplossen bij het gebruik van Windows auto pilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Problemen oplossen bij het gebruik Windows AutoPilot
 
-Als u problemen hebt met auto pilot, raadpleegt u de pagina's voor het [oplossen van problemen](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) met auto pilot en [bekende problemen](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+Als u problemen hebt met AutoPilot, bekijkt u de [pagina's Problemen](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) met Autopilot oplossen en [Bekende problemen.](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues)
 
-Als u een probleem hebt met de automatische proefversie van Windows tijdens een status pagina voor de inschrijving, controleert u het volgende document voor hints voor het oplossen van het probleem. [De pagina met inschrijvings status begrijpen en oplossen](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Als u een probleem hebt met het stoppen Windows AutoPilot tijdens een ESP-fase (Enrollment Status Page) raadpleegt u het volgende document voor tips over het oplossen van uw probleem. [De pagina Inschrijvingsstatus begrijpen en oplossen](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Als u auto pilot met een Hololens 2-apparaat wilt uitproberen, controleert u of u de documentatie[Windows auto pilot voor hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) controleert. Dit helpt u inzicht te krijgen in de vereisten en aanbevolen stappen voor het registreren van Hololens 2 met auto pilot  
+Als u Autopilot wilt uitproberen met Hololens 2-apparaten, controleert u de "[Windows Autopilot](https://docs.microsoft.com/hololens/hololens2-autopilot) voor HoloLens 2 documentatie. Op deze basis krijgt u inzicht in de vereisten en aanbevolen stappen voor het registreren van Hololens 2 met Autopilot  
 
-Als u meer wilt weten over het instellen van Windows auto pilot, raadpleegt [u Windows-apparaten in intune registreren met behulp van Windows auto pilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Zie Voor meer informatie over het instellen van Windows Autopilot Windows in [Intune](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot) registreren met Windows Autopilot
