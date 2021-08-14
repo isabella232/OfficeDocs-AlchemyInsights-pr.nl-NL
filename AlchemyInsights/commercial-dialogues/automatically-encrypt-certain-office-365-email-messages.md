@@ -1,5 +1,5 @@
 ---
-title: Bepaalde Office 365-e-mailberichten automatisch versleutelen
+title: Bepaalde e-mailberichten automatisch Office 365 versleutelen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949562"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Bepaalde Office 365-e-mailberichten automatisch versleutelen
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Bepaalde e-mailberichten automatisch Office 365 versleutelen
 
 U kunt berichten die gebruikers naar bepaalde externe personen of organisaties verzenden, automatisch versleutelen. Voer hiervoor de volgende stappen uit:
 
-1. Kies in [het Exchange-beheercentrum](https://outlook.office365.com/ecp/) **de optie e-mailstroom > regels.** 
+1. Kies in [Exchange beheercentrum](https://outlook.office365.com/ecp/)de optie **E-mailstroom > regels.** 
 2. Klik op **het pictogram Nieuw (+)** en klik vervolgens op **Office 365-berichtversleuteling en rechtenbescherming toepassen op berichten.**
 3. Voer **in Naam** een naam in voor de regel, zoals Berichten *versleutelen die naar DrToniRamos@gmail.com.*
 4. Kies **in Deze regel toepassen als**, de > deze persoon **is.** 
@@ -38,5 +38,5 @@ U kunt berichten die gebruikers naar bepaalde externe personen of organisaties v
 > [!IMPORTANT]
 > U kunt deze regel later altijd weer bewerken.
 
-Zie Regels voor e-mailstroom definiëren om e-mailberichten te versleutelen [in Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)voor meer informatie over het maken van regels voor versleuteling.
+Zie Regels voor e-mailstroom definiëren voor het versleutelen van e-mailberichten in Office 365 voor meer informatie over het maken van [regels voor versleuteling.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

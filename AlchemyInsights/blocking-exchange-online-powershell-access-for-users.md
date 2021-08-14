@@ -1,5 +1,5 @@
 ---
-title: 763 blokkeren Exchange Online PowerShell-toegang voor gebruikers
+title: 763 Blokkeren van Exchange Online PowerShell-toegang voor gebruikers
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931408"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Toegang tot Exchange Online PowerShell voor gebruikers blokkeren
-Als beheerder kunt u toegang tot Exchange Online PowerShell voor uw gebruikers blokkeren. Zie de volgende onderwerpen voor meer informatie:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Toegang Exchange Online PowerShell voor gebruikers blokkeren
+Als beheerder kunt u de toegang tot Exchange Online PowerShell voor uw gebruikers blokkeren. Zie deze onderwerpen voor meer informatie:
 
-- [Toegang tot Exchange Online PowerShell in-of uitschakelen](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Toegang tot powershell in- Exchange Online uitschakelen](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Regels voor client toegang in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (zoekt u het **RemotePowerShell** -Protocol) 
+- [Clienttoegangsregels in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (zoek naar het **RemotePowerShell-protocol)** 
 
-**Opmerking**: het is aan te raden dat u de toegang tot Exchange Online PowerShell voor beheerders niet blokkeert als beschreven in het onderwerp.
+**Opmerking:** Zoals in het onderwerp wordt beschreven, moet u de toegang tot Exchange Online PowerShell voor beheerders niet blokkeren.

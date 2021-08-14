@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931444"
 ---
 # <a name="application-errors"></a>Toepassingsfouten
 
-Zoeken naar informatie over de **AADSTS-foutcodes** die worden geretourneerd via de Azure Active Directory (Azure AD) beveiligingstokenservice (STS)? U kunt de [foutcodes van Azure AD Authentication en Authorization](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) lezen voor het vinden van fout beschrijvingen van AADSTS, fixes en enkele voorgestelde tijdelijke oplossingen.
+Zoekt u informatie over de **AADSTS-foutcodes** die worden geretourneerd uit de Azure Active Directory (Azure AD) security token service (STS)? Lees [Azure AD Authentication and authorization error codes](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) to find AADSTS error descriptions, fixes, and some suggested workarounds.
 
-Autorisatiefouten kunnen verschillende oorzaken hebben, waarvan de meeste problemen met een 401-of 403-fout veroorzaken. In het volgende voorbeeld kunnen autorisatiefouten worden vastgelegd:
+Autorisatiefouten kunnen het gevolg zijn van verschillende problemen, waarvan de meeste een 401- of 403-fout genereren. Het volgende kan bijvoorbeeld leiden tot autorisatiefouten:
 
-- Onjuiste [verwervings stromen voor toegangstokens](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
-- Slecht geconfigureerde [machtigings zoekbereiken](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
-- Onvoldoende [toestemming](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
+- Onjuiste [verwervingsstromen van toegangstokens](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- Slecht geconfigureerde [machtigingsbereiken](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
+- Geen [toestemming](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Voor het oplossen van veelvoorkomende autorisatiefouten voert u de stappen uit die het meest overeenkomen met de fout die u ontvangt. Meer dan één kan van toepassing zijn.
+Als u veelvoorkomende autorisatiefouten wilt oplossen, probeert u de onderstaande stappen die het meest overeenkomt met de fout die u ontvangt. Er kunnen meer dan één van toepassing zijn.
 
-**ongeautoriseerde fout in 401: is uw token geldig?**
+**401 Onbevoegdheidsfout: Is uw token geldig?**
 
-Zorg ervoor dat de toepassing een geldig toegangstoken voor Microsoft Graph als onderdeel van de aanvraag presenteert. Deze fout betekent meestal dat het toegangstoken ontbreekt in de header van de HTTP-authenticatieaanvraag of dat de token ongeldig is of is verlopen. We raden u ten zeerste aan om de [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) te gebruiken voor het verkrijgen van een toegangstoken. Ook deze fout kan optreden als u een gedelegeerd toegangstoken probeert te gebruiken dat is toegewezen aan een persoonlijk Microsoft-account om toegang te krijgen tot een API die alleen ondersteuning biedt voor werk-of school accounts (organisatie accounts).
+Zorg ervoor dat uw toepassing een geldig toegangs token voor Microsoft-Graph als onderdeel van de aanvraag presenteert. Deze fout betekent vaak dat het toegangstoken ontbreekt in de koptekst voor de HTTP-verificatieaanvraag of dat het token ongeldig of verlopen is. We raden u ten zeerste aan om de [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) te gebruiken voor het verkrijgen van toegangs tokens. Daarnaast kan deze fout optreden als u probeert een gedelegeerd toegangs token te gebruiken dat is verleend aan een persoonlijk Microsoft-account om toegang te krijgen tot een API die alleen werk- of schoolaccounts (organisatieaccounts) ondersteunt.
 
-**403 niet toegestaan fout: hebt u de juiste set machtigingen gekozen?**
+**403 Fout verboden: Hebt u de juiste set machtigingen gekozen?**
 
-Controleer of u de juiste set machtigingen hebt aangevraagd op basis van de API-oproepen van Microsoft Graph. Aanbevolen beperkte machtigingen voor machtigingen worden vermeld in alle onderwerpen over de Microsoft Graph API Reference method. Daarnaast moet de machtigingen van een gebruiker of beheerder aan de toepassing worden verleend. Machtigingen verlenen normaalgesproken plaats via een machtigings pagina of door het verlenen van machtigingen via de Blade van de Azure-Portal toepassing. Klik vanuit de Blade **instellingen** voor de toepassing op **vereiste machtigingen** en klik op **machtigingen verlenen**.
+Controleer of u de juiste set machtigingen hebt aangevraagd op basis van de Microsoft-Graph API's voor uw app-oproepen. Aanbevolen minst bevoorrechte machtigingen worden verstrekt in alle onderwerpen van de Microsoft-Graph API-verwijzingsmethode. Daarnaast moeten deze machtigingen aan de toepassing worden verleend door een gebruiker of een beheerder. Het verlenen van machtigingen gebeurt normaal gesproken via een toestemmingspagina of door machtigingen toe te staan met behulp van het registratieblad van de Azure Portal-toepassing. Klik bij de **Instellingen** van de toepassing op **Vereiste machtigingen** en klik vervolgens op **Verkregen machtigingen**.
 
-- [Machtigingen voor Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
-- [Meer informatie over Azure AD-machtigingen en toestemming](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- [Microsoft Graph-machtigingen](https://docs.microsoft.com/graph/permissions-reference) 
+- [Azure AD-machtigingen en -toestemming begrijpen](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**403 niet-toegestane fout: er is een token aangeschaft voor de aangewezen machtigingen in de app?**
+**403 Fout verboden: Heeft uw app een token verkregen die overeenkomt met de gekozen machtigingen?**
 
-Zorg ervoor dat de aangevraagde of gebezite machtigingen van het type toegangstoken overeenkomen met uw app. U moet mogelijk aanvragen voor de toepassing en het verlenen van toepassingen, maar het gebruik van tokens in de client Credential flow, en het aanvragen en verlenen van gemachtigde machtigingen, maar het gebruik van client Credential flow-tokens in plaats van gedelegeerde code transport tokens
+Zorg ervoor dat het type machtigingen dat is aangevraagd of verleend overeenkomt met het type toegangs token dat uw app verkrijgt. Mogelijk vraagt en verleent u toepassingsmachtigingen, maar gebruikt u gedelegeerde interactieve codestroomtokens in plaats van clientreferentiestroomtokens, of vraagt u gedelegeerde machtigingen aan, maar gebruikt u clientreferentiestroomtokens in plaats van gedelegeerde codestroomtokens.
 
-- [Toegang verkrijgen namens gebruikers en gedelegeerde machtigingen](https://docs.microsoft.com/graph/auth_v2_user) 
-- [Azure AD v 2.0-OAuth 2,0-autorisatiecode stroom](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Toegang krijgen zonder een gebruiker (Demon service) en Toepassingsmachtigingen](https://docs.microsoft.com/graph/auth_v2_service) 
-- [Azure AD v 2.0-OAuth 2,0 client credentials flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [Toegang krijgen namens gebruikers en gedelegeerde machtigingen](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Azure AD v2.0 - OAuth 2.0 autorisatiecodestroom](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Toegang krijgen zonder een gebruiker (daemon-service) en toepassingsmachtigingen](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Azure AD v2.0 - OAuth 2.0-clientreferentiestroom](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**403 niet toegestaan fout: wachtwoord opnieuw instellen**
+**403 Fout verboden: Wachtwoord opnieuw instellen**
 
-Op dit moment zijn er geen bevoegdheden van een toepassing voor de service-to-service bevoegdheden waarmee gebruikerswachtwoorden opnieuw kunnen worden ingesteld. Deze Api's worden alleen ondersteund door de interactieve gedelegeerde code stromen met een aangemelde beheerder.
+Momenteel zijn er geen daemon-service-to-servicemachtigingen voor toepassingen waarmee gebruikerswachtwoorden opnieuw kunnen worden ingesteld. Deze API's worden alleen ondersteund met behulp van interactieve, gedelegeerde codestromen met een aangemelde beheerder.
 
-- [Machtigingen voor Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference)
+- [Microsoft Graph-machtigingen](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 niet toegestaan: heeft de gebruiker toegang en zijn ze een licentie?**
+**403 Verboden: Heeft de gebruiker toegang en een licentie?**
 
-Voor gedelegeerde code stromen wordt in Microsoft Graph geëvalueerd of de aanvraag is toegestaan op basis van de machtigingen die aan de app zijn verleend en de machtigingen die de aangemelde gebruiker heeft. In het algemeen wordt met deze fout aangegeven dat de gebruiker niet voldoende bevoegd is voor het uitvoeren van de aanvraag of de gebruiker geen licentie heeft voor de gegevens die worden geopend. Alleen gebruikers met de vereiste machtigingen of licenties kunnen de aanvraag succesvol indienen.
+Voor gedelegeerde codestromen wordt Graph of de aanvraag is toegestaan op basis van de machtigingen die aan de app zijn verleend en de machtigingen die de aangemelde gebruiker heeft. Over het algemeen geeft deze fout aan dat de gebruiker niet voldoende bevoegdheden heeft om de aanvraag uit te voeren of dat de gebruiker geen licentie heeft voor de gegevens die worden gebruikt. Alleen gebruikers met de vereiste machtigingen of licenties kunnen de aanvraag indienen.
 
-**403 niet toegestaan: de juiste resource-API is geselecteerd.**
+**403 Verboden: Hebt u de juiste resource-API geselecteerd?**
 
-API-services zoals Microsoft Graph Controleer of de AUD claim (doelgroep) in het ontvangen toegangstoken overeenkomt met de waarde die wordt verwacht voor zichzelf, en zo niet, wordt de fout 403 niet toegestaan. Er is een veelvoorkomende fout opgetreden bij het gebruik van een token dat is verkregen voor Azure AD Graph-Api's, Outlook Api's of SharePoint/OneDrive-Api's voor het bellen van Microsoft Graph (of omgekeerd). Zorg ervoor dat de bronnen (of het bereik) van de app een token verkrijgen voor overeenkomsten met de API die de app aanroept.
+API-services zoals Microsoft Graph controleren of de aud-claim (doelgroep) in het ontvangen toegangs token overeenkomt met de waarde die ze voor zichzelf verwacht, en zo niet, resulteert dit in een fout van 403 Verboden. Een veelvoorkomende fout die deze foutmelding tot gevolg heeft, is het gebruik van een token dat is verkregen voor Azure AD Graph-API's, Outlook-API's of SharePoint/OneDrive-API's om Microsoft Graph aan te roepen (of omgekeerd). Zorg ervoor dat de resource (of het bereik) waar de app een token voor verkrijgt, overeenkomt met de API die door de app wordt aangeroepen.
 
-**400 ongeldige aanvraag of 403 niet toegestaan: heeft de gebruiker naleven van de beleidsregels voor voorwaardelijke toegang van de organisatie?**
+**400 Slechte aanvraag of 403 Verboden: Voldoet de gebruiker aan het beleid voor voorwaardelijke toegang (conditional access, CA) van de organisatie?**
 
-Een gebruiker die op basis van de beleidsregels van een organisatie de toegang krijgt tot Microsoft Graph-bronnen via de app kan worden aanvraagd voor aanvullende informatie die niet aanwezig is in het toegangstoken dat de app oorspronkelijk heeft aangeschaft. In dit geval ontvangt uw app een 400 met een *interaction_required* fout tijdens het verkrijgen van een toegangstoken of een 403 met *insufficient_claims* fout bij het bellen met Microsoft Graph. In beide gevallen bevat de fout respons aanvullende informatie die kan worden weergegeven aan het eindpunt voor de autorisatie van de gebruiker voor aanvullende informatie (zoals meervoudige verificatie of apparaatregistratie).
+Op basis van het CA-beleid van een organisatie kan een gebruiker die toegang heeft tot Microsoft Graph-bronnen via uw app worden aangevochten voor aanvullende informatie die niet aanwezig is in het access-token dat uw app oorspronkelijk heeft verkregen. In dit geval ontvangt uw app een 400 met een *interaction_required*-fout tijdens het verkrijgen van toegangstokens of een 403 met *insufficient_claims*-fout bij het aanroepen van Microsoft Graph. In beide gevallen bevat de foutreactie aanvullende informatie die kan worden gepresenteerd aan het geautoriseerde eindpunt om de gebruiker uit te dagen voor aanvullende informatie (zoals meervoudige verificatie of apparaatinschrijving).
 
-- [Voorwaarden voor voorwaardelijke toegang verwerken met MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [Richtlijnen voor ontwikkelaars voor Azure Active Directory voorwaardelijke toegang](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [Problemen met voorwaardelijke toegang afhandelen met MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Ontwikkelaarsbegeleiding voor voorwaardelijke toegang Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
