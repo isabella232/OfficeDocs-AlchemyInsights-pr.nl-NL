@@ -1,5 +1,5 @@
 ---
-title: Toepassingen migreren
+title: Migrerende toepassingen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: 0664ec09a9633165ff0a7d4b33320b14abf7c4e7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975312"
 ---
-# <a name="migrating-applications"></a>Toepassingen migreren
+# <a name="migrating-applications"></a>Migrerende toepassingen
 
-[Bronnen voor het migreren van toepassingen naar Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) -bronnen die u helpen bij het migreren van toepassings toegang en authenticatie naar Azure Active Directory (Azure AD).
+[Resources voor het migreren van toepassingen naar Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) - Resources om u te helpen bij het migreren van toepassingstoegang en verificatie naar Azure Active Directory (Azure AD).
 
-[Toepassings verificatie van Active Directory Federation Services verplaatsen naar Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) -ontwikkelaars gerichte richtlijnen voor het migreren van toepassingen van Active Directory Federation Services naar Azure Active Directory.
+[Toepassingsverificatie](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) verplaatsen van Active Directory Federation Services naar Azure Active Directory - Richtlijnen voor ontwikkelaars voor het migreren van toepassingen van Active Directory Federation Services naar Azure Active Directory.
