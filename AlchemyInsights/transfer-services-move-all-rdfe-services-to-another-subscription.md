@@ -1,5 +1,5 @@
 ---
-title: Services overzetten-alle RDFE-Services naar een ander abonnement verplaatsen
+title: Transfer Services - Alle RDFE-services verplaatsen naar een ander abonnement
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940033"
 ---
-# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Services overzetten-alle RDFE-Services naar een ander abonnement verplaatsen
+# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Transfer Services - Alle RDFE-services verplaatsen naar een ander abonnement
 
 **Resources verplaatsen**
 
-Azure-resources kunnen worden verplaatst naar een ander Azure-abonnement of resourcegroep onder hetzelfde abonnement met behulp van Azure Portal, Azure PowerShell, Azure CLI of de REST API om bronnen te verplaatsen.
+Azure-resources kunnen worden verplaatst naar een ander Azure-abonnement of resourcegroep onder hetzelfde abonnement met behulp van Azure Portal, Azure PowerShell, Azure CLI of de REST-API om resources te verplaatsen.
 
-Zie de volgende artikelen voor informatie over het verplaatsen van bronnen.
+Zie het volgende voordat u resources kunt verplaatsen:
 
-- [Controlelijst voor het verplaatsen van resources](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
+- [Controlelijst voordat u resources verplaatst](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
 - [Services die kunnen worden verplaatst](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [De verhuizing valideren](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
-- [Richtlijnen voor services](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [De move valideren](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
+- [Richtlijnen voor services verplaatsen](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-U kunt de volgende bronnen gebruiken om bestaande bronnen te verplaatsen naar een andere resourcegroep of een ander abonnement:
+Als u bestaande resources wilt verplaatsen naar een andere resourcegroep of een ander abonnement, kunt u het volgende gebruiken:
 
-- [Azure-Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
+- [Azure-portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
 - [Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
 - [Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
-- [REST-API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
+- [REST API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
 
-Zelfstudie: [Azure-resources naar een andere resourcegroep of een ander abonnement verplaatsen](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
+Zelfstudie: [Azure-resources verplaatsen naar een andere resourcegroep of een ander abonnement](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
 
 **Fouten oplossen met Azure Resource Manager**
 
-Raadpleeg de volgende artikelen voor meer informatie over veelvoorkomende fouten en informatie over het oplossen van fouten in Azure. Als u de foutcode voor de implementatiefout niet kunt vinden, raadpleegt u [foutcode zoeken](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
+Raadpleeg de onderstaande artikelen voor meer informatie over enkele veelvoorkomende Azure-implementatiefouten en ontvang informatie om deze op te lossen. Zie Foutcode zoeken als u de foutcode voor de implementatiefout [niet kunt vinden.](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code)
 
 - [Implementatiefouten oplossen](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
-- [Problemen met het verplaatsen van Azure-resources naar nieuwe resourcegroep of een abonnement oplossen](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
+- [Problemen met het verplaatsen van Azure-resources naar nieuwe resourcegroep of -abonnement oplossen](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
 
-Als u een upgrade van uw Azure-abonnement wilt uitvoeren, bijvoorbeeld over het overstappen van gratis naar betaald, moet u uw abonnement converteren.
+Houd er rekening mee dat als u uw Azure-abonnement wilt upgraden, zoals overstappen van gratis naar betalen per gebruik, u uw abonnement moet converteren.
 
-- Als u een gratis proefversie wilt upgraden, raadpleegt u [uw gratis proefabonnement upgraden of een Microsoft-abonnement voor](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)meer informatie.
-- Zie [uw abonnement op Azure pay-to-go wijzigen in een andere aanbieding](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)als u een account voor betalen naar wilt wijzigen.
+- Als u een gratis proefabonnement wilt upgraden, zie Uw gratis proefabonnement of Microsoft-Imagine Azure-abonnement upgraden naar [Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription).
+- Zie Uw [Azure Pay-As-You-Go-abonnement wijzigen](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)in een andere aanbieding als u een pay-as-you-go-account wilt wijzigen.
 
-**Een Azure-abonnement aan de Azure Active Directory-Tenant toevoegen of hieraan koppelen:**
+**Een Azure-abonnement toevoegen of koppelen aan uw Azure Active Directory tenant:**
 
-1. Meld u aan en selecteer het abonnement dat u wilt gebruiken vanaf de [pagina Abonnementen in azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Selecteer **map wijzigen**.
-3. Bekijk eventuele waarschuwingen die worden weergegeven en selecteer vervolgens **wijzigen**.
-4. De map wordt voor het abonnement gewijzigd en er wordt een bericht weergegeven.
-5. Gebruik de *adreslijst* wisselaar om naar de nieuwe adreslijst te gaan. Het duurt maximaal 10 minuten voordat alles correct wordt weergegeven.
+1. Meld u aan en selecteer het abonnement dat u wilt gebruiken op [de pagina Abonnementen in azure portal.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Selecteer **Adreslijst wijzigen.**
+3. Controleer eventuele waarschuwingen die worden weergegeven en selecteer vervolgens **Wijzigen.**
+4. De adreslijst wordt gewijzigd voor het abonnement en u krijgt een succesbericht.
+5. Gebruik de *adreslijstwisselaar* om naar uw nieuwe adreslijst te gaan. Het kan tot 10 minuten duren voordat alles correct wordt uitgevoerd.
 
 **Aanbevolen documenten**
 
 - [Eigendom van een Azure-abonnement overdragen](https://docs.microsoft.com/azure/billing-subscription-transfer)
-- [Resources verplaatsen naar een nieuwe resourcegroep of een ander abonnement](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
-- [Bronnen beheren met behulp van Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
+- [Resources verplaatsen naar nieuwe resourcegroep of -abonnement](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
+- [Resources beheren met Behulp van Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)

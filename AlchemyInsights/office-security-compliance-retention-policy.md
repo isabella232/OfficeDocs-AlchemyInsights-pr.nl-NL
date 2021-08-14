@@ -14,43 +14,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 06d7ef59d8ce31e0b22635e68638219bc491ff98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985612"
 ---
 # <a name="more-info-about-retention-policies"></a>Meer informatie over bewaarbeleid
 
-Voor de meeste organisaties wordt het volume en de complexiteit van hun gegevens groter gemaakt, met uitbreiding per e-mail, documenten, chatberichten en meer. Het is belangrijk dat u deze informatie daadwerkelijk beheert of bestuurt, en dat u de volgende doelen kunt bereiken met een bewaarbeleid. Ga naar de volgende koppelingen voor meer informatie over bewaarbeleid:
+Voor de meeste organisaties neemt het volume en de complexiteit van hun gegevens dagelijks toe: e-mail, documenten, chatberichten en meer. Het effectief beheren of beheren van deze informatie is belangrijk en een bewaarbeleid kan u helpen deze doelen te bereiken. Ga naar deze koppelingen voor meer informatie over bewaarbeleid:
 
-## <a name="a-from-security-and-compliance-center"></a>A) van beveiligings-en compliance Center
+## <a name="a-from-security-and-compliance-center"></a>A) Van beveiligings- en compliancecentrum
 
-- Ga naar beveiliging en compliance > data governance > bewaren
-  - Zie [Dit](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artikel
+- Ga naar Beveiligings- en compliancebeheer > Data governance > Retention
+  - Zie [DIT](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artikel
 
-- Ga naar beveiliging en compliance > eDiscovery> Advanced eDiscovery 
-  - Zie [Dit](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artikel
+- Ga naar Beveiligings- en compliance-> eDiscovery-> Advanced eDiscovery 
+  - Zie [DIT](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artikel
 
-- Ga naar beveiliging en compliance > classificaties > bewaren
-  - Zie de volgende artikelen
-    - [Vertrouwelijkheids labels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- Ga naar Beveiligings- en compliance-> classificaties > bewaring
+  - Bekijk deze artikelen
+    - [Gevoeligheidslabels](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
     - [Overzicht van labels](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) verouderd eDiscovery-beleid
+## <a name="b-legacy-ediscovery-policies"></a>B) Oudere eDiscovery-beleidsregels
 
-- Zie [Dit](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikel
+- Zie [DIT](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikel
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) het beleid voor het afsluiten en verwijderen van sites
+## <a name="c-site-closure-and-deletion-policies"></a>C) Beleid voor het sluiten en verwijderen van site
 
-- Zie [Dit](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikel  
+- Zie [DIT](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikel  
 
 ## <a name="d-information-rights-management-irm"></a>D) Information Rights Management (IRM)
 
-- Zie de volgende artikelen
-  - [IRM voor een lijst/bibliotheek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Overzicht van IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- Bekijk deze artikelen
+  - [IRM in een lijst/bibliotheek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM-overzicht](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> We raden u ten zeerste aan beveiligings-en compliance policies te overstappen als u nog steeds gebruikmaakt van oudere eDiscovery-of IRM-of site sluitings-en verwijderingsbeleid.
+> We raden u ten zeerste aan over te gaan op beveiligings- en compliancebeleid als u nog steeds het oudere eDiscovery- of IRM- of sitebevestigings- en verwijderingsbeleid gebruikt.

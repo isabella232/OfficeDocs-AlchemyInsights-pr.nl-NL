@@ -1,5 +1,5 @@
 ---
-title: Proefversie Microsoft 365-Tenant geblokkeerd door Spamhaus
+title: Proefversie Microsoft 365 door Spamhaus geblokkeerd
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940048"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Fout bij het verzenden van een e-mailbericht van Microsoft 365: client host geblokkeerd met spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Fout wanneer een gebruiker Microsoft 365 proefversie e-mail verzendt: Clienthost geblokkeerd met Spamhaus
 
-Het lijkt erop dat u e-mail verzendt van een nieuwe Microsoft 365-proef organisatie. Om misbruik te helpen voorkomen, blokkeren we IP-adressen waarvan bekend is dat ze eerder zijn aangetast. Deze specifieke controle wordt niet meer afgedwongen nadat u betaalde licenties hebt gebruikt. Mogelijk kunt u de tijdelijke vrijs functie vragen door een nieuw IP-adres van uw internetprovider (ISP) te vragen of door de blokkering van de [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) -website te verwijderen.
+Het lijkt erop dat u e-mail verstuurt vanuit een nieuwe Microsoft 365 proeforganisatie. Om misbruik te voorkomen, blokkeren we IP-adressen die eerder zijn gecompromitteerd. Deze specifieke controle wordt niet meer afgedwongen nadat u betaalde licenties hebt gebruikt. Mogelijk kunt u tijdelijke verlichting krijgen door een nieuw IP-adres te vragen bij uw internetprovider of door het blok te verwijderen van de [website spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)

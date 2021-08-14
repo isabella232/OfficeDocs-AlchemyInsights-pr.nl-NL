@@ -1,5 +1,5 @@
 ---
-title: 1491-zoeken met niet-verwachte resultaten-resultaten
+title: 1491-search-not-returning-expected-results
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e926db0d43f7586809ab78db66e861b8908a0ce61fb84498d1993bcc301d5f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985536"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Inhouds zoekhulpmiddel voor het vinden van relevante informatie
+# <a name="content-search-tool-to-find-relevant-info"></a>Hulpprogramma Inhoud zoeken om relevante informatie te vinden
 
-Gebruik het hulpprogramma voor inhoudsbeheer in het beveiligings & nalevings centrum om snel e-mail te vinden in Exchange-postvakken, documenten op SharePoint-sites en OneDrive-locaties, en chat gesprekken in Skype voor bedrijven. Met het hulpprogramma voor het zoeken van inhoud kunt u zoeken naar e-mail, documenten en chat gesprekken in Microsoft 365 samenwerkingsprogramma's, zoals Microsoft teams en Microsoft 365 groepen.
+Gebruik het hulpprogramma Inhoud zoeken in het beveiligings- & compliancecentrum om snel e-mail te vinden in Exchange-postvakken, documenten op SharePoint-sites en OneDrive-locaties en chatgesprekken in Skype voor Bedrijven. U kunt het zoekprogramma voor inhoud gebruiken om te zoeken naar e-mail, documenten en chatgesprekken in Microsoft 365 samenwerkingshulpmiddelen zoals Microsoft Teams en Microsoft 365 Groepen.
 
 
-Voordat u [inhoud zoeken](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) via het [beveiligings & compliance Center](https://sip.protection.office.com/homepage), moet u de configuratie-instellingen voltooien, waaronder het [configureren van machtigingen](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search), het [instellen van downloadsnelheden](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) en het [exporteren van instellingen](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results).
+Voordat u [Inhoud](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [zoeken](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)gebruikt vanuit het [Beveiligings- & Compliancecentrum,](https://sip.protection.office.com/homepage)wilt u configuratie-instellingen voltooien, waaronder machtigingen configureren, [downloadsnelheden](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) instellen en [exportinstellingen instellen.](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)
 
-Meer informatie over het zoeken van inhoud door de [vereisten en beperkingen](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)te herzien, [gedeeltelijk geïndexeerde items te onderzoeken](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten te bedenken.
+Meer informatie over Zoeken naar inhoud door de vereisten en limieten te [bekijken,](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)gedeeltelijk [geïndexeerde items](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) en andere resultaten te onderzoeken waar u rekening mee moet houden.
 
-Wanneer u de configuratie-instellingen en beperkingen van inhoud zoeken hebt gecontroleerd, raadpleegt u [inhoud zoeken </a> voor het zoeken naar items in de Place Place, zoals e-mail, documenten en chat gesprekken in uw organisatie](https://docs.microsoft.com/microsoft-365/compliance/content-search).
+Nadat u de configuratie-instellingen en beperkingen van Zoeken naar inhoud hebt doorgezoekd, raadpleegt u Inhoud zoeken gebruiken om te zoeken naar [ </a> in-place items, zoals e-mail, documenten en chatgesprekken in uw organisatie.](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-Voor een complete stap-voor-stap van het zoeken van inhoud raadpleegt u [zoeken naar inhoud in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) voor meer informatie.
+Zie Zoeken naar inhoud [in](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) Microsoft 365 voor een volledige stap-voor-stap van Inhoud zoeken.

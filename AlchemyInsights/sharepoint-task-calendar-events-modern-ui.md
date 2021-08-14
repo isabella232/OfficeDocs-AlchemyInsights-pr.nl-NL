@@ -1,5 +1,5 @@
 ---
-title: Lijst met gebeurtenissen met taken en Agenda's in de moderne GEBRUIKERSINTERFACE
+title: Lijst met taken en agendagebeurtenissen in de moderne gebruikersinterface
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941327"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Lijst met gebeurtenissen met taken en Agenda's in de moderne GEBRUIKERSINTERFACE
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Lijst met taken en agendagebeurtenissen in de moderne gebruikersinterface
 
-Er kan een fout worden weergegeven in de weergave van de naam van de taak in de weergave van `< ID >_.000` taken en gebeurtenissen lijsten, wanneer u ze wilt weergeven in de moderne weergave.
+Mogelijk ziet u een fout in de weergave van 'Titel' zoals in taken- en gebeurtenislijsten wanneer u deze probeert weer te geven `< ID >_.000` in de moderne weergave.
 
-Bepaalde soorten lijsten en bibliotheken zijn nog niet gebouwd om weer te geven in een moderne gebruikersinterface, zoals een takenlijst of gebeurtenissenlijst.
+Bepaalde typen lijsten en bibliotheken zijn nog niet zo gemaakt dat ze worden weergegeven in een moderne gebruikersinterface, zoals een takenlijst of lijst met gebeurtenissen.
 
-Een van de belangrijkste punten voor ons is het ondersteunen van taken en gebeurtenissen lijsten als onderdeel van de moderne UX. Maar we hebben geen enkele afkorting van deze ondersteuning, dus ga verder met de klassieke ervaring voor deze lijsten.
+Een van de prioriteitsitems voor ons is het ondersteunen van TAKEN- en GEBEURTENISlijsten als onderdeel van de moderne UX. We hebben echter geen ETA voor deze ondersteuning, dus gebruik de klassieke ervaring voor deze lijsten.
 
-Voor meer informatie gaat u naar [optimaal gebruik van moderne lijsten en bibliotheken](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Ga voor meer informatie naar [Maximaliseren van het gebruik van moderne lijsten en bibliotheken.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
