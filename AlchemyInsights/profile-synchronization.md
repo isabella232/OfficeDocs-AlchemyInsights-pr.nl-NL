@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801764"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923639"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wanneer wordt mijn profiel gewijzigd met de SharePoint-app voor gebruikersprofielen?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wanneer worden mijn profielwijzigingen gesynchroniseerd met SharePoint gebruikersprofieltoepassing?
 
-In SharePoint Online wordt de timeropdracht Active Directory-import gebruikt om gebruikers en groepen te importeren in de Gebruikersprofieltoepassing. 
+SharePoint Online gebruikt de Active Directory Import timer job (AD Import) om gebruikers en groepen te importeren in de gebruikersprofieltoepassing. 
   
-1. Wijzigingen in de webversie van SharePoint Online worden gesynchroniseerd met de Gebruikersprofieltoepassing. Deze wijzigingen worden in batches verwerkt.
+1. Met AD Importeren worden wijzigingen gesynchroniseerd van de SharePoint Online Directory Store naar de gebruikersprofieltoepassing. Deze wijzigingen worden verwerkt in batches.
     
-2. De timeropdracht wordt uitgevoerd totdat de wijzigingen worden gesynchroniseerd.
+2. De timer wordt uitgevoerd totdat de wijzigingen zijn gesynchroniseerd.
     
 > [!NOTE]
-> Hoe lang het duurt voordat de taak wordt uitgevoerd, is afhankelijk van het aantal wijzigingen in het proces. Een groot aantal wijzigingen duurt langer. De SLA (Service Level Agreement) geeft aan dat een wijziging van een gebruiker in de SharePoint Online-Directory binnen 24 uur wordt doorgevoerd in de Gebruikersprofieltoepassing. 
+> De tijd die nodig is om de taak uit te voeren, is afhankelijk van het aantal wijzigingen in het proces. Een groot aantal wijzigingen duurt langer. In de SLA (Service Level Agreement) staat dat een wijziging in een gebruiker in de SharePoint Online Directory binnen 24 uur wordt weerspiegeld in de gebruikersprofieltoepassing. 
   
-[Meer informatie over het synchroniseren van gebruikersprofielen in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Meer informatie over gebruikersprofielsynchronisatie in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Een verwijderde OneDrive herstellen
+title: Een verwijderde OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: f7e99a75fdac420cc2cea0ec10be681bcb2b98ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6310e3e225392a911bd1f5ae18dc3d49c6b50f0a32f603ceb60816657d5b3fc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958904"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Een verwijderde OneDrive herstellen
+# <a name="restore-a-deleted-onedrive"></a>Een verwijderde OneDrive
 
-Nadat u een gebruiker hebt verwijderd, kunt u gedurende 30 dagen toegang krijgen tot de OneDrive van de gebruiker via het Microsoft 365-Beheercentrum. Andere gebruikers kunnen nog steeds toegang krijgen tot gedeelde inhoud in de OneDrive voor de periode die u hebt ingesteld in het OneDrive-Beheercentrum. Zie voor meer informatie over [het instellen van de standaard bestands bewaaring voor verwijderde OneDrive-gebruikers](https://go.microsoft.com/fwlink/?linkid=874267). Na die tijd wordt de OneDrive naar de Prullenbak verplaatst, gedurende 93 dagen, en wordt deze verwijderd.
+Nadat u een gebruiker hebt verwijderd, hebt u 30 OneDrive toegang tot de Microsoft 365-beheercentrum gebruiker. Andere gebruikers kunnen toegang blijven krijgen tot gedeelde inhoud in OneDrive de periode die u hebt ingesteld in het OneDrive beheercentrum. (Zie De standaardbestandsretentie instellen voor verwijderde OneDrive gebruikers voor meer informatie over het instellen [van dit bestand.)](https://go.microsoft.com/fwlink/?linkid=874267) Na die tijd wordt de OneDrive 93 dagen naar de prullenbak verplaatst en vervolgens verwijderd.
   
-Na de eerste 30 dagen, wanneer de verwijderde gebruiker niet meer wordt weergegeven in het Microsoft 365-Beheercentrum, krijgt u toegang tot de OneDrive van de gebruiker via PowerShell. Zie [een verwijderde OneDrive herstellen](https://go.microsoft.com/fwlink/?linkid=874269)voor informatie.
+Na de eerste 30 dagen, wanneer de verwijderde gebruiker niet meer wordt weergegeven in de Microsoft 365-beheercentrum, hebt u toegang tot de OneDrive van de gebruiker via PowerShell. Zie Een [verwijderde OneDrive](https://go.microsoft.com/fwlink/?linkid=874269)voor meer informatie.
   
 

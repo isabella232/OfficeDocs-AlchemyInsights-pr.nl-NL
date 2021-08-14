@@ -1,5 +1,5 @@
 ---
-title: Notitieblokken delen in OneNote voor Internet of OneNote 2016
+title: Notitieblokken delen in webversie van OneNote of OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 524141e55f72e96d69bca407a941ab694326aaaa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f66f55325f52ed89b077923615de03d7818c50cab0043dca98aadca3e725bc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958040"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Notitieblokken delen in OneNote voor Internet of OneNote 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Notitieblokken delen in webversie van OneNote of OneNote 2016
 
-In OneNote kunt u notities delen door anderen uit te nodigen om het notitieblok te bekijken en te wijzigen, of door een koppeling te maken naar een pagina met notities die u kunt plakken in een e-mailbericht, blog of webpagina. Zie voor meer informatie [OneNote voor het web gebruiken om notities met anderen te delen](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+In webversie van OneNote kunt u notities delen door anderen uit te nodigen om uw notitieblok te bekijken en wijzigingen aan te brengen, of door een koppeling te maken naar een pagina met notities die u in een e-mail, blog of webpagina kunt plakken. Zie Gebruik webversie van OneNote om notities te delen met [andere personen voor meer informatie.](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
-Zorg dat in OneNote 2016 het notitieblok van OneNote 2016 zich in OneDrive bevindt, zodat anderen het kunnen bereiken. Als u wilt delen, kunt u personen uitnodigen in e-mail of een koppeling voordelen krijgen. Zie [een OneNote 2016 voor Windows-notitieblok delen met anderen](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285) voor meer informatie.
+Zorg OneNote 2016 ervoor dat uw OneNote 2016 is op OneDrive zodat anderen er bij kunnen. Als u wilt delen, kunt u personen per e-mail uitnodigen of een koppeling voor delen krijgen. Zie Een notitieblok delen voor OneNote 2016 voor Windows met andere personen voor [meer informatie.](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)

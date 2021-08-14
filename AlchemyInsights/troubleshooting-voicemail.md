@@ -1,5 +1,5 @@
 ---
-title: 'Problemen met voicemailberichten oplossen '
+title: 'Problemen met voicemail oplossen '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972378"
 ---
-# <a name="troubleshooting-voicemail"></a>Problemen met voicemail berichten oplossen
+# <a name="troubleshooting-voicemail"></a>Problemen met voicemail oplossen
 
-Zorg ervoor dat de functie bezet met bezet doel is.
+Controleer of de functie Bezet op bezet opzettelijk is.
 
 Als deze functie niet nodig is voor deze gebruiker:
 
-1. Ga naar het [teams-Beheercentrum](https://admin.teams.microsoft.com/policies/calling).
-1. Ga aan de linkerkant naar het beleid voor **spraak**  >  **oproepen** om  >  **beleid te beheren** voor het **bellen beleid**.
-1. Selecteer **gebruikers beheren**.
-1. Gebruikers zoeken en het gespreks beleid wijzigen in een oproep dat bezet is **, is beschikbaar wanneer u in gesprek** bent **.**
+1. Ga naar [Teams beheercentrum.](https://admin.teams.microsoft.com/policies/calling)
+1. Navigeer aan de **linkerkant door**  >  **beleidsregels voor bellen** Beleid  >  **beheren** in het **oproepbeleid.**
+1. Selecteer **Gebruikers beheren.**
+1. Zoek naar de gebruiker en wijzig het oproepbeleid in een beleid met Bezet op Bezet **is beschikbaar wanneer u in een gesprek naar** Uit **belt.**
 1. Klik op **Toepassen**.
 > [!NOTE]
-> Het kan maximaal 24 uur duren voordat de wijzigingen zijn doorgevoerd.
+> Het kan tot 24 uur duren voordat wijzigingen in beleidsregels worden gerepliceerd.
 
-Zie voor meer informatie over deze functie: [bezet met bezet is beschikbaar in gesprek](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Voor meer informatie over deze functie raadpleegt u: [Bezet op Bezet is beschikbaar tijdens een gesprek.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

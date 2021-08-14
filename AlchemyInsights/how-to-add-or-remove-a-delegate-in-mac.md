@@ -1,5 +1,5 @@
 ---
-title: Een gemachtigde toevoegen aan of verwijderen uit Mac
+title: Een gemachtigde toevoegen of verwijderen in Mac
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945368"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Een gemachtigde toevoegen aan of verwijderen uit Mac
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Een gemachtigde toevoegen of verwijderen in Mac
 
-Ga als volgt te werk om een gemachtigde toe te voegen aan of te verwijderen uit een Mac:
+Ga als volgt te werk om een gemachtigde toe te voegen of te verwijderen in Mac:
 
-**Een gemachtigde toevoegen in Mac**:
+**Een gemachtigde toevoegen in Mac:**
 
-1. Selecteer in het menu **extra** de optie **accounts**.
-1. Selecteer het Exchange-account dat u wilt gebruiken voor toegang tot de gedelegeerde items, klik op **Geavanceerd** en klik vervolgens op **gemachtigden**.
-1. Klik onder **personen waarvoor ik gemachtigde ben** op **toevoegen**. .
-1. Typ de naam van de persoon die u heeft toegevoegd als gemachtigde.
-1. Selecteer de naam van de persoon in de zoekresultaten en klik op **toevoegen**.
+1. Selecteer accounts **in het** menu **Extra.**
+1. Selecteer het Exchange account dat u gebruikt om toegang te krijgen tot de gedelegeerde items, klik op Geavanceerd **en** klik vervolgens **op Gedelegeerden.**
+1. Klik **onder Personen voor wie ik een gemachtigde ben** op **Toevoegen.** .
+1. Typ de naam van de persoon die u als gedelegeerde heeft toegevoegd.
+1. Selecteer de naam van de persoon in de zoekresultaten en klik vervolgens op **Toevoegen.**
  
-**Een gemachtigde verwijderen in Mac**:
+**Een gedelegeerde verwijderen in Mac:**
 
-1. Selecteer in het menu **extra** de optie **accounts**.
-1. Selecteer het Exchange-account dat u wilt wijzigen, klik op **Geavanceerd** en klik vervolgens op het tabblad Gemachtigden op het tabblad Gemachtigden.
-1. Selecteer onder **personen waarvoor ik gemachtigde ben** de persoon waarvoor u geen gemachtigde meer wilt zijn en klik op **verwijderen**.
+1. Selecteer accounts **in het** menu **Extra.**
+1. Selecteer het Exchange account dat u wilt wijzigen, klik op **Geavanceerd** en klik vervolgens op het tabblad ****Gemachtigden.
+1. Selecteer onder Personen waarvoor ik een **gemachtigde ben** de persoon voor wie u geen gemachtigde meer wilt zijn en klik vervolgens op **Verwijderen.**

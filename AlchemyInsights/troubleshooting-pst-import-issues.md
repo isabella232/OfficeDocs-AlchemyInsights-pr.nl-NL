@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972414"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Problemen oplossen bij het importeren van een PST-bestand
 
-- Zie Problemen met het importeren van een PST-bestand van Outlook oplossen als u importeert in de [Outlook-client zelf.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Als u importeert in de Outlook client zelf, zie Problemen met het importeren van een [PST-bestand](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)Outlook oplossen.
 
-- Als u importservice gebruikt en deze vastzit, moet elk PST-bestand dat u uploadt naar de Azure Storage-locatie, niet groter zijn dan 20 GB. PST-bestanden groter dan 20 GB kunnen van invloed zijn op de prestaties van het PST-importproces. Zie Problemen die van invloed zijn op [pst-importtaken](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)voor meer informatie over het oplossen van problemen met vastgelopen taken.
+- Als u importservice gebruikt en deze vastzit, moet elk PST-bestand dat u uploadt naar de Azure Storage niet groter zijn dan 20 GB. PST-bestanden groter dan 20 GB kunnen van invloed zijn op de prestaties van het PST-importproces. Zie Problemen die van invloed zijn op [pst-importtaken](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)voor meer informatie over het oplossen van problemen met vastgelopen taken.
 
 - Als u de status van een specifieke importklus wilt controleren, gebruikt [u Get-MailboxImportRequest -batchname.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest)
 

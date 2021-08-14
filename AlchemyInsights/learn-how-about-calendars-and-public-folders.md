@@ -1,5 +1,5 @@
 ---
-title: 612 meer informatie over agenda's en openbare mappen
+title: 612 Meer informatie over agenda's en openbare mappen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "612"
 - "3800010"
 ms.assetid: 390e208c-6f7f-4430-86b1-068f66ea3243
-ms.openlocfilehash: 648d4ede9047f9330518aff71f427bf60c604ec0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 80327b9324366c9ed6f443e6bf1116e3f2cc4b159dbb52e1347073e82273b93c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945152"
 ---
 # <a name="learn-about-using-public-folders-in-outlook"></a>Meer informatie over het gebruik van openbare mappen in Outlook
 
-Met openbare mappen in Outlook kunt u op een handige plaats informatie verzamelen, organiseren en delen over bepaalde onderwerpen of projecten binnen uw organisatie. Zie [een openbare map maken en delen in Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97)voor meer informatie.
+Openbare mappen in Outlook bieden u een geweldige plek om informatie over bepaalde onderwerpen of projecten binnen uw organisatie te verzamelen, te organiseren en te delen. Zie Een openbare map maken [en delen in](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97)Outlook.

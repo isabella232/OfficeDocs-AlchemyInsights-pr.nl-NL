@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Gedragscode Microsoft Open Source
-Dit project heeft vastgesteld, de [Microsoft Open Source van de gedragscode](https://opensource.microsoft.com/codeofconduct/). Zie de [Code van voeren Veelgestelde vragen](https://opensource.microsoft.com/codeofconduct/faq/) voor meer informatie of neem contact op met [opencode@microsoft.com](mailto:opencode@microsoft.com) met extra vragen of opmerkingen.
+## <a name="microsoft-open-source-code-of-conduct"></a>Gedragscode van Microsoft Open Source
+Dit project heeft de [Microsoft Open Source-gedragscode](https://opensource.microsoft.com/codeofconduct/) aangenomen.
+Zie de veelgestelde vragen [over de gedragscode of](https://opensource.microsoft.com/codeofconduct/faq/) neem contact op met [opencode@microsoft.com](mailto:opencode@microsoft.com) vragen of opmerkingen voor meer informatie.

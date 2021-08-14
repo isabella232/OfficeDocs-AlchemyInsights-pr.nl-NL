@@ -4,10 +4,10 @@ titel: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebau
 - 9003349
 ---
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>Problemen met aanwezigheidsoplossers in Outlook oplossen
+# <a name="troubleshoot-presence-issues-in-outlook"></a>Problemen met aanwezigheidsoplossers in Outlook
 
-Als u problemen met de aanwezigheidsstatus voor een gebruiker in Outlook wilt opsporen en [corrigeren,](https://aka.ms/SaRA-TeamsPresenceScenario)downloadt en gebruikt u Microsoft Ondersteunings- en herstelassistent > Teams Presence Scenario .
+Als u problemen wilt opsporen en corrigeren met de aanwezigheidsstatus van een gebruiker in Outlook, downloadt en Ondersteunings- en herstelassistent > [Teams Aanwezigheidsscenario](https://aka.ms/SaRA-TeamsPresenceScenario).
 
-Als u handmatig een probleem met aanwezigheid in Outlook wilt oplossen, volgt u de stappen in [Aanwezigheidsstatusproblemen](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)van gebruikers in Outlook.
+Als u handmatig een probleem met aanwezigheid in Outlook wilt oplossen, volgt u de stappen in [Aanwezigheidsstatusproblemen van](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)gebruikers in Outlook.
 
 Als de aanwezigheidsstatus niet wordt bijgewerkt in Teams, zie Uw werkelijke aanwezigheidsstatus wordt niet weergegeven [in Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
