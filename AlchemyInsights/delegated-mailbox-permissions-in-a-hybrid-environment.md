@@ -1,5 +1,5 @@
 ---
-title: Gedelegeerde postvak machtigingen in een hybride omgeving
+title: Gedelegeerde postvakmachtigingen in een hybride omgeving
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 84ce7c1a31ad3d44b10c892c1d6a1a5ef85de58d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e2b8e8948becbb1ac07ca340fb13038caf16f6093988a894e85e0cefb8a64a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948698"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Gedelegeerde postvak machtigingen in een hybride omgeving
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Gedelegeerde postvakmachtigingen in een hybride omgeving
 
-Afhankelijk van de versie van Exchange die u hebt geïnstalleerd in uw on-premises organisatie, moet u mogelijk enkele extra stappen uitvoeren om gedelegeerde postvak machtigingen in te stellen tussen de on-premises organisatie en Exchange Online in Microsoft 365. Als u meer wilt weten over het instellen van gedelegeerde machtigingen, raadpleegt [u Exchange configureren voor ondersteuning van gedelegeerde postvak machtigingen in een hybride implementatie](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+Afhankelijk van de versie van Exchange die u hebt geïnstalleerd in uw on-premises organisatie, moet u mogelijk enkele extra stappen ondernemen om gedelegeerde postvakmachtigingen in te stellen tussen uw on-premises organisatie en Exchange Online in Microsoft 365. Zie Configure Exchange to support delegated mailbox permissions in a hybrid deployment (Machtigingen voor gedelegeerde postvakken in een hybride implementatie) voor meer informatie over het instellen van [gedelegeerde machtigingen.](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)
   
