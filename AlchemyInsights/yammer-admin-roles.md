@@ -1,5 +1,5 @@
 ---
-title: Informatie over Yammer-beheerders
+title: Over Yammer beheerders
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51035730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989694"
 ---
-# <a name="about-yammer-admins"></a>Informatie over Yammer-beheerders
+# <a name="about-yammer-admins"></a>Over Yammer beheerders
 
 **Netwerkbeheerders**
 
-Globale beheerders worden automatisch gepromoveerd naar de rol geverifieerde beheerder in een Yammer-netwerk. In de volgende gevallen kan deze promotie niet correct worden uitgevoerd:
+Globale beheerders worden automatisch gepromoveerd naar de rol geverifieerde beheerder in een Yammer netwerk. In de volgende gevallen kan deze promotie niet correct worden uitgevoerd:
 
-- Er bestaan meerdere Yammer-netwerken en de beheerder wordt aangemeld bij de verkeerde. [Netwerkconsolidatie](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) is vereist om één Yammer-netwerk te kunnen gebruiken.
+- Er Yammer netwerken bestaan en de beheerder wordt aangemeld bij de verkeerde. [Netwerkconsolidatie](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) is vereist om bij één netwerk Yammer komen.
 - Azure PIM wordt gebruikt. De gebruiker wordt mogelijk niet lang genoeg gepromoveerd tot globale beheerder om de promotie te kunnen doen. Een toekomstige update voor Yammer kan dit probleem oplossen, maar het is het beste om gebruikers handmatig te promoveren naar globale beheerder.
-- Er is een synchronisatieprobleem met het Yammer-netwerk. In dit geval is een ondersteuningsaanvraag vereist voor verder onderzoek.
+- Er is een synchronisatieprobleem met het Yammer netwerk. In dit geval is een ondersteuningsaanvraag vereist voor verder onderzoek.
 
-Zie Yammer-beheerders beheren voor meer informatie over [Yammer-beheerdersrollen.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
+Zie Beheer Yammer beheerders voor meer informatie over Yammer [beheerders.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
 
 **Groepsbeheerders**
 
-Groepsbeheerders voor verbonden groepen van Microsoft 365 worden gesynchroniseerd met groepslidmaatschap vanuit Azure AD. Voor grote groepen kan deze synchronisatie een langere periode duren.
+Groepsbeheerders voor Microsoft 365 verbonden groepen worden gesynchroniseerd met groepslidmaatschap vanuit Azure AD. Voor grote groepen kan deze synchronisatie een langere periode duren.

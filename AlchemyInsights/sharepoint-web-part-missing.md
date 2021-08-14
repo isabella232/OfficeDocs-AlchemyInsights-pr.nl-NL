@@ -1,5 +1,5 @@
 ---
-title: Het webonderdeel Inhoudseditor of script editor ontbreekt
+title: Webonderdelen voor inhoudseditor of scripteditor ontbreken
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022602"
 ---
-# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Het webonderdeel Inhoudseditor of script editor ontbreekt
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Webonderdelen voor inhoudseditor of scripteditor ontbreken
 
-Twee webonderdelen die niet beschikbaar zijn in SharePoint voor Microsoft 365 moderne pagina's zijn het webonderdeel **Script Editor** en het **webonderdeel Inhoudseditor**. Er zijn echter moderne kant-en- [klare webonderdelen](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) die op een deel van dezelfde doeleinden kunnen voldoen. U kunt ook [aangepaste webonderdelen maken of de bestaande webonderdelen van script editor migreren](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) naar het SharePoint-Framework.  
+Twee webonderdelen die niet beschikbaar zijn in SharePoint voor Microsoft 365 moderne pagina's zijn het webonderdeel **Scripteditor** en het **webonderdeel Inhoudseditor.** Er zijn echter [moderne, out-of-the-box webonderdelen](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) die aan sommige van dezelfde doeleinden kunnen voldoen. U kunt ook aangepaste webonderdelen maken of de bestaande webonderdelen van de [scripteditor](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) migreren naar de SharePoint Framework.  
 
-Zie [waar zijn de webonderdelen van de Inhoudseditor en script editor?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd) voor meer informatie.
+Zie Waar zijn de webonderdelen Inhoudseditor en [Scripteditor in SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd) voor meer SharePoint?

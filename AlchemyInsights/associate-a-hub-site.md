@@ -1,5 +1,5 @@
 ---
-title: Een hub-site koppelen
+title: Een hubsite koppelen
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989622"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Bestaande site koppelen aan een hubsite
 
-Ga als volgt te werk om een bestaande site aan uw hubsite te koppelen:
+Ga als volgt te werk om een bestaande site te koppelen aan uw hubsite:
   
-1. Selecteer op uw site **instellingen** (het tandwiel pictogram in de rechterbovenhoek) en selecteer vervolgens **site-informatie**.
+1. Selecteer op uw site **Instellingen** (het tandwielpictogram in de rechterbovenhoek) en selecteer **vervolgens Sitegegevens.**
 
-2. Selecteer in het deelvenster **sitegegevens bewerken** in het menu site **koppeling** site de hubsite die u aan uw site wilt koppelen en klik op **Opslaan**. Het uiterlijk van uw site verandert in overeenstemming met de locatie van de hubsite en de navigatiebalk van de spil site wordt bovenaan weergegeven.
+2. Selecteer in **het deelvenster Sitegegevens** bewerken in het menu Hub **site association** de hubsite die u wilt koppelen aan uw site en klik vervolgens op **Opslaan.** Het uiterlijk van uw site wordt gewijzigd op die van de hubsite en de navigatiebalk van de hubsite wordt bovenaan weergegeven.
 
->**Ziet**
+>**Opmerking**
 >
->Als de optie voor de sitekoppeling van de hub niet beschikbaar is of als er geen sites worden vermeld, zijn hub-sites mogelijk niet ingeschakeld of is het niet mogelijk om sites te koppelen aan een hubsite. Neem contact op met uw beheerder voor meer informatie.
+>Als de optie Hub-site-vereniging niet aanwezig is of er geen sites worden vermeld, zijn hubsites mogelijk niet ingeschakeld of hebt u mogelijk geen machtiging om sites te koppelen aan een hubsite. Neem contact op met de beheerder voor meer informatie.
 >
->Er geldt geen limiet voor het aantal sites dat kan worden gekoppeld aan een hub-site.
+>Er is geen limiet voor het aantal sites dat kan worden gekoppeld aan een hubsite.
   
