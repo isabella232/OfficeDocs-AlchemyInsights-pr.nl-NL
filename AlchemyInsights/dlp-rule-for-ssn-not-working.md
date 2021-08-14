@@ -13,44 +13,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004977"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP-problemen met sofi-nummers
+# <a name="dlp-issues-with-social-security-numbers"></a>DLP-problemen met sociale-zekerheidsnummers
 
 **Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
 
-**DLP-problemen met naar ssn's**
+**DLP-problemen met SSN's**
 
-Ondervindt u problemen met **preventie van gegevensverlies (DLP)** voor inhoud met een **sofi-nummer (SSN)** voor het gebruik van een type gevoelige informatie in Microsoft 365? Als dit het geval is, moet u ervoor zorgen dat de inhoud de benodigde informatie bevat voor het opzoeken van het DLP-beleid. 
+Hebt u problemen met **Data Loss Prevention (DLP)** die niet werkt voor inhoud die een **SSN (Social Security Number)** bevat bij het gebruik van een type gevoelige informatie in Microsoft 365? Zo ja, zorg er dan voor dat uw inhoud de benodigde informatie bevat voor wat het DLP-beleid zoekt. 
   
-Als u bijvoorbeeld een SSN-beleid hebt geconfigureerd met een betrouwbaarheidsniveau van 85%, worden de volgende stappen geëvalueerd en moet de regel worden geactiveerd voor de regel:
+Voor een SSN-beleid dat is geconfigureerd met een betrouwbaarheidsniveau van 85%, worden de volgende gegevens geëvalueerd en moet de regel worden gedetecteerd om de regel te activeren:
   
-- **[Opmaak:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 cijfers in een opgemaakt of niet-opgemaakt patroon
+- **[Opmaak:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 cijfers, die mogelijk een opgemaakt of niet-opgemaakt patroon hebben
 
-- **[Patroon:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Vier functies zoeken naar naar ssn's met vier verschillende patronen:
+- **[Patroon:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Vier functies zoeken naar SSN's in vier verschillende patronen:
 
-  - Met Func_ssn vindt u naar ssn's met een sterke opmaak van vóór 2011, opgemaakt met streepjes of spaties (ddd-DD-dddd of ddd DD dddd)
+  - Func_ssn vindt SSN's met een sterke opmaak van vóór 2011 die zijn opgemaakt met streepjes of spaties (ddd-ddddd OR ddd ddddd)
 
-  - Met Func_unformatted_ssn vindt u naar ssn's met een sterke opmaak van vóór 2011 die niet is opgemaakt als negen opeenvolgende cijfers (ddddddddd)
+  - Func_unformatted_ssn vindt SSN's met een sterke opmaak van vóór 2011 die niet is opgemaakt als negen opeenvolgende cijfers (ddddddddd)
 
-  - Met Func_randomized_formatted_ssn vindt u post-2011-naar ssn's die zijn opgemaakt met streepjes of spaties (ddd-DD-dddd of ddd DD dddd)
+  - Func_randomized_formatted_ssn zoekt naar SSN's na 2011 die zijn opgemaakt met streepjes of spaties (ddd-dd-dddd OF ddd dd)
 
-  - Met Func_randomized_unformatted_ssn vindt u post-2011-naar ssn's die niet zijn opgemaakt als negen opeenvolgende cijfers (ddddddddd)
+  - Func_randomized_unformatted_ssn wordt na 2011 SSN's gevonden die niet zijn opgemaakt als negen opeenvolgende cijfers (ddddddddd)
 
-- **[Controlesom:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nee, er is geen controlesom.
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nee, er is geen Checksum
 
-- **[Definitie:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Een DLP-beleid is 85% zekerheid dat dit type gevoelige informatie is gedetecteerd als binnen een nabijheid van 300 tekens:
+- **[Definitie:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Een DLP-beleid is 85% ervan overtuigd dat dit type gevoelige informatie is gedetecteerd als dit binnen een nabijheid van 300 tekens:
 
-  - Met de [functie Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) vindt u de inhoud die overeenkomt met het patroon.
+  - Met [de Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) wordt inhoud gevonden die overeenkomt met het patroon.
 
-  - Er is een trefwoord uit [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) gevonden. Voorbeelden van trefwoorden  *zijn: Social Security, Social Security #, SOC sec, SSN*  . Het volgende voorbeeld wordt bijvoorbeeld geactiveerd voor het DLP-SSN-beleid: **SSN: 489-36-8350**
+  - Er wordt een [trefwoord Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) gevonden. Voorbeelden van trefwoorden zijn:  *Sociale zekerheid, Sociale zekerheid#, Soc Sec , SSN*  . Het volgende voorbeeld zou bijvoorbeeld leiden tot het DLP SSN-beleid: **SSN: 489-36-8350**
   
-Zie de volgende sectie in dit artikel voor meer informatie over de vereisten voor naar ssn's voor uw inhoud: de [typen gevoelige informatie zoekt](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn) u naar naar ssn's
+Zie de volgende sectie in dit artikel: Wat de typen gevoelige informatie voor [SSN's](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn) zoeken voor SSN's voor meer informatie over wat vereist is voor het detecteren van SSN's voor uw inhoud
   
-Raadpleeg het volgende artikel voor informatie over wat er is vereist voor andere typen: [waar de typen gevoelige informatie op letten](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) ?
+Zie het volgende artikel voor informatie over wat er nodig is voor andere typen: Waar de typen gevoelige informatie naar zoeken met behulp van een ander ingebouwde [gevoelige informatietype](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

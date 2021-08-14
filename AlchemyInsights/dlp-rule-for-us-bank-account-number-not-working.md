@@ -1,5 +1,5 @@
 ---
-title: DLP-regel voor US Bank-account nummer werkt niet
+title: DLP-regel voor Us Bank Account Number werkt niet
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005013"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-problemen met US bankrekening nummers
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-problemen met Amerikaanse bankrekeningnummers
 
 **Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
 
-**DLP-problemen met US bankrekening nummers**
+**DLP-problemen met Amerikaanse bankrekeningnummers**
 
-Hebt u problemen met **preventie van preventie van gegevensverlies (DLP)** voor inhoud met een **account van een Amerikaanse bank rekening** wanneer u een DLP gevoelige informatietype in O365 gebruikt? Als dit het geval is, moet u ervoor zorgen dat de inhoud de benodigde informatie bevat voor de manier waarop het DLP-beleid zoekt wanneer het wordt geëvalueerd.
+Hebt u problemen met **Data Loss Prevention (DLP)** die niet werkt voor inhoud die een Amerikaanse **bankrekeningnummer** bevat bij het gebruik van een type DLP-gevoelige informatie in O365? Zo ja, zorg er dan voor dat uw inhoud de benodigde informatie bevat voor wat het DLP-beleid zoekt wanneer deze wordt geëvalueerd.
   
-Voor het **account nummer van een US Bank** is geconfigureerd met een betrouwbaarheidsniveau van 85%, worden de volgende stappen geëvalueerd en moet de regel worden geactiveerd voor de regel:
+Voor een beleid voor **amerikaanse** bankrekeningnummer dat is geconfigureerd met een betrouwbaarheidsniveau van 85%, worden bijvoorbeeld de volgende gegevens geëvalueerd en moet de regel worden gedetecteerd om de regel te activeren:
   
-- **[Notatie:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 cijfers
+- **[Opmaak:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 cijfers
 
 - **[Patroon:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 opeenvolgende cijfers.
 
-- **[Controlesom:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nee, er is geen controlesom.
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nee, er is geen Checksum
 
-- **[Definitie:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Een DLP-beleid is 75% zekerheid dat dit type gevoelige informatie is gedetecteerd als binnen een nabijheid van 300 tekens:
+- **[Definitie:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Een DLP-beleid is 75% ervan overtuigd dat dit type gevoelige informatie is gedetecteerd als dit binnen een nabijheid van 300 tekens:
 
-  - Met de reguliere expressie Regex_usa_bank_account_number u inhoud vindt die overeenkomt met het patroon.
+  - De normale expressie Regex_usa_bank_account_number inhoud die overeenkomt met het patroon
 
-  - Er is een trefwoord uit Keyword_usa_Bank_Account gevonden.
+  - Er wordt een trefwoord Keyword_usa_Bank_Account gevonden.
 
-    Met het volgende voorbeeld wordt bijvoorbeeld het 78344011 beleid voor het **accountnummer** van uw account in de VS
+    In het volgende voorbeeld wordt bijvoorbeeld het beleid voor bankrekeningnummer van de **VS** in gang 78344011
 
-Zie de volgende sectie in dit artikel voor meer informatie over wat er is vereist voor de inhoud van uw account in de **Verenigde Staten** : met [de typen gevoelige informatie wordt gezocht naar het accountnummer van de Amerikaanse bank](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number) .
+Zie de volgende sectie in  dit artikel voor meer informatie over wat er nodig is voor het detecteren van een Amerikaanse bankrekeningnummer voor uw inhoud: Wat de typen gevoelige informatie voor us [bankrekeningnummer zoeken](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Raadpleeg het volgende artikel voor informatie over wat er is vereist voor andere typen: [waar de typen gevoelige informatie op letten](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) ?
+Zie het volgende artikel voor informatie over wat er nodig is voor andere typen: Waar de typen gevoelige informatie naar zoeken met behulp van een ander ingebouwde [gevoelige informatietype](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
