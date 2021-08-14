@@ -1,5 +1,5 @@
 ---
-title: Problemen oplossen met Microsoft intune
+title: Problemen met Microsoft Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 870bf718028832ee36ca1382eb1ac3a05c494f71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ec91ffe6069f7fccff8459ef145e7da775158160976ece5b4745499ac5e1fa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980568"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Problemen oplossen met Microsoft intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Problemen met Microsoft Intune
 
-Bekijk onderstaande bronnen om uw probleem nu op te lossen.
+Bekijk de onderstaande resources om het probleem nu op te lossen.
   
-1. Gebruik de portal voor het [oplossen van problemen](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) om enkele veelvoorkomende fouten op te sporen en op te lossen. Bekijk [Dit](https://docs.microsoft.com/intune/help-desk-operators) document voor meer informatie.  
-2. Bekijk [intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)om te zoeken naar antwoorden en oplossingen voor veelvoorkomende problemen.  
-3. Bekijk de [servicestatus](https://portal.office.com/AdminPortal/Home#/servicehealth) om de status van de service te bekijken.   
-4. Raadpleeg [intune-documentatie](https://docs.microsoft.com/intune/) voor het plannen, procedures, het oplossen van problemen met artikelen en meer. 
+1. Gebruik [Intune Troubleshooting Portal om](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) een aantal veelvoorkomende fouten te diagnosticeren en op te lossen. Bekijk [dit](https://docs.microsoft.com/intune/help-desk-operators) document voor meer informatie.  
+2. Bekijk [Intune TechNet voor ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)antwoorden en oplossingen voor veelvoorkomende problemen.  
+3. Bekijk [Servicestatus om](https://portal.office.com/AdminPortal/Home#/servicehealth) de status van de service te bekijken.   
+4. Bekijk [Intune-documentatie voor](https://docs.microsoft.com/intune/) planning, how-to, probleemoplossingsartikelen en meer. 
