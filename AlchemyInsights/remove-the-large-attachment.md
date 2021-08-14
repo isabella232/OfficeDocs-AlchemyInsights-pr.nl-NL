@@ -14,20 +14,20 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 425c5c0f12bed27bb72a0eb0fec803d7b61d9d0f873563dc6439cbfda9fdd08c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959354"
 ---
 # <a name="remove-the-large-attachment"></a>De grote bijlage verwijderen
 
-1. Selecteer in Outlook De optie **Werk verzenden/ontvangen**  >  **offline.** 
+1. Selecteer Outlook **verzenden/ontvangen**  >  **offline** werken. 
 2. Selecteer in het navigatiedeelvenster **Postvak UIT.** Hier kunt u het volgende doen: 
     - Verwijder het bericht (selecteer het bericht en selecteer **vervolgens Verwijderen).**
     - Sleep het bericht naar de map Concepten, dubbelklik om het te openen en verwijder de bijlage en selecteer **Verwijderen.**
-3. Als u een foutmelding ontvangt waarin wordt weergegeven dat Outlook het bericht probeert te verzenden, sluit u Outlook. Het kan even duren voordat het is afgesloten. Als Outlook niet wordt gesloten, drukt u op Ctrl+Alt+Delete en **selecteert u Taakbeheer starten.** Selecteer in Taakbeheer het tabblad **Processen,** schuif omlaag naar outlook.exe en selecteer **Proces beëindigen.**
+3. Als u een foutmelding ontvangt waarin wordt Outlook het bericht probeert te verzenden, sluit u Outlook. Het kan even duren voordat het is afgesloten. Als Outlook niet wordt gesloten, drukt u op Ctrl+Alt+Delete en selecteert u **Taakbeheer starten.** Selecteer in Taakbeheer het tabblad **Processen,** schuif omlaag naar outlook.exe en selecteer **Proces beëindigen.**
 4. Nadat Outlook is gesloten, start u deze opnieuw en herhaalt u stap 2 en 3. 
 5. Nadat u de bijlage hebt verwijderd, klikt u **op Offline verzenden/ontvangen** om  >   het online werken te hervatten. 
 

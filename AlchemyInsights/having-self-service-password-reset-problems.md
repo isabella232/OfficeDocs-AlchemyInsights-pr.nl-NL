@@ -1,5 +1,5 @@
 ---
-title: Hebt u problemen met selfservice voor wachtwoordherstel (SSPR)?
+title: Hebt u problemen met het opnieuw instellen van wachtwoorden (SSPR) voor selfservice?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945845"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Hebt u problemen met selfservice voor wachtwoordherstel (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Hebt u problemen met het opnieuw instellen van wachtwoorden (SSPR) voor selfservice?
 
-Veelgebruikte opties voor het zelf opnieuw instellen van wachtwoorden (SSPR) in een hybride Cloud en on-premises omgevingen zijn:
+Veelvoorkomende problemen met het opnieuw instellen van wachtwoorden (SSPR) in hybride cloud- en on-premises omgevingen zijn:
 
-- [SSPR-wachtwoord terugschrijven niet ingeschakeld](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [SSPR-wachtwoord writeback niet ingeschakeld](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
 - [Azure AD Premium-licentie niet toegewezen](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- [Problemen met Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) of- [netwerken](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [SSPR verificatiemethoden niet geregistreerd](https://mysignins.microsoft.com/security-info)
-- [Niet-ondersteunde Overschrijf scenario's](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , zoals microsoft 365-Beheercentrum of beheerders van SSPR
+- [Problemen met Azure AD Verbinding maken of](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) [netwerkproblemen](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [SSPR-verificatiemethoden die niet zijn geregistreerd](https://mysignins.microsoft.com/security-info)
+- [Niet-ondersteunde scenario's](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) voor terugschrijven, Microsoft 365-beheer of Beheerders met SSPR
 
 
 Zie voor meer informatie:
 
-- [Problemen met selfservice voor wachtwoordherstel oplossen](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Problemen met selfservice voor wachtwoordherstel herstellen in azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Problemen met het opnieuw instellen van selfservicewachtwoord oplossen](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Problemen met het terugzetten van selfservicewachtwoordsinstellingen oplossen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

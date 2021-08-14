@@ -1,5 +1,5 @@
 ---
-title: Terugzetten naar de klassieke versie van de webversie van Outlook
+title: Terugdraaien naar klassieke webversie van Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c083efef3e77dc175737e0412fd958c448f4f118955dc7a95427dab831ccbe4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924008"
 ---
-# <a name="the-new-outlook-on-the-web"></a>De nieuwe versie van de webversie van Outlook
+# <a name="the-new-outlook-on-the-web"></a>De nieuwe webversie van Outlook
 
-Het is niet meer mogelijk om terug te gaan naar de klassieke versie van de webversie van Outlook. Als u feedback wilt geven over de nieuwe ervaring, gaat u naar het [UserVoice-forum](https://go.microsoft.com/fwlink/?linkid=2103182). U kunt stemmen met de ideeën of problemen die u wilt bekijken, en we reageren direct op de belangrijkste opmerkingen en suggesties.
+Het is niet meer mogelijk om terug te keren naar de klassieke webversie van Outlook ervaring. Als u feedback wilt geven over de nieuwe ervaring, gaat u naar het [UserVoice-forum.](https://go.microsoft.com/fwlink/?linkid=2103182) U kunt stemmen op de ideeën of problemen die u wilt bespreken en we reageren rechtstreeks op de belangrijkste opmerkingen en suggesties.
 
 [Hulp vragen bij de nieuwe webversie van Outlook](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)

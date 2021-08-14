@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Forms-bedrijfsregel met veld FullName wordt niet geactiveerd
+title: Dynamics 365 Forms Business Rule Using Fullname Field Not Firing
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947402"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Het veld volledige naam wordt niet ondersteund in Unified inteface-apps
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Veld Volledige naam wordt niet ondersteund met geïntegreerde inteface-apps
 
-Acties of voorwaarden die gebruikmaken van een **volledige naam** veld worden niet ondersteund in apps op basis van de geïntegreerde interface. U kunt ook acties of voorwaarden met de velden **voornaam** (voornaam) en **Achternaam** (LastName) gebruiken.
+Acties of voorwaarden die een veld **Met** volledige naam (volledige naam) gebruiken, worden niet ondersteund in apps op basis van de geïntegreerde interface. U kunt ook acties of voorwaarden gebruiken met de velden **Voornaam** (voornaam) en **Achternaam** (achternaam).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

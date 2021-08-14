@@ -1,5 +1,5 @@
 ---
-title: Problemen met de installatie van DKIM oplossen
+title: Problemen met het instellen van DKIM oplossen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a613321ed79e657350ec4d19b1f07ac0a091b227a8268c793a10edd9990d41f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945926"
 ---
-# <a name="fix-dkim-setup-issues"></a>Problemen met de installatie van DKIM oplossen
+# <a name="fix-dkim-setup-issues"></a>Problemen met het instellen van DKIM oplossen
 
-Als u problemen ondervindt bij het inschakelen van DKIM voor uw aangepaste domein, voert u de volgende stappen uit:
+Als u problemen hebt met het inschakelen van DKIM voor uw aangepaste domein, gebruikt u de volgende stappen:
 
-- De meeste problemen met de installatie van DKIM hebben betrekking op onjuiste DNS-records. Controleer of de DKIM CNAME-record (**geen** TXT-record) correct is opgemaakt. Zie het volgende [onderwerp](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)voor meer informatie.
+- De meeste DKIM-installatieproblemen zijn gerelateerd aan onjuiste DNS-records. Controleer of de DKIM CNAME-record **(geen** TXT-record) correct is opgemaakt. Zie dit onderwerp voor [meer informatie.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
-- Nadat u uw DKIM DNS-records hebt gemaakt of bijgewerkt bij de DNS-hostingservice voor uw domein (meestal uw domeinregistratie), wacht dan totdat de DNS-records zijn doorgegeven.
+- Nadat u uw DKIM DNS-records hebt gemaakt of bijgewerkt bij de DNS-hostingservice voor uw domein (meestal uw domeinregistrar), wacht u totdat de DNS-records worden doorgegeven.
 
-- Als u de DNS-records van DKIM niet kunt maken in het Beheercentrum, kunt u \<CustomDomain\> deze vervangen door uw aangepaste domein (bijvoorbeeld contoso.com) en deze opdracht uit te voeren in [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
+- Als u de DKIM DNS-records niet kunt maken in het beheercentrum, kunt u het aangepaste domein (bijvoorbeeld contoso.com) vervangen en deze opdracht uitvoeren \<CustomDomain\> in [Exchange Online PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .

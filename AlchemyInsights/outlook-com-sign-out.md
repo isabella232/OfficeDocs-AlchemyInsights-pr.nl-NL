@@ -1,5 +1,5 @@
 ---
-title: Afmelden bij Outlook.com
+title: Meld u af bij Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983376"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Afmelden bij Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Aanmelden bij Outlook.com
 
-1. Selecteer in de rechterbovenhoek uw naam of afbeelding.
+1. Selecteer uw naam of afbeelding in de rechterbovenhoek.
 
-    Als u de afbeelding niet boven aan het scherm ziet, controleert u of de functie voor het blokkeren van activeren is ingeschakeld. Dit is soms de reden dat de afbeelding niet wordt weergegeven.
+    Als u de afbeelding niet boven aan het scherm ziet, controleert u of het blokkeren van advertenties is ingeschakeld. Dit is soms de reden dat de afbeelding niet wordt weergegeven.
 
 2. Selecteer **Afmelden**.
 
-    Als u niet langer automatisch wilt worden aangemeld, schakelt u het selectievakje **aangemeld blijven** uit op de pagina waar u het wachtwoord invoert.
+    Als u wilt stoppen met automatisch aanmelden, schakelt u het selectievakje Aangemeld blijven **uit** op de pagina waar u uw wachtwoord in typt.
 
-Zie aan- [of afmelden bij Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.
+Zie Aanmelden bij [Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.
   

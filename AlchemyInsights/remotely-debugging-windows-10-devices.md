@@ -1,5 +1,5 @@
 ---
-title: Aan de slag met op afstand besporing van Windows 10-apparaten
+title: Aan de slag met externe debuggen op Windows 10 apparaten
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959390"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Aan de slag met op afstand besporing van Windows 10-apparaten
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Aan de slag met externe debuggen op Windows 10 apparaten
 
-Live-inhoud op een Windows 10-apparaat op afstand opsporen vanaf een Windows- of macOS-computer:
+Live-inhoud op een apparaat op afstand Windows 10 op een computer Windows macOS op afstand opsporen:
 
-1. Stel uw Windows 10-apparaat in voor externe debuggen en maak vervolgens verbinding met het apparaat vanaf uw ontwikkelapparaat.
-2. Bekijk en debug live-inhoud op uw Windows 10-apparaat vanaf uw ontwikkelapparaat.
-3. Screencast-inhoud van uw Windows 10-apparaat naar een devTools-exemplaar op uw ontwikkelapparaat.
+1. Stel uw apparaat Windows 10 voor externe debuggen in en maak vervolgens verbinding met het apparaat vanaf uw ontwikkelapparaat.
+2. Controleer en foutopsporing van live-inhoud op uw Windows 10 uw ontwikkelapparaat.
+3. Screencast-inhoud van uw Windows 10 apparaat naar een devTools-exemplaar op uw ontwikkelapparaat.
 
-Zie Aan de slag [met Windows 10-apparaten](https://go.microsoft.com/fwlink/?linkid=2142172)op afstand met Microsoft Edge voor meer informatie.
+Zie voor meer informatie [Aan de slag externe debuggingsapparaten Windows 10 apparaten met Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
