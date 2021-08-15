@@ -1,5 +1,5 @@
 ---
-title: Gespecialiseerde ondersteuning Microsoft flow
+title: Microsoft Flow Gespecialiseerde ondersteuning
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975924"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Gespecialiseerde ondersteuning Microsoft flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Gespecialiseerde ondersteuning
 
-Voor gespecialiseerde Microsoft flow support gaat u naar het nieuwe [Power platform-Beheercentrum](https://aka.ms/flowadminsupport). De nieuwe portal biedt een extra directe route naar ondersteunings ondersteuning die is geoptimaliseerd voor Microsoft flow en andere Power platform-producten.
+Ga voor Microsoft Flow ondersteuning naar het nieuwe [Beheercentrum van het Power-platform.](https://aka.ms/flowadminsupport) De nieuwe portal biedt een directer pad naar ondersteunde ondersteuning die is geoptimaliseerd voor Microsoft Flow en andere Power-platformproducten.
 
 Meer informatie:
-- [Informatie over de gratis Microsoft-datatransport-licenties](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [De veelgestelde vragen over uw organisatie](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Microsoft 365 en Dynamics 365-abonnementen, waaronder Microsoft flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Vragen over facturering en data meters in Microsoft stroom](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Informatie over de Microsoft Flow gratis licenties](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow veelgestelde vragen over uw organisatie](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 en Dynamics 365-abonnementen met Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow vragen over facturering en meting](https://go.microsoft.com/fwlink/?linkid=2072612)
