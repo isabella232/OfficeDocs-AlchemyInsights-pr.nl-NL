@@ -1,5 +1,5 @@
 ---
-title: Beleidsinstellingen voor organisatie voor externe gebruikers
+title: Instellingen voor organisatiebeleid voor externe gebruikers
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011295"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Beleidsinstellingen voor organisatie voor externe gebruikers
+# <a name="organization-policy-settings-for-external-users"></a>Instellingen voor organisatiebeleid voor externe gebruikers
 
-Gebruikers zien mogelijk het volgende waarschuwingsbericht wanneer ze proberen te delen met externe gebruikers van uw organisatie: 
+Gebruikers kunnen het volgende waarschuwingsbericht zien wanneer ze proberen te delen met externe gebruikers van uw organisatie: 
 
-   **Het beleid van uw organisatie is niet toegestaan dat u met deze gebruikers deelt. Ga naar extern delen in het Microsoft 365-Beheercentrum om dit in te schakelen.** 
+   **Met het beleid van uw organisatie kunt u niet delen met deze gebruikers. Ga naar Extern delen in de Microsoft 365-beheercentrum om dit in te stellen.** 
 
-Dit gebeurt meestal wanneer u de eerste keer probeert te delen met externe gebruikers of wanneer u met nieuwe externe gebruikers deelt. Zie het volgende artikel voor meer informatie:
+Dit gebeurt vaak de eerste keer dat u probeert te delen met externe gebruikers of wanneer u deelt met nieuwe externe gebruikers. Zie het onderstaande artikel voor meer informatie:
 
-[Het beleid van uw organisatie mag niet met deze gebruikers delen](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Met het beleid van uw organisatie kunt u niet delen met deze gebruikers](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

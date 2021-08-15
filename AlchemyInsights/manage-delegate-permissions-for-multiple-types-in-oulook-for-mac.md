@@ -1,5 +1,5 @@
 ---
-title: Machtigingen voor gemachtigden voor meerdere itemtypen in Outlook voor Mac beheren
+title: Machtigingen voor gedelegeerden beheren voor meerdere itemtypen in Outlook voor Mac
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 4c965ba7909fa78dea38bdd78907dcfdd9152ef7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962882"
 ---
-# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Machtigingen voor gemachtigden voor meerdere itemtypen in Outlook voor Mac beheren
+# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Machtigingen voor gedelegeerden beheren voor meerdere itemtypen in Outlook voor Mac
 
-1. Selecteer in het menu **extra** de optie **accounts** en selecteer het account waarvoor u machtigingen wilt wijzigen.
-2. Klik op **Geavanceerd** en klik vervolgens op **gemachtigden**.
-3. Selecteer onder **gemachtigden** een lijst met gemachtigden die namens mij kunnen handelen de gemachtigde.
-4. Klik op de knop **actie** , klik op **machtigingen instellen** en breng de gewenste wijzigingen aan.
+1. Selecteer **accounts** in het menu Extra **en** selecteer het account waarvoor u machtigingen wilt wijzigen.
+2. Klik **op** Geavanceerd en klik vervolgens **op Gedelegeerden.**
+3. Selecteer **onder Gedelegeerden**, waarin een lijst wordt weergegeven met gemachtigden die namens u kunnen optreden, de gemachtigde.
+4. Klik op **de knop** Actie, klik **op Machtigingen instellen** en pas de beste wijzigingen aan.
 
 > [!NOTE]
-> Als u het machtigingsniveau instelt op **geen**, blijft de gedelegeerde in de lijst staan, zodat u later machtigingen kunt terugzetten.
+> Als u het machtigingsniveau in stelt op **Geen,** blijft de gedelegeerde in de lijst staan, zodat u machtigingen later kunt herstellen.

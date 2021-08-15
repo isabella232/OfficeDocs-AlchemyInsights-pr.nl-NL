@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24691e0b523fad22f0b6ee3ed07ff08afd5b81d12c787f843aa94c5b6835915b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011547"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Office 2019 implementeren voor gedeeld gebruik op RDS, Terminal Server of VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementatie van Office 2019 voor gedeeld gebruik op RDS, Terminal Server of VDI
 
-Als Office al is geïnstalleerd op de RDS-server met andere Office-abonnementen, verwijdert u deze. Ga bijvoorbeeld naar **Configuratiescherm**  >  **Een programma verwijderen.** Als u problemen ondervindt, verwijdert u de installatie met [microsoft-ondersteunings- en herstelassistent.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
+Als Office al is geïnstalleerd op de RDS-server met andere Office, verwijdert u deze. Ga bijvoorbeeld naar **Configuratiescherm**  >  **Een programma verwijderen.** Als u problemen ondervindt, verwijdert u de installatie met [Microsoft Ondersteunings- en herstelassistent.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Gebruik het Office Deployment Tool (ODT) om Office te installeren. Zie [Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy)implementeren voor gedetailleerde stappen.
+Gebruik het Office Implementatieprogramma (ODT) om de Office. Zie Implementatie van Office [2019 voor gedetailleerde stappen.](https://docs.microsoft.com/deployoffice/office2019/deploy)
 
-Zie Overzicht van [volumeactivering van Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)voor activering.
+Zie Overzicht van [volumeactivering van](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)Office .
