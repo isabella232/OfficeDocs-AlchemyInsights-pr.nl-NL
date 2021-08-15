@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ecfb4e90f2d58654ec43a35e901ea4421e0e94fa95995ef890abc8af2d99ec7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981072"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>Problemen met een bestaande monitor oplossen
 
@@ -25,7 +25,7 @@ Probeer deze oplossingen om problemen met een monitor op te lossen.
 
 **Het beeldscherm vernieuwen:**
 
-Druk tegelijkertijd op de volgende toetsen: Windows-toets + Ctrl + Shift + B. Hierdoor wordt de communicatie met het grafische stuurprogramma vernieuwd. Uw beeldschermen knipperen tijdelijk en komen na enkele seconden terug.
+Druk tegelijkertijd op de volgende toetsen: Windows toets + Ctrl + Shift + B. Hierdoor wordt de communicatie met het grafische stuurprogramma vernieuwd. Uw beeldschermen knipperen tijdelijk en komen na enkele seconden terug.
 
 **Problemen met monitorhardware oplossen:**
 

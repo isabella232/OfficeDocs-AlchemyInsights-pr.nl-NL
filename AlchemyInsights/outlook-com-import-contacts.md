@@ -14,21 +14,21 @@ ms.custom:
 - "278"
 - "8000019"
 ms.assetid: 921c5c7c-9a02-4682-9bd1-03ef9bb0fd6e
-ms.openlocfilehash: 9c6cf2ee9677fdc3b29f1b29a4b29be71bd137a9
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 3435bdc0c70993f1ed9b9a1b168db49a88e83429780bd0f252b410484943abf0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962198"
 ---
 # <a name="import-contacts"></a>Contactpersonen importeren
 
-Voordat u contactpersonen wilt importeren in Outlook.com, moet u ze als een CSV-bestand exporteren uit uw andere e-mailprovider. Vervolgens volgt u de onderstaande instructies.
+Voordat u contactpersonen importeert naar Outlook.com, moet u deze exporteren van uw andere e-mailprovider als .csv bestand. Volg vervolgens de onderstaande instructies.
   
-1. Ga naar [personen](https://outlook.live.com/people/) <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+1. Naar [Personen gaan](https://outlook.live.com/people/) <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
 .
-2. Selecteer boven aan de pagina **Manage** \> **contactpersonen importeren**beheren.
-3. Selecteer **Bladeren**, ga naar de map waar u de geëxporteerde contactpersonen hebt opgeslagen en selecteer **openen**.
+2. Selecteer contactpersonen importeren boven  aan de \> **pagina.**
+3. Selecteer **Bladeren,** ga naar de map waar u uw geëxporteerde contactpersonen hebt opgeslagen en selecteer **Openen.**
 
-Zie [contactpersonen importeren in Outlook.com](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.
+Zie Contactpersonen importeren [in Outlook.com voor](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy)meer informatie.
 

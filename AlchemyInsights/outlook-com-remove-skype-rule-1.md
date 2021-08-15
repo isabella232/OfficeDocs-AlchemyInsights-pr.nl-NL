@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Skype verwijderen
+title: Outlook.com Verwijder Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962090"
 ---
-# <a name="skype-icon-missing"></a>Skype-pictogram ontbreekt
+# <a name="skype-icon-missing"></a>Skype pictogram ontbreekt
 
-Het Skype-pictogram is tijdelijk verwijderd uit Outlook.com als onderdeel van een ontwerp vernieuwing en functie-update, zodat we enthousiast worden. We waarderen uw geduld, terwijl we een nieuwe en verbeterde ervaring voor u voorbereiden.
+We hebben het pictogram Skype tijdelijk verwijderd uit Outlook.com als onderdeel van een ontwerpvernieuwing en functie-update die we graag willen uitrollen. We waarderen uw geduld terwijl we een nieuwe en verbeterde ervaring voor u voorbereiden.
 
-U kunt Skype nog steeds gebruiken via uw browser op [Web.Skype.com](https://web.skype.com/).
+U kunt de Skype nog steeds gebruiken via uw browser [op web.skype.com.](https://web.skype.com/)
