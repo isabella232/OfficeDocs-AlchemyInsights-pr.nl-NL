@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014931"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Favorieten importeren uit een andere browser dan Internet Explorer, Google Chrome of Mozilla Firefox
 
 1. Sla de favorieten op in een HTML-bestand in de browser waaruit u uw favorieten wilt importeren.
 
-1. Open Microsoft Edge en selecteer vervolgens **Instellingen en meer ...**  >  **Instellingen**  >  **Browsergegevens importeren.**
+1. Open Microsoft Edge en selecteer Instellingen **en meer ...**  >  **Instellingen**  >  **Browsergegevens importeren.**
 
 1. Selecteer in **het** menu Importeren uit de optie Favorieten of **bladwijzers HTML-bestand** Bestand kiezen en selecteer vervolgens het  >  HTML-bestand met uw favorieten.
 

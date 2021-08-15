@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039241"
 ---
 # <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Problemen met eenmalig aanmelden oplossen voor azure AD-apparaten die lid zijn van Azure AD
 
-Als u een on-premises Ad-omgeving (Active Directory) hebt en u wilt deelnemen aan uw ad-domeincomputers met Azure AD, kunt u dit doen door hybride Azure AD-join te doen. [How To: Plan your hybrid Azure Active Directory join implementation provides](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) you with the related steps to implement a hybrid Azure AD join in your environment.
+Als u een on-premises Ad-omgeving (Active Directory) hebt en u wilt deelnemen aan uw ad-domeincomputers met Azure AD, kunt u dit doen door hybride Azure AD-join te doen. [How To: Plan uw hybride Azure Active Directory join-implementatie](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) biedt u de bijbehorende stappen voor het implementeren van een hybride Azure AD-join in uw omgeving.
 
-Zie Azure [AD-apparaten configureren voor on-premises](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)apparaten Single-Sign Windows Hello voor Bedrijven gebruiken voor meer informatie.
+Zie Azure [AD-apparaten configureren voor on-premises Single-Sign On-premises](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)Windows Hello voor Bedrijven voor meer informatie.
 
 **PrT-problemen (Primary Refresh Token)**
 
-Een prt (Primary Refresh Token) is een belangrijk artefact van Azure AD-verificatie op Windows 10-, Windows Server 2016- en latere versies, iOS- en Android-apparaten. Het is een JSON Web Token (JWT) die speciaal is uitgegeven aan microsoft first party token brokers om single sign-on (SSO) in te stellen voor de toepassingen die op deze apparaten worden gebruikt. Zie Wat is een primaire [vernieuwings-token?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)voor meer informatie over hoe een PRT wordt uitgegeven, gebruikt en beveiligd op Windows 10-apparaten.
+Een prt (Primary Refresh Token) is een belangrijk artefact van Azure AD-verificatie op Windows 10, Windows Server 2016 en latere versies, iOS- en Android-apparaten. Het is een JSON Web Token (JWT) die speciaal is uitgegeven aan microsoft first party token brokers om single sign-on (SSO) in te stellen voor de toepassingen die op deze apparaten worden gebruikt. Zie Wat is een primaire [vernieuwings-token?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)voor meer informatie over hoe een PRT wordt uitgegeven, gebruikt en beveiligd op Windows 10 apparaten.
 
 **WamDefaultSet: JA en AzureADPrt: JA**
 

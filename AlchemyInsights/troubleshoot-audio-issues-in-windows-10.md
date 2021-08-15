@@ -1,5 +1,5 @@
 ---
-title: Problemen met audio in Windows 10 oplossen
+title: Problemen met audio in Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039421"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Problemen met audio oplossen in Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Problemen met audio in Windows 10
 
 **De probleemoplosser voor audio uitvoeren**
 
@@ -55,7 +55,7 @@ Als u wilt controleren of de stuurprogramma's up-to-date zijn:
 
 2. Selecteer **onder Geluids-, video- en gamecontrollers** uw  geluidskaart, open deze, selecteer het tabblad Stuurprogramma en selecteer **Stuurprogramma bijwerken.**
 
-**Opmerking:** Als Windows geen nieuw stuurprogramma vindt, zoek dan een stuurprogramma op de website van de fabrikant van het apparaat en volg de instructies.
+**Opmerking:** als Windows geen nieuw stuurprogramma vindt, kijkt u naar een stuurprogramma op de website van de fabrikant van het apparaat en volgt u de instructies.
 
 **Het stuurprogramma opnieuw installeren**
 
@@ -63,4 +63,4 @@ Als u niet kunt bijwerken via Device Manager of een nieuw stuurprogramma op de w
 
 1. Klik in Apparaatbeheer met de rechtermuisknop op het audiostuurapparaat (of houd het ingedrukt) en selecteer **Verwijderen.** Start uw apparaat opnieuw op en Windows probeert het stuurprogramma opnieuw te installeren.
 
-2. Als het opnieuw installeren van het stuurprogramma niet werkt, gebruikt u het algemene audiostuurapparaat dat bij Windows wordt geleverd. Klik **in** Apparaatbeheer met de rechtermuisknop op uw audio-stuurprogramma (of houd deze ingedrukt) > Stuurprogrammasoftware bijwerken Blader op mijn computer naar stuurprogrammasoftware Laat me kiezen uit een lijst met apparaat stuurprogramma's op mijn  >    >  **computer,** selecteer **High Definition AudioApparaat,** selecteer **Volgende** en volg de instructies om het te installeren.
+2. Als het opnieuw installeren van het stuurprogramma niet werkt, gebruikt u het algemene audiostuurapparaat dat bij de Windows. Klik **in** Apparaatbeheer met de rechtermuisknop op uw audio-stuurprogramma (of houd deze ingedrukt) > Stuurprogrammasoftware bijwerken Blader op mijn computer naar stuurprogrammasoftware Laat me kiezen uit een lijst met apparaat stuurprogramma's op mijn  >    >  **computer,** selecteer **High Definition AudioApparaat,** selecteer **Volgende** en volg de instructies om het te installeren.

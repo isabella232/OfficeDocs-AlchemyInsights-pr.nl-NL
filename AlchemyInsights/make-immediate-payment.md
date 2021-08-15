@@ -1,5 +1,5 @@
 ---
-title: Direct betalen-aanbevolen stappen uitvoeren
+title: Direct betalen - aanbevolen stappen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976752"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Direct betalen-aanbevolen stappen uitvoeren
+# <a name="make-immediate-payment---recommended-steps"></a>Direct betalen - aanbevolen stappen
 
-Op basis van uw beschrijving van het probleem hebben we een oplossing voor u gevonden. De meeste klanten konden hun probleem zelf oplossen na de documentatie.
+Op basis van uw probleembeschrijving hebben we een oplossing voor u gevonden. De meeste klanten hebben hun probleem zelf kunnen oplossen na het volgen van onze documentatie.
 
-Als u direct wilt betalen, moet u ervoor zorgen dat u vervallen saldi kunt oplossen. Als uw betaling niet is ontvangen of als we uw betaling niet kunnen verwerken, krijgt u mogelijk een e-mailbericht of ziet u een melding over een achterstallig saldo in het account centrum of Azure-Portal. 
+Als u een onmiddellijke betaling wilt doen, moet u ervoor zorgen dat achtereen achtereensaldo's worden opgelost. Als uw betaling niet is ontvangen of als we uw betaling niet kunnen verwerken, ontvangt u mogelijk een e-mail of ziet u een melding over achtereen verschuldigd saldo in het Accountcentrum of Azure-portal. 
 
-De betaling kan mogelijk niet worden verwerkt als de creditcard in het bestand is verlopen of als de vergoeding door de Bank is afgewezen. De account beheerder kan de creditcard in het rekening centrum controleren en bijwerken. 
+De betaling kan niet zijn verwerkt als de creditcard in het bestand is verlopen of de kosten zijn geweigerd door uw bank. De accountbeheerder kan de creditcard controleren en bijwerken in accountcentrum. 
 
-Uw Azure-abonnement is mogelijk uitgeschakeld omdat uw tegoed is verlopen, u hebt uw uitgavenlimiet bereikt, heeft een achterstallige factuur, u kunt op de creditcardlimiet klikken, of omdat het abonnement is geannuleerd door de account beheerder.  
+Uw Azure-abonnement kan zijn uitgeschakeld omdat uw tegoed is verlopen, u uw bestedingslimiet hebt bereikt, een achterstallige factuur hebt, uw creditcardlimiet hebt bereikt of omdat het abonnement is geannuleerd door de accountbeheerder.  
 
-Neem contact op met uw financiële instelling om het probleem op te lossen als er nog een betaling in behandeling op de kaart is geannuleerd.  
+Als er een betaling in behandeling is op de kaart omdat de kaart is geweigerd door uw financiële instelling, kunt u contact op met uw financiële instelling om het probleem op te lossen.  
 
-Mogelijk moet u bij de Bank inkijken om te zien:
+Mogelijk moet u contact op met de bank om het volgende te zien:
 
 - Als de internationale transactie op de kaart wordt geplaatst. 
-- Als de kaart een kredietlimiet heeft om het saldo te bezinken 
-- Als periodieke betaling is ingeschakeld op de kaart 
+- Als de kaart een kredietlimiet heeft om het saldo te vereffenen 
+- of terugkerende betaling voor de kaart is ingeschakeld. 
 
-Als uw betaling wordt afgewezen, controleert u of de betaling van het betaal instrument (PI) wordt geweigerd wanneer u meerdere PIs hebt gekoppeld aan een abonnement. Wijzig of verwijder de PI van het abonnement, indien nodig. 
+Als uw betaling wordt geweigerd, controleert u welk betaalmiddel (PI) wordt geweigerd voor het geval er meerdere API's zijn gekoppeld aan een abonnement. Wijzig of verwijder uw PI indien nodig uit het abonnement. 
 
 **Aanbevolen documenten** 
 
-- [Toegang tot factuurinformatie voor Azure beheren](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Factuur of gebruiksgegevens downloaden vanuit Azure-account centrum](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Toegang tot factureringsgegevens voor Azure beheren](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Factuur- of gebruiksgegevens downloaden van Azure Account Center](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Mijn abonnement opnieuw activeren](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Betalen met factuur voor Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Betalen per factuur voor Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 

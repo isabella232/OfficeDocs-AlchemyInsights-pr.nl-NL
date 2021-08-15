@@ -1,5 +1,5 @@
 ---
-title: In-place upgrade met Configuration Manager-handleiding
+title: In-place upgrade met Configuration Manager Guide
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014751"
 ---
-# <a name="in-place-upgrade-with-configuration-manager-guide"></a>In-place upgrade met Configuration Manager-handleiding
+# <a name="in-place-upgrade-with-configuration-manager-guide"></a>In-place upgrade met Configuration Manager Guide
 
-Het upgradeproces ter plaatse bevat alle gegevens, instellingen, toepassingen en Stuurprogramma's van de bestaande versie van het besturingssysteem. Het is ontworpen voor zeer betrouwbare en de mogelijkheid om automatisch terug te gaan naar het vorige besturingssysteem als er problemen optreden.
+Tijdens het upgradeproces blijven alle gegevens, instellingen, toepassingen en stuurprogramma's van de bestaande versie van het besturingssysteem behouden. Het is ontworpen om zeer betrouwbaar te zijn en heeft de mogelijkheid om automatisch terug te draaien naar het vorige besturingssysteem als er problemen zijn.
 
-Gebruik de [in-place upgrade met Configuration Manager-handleiding](https://admin.microsoft.com/adminportal/home#/win10upgrade) wanneer u een upgrade uitvoert van Windows 7 en Windows 8,1 naar de nieuwste versie van Windows 10. U gebruikt het script om de vereisten te controleren en een in-place upgrade automatisch te configureren.
+Gebruik de [in-place upgrade met Configuration Manager-handleiding](https://admin.microsoft.com/adminportal/home#/win10upgrade) bij het upgraden van Windows 7- en Windows 8.1-apparaten naar de nieuwste versie van Windows 10. U gebruikt het script dat wordt geleverd om de vereisten te controleren en automatisch een in-place upgrade te configureren.

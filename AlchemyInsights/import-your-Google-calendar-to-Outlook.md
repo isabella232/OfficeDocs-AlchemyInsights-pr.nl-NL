@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014823"
 ---
 # <a name="import-your-google-calendar-to-outlook"></a>Uw Google-agenda importeren in Outlook
 
-Herhaal deze procedure voor elke Google-agenda die u in Outlook wilt importeren.
+Herhaal deze procedure elke Google-agenda die u wilt importeren in Outlook.
 
-1. Ga naar uw **agenda** in Outlook op uw bureaublad (Outlook 2013 of Outlook 2016).
-1. Klik op **bestand**  >  **openen &**  >  **import/export** exporteren.
-1. Selecteer in de **wizard Importeren en exporteren** de optie **een iCalendar-(. ICS) of VCalendar-bestand importeren** en klik op **volgende**.
-1. Blader naar de locatie waar u het uitgepakte bestand hebt opgeslagen en kies het bestand dat eindigt op **Gmail.com** en klik op **OK**.
-1. Klik op **importeren** .
+1. Ga Outlook op uw bureaublad (Outlook 2013 of Outlook 2016) naar uw **agenda.**
+1. Klik **op Bestand** openen &  >  **Exporteren**  >  **Import/Export.**
+1. Selecteer in **de wizard Importeren** en exporteren de optie Een **iCalendar -bestand (.ics) of vCalendar-bestand** importeren en klik vervolgens op **Volgende.**
+1. Blader naar de plaats waar u het uitgepakte bestand hebt opgeslagen en kies het bestand dat eindigt met gmail.com **en** klik op **OK.**
+1. Klik **op Importeren**
 
 Ga naar uw Outlook-agenda. Hier moet u nu de items uit uw Google-agenda zien.

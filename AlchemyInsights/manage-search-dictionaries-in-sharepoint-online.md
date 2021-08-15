@@ -1,5 +1,5 @@
 ---
-title: Zoek woordenlijsten beheren in SharePoint Online
+title: Zoekwoordenlijsten beheren in SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff6764bd770bbb74e857c6264cddceecee9c96c888bb983292398522f5e90a5c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976608"
 ---
-# <a name="manage-search-dictionaries"></a>Zoek woordenlijsten beheren
+# <a name="manage-search-dictionaries"></a>Zoekwoordenlijsten beheren
 
-Zoek woordenlijsten in SharePoint Online worden beheerd in het SharePoint Online-Termenarchief dat zich bevindt in het nieuwe SharePoint-Beheercentrum. Zie [Zoek woordenlijsten beheren](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)voor meer informatie over het toevoegen of bewerken van zoek woordenlijsten.
+Zoekwoordenlijsten in SharePoint online worden beheerd in SharePoint Online Term Store die zich bevindt in het nieuwe SharePoint beheercentrum. Zie Zoekwoordenlijsten beheren voor meer informatie over het toevoegen of bewerken van [zoekwoordenlijsten.](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)
   
-Als u de termenset voor zoek woordenlijsten niet ziet, wacht u 24 uur. Als de woordenlijst na 24 uur nog steeds niet wordt weergegeven, registreert u een ondersteuningsticket.
+Als er geen zoekwoordenlijstset wordt weergegeven in het termstore, wacht u 24 uur. Als de woordenlijst na 24 uur nog steeds niet wordt weergegeven, moet u een ondersteuningsticket aanmelden.
   
