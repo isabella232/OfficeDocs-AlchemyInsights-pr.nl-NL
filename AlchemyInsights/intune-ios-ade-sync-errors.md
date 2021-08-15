@@ -1,5 +1,5 @@
 ---
-title: Apple Automatische apparaatinschrijvingssynchronisatiefouten
+title: Synchronisatiefouten voor automatische registratie van Apple-apparaat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013743"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>Apple Automatische apparaatinschrijvingssynchronisatiefouten
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>Synchronisatiefouten voor automatische registratie van Apple-apparaat
 
-'We hebben vastgesteld dat u een of meer ADE/DEP-tokens hebt met een fouttoestand. Totdat de fouttoestand voor elk beïnvloed token is opgelost, werkt de ADE-functionaliteit niet meer zoals verwacht.'
+"We hebben vastgesteld dat u een of meer ADE/DEP-tokens hebt die een fouttoestand hebben. Totdat de fouttoestand is opgelost voor elk van de betrokken tokens, werkt de ADE-functionaliteit niet zoals verwacht.'
 
-Deze fout kan zich op een aantal manieren voor doen, waaronder:
+Deze fout kan zich op een aantal manieren manifesteert, waaronder:
 
-1. Apparaten worden mogelijk niet gesynchroniseerd tussen ABM/ASM en Intune
-2. Inschrijvingsprofieltoewijzingen zijn mogelijk mislukt
-3. ADE-inschrijving kan mogelijk niet worden voltooid
+1. Apparaten worden mogelijk niet gesynchroniseerd van ABM/ASM naar Intune
+2. Inschrijvingsprofieltoewijzingen kunnen mislukken
+3. Apparaten kunnen ADE-inschrijving mogelijk niet voltooien
 
-Controleer of de synchronisatiefout is gerapporteerd in de Intune-console onder **Apparaten > Apparaten > Apple-inschrijving**> programmatokens voor registratie.
+Controleer of de synchronisatiefout is gerapporteerd in de Intune-console onder Apparaten > Apparaten > Apple-registratie-> **Enrollment program tokens**.
 
-Een van de meest voorkomende oorzaken van een synchronisatiefout is het verlopen van het huidige token. In veel gevallen wordt het probleem verholpen door het verlengen van het betreffende token.
+Een van de meest voorkomende oorzaken van synchronisatiefouten is het verlopen van het huidige token. In veel gevallen wordt het probleem opgelost door het betreffende token te verlengen.
 
-Als een of meer van uw tokens zijn verlopen, kunt u deze in de volgende documentatie verlengen:
+Als een of meer van uw tokens zijn verlopen, bekijkt u de volgende documentatie om ze zo nodig te verlengen:
 
-[Een token voor automatische inschrijving van apparaten verlengen](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+[Een token voor het automatisch registreren van apparaten verlengen](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-Bovendien kunt u de volgende documentatie bekijken om mogelijke herstelmogelijkheden voor andere fouten te bekijken die synchronisatiefouten in token veroorzaken:
+Daarnaast kunt u de volgende documentatie bekijken om mogelijke herstelmogelijkheden te zien voor andere fouten die tokensynchronisatiefouten veroorzaken:
 
 [ABM/ASM-synchronisatiefouten voor iOS/iPadOS en macOS Automated Device Enrollment Tokens](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 

@@ -1,5 +1,5 @@
 ---
-title: Onderliggend en factuuradres voor uw door MCA aanbevolen stappen bijwerken
+title: Verkoop- en factuuradres bijwerken dat is gekoppeld aan uw MCA - aanbevolen stappen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001497"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Onderliggend en factuuradres voor uw door MCA aanbevolen stappen bijwerken
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Verkoop- en factuuradres bijwerken dat is gekoppeld aan uw MCA - aanbevolen stappen
 
 U kunt het verkochte en factuuradres bijwerken dat is gekoppeld aan uw Microsoft Customer Agreement (MCA). 
 
 > [!NOTE]
-> Alleen een beheerder van een gebruiker kan de Azure Active Directory-gebruikersprofielinformatie wijzigen. Neem contact op met de beheerder van de beheerder als u de rol van gebruikersbeheerder niet hebt toegewezen. Zie voor meer informatie over het wijzigen van een gebruikersprofiel [gegevens van gebruikersprofielen toevoegen of bijwerken met Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Alleen een gebruikerbeheerder kan wijzigingen aanbrengen in de Azure Active Directory profielgegevens van gebruikers. Neem contact op met de beheerder van de gebruiker als u de rol van gebruikersbeheerder niet hebt toegewezen. Zie Profielgegevens van een gebruiker toevoegen of bijwerken met behulp van Azure Active Directory voor meer informatie over het wijzigen van [het profiel van een gebruiker.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Adres (verkocht aan** ): het verkochte adres is het adres en de contactgegevens van de organisatie of de persoon die verantwoordelijk is voor een factureringsaccount. Dit wordt weergegeven in alle facturen die voor de factureringsaccount zijn gegenereerd.
+**Verkocht adres:** het adres dat is verkocht, is het adres en de contactgegevens van de organisatie of de persoon die verantwoordelijk is voor een factureringsaccount. Deze wordt weergegeven in alle facturen die voor het factureringsaccount zijn gegenereerd.
 
-**Factuuradres** : het factuuradres en de contactgegevens van de organisatie of de persoon die verantwoordelijk is voor de facturen die zijn gegenereerd voor een factuur account. Voor een factuur account voor een MCA is er een factuuradres voor elk facturerings profiel en wordt dit weergegeven in de factuur die voor het facturerings profiel is gegenereerd.
+**Factuuradres:** het factuuradres is het adres en de contactgegevens van de organisatie of de persoon, die verantwoordelijk is voor de facturen die zijn gegenereerd voor een factureringsaccount. Voor een factureringsaccount voor een MCA is er een factuuradres voor elk factureringsprofiel en wordt dit weergegeven in de factuur die is gegenereerd voor het factureringsprofiel.
 
-**U kunt als volgt een MCA-factureringsaccount voor het verkochte adres bijwerken**:
+**Als u een MCA-factureringsaccount wilt bijwerken dat is verkocht aan adres:**
 
-1. Meld u aan bij de Azure-Portal met behulp van het e-mailadres, dat de rol van eigenaar of Inzender heeft voor de factureringsaccount voor een MCA.
-1. Zoek de facturering van **kostenbeheer**  +  .
-1. Klik op **Properties**  >  **Update selling**.
-1. Voer het nieuwe adres in en klik op **Opslaan**.
+1. Meld u aan bij de Azure-portal met het e-mailadres, dat een eigenaar of een bijdragerrol heeft in het factureringsaccount voor een MCA.
+1. Zoek naar **Facturering voor**  +  **kostenbeheer**.
+1. Klik **op**  >  **Eigenschappenupdate verkocht aan**.
+1. Voer het nieuwe adres in en klik op **Opslaan.**
 
-Voor sommige accounts is extra verificatie vereist voordat het verkochte adres kan worden bijgewerkt. Als uw account handmatig moet worden goedgekeurd, wordt u gevraagd contact op te nemen met de ondersteuning van Azure.
+Voor sommige accounts is extra verificatie vereist voordat het adres van de verkochte account kan worden bijgewerkt. Als voor uw account handmatige goedkeuring is vereist, wordt u gevraagd contact op te nemen met De ondersteuning van Azure.
 
-**Het adres van een MCA-factureringsaccount bijwerken**: 
+**Het adres van een MCA-factureringsaccount bijwerken:** 
 
-1. Meld u aan bij de Azure-Portal met behulp van het e-mailadres van een eigenaar of Inzender voor een factuur account of een factuur profiel voor een MCA.
-1. Zoek de facturering van **kostenbeheer**  +  .
-1. Klik op **factuur profielen** en selecteer een factuur profiel selecteren om het factuuradres bij te werken.
-1. Klik op **Eigenschappen**  >  **bijwerken**.
-1. Voer het nieuwe adres in en klik op **Opslaan**.
+1. Meld u aan bij de Azure-portal met het e-mailadres, dat een eigenaar of een bijdragerrol heeft op een factureringsaccount of een factureringsprofiel voor een MCA.
+1. Zoek naar **Facturering voor**  +  **kostenbeheer**.
+1. Klik **op Factureringsprofielen** en selecteer een factureringsprofiel om het factureringsadres bij te werken.
+1. Klik **op Adres van eigenschappen**  >  **bijwerken.**
+1. Voer het nieuwe adres in en klik op **Opslaan.**
 
 **Aanbevolen documenten**
 
-[Contactgegevens voor een Azure-factureringsaccount wijzigen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
-[Instellingen voor facturerings accounts bijwerken](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Meer informatie over de Microsoft Customer Agreement Administrative roles in azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Contactgegevens wijzigen voor een Azure-factureringsaccount](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Factureringsaccountinstellingen bijwerken](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+[Understand Microsoft Customer Agreement administrative roles in Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

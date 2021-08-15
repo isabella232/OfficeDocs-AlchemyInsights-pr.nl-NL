@@ -1,5 +1,5 @@
 ---
-title: SharePoint- of OneDrive-bestanden of -mappen delen
+title: Bestanden of mappen SharePoint of OneDrive delen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 9fcd43022d048c3d0b652f20308dc6b0b3f6a2f4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d4917d91e1567afeacb77f78735d39d14c9286e4318026e1f4daf1fb1c11fde4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51803287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001755"
 ---
-# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>SharePoint- of OneDrive-bestanden of -mappen delen
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Bestanden of mappen SharePoint of OneDrive delen
 
-De bestanden die u op een SharePoint-site opgeslagen hebt, zijn meestal beschikbaar voor iedereen met machtigingen voor de site, maar u wilt mogelijk specifieke bestanden of mappen delen met personen die anders geen toegang hebben tot de site. Wanneer u bestanden en mappen deelt, kunt u bepalen of personen ze mogen bewerken of alleen mogen bekijken. Zie voor meer informatie:
+De bestanden die u op een SharePoint-site opgeslagen, zijn meestal beschikbaar voor iedereen met machtigingen voor de site, maar mogelijk wilt u specifieke bestanden of mappen delen met personen die anders geen toegang hebben tot de site. Wanneer u bestanden en mappen deelt, kunt u bepalen of personen ze mogen bewerken of alleen mogen bekijken. Zie voor meer informatie:
 
-[SharePoint-bestanden of -mappen delen](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Bestanden SharePoint mappen delen](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[OneDrive-bestanden en -mappen delen](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
+[Bestanden OneDrive mappen delen](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
