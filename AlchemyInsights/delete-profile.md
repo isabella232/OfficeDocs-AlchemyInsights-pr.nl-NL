@@ -1,5 +1,5 @@
 ---
-title: 1800001 profiel verwijderen
+title: 1800001 Profiel verwijderen
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680094"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005517"
 ---
 # <a name="delete-a-profile"></a>Een profiel verwijderen
 
-Gebruik de volgende stappen om een profiel te verwijderen.
+Als u een profiel wilt verwijderen, gebruikt u de volgende stappen.
   
-1. Selecteer in Outlook de **File** optie \> **Account Settings** \> **profielen beheren**in het instellingen voor bestands accounts.
+1. Selecteer Outlook  \> **Bestandsaccount Instellingen** \> **Profielen beheren.**
 
-2. Selecteer **profielen weergeven**.
+2. Selecteer **Profielen tonen.**
 
-3. Selecteer in het dialoogvenster **e-mail** het profiel dat u wilt verwijderen en klik op **verwijderen**.
+3. Selecteer in **het** dialoogvenster E-mail het profiel dat u wilt verwijderen en klik op **Verwijderen.**
 
     > [!NOTE]
-    > In Outlook wordt u gewaarschuwd dat bij het verwijderen van uw profiel offline gegevens worden verwijderd. U verliest geen gegevens die zijn opgeslagen in uw Outlook-gegevensbestanden (. PST) of gegevens die zijn opgeslagen in uw onlineaccounts, bijvoorbeeld Outlook.com, Exchange of Microsoft 365-accounts.
+    > Outlook kan u waarschuwen dat als u uw profiel verwijdert, offlinegegevens worden verwijderd. U raakt geen gegevens kwijt die zijn opgeslagen in uw Outlook-gegevensbestanden (.pst) of gegevens die zijn opgeslagen in uw onlineaccounts, bijvoorbeeld Outlook.com, Exchange of Microsoft 365-accounts.
   
-Voor **Outlook voor Mac** -Profielbeheer raadpleegt u [profielen of identiteiten beheren in Outlook voor Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) of voert u de volgende stappen uit.
+Zie **Profielen Outlook voor Mac** identiteiten [beheren in](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) Outlook voor Mac profielbeheer of de volgende stappen gebruiken voor meer informatie over profielbeheer.
   
-1. Open in Finder de map **Programma's** .
+1. Open vanuit de Finder de **Toepassingen** map.
 
-2. CTRL + klik of klik met de rechtermuisknop op **Microsoft Outlook**en selecteer **inhoud van pakket weergeven**.
+2. Ctrl-klik of klik met de rechtermuisknop op **Microsoft Outlook** en selecteer vervolgens **Inhoud van het pakket tonen**.
 
-3. Selecteer **Contents** de \> **ondersteuning voor gedeelde**inhoud en start **Outlook Profielbeheer**.
+3. Selecteer **Inhoud gedeelde** \> **ondersteuning** en start vervolgens Outlook **Profielbeheer.**

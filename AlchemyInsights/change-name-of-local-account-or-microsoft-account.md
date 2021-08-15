@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017811"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>De naam van een lokaal account of een Microsoft-account wijzigen
 
@@ -37,7 +37,7 @@ Als u een e-mailadres en wachtwoord gebruikt om u aan te melden, gebruikt u een 
 
 **De weergavenaam van uw Microsoft-account wijzigen:**
 
-U gebruikt uw weergavenaam wanneer u zich bij uw account aan melden. Het is ook de naam die u ziet op uw Windows 10-apparaten en het is de naam die mensen zien wanneer u e-mailberichten verzendt. Deze naam kan afwijken van de weergavenaam van uw lokale account. U kunt als volgende de weergavenaam wijzigen:
+U gebruikt uw weergavenaam wanneer u zich bij uw account aan melden. Het is ook de naam die u ziet op uw Windows 10 apparaten en het is de naam die mensen zien wanneer u e-mailberichten verzendt. Deze naam kan afwijken van de weergavenaam van uw lokale account. U kunt als volgende de weergavenaam wijzigen:
 
 1. Meld u aan bij **de pagina Uw gegevens** op de website van het [Microsoft-account.](https://account.microsoft.com/)
 
