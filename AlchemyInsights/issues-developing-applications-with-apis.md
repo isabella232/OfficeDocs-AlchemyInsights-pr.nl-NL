@@ -1,5 +1,5 @@
 ---
-title: Problemen met het ontwikkelen van toepassingen met Api's
+title: Problemen met het ontwikkelen van toepassingen met API's
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013455"
 ---
-# <a name="issues-developing-applications-with-apis"></a>Problemen met het ontwikkelen van toepassingen met Api's
+# <a name="issues-developing-applications-with-apis"></a>Problemen met het ontwikkelen van toepassingen met API's
 
-Als u wilt beginnen met de API van Azure Active Directory Graph, raadpleegt u de [introductiehandleiding voor Azure AD Graph API](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) of raadpleegt u de documentatie over de [interactieve Azure AD Graph API](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
+Als u wilt beginnen met Azure Active Directory Graph API, bekijkt u de [Handleiding snelstart](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) van Azure AD Graph API of bekijkt u de interactieve Documentatie van Azure [AD-Graph API-naslaginformatie.](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)
 
-**Einde van de ondersteuning voor Azure Active Directory Authentication Library (ADAL) en Azure AD Graph API (AAD-grafiek)**
+**Einde van ondersteuning voor Azure Active Directory Authentication Library (ADAL) en Azure AD Graph API (AAD Graph)**
 
-**Vanaf 30 juni 2020** worden niet langer nieuwe functies toegevoegd aan ADAL en Azure AD Graph. We bieden technische ondersteuning en beveiligingsupdates, maar bieden geen functie-updates meer.
+**Vanaf 30 juni 2020** worden er geen nieuwe functies meer toegevoegd aan ADAL en Azure AD Graph. We blijven technische ondersteuning en beveiligingsupdates bieden, maar bieden geen functie-updates meer aan.
 
-**Vanaf 30 juni 2022** wordt de ondersteuning voor ADAL en Azure AD Graph beëindigd en zal u niet langer technische ondersteuning en beveiligingsupdates bieden.
+**Vanaf 30 juni 2022** beëindigen we de ondersteuning voor ADAL en Azure AD Graph en bieden we geen technische ondersteuning of beveiligingsupdates meer.
 
-Apps die gebruikmaken van ADAL op bestaande versie van het besturingssysteem werken na dit moment nog niet, maar krijgen geen technische ondersteuning of beveiligingsupdates.
+Apps met ADAL in bestaande versies van besturingssystemen blijven na deze tijd wel werken, maar krijgen geen technische ondersteuning of beveiligingsupdates.
 
-Apps die gebruikmaken van Azure AD Graph na dit tijdstip, kunnen mogelijk geen antwoorden meer ontvangen van het Azure AD-eindpunt.
+Apps met Azure AD-Graph na deze tijd ontvangen mogelijk geen antwoorden meer van het Azure AD-Graph eindpunt.
 
 **ADAL-migratie**
 
-We raden u aan een update uit te voeren voor de [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), met de meest recente functies en beveiligingsupdates.
+U wordt aangeraden bij te werken naar [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), dat de nieuwste functies en beveiligingsupdates bevat.
 
-Als u Microsoft-apps gebruikt, moet u weten dat Microsoft de toepassing van de einde-ondersteunings deadline zal gebruiken voor het migreren van de toepassingen en om te zorgen dat ze profiteren van de voortdurende beveiliging en functieverbeteringen van MSAL.
+Als u Microsoft-apps gebruikt, weet dan dat Microsoft bezig is met het migreren van de toepassingen naar MSAL tegen het einde van de ondersteuningsdeadline, zodat ze profiteren van de voortdurende beveiligings- en functieverbeteringen van MSAL.
 
-1. [Lees de veelgestelde vragen over ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Meer informatie over hoe u apps migreert op een platform basis](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Als u meer informatie wilt over het gebruik van ADAL, raden we u aan alle broncode van uw apps te controleren en, indien van toepassing, contact op te nemen met Isv's of app-providers. Microsoft-ondersteuning kan u ook een lijst met alle niet-Microsoft ADAL-apps in uw Tenant bieden.
+1. [Lees de veelgestelde vragen over ADAL.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. [Meer informatie over het migreren van apps per platform.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Als u hulp nodig hebt bij het begrijpen van welke van uw apps ADAL wordt gebruikt, raden we u aan de broncode van al uw apps te bekijken en indien van toepassing contact op te zoeken met isv's of app-providers. Microsoft-ondersteuning kan u ook een lijst met alle niet-Microsoft ADAL-apps in uw tenant bieden.
 
-**Migratie van AAD-grafieken**
+**AAD Graph-migratie**
 
-Volg voor toepassingen die gebruikmaken van Azure AD Graph onze richtlijnen voor het migreren van [Azure AD Graph-apps naar Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+Voor toepassingen die Azure AD-Graph gebruiken, volgt u onze richtlijnen voor het migreren van [Azure AD-Graph-apps](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)naar Microsoft Graph.
 
-1. [Onze migratie controlelijst biedt een aantekening aan de slag](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. De registratie portal van Azure app toont welke toepassingen gebruikmaken van een AAD-grafiek. We raden u aan om alle broncode van uw apps te controleren en, indien van toepassing, contact op te nemen met Isv's of app-providers. Microsoft-ondersteuning kan u ook een lijst met alle AAD-grafiek gebruik in uw Tenant bieden.
-1. Als u wilt dat de app toegang heeft tot gegevens in Microsoft Graph, moet de gebruiker of de beheerder deze de juiste machtigingen verlenen via een toestemming procedure. De [verwijzing naar machtigingen van Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) bevat de machtigingen die zijn gekoppeld aan elke primaire set Microsoft Graph-api's. Ook biedt u informatie over het gebruik van de machtigingen.
+1. [De controlelijst voor migratie biedt een beginpunt](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. De registratieportal van uw Azure-app laat zien welke toepassingen gebruikmaken van AAD Graph. Het is raadzaam om alle broncodes van uw apps door te lezen en, indien van toepassing, contact op te nemen met onafhankelijke softwareleveranciers of app-providers. Microsoft-ondersteuning kan u ook een lijst met alle AAD-Graph in uw tenant.
+1. Als uw app toegang heeft tot gegevens in Microsoft Graph, moet de gebruiker of beheerder deze de juiste machtigingen verlenen via een toestemmingsproces. De [verwijzing Graph microsoft-machtigingen](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) bevat de machtigingen die zijn gekoppeld aan elke belangrijke set Microsoft-Graph API's. Het bevat ook richtlijnen voor het gebruik van de machtigingen.

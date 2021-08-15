@@ -1,5 +1,5 @@
 ---
-title: Problemen met het openen van de Microsoft Defender ATP-portal
+title: Problemen met het openen van de MICROSOFT Defender ATP-portal
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: a00096dd85e7b1ff87ea10dd8c69c8c27c02c07a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: e0ba1d1650d6656f79b74f975a8cc6429fe6d4f1b42edea1a6a02b574d2af057
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013563"
 ---
-# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemen met het openen van de Microsoft Defender ATP-portal
+# <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Problemen met het openen van de MICROSOFT Defender ATP-portal
 
-Als u het bericht 'Uw abonnement is verlopen' ontvangt, is uw onlineserviceabonnement verlopen. Een Microsoft Defender ATP-abonnement heeft net als andere onlineserviceabonnementen een vervaldatum.
+Als u een bericht 'Uw abonnement is verlopen' ontvangt, is uw onlineserviceabonnement verlopen. Een ATP-abonnement van Microsoft Defender heeft, net als andere onlineserviceabonnementen, een vervaldatum.
 
-Het bericht 'Uw abonnement is verlopen' bevat een optie voor het downloaden van het overstappen op het apparaat als u ervoor kiest uw licentie niet te verlengen.
+Het bericht 'Uw abonnement is verlopen' bevat een optie voor het downloaden van het off-boarding-pakket van het apparaat als u ervoor kiest uw licentie niet te verlengen.

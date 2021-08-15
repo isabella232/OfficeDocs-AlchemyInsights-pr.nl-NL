@@ -1,5 +1,5 @@
 ---
-title: Ziet u e-mail vertragingen of e-mail in de wachtrij?
+title: Ziet u e-mailvertraging of e-mail in de wachtrij?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030159"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ziet u e-mail vertragingen of e-mail in de wachtrij?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ziet u e-mailvertraging of e-mail in de wachtrij?
 
-We zijn onlangs begonnen met het teruggaan van oudere SMTP-eindpunten. Deze doelwaarden zijn beschikbaar voor gebruik in MX-records en Smart hosts vóór 2012. Als u nog een van deze oudere waarden gebruikt, moet u het eindpunt bijwerken naar een ondersteunde waarde. Zie voor meer informatie deze [ondersteuning KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+We zijn onlangs begonnen met het afvangen van oudere SMTP-eindpunten. Deze doelwaarden waren vóór 2012 beschikbaar in MX-records en smart hosts. Als u nog steeds een van deze oudere waarden gebruikt, moet u het eindpunt bijwerken naar een ondersteunde waarde. Zie deze ondersteuning kb [voor meer informatie.](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)

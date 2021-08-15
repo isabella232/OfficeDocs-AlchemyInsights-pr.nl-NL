@@ -1,5 +1,5 @@
 ---
-title: Tips voor het exporteren van een rapport voor Inhoud zoeken
+title: Tips voor het exporteren van een rapport voor Zoeken naar inhoud
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978876"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Tips voor het exporteren van een rapport voor Inhoud zoeken
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Tips voor het exporteren van een rapport voor Zoeken naar inhoud
 
-Mogelijk moet u een rapport van een inhoudszoekactie weergeven in plaats van de volledige zoekresultaten te exporteren. Als dit heten, kunt u alleen een rapport van de zoekresultaten exporteren. Hier zijn enkele tips:
+Mogelijk moet u een rapport van een inhoudszoekactie bekijken in plaats van de volledige zoekresultaten te exporteren. Als dat zo is, kunt u alleen een rapport van de zoekresultaten exporteren. Hier volgen enkele tips:
 
 - Zorg ervoor dat aan uw account de rol compliancezoekbeheer is toegewezen.
 - Controleer of uw computer aan alle vereisten [heeft voldaan.](https://go.microsoft.com/fwlink/?linkid=2102407) Niet alle browsers worden ondersteund, zoals Chrome.
-- Verklein de exportresultaten tot minder dan 20 TB, zodat de export niet mislukt. Gebruik een kleiner datumbereik of minder zoeklocaties.
+- Verklein de exportresultaten tot minder dan 20 TB, zodat de export niet mislukt. Probeer een kleiner datumbereik of minder zoeklocaties te gebruiken.
 - Het exporteren van een rapport telt mee voor het maximum aantal rapporten dat tegelijk kan worden uitgevoerd.
 
-Zie Een inhoudszoekrapport [exporteren voor meer informatie](https://go.microsoft.com/fwlink/?linkid=2102409)
+Zie Een [inhoudszoekrapport exporteren voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2102409)

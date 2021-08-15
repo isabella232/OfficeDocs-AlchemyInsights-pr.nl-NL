@@ -1,5 +1,5 @@
 ---
-title: Help bij iOS-registratie
+title: Help voor iOS-inschrijving
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001395"
 ---
-# <a name="ios-enrollment-help"></a>Help bij iOS-registratie
+# <a name="ios-enrollment-help"></a>Help voor iOS-inschrijving
 
-We hebben vastgesteld dat u een probleem hebt met de iOS-registratie. Hier volgen enkele artikelen die voor u van pas kunnen komen: 
+We hebben gezien dat u mogelijk problemen hebt met de registratie van iOS. Hier zijn enkele artikelen die volgens ons kunnen helpen: 
 
-[Veelvoorkomende fouten en oplossingen voor iOS-registratie](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Veelvoorkomende iOS-registratiefouten en -oplossingen](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[Aan de slag met intune en iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Aan de slag met Intune en iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Algemene problemen bij het registreren](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Algemene registratieproblemen](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[De portal intune Troubleshooting gebruiken om veelvoorkomende registratie fouten op te sporen en op te lossen](https://docs.microsoft.com/intune/help-desk-operators)
+[De intune-portal voor probleemoplossing gebruiken om veelvoorkomende registratiefouten te diagnosticeren en op te lossen](https://docs.microsoft.com/intune/help-desk-operators)

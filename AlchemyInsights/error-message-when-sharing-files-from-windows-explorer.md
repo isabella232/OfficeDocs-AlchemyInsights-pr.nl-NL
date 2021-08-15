@@ -1,5 +1,5 @@
 ---
-title: Foutbericht bij het delen van bestanden vanuit Windows Verkenner
+title: Foutbericht bij het delen van bestanden Windows Explorer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030087"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Foutbericht bij het delen van bestanden vanuit Windows Verkenner
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Foutbericht bij het delen van bestanden Windows Explorer
 
-Wanneer u probeert te delen vanuit Windows Verkenner, wordt mogelijk het volgende foutbericht weergegeven:
+Wanneer u probeert te delen vanuit Windows Explorer, ontvangt u mogelijk het volgende foutbericht:
   
-Sorry, we kunnen de server nu niet bereiken. Probeer het later opnieuw.
+"Helaas kunnen we de server momenteel niet bereiken. Probeer het later opnieuw"
   
-Als u een foutbericht wilt oplossen, gaat u naar **extra** \> **Internetopties** in Internet Explorer \> , klikt u op het tabblad **Geavanceerd** en schakelt u het selectievakje **versleutelde pagina's niet op schijf opslaan**uit.
+Als u een foutbericht wilt  oplossen, gaat u vanuit Internet Explorer naar Extra internetopties op het tabblad Geavanceerd en vervolgens het selectievakje Niet-versleutelde pagina's opslaan op \>  \> **schijf uit.** 
   
- **Opmerking**: mogelijk moet u de browser opnieuw starten om de instelling van kracht te laten worden. Zie [Foutbericht ' kan de server momenteel niet bereiken ' bij het delen van bestanden](https://go.microsoft.com/fwlink/?linkid=2022914)voor meer informatie.
+ **Opmerking:** Mogelijk moet u de browser opnieuw starten om de instelling van kracht te laten worden. Zie Het foutbericht 'Kan de server momenteel niet bereiken' voor [meer informatie bij het delen van bestanden.](https://go.microsoft.com/fwlink/?linkid=2022914)
   
