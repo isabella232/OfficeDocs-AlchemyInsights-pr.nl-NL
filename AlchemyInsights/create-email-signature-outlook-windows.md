@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 70d3c745c251ac6a473538d991a83c3aaff730ac
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016335"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Een e-mailhandtekening maken in Outlook voor Windows
 
-Maak een e-mailhandtekening voor nieuwere versies van Outlook, zoals Outlook 2019, 2016 of 2013 door het volgende te doen:
+Maak als volgt een e-mailhandtekening voor nieuwere versies van Outlook, zoals Outlook 2019, 2016 of 2013:
 
-1. Selecteer in Outlook op **het tabblad** Start de optie **Nieuwe e-mail** en selecteer vervolgens het **tabblad** Bericht.
+1. Selecteer Outlook op het **tabblad Start** de optie Nieuwe e-mail en selecteer vervolgens het **tabblad** Bericht. 
 
 1. Selecteer in **de** groep Opnemen **de** optie Handtekening en kies **vervolgens Handtekeningen**.
 
@@ -36,5 +36,5 @@ Maak een e-mailhandtekening voor nieuwere versies van Outlook, zoals Outlook 201
 
 1. Typ **onder Handtekening bewerken** de handtekening die u wilt gebruiken en selecteer **OK.**
 
-Zie Een handtekening maken en toevoegen aan berichten voor informatie over het maken van een e-mailhandtekening in oudere versies van Outlook, zoals Outlook 2010 of 2007. [](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)
+Zie Een handtekening maken en toevoegen aan berichten voor informatie over het maken van een e-mailhandtekening [](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)in oudere versies van Outlook, zoals Outlook 2010 of 2007.
 
