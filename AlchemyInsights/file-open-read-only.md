@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029799"
 ---
 # <a name="file-open-read-only"></a>Bestand alleen-lezen openen
 
@@ -38,18 +38,18 @@ Bestanden van internet en van andere potentieel onveilige locaties kunnen viruss
   
  **Is OneDrive vol?**
   
-Als het bestand is opgeslagen in OneDrive en uw OneDrive-opslagruimte vol is, kunt u het document pas opslaan als u onder de toegewezen ruimte bent. U kunt uw vrije ruimte in OneDrive controleren door op het OneDrive-pictogram in het systeemcentrum te klikken en Opslag beheren te kiezen. U kunt ook naar , aanmelden gaan en de hoeveelheid gebruikte ruimte links onder in het scherm [https://onedrive.live.com](https://onedrive.live.com) noteren.
+Als het bestand is opgeslagen op OneDrive en uw OneDrive opslagruimte vol is, kunt u het document pas opslaan als u onder de toegewezen ruimte bent. U kunt uw vrije ruimte op OneDrive controleren door op het pictogram OneDrive in het systeemcentrum te klikken en Opslag beheren te kiezen. U kunt ook naar , aanmelden gaan en de hoeveelheid gebruikte ruimte links onder in het scherm [https://onedrive.live.com](https://onedrive.live.com) noteren.
   
  **Is Office geactiveerd?**
   
-Als Office niet is geactiveerd of als uw abonnement is verlopen, kunt u in de modus Met beperkte functionaliteit alleen-lezen zijn. Zie: Product- en [activeringsfouten](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)zonder vergunning in Office voor informatie over het activeren van Office.
+Als Office niet is geactiveerd of als uw abonnement is verlopen, kunt u in de modus Beperkte functionaliteit alleen-lezen zijn. Zie: Product- en [activeringsfouten](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)zonder Office voor meer informatie over het activeren van Office.
   
  **Als al het andere mislukt...**
   
 - Probeer de computer opnieuw op te starten
     
-- Office-updates installeren
+- Installeer Office-updates
     
-- Een onlineherstel van Office uitvoeren
+- Een onlinereparatie van Office
     
 

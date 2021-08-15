@@ -1,5 +1,5 @@
 ---
-title: De Microsoft Search-extensie in Bing installeren in Google Chrome
+title: Installeer de Microsoft Search in Bing-extensie in Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014607"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>De Microsoft Search-extensie in Bing installeren in Google Chrome
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Installeer de Microsoft Search in Bing-extensie in Google Chrome
 
-Ga als volgt te werk om Microsoft Search te installeren in bing-extensie in Google Chrome:
+Als u Microsoft Search in Bing-extensie in Google Chrome wilt installeren, gaat u als volgt te werk:
 
 1. Zorg ervoor dat het apparaat voldoet [aan de criteria](https://go.microsoft.com/fwlink/?linkid=2152236) voor het installeren van de extensie.
-2. U kunt de extensie installeren door de juiste instellingen te configureren in de **sectie Microsoft Zoeken** van het Microsoft 365-beheercentrum.
-3. Installeer op het apparaat van de gebruiker een achtergrondservice voor Microsoft Search in Bing. Deze achtergrondservice is opgenomen in Microsoft 365 Apps voor bedrijven.
+2. Kies ervoor om de extensie te laten installeren door de juiste instellingen te configureren in **Microsoft Search** sectie van de Microsoft 365-beheercentrum.
+3. Installeer op het apparaat van de gebruiker een achtergrondservice voor Microsoft Search in Bing. Deze achtergrondservice is opgenomen in Microsoft 365-apps voor ondernemingen.
 
-Zie Hoe wordt de [Microsoft Search in Bing-extensie](https://go.microsoft.com/fwlink/?linkid=2150992) voor Google Chrome geïnstalleerd voor meer informatie?
+Zie Hoe wordt de Microsoft Search [in Bing voor Google Chrome geïnstalleerd?](https://go.microsoft.com/fwlink/?linkid=2150992) voor meer informatie.
