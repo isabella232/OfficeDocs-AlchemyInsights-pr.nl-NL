@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: dcc0f24e807c4fcf4930cd9d988d053d894171f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ab24766fb3685a90bd29b66168364b7451e1c98685ed792eb595bec9cb1b0ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032229"
 ---
 # <a name="create-a-site"></a>Een site maken
 
-U kunt verschillende soorten sites maken in SharePoint Online. Zie [een site maken](https://go.microsoft.com/fwlink/?linkid=866295)voor informatie over hoe u dit doet in het nieuwe SharePoint-Beheercentrum. Zie [sites maken in SharePoint Online beheren](https://go.microsoft.com/fwlink/?linkid=866296)voor informatie over het toestaan van gebruikers om hun eigen sites te maken.
+U kunt verschillende typen sites maken in SharePoint Online. Zie Een site maken voor meer informatie over hoe u dit SharePoint in het nieuwe [beheercentrum.](https://go.microsoft.com/fwlink/?linkid=866295) Zie Site maken beheren in SharePoint Online voor informatie over het toestaan van gebruikers om hun [eigen sites te maken.](https://go.microsoft.com/fwlink/?linkid=866296)
  
-Zie [verbonden team sites](https://go.microsoft.com/fwlink/?linkid=866292) of [Communicatiesites](https://go.microsoft.com/fwlink/?linkid=866294)groeperen voor informatie over de nieuwe site typen.
+Zie Verbonden [teamsites](https://go.microsoft.com/fwlink/?linkid=866292) of communicatiesites groepen voor meer informatie over de nieuwe [sitetypen.](https://go.microsoft.com/fwlink/?linkid=866294)
     
 
 

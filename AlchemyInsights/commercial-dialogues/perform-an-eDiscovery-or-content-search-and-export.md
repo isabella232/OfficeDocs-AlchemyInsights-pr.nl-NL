@@ -1,5 +1,5 @@
 ---
-title: Een eDiscovery/inhoud zoeken en exporteren
+title: Een eDiscovery/Inhoud zoeken en exporteren uitvoeren
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016623"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>Een eDiscovery/inhoud zoeken en exporteren
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>Een eDiscovery/Inhoud zoeken en exporteren uitvoeren
 
 U kunt als volgende zoeken naar inhoud in uw organisatie en deze exporteren:
 
-1. Ga naar het [& compliancecentrum en navigeer](https://go.microsoft.com/fwlink/?linkid=2086958) naar **Zoeken** in  >  **inhoud zoeken**+ Nieuwe  >  **zoekopdracht.**
-1. Voer de trefwoorden en voorwaarden in die u zoekt.
-1. Geef onder aan de pagina de locaties op waar u wilt zoeken (zoals e-mail, Teams-berichten, SharePoint-sites) of klik op **Alle locaties.**
-1. Klik **op Opslaan & uitvoeren.** Noem uw zoekquery en klik op **Opslaan.** De query wordt uitgevoerd en u ziet de resultaten.
+1. Ga naar het [beveiligingscentrum & compliancecentrum](https://go.microsoft.com/fwlink/?linkid=2086958) en ga naar **Zoeken in**  >  **inhoud zoeken**+ Nieuwe  >  **zoekopdracht.**
+1. Voer de trefwoorden en voorwaarden in die u wilt zoeken.
+1. Geef onder aan de pagina de locaties op die u wilt zoeken (zoals e-mail, Teams berichten, SharePoint sites) of klik op **Alle locaties.**
+1. Klik **op Opslaan & uitvoeren.** Noem de zoekquery en klik vervolgens op **Opslaan.** De query wordt uitgevoerd en toont de resultaten.
 
-Zie Resultaten van Inhoud exporteren voor meer informatie over het exporteren [van zoekresultaten.](https://go.microsoft.com/fwlink/?linkid=2102118)
+Zie Zoekresultaten voor inhoud exporteren voor meer informatie over het exporteren [van zoekresultaten.](https://go.microsoft.com/fwlink/?linkid=2102118)
 

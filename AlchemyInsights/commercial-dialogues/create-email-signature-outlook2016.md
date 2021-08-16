@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f7e91169f06c5c0242cb7aaa0e1a0c266b5b30dc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 54f813eed229661e49058b46f2cc73c5900b506a4e72f6b4a6818603f18dbd29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045235"
 ---
 # <a name="create-an-email-signature-in-outlook-2016"></a>Een e-mailhandtekening maken in Outlook 2016
 
-In Outlook kan uw e-mailhandtekening tekst, afbeeldingen, uw elektronische visitekaartje, een logo of zelfs een afbeelding van uw handgeschreven handtekening bevatten.
+In Outlook kan uw e-mailhandtekening tekst, afbeeldingen, uw elektronisch visitekaartje, een logo of zelfs een afbeelding van uw handgeschreven handtekening bevatten.
 
-1. Open een nieuw e-mailbericht in Outlook.
-2. Kies Handtekeningen **op** het tabblad  >  **Bericht.**
-3. Kies **onder Selecteer de handtekening die u** wilt **bewerken** de optie Nieuw en typ een naam voor de handtekening.
-4. Schrijf **uw handtekening onder** Handtekening bewerken.
+1. Open Outlook een nieuw e-mailbericht.
+2. Kies op **het** tabblad Bericht de optie   >  **Handtekeninghandtekeningen**.
+3. Kies **onder Handtekening selecteren om te bewerken** de optie **Nieuw** en typ vervolgens een naam voor de handtekening.
+4. Schrijf **onder Handtekening bewerken** uw handtekening op.
