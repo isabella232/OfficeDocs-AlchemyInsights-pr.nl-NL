@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031401"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Invoegvoegingen implementeren voor Microsoft 365-apps
 
@@ -27,7 +27,7 @@ Gecentraliseerde implementatie is de aanbevolen manier om Office te implementere
 **Opmerking:** Zie Invoegvoegingen weergeven, beheren en installeren in Office programma's als u invoegprogramma's wilt installeren voor Office [als individuele gebruiker.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Zorg er ook voor dat individuele overname van Office Store-invoegvoegingen is ingeschakeld. Zie Invoegdownloads voorkomen door de store Office alle clients uit te schakelen [(behalve Outlook) voor meer informatie.](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Zorg ervoor dat uw omgeving voldoet aan de vereisten voor de implementatie van invoegvoegingen met gecentraliseerde implementatie. Zie Vereisten voor [meer informatie.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
-2. Ga naar **Instellingen**  >  **Geïntegreerde apps Apps**  >  **downloaden** in het Microsoft 365-beheercentrum om invoegvoegingen te implementeren. 
+2. Ga naar **Instellingen**  >  **Geïntegreerde apps Apps**  >  **downloaden** in de Microsoft 365-beheercentrum om invoegvoegingen te implementeren. 
 
 Opmerkingen: 
 
@@ -46,6 +46,6 @@ Zie voor meer informatie:
 [Invoegvoegingen implementeren in het beheercentrum](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Invoegvoegingen beheren in het beheercentrum](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [De PowerShell-cmdlets voor](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) gecentraliseerde implementatie gebruiken om invoegingen te beheren 
- Invoeg Office via gecentraliseerde implementatie publiceren [via het Microsoft 365 beheercentrum](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [Invoeg Office via gecentraliseerde](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) implementatie publiceren via de Microsoft 365-beheercentrum 
  [Probleem oplossen: Gebruiker ziet geen invoegvoegingen](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Gebruikersfouten oplossen met Office-invoegingen](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)
