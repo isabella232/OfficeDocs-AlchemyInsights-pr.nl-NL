@@ -1,5 +1,5 @@
 ---
-title: Machtigingen die nodig zijn voor het maken en beheren van gevoeligheidslabels
+title: Gevoeligheidslabels maken en beheren
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 51c4f60757bea997b68dbcb25d9dd36efd126228
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: ecca5fd33b1f4010013b85429f15c6c565493aa69c6488c5432a7bb29432f738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034209"
 ---
-# <a name="permissions-required-to-create-and-manage-sensitivity-labels"></a>Machtigingen die nodig zijn voor het maken en beheren van gevoeligheidslabels
+# <a name="permissions-required-to-create-and-manage-sensitivity-labels"></a>Gevoeligheidslabels maken en beheren
 
-Leden van uw complianceteam die gevoeligheidslabels maken, hebben machtigingen nodig voor het Microsoft 365-compliancecentrum, het Microsoft 365-beveiligingscentrum of het beveiligings- & compliancecentrum.
+Leden van uw complianceteam die gevoeligheidslabels maken, hebben machtigingen nodig voor het Microsoft 365-compliancecentrum, Microsoft 365 beveiligingscentrum of het Beveiligings- & Compliancecentrum.
 
 Globale beheerders voor uw tenant hebben standaard toegang tot deze beheercentra en kunnen toegang verlenen aan compliancemedewerkers en andere personen, zonder dat ze alle machtigingen van een tenantbeheerder hebben. Voor deze gedelegeerde beperkte beheerderstoegang voegt u vanaf de pagina Machtigingen gebruikers toe aan de rollengroep Compliancegegevensbeheerder, Compliancebeheerder of Beveiligingsbeheerder. 
 
