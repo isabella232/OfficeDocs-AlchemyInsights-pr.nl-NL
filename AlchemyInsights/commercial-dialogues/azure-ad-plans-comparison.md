@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481810"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045631"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Vergelijking van Azure Active Directory-abonnementen
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory vergelijking van abonnementen
 
-Azure Active Directory is beschikbaar in vier versies: gratis Office 365-apps, Premium P1 en Premium P2.
+Azure Active Directory is beschikbaar in vier edities: Gratis, Office 365 Apps, Premium P1 en Premium P2.
 
-De gratis versie is inbegrepen bij een Azure-abonnement. De Premium-versies zijn beschikbaar via uw Microsoft-vertegenwoordiger, het [Open Volume License Program](https://go.microsoft.com/fwlink/?linkid=2110873)en de Cloud Solution [Providers-programma's.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
+De Gratis versie is inbegrepen bij een Azure-abonnement. De Premium versies zijn beschikbaar via uw Microsoft-vertegenwoordiger, het [Open Volume License Program](https://go.microsoft.com/fwlink/?linkid=2110873)en de [cloudoplossingsproviders.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Azure en Office 365-abonnees kunnen Azure Active Directory Premium P1 en P2 ook online kopen. Zie de functies en prijzen [van Azure Active Directory voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2081447)
+Azure en Office 365 abonnees kunnen ook online Azure Active Directory Premium P1 en P2 kopen. Zie voor meer informatie [Azure Active Directory functies en prijzen.](https://go.microsoft.com/fwlink/?linkid=2081447)

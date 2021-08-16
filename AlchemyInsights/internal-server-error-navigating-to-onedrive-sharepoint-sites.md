@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028431"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Interne serverfout bij het navigeren naar SharePoint-of OneDrive-sites
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Interne serverfout bij het navigeren naar Sharepoint- of OneDrive sites
 
-Gebruikers kunnen een interne serverfout in 500 ontvangen bij het navigeren naar SharePoint-of OneDrive-sites. 
+Gebruikers kunnen een foutmelding van 500 interne server ontvangen wanneer ze naar sites SharePoint of OneDrive navigeren. 
 
-Probeer de cache van de browser te wissen voordat u naar de site navigeert.
+Probeer de browsercache te wissen voordat u naar de site gaat.
 
 
-1. Ga in de browser Microsoft Edge naar meer > Settings....
+1. Ga in Microsoft Edge browser naar Meer...> Instellingen
 
-2. Selecteer onder browsegegevens wissen de **optie Selecteer wat u wilt wissen** .
+2. Selecteer onder Browsegegevens verwijderen de optie **Kiezen wat u wilt verwijderen**
 
-3. Schakel het selectievakje Cookies en opgeslagen websitegegevens in en selecteer **wissen**.
+3. Schakel het selectievakje Cookies en opgeslagen websitegegevens in en selecteer **Verwijderen.**
 
-Opmerking: deze stappen kunnen verschillen wanneer u andere browsers gebruikt, zoals Firefox of Chrome.
+Opmerking: Deze stappen kunnen verschillen wanneer u andere browsers gebruikt, zoals Firefox of Chrome.
 
-Als het probleem hiermee niet is opgelost, kunt u controleren of er actief onderhoud plaatsvindt op uw Tenant door naar het [berichtencentrum](https://portal.office.com/adminportal/home#/MessageCenter)te navigeren.
+Als het probleem hiermee niet is opgelost, kunt u controleren of er actief onderhoud plaatsvindt in uw tenant door naar het [berichtencentrum te navigeren.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Zorg er ten slotte voor dat u naar de pagina [service status](https://portal.office.com/adminportal/home#/servicehealth) gaat om te controleren of er een of meer adviseurs zijn die zich mogelijk voordoen.
+Zorg er ten slotte voor dat u naar de [pagina Service-status](https://portal.office.com/adminportal/home#/servicehealth) gaat om te controleren op eventuele adviezen/incidenten.
 
