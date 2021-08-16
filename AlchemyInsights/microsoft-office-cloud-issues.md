@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012411"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Ondervindt u problemen met een cloudservice?
 
-Als u problemen ondervindt met een cloudservice, kunt u de [servicestatus](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) in het microsoft 365-Beheercentrum controleren om na te gaan of het een bekend probleem is met een oplossing in behandeling voordat u contact opneemt met de ondersteuning of voor het oplossen van problemen. Het probleem kan zeer tijdelijk zijn en is al geïdentificeerd door Microsoft, maar mogelijk verloopt er mogelijk een vertraging tussen de uitgifte-en posters naar het dashboard voor de service status. Ga naar het service dashboard controleren voor verdere updates.
+Als u problemen ondervindt met een cloudservice, kunt u de service-status [in](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) het Microsoft 365-beheercentrum controleren om te bepalen of het een bekend probleem is met een oplossing die wordt uitgevoerd voordat u de ondersteuning belt of tijd besteedt aan het oplossen van problemen. Het probleem kan zeer tijdelijk zijn en al door Microsoft zijn geïdentificeerd, maar er kan een tijdsverloop zijn tussen de identificatie van het probleem en het posten op het Dashboard Service health. Ga verder met het controleren van het servicedashboard voor verdere updates.
 
-**Meldings beleid**
+**Meldingsbeleid**
 
-Wanneer er sprake is van een service-incident, erkent Microsoft dat de tijd, targetd en accurate communicatie van essentieel belang zijn voor klanten. Microsoft stuurt beheerders een melding door het Tenant-specifiek [Dashboard (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) bij te werken in de beheer portal van microsoft 365. Service-incident updates worden per uur weergegeven of, als er een andere frequentie vereist is, wordt deze opgenomen in de SHD-communicatie post. Zie de [service status van Microsoft 365 controleren](https://docs.microsoft.com/office365/enterprise/view-service-health)voor meer informatie.
+Wanneer er een service-incident optreedt, erkent Microsoft dat tijdige, gerichte en nauwkeurige communicatie essentieel is voor klanten. Microsoft waarschuwt beheerders door het tenantspecifieke [SHD (Service Health Dashboard) op](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) de portal Microsoft 365-beheer bijwerken. Updates voor service-incidenten worden geleverd op een uurfrequentie of, als een andere cadans vereist is, wordt deze vermeld in de SHD-communicatieposting. Zie Service health Microsoft 365 [voor meer informatie.](https://docs.microsoft.com/office365/enterprise/view-service-health)
 

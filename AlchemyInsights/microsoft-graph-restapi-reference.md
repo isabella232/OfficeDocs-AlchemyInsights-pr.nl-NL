@@ -1,5 +1,5 @@
 ---
-title: Naslag voor API voor Microsoft Graph REST
+title: Microsoft Graph REST API Reference
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012519"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Naslag voor API voor Microsoft Graph REST
+# <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph REST API-verwijzing
 
-De grafiek-API-sets voor het eindpunt van de 1.0-versie van het eindpunt bevinden zich in algemene beschikbaarheid (GA) en hebben een rigoureuze beoordeling-en feedbackproces met klanten afgestemd op de behoeften van de productie.
+De Graph API-sets op het v1.0-eindpunt hebben de status algemene beschikbaarheid (GA) en hebben een uitgebreid revisie- en feedbackproces met klanten doorlopen om te voldoen aan praktische, productiebehoeften.
 
-- Zie voor meer informatie over Graph API v 1.0 [naslag voor Microsoft Graph rest API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Zie voor meer informatie over de bètaversie van [Microsoft Graph bèta-eindpunten](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Zie Microsoft Graph REST API v1.0 voor meer informatie over Graph API [v1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Zie Microsoft Graph beta-eindpuntverwijzing voor [Graph meer Graph api.bètaversie.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Zie voor meer informatie over Microsoft Graph de [documentatie bij Microsoft Graph](https://docs.microsoft.com/graph/).
+Zie Microsoft-documentatie voor Graph [microsoft-Graph voor meer informatie.](https://docs.microsoft.com/graph/)
 
-Unified en Premier Support klanten kunnen een ondersteuningsticket verhogen via deze portal. Als u geen ondersteuning biedt voor Unified of premier, hebt u toegang tot de gratis ontwikkelaars-ondersteuning voor Microsoft Graph op Microsoft Q&A. Plaats uw vraag hier: https://aka.ms/AskGraph
+Klanten van Unified en Premier Support kunnen via deze portal een ondersteuningsticket verhogen. Als u geen Unified- of Premier-ondersteuning hebt, hebt u toegang tot gratis ondersteuning voor ontwikkelaars voor Microsoft Graph Microsoft Q&A. Post uw vraag hier: https://aka.ms/AskGraph

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995040"
 ---
 # <a name="create-a-communication-compliance-policy"></a>Een communicatie-compliancebeleid maken
 
-Deze stap is vereist. U kunt een communicatie-compliancebeleid maken in het Microsoft 365-compliancecentrum. Hier ziet u hoe dat gaat:
+Deze stap is vereist. U kunt in de Microsoft 365-compliancecentrum. Hier ziet u hoe dat gaat:
 
-1. Selecteer communicatie-compliance in het [Microsoft 365-compliancecentrum.](https://go.microsoft.com/fwlink/?linkid=2130502) 
+1. Selecteer in [Microsoft 365-compliancecentrum](https://go.microsoft.com/fwlink/?linkid=2130502)de optie **Communicatie-naleving**.
 2. Selecteer het **tabblad** Beleid.
 3. Selecteer **Beleid maken** om een nieuw beleid te maken en te configureren op basis van een sjabloon of om een aangepast beleid te maken en te configureren.
 4. Wanneer u klaar bent, **selecteert u Beleid maken** als u de sjabloon gebruikt of **Verzenden** als u de wizard Aangepast beleid gebruikt.
