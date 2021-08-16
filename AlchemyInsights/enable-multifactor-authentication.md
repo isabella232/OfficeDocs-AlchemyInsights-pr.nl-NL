@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002907"
 ---
 # <a name="enable-multi-factor-authentication"></a>Meervoudige verificatie inschakelen
 
-Meervoudige verificatie inschakelen in het Microsoft 365-Beheercentrum:
+Als u meervoudige verificatie wilt inschakelen in de Microsoft 365-beheercentrum:
 
-1. Ga naar de pagina **gebruikers** van \> **Active Users** .
+1. Ga naar de **pagina Actieve** gebruikers \> **van gebruikers.**
     
-2. Selecteer **meerdere ledige verificatie**boven aan de pagina. 
+2. Selecteer meervoudige verificatie boven aan de **pagina.** 
     
-3. Zoek de gebruiker of gebruikers die u wilt inschakelen voor verificatie met meerdere factoren. Als u alle gebruikers wilt zien, moet u mogelijk het filter met de **Meervoudige verificatiestatus** boven aan het scherm wijzigen.
+3. Zoek de gebruiker of gebruikers die u wilt inschakelen voor meervoudige verificatie. Als u alle gebruikers wilt zien, moet u mogelijk bovenaan het **statusfilter Multi-Factor Auth** wijzigen.
     
 4. Schakel het selectievakje in naast de gebruikers die u wilt inschakelen.
     
-5.  Selecteer in het rechterdeelvenster van gebruikersinfo onder **snelle stappen**de optie **inschakelen**. 
+5.  Selecteer in het rechterdeelvenster gebruikersgegevens onder **snelle stappen** de optie **Inschakelen.** 
     
-6. Selecteer in het dialoogvenster dat wordt weergegeven de optie **multi-factor Authentication inschakelen**. 
+6. Selecteer in het dialoogvenster dat wordt geopend de **optie Meervoudige auth inschakelen.** 
     
 

@@ -1,5 +1,5 @@
 ---
-title: Rekeninggegevens van de facturering bijwerken
+title: Factureringsaccountgegevens bijwerken
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015327"
 ---
-# <a name="how-to-update-billing-account-information"></a>Rekeninggegevens van de facturering bijwerken
+# <a name="how-to-update-billing-account-information"></a>Factureringsaccountgegevens bijwerken
 
-Voordat u services koopt waarvan de kosten in rekening worden gebracht, moet u het zakelijke adres van uw organisatie, het e-mailadres en de naam van de contactpersoon toevoegen of bijwerken.
+Voordat u services koopt die een vergoeding hebben, moet u het zakelijke adres, het e-mailadres en de naam van de contactpersoon van uw organisatie toevoegen of bijwerken.
 
-We gebruiken het bedrijfsadres om BTW te berekenen en BTW te berekenen. Als u uw BTW-nummer wilt bijwerken, kunt u dat doen door de volgende stappen uit te voeren in de eigenaar van het factureringsaccount voor uw Microsoft Customer Agreement:
+We gebruiken het zakelijke adres om btw en btw te berekenen. Als u uw BTW-nummer wilt bijwerken, kan de eigenaar van het factureringsaccount voor uw Microsoft-klantovereenkomst dit doen door de volgende stappen uit te voeren:
 
-**Factureringsaccount gegevens bijwerken en uw BTW-nummer bijwerken**:
+**Factureringsaccountgegevens bijwerken en uw btw-id bijwerken:**
 
-1. Meld u aan bij de [Microsoft Store voor bedrijven](https://businessstore.microsoft.com/).
-1. Klik op  >  **facturerings accounts** beheren.
-1. Klik op **overzicht** en klik op **gegevens van factuur account bewerken**.
-1. Breng de wijzigingen aan en klik op **Opslaan**. 
+1. Meld u aan bij [de Microsoft Store voor Bedrijven.](https://businessstore.microsoft.com/)
+1. Klik **op**  >  **Factureringsaccounts beheren.**
+1. Klik **vanuit** Overzicht op **Factureringsaccountgegevens bewerken.**
+1. Pas uw updates aan en klik op **Opslaan.** 
 
 **Aanbevolen documenten**
 
-- [Meer informatie over uw MCA-factuur](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Uw MCA-factuur begrijpen](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [BTW-documenten voor uw Azure-factuur weergeven en downloaden](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Belastingdocumenten voor uw Azure-factuur weergeven en downloaden](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Instellingen voor facturerings accounts bijwerken](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Factureringsaccountinstellingen bijwerken](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

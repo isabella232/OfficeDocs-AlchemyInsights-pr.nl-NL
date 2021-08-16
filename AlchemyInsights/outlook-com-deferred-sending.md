@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041401"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Vertraging of planning verzenden van e-mailberichten
+# <a name="delay-or-schedule-sending-email-messages"></a>Het verzenden van e-mailberichten uitstellen of plannen
 
-Sorry, maar u kunt de verzending van e-mailberichten in een mobiele app of webbrowser niet uitstellen of plannen. Hiervoor gebruikt u [Outlook voor Windows of Outlook voor Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+U kunt het verzenden van e-mailberichten niet uitstellen of plannen in een mobiele app of webbrowser. Gebruik hiervoor Outlook [voor Windows of Outlook voor Mac.](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
 **Verzenden ongedaan maken**
 
-U kunt uw Outlook.com-instellingen wijzigen om het verzenden van een bericht gedurende 10 seconden te vertragen. Tijdens deze periode kunt u het verzenden van het bericht annuleren. Als u deze functie wilt inschakelen, opent u de instellingen voor het [Verzenden ongedaan maken](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+U kunt uw instellingen Outlook.com wijzigen om het verzenden van een bericht tot 10 seconden uit te stellen. U kunt het verzenden van het bericht tijdens deze periode annuleren. Als u deze functie wilt in- of uitschakelen, opent u [de instellingen voor verzenden ongedaan](https://outlook.live.com/mail/options/mail/messageContent/undoSend) maken.
 
-Meer informatie over het [terughalen van een e-mail in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Meer informatie over het [inroepen van e-mail in Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)
