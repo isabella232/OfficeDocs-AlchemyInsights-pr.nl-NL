@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401830"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874570"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Een antispambeveiliging instellen
 
-U doet dit als volgende:
+1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & Samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
 
-1. Ga naar het [Office 365-beveiligings- & Compliancecentrum](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Ga naar **Beleid voor bedreigingsbeheer**  >  en klik op **[Antispam.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Schakel **aangepaste** instellingen in op **het** tabblad Aangepast.
-1. Vouw het **standaardbeleid voor spamfilters** uit, klik **op Beleid bewerken** en geef de volgende instellingen op:
-    1. Stel in **de sectie Spam-** en bulkacties de drempelwaarde in op een waarde van 5 of 6.
-1. Klik op **Opslaan**.
+   Gebruik <https://security.microsoft.com/antispam> om direct naar de pagina **Antispambeleid** te gaan.
 
-Zie Het [antispambeleid configureren](https://go.microsoft.com/fwlink/?linkid=2092051)voor meer informatie over uw antispambeleidsopties.
+2. Ga op **de pagina Antispambeleid** op een van de volgende stappen te werk:
+   - Als u een nieuw beleid wilt toevoegen, **selecteert u +** \> **Inkomende tekst maken.** Er wordt een wizard gelanceerd om u te helpen uw beleidsinstellingen te definiëren.
+   - Als u een bestaand beleid wilt bewerken, selecteert u het beleid door op de naam van het beleid te klikken (**Type** is Aangepast **antispambeleid** of Naam **is** **antispam binnenkomende beleid (standaard)**). Selecteer bewerken **in** de sectie met de instellingen die u wilt configureren in het detail flyout dat wordt weergegeven.
+
+3. Nadat u de instellingen hebt bekeken, **selecteert** u Verzenden (nieuw) of **Opslaan** (bewerken).
+
+Zie [Antispambeleid configureren in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies) voor meer informatie.
