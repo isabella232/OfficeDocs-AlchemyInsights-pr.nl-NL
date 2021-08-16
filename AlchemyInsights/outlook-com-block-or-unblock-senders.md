@@ -16,28 +16,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49b869700a3e564e0386c5bd2e3b8d539d2f47d48f3a54f3718c770ccc9a0bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041509"
 ---
 # <a name="block-or-unblock-senders"></a>Afzenders blokkeren of deblokkeren
 
-Berichten van e-mailadressen of domeinen in de lijst met geblokkeerde afzenders worden niet weergegeven in uw Outlook.com-postvak.
+Berichten van e-mailadressen of domeinen in uw lijst met geblokkeerde afzenders komen niet naar uw postvak Outlook.com.
 
-**Vanuit uw postvak in:**
+**Vanuit uw Postvak IN:**
 
-- Selecteer het bericht in de berichtenlijst en selecteer vervolgens **ongewenste**  >  **blok**.
+- Selecteer in de berichtenlijst het bericht en selecteer vervolgens **Ongewenste**  >  **e-mailblok.**
 
-**Van instellingen:**
+**Van Instellingen:**
 
-1. Open instellingen [voor ongewenste e-mail](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. Selecteer **toevoegen**onder **Geblokkeerde afzenders en domeinen**.
-3. Voer het e-mailadres in van het domein dat u wilt blokkeren en druk op ENTER.
+1. Open [instellingen voor ongewenste e-mail.](https://outlook.live.com/mail/options/mail/junkEmail)
+2. Selecteer **onder Geblokkeerde afzenders en domeinen** de optie **Toevoegen.**
+3. Typ het e-mailadres van het domein dat u wilt blokkeren en druk op Enter.
 4. Selecteer **Opslaan**.
 
-Als u een afzender wilt deblokkeren, selecteert u het prullenbakpictogram naast het e-mailadres of domein waarvan u de blokkering wilt opheffen.
+Als u de blokkering van een afzender wilt opheffen, selecteert u het prullenbakpictogram naast het e-mailadres of domein dat u wilt deblokkeren.
 
-Zie [afzenders blokkeren of e-mail markeren als ongewenste e-mail](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)voor meer informatie.
+Zie Afzenders blokkeren [of e-mail markeren als ongewenste e-mail voor meer informatie.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

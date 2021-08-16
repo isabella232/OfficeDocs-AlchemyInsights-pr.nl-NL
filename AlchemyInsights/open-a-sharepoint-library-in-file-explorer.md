@@ -1,5 +1,5 @@
 ---
-title: Een SharePoint-bibliotheek openen in Verkenner
+title: Een bibliotheek SharePoint in Verkenner openen
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bdf4b5975095bf35808a78ec301c375b5744df49b685e033406a38151141597
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025245"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Een SharePoint-bibliotheek openen in Verkenner
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Een bibliotheek SharePoint in Verkenner openen
 
 1. Blader naar de bibliotheek in Internet Explorer 10 of Internet Explorer 11. 
     
-2. Klik in de rechterbovenhoek op het pictogram weergave en klik vervolgens op **weergeven in Verkenner**.
+2. Klik op het pictogram Beeld in de rechterbovenhoek en klik **vervolgens op Weergave in Verkenner.**
     
 > [!NOTE]
-> Het openen van een bibliotheek in Verkenner is handig als u meerdere bestanden en mappen wilt kopiëren of verplaatsen, maar als u regelmatig wilt werken in de bibliotheek, is het raadzaam om deze te synchroniseren. Zie [openen in Verkenner](https://go.microsoft.com/fwlink/?linkid=871665)voor informatie over het oplossen van problemen met openen in de Verkenner. Voor informatie over het instellen van synchronisatie raadpleegt u [SharePoint-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Het openen van een bibliotheek in Verkenner is handig als u meerdere bestanden en mappen eenmaal wilt kopiëren of verplaatsen, maar als u regelmatig in de bibliotheek wilt werken, raden we u aan deze te synchroniseren. Zie Openen in Verkenner als u problemen met openen in Verkenner [wilt oplossen.](https://go.microsoft.com/fwlink/?linkid=871665) Zie Bestanden synchroniseren met de nieuwe SharePoint voor meer OneDrive-synchronisatie informatie over het instellen [van synchronisatie.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

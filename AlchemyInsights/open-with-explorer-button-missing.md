@@ -1,5 +1,5 @@
 ---
-title: De knop openen met Explorer ontbreekt
+title: Openen met Explorer-knop ontbreekt
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: d5b5e37c7486c218998fd684bebd309c96bbeac2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5bc054a95c9bac07f2eb1b79b7241c610461545ade0088ac74254e6ae4169ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041617"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>De knop openen met Explorer ontbreekt
+# <a name="the-open-with-explorer-button-is-missing"></a>De knop Openen met Verkenner ontbreekt
 
-De knop **openen met Explorer** wordt niet weergegeven in de moderne ervaring van SharePoint en OneDrive. Als u een documentbibliotheek wilt openen in de Verkenner, bladert u naar de documentbibliotheek in Internet Explorer en selecteert u de menu weergave voor weergave \> **in de Verkenner**. De optie **weergave in Verkenner** is niet beschikbaar in Microsoft Edge, Google Chrome of Firefox. 
+De **knop Openen met Explorer** wordt niet weergegeven in de moderne ervaring van SharePoint en OneDrive. Als u een documentbibliotheek wilt openen in Verkenner, bladert u er naar in Internet Explorer en selecteert u het weergavemenu \> **Weergave in Verkenner.** De **optie Weergeven in Verkenner** is niet beschikbaar in Microsoft Edge, Google Chrome of Firefox. 
   
 > [!NOTE]
-> Openen met Explorer wordt alleen ondersteund via Internet Explorer. In plaats daarvan kunt u [SharePoint-bestanden synchroniseren met de nieuwe OneDrive-synchronisatieclient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , waarop [files on-demand is ingeschakeld](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Toegang tot al uw bestanden in OneDrive zonder lokale opslagruimte te gebruiken. 
+> Openen met Explorer wordt alleen ondersteund via Internet Explorer. Synchroniseer [in plaats SharePoint bestanden met de nieuwe OneDrive-synchronisatie client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) met bestanden op [aanvraag.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) Toegang tot al uw bestanden in OneDrive zonder lokale opslagruimte te gebruiken. 
   
 
