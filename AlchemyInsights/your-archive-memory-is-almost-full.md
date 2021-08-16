@@ -1,5 +1,5 @@
 ---
-title: Uw archief postvak is bijna vol
+title: Uw archiefpostvak is bijna vol
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100006"
 - "7960"
-ms.openlocfilehash: 5c7081f8991716a8ac72f462c6c7ef88e800ab9c
-ms.sourcegitcommit: 6f1af4aed507d4c074c36d77666cf00100efe168
+ms.openlocfilehash: 085d9b211d5a8e9a0e1eb12af14d87a4e59c844a3afa012095dfd60db316ad14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046747"
 ---
-# <a name="your-archive-mailbox-is-almost-full"></a>Uw archief postvak is bijna vol
+# <a name="your-archive-mailbox-is-almost-full"></a>Uw archiefpostvak is bijna vol
 
-Als de gebruiker de waarschuwing ontvangt. **Uw archief postvak is bijna vol**, of u moet de grootte van het archief postvak groter maken en hier volgen enkele tips:
+Als de gebruiker de waarschuwing ontvangt; **Uw archiefpostvak is bijna vol** of u moet het archiefpostvak groter maken, hier vindt u enkele tips:
 
-1. Als aan de gebruiker een abonnement 1 voor Exchange Online is toegewezen, voert u een upgrade uit naar **Exchange Online plan 2** -licentie om de grootte van 50 GB naar 100 GB te vergroten.
-1. Als aan de gebruiker al een van de volgende een van de volgende gebruikers is toegewezen: **Exchange Online abonnement 2** of Exchange Online abonnement 1 met een invoegtoepassing voor Exchange Online archivering, voert u de onderstaande stappen uit om het automatisch uitbreiden van de archiveringsfunctie in te schakelen:.
+1. Als aan de gebruiker een abonnement Exchange Online abonnement 1 is toegewezen, upgradet u naar Exchange Online **abonnement 2-licentie** om de grootte te vergroten van 50 GB naar 100 GB.
+1. Als aan de gebruiker al een van de volgende opties is toegewezen: **Exchange Online Plan 2 of** een Exchange Online-abonnement 1 met een Exchange Online Archiving-invoegactie, gebruikt u de onderstaande stappen om archivering automatisch uit te breiden:.
  
-    1. [Maak verbinding met Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
-    2. Voer de volgende commandlet uit voor de gebruiker:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
-    1. Voer de volgende commandlet uit om te controleren of deze functie is ingeschakeld voor de gebruiker:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
+    1. [Verbinding maken powershell Exchange Online gebruiken.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true)
+    2. Voer de volgende opdracht voor de gebruiker uit:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
+    1. Voer de volgende opdracht uit om te bevestigen dat deze is ingeschakeld voor de gebruiker:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
 
 Zie voor meer informatie:
 
-- [ Onbeperkt archivering inschakelen-Help voor beheerders: Microsoft 365 compliance | Microsoft docs](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
+- [Onbeperkt archiveren inschakelen - Help voor beheerders - Microsoft 365 compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
 
-- [Limieten voor Exchange Online-Service beschrijvingen | Microsoft docs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
+- [Exchange Online limieten - Servicebeschrijvingen | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
 
-- [Upgrade naar een ander Business-abonnement | Microsoft docs](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
+- [Upgraden naar een ander bedrijfsplan | Microsoft Docs](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
 

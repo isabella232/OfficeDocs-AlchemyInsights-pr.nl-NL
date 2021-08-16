@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile-mappen in een nieuwe volgorde
+title: Outlook Mobiele mappen in nieuwe volgorde
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000243"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>Mijn mappen bevinden zich in een nieuwe volgorde
+# <a name="my-folders-are-in-a-new-order"></a>Mijn mappen zijn in een nieuwe volgorde
 
-Met het toevoegen van favoriete mappen en groepen aan Outlook voor iOS en Android, ziet u mogelijk een nieuwe volgorde. Als u favorieten hebt, ziet u boven aan uw zijbalk een sectie Favorieten. U kunt favorieten toevoegen met behulp van het potloodpictogram boven aan de zijbalk. Hierdoor worden al uw belangrijkste mappen en groepen bovenaan weergegeven, waar u ze gemakkelijk kunt openen.
+Met de toevoeging van favoriete mappen en groepen aan Outlook voor iOS en Android, ziet u mogelijk dat uw mappen in een nieuwe volgorde staan. Als u favorieten hebt, ziet u boven aan de zijbalk een sectie favorieten. U kunt favorieten toevoegen met het potloodpictogram boven aan de zijbalk. Hierdoor blijven al uw belangrijkste mappen en groepen bovenaan staan waar u ze gemakkelijk kunt openen.
