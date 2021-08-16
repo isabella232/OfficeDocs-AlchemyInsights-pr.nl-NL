@@ -1,5 +1,5 @@
 ---
-title: regels voor Postvak in in deflectTransport voor regels van een 929
+title: 929 Regels voor Postvak IN om de regels voor transporten af te buigen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a143d36d1656e205311cde4aaff3c0c21815182ee82c60039b2219addac218cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028647"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>E-mail stroom regels (ook wel een transportregel genoemd)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Regels voor e-mailstroom (ook wel transportregels genoemd)
 
-- Algemeen overzicht van de regels voor e-mail stroom: [e-mail stroom regels (transportregels) in Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Algemeen overzicht van regels voor e-mailstroom: Regels voor [e-mailstroom (transportregels) in Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Instellingen voor e-mail stroom instellen: [procedures voor e-mail stroom regels in Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- E-mailstroomregels instellen: [Procedures voor e-mailstroomregel in Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Regels voor e-mail stroom maken, wijzigen en verwijderen: [e-mail stroom regels beheren](https://technet.microsoft.com/library/jj657505.aspx)
+- Regels voor e-mailstroom maken, wijzigen en [verwijderen: Regels voor e-mailstroom beheren](https://technet.microsoft.com/library/jj657505.aspx)
 
-U kunt ook de e-mail stroom regels beheren in Exchange Online PowerShell. Voor meer informatie raadpleegt u [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (View), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (Create) [, remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (Delete), [set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (existing existing) en [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (bestaande inschakelen).
+U kunt ook e-mailstroomregels beheren in Exchange Online PowerShell. Zie [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (weergave), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule (disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing) en [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (enable existing).
 
-Extra cmdlets voor e-mail stroom regels: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (lijst beschikbare acties), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (lijst beschikbare voorwaarden en uitzonderingen), [export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (exportregels) en [import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (import regels).
+Extra cmdlets voor [e-mailstroomregel: Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (beschikbare acties in de lijst), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (lijst beschikbare voorwaarden en uitzonderingen), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (exportregels) en [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (importregels).

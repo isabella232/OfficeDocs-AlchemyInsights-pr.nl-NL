@@ -1,5 +1,5 @@
 ---
-title: Outlook.com kan niet afmelden
+title: Outlook.com kan zich niet aanmelden
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984636"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Afmelden bij Outlook.com is niet mogelijk
+# <a name="unable-to-sign-out-of-outlookcom"></a>Kan zich niet aanmelden bij Outlook.com
 
-Als u zich wilt afmelden bij Outlook.com, selecteert u uw naam of foto in de rechterbovenhoek van het scherm en selecteert u **Afmelden**.
+Als u zich wilt Outlook.com, selecteert u uw naam of afbeelding in de rechterbovenhoek van het scherm en selecteert u **vervolgens Afloggen.**
 
-Als u de afbeelding niet boven aan het scherm ziet, controleert u of de functie voor het blokkeren van activeren is ingeschakeld. Dit is soms de reden dat de afbeelding niet wordt weergegeven.
+Als u de afbeelding niet boven aan het scherm ziet, controleert u of het blokkeren van advertenties is ingeschakeld. Dit is soms de reden dat de afbeelding niet wordt weergegeven.
 
-Als u zich nog steeds niet kunt afmelden bij Outlook.com, klikt u op  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) alle browservensters sluiten.
+Als u zich nog steeds niet kunt aanmelden bij Outlook.com, klikt u [https://login.live.com/logout.srf](https://login.live.com/logout.srf) op alle browservensters.
