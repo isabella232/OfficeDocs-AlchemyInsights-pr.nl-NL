@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032265"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Een beleid voor delen maken om uw gebruikers in staat te stellen hun agenda te delen met personen buiten uw organisatie
 
-1. Ga vanuit het dashboard van het Microsoft 365-beheercentrum naar  >  **Admin Exchange.**
+1. Ga vanuit Microsoft 365-beheercentrum dashboard naar **Beheer**  >  **Exchange.**
 2. Ga naar **delen van**  >  **organisaties.**
 3. Klik in de lijstweergave onder **Individueel delen** op **Nieuw.**
 4. Typ **in het nieuwe beleid** voor delen een vriendelijke naam voor het beleid voor delen in het vak **Beleidsnaam.**

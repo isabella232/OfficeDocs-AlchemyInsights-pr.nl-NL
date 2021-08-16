@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 73fd2b032ebad1990e5ee68e460d0a07305d984a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7cffda69019dc720ae8e49b59636bd13277abf1d57c89831a077f4d66b4586a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033741"
 ---
 # <a name="using-intune-admin-console"></a>Intune-beheerconsole gebruiken
 
@@ -26,4 +26,4 @@ Hier zijn enkele veelvoorkomende taken in de Intune-beheerconsole:
 - [Intune instellen](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
 - [Zelfstudie: Doorloop van Microsoft Intune in de Azure-portal](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-intune-portal)
 - [De probleemoplossingsportal gebruiken om gebruikers in uw bedrijf te helpen](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
-- [Het Microsoft Intune Data Warehouse gebruiken om rapporten te verbeteren en aan te passen](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)
+- [Gebruik het Microsoft Intune Data Warehouse om rapporten te verbeteren en aan te passen](https://docs.microsoft.com/mem/intune/developer/reports-nav-create-intune-reports)

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033777"
 ---
 # <a name="use-securescore"></a>SecureScore gebruiken
 
-Secure Score is een hulpprogramma voor beveiligingsanalyse dat aanbeveelt wat u kunt doen om de risico's verder te beperken. Secure Score bekijkt uw Office 365-instellingen en -activiteiten en vergelijkt deze met een basislijn die door Microsoft is vastgesteld. U krijgt een score op basis van de manier waarop u bent afgestemd op de beste beveiligingsprocedures.
+Secure Score is een hulpprogramma voor beveiligingsanalyse dat aanbeveelt wat u kunt doen om de risico's verder te beperken. Secure Score bekijkt uw Office 365 instellingen en activiteiten en vergelijkt deze met een basislijn die door Microsoft is vastgesteld. U krijgt een score op basis van de manier waarop u bent afgestemd op de beste beveiligingsprocedures.
 
-Wilt u Secure Score uitproberen? Wanneer u bent aangemeld bij Office 365 als globale beheerder, gaat u naar [SecureScore.com.](https://securescore.office.com/)
+Wilt u Secure Score uitproberen? Wanneer u bent aangemeld bij Office 365 globale beheerder, gaat u naar [SecureScore.com.](https://securescore.office.com/)
