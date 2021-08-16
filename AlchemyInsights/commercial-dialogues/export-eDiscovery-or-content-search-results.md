@@ -1,5 +1,5 @@
 ---
-title: Resultaten van eDiscovery/Content Search exporteren
+title: EDiscovery/Inhoudszoekresultaten exporteren
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988082"
 ---
-# <a name="export-ediscoverycontent-search-results"></a>Resultaten van eDiscovery/Content Search exporteren
+# <a name="export-ediscoverycontent-search-results"></a>EDiscovery/Inhoudszoekresultaten exporteren
 
-Mogelijk moet u de zoekresultaten exporteren naar een PST-bestand (vanuit e-mail) of naar eigen Office-documenten (van SharePoint en OneDrive voor Bedrijven-sites). Ga dan als volgt te werk:
+Mogelijk moet u uw zoekresultaten exporteren naar een PST-bestand (vanuit e-mail) of naar native Office documenten (van SharePoint en OneDrive voor Bedrijven sites). Ga als volgt te werk:
 
-- Zorg ervoor dat aan uw account de juiste machtigingen voor exporteren zijn toegewezen. Zie [EDiscovery-machtiging toewijzen voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2102406)
+- Zorg ervoor dat aan uw account de juiste machtigingen zijn toegewezen om te exporteren. Zie [eDiscovery-machtigingen toewijzen voor](https://go.microsoft.com/fwlink/?linkid=2102406)meer informatie.
 - Zorg ervoor dat uw computer aan alle vereisten [heeft voldaan.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Niet alle browsers worden ondersteund, zoals Chrome.
-- Als u wilt exporteren uit een inhoudszoekactie: a. Ga naar het [& compliancecentrum, klik](https://protection.office.com/contentsearch) **op Zoeken** en selecteer vervolgens **Inhoud zoeken.** Selecteer een **opgeslagen zoekopdracht** op de pagina Inhoud zoeken.
-    b. Selecteer In het detailvenster, onder **Resultaten exporteren naar een computer,** de optie Exporteren **starten.** Als u meer dan 100.000 postvakken exporteert, moet u PowerShell gebruiken om de exportresultaten te downloaden. Zie Resultaten exporteren uit meer dan [100.000 postvakken voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2143861)
+- Als u wilt exporteren vanuit een inhoudszoekactie: a. Ga naar het [beveiligingscentrum & compliancecentrum](https://protection.office.com/contentsearch) en klik **op Zoeken** en selecteer **inhoud zoeken.** Selecteer op **de pagina Inhoud** zoeken een opgeslagen zoekopdracht.
+    b. Selecteer in het deelvenster Details onder **Resultaten exporteren naar een computer** de optie Exporteren **starten.** Als u meer dan 100.000 postvakken exporteert, moet u PowerShell gebruiken om de exportresultaten te downloaden. Zie Resultaten exporteren uit meer dan [100.000 postvakken voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2143861)
 
-Zie Zoekresultaten voor inhoud exporteren [voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2102118)
+Zie Zoekresultaten voor inhoud exporteren voor [meer informatie.](https://go.microsoft.com/fwlink/?linkid=2102118)

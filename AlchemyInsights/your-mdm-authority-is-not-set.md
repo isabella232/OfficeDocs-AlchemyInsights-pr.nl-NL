@@ -1,5 +1,5 @@
 ---
-title: Uw MDM-dienst is niet ingesteld
+title: Uw MDM-autoriteit is niet ingesteld
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046675"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Uw MDM-dienst is niet ingesteld
+# <a name="your-mdm-authority-is-not-set"></a>Uw MDM-autoriteit is niet ingesteld
 
-De MDM-Authority (Mobile Device Management) van deze Tenant is niet ingesteld. U moet een MDM-autoriteit instellen voordat u apparaten registreert en beheert via intune MDM. Zonder de MDM-Authority in te stellen, kunt u de MDM-functies van intune niet gebruiken. Met de instelling van de MDM-autoriteit wordt bepaald hoe u uw apparaten beheert.
+De MDM-autoriteit (Mobile Device Management) van deze tenant is niet ingesteld. U moet een MDM-autoriteit instellen voordat u apparaten inschrijft en beheert via Intune MDM. Zonder de MDM-autoriteit in te stellen, kunt u de MDM-functies van Intune niet gebruiken. De instelling MDM-autoriteit bepaalt hoe u uw apparaten beheert.
 
 Aanbevolen stappen:
-1. Ga naar de Blade overzicht van intune-inschrijving om de MDM-dienst in te stellen.
-2. Kies de juiste autoriteit op basis van uw beheer behoeften. Voor meer informatie raadpleegt u [het artikel over het instellen van mobiele apparaten voor beheer van apparaten](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Ga naar het overzichtsblad Intune Enrollment om de MDM-autoriteit in te stellen.
+2. Kies de juiste autoriteit op basis van uw administratieve behoeften. Zie Het artikel Beheer van mobiele apparaten instellen voor meer [informatie.](https://docs.microsoft.com/intune/mdm-authority-set)

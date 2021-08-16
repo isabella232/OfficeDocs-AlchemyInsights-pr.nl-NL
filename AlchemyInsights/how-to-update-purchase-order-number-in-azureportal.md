@@ -1,5 +1,5 @@
 ---
-title: Een inkoopordernummer in azure Portal bijwerken
+title: Een aankoopordernummer bijwerken in Azure Portal
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028791"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Een inkoopordernummer in azure Portal bijwerken
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Een aankoopordernummer bijwerken in Azure Portal
 
-U kunt het io-nummer (inkoop order) in de Azure-Portal bijwerken. Dit moet u doen als u de rol van eigenaar of Inzender hebt voor het factuur account voor een Microsoft Customer Agreement (MCA). 
+U kunt het nummer Inkooporder (PO) bijwerken in de Azure Portal. Als u dit wilt doen, moet u een eigenaar of bijdrager hebben in het factureringsaccount voor een Microsoft Customer Agreement (MCA). 
 
-Uw IO-nummer bijwerken:
-1. Meld u aan bij de Azure-Portal en ga naar **kostenbeheer + facturering**.
-1. Klik op **factuur profielen** en selecteer een factuur profiel om het io-nummer bij te werken.
-1. Klik op **Eigenschappen** en selecteer **ko-nummer bijwerken**. 
+Uw PO-nummer bijwerken:
+1. Meld u aan bij de Azure-portal en ga naar **Kostenbeheer + Facturering.**
+1. Klik **op Factureringsprofielen** en selecteer een factureringsprofiel om ponummer bij te werken.
+1. Klik **op Eigenschappen** en selecteer **PO-nummer bijwerken.** 
 
 **Aanbevolen documentatie**
 
-- [Meer informatie over uw MCA-factuur](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Instellingen voor facturerings accounts bijwerken](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Uw MCA-factuur begrijpen](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Factureringsaccountinstellingen bijwerken](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

@@ -1,5 +1,5 @@
 ---
-title: 597 Microsoft Bookings-app
+title: 597 Microsoft Bookings App
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,16 +14,16 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 61eb90f0d9dcb257b969c08cbd9e7901402ca08d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c72869a70725ca3010a4fde9c08be2326f45ca9a4339014ae34f092747cd5876
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000531"
 ---
-# <a name="microsoft-bookings-app"></a>App Microsoft Bookings
+# <a name="microsoft-bookings-app"></a>Microsoft Bookings-app
 
-- [Microsoft bookings in-of uitschakelen voor uw organisatie](https://support.microsoft.com/office/c27537fa-525e-47a8-aadf-9b07ee75c227)
+- [Microsoft Bookings in- of uitschakelen voor uw organisatie](https://support.microsoft.com/office/c27537fa-525e-47a8-aadf-9b07ee75c227)
 - [Toegang tot Microsoft Bookings](https://support.microsoft.com/office/5382dc07-aaa5-45c9-8767-502333b214ce)
 - [Uw zakelijke agenda online publiceren met Microsoft Bookings](https://support.microsoft.com/office/47403d64-a067-4754-9ae9-00157244c27d)
 - [Uw bedrijfsgegevens invoeren](https://support.microsoft.com/office/828a17db-956a-401e-bb62-d153b6dffd53)
@@ -36,9 +36,9 @@ ms.locfileid: "47725258"
 - [Uw boekingspagina publiceren of de publicatie ongedaan maken](https://support.microsoft.com/office/4fb0235c-01e7-4447-bf91-0915c21b84ad)
 - [Uw reserveringen maken en bemannen](https://support.microsoft.com/office/03a9acc9-f29c-456b-9fb2-0f49474b2708)
 - [De app Microsoft Bookings downloaden](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
-- [Persoonlijke agenda van werknemers synchroniseren met Microsoft Bookings](https://support.microsoft.com/office/23ee9b4c-0241-40ff-b663-67a309c378f8)
+- [Persoonlijke agenda van personeel synchroniseren met Microsoft Bookings](https://support.microsoft.com/office/23ee9b4c-0241-40ff-b663-67a309c378f8)
 - [Uw reserveringspagina aanpassen](https://support.microsoft.com/office/116d7a84-a7a0-4911-a1e9-debb2cca7c43)
 - [Een buffertijd voor afspraken in Bookings instellen](https://support.microsoft.com/office/271f43e4-b8f7-4d63-8059-b5747679bb7e)
-- [Rapport informatie voor Microsoft Bookings](https://support.microsoft.com/office/e150b415-d335-4818-93ac-acff4797a1b1)
+- [Rapportinformatie voor Microsoft Bookings](https://support.microsoft.com/office/e150b415-d335-4818-93ac-acff4797a1b1)
 - [Taal en tijdzones instellen](https://support.microsoft.com/office/94af3e22-aca6-4e91-8b91-1cd5a02a9ea8)
 - [PowerShell gebruiken om een boekingsagenda te verwijderen](https://support.microsoft.com/office/8c3a913c-2247-4519-894d-b6263eeb9920)

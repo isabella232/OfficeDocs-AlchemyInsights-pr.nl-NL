@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge gebruiken om gebruikers te beschermen tegen PUAs
+title: Gebruik Microsoft Edge om gebruikers te beschermen tegen PUA's
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000495"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Microsoft Edge gebruiken om gebruikers te beschermen tegen PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Gebruik Microsoft Edge om gebruikers te beschermen tegen PUA's
 
-In Microsoft Edge-versies 80.0.361.50 en recentere downloads van mogelijk ongewenste toepassingen (PUAs) en bijbehorende Url's blokkeren. Ga als volgt te werk om deze functie in te schakelen:
+Microsoft Edge versies 80.0.361.50 en hoger blokkeren downloads van potentieel ongewenste toepassingen (PUA's) en bijbehorende URL's. Ga als volgt te werk om deze functie in te zetten:
 
-1. Ga naar **instellingen**  >  **Privacy en-services** in de browser.
+1. Ga naar **Instellingen**  >  **Privacy en services** in de browser.
 
-2. Schuif omlaag naar de sectie **Services** en zorg ervoor dat **Microsoft Defender SmartScreen** en **mogelijk ongewenste apps blokkeren** is ingeschakeld.
+2. Schuif omlaag naar de **sectie Services** en zorg ervoor **dat Microsoft Defender SmartScreen** en Mogelijk **ongewenste apps** blokkeren zijn ingeschakeld.
 
-    De volgende keer dat Microsoft Defender SmartScreen een PUA detecteert, wordt dit blokkeren en wordt u hiervan op de hoogte gesteld.
+    De volgende keer Microsoft Defender SmartScreen een PUA detecteert, wordt deze geblokkeerd en wordt u hiervan op de hoogte gesteld.
 
-    Voor meer informatie raadpleegt [u blokkeren tegen met PUA gekoppelde url's](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Zie voor meer informatie [het blokkeren van URL's](https://go.microsoft.com/fwlink/?linkid=2133024)die aan PUA zijn gekoppeld.
