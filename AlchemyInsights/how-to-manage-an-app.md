@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50693400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002079"
 ---
 # <a name="how-to-manage-an-app"></a>Een app beheren
 
 Een app beheren:
 
-- Begin met [Apps beheren](https://admin.teams.microsoft.com/policies/manage-apps) in het Microsoft Teams-beheercentrum om een app voor uw organisatie toe te voegen.
-- U kunt [app-machtigingsbeleid](https://admin.teams.microsoft.com/policies/app-permission) gebruiken in het Microsoft Teams-beheercentrum om een app toe te staan of te blokkeren en deze toe te wijzen aan gebruikers.
-- Als u de volgorde wilt wijzigen waarin een app aan gebruikers wordt getoond of als u een app wilt vastmaken, gebruikt u [beleidsregels](https://admin.teams.microsoft.com/policies/app-setup) voor app-instellingen in het Microsoft Teams-beheercentrum.
+- Begin met [Apps beheren](https://admin.teams.microsoft.com/policies/manage-apps) in het Microsoft Teams beheercentrum om een app voor uw organisatie toe te voegen.
+- U kunt [app-machtigingsbeleid](https://admin.teams.microsoft.com/policies/app-permission) gebruiken in het Microsoft Teams-beheercentrum om een app toe te staan of te blokkeren en deze aan gebruikers toe te wijzen.
+- Als u de volgorde wilt wijzigen die een app aan gebruikers wordt voorgesteld of om een app vast te maken, gebruikt u [het installatiebeleid](https://admin.teams.microsoft.com/policies/app-setup) voor apps in het Microsoft Teams beheercentrum.
 
 Zie voor meer informatie over het maken van app-beleid voor uw organisatie:
 
-- [Uw apps beheren in het Microsoft Teams-beheercentrum](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [App-machtigingsbeleid beheren in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Beleidsregels voor app-instellingen beheren in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [Uw apps beheren in het Microsoft Teams beheercentrum](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Machtigingsbeleid voor apps beheren in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Beleid voor het instellen van apps beheren in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

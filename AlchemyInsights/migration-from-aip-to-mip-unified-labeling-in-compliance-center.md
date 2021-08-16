@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000351"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migratie van AIP naar MIP/Unified Labeling in het compliancecentrum
 
@@ -25,11 +25,11 @@ Ga als volgt te werk om te migreren van AIP-labels naar Unified Labeling in het 
 
 **Beveiliging activeren vanuit de Azure-portal**
 
-1. Als u dit nog niet hebt gedaan, opent u een nieuw browservenster en meld [u aan bij de Azure-portal.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Ga naar het **Azure Information Protection-blad.** Klik bijvoorbeeld in het hubmenu op **Alle services** en begin gegevens te **typen** in het vak Filter. Selecteer **Azure Information Protection**. Als u het Azure Information Protection-blad nog niet eerder [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) hebt geopend, bekijkt u de een-tijd extra stappen om dit blad toe te voegen aan de portal. Als u het Azure Information Protection-blade wilt openen, moet u een [Azure Information Protection Premium-abonnement](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) hebben of een Office 365-abonnement met Rights Management. Als u een van deze abonnementen hebt, maar een bericht ziet dat een geldig abonnement niet kan worden gevonden, [neem dan contact](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) op met Microsoft Support of gebruik uw standaardondersteuningskanalen.
+1. Als u dit nog niet hebt gedaan, opent u een nieuw browservenster en meld [u aan bij de Azure-portal.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Ga naar het **Azure Information Protection-blad.** Klik bijvoorbeeld in het hubmenu op **Alle services** en begin gegevens te **typen** in het vak Filter. Selecteer **Azure Information Protection**. Als u het Azure Information Protection-blad nog niet eerder [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) hebt geopend, bekijkt u de een-tijd extra stappen om dit blad toe te voegen aan de portal. Als u het Azure Information Protection-blade wilt openen, moet u een [Azure Information Protection-Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) of een Office 365-abonnement met Rights Management. Als u een van deze abonnementen hebt, maar een bericht ziet dat een geldig abonnement niet kan worden gevonden, [neem dan contact](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) op met Microsoft Support of gebruik uw standaardondersteuningskanalen.
 
 2. Zoek de **menuopties** beheren en selecteer **Activering van beveiliging.** Klik **op Activeren** en bevestig uw actie. Wanneer de activering is voltooid, wordt op de informatiebalk **weergegeven dat activering is voltooid.**
 
-**Azure Information Protection-labels migreren naar Office 365 & Compliance Center**
+**Azure Information Protection-labels migreren naar Office 365 beveiligingscentrum & compliancecentrum**
 
 1. Zorg ervoor dat u bent aangemeld als gebruiker met de machtiging Globale beheerder.
 
