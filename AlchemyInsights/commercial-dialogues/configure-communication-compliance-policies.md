@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968120"
 ---
 # <a name="configure-communication-compliance-policies"></a>Communicatie compliancebeleid configureren
 
-Na de release van communicatie compliance in Microsoft 365 Compliance in februari 2020, wordt toezicht in Office 365 ingetrokken. Toezichtbeleid is niet meer beschikbaar voor het maken en beleid wordt uiteindelijk verwijderd na een langere periode van alleen-lezentoegang.
+Na de release van communicatie compliance in Microsoft 365 compliance in februari 2020, wordt toezicht in Office 365 ingetrokken. Toezichtbeleid is niet meer beschikbaar voor het maken en beleid wordt uiteindelijk verwijderd na een langere periode van alleen-lezentoegang.
 
 > [!IMPORTANT]
 > Als u Toezicht gebruikt, moet u er rekening mee houden dat:
@@ -30,4 +30,4 @@ Na de release van communicatie compliance in Microsoft 365 Compliance in februar
 > 2. Vanaf 31 augustus 2020 wordt het vastleggen van nieuwe berichten gestopt door bestaand beleid.
 > 3. Vanaf 26 oktober 2020 worden bestaande beleidsregels verwijderd.
 
-We moedigen klanten die momenteel toezicht in Office 365 verkennen of gebruiken, actief aan om de nieuwe oplossing voor communicatie compliance [in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) te gebruiken om uw communicatiecontrole- of regelgevingsvereisten aan te pakken met een veel uitgebreidere set intelligente mogelijkheden.
+We moedigen klanten die momenteel toezicht verkennen of gebruiken in Office 365 actief aan om de nieuwe oplossing voor communicatie compliance in Microsoft 365 te gebruiken om uw [communicatiecontrole- of](https://go.microsoft.com/fwlink/?linkid=2128593) regelgevingsvereisten aan te pakken met een veel uitgebreidere set intelligente mogelijkheden.

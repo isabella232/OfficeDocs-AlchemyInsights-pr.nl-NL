@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995436"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (beveiliging en identiteit)
 
-Selecteer een van de volgende installatiehandleidingen:
+Selecteer een van de volgende installatiehulplijnen:
 
-- **Gebruikers** van Azure Active Directory Connect [Sync](https://go.microsoft.com/fwlink/?linkid=2071310) synchroniseren met uw adreslijst Wachtwoordhashsynchronisatie of Pass Through-verificatie configureren, zodat uw gebruikers zich met hetzelfde wachtwoord kunnen aanmelden bij hun e-mail en bij uw on-premises Active Directory (domeincontroller). U kunt ook federatie-aanmelding instellen met Active Directory Federation Services (AD FS).
+- **Azure Active Directory Verbinding maken** [](https://go.microsoft.com/fwlink/?linkid=2071310) Gebruikers synchroniseren met uw adreslijst Wachtwoordhashsynchronisatie of wachtwoordverificatie configureren, zodat uw gebruikers zich met hetzelfde wachtwoord kunnen aanmelden bij hun e-mail en bij uw on-premises Active Directory (domeincontroller). U kunt ook federatie-aanmelding instellen met Active Directory Federation Services (AD FS).
 
-- **Installatiehandleiding voor Het** instellen van [Azure Ad-functies](https://go.microsoft.com/fwlink/?linkid=2134390) voor Azure Active Directory Premium instellen van de geavanceerde functies die beschikbaar zijn in Azure Active Directory Premium, zoals meervoudige verificatie, apparaatregistratie en beveiligingscontrole.
+- **Installatiehandleiding** [azure-functies Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) Instellen De geavanceerde functies instellen die beschikbaar zijn in Azure Active Directory Premium, zoals meervoudige verificatie, apparaatregistratie en beveiligingscontrole.

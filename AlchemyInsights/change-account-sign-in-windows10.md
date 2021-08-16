@@ -1,5 +1,5 @@
 ---
-title: Het account wijzigen dat u gebruikt om u aan te melden bij uw Windows 10-pc
+title: Het account wijzigen dat u gebruikt om u aan te melden bij uw Windows 10 pc
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018603"
 ---
-# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Het account wijzigen dat u gebruikt om u aan te melden bij uw Windows 10-pc
+# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Het account wijzigen dat u gebruikt om u aan te melden bij uw Windows 10 pc
 
-**Opmerking** Als u uw pc verkoopt of doneert, kunt u deze volledig opnieuw instellen om alle persoonlijke gegevens te verwijderen. Zie Voordat u uw [Windows 10-apparaat](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one)of Xbox One verkoopt of cadeau doet om alle bestanden, instellingen en apps te verwijderen.
+**Opmerking** Als u uw pc verkoopt of doneert, kunt u deze volledig opnieuw instellen om alle persoonlijke gegevens te verwijderen. Als u alle bestanden, instellingen en apps wilt verwijderen, zie Voordat u uw Windows 10 [of](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one)uw Xbox One.
 
 Een bestaande gebruiker vervangen door een nieuw account:
 
@@ -36,15 +36,15 @@ Een bestaande gebruiker vervangen door een nieuw account:
 
 **Overschakelen naar een ander gebruikersaccount**
 
-1. Selecteer **Start** (startknop Windows-logo) op de taakbalk. 
+1. Selecteer **Start** (Windows knop Start van het logo) op de taakbalk. 
 
-1. Selecteer aan de linkerkant van het menu Start het accountnaampictogram (of afbeelding) > Gebruiker > een andere gebruiker.
+1. Selecteer aan de linkerkant van de Startmenu het accountnaampictogram (of afbeelding) > Gebruiker > een andere gebruiker.
 
 **Het type account wijzigen dat wordt gebruikt om u aan te melden**
 
 - Over te gaan van een Microsoft-account naar een lokaal account
 
-    1. Selecteer de knop Start, selecteer **Instellingen**  >  **Accounts >** Uw gegevens.
+    1. Selecteer de knop Start en selecteer **Instellingen**  >  **Accounts** > Uw gegevens.
 
     1. Als u een lokaal account gebruikt dat niet is gekoppeld aan een e-mailadres, maar u een Microsoft-account wilt gebruiken, selecteert u in plaats daarvan Aanmelden met **een Microsoft-account.**
 
@@ -56,7 +56,7 @@ Een bestaande gebruiker vervangen door een nieuw account:
 
 - Over te gaan van een standaardaccount naar een beheerder
 
-    1. Selecteer Start en selecteer vervolgens **Instellingen** Accountfamilie & andere personen (of Andere personen , als u  >    >   Windows 10 Enterprise gebruikt). 
+    1. Selecteer Start en selecteer vervolgens **Instellingen**  >    >  **accountfamilie &** andere personen (of Andere personen , als u Windows 10 Enterprise).
 
     1. Selecteer het account dat u wilt maken als beheerder en selecteer **Account wijzigen.**
 

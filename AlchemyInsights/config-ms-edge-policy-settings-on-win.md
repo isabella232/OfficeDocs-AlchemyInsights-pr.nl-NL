@@ -1,5 +1,5 @@
 ---
-title: Beleidsinstellingen voor Microsoft Edge configureren in Windows
+title: Beleidsinstellingen Microsoft Edge configureren op Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978696"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Beleidsinstellingen voor Microsoft Edge configureren in Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Beleidsinstellingen Microsoft Edge configureren op Windows
 
-Als u beleidsinstellingen en beheerde updates voor Microsoft Edge wilt configureren, gebruikt u Groepsbeleidsobjecten (GPOs). U kunt ook beleid inrichten via het register. Dit is geschikt voor (1) Windows-apparaten die zijn aangesloten bij een Microsoft Active Directory-domein en voor (2) Windows 10 Pro- en Enterprise-exemplaren die zijn geregistreerd voor apparaatbeheer in Microsoft Intune.
+Als u beleidsinstellingen en beheerde updates voor Microsoft Edge wilt configureren, gebruikt u Groepsbeleidsobjecten (GPOs). U kunt ook beleid inrichten via het register. dit is geschikt voor (1) Windows apparaten die zijn aangesloten bij een Microsoft Active Directory-domein en voor (2) Windows 10 Pro- en enterprise-exemplaren die zijn geregistreerd voor apparaatbeheer in Microsoft Intune.
 
-Ga als volgt te werk om Microsoft Edge te configureren met behulp van GPOs:
+Ga als volgt Microsoft Edge configureren met behulp van GPOs:
 
-1. Ga naar de Centrale winkel groepsbeleid in uw Active Directory-domein of installeer alle beheersjablonen die regels en instellingen voor Microsoft Edge toevoegen naar de sjabloonmap Beleidsdefinitie op afzonderlijke computers.
+1. Ga naar de Centrale winkel groepsbeleid in uw Active Directory-domein of installeer alle beheersjablonen die regels en instellingen voor uw Microsoft Edge.
 2. Configureer het specifieke beleid dat u wilt instellen.
 
-Zie Beleidsinstellingen voor [Microsoft Edge configureren voor Windows voor](https://go.microsoft.com/fwlink/?linkid=2135024)meer informatie.
+Zie Instellingen voor Microsoft Edge [beleid configureren op](https://go.microsoft.com/fwlink/?linkid=2135024)Windows voor meer Windows.

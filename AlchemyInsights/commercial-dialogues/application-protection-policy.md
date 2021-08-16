@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995364"
 ---
 # <a name="application-protection-policy-requirements"></a>Vereisten voor toepassingsbeveiligingsbeleid
 
@@ -26,6 +26,6 @@ Vereisten voor toepassingsbeschermingsbeleid:
 - Gebruiker heeft een Intune- of EMS-licentie.
 - Gebruiker behoort tot een groep die is gericht op toepassingsbeveiligingsbeleid.
 - Slechts één zakelijke gebruiker is aangemeld bij beveiligde apps op een apparaat.
-- [De toepassing heeft de Intune SDK geïmplementeerd. Zie Beveiligde apps van Microsoft Intune voor een lijst met apps die de SDK ondersteunen.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- [De toepassing heeft de Intune SDK geïmplementeerd. Zie voor een lijst met apps die de SDK ondersteunen Microsoft Intune beveiligde apps.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [Meer informatie...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)
