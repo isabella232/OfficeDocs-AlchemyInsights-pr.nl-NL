@@ -12,21 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 1d6e8c916a6910e4d0ad5fc3e8395d25399389fd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 768b31e26045e8276785261b26a04cdde478577f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564529"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295758"
 ---
 # <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Machtigingen voor gedelegeerden beheren voor één map in Outlook voor Mac
 
 1. Kies in het navigatiedeelvenster de map die u wilt wijzigen.
-2. Kies op het tabblad **indelen** de optie **machtigingen** in agenda en kies **mapmachtigingen in e-mail** of personen.
-3. Klik op de naam van de persoon voor wie u de machtigingen wilt wijzigen.
-4. Kies in de lijst **machtigingsniveau** het gewenste toegangsniveau. Afzonderlijke machtigingsniveaus worden automatisch ingevuld op basis van uw keuze in de lijst.
+2. Kies onder **het** tabblad Organiseren de optie **Machtigingen** in Agenda en kies **Mapmachtigingen** in E-mail of Personen.
+3. Klik op de naam van de persoon waarvoor u de machtigingen wilt wijzigen.
+4. Kies in **de lijst Machtigingsniveau** het toegankelijkheidsniveau dat u wilt. Afzonderlijke machtigingsniveaus worden automatisch ingevuld op basis van uw selectie in de lijst.
 
-Als u de machtigingsniveaus wilt aanpassen, schakelt u de selectievakjes in voor de gewenste items en kiest u onder **items bewerken** en **items verwijderen** de gewenste machtigingsniveau.
+Als u de machtigingsniveaus wilt aanpassen, selecteert u de selectievakjes voor de gepersonaliseerde items en kiest u onder **Items bewerken** en **Items** verwijderen het gepersonaliseerde machtigingsniveau.
 
-> [!NOTE]
-> Als u het machtigingsniveau instelt op **geen**, blijft de gedelegeerde in de lijst staan, zodat u later snel machtigingen kunt terugzetten. Zie [delen en delegatie](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5)voor informatie over de machtigingsniveaus.
+**Opmerking:** Als u het machtigingsniveau in stelt op **Geen,** blijft de gedelegeerde in de lijst staan, zodat u machtigingen later snel kunt herstellen. Zie Over delen en delegeren voor informatie over de [machtigingsniveaus.](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5)

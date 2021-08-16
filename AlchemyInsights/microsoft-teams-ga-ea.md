@@ -1,5 +1,5 @@
 ---
-title: Microsoft teams-gasttoegang
+title: Microsoft Teams - Gasttoegang
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012303"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft teams-gasttoegang
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Gasttoegang
 
-Als u hulp nodig hebt bij het communiceren met gebruikers buiten uw organisatie in teams, moet u bepalen of u [gasttoegang of externe toegang (Federatie)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)wilt gebruiken, of u kunt beide gebruiken.
+Als u hulp nodig hebt bij het communiceren met gebruikers buiten uw organisatie in Teams, moet u beslissen of u Gasttoegang of Externe toegang [(Federatie)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)wilt gebruiken, of dat u beide kunt gebruiken.
 
-Kijk wat de [verschillen](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) zijn met de beschikbare functies.  Voorbeeld van externe toegang (Federatie) staat 1:1-communicatie, zoals chatten en aanwezigheid.  Federatieve gebruikers kunnen echter niet samenwerken aan teams.  Als u wilt dat een externe gebruiker deelnemen aan en deelnemen aan team kanaal gesprekken of bestanden deelt, moet u gasttoegang inschakelen.
+Controleer de [verschillen om](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) inzicht te krijgen in de functies die beschikbaar zijn voor elk.  Externe toegang (federatie) maakt bijvoorbeeld 1:1-communicatie mogelijk, zoals Chatten en Aanwezigheid.  Federatief gebruikers kunnen echter niet deelnemen Teams samenwerking.  Als u wilt dat een externe gebruiker deelneemt aan en deelneemt aan Teams Kanaalgesprekken of Bestanden delen, moet u Gasttoegang in- of in- of uit- zetten.
 
-**Optie 1: gasttoegang inschakelen** Ga in het team van de teams-Beheercentrum naar de instellingen voor de [gehele organisatie > gasttoegang](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) en schakel ' gasttoegang toestaan in teams ' in.  Voor een Tenant met andere standaardinstellingen moet u eerst het volgende doen.  Als u uw configuratie voor gasttoegang wilt aanpassen, controleert u of u alle stappen in de [Controlelijst voor gasten toegang](https://docs.microsoft.com/microsoftteams/guest-access-checklist)volgt. Wanneer u helemaal klaar bent, moet u [maximaal 24 uur wachten](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) voordat de instellingen van kracht worden.
+**Optie 1: Gasttoegang in-** Ga in Teams beheercentrum naar [Organisatiebrede](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) Instellingen > Gasttoegang en schakel 'Gasttoegang toestaan in Teams'.  Voor een tenant met alle andere standaardinstellingen is dit alles wat u hoeft te doen.  Als u uw gasttoegangsconfiguratie wilt aanpassen, moet u alle stappen in de controlelijst voor [gasttoegang volgen.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Wanneer u klaar bent, moet u tot [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) uur wachten totdat de instellingen van kracht worden.
 
-Als u niet zeker weet of u alle stappen in de controlelijst hebt voltooid en dit langer is dan 24 uur, gaat u verder met het [toevoegen van een gast aan uw team](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Als u zeker weet dat u alle stappen in de controlelijst hebt voltooid en het meer dan 24 uur duurt, gaat u door en probeert u een gast toe te voegen aan [uw team.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Zie [gasttoegang in Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access)voor meer informatie, waaronder Video's.
+Zie Gasttoegang in Microsoft Teams voor meer informatie, inclusief [how-to-video'Microsoft Teams.](https://docs.microsoft.com/microsoftteams/guest-access)
 
-**Optie 2: externe toegang (Federatie) inschakelen** Als u ook externe toegang (Federatie) wilt inschakelen, gaat u naar het team centrum en gaat u naar [instellingen voor de gehele organisatie > externe toegang](https://admin.teams.microsoft.com/company-wide-settings/external-communications) en schakelt u de gebruikers kunnen communiceren met Skype voor bedrijven en teams-gebruikers in en voert u vervolgens de stappen uit in [uw teams-gebruikers laten chatten en communiceren met gebruikers in een andere organisatie](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Optie 2: Externe toegang (Federatie) in-** Als u ook Externe toegang (Federatie) wilt in- en uit- zetten, gaat u in het Teams-beheercentrum naar Organisatiebrede [Instellingen > Externe](https://admin.teams.microsoft.com/company-wide-settings/external-communications) toegang en schakelt u 'Gebruikers kunnen communiceren met Skype voor Bedrijven- en Teams-gebruikers' in en volg vervolgens alle stappen in Laat uw [Teams-gebruikers](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)chatten en communiceren met gebruikers in een andere organisatie.

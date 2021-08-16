@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987390"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295902"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Een PST-bestand importeren uit Outlook voor Windows naar Outlook voor Mac 
 
 Als u berichten en andere items van een Windows-computer naar een Mac wilt overbrengen, kunnen Outlook voor Mac Outlook gegevensbestanden (.pst) importeren die zijn gemaakt in Outlook voor Windows.
 
-**In nieuwere versies: importeer een PST-bestand van Windows naar Mac**
+**In nieuwere versies : importeer een PST-bestand van Windows naar Mac**
 
 1. Selecteer in Outlook voor Mac **menu Bestand** de optie **Importeren.**
 
@@ -37,7 +37,7 @@ Als u berichten en andere items van een Windows-computer naar een Mac wilt overb
    De geïmporteerde items worden weergegeven in het navigatiedeelvenster onder **Op mijn computer.**
 
 
-**In Office 2011 - importeer een PST-bestand uit Outlook voor Windows**
+**In Office 2011 : importeer een PST-bestand uit Outlook voor Windows**
 
 1. Overdraag het PST-bestand naar uw Macintosh-computer.
 
@@ -53,8 +53,7 @@ Als u berichten en andere items van een Windows-computer naar een Mac wilt overb
 
    De geïmporteerde items worden weergegeven in het navigatiedeelvenster onder **Op mijn computer.**
 
-> [!NOTE]
-> Outlook voor Mac kan alleen Unicode-pst-bestanden importeren, de standaardindeling voor bestanden met persoonlijke mappen voor Outlook (voor Windows) 2003- en latere versies. ANSI-opgemaakte PST-bestanden, ook wel Outlook 97-2002 Persoonlijke mappenbestanden genoemd, was de standaardindeling voor persoonlijke mappen voor het opslaan van gegevens in Outlook voor Windows in versie 97-2002. Deze bestandsindeling kan niet worden geïmporteerd in Outlook voor Mac. Als u de oudere versie van EENSI-opgemaakt PST-bestand hebt, is er geen geautomatiseerde procedure voor het converteren van dat bestand naar de nieuwere bestandsindeling. U kunt echter een nieuw Outlook-gegevensbestand (.pst) maken in Microsoft Outlook voor Windows 2003- of latere versies en vervolgens items uit het oudere bestand importeren in het nieuwe bestand. Vervolgens kunt u het nieuwe PST-bestand importeren in Outlook voor Mac. Zie **Help** voor uw versie van Outlook voor Windows voor meer informatie over het maken van PST-bestanden en het importeren van items.
+**Opmerking:** Outlook voor Mac kan alleen Unicode-pst-bestanden importeren, wat de standaardindeling is voor bestanden met persoonlijke mappen voor Outlook (voor Windows) 2003- en latere versies. ANSI-opgemaakte PST-bestanden, ook wel Outlook 97-2002 Persoonlijke mappenbestanden genoemd, was de standaardindeling voor persoonlijke mappen voor het opslaan van gegevens in Outlook voor Windows in versie 97-2002. Deze bestandsindeling kan niet worden geïmporteerd in Outlook voor Mac. Als u de oudere versie van EENSI-opgemaakt PST-bestand hebt, is er geen geautomatiseerde procedure voor het converteren van dat bestand naar de nieuwere bestandsindeling. U kunt echter een nieuw Outlook-gegevensbestand (.pst) maken in Microsoft Outlook voor Windows 2003- of latere versies en vervolgens items uit het oudere bestand importeren in het nieuwe bestand. Vervolgens kunt u het nieuwe PST-bestand importeren in Outlook voor Mac. Zie **Help** voor uw versie van Outlook voor Windows voor meer informatie over het maken van PST-bestanden en het importeren van items.
 
 **Een gegevensbestand Outlook (.pst of .olm) openen**
 
@@ -72,8 +71,7 @@ U kunt een Outlook voor Windows gegevensbestand (.pst) of een Outlook voor Mac g
 
 De geïmporteerde items worden weergegeven in het navigatiedeelvenster onder **Op mijn computer.**
 
-> [!NOTE]
-> Outlook voor Mac kunnen alleen Unicode-pst-bestanden importeren die de standaardindeling zijn voor bestanden met persoonlijke mappen voor Outlook (voor Windows) 2003 en nieuwere versies. De ANSI-opgemaakte PST-bestanden, ook wel Outlook 97-2002 Persoonlijke mappenbestanden genoemd, kunnen niet worden geïmporteerd in Outlook voor Mac. Als u de oudere versie van EENSI-opgemaakt PST-bestand hebt, is er geen geautomatiseerde procedure voor het converteren van dat bestand naar de nieuwere bestandsindeling. U kunt echter een nieuw Outlook-gegevensbestand (.pst) maken in Microsoft Outlook voor Windows 2003 of hoger en vervolgens items uit het oudere bestand importeren in het nieuwe bestand. Vervolgens kunt u het nieuwe PST-bestand importeren in Outlook voor Mac. Zie Help voor uw versie van Outlook voor Windows voor meer informatie over het maken van PST-bestanden en het importeren van items. 
+**Opmerking:** Outlook voor Mac kan alleen Unicode-pst-bestanden importeren die de standaardindeling zijn voor bestanden met persoonlijke mappen voor Outlook (voor Windows) 2003- en latere versies. De ANSI-opgemaakte PST-bestanden, ook wel Outlook 97-2002 Persoonlijke mappenbestanden genoemd, kunnen niet worden geïmporteerd in Outlook voor Mac. Als u de oudere versie van EENSI-opgemaakt PST-bestand hebt, is er geen geautomatiseerde procedure voor het converteren van dat bestand naar de nieuwere bestandsindeling. U kunt echter een nieuw Outlook-gegevensbestand (.pst) maken in Microsoft Outlook voor Windows 2003 of hoger en vervolgens items uit het oudere bestand importeren in het nieuwe bestand. Vervolgens kunt u het nieuwe PST-bestand importeren in Outlook voor Mac. Zie Help voor uw versie van Outlook voor Windows voor meer informatie over het maken van PST-bestanden en het importeren van items. 
 
 **Entourage-items openen vanuit een archief of een eerdere versie**
 
@@ -83,7 +81,7 @@ U kunt items zoals e-mailberichten, contactpersonen en gebeurtenissen importeren
 
 2. Klik **op Entourage-gegevens uit een archief of** eerdere versie, klik op de pijl-rechts en volg de instructies.
 
-> [!NOTE]
+**Opmerking**:
 - Als u een Microsoft Exchange-account met Entourage hebt gebruikt, worden alle items in het Exchange-account gedownload van de Exchange-server nadat het importproces is voltooid. Alle regels of schema's die betrekking hebben op Exchange account, moeten opnieuw worden geconfigureerd in Outlook.
 
 - Als u items importeert uit Entourage 2004 of Entourage 2008, worden categoriegegevens voor items in een Exchange-account niet geïmporteerd in Outlook. Met Entourage 2008, Web Services Edition, worden echter categoriegegevens gedownload van de Exchange server.
@@ -100,8 +98,7 @@ U kunt items zoals e-mailberichten, contactpersonen en gebeurtenissen importeren
 
 3. Voer in het zoekvak de naam in van de map die u wilt verplaatsen en klik op **Verplaatsen.**
 
-> [!TIP]
-> Als u een item uit een archiefmap wilt kopiëren naar een andere map in Outlook, sleept u het item naar de map waarin u de kopie wilt plaatsen.
+   **Tip:** Als u een item uit een archiefmap wilt kopiëren naar een andere map in Outlook, sleept u het item naar de map waarin u de kopie wilt plaatsen.
 
 **Zie ook**
 
