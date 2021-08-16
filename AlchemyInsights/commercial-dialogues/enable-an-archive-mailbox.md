@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7c97232417175178031213c1050d224fcb86e9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6ff41f9f5b890c968483718544c5b4961397b37b144bb14ea1451d7aac24ebb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017307"
 ---
 # <a name="create-an-archive-mailbox"></a>Een archiefpostvak maken
 
@@ -27,5 +27,5 @@ Archiefpostvakken bieden gebruikers extra e-mailopslag. Gebruikers kunnen items 
 2. Kies **Gegevensbeheerarchief.**  >  
 3. Selecteer de gebruiker van wie u het archiefpostvak wilt inschakelen en klik vervolgens in het detailvenster aan de rechterkant op Inschakelen en klik vervolgens op **Ja** in het waarschuwingsberichtvak. 
 4. U kunt archiefpostvakken ook bulksgewijs inschakelen door meerdere gebruikers te selecteren (met de **toetsen Shift** of **Ctrl)** en vervolgens in het detailvenster op **Inschakelen** te klikken.
-5. Na een paar minuten wordt er een nieuwe map weergegeven in de Outlook-app van uw gebruiker met de naam *Onlinearchief `name` > - <.* In de webversie van Outlook heet dit *Archief ter wereld.*
+5. Na een paar minuten wordt er een nieuwe map weergegeven in de Outlook app van uw gebruiker met de naam *Onlinearchief `name` > - <.* In webversie van Outlook heet het *In-Place Archive*.
 6. Laat uw gebruiker e-mail naar het archief slepen en neerzetten.
