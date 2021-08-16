@@ -1,5 +1,5 @@
 ---
-title: Stappen voor het oplossen van de activeringsfout van Office 0x80070005
+title: Stappen voor het oplossen van fout bij het activeren van office 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 086c2db7775baabeb5c66eda9e767362fef20f98237021a0b348d8e5d50392b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021411"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Stappen voor het oplossen van de activeringsfout van Office 0x80070005
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Stappen voor het oplossen van fout bij het activeren van office 0x80070005
 
-Als de 0x80070005-fout is opgetreden na het bijwerken van Windows, kunt u het probleem oplossen door het register bij te werken.
+Als de 0x80070005 is gestart na het bijwerken van Windows, kunt u het probleem oplossen door het register bij te werken.
   
-Download en installeer de [ondersteunings-en Recovery-assistent](https://aka.ms/SARA-OfficeActivation-Alchemy) en voer de **probleemoplosser voor activeringen**uit.
+Download en installeer de [Ondersteunings- en herstelassistent](https://aka.ms/SARA-OfficeActivation-Alchemy) en voer de **probleemoplosser voor activering uit.**
   
-Zie voor meer informatie: [Office-foutcode 0x80070005 tijdens het activeren van Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
+Zie voor meer hulp: [Office foutcode 0x80070005 bij het activeren van Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
   
