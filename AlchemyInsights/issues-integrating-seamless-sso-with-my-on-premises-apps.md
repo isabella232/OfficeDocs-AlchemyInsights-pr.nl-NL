@@ -1,5 +1,5 @@
 ---
-title: Problemen met het integreren van naadloze SSO met mijn on-premises apps
+title: Problemen met het integreren van naadloze aanmelding met mijn on-premises apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028287"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problemen met het integreren van naadloze SSO met mijn on-premises apps
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problemen met het integreren van naadloze aanmelding met mijn on-premises apps
 
-Ga als volgt te werk om problemen op te lossen met het integreren van naadloze SSO met on-premises toepassingen:
+Ga als volgt te werk om problemen op te lossen met het integreren van naadloze aanmelding met on-premises toepassingen:
 
 **Aanbevolen stappen**
 
-1. Als u een **on-premises toepassing** wilt configureren voor **eenmalige aanmelding via toepassingsproxy**, raadpleegt u [wachtwoord kluizen voor eenmalige aanmelding met toepassingsproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Problemen met toepassingsproxy oplossen**: u wordt aangeraden om te beginnen met het controleren van de werkstroom voor probleemoplossing, [Foutopsporingsberichten](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) Als u nog steeds problemen ondervindt bij het maken van verbinding met de toepassing, volgt u de stappen voor het oplossen van problemen met de [toepassings proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)van de toepassing. U kunt [CORS-problemen identificeren](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) met behulp van de volgende hulpprogramma's voor foutopsporing in de browser:
+1. Zie Wachtwoordkluisen voor een enkele aanmelding met toepassingsproxy als u een **on-premises** toepassing wilt [configureren voor](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting)een enkele aanmelding via toepassingsproxy.
+1. **Problemen met toepassingsproxy** oplossen: we raden u aan om te beginnen met het controleren van de probleemstroom, [problemen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)met de foutopsporing van toepassingsproxyconnector om te bepalen of de connectors voor toepassingsproxy correct zijn geconfigureerd. Als u nog steeds problemen hebt met het maken van verbinding met de toepassing, volgt u de stappen voor het oplossen van problemen met toepassingsproxyproblemen [met toepassingsopsporing.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) U kunt [CORS-problemen identificeren](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) met behulp van de volgende hulpprogramma's voor foutopsporing in de browser:
     1. Start de browser en blader naar de web-app.
-    1. Druk op **F12** om de console foutopsporing te openen.
-    1. Probeer de transactie te reproduceren en controleer het consolebericht. Een fout met een CORS veroorzaakt een console fout over origin.
-    1. U kunt sommige CORS-problemen niet verhelpen, bijvoorbeeld wanneer uw app wordt omgeleid naar login.microsoftonline.com om te verifiëren, en het toegangstoken verloopt. De CORS-oproep mislukt. Een tijdelijke oplossing voor dit scenario is het verlengen van de levensduur van toegangstokens om te voorkomen dat deze verloopt tijdens de sessie van een gebruiker. Voor meer informatie over hoe u dit doet, raadpleegt u de [levensduur van configureerbare tokens in Microsoft Identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+    1. Druk **op F12** om de foutopsporingsconsole naar boven te halen.
+    1. Probeer de transactie te reproduceren en controleer het consolebericht. Een CORS-schending veroorzaakt een consolefout over origin.
+    1. Sommige CORS-problemen kunnen niet worden opgelost, bijvoorbeeld wanneer uw app wordt omgeleid naar login.microsoftonline.com om te verifiëren en het toegangs token verloopt. Het CORS-gesprek mislukt vervolgens. Een tijdelijke oplossing voor dit scenario is het verlengen van de levensduur van het toegangs token, om te voorkomen dat het verloopt tijdens de sessie van een gebruiker. Zie [Configureerbare token lifetimes in](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)Microsoft identity platform voor meer informatie over hoe u dit doet.
 
 **Aanbevolen documenten**
 
-- [Eenmalige aanmelding configureren voor een toepassing voor toepassings proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [Eenmalige aanmelding voor SSO voor lokale toepassingen met toepassings proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Meer informatie over CORS en oplossing voor Azure Active Directory Application proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Problemen met Kerberos-beperkte delegerings configuraties voor toepassings proxy oplossen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Een enkele aanmelding configureren voor een toepassingsproxytoepassing](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [SAML-aanmelding voor on-premises toepassingen met toepassingsproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Problemen met toepassingsproxyproxy Azure Active Directory en oplossen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Problemen met beperkte delegatieconfiguraties van Kerberos oplossen voor toepassingsproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
