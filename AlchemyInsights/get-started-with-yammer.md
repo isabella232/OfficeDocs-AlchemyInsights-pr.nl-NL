@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002246"
 ---
 # <a name="get-started-with-yammer"></a>Aan de slag met Yammer
 
-Yammer is een beste, veilig en privé sociale netwerk voor ondernemingen. Met Yammer beschikt u over een boeiende en gemakkelijke ervaring op internet en in de Yammer-app voor Android-en iOS-apparaten. Yammer kan worden geïntegreerd met Microsoft teams en Outlook. Yammer biedt ook een bijgewerkte integratie ervaring in SharePoint Online.
+Yammer is een best-in-class, veilig en privé sociaal netwerk voor ondernemingen. Yammer biedt een aantrekkelijke en eenvoudig te gebruiken ervaring op het web en in de Yammer app voor Android- en iOS-apparaten. Yammer kan worden geïntegreerd met Microsoft Teams en Outlook. Yammer biedt ook een bijgewerkte integratie-ervaring in SharePoint Online.
 
-Yammer Deployment adviseur gebruiken om uw Yammer-netwerk voor te bereiden door domeinen toe te voegen, beheerders te definiëren en Yammer-netwerken te combineren. Implementeer Yammer en pas het uiterlijk aan, Configureer beveiliging en compliance en Verfijn de instellingen.
+Gebruik de Yammer implementatieadviseur om uw netwerk Yammer voorbereiden door domeinen toe te voegen, beheerders te definiëren en netwerken Yammer combineren. Implementeer Yammer en pas het uiterlijk aan, configureer de beveiliging en naleving en verfijn de instellingen.

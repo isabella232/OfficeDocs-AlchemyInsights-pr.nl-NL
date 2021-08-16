@@ -1,5 +1,5 @@
 ---
-title: Uw Outlook-webaccount toevoegen aan Outlook voor Windows
+title: Voeg uw webversie van Outlook account toe aan Outlook voor Windows
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,21 +10,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdb570c354c10798471eff282628b04400ad33abc9daea0abce6cb4bcc55e41d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010683"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Uw Outlook online-account toevoegen aan Outlook
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Uw account webversie van Outlook toevoegen aan Outlook
 
-Deze stappen zijn hetzelfde, ongeacht of u uw eerste e-mailaccount dan wel extra e-mailaccounts aan Outlook toevoegt.
+Deze stappen zijn hetzelfde, ongeacht of u uw eerste e-mailaccount of extra e-mailaccounts toevoegt aan Outlook.
 
-1. Selecteer **Bestands**  >  **account toevoegen**.
+1. Selecteer   >  **Bestandsaccount toevoegen.**
 1. Wat u nu ziet, is afhankelijk van uw versie van Outlook:
-    - Voor **Outlook voor Office 365** en **Outlook 2016**typt u uw e-mailadres en klikt u op **verbinding maken**.
-    - Voor **Outlook 2013** en **Outlook 2010**voert u uw naam, e-mailadres en wachtwoord in en klikt u op **volgende**.
-1. Voer desgevraagd uw wachtwoord opnieuw in en selecteer **OK**  >  **Voltooien** , zodat u met uw e-mailaccount in Outlook aan de slag kunt.
+    - Voor **Outlook voor Office 365** en **Outlook 2016,** typt u uw e-mailadres en klikt u op **Verbinding maken.**
+    - Voer **Outlook 2013** en **Outlook 2010** uw naam, e-mailadres en wachtwoord in en klik op **Volgende.**
+1. Als u daarom wordt gevraagd, voert u uw wachtwoord opnieuw in en selecteert u **OK** Voltooien om uw e-mailaccount te gaan gebruiken  >   in Outlook.
 
-Zie [een e-mailaccount toevoegen aan Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)voor meer informatie.
+Zie Een e-mailaccount toevoegen [aan](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)Outlook.
