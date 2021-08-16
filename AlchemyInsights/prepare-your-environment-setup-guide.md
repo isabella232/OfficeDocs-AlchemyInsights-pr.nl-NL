@@ -1,5 +1,5 @@
 ---
-title: Uw omgeving voorbereiden voor Microsoft 365 en Office 365-Services
+title: Uw omgeving voorbereiden op Microsoft 365 en Office 365 services
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004182"
 - "7361"
-ms.openlocfilehash: ff96f2cdd52a54afd579e7c0e7db1b2a69825bb7
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: f22eafc68eac3e68ddf831d5a728b004590ee8aaa7da22e508716ceb257250b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040285"
 ---
-# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Uw omgeving voorbereiden voor Microsoft 365 en Office 365-Services
+# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Uw omgeving voorbereiden op Microsoft 365 en Office 365 services
 
-De [handleiding de omgeving voorbereiden](https://go.microsoft.com/fwlink/?linkid=2005213) helpt bij het voorbereiden van uw organisatie omgeving voor microsoft 365 en Office 365-Services. Ongeacht uw doelen zijn er taken die u moet uitvoeren om ervoor te zorgen dat de implementatie succesvol is.
+Met de handleiding Uw [omgeving voorbereiden](https://go.microsoft.com/fwlink/?linkid=2005213) kunt u de omgeving van uw organisatie voorbereiden op Microsoft 365 en Office 365 services. Ongeacht uw doelen, zijn er taken die u moet uitvoeren om een succesvolle implementatie te garanderen.
 
-Om problemen te voorkomen bij het voorbereiden van uw omgeving, kunt u stapsgewijze instructies voor het verbinden van uw domein, het toevoegen van gebruikers, het toewijzen van licenties, het instellen van e-mail met Exchange Online en het installeren of implementeren van Office-apps.
+Als u problemen wilt voorkomen tijdens het voorbereiden van uw omgeving, krijgt u stapsgewijs instructies voor het verbinden van uw domein, het toevoegen van gebruikers, het toewijzen van licenties, het instellen van e-mail met Exchange Online en het installeren of implementeren van Office-apps.
