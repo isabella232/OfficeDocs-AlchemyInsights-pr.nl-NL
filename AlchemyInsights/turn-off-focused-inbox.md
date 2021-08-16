@@ -1,5 +1,5 @@
 ---
-title: 8000001 schakelt postvak in met prioriteit uit
+title: 8000001 Postvak IN met focus uitschakelen
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038692"
 ---
-# <a name="turn-off-focused-inbox"></a>Postvak in met prioriteit uitschakelen
+# <a name="turn-off-focused-inbox"></a>Postvak IN met focus uitschakelen
 
-1. Selecteer **instellingen** \> **Postvak in met prioriteit**.  
+1. Selecteer **Instellingen** \> **Postvak IN met focus**.  
 
-2. Selecteer bij **Wanneer e-mailbericht wordt ontvangen**de optie **berichten niet sorteren**.
+2. Selecteer **onder Wanneer e-mail wordt ontvangen** de optie Geen berichten **sorteren.**
 
-3. Selecteer **OK**.
+3. Selecteer **OK**.
 
-Zie [Postvak in met prioriteit voor Outlook voor](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)meer informatie.
+Zie Postvak [IN](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)met focus voor Outlook.

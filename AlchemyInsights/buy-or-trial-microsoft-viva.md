@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva kopen of proefversie
+title: Kopen of proefabonnementen Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8335"
-ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
-ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
+ms.openlocfilehash: 3052727ce6462984ab56e1d84096fd18a4fb71a0a9242668768793e2d0416ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50294198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996517"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>Microsoft Viva kopen of proefversie
+# <a name="buy-or-trial-microsoft-viva"></a>Kopen of proefabonnementen Microsoft Viva
 
-Microsoft Viva-onderwerpen kunnen hier worden gekocht of [proefversies worden aangeboden.](https://aka.ms/BuyVivaTopics)
+Microsoft Viva Onderwerpen zijn hier beschikbaar voor Kopen of [Proefversie.](https://aka.ms/BuyVivaTopics)
 
 Uw organisatie moet een van de volgende abonnementen gebruiken:
 
-Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium of SharePoint K, Abonnement 1 of Abonnement 2-licentie om in aanmerking te komen voor Microsoft Viva-onderwerpen.
+Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium of SharePoint K, Abonnement 1 of Abonnement 2 om in aanmerking te komen voor Microsoft Viva-onderwerpen.

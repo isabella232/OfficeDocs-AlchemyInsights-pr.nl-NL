@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996625"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan geen verbinding maken met openbare mappen
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook geen verbinding maken met openbare mappen
 
 Als de toegang tot openbare mappen voor sommige gebruikers niet werkt, gaat u als volgt te werk:
 
-Maak verbinding met EXO PowerShell en configureer de parameter DefaultPublicFolderMailbox op het gebruikersaccount van het probleem op basis van de parameter voor een werkend gebruikersaccount.
+Verbinding maken naar EXO PowerShell en configureert u de parameter DefaultPublicFolderMailbox op het gebruikersaccount van het probleem, op basis van de parameter voor een werkend gebruikersaccount.
 
 Voorbeeld:
 
@@ -33,18 +33,18 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Wacht ten minste één uur totdat de wijziging van kracht wordt.
 
-Als het probleem blijft bestaan, volgt u [deze procedure om](https://aka.ms/pfcte) problemen met toegang tot openbare mappen op te lossen met Outlook.
+Als het probleem blijft bestaan, volgt u [deze procedure om](https://aka.ms/pfcte) problemen met de toegang tot openbare mappen op te lossen met Outlook.
  
-**Bepalen welke gebruikers toegang hebben tot openbare mappen met Outlook:**
+Bepalen welke gebruikers toegang hebben tot **openbare mappen met Outlook:**
 
 1.  Gebruik Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true of $false  
       
-    $true: Gebruikers toegang verlenen tot openbare mappen in Outlook  
+    $true: gebruikers toegang geven tot openbare mappen in Outlook  
       
-    $false: Gebruikerstoegang tot openbare mappen in Outlook voorkomen. Dit is de standaardwaarde.  
+    $false: gebruikers toegang weigeren tot openbare mappen in Outlook. Dit is de standaardwaarde.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Opmerking** Met deze procedure kunnen verbindingen alleen worden uitgevoerd met Outlook-bureaublad voor Windows-clients. Een gebruiker kan toegang blijven krijgen tot openbare mappen met OWA of Outlook voor Mac.
+**Opmerking** Met deze procedure kunnen verbindingen alleen worden besturingselementen met Outlook bureaublad voor Windows clients. Een gebruiker kan openbare mappen blijven openen met OWA of Outlook voor Mac.
  
-Zie Ondersteuning aankondigen voor gecontroleerde verbindingen met openbare mappen [in Outlook voor meer informatie.](https://aka.ms/controlpf)
+Zie Ondersteuning aankondigen voor gecontroleerde verbindingen met openbare mappen [in](https://aka.ms/controlpf)Outlook.

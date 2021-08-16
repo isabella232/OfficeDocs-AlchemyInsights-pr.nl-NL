@@ -1,5 +1,5 @@
 ---
-title: On-premises connector voor Exchange intune
+title: Intune Exchange on-premises Connector
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013959"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>On-premises connector voor Exchange intune
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange on-premises Connector
 
-Raadpleeg de volgende documentatie voor meer informatie over het instellen van een verbindingslijn tussen intune en Exchange die on-premises wordt gehost.
+Zie de volgende documentatie voor meer informatie over het instellen van de verbindingslijn tussen Intune en Exchange die on-premises wordt gehost:
 
-[De on-premises Exchange-connector van intune instellen in Microsoft intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[De on-premises Intune-verbindingslijn Exchange instellen in Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
 **FAQ:**
 
-V: Ik zie een foutbericht, bijvoorbeeld ' de versie van Exchange connector wordt niet ondersteund ' wordt weergegeven wanneer u probeert de Exchange connector in te stellen. Wat kan de oorzaak zijn?
+V: Ik zie een foutmelding zoals 'De Exchange Connector-versie wordt niet ondersteund' bij het instellen van de verbindingslijn Exchange connector. Wat kan de oorzaak zijn?
 
-A: het account dat u gebruikt, heeft een licentie voor u nodig-het moet een actieve intune-licentie hebben
+A: Het account dat u gebruikt, is op de juiste manier gelicentieerd: het moet een actieve Intune-licentie hebben
 
-V: is het mogelijk om meerdere Exchange-connectors te hebben?
+V: Is het mogelijk om meerdere verbindingslijnen Exchange gebruiken?
 
-A: u kunt maar één Exchange-connector per Exchange-organisatie instellen per intune-Tenant. De connector kan alleen worden geïnstalleerd op één server in een Exchange-organisatie met meerdere servers.
+A: U kunt slechts één verbindingslijn Exchange Intune-tenant per organisatie Exchange instellen. De verbindingslijn kan slechts op één server in een exchange-organisatie met meerdere servers worden geïnstalleerd.
 
-Daarnaast zijn er geen connectors geconfigureerd voor Exchange on-premises en Exchange Online geconfigureerd in dezelfde Tenant.
+U kunt ook geen connectors configureren voor zowel Exchange on-premises als Exchange Online geconfigureerd in dezelfde tenant.
 
-V: kan de connector een CAS-matrix als verbinding met Exchange maken?
+V: Kan de verbindingslijn een CAS-matrix gebruiken als verbinding met Exchange?
 
-A: als u een CAS-matrix opgeeft, is geen ondersteunde configuratie in de connectorconfiguratie. U moet slechts één server opgeven en moet een hardcoded-configuratiebestand zijn dat kan worden gevonden in
+A: Het opgeven van een CAS-matrix is geen ondersteunde configuratie in de connectorinstallatie. Er moet slechts één server worden opgegeven en moeten worden gecodeerd in het configuratiebestand van de connector, dat kan worden gevonden in
 
-programma Data\Microsoft\Microsoft intune on-premises Exchange connector \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premises Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Zoek de volgende vermelding ```<ExchangeWebServiceURL />``` en vervang de URL door de Exchange-Server.
+Zoek de volgende vermelding ```<ExchangeWebServiceURL />``` en vervang de URL door de Exchange-server.
 
-**Voorbeeld**
+**Voorbeeld:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Raadpleeg de volgende documentatie voor verdere probleemoplossing: [problemen met de on-premises Exchange-connector van intune oplossen](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Raadpleeg de volgende documentatie voor aanvullende probleemoplossing: Problemen met de [on-premises Intune-verbindingslijn Exchange oplossen](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Uitgebreide logboekregistratie inschakelen voor de Exchange connector**
+**Verbose-logboekregistratie voor de Exchange inschakelen**
 
-1. Het configuratiebestand voor Exchange connector tracering openen voor bewerking.  
-Het bestand bevindt zich op:%ProgramData%\Microsoft\Windows intune Exchange Connector\TracingConfiguration.xml  
+1. Open het configuratiebestand Exchange connectortracing voor bewerken.  
+Het bestand bevindt zich op : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Voorbeeld**
+**Voorbeeld:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
 2. Zoek de TraceSourceLine met de volgende sleutel: OnPremisesExchangeConnectorService  
   
-3. Wijzig de waarde van het knooppunt SourceLevel van Information ActivityTracing (de standaardinstelling) in uitgebreide ActivityTracing  
+3. De waarde van het knooppunt SourceLevel wijzigen van Information ActivityTracing (de standaardwaarde) in Verbose ActivityTracing  
 
-**Voorbeeld**
+**Voorbeeld:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Het bestand bevindt zich op:%ProgramData%\Microsoft\Windows intune Exchange Conn
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. De Microsoft intune Exchange-service opnieuw starten  
-5. Volledige synchronisatie in de intune-Portal totdat deze is voltooid en wijzig vervolgens de XML weer in ' Information ActivityTracing ' en start de Microsoft intune Exchange-service opnieuw.  
-6. Locatie van de logboeken is: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
+4. De service Microsoft Intune Exchange opnieuw starten  
+5. Volledige synchronisatie in Intune Portal totdat deze is klaar en wijzig de XML weer in 'Information ActivityTracing' en start de Microsoft Intune Exchange Service.  
+6. De locatie van de logboeken is: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory Premium P2 kopen
+title: Koop Azure Active Directory Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996661"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Azure Active Directory Premium P2 kopen
+# <a name="buy-azure-active-directory-premium-p2"></a>Koop Azure Active Directory Premium P2
 
-Voer de volgende stappen uit om Azure Active Directory Premium P2 te proberen of te kopen:
+Als u een Azure Active Directory Premium P2 wilt kopen, volgt u de volgende stappen:
 
-1. Ga naar   >    >  [**beveiligings-en identiteits**](https://go.microsoft.com/fwlink/?linkid=2131946)Services voor facturering van de aankoop en klik vervolgens op **Azure Active Directory Premium P2**.
-Als u de gratis proefperiode hebt geselecteerd, voltooit u het proces door de instructies op de pagina te volgen. anders gaat u verder met stap 2.
-1. Voer op de volgende pagina het aantal gebruikerslicenties en de betalingsperiode in en klik vervolgens op **nu uitchecken**.
-1. Controleer de prijsinformatie op de **afreken** pagina en klik op **volgende**.
-1. Voer op de volgende pagina uw betalings-en adresgegevens in en plaats uw bestelling.
-1. Voer uw telefoonnummer in en klik op **SMS mij** of **Bel me**.
-1. Voer de verificatiecode in die u hebt ontvangen en voer vervolgens het proces uit volgens de instructies op de pagina.
+1. Ga naar  >  **Factureringsservices**  >  [**beveiliging en identiteit**](https://go.microsoft.com/fwlink/?linkid=2131946)en klik vervolgens op **Azure Active Directory Premium P2.**
+Als u de gratis proefversie hebt geselecteerd, voltooit u het proces door de instructies op de pagina te volgen. anders gaat u verder met stap 2.
+1. Voer op de volgende pagina het aantal gebruikerslicenties en de betalingsperiode in en klik op **Nu uitchecken.**
+1. Bekijk op **de** pagina Afrekenen de prijsinformatie en klik vervolgens op **Volgende.**
+1. Voer op de volgende pagina uw betalings- en adresgegevens in en plaats uw bestelling.
+1. Voer uw telefoonnummer in en klik vervolgens op **Sms mij** of **Bel mij**.
+1. Voer de verificatiecode in die we u hebben gestuurd en voltooi het proces door de instructies op de pagina te volgen.

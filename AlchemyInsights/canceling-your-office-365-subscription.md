@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996589"
 ---
 # <a name="canceling-your-subscription"></a>Uw abonnement opzeggen?
 
 Het spijt ons dat u gaat, maar als u uw abonnement wilt opzeggen, zijn hier de volgende opties:
   
 - Als u minder dan 25 toegewezen licenties hebt, kunt u uw abonnement online opzeggen. Ga naar de **pagina Facturering** \> **[uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)** en zoek het abonnement dat u wilt annuleren. Selecteer de drie puntjes (meer acties) en selecteer **Abonnement annuleren**.
-- Als u meer dan 25 licenties hebt toegewezen aan gebruikers, belt u [ondersteuning om uw abonnement op te zeggen.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- Als u meer dan 25 licenties hebt toegewezen aan gebruikers, verkleint u deze tot minder dan 25 om de ondersteuning te annuleren of te bellen om uw [abonnement op te zeggen.](/microsoft-365/business-video/get-help-support)
   
 **Terugbetaling: Een prorated credit wordt binnen de volgende factureringscyclus aan u geretourneerd.**
 
