@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026793"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
@@ -25,4 +25,4 @@ ms.locfileid: "48801474"
 - [MTP inschakelen](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [MTP-probleemoplossing](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Licentieverlening controleren: u moet de rol Factureringsbeheerder of algemene lezer in azure AD toewijzen om uw licentie te bekijken. Ga naar het [Beheercentrum](https://admin.microsoft.com/) en ga naar **facturerings**  >  **licenties** om uw bestaande licenties weer te geven.
+Licenties controleren: u moet de rol factureringsbeheerder of globale lezer in Azure AD krijgen toegewezen om uw licentie weer te geven. Ga naar het [beheercentrum en](https://admin.microsoft.com/) ga naar **Factureringslicenties**  >  **om** uw bestaande licenties te bekijken.

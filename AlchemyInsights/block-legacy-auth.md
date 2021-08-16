@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2f2a0c3888920a969a6fc70af7ef7bfd8435bdcf975e0f31452b5da85e3a208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968876"
 ---
 # <a name="blocking-legacy-authentication"></a>Oudere verificatie blokkeren
 
 Oudere verificatie is een term die verwijst naar een verificatieaanvraag die wordt gedaan door:
 
-- Oudere Office-clients die geen moderne verificatie gebruiken (bijvoorbeeld Office 2010-client).
+- Oudere Office die geen moderne verificatie gebruiken (bijvoorbeeld Office 2010-client).
 
 - Elke client die oudere e-mailprotocollen gebruikt, zoals IMAP/SMTP/POP3.
 

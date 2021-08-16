@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034749"
 ---
 # <a name="fix-transport-rules"></a>Transportregels oplossen
 
 Dit bericht is beïnvloed door een aangepaste e-mailstroomregel. Ga als volgt te werk om de exacte regel te bekijken:
 
 1. Noteer in de resultaten van de inzending onder **Aanvullende informatie** de **GUID** of de **naam van het beleid.**
-2. Start Exchange Management Shell. Zie De Exchange Management Shell openen voor [meer informatie.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Start Exchange Management Shell. Zie De Exchange [Management Shell openen voor meer informatie.](https://go.microsoft.com/fwlink/?linkid=2101432)
 3. Voer deze opdracht uit (met de GUID van uw inzending):  **Get-TransportRule -identity "GUID" | fl * Beschrijving***
 4. Bekijk de beschrijving om de geconfigureerde voorwaarden te bekijken die van invloed zijn op het bericht.
 

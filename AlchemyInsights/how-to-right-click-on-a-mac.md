@@ -1,5 +1,5 @@
 ---
-title: 8000063 met de rechtermuisknop op een Mac
+title: 8000063 Met de rechtermuisknop klikken op een Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001935"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Met de rechtermuisknop op een Mac klikken
+# <a name="how-to-right-click-on-a-mac"></a>Met de rechtermuisknop klikken op een Mac
 
-Op Mac-computers wordt met de rechtermuisknop klikken, een secundaire klik of een besturingselement klikken. Als uw muis, trackpad of ander invoerapparaat geen knop met de rechtermuisknop bevat of een andere manier om een klik met de rechtermuisknop uit te voeren, houdt u **Control** ingedrukt terwijl u op het toetsenbord klikt.
+Op Mac-computers wordt klikken met de rechtermuisknop secundaire klik of Control-klik genoemd. Als uw muis, trackpad of ander invoerapparaat geen knop met de rechtermuisknop of een andere  manier bevat om met de rechtermuisknop te klikken, houdt u control ingedrukt op het toetsenbord terwijl u klikt.
   
-Ga voor meer informatie naar [Apple Support](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Ga voor meer informatie naar [Apple-ondersteuning.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
   
