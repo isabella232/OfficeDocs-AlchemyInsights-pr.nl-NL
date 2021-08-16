@@ -1,5 +1,5 @@
 ---
-title: Voorbeeld van anti-phishingbeleid van Microsoft Defender voor Office 365
+title: Voorbeeld van Microsoft Defender voor Office 365 anti-phishingbeleid
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035001"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Voorbeeld van anti-phishingbeleid van Microsoft Defender voor Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Voorbeeld van Microsoft Defender voor Office 365 anti-phishingbeleid
 
 Met deze instellingen kunt u een beleid met de naam *Domein en CEO inschakelen.* Dit beleid biedt zowel gebruikers- als domeinbescherming tegen imitatie en past vervolgens het beleid toe op alle e-mail die gebruikers binnen het domein ontvangen. Voeg eerst de volgende gegevens toe om het beleid te maken:
 
@@ -33,4 +33,4 @@ Met deze instellingen kunt u een beleid met de naam *Domein en CEO inschakelen.*
   - **Vertrouwde afzenders en domeinen toevoegen:** Definieer in dit voorbeeld geen overschrijvingen.
 - Nadat u de instellingen hebt gecontroleerd, **selecteert** u Dit beleid maken of **Opslaan,** naar eigen goed.
 
-Zie [Anti-phishingbeleid in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235)voor meer informatie.
+Zie [Anti-phishingbeleid in](https://go.microsoft.com/fwlink/?linkid=2092235)Microsoft 365.
