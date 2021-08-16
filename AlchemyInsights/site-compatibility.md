@@ -1,5 +1,5 @@
 ---
-title: Meer informatie over site compatibiliteit – wijzigingen beïnvloedende wijzigingen in Microsoft Edge
+title: Meer informatie over sitecompatibiliteit die van invloed is op wijzigingen die Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: e7b4bc2a896133affa40b38c326cada6fcb396c6
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 80955b953f48a7cc70b009d71c7c0c65da6c8ad56e76cb2b4f76edd2486dc076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022131"
 ---
-# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Meer informatie over site compatibiliteit – wijzigingen beïnvloedende wijzigingen in Microsoft Edge
+# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Meer informatie over sitecompatibiliteit die van invloed is op wijzigingen die Microsoft Edge
 
-Het web is voortdurend te ontwikkelen voor een betere gebruikerservaring, beveiliging en privacy. Het is belangrijk dat sommige wijzigingen van invloed zijn op de functionaliteit van bestaande pagina's. Het Microsoft Edge-team werkt de pagina's bij wanneer u denken, tijdlijnen Solidify en [wijzigingen worden aangekondigd](https://go.microsoft.com/fwlink/?linkid=2135534).
+Het web ontwikkelt zich voortdurend om de gebruikerservaring, beveiliging en privacy te verbeteren. Sommige wijzigingen zijn belangrijk genoeg om van invloed te zijn op de functionaliteit van bestaande pagina's. Het Microsoft Edge team werkt de pagina's bij naarmate het denken zich ontwikkelt, tijdlijnen worden effenen en [wijzigingen worden aangekondigd.](https://go.microsoft.com/fwlink/?linkid=2135534)
