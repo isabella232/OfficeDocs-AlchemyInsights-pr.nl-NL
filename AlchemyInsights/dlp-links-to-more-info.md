@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030825"
 ---
 # <a name="information-about-dlp-issues"></a>Informatie over DLP-problemen
 
 **Belangrijk**: in deze ongekende tijden ondernemen we stappen om ervoor te zorgen dat SharePoint Online- en OneDrive-services optimaal beschikbaar blijven. Bezoek [Tijdelijke aanpassing van SharePoint Online-functies](https://aka.ms/ODSPAdjustments) voor meer informatie.
 
-**Informatie over het DLP-beleid**
+**Informatie over DLP-beleid**
 
-Met een DLP-beleid kunt u gevoelige informatie identificeren, controleren en automatisch beschermen in Microsoft 365.
+Met een DLP-beleid kunt u gevoelige informatie identificeren, controleren en automatisch beveiligen in Microsoft 365.
 
-Ga naar de volgende koppelingen voor meer informatie:
+Ga naar deze koppelingen voor meer informatie:
 
 - [Overzicht van preventie van gegevensverlies](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Waar wordt naar gezocht door de typen gevoelige informatie](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Een aangepast gevoelige informatietype maken](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [E-mail meldingen verzenden en tips voor beleid weergeven](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [SharePoint Online-bestanden beveiligen met labels voor bewaarbeleid en DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [Waar de typen gevoelige informatie naar zoeken](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Een aangepast type gevoelige informatie maken](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [E-mailmeldingen verzenden en beleidstips tonen](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Uw SharePoint onlinebestanden beveiligen met bewaarlabels en DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP en Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Als u uw gegevens wilt testen met een ingebouwd of aangepast type gevoelige informatie, gebruikt u de optie **testtype** onder **indelings**  >  **gevoelige info typen**. Zie voor meer informatie [aangepaste, gevoelige informatie typen testen](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Als u uw gegevens wilt testen met een ingebouwd of aangepast type gevoelige informatie, gebruikt u de optie **Type** test onder **Classificaties**  >  **Gevoelige informatietypen.** Zie Aangepaste gevoelige informatietypen testen voor [meer informatie.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)

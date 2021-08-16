@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048619"
 ---
 # <a name="transfer-domain-between-tenants"></a>Domein overbrengen tussen tenants
 
-Een aangepast domein, zoals forthcoffee.com, kan handmatig worden verwijderd uit een Tenant en vervolgens worden geverifieerd in een nieuwe Tenant.
+Een aangepast domein, zoals forthcoffee.com, kan handmatig uit één tenant worden verwijderd en vervolgens worden geverifieerd in een nieuwe tenant.
 
-Voer de volgende stappen uit om [een domein te verwijderen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Ga vervolgens in de nieuwe Tenant naar **instellingen**  >  **Domains**  >  **domein domein toevoegen**.
+Volg deze stappen om [een domein te verwijderen.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Ga vervolgens in de nieuwe tenant **naar Instellingen**  >  **Domein toevoegen.**  >  
 
-Zie [Microsoft 365 Tenant-to-Tenant-migraties](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)voor meer complexe scenario's.
+Zie voor complexere [scenario's Microsoft 365 tenant-to-tenant-migraties](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
 
-**Let ook** op:
-- Het initiële ononmicrosoft.com-domein kan niet worden verwijderd of verplaatst tussen tenants.
-- Een aangepast domein dat bij Microsoft is gekocht, kan niet tussen tenants worden verplaatst.
+**Let ook op:**
+- Het eerste onmicrosoft.com domein kan niet worden verwijderd of verplaatst tussen tenants.
+- Een aangepast domein dat bij Microsoft is gekocht, kan niet worden verplaatst tussen tenants.

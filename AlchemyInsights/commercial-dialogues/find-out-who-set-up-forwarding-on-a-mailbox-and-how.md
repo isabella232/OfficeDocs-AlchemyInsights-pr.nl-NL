@@ -1,5 +1,5 @@
 ---
-title: Ontdek wie doorsturen heeft ingesteld voor een postvak en hoe
+title: Ontdek wie doorsturen in een postvak heeft ingesteld en hoe
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6a1a1376758024339939d10a7d17520faa8505ea
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988174"
 ---
-# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Ontdek wie doorsturen heeft ingesteld voor een postvak en hoe
+# <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Ontdek wie doorsturen in een postvak heeft ingesteld en hoe
 
-Als extern doorsturen is ingesteld voor een postvak, wordt de activiteit gecontroleerd als onderdeel van de Set-Mailbox-cmdlet. U kunt de activiteit als volgen vinden in het auditlogboek:
+Als extern doorsturen is ingesteld op een postvak, wordt de activiteit gecontroleerd als onderdeel van de Set-Mailbox cmdlet. U vindt als volgende de activiteit in het auditlogboek:
 
-1. Ga naar het [Office 365-& compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selecteer **Zoeken in** >  **auditlogboek zoeken.**
+1. Ga naar het [Office 365 Beveiligings- & compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Selecteer **Zoeken in** >  **auditlogboek zoeken**.
     > [!NOTE]
-    > Als u een melding ziet dat u de controle moet in- of uitvoeren, gaat u door en schakel deze nu in. Als deze functie niet is ingeschakeld, kunnen er geen gegevens worden verzameld uit eerdere datums.
-1. Zorg ervoor dat **het veld** Activiteiten is ingesteld op Resultaten tonen voor **alle activiteiten** (de standaardinstelling). Geef het datumbereik op. U hoeft geen gebruikersnaam op te geven.
-1. Selecteer **Zoeken.** De activiteiten worden weergegeven onder **Resultaten.**
-1. Selecteer **Filterresultaten** en typ **Postvak Instellen** in het **veld Activiteitsfilter.** Hiermee worden alle activiteiten **van Set-Mailbox** als retourneert.
-1. Als u de details wilt weergeven, selecteert u een activiteit en vervolgens **Meer informatie.** Onder **Parameters** ziet u het doorsturende e-mailadres dat is ingesteld voor het postvak. De **UserID** vertegenwoordigt de gebruiker die extern doorsturen heeft ingesteld voor het postvak.
-Zie Het Auditlogboek van Office 365 doorzoeken voor meer informatie [om veelvoorkomende scenario's op te lossen.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    > Als u een melding ziet dat u auditing moet in- of uit- zetten, gaat u door en zet u deze nu in. Als deze functie niet is ingeschakeld, kunnen zoekresultaten geen gegevens uit eerdere datums halen.
+1. Zorg ervoor dat **het veld** Activiteiten is ingesteld op Resultaten voor alle **activiteiten (de** standaardinstelling). Geef het datumbereik op. U hoeft geen gebruikersnaam op te geven.
+1. Selecteer **Zoeken**. De activiteiten worden weergegeven onder **Resultaten**.
+1. Selecteer **Filterresultaten** en voer vervolgens **Postvak instellen** in het veld **Activiteitsfilter** in. Hiermee worden alle activiteiten **voor Postvak instellen** als retourneert.
+1. Als u de details wilt bekijken, selecteert u een activiteit en selecteert u **vervolgens Meer informatie.** Onder **Parameters** ziet u het doorsturende e-mailadres dat is ingesteld in het postvak. De **UserID** vertegenwoordigt de gebruiker die extern doorsturen in het postvak heeft ingesteld.
+Zie Het auditlogboek van het Office 365 zoeken om veelvoorkomende scenario's op te lossen voor meer [informatie.](https://go.microsoft.com/fwlink/?linkid=2103944)

@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048799"
 ---
 # <a name="id-like-to-sign-up-for-teams-for-free"></a>Ik wil me gratis registreren voor Teams
 
-Teams is gratis beschikbaar via een aantal verschillende programma's. Aangezien u met deze aanvraag contact op kunt nemen met de ondersteuning, hebt u al een bestaande Microsoft 365-tenant, wat betekent dat u al Microsoft Teams hebt.
+Teams is gratis beschikbaar via een aantal verschillende programma's. Aangezien u contact op wilt nemen met de ondersteuning met deze aanvraag, hebt u al een bestaande Microsoft 365 tenant, wat betekent dat u al Microsoft Teams.
 
-In de meeste gevallen is Teams standaard ingeschakeld voor al uw gebruikers. Wanneer Teams is ingeschakeld, kunnen uw gebruikers Teams [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)uitvoeren door bureaublad- en mobiele clients te installeren, of via de    [browser](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)in Microsoft [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)    [Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
+In de meeste gevallen Teams standaard ingeschakeld voor al uw gebruikers. Wanneer deze is ingeschakeld, kunnen uw gebruikers Teams uitvoeren, [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)door desktop- en mobiele clients te installeren of via de    [browser](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)op [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)    [Microsoft Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
 
-De uitzondering hierop is Microsoft Teams for Education (EDU). Als u een EDU-licentie hebt, moet u Microsoft Teams handmatig inschakelen. Ga hiervoor naar het Microsoft 365-beheercentrum en **>-services en invoegingen > Microsoft Teams.** Als u het nieuwe Teams-beheercentrum gebruikt, moet **** u Probeer het nieuwe beheercentrum uit om Services en    **invoegvoegingen te vinden.** BELANGRIJK: het kan tot 24 uur duren voordat de wijzigingen zijn doorgevoerd.
+De uitzondering hierop is Microsoft Teams for Education (EDU). Als u een EDU-licentie hebt, moet u de Microsoft Teams inschakelen. Hiervoor gaat u naar de Microsoft 365-beheercentrum **> Services en invoegservices > Microsoft Teams.** Als u het nieuwe beheercentrum Teams gebruiken, moet u Probeer het nieuwe **beheercentrum** uitschakelen om Services en invoegvoegingen   te **vinden.** BELANGRIJK: Mogelijk moet u maximaal 24 uur wachten voordat de wijzigingen van kracht worden.
 
-Mis niet al onze richtlijnen voor het ondersteunen van [externe medewerkers met Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
+Mis niet al onze richtlijnen voor het ondersteunen van [externe werknemers met Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
