@@ -1,5 +1,5 @@
 ---
-title: 'Automatisch beantwoorden configureren voor alle e-mailberichten die naar een Microsoft 365-groep worden verzonden:'
+title: 'U configureert automatisch beantwoorden voor alle e-mailberichten die naar de Microsoft 365 worden verzonden:'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "8586"
 - "9003200"
-ms.openlocfilehash: c3c1d4e6b16b54d92771d7bdecdc9cb12bbf888c
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
-ms.translationtype: MT
+ms.openlocfilehash: 3ed937d38627c1089c9203550498ce7b21ce01c0c5a2deea7326f8057f5338d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036127"
 ---
-# <a name="to-configure-auto-reply-for-all-emails-sent-to-microsoft-365-group"></a>Automatisch beantwoorden configureren voor alle e-mailberichten die naar een Microsoft 365-groep worden verzonden:
+# <a name="to-configure-auto-reply-for-all-emails-sent-to-microsoft-365-group"></a>U configureert automatisch beantwoorden voor alle e-mailberichten die naar de Microsoft 365 worden verzonden:
 
-**Maak verbinding met EXO PowerShell met behulp van het tenantbeheerdersaccount en gebruik de volgende opdracht:**
+**Verbinding maken naar EXO PowerShell met behulp van tenantbeheerderaccount en gebruik de volgende opdracht:**
 
 `Set-MailboxAutoReplyConfiguration -Identity groupmailbox -AutoReplyState Enabled -InternalMessage "Internal auto-reply message." -ExternalMessage "External auto-reply message`
 
 > [!NOTE]
-> Wijzig **het groepspostvak** in een groepsnaam die u automatisch beantwoorden wilt configureren.
+> Wijzig **groupmailbox** in een groepsnaam die u automatisch beantwoorden wilt configureren.
 

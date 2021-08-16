@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: 240bd25f4d62505202c8cd7ceabe4c1cd3d5c0b5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 709749b1a62f2d9cdabfb3fe4b7538c22101d7109204d9163f6059336b817bf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019143"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Ik word geblokkeerd door Voorwaardelijke toegang met compatibel apparaat
 
@@ -36,13 +36,13 @@ Controleer of het apparaat is geregistreerd bij een goedgekeurde MDM-provider, z
 
 2. **Apparaat is niet verbonden met het netwerk van organisaties:**
 
-Voor toegang tot organisatieresources moet het apparaat zijn verbonden met het netwerk van de organisatie, hetzij via een directe verbinding of een virtueel privénetwerk (VPN), maar ook verbonden met on-premises of Azure Active Directory. Zie Deelnemen aan uw werkapparaat aan het netwerk van uw organisatie als u wilt deelnemen aan een werkapparaat [aan het organisatienetwerk.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network) Zie Uw persoonlijke apparaat registreren op het netwerk van uw organisatie als u een persoonlijk/BYOD-apparaat [wilt registreren.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network)
+Voor toegang tot organisatiebronnen moet het apparaat zijn verbonden met het netwerk van de organisatie, hetzij via een directe verbinding of een virtueel privénetwerk (VPN), maar ook verbonden met on-premises of Azure Active Directory. Zie Deelnemen aan uw werkapparaat aan het netwerk van uw organisatie als u wilt deelnemen aan een werkapparaat [aan het organisatienetwerk.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network) Zie Uw persoonlijke apparaat registreren op het netwerk van uw organisatie als u een persoonlijk/BYOD-apparaat [wilt registreren.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network)
 
 - Als u wilt controleren of het apparaat deel heeft genomen aan het netwerk, kunt u de stappen voor geregistreerde apparaten [hier](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network#to-verify-that-youre-registered) volgen of hier [werken.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network#to-make-sure-youre-joined) Als u het probleem wilt uitbreiden naar netwerkconnectiviteit op org, volgt u de onderstaande richtlijnen:
 
-    1. Meld u aan bij Windows met uw werk- of schoolaccount, bijvoorbeeld alain@contoso.com.
-    2. Maak verbinding met het netwerk van uw organisatie via een VPN of DirectAccess.
-    3. Nadat u verbinding hebt, drukt u op **de Windows-logotoets+L om** uw apparaat te vergrendelen.
+    1. Meld u aan Windows met uw werk- of schoolaccount, bijvoorbeeld alain@contoso.com.
+    2. Verbinding maken via een VPN of DirectAccess naar het netwerk van uw organisatie.
+    3. Nadat u bent verbonden, drukt u op **de Windows logotoets+L om** uw apparaat te vergrendelen.
     4. Ontgrendel uw apparaat met uw werk- of schoolaccount en probeer vervolgens opnieuw toegang te krijgen tot de problematische app of service.
 
 Als u het **foutbericht U kunt er vanaf** hier niet meer komen ziet, is het probleem waarschijnlijk ergens anders.
@@ -51,7 +51,7 @@ Als u het **foutbericht U kunt er vanaf** hier niet meer komen ziet, is het prob
 
 Controleer of u een ondersteunde versie van het besturingssysteem gebruikt, waaronder:
 
-- **Windows Client:** Windows 7 of hoger
+- **Windows Client**: Windows 7 of hoger
 
 - **Windows Server**: Windows Server 2008 R2 of hoger
 
@@ -61,16 +61,16 @@ Controleer of u een ondersteunde versie van het besturingssysteem gebruikt, waar
 
 4. **Webbrowser wordt niet ondersteund:**
 
-Zoek hieronder ondersteunde browsers. Voor Chrome-ondersteuning met Windows 1703- of nieuwere versies is een windows 10-accountextensie vereist. Voor Edge 85+ moet de gebruiker zijn aangemeld om de nalevingsgegevens van het apparaat correct door te geven. Zie hier voor meer [informatie.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support)
+Zoek hieronder ondersteunde browsers. Voor Chrome-ondersteuning met Windows 1703- of latere versies is Windows 10 accountextensie vereist. Voor Edge 85+ moet de gebruiker zijn aangemeld om de nalevingsgegevens van het apparaat correct door te geven. Zie hier voor meer [informatie.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support)
 
 - **Windows 10**: Microsoft Edge, Internet Explorer, Chrome
 - **Windows 8 / 8.1**: Internet Explorer, Chrome
-- **Windows 7**: Internet Explorer, Chrome
-- **iOS:** Microsoft Edge, Beheerde browser in Intune, Safari
-- **Android:** **Microsoft Edge:** Beheerde browser in Intune, Chrome
-- **Windows Phone:** Microsoft Edge, Internet Explorer
-- **Windows Server 2019**: Microsoft Edge, Internet Explorer, Chrome
-- **Windows Server 2016**: Internet Explorer
+- **Windows 7:** Internet Explorer, Chrome
+- **iOS:** Microsoft Edge, Intune Managed Browser, Safari
+- **Android**: **Microsoft Edge**: Intune Managed Browser, Chrome
+- **Windows Phone**: Microsoft Edge, Internet Explorer
+- **Windows Server 2019:** Microsoft Edge, Internet Explorer, Chrome
+- **Windows Server 2016:** Internet Explorer
 - **Windows Server 2012 R2**: Internet Explorer
 - **Windows Server 2008 R2**: Internet Explorer
 - **macOS**: Chrome, Safari
