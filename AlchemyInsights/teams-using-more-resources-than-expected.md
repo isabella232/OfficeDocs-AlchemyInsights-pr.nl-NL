@@ -1,5 +1,5 @@
 ---
-title: Richtlijnen voor de upgrade van teams
+title: Teams upgrade-instructies
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998686"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams gebruiken meer computerbronnen dan verwacht
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams gebruikt meer computerresources dan verwacht
 
-Onze goede prestaties en de gebruikerservaring zijn de belangrijkste aandachtspunten bij Microsoft. De starttijd van teams is verbeterd, en we gaan nu verder met het verbeteren van teams, inclusief het totale verbruik van bronnen.  
+Geweldige prestaties en gebruikerservaring zijn de belangrijkste punten van zorg bij Microsoft. Teams de begintijd is verbeterd en we blijven de Teams verbeteren, inclusief het totale resourceverbruik.  
 
-Voor informatie over het gebruik van teams en resources raadpleegt [u hoe Microsoft teams geheugen verbruikt](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  en  [teams vertraagd tijdens videovergaderingen op laptops die zijn gekoppeld aan pagina's van 4.000 en HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Zie How [Microsoft Teams uses memory](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) and Teams is slow during video meetings on laptops docked to [4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)monitors (Hoe Microsoft Teams geheugen en Teams gebruikt tijdens videovergaderingen) voor informatie over Teams en resourcegebruik.
