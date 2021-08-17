@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888401"
 ---
 # <a name="fix-connection-policy"></a>Verbindingsbeleid oplossen
 
-De e-mail is als veilig gemarkeerd en bezorgd in het Postvak IN van de gebruiker omdat het verzendende IP-adres veilig is gemarkeerd in het beleid voor verbindingsfilter. Ga als volgt te werk om het beleid te bekijken:
+De e-mail is als veilig gemarkeerd en bezorgd in het Postvak IN van de gebruiker omdat het bron-IP-adres is gemarkeerd als veilig in het standaardbeleid voor verbindingsfilters. Als u het beleid wilt controleren, gaat u als volgt te werk:
 
-1. Ga naar het [Office 365 beveiligingscentrum & compliancecentrum](https://go.microsoft.com/fwlink/p/?linkid=2077143)en ga naar **Beleid** voor  >    >  [bedreigingsbeheer antispam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Selecteer op **het** tabblad Aangepast het **verbindingsfilterbeleid** en selecteer **vervolgens Beleid bewerken.**
-3. Bekijk de **lijst IP-toestaan.** Kijk of **Safe is** ingeschakeld.
+1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & Samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
 
-    > [!NOTE]
-    > Microsoft is geabonneerd op externe bronnen van vertrouwde afzenders. Als **Safe is** ingeschakeld, worden deze vertrouwde afzenders niet per ongeluk gemarkeerd als spam. Ik raad u aan deze optie te selecteren, omdat hiermee het aantal fout-positieven (goede e-mail die als spam is geclassificeerd) wordt beperkt.
+   Gebruik <https://security.microsoft.com/antispam> om direct naar de pagina **Antispambeleid** te gaan.
+
+2. Selecteer op **de pagina Antispambeleid** het beleid met de naam **Verbindingsfilterbeleid (standaard)** door op de naam van het beleid te klikken.
+
+3. Klik in de flyout details die wordt weergegeven op **Verbindingsfilterbeleid bewerken** in **de sectie Verbindingsfilter.**
+
+4. Controleer de vermeldingen in de sectie Altijd toestaan berichten uit de volgende **sectie IP-adressen** of adresbereik en kijk of **Veilige** lijst in-/uit-lijst in- of uit- of uit te stellen is geselecteerd.
+
+   > [!NOTE]
+   > Microsoft is geabonneerd op externe bronnen van vertrouwde afzenders. Als de veilige lijst is ingeschakeld, worden deze vertrouwde afzenders niet per ongeluk gemarkeerd als spam. U wordt aangeraden deze optie te selecteren, omdat hierdoor het aantal onwaar-positieven (goede e-mail die als spam is geclassificeerd) wordt beperkt.
+
+Zie [Verbindingsfiltering configureren](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy) voor meer informatie.

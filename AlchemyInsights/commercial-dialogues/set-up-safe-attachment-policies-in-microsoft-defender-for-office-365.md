@@ -1,5 +1,5 @@
 ---
-title: Beleid voor veilige bijlagen instellen in Microsoft Defender voor Office 365
+title: Het bijlagebeleid Safe instellen in Microsoft Defender voor Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 00b939a5ad9ee0349c85c162bf8279c5b1e1a0e5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744048"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888365"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Beleid voor veilige bijlagen instellen in Microsoft Defender voor Office 365
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Het bijlagebeleid Safe instellen in Microsoft Defender voor Office 365
 
-1. Ga naar het [Office 365-beveiligings- & compliancecentrum](https://go.microsoft.com/fwlink/p/?linkid=2077143) en selecteer **Veilige** bijlagen voor  >    >  **bedreigingsbeleid.**
-2. Als u deze functie wilt inschakelen voor andere werkbelastingen, selecteert u Microsoft Defender inschakelen voor **Office 365 voor SharePoint Online, OneDrive en Microsoft Teams.**
-3. Als u een nieuw beleid wilt maken, selecteert u het **pictogram Nieuw** **+** ().
-4. Geef de naam, beschrijving en instellingen voor het beleid op.
-5. Klik op **Opslaan**.
+1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com/> naar E-mail & **Samenwerkingsbeleid** & \> **Regels** \> **Bedreigingsbeleid** \>   Safe bijlagen in de sectie Beleid.
+
+   Als u rechtstreeks naar de pagina Safe **bijlagen wilt** gaan, gebruikt u <https://security.microsoft.com/safeattachmentv2> .
+
+2. Ga op **Safe pagina Bijlagen** naar een van de volgende stappen:
+   - Als u een nieuw beleid wilt toevoegen, **selecteert u + Maken.** Er wordt een wizard gelanceerd om u te helpen uw beleidsinstellingen te definiëren.
+   - Als u een bestaand beleid wilt bewerken, selecteert u het beleid door op de naam van het beleid te klikken. Selecteer bewerken **in** de sectie met de instellingen die u wilt configureren in het detail flyout dat wordt weergegeven.
+   - Als u Safe Bijlagen voor SharePoint, OneDrive en Microsoft Teams wilt in- of uitschakelen, klikt u op Algemene **instellingen,** zet u de instelling in of uit en klikt u vervolgens op **Opslaan.**
+
+3. Nadat u de instellingen hebt bekeken, **selecteert** u Verzenden (nieuw) of **Opslaan** (bewerken).
+
+Zie de volgende artikelen voor meer informatie:
+
+- [Het beleid Safe bijlagen instellen in Microsoft Defender voor Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Veilige bijlagen uitschakelen voor SharePoint, OneDrive en Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

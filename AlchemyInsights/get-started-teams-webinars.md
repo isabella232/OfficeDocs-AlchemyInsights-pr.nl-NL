@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964412"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888237"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Aan de slag met Teams webinars
 
@@ -25,6 +25,6 @@ Webinars zijn gestructureerde vergaderingen waarbij docenten en deelnemers duide
 
 Na het instellen van webinars in uw organisatie kunnen uw gebruikers webinars plannen en registratie openen voor deelnemers. In tegenstelling tot traditionele vergaderingen met veel discussies en taaktoewijzingen, zijn webinars bedoeld voor interactieve presentaties en om hulpmiddelen te bieden voor de analyse van de deelnemer.
 
-**Opmerking:** De functionaliteit van webinar is nog bezig met de uitrol naar Microsoft 365 tenants. 
+**Opmerking:** De functionaliteit van webinar wordt nog steeds uitgerold naar Microsoft 365 tenants. 
 
-Zie Webinars instellen voor webinars in Microsoft Teams voor meer informatie over het instellen en configureren van Teams [webinars.](/microsoftteams/set-up-webinars)
+Zie Webinars instellen voor webinars in Microsoft Teams voor meer informatie over het instellen en configureren van Teams [webinars.](https://docs.microsoft.com/microsoftteams/set-up-webinars)

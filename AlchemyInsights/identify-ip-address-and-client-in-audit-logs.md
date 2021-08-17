@@ -13,18 +13,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014895"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887495"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-adres en client identificeren in auditlogboeken
 
-Het IP-adres dat overeenkomt met een activiteit van een Microsoft 365 gebruiker of beheerder wordt weergegeven in de auditlogboeken. De clientgegevens worden ook vastgelegd. Hier volgen de stappen voor het identificeren van dergelijke informatie
+Het IP-adres dat overeenkomt met een activiteit van een gebruiker Microsoft 365 beheerder wordt weergegeven in de auditlogboeken. De clientgegevens worden ook vastgelegd. Hier volgen de stappen voor het identificeren van dergelijke informatie
 
-1. Meld u aan bij [Microsoft 365 compliancecentrum.](https://protection.office.com/)
+1. Meld u aan bij [het Microsoft 365 compliancecentrum.](https://protection.office.com/)
 
 2. Ga naar de **zoekpagina**  >  **Van het zoeklogboek zoeken.**
 
@@ -36,4 +36,4 @@ Het IP-adres dat overeenkomt met een activiteit van een Microsoft 365 gebruiker 
 
 In de resultaten ziet u het IP-adres voor die activiteit in het resultatenvenster. Selecteer de auditrecord voor gedetailleerde informatie in de flyout **Details** (bijvoorbeeld Client, Gebruiker die actie heeft uitgevoerd, enzovoort).
 
-Zie Het IP-adres zoeken van de computer die wordt gebruikt voor toegang tot [een gekromd account](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)voor meer informatie.
+Zie Het IP-adres zoeken van de computer die wordt gebruikt voor toegang tot [een gekromd account](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)voor meer informatie.
