@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929192"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893398"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Hebben jouw gebruikers een schadelijke e-mail ontvangen?
 
-- Je kunt de schadelijke e-mail nu rapporteren aan Microsoft via [Inzendingen van beheerder in het Beveiligings- en compliancecentrum](https://sip.protection.office.com/reportsubmission).
+U kunt nu de schadelijke e-mail rapporteren aan Microsoft met [inzendingen in Microsoft 365 Defender portal.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-Berichten die zijn verzonden via [inzendingen van beheerder](https://sip.protection.office.com/reportsubmission) worden gescand en de volgende resultaten worden weergegeven in de **details**-flyout:
+Berichten die worden verzonden in [beheerdersinzendingen,](https://security.microsoft.com/reportsubmission?viewid=admin) worden gescand en de volgende resultaten worden weergegeven in de detail flyout:
 
 - Of er tijdens de levering een fout zat in de e-mailverificatie van de afzender.
 - Informatie over eventuele beleidstreffers die het oordeel over een bericht kunnen hebben beïnvloed of overschreven.
@@ -39,9 +39,9 @@ Als je het niet eens bent met het uiteindelijke oordeel over een bericht, URL of
 Ondertussen kun je schadelijke e-mail verwijderen uit het postvak IN van gebruikers met behulp van de instructies in [dit artikel](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - Klanten met Microsoft Defender voor Office 365 kunnen:
-    - de [Bedreigingsverkenner gebruiken om verdachte e-mails te zoeken en te verwijderen](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [Veilige koppelingen gebruiken om de toegang tot een schadelijke URL te blokkeren](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
-    - gebruikers volgen die op schadelijke URL's hebben geklikt en deze hebben geopend: [bekijk de phishing-URL en klik op oordeelgegevens](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
-    - handmatig [een geautomatiseerd onderzoek starten](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+  - [Bedreigingsverkenner gebruiken om verdachte e-mail te zoeken en te verwijderen](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [Gebruik Safe koppelingen om toegang tot een](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) schadelijke URL te blokkeren
+  - Gebruikers bijhouden die op schadelijke URL's hebben geklikt en deze hebben bekeken: [Bekijk phishing-URL](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)en klik op vonnisgegevens  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Handmatig een [geautomatiseerd onderzoek starten](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Je kunt ook beveiligen tegen schadelijke bestanden en URL's door de instructies te volgen in [Beveiligen tegen schadelijke URL's en bestanden](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).

@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481490"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893586"
 ---
 # <a name="retrieve-the-audit-logs"></a>De auditlogboeken ophalen
 
-Wanneer u het auditlogboek voor het eerst opent, is het leeg. U moet een zoekopdracht doen om te zien wat er te zien is. U kunt als volgende acties een algemene zoekopdracht uitvoeren voor alle activiteiten:
+Wanneer u het auditlogboek voor het eerst opent, is het leeg. U moet een zoekopdracht doen om te zien wat er is. Ga als volgende te werk om een algemene zoekopdracht uit te voeren naar alle activiteiten:
 
-1. Ga naar de pagina Zoeken in [het auditlogboek](https://protection.office.com/#/unifiedauditlog) (of ga naar **Beveiligingscentra**  >  **& Compliancecentrum**  >  **Zoeken & onderzoek**  >  **Auditlogboek zoeken).**
-1. Accepteer in **het** vak Activiteiten de standaardinstelling Resultaten **weergeven voor alle activiteiten.**
-1. Geef het datumbereik op  en accepteer in het vak Gebruikers de standaardinstelling voor het retourneren van resultaten voor alle gebruikers, of kies de gebruikersnaam voor de gebruiker die u wilt onderzoeken.
-1. Klik op **Zoeken.** De activiteiten worden weergegeven onder **Resultaten.**
-1. Als u de details wilt weergeven, klikt u op een activiteit en kiest u **Meer informatie.** U ziet meer informatie, zoals de klant, de gebruiker die de actie heeft uitgevoerd, enzovoort.
+1. Een van de volgende acties uitvoeren:
+   - Ga in Microsoft 365-compliancecentrum naar <https://compliance.microsoft.com> Solutions  \> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://compliance.microsoft.com/auditlogsearch> u .
+   - Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://security.microsoft.com/auditlogsearch> u .
+
+2. Configureer **op het** tabblad Zoeken van de pagina **Controle** de volgende instellingen:
+   - **Datum en tijdbereik:** Selecteer het datum-/tijdbereik in de vakken **Begin** **en** Einde.
+   - **Activiteiten:** Controleer **of Resultaten voor alle activiteiten tonen** is geselecteerd.
+   - **Gebruikers:** Accepteer de lege standaardwaarde om resultaten voor alle gebruikers te retourneren of voer een of meer gebruikers in.
+
+3. Wanneer u klaar bent, klikt u op **Zoeken**. De activiteiten worden weergegeven op de nieuwe **pagina Controle zoeken.**
+
+4. Selecteer een activiteit in de resultaten om de details flyout te openen. U ziet meer informatie, zoals Client, Gebruiker die actie heeft uitgevoerd, enzovoort.
+
+Zie Het auditlogboek doorzoeken om [veelvoorkomende ondersteuningsproblemen te onderzoeken](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)voor meer informatie.
