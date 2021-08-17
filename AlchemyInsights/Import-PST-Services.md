@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918426"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891750"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Service importeren
 
@@ -31,11 +31,11 @@ Ga als volgende te werk om toegang te krijgen tot de importservice en het import
 
 1. Selecteer op **de pagina** Importeren de optie **Nieuwe importklus**. Voer een taaknaam in en selecteer **Volgende.**
 
-1. Selecteer **Upload gegevens om** de optie netwerk uploaden te gebruiken voor het type taak **importeren.** Zie Netwerk uploaden gebruiken om de [PST-bestanden](/compliance/use-network-upload-to-import-pst-files)van uw organisatie te importeren in Microsoft 365.
+1. Selecteer **Upload gegevens gebruiken om** de optie netwerk uploaden te gebruiken voor het type taak **importeren.** Zie Netwerk uploaden gebruiken om de [PST-bestanden](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)van uw organisatie te importeren in Microsoft 365.
 
-Als u de **pagina Importeren** wilt openen, moet u ervoor zorgen dat u de juiste machtigingen hebt gekregen. Zie Netwerk uploaden gebruiken om [PST-bestanden te importeren](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)voor meer informatie.
+Als u de **pagina Importeren** wilt openen, moet u ervoor zorgen dat u de juiste machtigingen hebt gekregen. Zie Netwerk uploaden gebruiken om [PST-bestanden te importeren](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)voor meer informatie.
 
-Als u een PST wilt importeren in uw postvak, zie E-mail, contactpersonen en agenda importeren uit een [Outlook PST-bestand](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Als u een PST wilt importeren in uw postvak, zie E-mail, contactpersonen en agenda importeren uit een [Outlook PST-bestand.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
 
-Zie Problemen die van invloed zijn op [pst-importtaken](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)als u een probleem hebt met een import.
+Zie Problemen die van invloed zijn op [pst-importtaken](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)als u een probleem hebt met een import.
 

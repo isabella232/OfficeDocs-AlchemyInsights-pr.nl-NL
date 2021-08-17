@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: fb2ade4eff0e62d8c4d57202fd4420d564e5cc86
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 19b9471a610305fb25e61359d455d1824c5bec6033fd603da265af9333543ccc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830649"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898419"
 ---
 # <a name="self-service-password-reset-sspr"></a>Self-service voor wachtwoordherstel (SSPR)
 
 - [Uw implementatie voor self-service voor wachtwoordherstel plannen](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
     of
-- [Uw SSPR-contactgegevens registreren](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR is standaard ingeschakeld voor beheerders)
+- [Uw SSPR-contactgegevens registreren](https://mysignins.microsoft.com/security-info) (SSPR is standaard ingeschakeld voor beheerders)
 
     Zie voor meer informatie:
 

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,16 +16,16 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: dcad436c5aa5793560a758d1b5806ecd412f09cd
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: bb12ac9bcb5f8eae7d03f4d3ad876e5858bd32fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685981"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320938"
 ---
 # <a name="help-understanding-your-bill"></a>Hulp bij het begrijpen van uw factuur
 
-Het bedrag dat voor uw abonnement wordt gefactureerd, komt overeen met de licentieprijs die wordt vermenigvuldigd met het aantal gekochte licenties en de vereiste belastingen/kosten.
+Het bedrag dat voor uw abonnement wordt gefactureerd, is een weerspiegeling van de licentieprijs die wordt vermenigvuldigd met het aantal gekochte licenties en de vereiste belastingen/kosten.
   
 Als het gefactureerde bedrag anders is dan verwacht, zijn er een paar redenen waarom dit kan gebeuren:
   
@@ -35,4 +35,4 @@ Als het gefactureerde bedrag anders is dan verwacht, zijn er een paar redenen wa
 
 - Uw abonnement is verlengd voor een nieuwe termijn en de licentieprijs is gewijzigd.
 
-Zie voor meer informatie over uw factuur: [Uw factuur begrijpen](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Zie voor meer informatie over uw factuur: [Uw factuur begrijpen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

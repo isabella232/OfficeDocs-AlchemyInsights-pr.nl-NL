@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009171"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891894"
 ---
 # <a name="subscription-expired"></a>Abonnement verlopen
 
@@ -31,11 +31,11 @@ Als uw abonnement is verlopen, is uitgeschakeld door Microsoft of als u in het m
 1. Ga in het beheercentrum naar de pagina **Facturering** > [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Zoek op **het** tabblad Producten het abonnement dat u opnieuw wilt activeren, selecteer de drie puntjes (meer acties) en selecteer vervolgens **Dit abonnement opnieuw activeren.**
     > [!NOTE]
-    > Als u dit abonnement niet **opnieuw kunt activeren,** neem dan contact op met ondersteuning.
+    > Als u dit abonnement niet opnieuw **activeren ziet,** neem dan contact op met ondersteuning.
 3. Selecteer in **het deelvenster Dit abonnement opnieuw** activeren een betalingswijze in de vervolgkeuzelijst of selecteer **Betalingswijze toevoegen.**
 4. Selecteer **Opslaan**.
 
-Zie [Uw abonnement opnieuw activeren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
+Zie [Uw abonnement opnieuw activeren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
 
 **Verlenging abonnement beheren**
 
@@ -47,4 +47,4 @@ Voor het beheren van maandelijkse of jaarlijkse facturering kunt u Terugkerende 
 4. In het deelvenster **Terugkerende facturering bewerken** selecteert u **Aan**, **Aan, met eenmaal verlengen** of **Uitschakelen**.
 5. Selecteer **Opslaan**.
 
-Zie [Terugkerende facturering in- of uitschakelen](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) voor meer informatie.
+Zie [Terugkerende facturering in- of uitschakelen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) voor meer informatie.

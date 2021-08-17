@@ -12,22 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 0f7ce9cb8054c6e0960aab334ad47123320a0cde
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 467df09e030ff09da4c4e3f51e86fc1fca1aaf31
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677610"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320658"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>Een e-mailbericht verzenden op basis van een sjabloon
 
-Voer de volgende stappen uit als u een e-mailbericht sjabloon wilt gebruiken in de bureaubladversie van Outlook:
+Als u een e-mailberichtsjabloon wilt gebruiken in Outlook bureaublad, voert u de volgende stappen uit:
 
-1. Selecteer in **nieuwe items**  >  **meer items** de  >  **optie formulier**.
-2. Klik in het dialoogvenster **formulier kiezen** in het vak **Zoeken in** op **Gebruikerssjablonen in bestandssysteem**.
-3. De map standaardsjablonen wordt geopend. De locatie van de map (in Windows 7 en latere besturingssystemen) is **c:\gebruikers\gebruikersnaam\appdata\roaming\microsoft\templates**. Als uw sjabloon in een andere map is opgeslagen, klikt u op **Bladeren** en selecteert u de sjabloon.
-4. Selecteer de sjabloon en klik op **openen**.
-5. Breng eventuele wijzigingen aan de geadresseerden in de vakken **aan**, **CC** of **BCC** ingedrukt, evenals wijzigingen in het onderwerp en de hoofdtekst van het bericht.
-    > [!NOTE]
-    > Aangebrachte wijzigingen worden niet opgeslagen in de sjabloon. Als u de opdracht **Opslaan** gebruikt, wordt er een concept van uw bericht gemaakt, maar u kunt de sjabloon niet bijwerken. Als u de sjabloon wilt bijwerken, volgt u de stappen voor het opslaan van een nieuwe sjabloon in [een e-mailbericht sjabloon maken](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
+1. Selecteer **Nieuwe items Meer**  >  **items** Kies  >  **Formulier**.
+2. Klik in **het dialoogvenster Formulier** kiezen in Zoeken **in** op **Gebruikerssjablonen in Bestandssysteem.**
+3. De standaardmap sjablonen wordt geopend. De maplocatie (in Windows 7 en hoger besturingssystemen) is **c:\users\gebruikersnaam\appdata\roaming\microsoft\templates.** Als de sjabloon is opgeslagen in een andere map, klikt u **op Bladeren** en selecteert u de sjabloon.
+4. Selecteer de sjabloon en klik vervolgens op **Openen.**
+5. Maak eventuele toevoegingen of revisies aan de geadresseerden in de vakken **Aan,** **CC** of **BCC** en eventuele wijzigingen in het onderwerp en de berichtopstelling.
+    **Opmerking:** Wijzigingen die zijn aangebracht, worden niet opgeslagen in de sjabloon. Als u de opdracht **Opslaan** gebruikt, wordt hiermee een concept van uw bericht gemaakt, maar wordt de sjabloon niet bijgewerkt. Als u de sjabloon wilt bijwerken, volgt u de stappen voor het opslaan van een nieuwe sjabloon in [Een e-mailberichtsjabloon maken.](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1)
 6. Klik op **Verzenden**.
