@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047143"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-bestand wordt niet geopend
+# <a name="excel-file-doesnt-open"></a>Excel bestand wordt niet geopend
 
 Probeer een van deze suggesties:
 
-**Excel als standaard kiezen**
+**Kies Excel als de standaardinstelling**
 
-* Klik met de rechtermuisknop op het werkblad, kies **Openen met** en kies **vervolgens Excel**
+* Klik met de rechtermuisknop op het werkblad, kies **Openen met** en kies **Excel**
 
 **Een snelle reparatie uitvoeren**
 
 1. Ga naar **Configuratiescherm > Programma's > programma's en functies.**
 
-2. Selecteer het Office-product dat u wilt herstellen en kies vervolgens **Wijzigen.**
+2. Selecteer het Office product dat u wilt herstellen en kies vervolgens **Wijzigen.**
 
 3. Kies de **optie Snel** herstellen en kies vervolgens **Herstellen.**
 
@@ -43,7 +43,7 @@ Probeer een van deze suggesties:
 
 3. Start de computer opnieuw op.
 
-**Voer deze probleemoplosser uit om Office-bestandsextensies in te stellen voor openen in Office**
+**Voer deze probleemoplosser uit om Office bestandsextensies in te stellen die u wilt openen in Office**
 
 1. Voer deze probleemoplosser uit: https://aka.ms/diag_officefile .
 
