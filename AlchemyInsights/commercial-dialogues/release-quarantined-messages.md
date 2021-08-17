@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296046"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895974"
 ---
 # <a name="release-quarantined-messages"></a>In quarantaine geplaatste berichten vrijgeven
 
 U kunt een bericht in quarantaine (of een set berichten) vrijgeven aan alle geadresseerden of alleen vrijgeven aan specifieke personen die u kiest uit de lijst met alle geadresseerden. Hier ziet u hoe dat gaat:
 
-1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com> naar **E-mail & Collaboration** \> **Review** \> **Quarantine**.
+1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **E-mail & Collaboration** \> **Review** \> **Quarantine**.
 
    Als u rechtstreeks naar de pagina **Quarantaine wilt** gaan, gebruikt u <https://security.microsoft.com/quarantine> .
 

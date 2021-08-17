@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jamitche
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685297"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895486"
 ---
 # <a name="change-payment-method"></a>Betalingswijze wijzigen
 
@@ -36,6 +36,6 @@ U kunt de betalingswijze wijzigen vanuit de **Microsoft 365-beheercentrum.**
 6. Voer in het deelvenster **Een betalingsmethode toevoegen** de accountgegevens in en selecteer **Opslaan**. U moet een betalingsmethode gebruiken uit hetzelfde land als uw tenant.
 7. De nieuwe betalingsmethode is al geselecteerd in de vervolgkeuzelijst. Selecteer **Vervangen**.
 
-Zie Betalingsmethoden beheren voor meer informatie over het toevoegen, bijwerken, vervangen of verwijderen van [betalingsmethoden.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Zie Betalingsmethoden beheren voor meer informatie over het toevoegen, bijwerken, vervangen of verwijderen van [betalingsmethoden.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Zie Betalen voor uw abonnement voor meer informatie over het wijzigen tussen [betalingsmethoden.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Zie Betalen voor uw abonnement voor meer informatie over het wijzigen tussen [betalingsmethoden.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

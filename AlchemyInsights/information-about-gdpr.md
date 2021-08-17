@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52853864"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311286"
 ---
 # <a name="information-about-gdpr"></a>Informatie over AVG
 
-- [AVG vereenvoudigd: Een handleiding voor kleine bedrijven](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [AVG vereenvoudigd: Een handleiding voor kleine bedrijven](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - Aan de slag met de [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
@@ -31,7 +31,7 @@ ms.locfileid: "52853864"
 
   - [Controlerapporten](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informatie over **DSR (Data Subject Requests)** - ontdekken, openen, corrigeren, beperken, verwijderen, exporteren is [hier.](/microsoft-365/compliance/gdpr-dsr-office365)
+- Informatie over **DSR (Data Subject Requests)** - ontdekken, openen, corrigeren, beperken, verwijderen, exporteren is [hier.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
 - Informatie over **melding van gegevensinbreuk** vindt u [hier.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
