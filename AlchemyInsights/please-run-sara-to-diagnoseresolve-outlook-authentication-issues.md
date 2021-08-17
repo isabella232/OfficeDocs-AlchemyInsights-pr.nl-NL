@@ -1,5 +1,5 @@
 ---
-title: 182 Voer SaRA uit om problemen met Outlook-authenticatie op te lossen en op te lossen
+title: 182 Voer een Ondersteunings- en herstelassistent uit om problemen met Outlook te diagnosticeren en op te lossen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461424e2c5726deb3a63e6588d1043278d4835e4b2d891e9a5413d54bc445a72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040689"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>De Ondersteunings- en herstelassistent gebruiken om problemen met Outlook-verificatie op te sporen en op te lossen
 
-**Opmerking**: Kijk of het [beveiligingsstandaard](https://aka.ms/securitydefaults) voor uw organisatie is ingeschakeld. Als uw Tenant is gemaakt na 21 oktober 2019 en uw Outlook herhaaldelijk u om een wachtwoord vraagt, kunt u de **Beveiligingsinstellingen** voor de Tenant inschakelen.
+**Opmerking:** Controleer of beveiligingsinstellingen [zijn](https://aka.ms/securitydefaults) ingeschakeld voor uw organisatie. Als uw tenant is gemaakt na 21 oktober 2019 en uw Outlook u herhaaldelijk om een wachtwoord vraagt, zijn er mogelijk beveiligings **defaults** ingeschakeld in uw tenant.
 
-U wordt ten zeerste aangeraden Outlook te gebruiken [voor het controleren van wachtwoorden](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) op de desbetreffende computer om problemen op te lossen waarbij Outlook voortdurend een wachtwoord vraagt. Deze [SaRA](https://diagnostics.office.com/#/) -diagnose voert geautomatiseerde controles uit en levert mogelijke oplossingen op, zodat u zich kunt voordoen bij het oplossen van problemen die zich voordoen.
+U wordt ten zeerste aangeraden de [Outlook](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) om mijn wachtwoorddiagnose op de betreffende computer te vragen om problemen op te lossen waarbij Outlook om een wachtwoord wordt gevraagd. Met [Ondersteunings- en herstelassistent](https://diagnostics.office.com/#/) diagnostische gegevens worden geautomatiseerde controles uitgevoerd en worden mogelijke oplossingen voor u retourneert om gedetecteerde problemen op te lossen.
