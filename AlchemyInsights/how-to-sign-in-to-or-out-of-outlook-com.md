@@ -1,5 +1,5 @@
 ---
-title: Aan-of afmelden bij Outlook.com
+title: Aanmelden bij of bij Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703295"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042913"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Aan-of afmelden bij Outlook.com
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Aanmelden bij of bij Outlook.com
 
-Als u zich niet kunt aanmelden bij uw Outlook.com-, Hotmail-, Live-of MSN-e-mailaccount, of als u niet zeker weet hoe u zich moet aanmelden of afmelden, vindt u [hier enkele oplossingen](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Als u zich niet kunt aanmelden bij uw e-mailaccount van Outlook.com, Hotmail, Live of MSN, of als u niet zeker weet hoe u zich moet aanmelden of zich moet aanmelden, zijn hier enkele [oplossingen.](https://go.microsoft.com/fwlink/p/?linkid=2005840)
   
-Als u nog steeds problemen hebt bij het aanmelden, raadpleegt [u wanneer u zich niet kunt aanmelden bij uw Microsoft-account](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Zie Wanneer u zich niet kunt aanmelden bij uw [Microsoft-account](https://go.microsoft.com/fwlink/p/?linkid=837479)als u nog steeds problemen hebt met aanmelden.
