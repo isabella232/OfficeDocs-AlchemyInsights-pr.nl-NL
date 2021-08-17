@@ -15,23 +15,23 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 00c4acfc2f004f1263dac97b1f8f3485dcad66885560197e0c0a6e13e8cd34b1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce636c1cb4dd9f25b47861da22c30b6db6953c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022572"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304760"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Problemen met werkstromen in SharePoint
 
 Zie voor meer informatie:
 
-- [Problemen met SharePoint werkstroomvalidatie oplossen](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
-- [Debuggging SharePoint werkstromen](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- [Gegevens SharePoint 2013 Workflow probleemoplossing verzamelen met ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
+- [Problemen met SharePoint werkstroomvalidatie oplossen](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Debuggen SharePoint werkstromen](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Gegevens SharePoint 2013 Workflow oplossen met ShowScopeDebugInfo](https://docs.microsoft.com/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-Als u nog maar net aan de slag bent met werkstromen, kunt u een Power Automate gebruiken [in](/power-automate/modern-approvals) plaats van de SharePoint werkstroomoplossingen.
+Als u nog maar net aan de [](https://docs.microsoft.com/power-automate/modern-approvals) slag bent met werkstromen, kunt u overwegen Power Automate in plaats van de klassieke SharePoint werkstroomoplossingen.
 
-Zie voor meer informatie [SharePoint werkstromen worden terugtrekt.](/alchemyinsights/sharepoint-workflows-retiring)
+Zie werkstromen SharePoint [voor meer informatie.](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)
