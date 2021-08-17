@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888401"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314839"
 ---
 # <a name="fix-connection-policy"></a>Verbindingsbeleid oplossen
 
 De e-mail is als veilig gemarkeerd en bezorgd in het Postvak IN van de gebruiker omdat het bron-IP-adres is gemarkeerd als veilig in het standaardbeleid voor verbindingsfilters. Als u het beleid wilt controleren, gaat u als volgt te werk:
 
-1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & Samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
+1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com/> naar **E-mail & samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
 
    Gebruik <https://security.microsoft.com/antispam> om direct naar de pagina **Antispambeleid** te gaan.
 
@@ -33,7 +33,6 @@ De e-mail is als veilig gemarkeerd en bezorgd in het Postvak IN van de gebruiker
 
 4. Controleer de vermeldingen in de sectie Altijd toestaan berichten uit de volgende **sectie IP-adressen** of adresbereik en kijk of **Veilige** lijst in-/uit-lijst in- of uit- of uit te stellen is geselecteerd.
 
-   > [!NOTE]
-   > Microsoft is geabonneerd op externe bronnen van vertrouwde afzenders. Als de veilige lijst is ingeschakeld, worden deze vertrouwde afzenders niet per ongeluk gemarkeerd als spam. U wordt aangeraden deze optie te selecteren, omdat hierdoor het aantal onwaar-positieven (goede e-mail die als spam is geclassificeerd) wordt beperkt.
+   **Opmerking:** Microsoft is geabonneerd op externe bronnen van vertrouwde afzenders. Als de veilige lijst is ingeschakeld, worden deze vertrouwde afzenders niet per ongeluk gemarkeerd als spam. U wordt aangeraden deze optie te selecteren, omdat hierdoor het aantal onwaar-positieven (goede e-mail die als spam is geclassificeerd) wordt beperkt.
 
 Zie [Verbindingsfiltering configureren](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy) voor meer informatie.

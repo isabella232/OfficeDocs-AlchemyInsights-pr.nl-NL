@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893050"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314911"
 ---
 # <a name="billing-and-payment"></a>Facturering en betaling
 
@@ -46,8 +46,7 @@ Als u een nieuwe kaart hebt toegevoegd en u nog steeds een melding voor weigeren
 
 4. Als u een bestaande betalingsmethode wilt gebruiken, kiest u een methode in de vervolgkeuzelijst en selecteert u **Vervangen**.
 
-    > [!NOTE]
-    > Als er abonnementen zijn gekoppeld aan een factureringsprofiel, kunt u alleen een creditcard of betaalkaart gebruiken om ervoor te betalen. Als uw bankrekeningen worden vermeld op de pagina **Betalingsmethoden**, kunt u deze niet selecteren in de vervolgkeuzelijst.
+    **Opmerking:** Als u abonnementen hebt die zijn gekoppeld aan een factureringsprofiel, kunt u alleen een creditcard of betaalkaart gebruiken om ervoor te betalen. Als uw bankrekeningen worden vermeld op de pagina **Betalingsmethoden**, kunt u deze niet selecteren in de vervolgkeuzelijst.
 
 5. Als u een nieuwe betalingsmethode wilt toevoegen, selecteert u **Betalingsmethode toevoegen**.
 
