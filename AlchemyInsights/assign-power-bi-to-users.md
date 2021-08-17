@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, sinakassaw
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: c14734e848ebd381d76a985d93d04a7be4b51e45
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ce6ef3c408456cdcd2a8627294508c703212d33d5fd97631e1529e3f05e91bdc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688177"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894734"
 ---
 # <a name="assign-power-bi-to-users"></a>Power BI toewijzen aan gebruikers
 
@@ -33,4 +33,4 @@ Power BI kan worden toegewezen aan gebruikers in het **Microsoft 365-beheercentr
 5. Klik op **Apps en services in- of uitschakelen** om toegang toe te wijzen of te verwijderen.
 6. Klik op **Toewijzen** en **Sluiten**.
 
-Zie [Licenties kopen of verwijderen](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) om meer licenties te kopen of licenties te verwijderen.
+Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) om meer licenties te kopen of licenties te verwijderen.
