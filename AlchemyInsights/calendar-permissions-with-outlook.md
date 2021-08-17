@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046099"
 ---
 # <a name="calendar-permissions"></a>Agendamachtigingen
 
-Gebruikers kunnen hun eigen agendamachtigingen wijzigen met de webversie van Outlook of andere clients, maar als beheerder moet u dit mogelijk ook onderzoeken.  
-Met de Exchange PowerShell-cmdlet ziet u de machtiging voor de agenda van een gebruiker:
+Gebruikers kunnen hun eigen agendamachtigingen wijzigen met Outlook op internet of andere clients, maar als beheerder moet u dit mogelijk ook onderzoeken.  
+Met Exchange PowerShell-cmdlet ziet u de machtiging voor de agenda van een gebruiker:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
@@ -34,9 +34,9 @@ Zie het volgende voor meer informatie:
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Agendamachtigingen worden gebruikt voor het delen van agenda's, zie deze artikelen voor meer informatie over het delen van een Outlook-agenda:
+Agendamachtigingen worden gebruikt voor het delen van agenda's, zie deze artikelen voor meer informatie over het delen van een Outlook agenda:
 
 - [Een Outlook-agenda met anderen delen](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Uw agenda delen in de webversie van Outlook voor Bedrijven](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Uw agenda delen in webversie van Outlook voor Bedrijven](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Als u problemen wilt oplossen met agendamachtigingen, kunt u het [hulpprogramma Ondersteunings- en herstelassistent](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) gebruiken.
+Als u problemen wilt oplossen met agendamachtigingen, [kunt u het Ondersteunings- en herstelassistent](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) gebruiken.
