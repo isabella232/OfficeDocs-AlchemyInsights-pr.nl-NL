@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930020"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896106"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Regels voor Adres van verzender/domeinlijst oplossen
 
-Dit bericht is beïnvloed door een antispambeleid in uw tenant. De afzender van het bericht is gevonden in een lijst Toestaan of Blokkeren. Ga als volgt te werk om het beleid te bekijken:
+Een van uw antispambeleid heeft dit bericht beïnvloed. De afzender van het bericht is gevonden in een lijst Toestaan of Blokkeren. Als u het beleid wilt controleren, gaat u als volgt te werk:
 
-1. Ga naar het [Office 365 beveiligingscentrum & compliancecentrum](https://go.microsoft.com/fwlink/p/?linkid=2077143)en ga naar **Beleid** voor  >    >  [bedreigingsbeheer antispam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Als **standaardinstellingen** zijn  ingeschakeld, controleert u op het tabblad Standaard de lijsten **toestaan** en **Lijsten blokkeren.**
-3. Als de **aangepaste** instellingen  zijn ingeschakeld op het tabblad  Aangepast, controleert  u het beleid door Beleid bewerken te selecteren en de lijsten toestaan en Lijsten **blokkeren te controleren.**
+1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & Samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
 
-Zie Beleidsregels voor spamfilter configureren voor meer informatie over het configureren van beleidsregels voor [spamfilters.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Gebruik <https://security.microsoft.com/antispam> om direct naar de pagina **Antispambeleid** te gaan.
+
+2. Selecteer op de pagina Antispambeleid het beleid door op de naam van het beleid te klikken (**Type** is Aangepast **antispambeleid** of Naam **is** **antispam binnenkomende beleid (standaard)**). 
+3. Selecteer in de flyout details die wordt weergegeven de optie Toegestane en geblokkeerde **afzenders** en domeinen bewerken in de sectie Toegestane en geblokkeerde **afzenders en domeinen.**
+4. Controleer in **de** sectie Toegestaan de afzenders en domeinen door te klikken op **\<nn\> Afzenders beheren** of Domeinen **toestaan.**
+
+Zie [Antispambeleid configureren in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies) voor meer informatie.

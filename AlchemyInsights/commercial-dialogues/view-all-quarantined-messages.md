@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045127"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311394"
 ---
 # <a name="view-all-quarantined-messages"></a>Alle in quarantaine geplaatste berichten weergeven
 
-1. Ga in het beheercentrum naar het [beveiligingscentrum & Compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Ga naar **Threat Management**  >  **Review**  >  **Quarantine**.
+1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com> naar **E-mail & Collaboration** \> **Review** \> **Quarantine**.
+
+   Als u rechtstreeks naar de pagina **Quarantaine wilt** gaan, gebruikt u <https://security.microsoft.com/quarantine> .
+
+2. Controleer op **de** pagina Quarantaine of het tabblad **e-mail** is geselecteerd.
 3. Berichten worden standaard gesorteerd van nieuw naar oud op basis van de datum waarop het bericht is ontvangen. U kunt sorteren op een veld door op een koptekst te klikken.
 4. U kunt alleen bulkbewerkingen uitvoeren op maximaal 100 items, dus als u meer dan 100 items hebt, kunt u met filteren ook de resultatenset verminderen.
+
+Zie de volgende artikelen voor meer informatie:
+
+- [Berichten in quarantaine zoeken en vrijgeven als gebruiker](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Berichten en bestanden in quarantaine beheren als beheerder](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
