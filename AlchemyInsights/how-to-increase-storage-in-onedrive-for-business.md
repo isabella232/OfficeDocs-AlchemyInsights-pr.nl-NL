@@ -1,5 +1,5 @@
 ---
-title: Meer opslagruimte in OneDrive voor bedrijven
+title: Hoe vergroot u de opslag in OneDrive voor Bedrijven
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,25 +10,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 676b17d47ee5071ed45e8d6022eaa82b51fc4d51
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 5172f7072ec834be42e2dd35acacebcb2ad5aa5a306661c8ba5ff6ed888f63f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043165"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Meer opslagruimte in OneDrive voor bedrijven
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Hoe vergroot u de opslag in OneDrive voor Bedrijven
 
-U wijzigt als volgt de standaardopslag voor nieuwe en bestaande OneDrive-gebruikers:
+De standaardopslag voor nieuwe en bestaande gebruikers OneDrive wijzigen:
   
-- Ga naar de [pagina opslag van het OneDrive-Beheercentrum](https://admin.onedrive.com/?v=StorageSettings), voer een nieuw bedrag in GB in en selecteer vervolgens **Opslaan**.
+- Ga naar de Storage pagina van het [OneDrive beheercentrum,](https://admin.onedrive.com/?v=StorageSettings)voer een nieuw bedrag in GB in en selecteer **Opslaan.**
 
-Deze instelling voor de opslagruimte geldt voor alle gebruikers voor wie u geen specifieke opslaglimieten hebt ingesteld. Gebruik Microsoft PowerShell om de opslagruimte voor specifieke gebruikers te wijzigen. Zie [de OneDrive-opslagruimte van uw gebruikers wijzigen met PowerShell](https://docs.microsoft.com/onedrive/change-user-storage)voor informatie over hoe u dit kunt doen.
+Deze instelling voor opslagruimte is van toepassing op alle gebruikers voor wie u geen specifieke opslaglimieten hebt ingesteld. Als u de opslagruimte voor specifieke gebruikers wilt wijzigen, gebruikt u Microsoft PowerShell. Zie De opslagruimte van uw gebruikers wijzigen OneDrive PowerShell voor meer [informatie over hoe u dit doet.](https://docs.microsoft.com/onedrive/change-user-storage)
 
-**Opmerking**: het lijkt erop dat u geen abonnement hebt dat onbeperkte opslag omvat. Zie de [servicebeschrijving van OneDrive voor bedrijven](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description)voor informatie over de opslagruimte die bij elk abonnement wordt meegeleverd.
+**OPMERKING:** Het lijkt erop dat u geen abonnement hebt met onbeperkte opslag. Zie voor meer informatie over de opslag die bij elk abonnement wordt geleverd [OneDrive voor Bedrijven servicebeschrijving.](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description)
   
-Als u uw opslag in OneDrive voor bedrijven wilt verlengen, kiest u een abonnement met **OneDrive voor bedrijven abonnement 2** of **Office 365 E3**.
+Als u uw opslag in OneDrive voor Bedrijven wilt vergroten, kiest u een abonnement met abonnement **OneDrive voor Bedrijven abonnement 2** of **Office 365 E3.**
   
-Als u de plannen wilt wijzigen, gaat u naar de pagina **Billing** \> [uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) factureren, selecteert u het abonnement dat u wilt wijzigen, en kiest u vervolgens **Aanbevolen upgrades weergeven voor uw organisatie**.
+Als u van abonnement wilt veranderen, gaat u in het beheercentrum naar de pagina **Facturering** van uw producten, selecteert u het abonnement dat u wilt wijzigen en kiest u Vervolgens Upgrades weergeven \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) aanbevolen voor **uw organisatie.**
   
-Zie voor meer informatie over het wijzigen van abonnementen en opslag in OneDrive voor bedrijven [een upgrade naar een ander abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) en de [service beschrijving van onedrive voor bedrijven](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+Zie Upgraden naar een ander [abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) en de OneDrive voor Bedrijven [servicebeschrijving](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description)voor meer informatie over het wijzigen van OneDrive voor Bedrijven en opslag.
