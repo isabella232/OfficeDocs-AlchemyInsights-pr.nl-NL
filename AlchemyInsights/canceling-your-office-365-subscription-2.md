@@ -1,5 +1,5 @@
 ---
-title: Uw abonnement Microsoft 365 opzeggen?
+title: Annuleert u uw Microsoft 365 abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686917"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893950"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Uw abonnement Microsoft 365 opzeggen?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annuleert u uw Microsoft 365 abonnement?
 
 Het spijt ons dat u weg bent.
   
@@ -33,4 +33,4 @@ Op basis van uw organisatiegegevens zijn we van mening dat al uw huidige abonnem
 
 **Restitutie:** een eventueel tegoed naar rato wordt aan u terugbetaald in de volgende factureringscyclus.
 
-Zie Uw abonnement [opzeggen voor meer informatie.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Zie Uw abonnement [opzeggen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

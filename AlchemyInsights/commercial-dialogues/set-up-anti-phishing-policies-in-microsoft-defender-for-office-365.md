@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966788"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313422"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Anti-phishingbeleid instellen in Microsoft Defender voor Office 365
 
-1. Ga naar het [Office 365 Beveiligings- & compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Selecteer **Beleid voor**  >  **bedreigingsbeheer**. Selecteer op **de** pagina Beleid [Microsoft Defender voor Office 365 anti-phishing](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. Ga op **de pagina Anti-phishing** op een van de volgende stappen te werk:
-    1. Als u een nieuw beleid wilt toevoegen, **selecteert u + Maken.**
-    1. Als u een bestaand beleid wilt bewerken, selecteert u de naam van het beleid in de lijst die wordt weergegeven op de **pagina Anti-phishing.** Selecteer bewerken op de  pagina die wordt weergegeven naast de instelling die u wilt wijzigen. Er wordt een wizard gelanceerd om u te helpen bij het definiëren van uw anti-phishingbeleid.
-4. Als u een nieuw beleid maakt, geeft u de naam, beschrijving en instellingen voor uw beleid op.
-5. Nadat u de instellingen hebt gecontroleerd, **selecteert** u Dit beleid maken of **Opslaan,** naar eigen goed.
+1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com/> naar **E-mail & Samenwerkingsbeleid** & Beleidsregels Bedreigingsbeleid \>  \>  \> **Anti-phishing** in  de sectie Beleid.
+
+   Als u rechtstreeks naar de **pagina Anti-phishing wilt** gaan, gebruikt u <https://security.microsoft.com/antiphishing> .
+
+2. Ga op **de pagina Anti-phishing** op een van de volgende stappen te werk:
+   - Als u een nieuw beleid wilt toevoegen, **selecteert u + Maken.** Er wordt een wizard gelanceerd om u te helpen uw beleidsinstellingen te definiëren.
+   - Als u een bestaand beleid wilt bewerken, selecteert u het beleid door op de naam van het beleid te klikken. Selecteer bewerken **in** de sectie met de instellingen die u wilt configureren in het detail flyout dat wordt weergegeven.
+
+3. Nadat u de instellingen hebt bekeken, **selecteert** u Verzenden (nieuw) of **Opslaan** (bewerken).
+
+Zie [Anti-phishingbeleid configureren in Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)voor Office 365.

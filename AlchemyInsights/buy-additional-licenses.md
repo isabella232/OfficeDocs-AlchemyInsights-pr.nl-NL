@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, shegu
+ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 1c1bf0b5380fc51c64981309f17abf614fbe7e86
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686017"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313729"
 ---
 # <a name="buy-additional-licenses"></a>Extra licenties kopen
 
@@ -31,8 +31,8 @@ ms.locfileid: "53686017"
 3. Voer **onder Nieuw aantal** in het vak **Totaal** aantal licenties het totale aantal licenties in dat u voor dit abonnement wilt gebruiken. Als u bijvoorbeeld 100 licenties hebt en u er nog 25 wilt toevoegen, voert u 125 in.
 4. Selecteer **Opslaan**.
 
-Zie Licenties kopen of [verwijderen voor meer informatie.](/microsoft-365/commerce/licenses/buy-licenses)
+Zie Licenties kopen of [verwijderen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Aanvullende bronnen**
 
-[Licenties toewijzen aan gebruikers in Microsoft 365 voor bedrijven](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Licenties toewijzen aan gebruikers in Microsoft 365 voor Bedrijven](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
