@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976860"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891290"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Activiteit in postvak IN identificeren in auditlogboeken
 
-U kunt zoeken in auditlogboek gebruiken in het Microsoft 365 Beveiligings- & Compliancecentrum om regelgebeurtenissen in postvak IN weer te geven (regels voor postvak IN maken, wijzigen en verwijderen).
+U kunt zoeken in auditlogboek in de Microsoft 365-compliancecentrum om regelgebeurtenissen voor Postvak IN weer te geven (regels voor postvak IN maken, wijzigen en verwijderen).
 
-1. Meld u aan bij [Microsoft 365 compliancecentrum.](https://protection.office.com/)
+1. Ga op een van de volgende stappen te werk:
+   - Ga in Microsoft 365-compliancecentrum naar <https://compliance.microsoft.com> Solutions  \> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://compliance.microsoft.com/auditlogsearch> u .
+   - Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://security.microsoft.com/auditlogsearch> u .
 
-2. Ga naar de **zoekpagina**  >  **Van het zoeklogboek zoeken.**
+2. Configureer **op het** tabblad Zoeken van de pagina **Controle** de volgende instellingen:
+   - **Datum en tijdbereik:** Selecteer het datum-/tijdbereik in de vakken **Begin** **en** Einde.
+   - **Activiteiten:** Selecteer een of meer van de volgende waarden:
+     - **New-InBoxRule Create Inbox rule from Outlook Web App**
+     - **Set-InBoxRule Modify rule from Outlook Web App**.
+     - **Regels voor Postvak IN bijwerken van Outlook client**
 
-3. Selecteer het datumbereik in de **velden Begindatum** en **Einddatum.**
+3. Wanneer u klaar bent, klikt u op **Zoeken**. De activiteiten worden weergegeven op de nieuwe **pagina Controle** zoeken.
 
-4. Controleer **onder Exchange postvakactiviteiten**  of het veld Activiteiten is ingesteld op **Nieuw-Postvak INRegel Maken/wijzigen/inschakelen/uitschakelen van de regel Postvak IN.**
+4. Selecteer een activiteit in de resultaten om de details flyout te openen. In het veld Parameters wordt informatie over de instellingen voor de regels voor **postvak** IN weergegeven.
 
-5. Klik **op Zoeken**.
-
-Selecteer in de resultaten een auditrecord. Klik in de flyout details op **Meer informatie.** In het veld Parameters wordt informatie over de instellingen voor de regels voor **postvak** IN weergegeven.
-
-Zie Bepalen of een gebruiker een regel [voor Postvak IN](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule) heeft gemaakt voor meer informatie.
+Zie Bepalen of een gebruiker een regel [voor Postvak IN](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)heeft gemaakt voor meer informatie.

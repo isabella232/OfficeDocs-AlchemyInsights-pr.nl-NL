@@ -1,5 +1,5 @@
 ---
-title: Rapport voor doorsturen van e-mail
+title: Rapport Automatisch doorgestuurde berichten
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030123"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891446"
 ---
-# <a name="email-forwarding-report"></a>Rapport voor doorsturen van e-mail
+# <a name="auto-forwarded-messages-report"></a>Rapport Automatisch doorgestuurde berichten
 
-Als u een rapport wilt weergeven over het aantal automatisch doorgestuurde berichten in uw organisatie, raadpleeg de [Inzicht in automatisch doorgestuurde berichten in het beveiligings- en compliancecentrum](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) in het [Microsoft 365 Beveiligings- &amp; compliancecentrum](https://protection.office.com/#/homepage).
-  
-Opmerking: als dit de eerste keer is dat u zich aanmeldt bij het Beveiliging&amp;s- en compliancecentrum, moet u mogelijk na enkele minuten de browser vernieuwen om alle beschikbare opties weer te geven.
+Als u een rapport wilt bekijken over het aantal automatisch doorgestuurde berichten in uw organisatie, controleert u het rapport Automatisch doorgestuurde berichten in het Exchange-beheercentrum (EAC) bij De [e-mailstroom](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) <https://admin.exchange.microsoft.com/> \>  \> rapporten. Of als u rechtstreeks naar de **pagina Automatisch doorgestuurde berichten wilt** gaan, gebruikt u <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
   
