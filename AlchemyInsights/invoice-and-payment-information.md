@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687205"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892122"
 ---
 # <a name="invoice-and-payment-information"></a>Factuur- en betalingsgegevens
 
 **Betaling**
 
-Wanneer u een abonnement Microsoft 365 voor bedrijven rechtstreeks bij Microsoft koopt, kunt u betalen met een creditcard of betaalkaart.  In sommige landen/regio's kunt u ook betalen met een bankrekening.  U kunt leren hoe u deze betalingsmethoden kunt beheren en oplossen via [Betalingsmethoden beheren.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Dit geldt ook voor het oplossen van problemen wanneer uw creditcard wordt geweigerd en betalingsgegevens worden bijgewerkt.
+Wanneer u een abonnement Microsoft 365 voor bedrijven rechtstreeks bij Microsoft koopt, kunt u betalen met een creditcard of betaalkaart.  In sommige landen/regio's kunt u ook betalen met een bankrekening.  U kunt leren hoe u deze betalingsmethoden kunt beheren en oplossen via [Betalingsmethoden beheren.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) Dit geldt ook voor het oplossen van problemen wanneer uw creditcard wordt geweigerd en betalingsgegevens worden bijgewerkt.
 
 **Factuur/factuur**
 
@@ -37,4 +37,4 @@ U kunt uw facturen vinden en downloaden op de **pagina Factureringsfacturen**  >
 
 Facturen worden maandelijks of jaarlijks gemaakt, afhankelijk van de factureringsfrequentie die tijdens de aankoop is gekozen.  Als u jaarlijks betaalt, krijgt u mogelijk een factuur halverwege de looptijd bij het toevoegen of verwijderen van licenties voor een abonnement.
 
-- Zie Uw factuur voor Microsoft 365 voor bedrijven voor [meer informatie.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Zie Uw factuur voor Microsoft 365 [voor bedrijven voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
