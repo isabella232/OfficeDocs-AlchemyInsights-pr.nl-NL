@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender inschakelen voor Office 365 voor SharePoint Online, OneDrive en Microsoft Teams
+title: Safe bijlagen inschakelen voor SharePoint Online, OneDrive en Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1c29afdcc52e7032fea22d698371677918665fa9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744114"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894458"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Microsoft Defender inschakelen voor Office 365 voor SharePoint Online, OneDrive en Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Safe bijlagen inschakelen voor SharePoint Online, OneDrive en Microsoft Teams
 
-1. Meld u aan bij het Beveiligings- en compliancecentrum van [Office 365](https://protection.office.com/)met de referenties van uw globale beheerder of beveiligingsbeheerder.
-2. Selecteer **Bedreigingsbeheer** in het linkerdeelvenster en selecteer vervolgens   >  [Beleidsveilige bijlagen.](https://protection.office.com/safeattachment)
-3. Selecteer Microsoft Defender voor Office 365 in te zetten **voor SharePoint, OneDrive en Microsoft Teams** en selecteer vervolgens **Opslaan.**
+1. Gebruik uw globale beheerders- Microsoft 365 Defender beveiligingsbeheerderreferenties, open de Microsoft 365 Defender-portal bij en ga vervolgens naar Beleidsregels & regels <https://security.microsoft.com>  \>  \> **Bedreigingsbeleid Safe Bijlagen** in  de sectie Beleid
+
+   Als u rechtstreeks naar de pagina Safe **bijlagen wilt** gaan, gebruikt u <https://security.microsoft.com/safeattachmentv2> .
+
+2. Klik op **Safe pagina Bijlagen** op Algemene **instellingen.**
+3. Selecteer in het flyout dat wordt weergegeven de optie Microsoft Defender in Office 365 voor **SharePoint, OneDrive en Microsoft Teams** en selecteer **vervolgens Opslaan.**
+
     > [!TIP]
     >
-    > - Voer als globale beheerder of SharePoint Online-beheerder de volgende PowerShell-cmdlet uit met de parameter **DisallowInfectedFileDownload** die is ingesteld op *waar:* [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Waarschuwingen instellen voor gedetecteerde bestanden](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Ga als volgt te werk om de beveiliging van Safe bijlagen voor SharePoint, OneDrive en Microsoft Teams:
+    >
+    > - Als u wilt voorkomen dat gebruikers schadelijke bestanden downloaden, gebruikt u de waarde voor de `$true` parameter *DisallowInfectedFileDownload* op de cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** in SharePoint Online PowerShell. Zie Gebruik SharePoint Online PowerShell om te voorkomen dat gebruikers schadelijke bestanden downloaden voor [meer informatie.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [Een waarschuwingsbeleid maken voor gedetecteerde bestanden](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Zie Microsoft Defender voor [Office 365 voor SharePoint, OneDrive en Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041)voor meer informatie.
+Zie voor meer informatie Safe Bijlagen voor [Office 365 voor SharePoint, OneDrive en Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

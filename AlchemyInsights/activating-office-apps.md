@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889249"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314235"
 ---
 # <a name="activating-microsoft-365-apps"></a>Het activeren Microsoft 365 apps
 
-**Opmerking:** Als u een oudere versie van Windows gebruikt (bijvoorbeeld Windows 7), controleert u of TLS 1.2 is ingeschakeld als de standaardversie. Zie Bijwerken om [TLS 1.1 en TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)in te stellen als standaardveilige protocollen in WinHTTP in Windows.
+**Opmerking:** Als u een eerdere versie van Windows gebruikt (bijvoorbeeld Windows 7 SP1, Windows Server 2008 R2), kunt u TLS 1.2 standaard inschakelen met de [eenvoudige oplossing.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Zie Bijwerken om [TLS 1.1 en TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)in te stellen als standaardveilige protocollen in WinHTTP in Windows.
 
 Om Office te activeren, zie:
 
@@ -38,7 +38,7 @@ Om problemen met de activering van Office op te lossen, zie:
 
 - [Wat u kunt proberen als u Office voor Mac niet kunt installeren of activeren](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Tip** op Windows-machines kunnen verschillende algemene problemen met aanmelden bij Office geconstateerd en automatisch opgelost worden. Download en voer de **[Microsoft Ondersteunings- en herstelassistent](https://aka.ms/SaRA-OfficeSignInScenario)** uit om het automatische hulpprogramma te gebruiken.
+**Tip**: Op Windows kunnen we verschillende veelvoorkomende problemen met Office voor u opsporen en automatisch oplossen. Download en voer de **[Microsoft Ondersteunings- en herstelassistent](https://aka.ms/SaRA-OfficeSignInScenario)** uit om het automatische hulpprogramma te gebruiken.
 
 Als u zich niet kunt aanmelden bij Microsoft 365 apps, volgt u de onderstaande stappen:
 

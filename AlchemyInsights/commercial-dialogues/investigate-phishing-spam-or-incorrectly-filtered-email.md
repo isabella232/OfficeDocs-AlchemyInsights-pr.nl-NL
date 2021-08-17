@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948950"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894390"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Phishing, spam of onjuist gefilterde e-mail onderzoeken
 
 Gebruik Inzendingsverkenner om het bericht bij Microsoft in te dienen. U krijgt direct feedback over het filteren van berichten en de reden waarom het probleem is opgetreden. Hier volgt een overzicht van de stappen:
 
-1. Ga naar het [Office 365 Beveiligings- & Compliancecentrum,](https://go.microsoft.com/fwlink/p/?linkid=2077143)selecteer **Threat management**  >  **Submissions** en selecteer **+Nieuwe inzending.**
-2. Geef de details op in de flyout **Nieuwe inzending.**
-3. Informeer uw gebruikers dat ze verdachte [e-mailberichten](https://go.microsoft.com/fwlink/?linkid=2092385) moeten rapporteren aan Microsoft en dat de invoegvoegfunctie Rapportbericht het hulpmiddel is dat ze voor dit doel moeten gebruiken.
+1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com> naar **E-mail &** \> **samenwerkingsinzendingen.**
+
+   Als u rechtstreeks naar de pagina **Inzendingen wilt** gaan, gebruikt u <https://security.microsoft.com/reportsubmission> .
+
+2. Controleer op **de pagina Inzendingen** of het tabblad **Ingediend** voor analyse is geselecteerd en klik vervolgens op + Verzenden bij Microsoft **voor analyse.**
+
+3. Er wordt een flyout weergegeven met de optie om een e-mailbericht, URL of bestand in te dienen. Zie Beheerdersinzending gebruiken om [verdachte spam, phish, URL's en](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)bestanden in te dienen bij Microsoft voor meer informatie.
+
+4. Laat uw gebruikers weten dat ze verdachte berichten in hun Postvak IN moeten melden met de [invoeging Rapportbericht](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)of de invoeging Phishing melden.
