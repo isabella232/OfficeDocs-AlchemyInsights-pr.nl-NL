@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002263"
 - "4364"
 ms.assetid: ''
-ms.openlocfilehash: 06aeb98d507119e1d7da49cb13b194d9b8672599
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
+ms.openlocfilehash: 2e7c7fc8cdc50c186d48779e9be740807d40993020cff9c4e7794ceaf1f81443
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039205"
 ---
 # <a name="troubleshoot-skype-for-business-call-quality"></a>Problemen oplossen met oproepkwaliteit in Skype voor Bedrijven
 
