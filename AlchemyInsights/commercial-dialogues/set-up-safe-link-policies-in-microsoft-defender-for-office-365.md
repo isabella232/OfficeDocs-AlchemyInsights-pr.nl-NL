@@ -1,5 +1,5 @@
 ---
-title: Beleid voor veilige koppeling instellen in Microsoft Defender voor Office 365
+title: Beleidsregels Safe koppelen instellen in Microsoft Defender voor Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a59f6fb22ae18d8d9ead98563af05b88e8208c5e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744045"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882562"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Beleid voor veilige koppeling instellen in Microsoft Defender voor Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Beleidsregels Safe koppelen instellen in Microsoft Defender voor Office 365
 
-Er is al een standaardbeleid voor veilige koppelingen in Microsoft Defender voor Office 365 voor u gemaakt. De configuraties wijzigen:
+1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com/> naar E-mail & **Samenwerkingsbeleid** & \> **Beleidsregels** \> **bedreiging** Safe koppelingen \>  in  de sectie Beleid.
 
-1. Ga naar het [Office 365-beveiligings- & Compliancecentrum](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Selecteer **Beleid voor**  >  **bedreigingsbeheer**. Selecteer op **de** pagina Beleid de optie Veilige koppelingen van [Microsoft Defender voor Office 365.](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. Selecteer standaard in de **sectie Beleidsregels** die van toepassing zijn op de hele organisatie **en** selecteer vervolgens het **pictogram** Bewerken.
-4. Geef in **de sectie De volgende URL's** blokkeren een of meer URL's op die u wilt voorkomen dat personen in uw organisatie worden bezocht. Zie De volgende URL's blokkeren voor veilige koppelingen voor meer [informatie.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. Selecteer in de sectie Instellingen die van toepassing zijn op **inhoud,** behalve e-mail, de opties die u wilt gebruiken (of uit). (U wordt aangeraden alle opties te selecteren.)
-6. Klik op **Opslaan**.
+   Als u rechtstreeks naar de pagina Safe **koppelingen wilt** gaan, gebruikt u <https://security.microsoft.com/safelinksv2> .
+
+2. Ga op **Safe pagina Koppelingen** naar een van de volgende stappen:
+   - Als u een nieuw beleid wilt toevoegen, **selecteert u + Maken.** Er wordt een wizard gelanceerd om u te helpen uw beleidsinstellingen te definiëren.
+   - Als u een bestaand beleid wilt bewerken, selecteert u het beleid door op de naam van het beleid te klikken. Selecteer bewerken **in** de sectie met de instellingen die u wilt configureren in het detail flyout dat wordt weergegeven.
+   - Als u URL's wilt blokkeren van Safe Koppelingenbeveiliging of instellingen wilt configureren voor Safe Koppelingen in ondersteunde Office 365-apps, klikt u op Algemene **instellingen,** configureert u de verantwoordelijke instellingen en klikt u vervolgens **op Opslaan.**
+
+3. Nadat u de instellingen hebt bekeken, **selecteert** u Verzenden (nieuw) of **Opslaan** (bewerken).
+
+Zie de volgende artikelen voor meer informatie:
+
+- [Beleidsregels Safe koppelingen instellen in Microsoft Defender voor Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Algemene instellingen configureren voor Safe koppelingen in Microsoft Defender voor Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

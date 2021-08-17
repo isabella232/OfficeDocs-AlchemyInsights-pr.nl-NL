@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002449"
 - "4748"
-ms.openlocfilehash: 756672d6fc04226c8036bf649a4bf79ad9849799361f34d7472015300e59abda
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08c39ca6b0e56bb6856bc214121d8c39e028f828a54ec47694bdec06667b4456
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020547"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883090"
 ---
 # <a name="unable-to-access-my-account"></a>Ik heb geen toegang tot mijn account
 
@@ -32,4 +32,4 @@ Als uw abonnement is verlopen, is uitgeschakeld door Microsoft of als u in het m
 3. Selecteer in **het deelvenster Dit abonnement opnieuw** activeren een betalingswijze in de vervolgkeuzelijst of selecteer **Betalingswijze toevoegen.**
 4. Selecteer **Opslaan**.
 
-Raadpleeg [Uw abonnement opnieuw activeren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
+Raadpleeg [Uw abonnement opnieuw activeren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
