@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 1d3d44cc5625c6fedd9f5d3c3d87693770c45b22a2e9046dfb60d0bda056f065
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44840888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035731"
 ---
 # <a name="cannot-access-sharepoint"></a>Geen toegang tot SharePoint
 

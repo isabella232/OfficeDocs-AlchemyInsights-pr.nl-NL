@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035181"
 ---
 # <a name="configure-quarantine-notifications-sent-to-users"></a>Quarantainemeldingen configureren die naar gebruikers zijn verzonden
 
 Meldingen verzenden naar uw gebruikers over wat er in quarantaine staat:
 
-1. Navigeer in het beheercentrum naar **het exchange**  >    >    >  **protection-spamfilter** voor beheerderscentra.
+1. Navigeer in het beheercentrum naar **beheercentra**  >  **Exchange**  >    >  **spamfilter beveiliging.**
 2. Selecteer het spamfilterbeleid waarvoor u meldingen wilt in- en uit te voeren.
 3. Kies in het rechterdeelvenster **de koppeling Spammeldingen voor** eindgebruikers configureren.
 4. Kies in het volgende dialoogvenster **Spammeldingen voor eindgebruikers inschakelen.** Kies ervoor om spammeldingen in te stellen voor dit beleid.
