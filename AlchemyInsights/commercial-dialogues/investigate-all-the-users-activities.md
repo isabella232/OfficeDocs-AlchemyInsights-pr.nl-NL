@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949382"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898791"
 ---
 # <a name="investigate-all-the-users-activities"></a>Alle activiteiten van gebruikers onderzoeken
 
 U doet dit als volgende:
 
-1. Ga naar het [beveiligings- & compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Selecteer **Zoeken in**  >  **[auditlogboek zoeken](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Een van de volgende acties uitvoeren:
+   - Ga in Microsoft 365-compliancecentrum naar <https://compliance.microsoft.com> Solutions  \> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://compliance.microsoft.com/auditlogsearch> u .
+   - Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://security.microsoft.com/auditlogsearch> u .
+
     > [!NOTE]
     > Als u een melding ziet dat u de functie moet in- of uit- zetten, gaat u door en zet u deze nu in. Als de functie niet is ingeschakeld, kunnen zoekresultaten geen gegevens uit eerdere datums halen.
 
-1. Als u geïnteresseerd bent in een specifieke activiteit, selecteert u deze in de **lijst** Activiteiten. Als dit niet het beste is, worden standaard alle activiteiten geretourneerd voor de geselecteerde gebruiker.
-1. Geef het datumbereik op en selecteer vervolgens in het vak **Gebruikers** de gebruikersnaam voor de gebruiker die u wilt onderzoeken. U kunt meerdere gebruikers tegelijk selecteren.
-1. Klik **op Zoeken**. De activiteiten worden weergegeven onder **Resultaten**. U ziet de naam van het IP-adres, de gebruiker en de activiteit.
-1. Als u de resultaten wilt downloaden, **selecteert u Resultaten exporteren.**
-1. Als u de details wilt bekijken, selecteert u de activiteit en vouwt u **meer informatie uit.**
+2. Configureer **op het** tabblad Zoeken van de pagina **Controle** de volgende instellingen:
+   - **Datum en tijdbereik:** Selecteer het datum-/tijdbereik in de vakken **Begin** **en** Einde.
+   - **Activiteiten:** Als u geïnteresseerd bent in een bepaalde activiteit, selecteert u deze in de lijst; Anders retourneert de standaardwaarde **Resultaten voor alle activiteiten** tonen alle activiteiten.
+   - **Gebruikers:** Accepteer de lege standaardwaarde om resultaten voor alle gebruikers te retourneren of voer een of meer gebruikers in.
 
-Zie Het auditlogboek doorzoeken om veelvoorkomende scenario's op te lossen voor [meer informatie.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Wanneer u klaar bent, klikt u op **Zoeken**. De activiteiten worden weergegeven op de nieuwe **pagina Controle zoeken.** U ziet het **IP-adres,** **de naam van** de gebruiker en de naam van **de** activiteit.
+
+4. Als u de resultaten wilt downloaden, **selecteert u** \> **Alle resultaten downloaden.**
+
+5. Selecteer een activiteit in de resultaten om de details flyout te openen.
+
+Zie Het auditlogboek doorzoeken om [veelvoorkomende ondersteuningsproblemen te onderzoeken](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)voor meer informatie.

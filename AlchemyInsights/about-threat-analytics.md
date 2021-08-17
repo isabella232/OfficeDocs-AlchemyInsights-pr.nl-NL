@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 844f595033b3a7ea87d8224e1a75c4b135d790fad21ad43e35784b951f312cc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1bbf1e95a244502feaa1247cdc5a58c80d116e388caf18b732d6ba0b85039418
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955709"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889429"
 ---
 # <a name="about-threat-analytics"></a>Informatie over bedreigingsanalyse
 
 Bedreigingsanalyse is de microsoft-in-product threat intelligence-oplossing van deskundige Microsoft-beveiligingsonderzoekers. Het is ontworpen om beveiligingsteams te helpen om opkomende bedreigingen zo efficiënt mogelijk het hoofd te bieden, inclusief actieve bedreigingsacteurs en hun campagnes, populaire en nieuwe aanvalstechnieken, kritieke beveiligingsproblemen, veelvoorkomende aanvalsoppervlakken en voorkomende malware. Als onderdeel van de geïntegreerde beveiligingservaring is bedreigingsanalyse beschikbaar voor Microsoft 365 Defender-abonnees en Microsoft Defender voor Eindpunt en Microsoft Defender voor Office E5-licentiehouders. 
 
-Zie Nieuwe bedreigingen [bijhouden en beantwoorden voor meer informatie.](/microsoft-365/security/defender/threat-analytics)
+Zie Nieuwe bedreigingen [bijhouden en beantwoorden voor meer informatie.](https://docs.microsoft.com/microsoft-365/security/defender/threat-analytics)
 
-Als u een gebruiker Microsoft 365 Defender, of u nu het product evalueert of een volledige licentie hebt, hebt u op elk moment toegang tot bedreigingsanalyses en bedreigingsrapporten. 
+Als u een gebruiker Microsoft 365 Defender, ongeacht of u het product evalueert of een volledige licentie hebt, hebt u op elk moment toegang tot bedreigingsanalyses en bedreigingsrapporten. 

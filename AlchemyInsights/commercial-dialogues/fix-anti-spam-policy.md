@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898851"
 ---
 # <a name="fix-anti-spam-policy"></a>Antispambeleid oplossen
 
-Dit bericht is beïnvloed door een aangepast antispambeleid in uw tenant. Ga als volgt te werk om het beleid te bekijken:
+Een van uw antispambeleid heeft dit bericht beïnvloed. Als u het beleid wilt controleren, gaat u als volgt te werk:
 
-1. Ga naar het [Office 365 beveiligingscentrum & compliancecentrum](https://go.microsoft.com/fwlink/p/?linkid=2077143)en ga naar **Beleid** voor  >    >  [bedreigingsbeheer antispam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Selecteer op **het** tabblad Aangepast het standaardbeleid voor **spamfilters** of een ander aangepast beleid dat u mogelijk hebt gemaakt en selecteer vervolgens **Beleid bewerken.**
-3. Vouw de **optie Spameigenschappen** uit en bekijk de instellingen **Markeren als spam.**
+1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & Samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
 
-Zie Aangepaste beleidsregels voor spamfilters configureren voor meer informatie over het configureren van beleidsregels voor [spamfilters.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Gebruik <https://security.microsoft.com/antispam> om direct naar de pagina **Antispambeleid** te gaan.
+
+2. Selecteer op de pagina Antispambeleid het beleid door op de naam van het beleid te klikken (**Type** is Aangepast **antispambeleid** of Naam **is** **antispam binnenkomende beleid (standaard)**). 
+
+3. Klik in de flyout details die wordt weergegeven op Drempelwaarde en eigenschappen voor **spam** bewerken in de sectie Bulk **e-maildrempel & spameigenschappen,** selecteer Acties bewerken en controleer de instellingen Markeren als **spam.** 
+
+Zie [Antispambeleid configureren in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies) voor meer informatie.
