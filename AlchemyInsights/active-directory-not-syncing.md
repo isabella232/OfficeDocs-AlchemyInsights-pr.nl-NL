@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937096"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889213"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory wordt niet gesynchroniseerd
 
@@ -29,8 +29,8 @@ Als u AADConnect opnieuw installeert met behulp van express-instellingen, kan he
 
 1. [Download de nieuwste versie van AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Volg de instructies voor het snel installeren.](/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Volg de instructies voor het snel installeren.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Azure AD Connect moet worden geïnstalleerd op Windows Server 2012 of hoger. Deze server moet lid zijn van een domein en kan een domeincontroller of een lidserver zijn. Bekijk Vereisten voor Azure AD-Verbinding maken vereisten en vereisten voor [Azure AD-Verbinding maken.](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+Azure AD Connect moet worden geïnstalleerd op Windows Server 2012 of hoger. Deze server moet lid zijn van een domein en kan een domeincontroller of een lidserver zijn. Bekijk Vereisten voor Azure AD-Verbinding maken vereisten en vereisten voor [Azure AD-Verbinding maken.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
 
-Zie [Azure AD-Verbinding maken: Accounts en machtigingen](/azure/active-directory/hybrid/reference-connect-accounts-permissions)voor meer informatie over AADConnect-serviceaccounts.
+Zie [Azure AD-Verbinding maken: Accounts en machtigingen](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)voor meer informatie over AADConnect-serviceaccounts.

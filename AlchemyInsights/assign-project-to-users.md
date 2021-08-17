@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: 6547a70b4208f362fb995afad656a2bae9c3f37452ee73b9808c29f60be44513
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08d3a74174ff30bf330e9c5ad41390a0247e20fd5a7a378da7d5f2a5905b2c86
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54019647"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888833"
 ---
 # <a name="assign-project-to-users"></a>Project aan gebruikers toewijzen
 
@@ -33,4 +33,4 @@ Project kan worden toegewezen aan gebruikers in het **Microsoft 365-beheercentru
 5. Klik op **Apps en services in- of uitschakelen** om toegang toe te wijzen of te verwijderen.
 6. Klik op **Toewijzen** en **Sluiten**.
 
-Zie [Licenties kopen of verwijderen](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) om meer licenties te kopen of licenties te verwijderen.
+Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) om meer licenties te kopen of licenties te verwijderen.

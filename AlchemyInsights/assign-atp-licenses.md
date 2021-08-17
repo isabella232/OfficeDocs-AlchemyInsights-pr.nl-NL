@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, argani
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 803455035383dcf5c19739a30e28d740e351ec39
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688213"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888885"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defender toewijzen voor Office 365 licenties
 
@@ -33,4 +33,4 @@ Microsoft Defender voor Office 365 kan worden toegewezen aan gebruikers in het M
 5. Klik **op Apps en services in- of uitschakelen om**  deze toe te wijzen of te verwijderen.
 6. Klik **op Toewijzen** en **Sluiten.**
 
-Zie [Licenties kopen of verwijderen](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) om meer licenties te kopen of licenties te verwijderen.
+Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) om meer licenties te kopen of licenties te verwijderen.
