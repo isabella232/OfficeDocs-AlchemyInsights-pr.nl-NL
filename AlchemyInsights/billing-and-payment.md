@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686881"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893050"
 ---
 # <a name="billing-and-payment"></a>Facturering en betaling
 
@@ -55,10 +55,10 @@ Als u een nieuwe kaart hebt toegevoegd en u nog steeds een melding voor weigeren
 
 7. De nieuwe betalingsmethode is al geselecteerd in de vervolgkeuzelijst. Selecteer **Vervangen**.
 
-Zie [Betaalmethoden beheren](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) voor meer informatie.
+Zie [Betaalmethoden beheren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) voor meer informatie.
 
 **Factureringsfrequentie**
 
 Facturen worden maandelijks of jaarlijks gegenereerd, afhankelijk van de factureringsfrequentie die bij het afrekenen is gekozen.  
 
-**Opmerking:** Orders met jaarlijkse facturering ontvangen mogelijk een factuur halverwege de looptijd als er wijzigingen zijn aangebracht, zoals het toevoegen of verwijderen van licenties. [Uw factureringsfrequentie wijzigen.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Opmerking:** Orders met jaarlijkse facturering ontvangen mogelijk een factuur halverwege de looptijd als er wijzigingen zijn aangebracht, zoals het toevoegen of verwijderen van licenties. [Uw factureringsfrequentie wijzigen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
