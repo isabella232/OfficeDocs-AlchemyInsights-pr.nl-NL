@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005445"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315615"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementatie Microsoft Edge voor Mobiel voor iOS/iPadOS of Android
 
@@ -28,8 +28,7 @@ In het onderstaande overzicht kunt u Microsoft Edge gebruikers van iOS-, iPadOS-
 - Integratie met Azure Active Directory toepassingsproxy
 - Beheerde favorieten en sneltoetsen op de startpagina
 
-> [!NOTE]
-> Als u gebruikers hebt geblokkeerd voor het registreren van mobiele apparaten, werkt dit scenario niet en moeten de gebruikers zelf Microsoft Edge installeren.
+**Opmerking:** Als u gebruikers hebt geblokkeerd voor het registreren van mobiele apparaten, werkt dit scenario met gids niet en moeten de gebruikers zelf Microsoft Edge installeren.
 
 Zie de volgende Microsoft Edge voor mobile voor iOS/iPadOS of Android implementeren:
 

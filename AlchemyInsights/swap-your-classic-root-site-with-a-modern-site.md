@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940814"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316135"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Uw klassieke hoofdsite verwisselen met een moderne site
 
@@ -28,8 +28,8 @@ Als uw omgeving vóór april 2019 is ingesteld, kunt u de hoofdsite wijzigen in 
     - Gebruik [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) om de locatie van een site te verwisselen met een andere site tijdens het archiveren van de oorspronkelijke site. Beschikbaar voor zowel teamsite (niet verbonden met een groep) als Communicatiesite. 
 
 - Er worden binnenkort extra mogelijkheden geïntroduceerd waarmee u de inhoud op de site kunt blijven gebruiken, maar de bestaande site kunt converteren naar een communicatiesite. 
->[!Important]
->Deze mogelijkheden worden geleidelijk uitgerold. Blijf het Berichtencentrum controleren op updates. 
+
+**Belangrijk:** deze mogelijkheden worden geleidelijk uitgerold. Blijf het Berichtencentrum controleren op updates. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Bekende problemen met het wisselen van sites
 

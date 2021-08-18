@@ -1,5 +1,5 @@
 ---
-title: 726 blokkeert het doorsturen van e-mail
+title: Externe automatische e-mail doorsturen blokkeren of deblokkeren
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478339"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897463"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Doorsturen van e-mail blokkeren of de blokkering opheffen
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Eeuwig automatisch doorsturen van e-mail blokkeren of deblokkeren
 
-Zie [doorsturen van E-mail configureren](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)om het doorsturen van e-mail voor een specifiek postvak in of uit te schakelen.
+Zie E-mail doorsturen configureren als u het doorsturen van e-mail voor een specifiek postvak wilt in- [of uitschakelen.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Op het tenantniveau wordt de besturing van extern doorsturen uitgevoerd met behulp van het uitgaande spam beleid. U kunt het uitgaande spamfilter beleid [hier](https://protection.office.com/antispam) of met de [opdracht Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)controleren.
+Beheerders kunnen externe doorsturen voor de organisatie beheren met behulp van [uitgaand spambeleid.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) U beheert uitgaand spambeleid in de Microsoft 365 Defender portal op of met de <https://security.microsoft.com/antispam> [cmdlet Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) in Exchange Online PowerShell.
 
-Als u de volgende foutmelding ziet: **' 550 5.7.520 toegang geweigerd, uw organisatie mag niet extern doorsturen '**, Controleer of het beleid is geconfigureerd voor het inschakelen van extern automatisch doorsturen.
+Als u de volgende foutmelding ontvangt: **'550 5.7.520 Access geweigerd,** Uw organisatie staat extern doorsturen niet toe', zorg er dan voor dat het beleid is geconfigureerd voor het inschakelen van externe, automatisch doorgestuurde berichten.
 
-**Opmerking:** U wordt aangeraden de extern automatische doorstuur actie te behouden op het standaardbeleid voor het gebruik van uitgaande spamfilters en dit alleen in te schakelen voor de gebruikers die extern doorsturen willen maken door een aangepast beleid te maken voor deze gebruikers. Meer informatie vindt u in [externe e-mail forwarding configureren in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Opmerking:** We hebben de standaardwaarde Automatisch  **aanbevolen:** systeem dat is ingesteld voor de instelling Voor automatisch doorsturen van regels in uw standaardbeleid voor uitgaande spamfilters (automatisch extern doorsturen is geblokkeerd; interne automatische doorsturen werkt nog steeds). U moet aangepaste beleidsregels voor uitgaand spamfilter maken en de waarde **Aan - Doorsturen alleen** gebruiken voor gebruikers die externe automatische e-mail doorsturen nodig hebben. Zie Externe e-mail [doorsturen configureren in](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)Office 365.

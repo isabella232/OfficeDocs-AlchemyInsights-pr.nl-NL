@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016443"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897038"
 ---
 # <a name="review-or-act-on-an-alert"></a>Een waarschuwing controleren of erop reageren
 
 Volg deze stappen:
 
-1. Ga naar het [beveiligings- & compliancecentrum.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Klik **op Waarschuwingen** weergeven  >  **[waarschuwingen](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. Klik op een waarschuwing. Bekijk in het detailvenster wat de waarschuwing heeft veroorzaakt.
-1. Klik op de meegeleverde koppeling in de buurt van de details als u actie wilt ondernemen voor de waarschuwing.
-1. Klik **op Oplossen**, als u de waarschuwing wilt sluiten.
+1. Een van de volgende acties uitvoeren:
+   - Ga in Microsoft 365-compliancecentrum naar <https://compliance.microsoft.com> **Waarschuwingen.** Of open de pagina rechtstreeks bij <https://compliance.microsoft.com/compliancealerts> .
+   - Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **Waarschuwingen.** Of open de pagina rechtstreeks bij <https://security.microsoft.com/alerts> .
+2. Selecteer een waarschuwing. Bekijk in de details flyout die wordt weergegeven wat de waarschuwing heeft geactiveerd.
+3. Klik op de meegeleverde koppeling als u actie wilt ondernemen voor de waarschuwing.
+4. Klik **op Oplossen**, als u de waarschuwing wilt sluiten.
 
-Zie Waarschuwingsbeleid in het [beveiligings- en compliancecentrum](https://go.microsoft.com/fwlink/?linkid=2103211)voor meer informatie over het beheren van waarschuwingen.
-
+Zie Waarschuwingsbeleid in Microsoft 365 voor meer informatie over het [beheren van waarschuwingen.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

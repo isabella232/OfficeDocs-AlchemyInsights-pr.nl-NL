@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13d4591fee375ed2ebbbef68220292f910c5eb3d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883046"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315951"
 ---
 # <a name="admin-password-reset"></a>Beheerderswachtwoord opnieuw instellen
 
 - Gebruik [Selfservice voor wachtwoordherstel](https://passwordreset.microsoftonline.com/) (SSPR) om uw beheerderswachtwoord opnieuw in te stellen.
 
-- Als u uw wachtwoord bent vergeten, maar bent aangemeld met referenties in de cache, voegt u uw beveiligingsgegevens toe of wijzigt u deze bij [Mijn account >](https://mysignins.microsoft.com/security-info)Beveiligingsgegevens en stelt u vervolgens uw wachtwoord opnieuw in met [SSPR.](https://passwordreset.microsoftonline.com/) (Voor de meeste accounts is een alternatief e-mailadres en telefoonnummer vereist om het wachtwoord opnieuw in te kunnen stellen).
+- Als u uw wachtwoord bent vergeten, maar bent aangemeld met referenties in de cache, voegt u uw beveiligingsgegevens toe of wijzigt u deze bij [Mijn account >](https://mysignins.microsoft.com/security-info)Beveiligingsgegevens en stelt u uw wachtwoord opnieuw in met [SSPR.](https://passwordreset.microsoftonline.com/) (Voor de meeste accounts is een alternatief e-mailadres en telefoonnummer vereist om het wachtwoord opnieuw in te kunnen stellen).
 
 - Als u uw gebruikersnaam bent vergeten, zoekt u in uw persoonlijke of alternatieve e-mail op '.onmicrosoft.com' om een e-mailbericht te vinden met deze gegevens.  U kunt de gebruikersnaam ook rechtsboven op het lint in Office 365-apps vinden of via **Bestand > Account**.
 

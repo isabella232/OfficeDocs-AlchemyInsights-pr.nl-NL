@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
-ms.reviewer: Jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,15 +16,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: 12b717961a8db98c9c8aa32e2c08f0eaac399485
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: c3e8689650a374db7f1971605f4ec5279778cc54425c070dfca398291aa5b375
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687601"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898127"
 ---
 # <a name="credit-check-status-request"></a>Statusaanvraag kredietcontrole
 
 Uw bestelling is in behandeling voor kredietverificatie. Dit wordt normaal gesproken binnen 24 uur voltooid, maar kan maximaal 48 uur duren. Wanneer uw abonnement is voltooid, verandert de abonnementsstatus van In behandeling in Actief en zijn services beschikbaar voor gebruik.
 
-Zie voor meer informatie [wanneer een kredietcontrole vereist kan zijn.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#pay-by-invoice-check-or-eft)
+Zie voor meer informatie [wanneer een kredietcontrole vereist kan zijn.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#pay-by-invoice-check-or-eft)

@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 6646ca4792ac4d9fb8bfb7433d53ecf4aeba8da0aca797225c16c02b28499889
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae17caa4be7809b591be9f9c042186f67828aa3c36a3d17332806e4d92545dc6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013239"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898603"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>Problemen met de installatie van Microsoft Defender op Mac of Linux
 
 **Mac**
 
-- Controleer of aan de systeemvereisten wordt voldaan voordat u MICROSOFT Defender ATP voor Mac installeert. Zie Microsoft [Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)voor Mac installeren voor meer informatie.  
+- Controleer of aan de systeemvereisten wordt voldaan voordat u MICROSOFT Defender ATP voor Mac installeert. Zie Microsoft [Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)voor Mac installeren voor meer informatie.  
 - Controleer de informatie in het bestand: "/Library/Logs/Microsoft/mdatp/install.log".
 
 **Linux**
 
-- Controleer of aan de systeemvereisten wordt voldaan voordat u Microsoft Defender ATP voor Linux installeert. Zie [MDATP voor Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)installeren voor meer informatie. 
-- Zie Installatie mislukt om te controleren of de MDATP-service [wordt uitgevoerd.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
-    Zie Stappen om problemen op te lossen en op te lossen als de service niet wordt [uitgevoerd.](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)
-- Zie Clientconfiguratie voor stappen om de clientconfiguratie te controleren, waarmee de status van het product wordt gecontroleerd en om een detectietest uit te [voeren](/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)in het TEKSTBESTAND VAN EICAR.  
+- Controleer of aan de systeemvereisten wordt voldaan voordat microsoft Defender ATP voor Linux wordt geïnstalleerd. Zie [MDATP voor Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)installeren voor meer informatie. 
+- Zie Installatie mislukt om te controleren of de MDATP-service [wordt uitgevoerd.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)  
+    Zie Stappen om problemen op te lossen en op te lossen als de service niet wordt [uitgevoerd.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)
+- Zie Clientconfiguratie voor stappen om de clientconfiguratie te controleren, die de status van het product controleert en om een detectietest uit te [voeren](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)in het TEKSTBESTAND VAN EICAR.  
 
-    **Opmerking** Zie [Microsoft Defender ATP for Linux (Microsoft Defender ATP for Linux)](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)voor een lijst met ondersteunde bestandssystemen voor on-access-activiteiten.
+    **Opmerking** Zie [Microsoft Defender ATP for Linux (Microsoft Defender ATP for Linux)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)voor een lijst met ondersteunde bestandssystemen voor on-access-activiteiten.
