@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3342b24c744a6a3990aaa397abdfab36bfc4ebcf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897038"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319689"
 ---
 # <a name="review-or-act-on-an-alert"></a>Een waarschuwing controleren of erop reageren
 
 Volg deze stappen:
 
-1. Een van de volgende acties uitvoeren:
+1. Ga op een van de volgende acties te werk:
    - Ga in Microsoft 365-compliancecentrum naar <https://compliance.microsoft.com> **Waarschuwingen.** Of open de pagina rechtstreeks bij <https://compliance.microsoft.com/compliancealerts> .
    - Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **Waarschuwingen.** Of open de pagina rechtstreeks bij <https://security.microsoft.com/alerts> .
 2. Selecteer een waarschuwing. Bekijk in de details flyout die wordt weergegeven wat de waarschuwing heeft geactiveerd.

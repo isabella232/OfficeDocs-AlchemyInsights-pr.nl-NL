@@ -1,5 +1,5 @@
 ---
-title: Terugschrijven op apparaat
+title: Apparaat writeback
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: c069d0b4588e53250d6cc1f3a66c744ea5c12ae4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256747"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320081"
 ---
-# <a name="device-writeback"></a>Terugschrijven op apparaat
+# <a name="device-writeback"></a>Apparaat writeback
 
-Apparaat terugschrijven wordt gebruikt in de volgende scenario's:
+Apparaat writeback wordt gebruikt in de volgende scenario's:
 
-- [Windows Hello voor Bedrijven inschakelen met implementatie van hybride implementatie van vertrouwenscertificaten](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Voorwaardelijke toegang inschakelen op basis van apparaten met ADFS-beveiligde toepassingen (2012 R2 of hoger) (vertrouwensapparaten van vertrouwens partijen)
+- De [Windows Hello voor Bedrijven inschakelen met behulp van implementatie van hybride certificaten vertrouwen](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Voorwaardelijke toegang op basis van apparaten inschakelen voor ADFS(2012 R2 of hoger) beveiligde toepassingen (vertrouwensrelatie van afhankelijke partijen)
 
-    > [!NOTE]
-    > Voor terugschrijven op apparaten is een abonnement op Azure AD Premium vereist.
+    **Opmerking:** Een abonnement op Azure AD Premium is vereist voor het terugschrijven van apparaten.
 
-Dit biedt extra beveiliging en zekerheid dat toegang tot toepassingen alleen wordt verleend aan vertrouwde apparaten. Zie Risico's beheren [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) met voorwaardelijke toegang en on-premises voorwaardelijke toegang instellen met behulp van apparaatregistratie van Azure Active Directory voor meer informatie over [voorwaardelijke toegang.](https://docs.microsoft.com/azure/active-directory/devices/overview)
+Dit biedt extra beveiliging en de zekerheid dat toegang tot toepassingen alleen wordt verleend aan vertrouwde apparaten. Zie Risico's beheren [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) met voorwaardelijke toegang en On-premises voorwaardelijke toegang instellen met Azure Active Directory apparaatregistratie voor meer [informatie over voorwaardelijke toegang.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Zie Apparaat terugschrijven inschakelen voor apparaten voor meer informatie over het inschakelen van [Terugschrijven op apparaten.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
+Zie Apparaat [writeback inschakelen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)voor meer informatie over Het inschakelen van apparaat writeback voor apparaten.
