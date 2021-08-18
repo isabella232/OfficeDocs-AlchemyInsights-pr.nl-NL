@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677335"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318643"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Gehoste voicemail inschakelen
 
-Als u voicemail wilt inschakelen, moet **HostedVoicemail** zijn ingesteld op $True.
+Als u Voicemail wilt inschakelen, **moet HostedVoicemail** zijn ingesteld op $true.
 
-De **HostedVoicemail** -eigenschap voor de gebruiker via Remote PowerShell (RPS).
+De **eigenschap HostedVoicemail** van de gebruiker die Remote PowerShell (RPS) gebruikt.
 
-Zie voor meer informatie over het maken van verbinding met RPS een [overzicht van Microsoft PowerShell PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) voor meer informatie over verbinding maken met RPS.
+Zie voor meer informatie over het maken van verbinding met RPS [Microsoft Teams PowerShell-overzicht](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) voor meer informatie over het maken van verbinding met RPS.
 
-1. De team beheerder moet worden aangemeld bij Remote PowerShell voor teams.
-1. Via PowerShell-prompt de beheerder van de teams kan **set-csuser-user@contoso.com-HostedVoiceMail $True** waarbij de SIP URI van de gebruiker in kwestie is.
+1. De Teams beheerder moet zijn aangemeld bij Externe PowerShell voor Teams.
+1. Vraag vanuit PowerShell of de **Teams-beheerder set-csuser user@contoso.com -HostedVoiceMail $true** kan uitvoeren waar de sip uri van de gebruiker in kwestie is.
 
-> [!NOTE]
-> Het kan maximaal 24 uur duren voordat de wijzigingen zijn doorgevoerd.
+**Opmerking:** Het kan tot 24 uur duren voordat wijzigingen in beleidsregels worden gerepliceerd.

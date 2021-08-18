@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317471"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902039"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Inhoud zoeken en eDiscovery-zoekopdrachten uitvoeren
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317471"
 4. Voer de vereiste zoekvoorwaarden in, inclusief trefwoorden en inhoudslocaties.
 5. Selecteer **Opslaan & uitvoeren om** de zoekopdracht een naam te geven, te starten en een voorbeeld van de resultaten te bekijken.
 
-**Opmerking:** in **Microsoft 365 Compliance Center**  >  **Solutions,** **vouwt u eDiscovery** uit en selecteert u het gewenste eDiscovery-hulpprogramma.
+> [!NOTE]
+> In **Microsoft 365 Compliance Center**  >  **Solutions,** **vouwt u eDiscovery** uit en selecteert u het gewenste eDiscovery-hulpprogramma.
 
 Zie Inhoud zoeken en eDiscovery-zaken voor gedetailleerde instructies over het [](https://docs.microsoft.com/microsoft-365/compliance/content-search) zoeken naar inhoud, het exporteren van resultaten en het maken van [eDiscovery-cases](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)om gegevens vast te houden.
 
