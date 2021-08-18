@@ -1,5 +1,5 @@
 ---
-title: OneDrive-bestanden delen met externe gebruikers
+title: Bestanden OneDrive externe gebruikers delen
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,33 +12,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739028"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320592"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Bestanden in OneDrive delen met personen buiten uw organisatie
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Bestanden delen in OneDrive met personen buiten uw organisatie
 
-1. Gebruik het startprogramma voor apps om naar OneDrive in uw webbrowser te gaan. 
+1. Gebruik het startvenster voor apps om naar OneDrive in uw webbrowser te gaan. 
     
-2. Selecteer het bestand dat of de map die u wilt delen en selecteer **delen**. 
+2. Selecteer het bestand of de map die u wilt delen en selecteer **vervolgens Delen.** 
     
-3. \<your organization\>Klik op de pijl-omlaag en selecteer een van de volgende opties als het koppelingstype is ingesteld op ' personen in '. 
+3. Als het koppelingstype is ingesteld op 'Personen in', klikt u op de \<your organization\> pijl-omlaag en selecteert u een van de volgende opties: 
     
-  - **Iedereen** biedt toegang tot iedereen die deze koppeling ontvangt, ongeacht of ze de koppeling rechtstreeks ontvangen of van iemand anders zijn doorgestuurd. Dit kan personen van buiten uw organisatie zijn. 
+  - **Iedereen** geeft toegang tot iedereen die deze koppeling ontvangt, ongeacht of deze rechtstreeks van u is ontvangen of doorgestuurd van iemand anders. Dit kunnen personen buiten uw organisatie zijn. 
     
-  - **Specifieke personen** hebben alleen toegang tot de personen die u opgeeft, hoewel andere personen toegang hebben. Als personen de uitnodiging voordelen doorsturen, kunnen alleen personen die toegang hebben tot het item de koppeling gebruiken. 
+  - **Specifieke personen** geven alleen toegang tot de personen die u opgeeft, hoewel andere personen mogelijk al toegang hebben. Als personen de uitnodiging voor delen doorsturen, kunnen alleen personen die al toegang hebben tot het item de koppeling gebruiken. 
     
-    > [!NOTE]
-    > Als een van deze opties niet beschikbaar is, of als u wilt dat een ander type koppeling standaard wordt weergegeven, kunt u de instellingen voor uw gehele organisatie wijzigen door naar het OneDrive-Beheercentrum te klikken en in het linkerdeelvenster op **delen** te klikken. [Meer informatie](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Opmerking:** Als een van deze opties niet beschikbaar is of als u standaard een ander koppelingstype wilt weergeven, kunt u uw instellingen voor de hele organisatie wijzigen door naar het OneDrive-beheercentrum te gaan en te klikken op Delen **in** het linkerdeelvenster. [Meer informatie](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Standaard is **Bewerken toestaan** ingeschakeld. Als u wilt dat personen uw bestanden alleen kunnen bekijken, schakelt u het selectievakje uit. 
+4. Bewerken toestaan **is** standaard ingeschakeld. Als u wilt dat alleen uw bestanden worden weergegeven, moet u het selectievakje uit- 
     
-5. Voer de namen in van de personen met wie u wilt delen en indien gewenst een bericht.
+5. Voer de namen in van de personen met wie u wilt delen en geef indien nodig een bericht op.
     
-6. Wanneer u klaar bent om de link te verzenden, klikt u op **verzenden**. 
+6. Wanneer u klaar bent om de koppeling te verzenden, klikt u op **Verzenden.** 
     
 [Meer informatie](https://go.microsoft.com/fwlink/?linkid=871861)
   

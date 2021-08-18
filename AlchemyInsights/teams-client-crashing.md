@@ -1,5 +1,5 @@
 ---
-title: Teams client vast loopt
+title: Teams client loopt vast
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890333"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321620"
 ---
-# <a name="teams-client-crashing"></a>Teams client vast loopt
+# <a name="teams-client-crashing"></a>Teams client loopt vast
 
 Als uw Teams-client crasht, probeer dan het volgende:
 
@@ -30,7 +30,7 @@ Als uw Teams-client crasht, probeer dan het volgende:
 - Meld u aan met uw tenantbeheerderaccount en controleer uw [Service health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) om te controleren of er geen uitval of servicedegradatie bestaat.
 
 - De Teams verwijderen en opnieuw installeren
-    - Blader naar de map %appdata%\Microsoft\Teams\ op uw computer en verwijder alle bestanden in die map.
+    - Blader naar de map %appdata%\Microsoft\Teams\ op uw computer en verwijder alle bestanden in die adreslijst.
     - [Download en installeer de Teams-app](https://www.microsoft.com/microsoft-teams/download-app)en installeer Teams indien mogelijk als beheerder (klik met de rechtermuisknop op het Teams-installatieprogramma en selecteer Uitvoeren als **beheerder** indien beschikbaar).
 
 Als uw Teams nog steeds vast loopt, probeert u het probleem te reproduceren. Als u het volgende kunt doen:
@@ -38,7 +38,9 @@ Als uw Teams nog steeds vast loopt, probeert u het probleem te reproduceren. Als
 1. Gebruik de stappenrecorder om uw stappen vast te leggen.
     - Sluit ALLE overbodige of vertrouwelijke toepassingen.
     - Start de stappenrecorder en reproduceer het probleem terwijl u bent aangemeld met het betreffende gebruikersaccount.
-    - [Verzamel de teamslogboeken die de vastgelegde reprostappen vastleggen.](https://docs.microsoft.com/microsoftteams/log-files) **Opmerking:** Zorg ervoor dat u het aanmeldingsadres van de beïnvloede gebruiker vast legt.
+    - [Verzamel de teamslogboeken die de vastgelegde reprostappen vastleggen.](https://docs.microsoft.com/microsoftteams/log-files) 
+    
+    **Opmerking:** Zorg ervoor dat u het aanmeldingsadres van de beïnvloede gebruiker vast legt.
     - Verzamel de dump- en/of foutemmergegevens (Windows). Start Windows Powershell op de computer waar de crash plaatsvindt en voer de volgende opdrachten uit (druk na elke opdracht op Enter):
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`

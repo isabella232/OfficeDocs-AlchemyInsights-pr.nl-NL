@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 25744bee6f3ed06ae67fc3c246c7d64fce9994bb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896150"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320520"
 ---
 # <a name="fix-languageip-filter-policy"></a>Taal-/IP-filterbeleid oplossen
 
 Een van uw antispambeleid heeft dit bericht beïnvloed. Als u het beleid wilt controleren, gaat u als volgt te werk:
 
-1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & Samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
+1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
 
    Gebruik <https://security.microsoft.com/antispam> om direct naar de pagina **Antispambeleid** te gaan.
 

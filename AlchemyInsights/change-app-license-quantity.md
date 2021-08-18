@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 1af3d36dead1db10ed3857d2f75b2c16d31c854e
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687097"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321412"
 ---
 # <a name="change-app-license-quantity"></a>Aantal apps-licenties wijzigen
 
@@ -33,11 +33,11 @@ U kunt het aantal licenties dat u hebt weergeven of wijzigen en deze toewijzen a
 1. Ga naar de **pagina Facturering** van  >  **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Zoek op **het** tabblad Producten in de sectie **Apps** de app die u wilt beheren. Selecteer de drie puntjes (meer acties) en selecteer **Vervolgens Licenties kopen.**
 3. Als u het aantal licenties wilt verminderen, selecteert u boven aan het deelvenster Licenties kopen de optie **Licenties verwijderen.** 
-4. Als u licenties wilt kopen of  verwijderen, voert u onder Nieuw aantal **in** het vak Totaal aantal licenties het totale aantal licenties in dat u voor dit abonnement wilt gebruiken. Als u bijvoorbeeld 100 licenties hebt en u er nog vijf wilt toevoegen, voert u 105 in. Als u er vijf wilt verwijderen, voert u 95 in.
+4. Als u licenties wilt kopen of  verwijderen, voert u onder Nieuw **aantal** in het vak Totaal aantal licenties het totale aantal licenties in dat u voor dit abonnement wilt gebruiken. Als u bijvoorbeeld 100 licenties hebt en u er nog vijf wilt toevoegen, voert u 105 in. Als u er vijf wilt verwijderen, voert u 95 in.
 5. Selecteer **Opslaan**.
 
 ## <a name="to-assign-app-licenses"></a>App-licenties toewijzen
 
 1. Ga naar de **pagina Facturering** van  >  **[uw producten.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Zoek op **het** tabblad Producten in de sectie **Apps** de app die u wilt beheren.
-3. Selecteer **onder Instellingen & acties** de koppeling naar Beheren in de portal van de **uitgever.**
+3. Selecteer **onder Instellingen & acties** de koppeling naar Beheren in de portal van **publisher.**

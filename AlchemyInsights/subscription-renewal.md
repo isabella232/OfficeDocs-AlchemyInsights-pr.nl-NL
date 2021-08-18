@@ -16,20 +16,20 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: aeabecf82e22369ed78f00a7e32a99fa7cf9b5f9a8e3a0f5f84ea68bdbc33642
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0148fdbf6a88d1a057aecef60277d20173d8573e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894906"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321712"
 ---
-# <a name="subscription-recurring-billing"></a>Terugkerende facturering van abonnementen
+# <a name="subscription-recurring-billing"></a>Terugkerende facturering voor abonnementen
 
 Als u wilt weten wanneer uw maandelijkse of jaarlijkse abonnement wordt gefactureerd (als Terugkerende facturering **is** ingeschakeld) of wanneer deze verloopt (als terugkerende facturering **is** uitgeschakeld), gebruikt u de volgende stappen:
   
 1. Ga in het beheercentrum naar de pagina **Facturering** \> [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Zoek op **het** tabblad Producten het abonnement waar u meer over wilt weten. In **de kolom Abonnementsstatus** ziet u de verlenging of vervaldatum.
-3. Als u een wijziging wilt maken, selecteert u de drie puntjes (meer acties) en selecteert u **Terugkerende facturering bewerken.**
+3. Als u een wijziging wilt maken, selecteert u de drie puntjes (meer acties) en selecteert **u Terugkerende facturering bewerken.**
 4. Selecteer in **het deelvenster** Terugkerende facturering bewerken de optie **Aan,** **Aan, eenmaal verlengen** of **Uit.**
 5. Selecteer **Opslaan**.
 
