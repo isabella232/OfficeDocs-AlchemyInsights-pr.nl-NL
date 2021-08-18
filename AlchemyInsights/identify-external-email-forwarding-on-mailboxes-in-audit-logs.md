@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028728"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899879"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Bepalen wanneer extern doorsturen van e-mail is geconfigureerd in postvakken
 
-Wanneer een Microsoft 365 externe **e-mail** doorsturen configureert in een postvak, wordt de activiteit gecontroleerd als onderdeel van de cmdlet Postvak instellen. U kunt de activiteit zien met behulp van zoeken in het auditlogboek in & Compliancecentrum.
+Wanneer een Microsoft 365 externe **e-mail** doorsturen configureert in een postvak, wordt de activiteit gecontroleerd als onderdeel van de cmdlet Postvak instellen. U kunt de activiteit zien met behulp van zoeken in auditlogboek. U doet dit als eerste.
 
-1. Meld u aan bij [Microsoft 365 compliancecentrum.](https://protection.office.com/)
+1. Ga op een van de volgende stappen te werk:
+   - Ga in Microsoft 365-compliancecentrum naar <https://compliance.microsoft.com> Solutions  \> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://compliance.microsoft.com/auditlogsearch> u .
+   - Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://sip.security.microsoft.com/auditlogsearch> u .
 
-2. Ga naar de **zoekpagina**  >  **Van het zoeklogboek zoeken.**
+2. Controleer op **de** pagina Controle of **het** tabblad Zoeken is geselecteerd en configureer de volgende instellingen:
+   - Selecteer het datum-/tijdbereik in de vakken **Begin** **en** Einde.
+   - Controleer of **het vak** Activiteiten resultaten weergeven voor alle **activiteiten bevat.**
 
-3. Selecteer het datumbereik in de **velden Begindatum** en **Einddatum.** U hoeft geen gebruikersnaam op te geven. Controleer of **het veld** Activiteiten is ingesteld op Resultaten voor alle **activiteiten tonen.**
+3. Wanneer u klaar bent, klikt u op **Zoeken**. De activiteiten worden weergegeven op de nieuwe **pagina Controle zoeken.**
 
-4. Klik **op Zoeken**.
+4. Klik in de resultaten op **Resultaten filteren** en typ **Postvak** instellen in het vak activiteitsfilter.
 
-Klik in de resultaten op **Resultaten filteren** en typ **Postvak** instellen in het vak activiteitsfilter. Selecteer een auditrecord in de resultaten. Klik in **het** fly-out Details op **Meer informatie.** U moet de details van elke auditrecord bekijken om te bepalen of de activiteit betrekking heeft op het doorsturen van e-mail.
+5. Selecteer een auditrecord in de resultaten. Klik in **het** fly-out Details op **Meer informatie.** U moet de details van elke auditrecord bekijken om te bepalen of de activiteit betrekking heeft op het doorsturen van e-mail.
 
-- **ObjectId:** de aliaswaarde van het postvak dat is gewijzigd.
+   - **ObjectId:** de aliaswaarde van het postvak dat is gewijzigd.
+   - **Parameters:** _ForwardingSmtpAddress_ geeft het doel-e-mailadres aan.
+   - **UserId:** de gebruiker die het doorsturen van e-mail heeft geconfigureerd in het postvak in het **veld ObjectId.**
 
-- **Parameters:** _ForwardingSmtpAddress_ geeft het doel-e-mailadres aan.
-
-- **UserId:** de gebruiker die het doorsturen van e-mail heeft geconfigureerd in het postvak in het **veld ObjectId.**
-
-Zie Bepalen wie e-mail doorsturen voor een postvak heeft [ingesteld voor meer informatie.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Zie Bepalen wie e-mail doorsturen voor een postvak heeft [ingesteld voor meer informatie.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
