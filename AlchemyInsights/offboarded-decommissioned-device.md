@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891998"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324439"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemen met het verwijderen van een offboarded of buiten bedrijf gesteld apparaat uit de apparaatvoorraad
 
@@ -26,7 +26,7 @@ Microsoft Defender voor Eindpunt staat momenteel niet toe dat de apparaatrecord 
 
 Voor beveiligingsdoeleinden blijft het apparaat tot 180 dagen in de portal staan als een historische record. De apparaatgegevens worden echter verwijderd op basis van de geconfigureerde bewaarperiode.
 
-**Opmerking:** Een uitgeschakeld of buiten bedrijf gesteld apparaat schakelt na zeven dagen automatisch over naar **inactieve** toestand. Bovendien worden apparaten die niet actief zijn in de afgelopen 30 dagen, niet mee verwerkt in de gegevens die uw organisatie Threat and Vulnerability Management blootstellingsscore of Microsoft Secure Score voor apparaten.
+**Opmerking:** Een uitgeschakeld of buiten bedrijf gesteld apparaat schakelt na zeven dagen automatisch over naar **inactieve** toestand. Bovendien worden apparaten die niet actief zijn in de afgelopen 30 dagen, niet mee verwerkt in de gegevens die uw organisatie weerspiegelen Threat and Vulnerability Management blootstellingsscore of Microsoft Secure Score voor apparaten.
  
 Als u bepaalde apparaten nog steeds niet wilt zien in de weergave Apparaatvoorraad, probeert u een apparaatlabel te plaatsen om het buiten bedrijf gesteld apparaat uit de weergave Apparaatvoorraad te filteren.
 

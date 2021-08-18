@@ -1,5 +1,5 @@
 ---
-title: Annuleert u uw Microsoft 365 abonnement?
+title: Uw abonnement Microsoft 365 opzeggen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6ede93972410f77addda2a3ce40ff564284a5b53
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893950"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324087"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Annuleert u uw Microsoft 365 abonnement?
+# <a name="canceling-your-microsoft-365-subscription"></a>Uw abonnement Microsoft 365 opzeggen?
 
 Het spijt ons dat u weg bent.
   

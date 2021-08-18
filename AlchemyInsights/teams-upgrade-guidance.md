@@ -1,5 +1,5 @@
 ---
-title: Teams upgrade-instructies
+title: Teams upgrade-richtlijnen
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901175"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324311"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams upgrade
 
@@ -26,7 +26,7 @@ Of u nu net begint met Teams, Teams al gebruikt naast Skype voor Bedrijven of kl
 
 [Uw upgrade plannen](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Inzicht Microsoft Teams en Skype voor Bedrijven coëxistentie](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Meer Microsoft Teams en Skype voor Bedrijven coëxistentie](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
 [De upgrade uitvoeren van Skype voor Bedrijven Online naar Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 

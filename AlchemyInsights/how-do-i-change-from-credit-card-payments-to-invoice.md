@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868673"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323781"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hoe verander ik van creditcardbetalingen in factuur?
 
-> [!NOTE]
-> U kunt alleen betalen per factuur als de abonnementskosten een bepaald bedrag overschrijden. U moet eerst alle openstaand saldo op de creditcard, betaalkaart of bankrekening betalen voordat u kunt overstappen naar betalen per factuur.
+**Opmerking:** U kunt alleen per factuur betalen als uw abonnement boven een bepaald bedrag kost. U moet eerst alle openstaand saldo op de creditcard, betaalkaart of bankrekening betalen voordat u kunt overstappen naar betalen per factuur.
 
 1. Ga in het beheercentrum naar de pagina **Facturering** > [Mijn producten](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Zoek in het tabblad **Producten** het abonnement waarvoor u wilt betalen met de alternatieve betalingsmethode.

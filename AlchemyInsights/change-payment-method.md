@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895486"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324031"
 ---
 # <a name="change-payment-method"></a>Betalingswijze wijzigen
 
@@ -30,8 +30,7 @@ U kunt de betalingswijze wijzigen vanuit de **Microsoft 365-beheercentrum.**
 2. Selecteer de rij van de betalingsmethode die u wilt vervangen. Het rechterdeelvenster bevat alle factureringsprofielen en afzonderlijke abonnementen die gebruikmaken van de geselecteerde betalingsmethode.
 3. Selecteer in het rechterdeelvenster **Betalingsmethode vervangen voor alle items**.
 4. Als u een bestaande betalingsmethode wilt gebruiken, kiest u een methode in de vervolgkeuzelijst en selecteert u **Vervangen**.
-    > [!NOTE]
-    > Als er abonnementen zijn gekoppeld aan een factureringsprofiel, kunt u alleen een creditcard of betaalkaart gebruiken om ervoor te betalen. Als uw bankrekeningen worden vermeld op de pagina **Betalingsmethoden**, kunt u deze niet selecteren in de vervolgkeuzelijst.
+    **Opmerking:** Als u abonnementen hebt die zijn gekoppeld aan een factureringsprofiel, kunt u alleen een creditcard of betaalkaart gebruiken om ervoor te betalen. Als uw bankrekeningen worden vermeld op de pagina **Betalingsmethoden**, kunt u deze niet selecteren in de vervolgkeuzelijst.
 5. Als u een nieuwe betalingsmethode wilt toevoegen, selecteert u **Betalingsmethode toevoegen**.
 6. Voer in het deelvenster **Een betalingsmethode toevoegen** de accountgegevens in en selecteer **Opslaan**. U moet een betalingsmethode gebruiken uit hetzelfde land als uw tenant.
 7. De nieuwe betalingsmethode is al geselecteerd in de vervolgkeuzelijst. Selecteer **Vervangen**.

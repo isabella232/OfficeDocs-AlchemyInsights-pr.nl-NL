@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1ce2e78f5ea6eaa8c1a7ecc2bfea9a017e3cbf5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950948"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324123"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>U mist! Vraag uw beheerder om de Microsoft Teams
 
-Als u een EDU-tenant hebt, moet u Microsoft Teams handmatig inschakelen. Hiervoor gaat u naar de Microsoft 365-beheercentrum > **Services en invoegvoegingen > Microsoft Teams.** Als u het nieuwe beheercentrum Teams gebruiken, moet u Probeer het nieuwe **beheercentrum** uitschakelen om Services en invoegvoegingen   te **vinden.** 
+Als u een EDU-tenant hebt, moet u Microsoft Teams handmatig inschakelen. Ga hiervoor naar de Microsoft 365-beheercentrum > **Services en invoegvoegingen > Microsoft Teams.** Als u het nieuwe beheercentrum Teams gebruiken, moet u Probeer het nieuwe **beheercentrum** uitschakelen om Services en invoegvoegingen   te **vinden.** 
 
-**BELANGRIJK:** Mogelijk moet u maximaal 24 uur wachten voordat de wijzigingen van kracht worden.
+**Belangrijk**: mogelijk moet u tot 24 uur wachten voordat de wijzigingen van kracht worden.

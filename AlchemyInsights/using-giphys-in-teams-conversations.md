@@ -1,5 +1,5 @@
 ---
-title: Giphy's gebruiken in team gesprekken
+title: Giphys gebruiken in Teams gesprekken
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982460"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323515"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Giphy's gebruiken in team gesprekken
+# <a name="using-giphys-in-teams-conversations"></a>Giphys gebruiken in Teams gesprekken
 
-Giphy's toegang in teams-chat is standaard ingeschakeld. Als beheerder kunt u bepalen of Giphy's beschikbaar zijn voor gebruikers door [een berichten beleid](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) in te stellen en ervoor te zorgen dat **giphy's gebruiken in gesprekken** is **ingeschakeld**.
+Giphys-toegang in Teams chat is standaard ingeschakeld. Als beheerder kunt u bepalen of Giphys [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) beschikbaar is voor gebruikers door een berichtenbeleid in te stellen en ervoor te zorgen dat **Giphys gebruiken in gesprekken** is **aan.**
 
-Als Gif's niet werken zoals verwacht in team gesprekken, controleert u het volgende:
+Als GIF's niet werken zoals verwacht in Teams gesprekken, controleert u:
 
-Voor het [bericht beleid](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) moet giphy's zijn toegestaan. Verificatie via PowerShell-cmdlets:
+Het [berichtenbeleid](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) moet Giphys toestaan. U kunt dit controleren met behulp van PowerShell-cmdlets:
 
-- Ga na of u [teams kunt beheren met PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Voer de PowerShell-opdracht [Get-CsTeamsMessagingPolicy-Identity globaal](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) uit en controleer of **AllowGiphy** is ingesteld op **waar**.
-- Als **AllowGiphy** is ingesteld op **False** , voert u de volgende opdracht uit voor de PowerShell-opdrachtenset [-CsTeamsMessagingPolicy-Identity globaal-AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Controleer of u uw [Teams met PowerShell kunt beheren.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)
+- Voer de [PowerShell-opdracht Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) uit en controleer of **AllowGiphy** is ingesteld op **WAAR.**
+- Als **AllowGiphy** is ingesteld op **ONWAAR**, voer dan de volgende PowerShell-opdracht [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True.](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)
 
-U kunt de URL van de Giphy alleen gebruiken als u [optionele verbonden ervaring](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) hebt ingeschakeld.
+[Optionele verbonden](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) ervaringen moeten zijn ingeschakeld om toegang tot de GIPHY-URL toe te staan.
 
-> [!NOTE]
-> Als u meerdere teams-berichten beleidsregels hebt geconfigureerd voor uw Tenant, kunt u de identiteit bepalen van het beleid dat is toegewezen aan de gebruiker die de gebruiker heeft beïnvloed met de opdracht [Get-CsOnlineUser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Selecteer TeamsMessagingPolicy.
+**Opmerking:** Als u meerdere Teams Messaging-beleidsregels hebt geconfigureerd voor uw tenant, kunt u de identiteit bepalen van het beleid dat is toegewezen aan de beïnvloede gebruiker met de [PowerShell-opdracht Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Selecteer TeamsMessagingPolicy.

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908345"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324846"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Gebruikersmachtigingen in SharePoint en OneDrive
 
@@ -34,8 +34,7 @@ Als een gebruiker in uw organisatie geen toegang heeft tot SharePoint of OneDriv
     
     Klik voor een klassieke teamsite op **Delen** in de rechterbovenhoek. Voer de naam in van de persoon die u wilt uitnodigen of typ Iedereen om te delen met iedereen in uw organisatie. Klik **op Delen.**
     
-> [!NOTE]
-> Als u lid bent van een site, maar geen eigenaar, kunt u personen uitnodigen voor de site, maar uw uitnodiging genereert een toegangsaanvraag die kan worden goedgekeurd of geweigerd door een site-eigenaar. 
+**Opmerking:** Als u lid bent van een site, maar geen eigenaar, kunt u personen uitnodigen voor de site, maar uw uitnodiging genereert een toegangsaanvraag die kan worden goedgekeurd of geweigerd door een site-eigenaar. 
   
 [Meer informatie over het delen van een bestand of map met een gebruiker](https://go.microsoft.com/fwlink/?linkid=533408)
   

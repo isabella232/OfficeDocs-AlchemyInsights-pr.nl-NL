@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895786"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325066"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator in Microsoft 365
 
-- Ontbreekt Attack Simulator? Voor Attack Simulator **is Microsoft Defender vereist Office 365 plan 2** of Office 365 Enterprise **E5.** Attack Simulator is **niet** opgenomen in Microsoft Defender voor Office 365 abonnement 1, Office 365 Enterprise E3 of Microsoft 365-apps voor bedrijven abonnementen.
+- Ontbreekt Attack Simulator? Voor Attack Simulator **is Microsoft Defender vereist Office 365 plan 2** of Office 365 Enterprise **E5.** Attack Simulator is **niet** opgenomen in Microsoft Defender voor Office 365 Abonnement 1, Office 365 Enterprise E3 of Microsoft 365-apps voor bedrijven abonnementen.
 
 - Voor het account dat u gebruikt om gesimuleerde aanvallen te starten, zijn machtigingen van globale beheerders of beveiligingsbeheerders en meervoudige verificatie (MFA) vereist. Zie dit [onderwerp](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)voor meer informatie over de vereisten voor Attack Simulator.
 
@@ -39,4 +39,4 @@ ms.locfileid: "57895786"
 
 - Rapporten: Nadat de gesimuleerde aanval is voltooid, kunt u op **Details van** aanvallen klikken om het rapport te bekijken.
 
-- Zie Attack Simulator in Microsoft 365 voor gedetailleerde instructies en nieuwe functies in Attack [Simulator.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
+- Zie Attack Simulator in Microsoft 365 voor gedetailleerde instructies en [nieuwe functies in Attack Simulator.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
