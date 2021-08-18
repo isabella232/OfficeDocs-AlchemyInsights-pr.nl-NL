@@ -1,5 +1,5 @@
 ---
-title: Annuleren Power BI
+title: De Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045857"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899535"
 ---
-# <a name="cancel-power-bi"></a>Annuleren Power BI
+# <a name="cancel-power-bi"></a>De Power BI
 
 Power BI kan worden geannuleerd in de Microsoft 365-beheercentrum.
 
@@ -36,4 +36,4 @@ Power BI kan worden geannuleerd in de Microsoft 365-beheercentrum.
 > [!NOTE]
 > Als u de optie om te annuleren niet ziet, selecteert u het abonnement om de detailspagina te bekijken. Selecteer in **de sectie Abonnements-** en betalingsinstellingen de optie **Abonnement opzeggen.**
 
-Zie Uw abonnement [opzeggen voor meer informatie.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Zie Uw abonnement [opzeggen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

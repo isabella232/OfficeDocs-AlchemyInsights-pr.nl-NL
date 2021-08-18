@@ -14,12 +14,12 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897463"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315869"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Eeuwig automatisch doorsturen van e-mail blokkeren of deblokkeren
 
@@ -29,4 +29,4 @@ Beheerders kunnen externe doorsturen voor de organisatie beheren met behulp van 
 
 Als u de volgende foutmelding ontvangt: **'550 5.7.520 Access geweigerd,** Uw organisatie staat extern doorsturen niet toe', zorg er dan voor dat het beleid is geconfigureerd voor het inschakelen van externe, automatisch doorgestuurde berichten.
 
-**Opmerking:** We hebben de standaardwaarde Automatisch  **aanbevolen:** systeem dat is ingesteld voor de instelling Voor automatisch doorsturen van regels in uw standaardbeleid voor uitgaande spamfilters (automatisch extern doorsturen is geblokkeerd; interne automatische doorsturen werkt nog steeds). U moet aangepaste beleidsregels voor uitgaand spamfilter maken en de waarde **Aan - Doorsturen alleen** gebruiken voor gebruikers die externe automatische e-mail doorsturen nodig hebben. Zie Externe e-mail [doorsturen configureren in](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)Office 365.
+**Opmerking:** We hebben de standaardwaarde Automatisch  **aanbevolen:** systeem dat is ingesteld voor de instelling Voor automatisch doorsturen van regels in uw standaardbeleid voor uitgaande spamfilters (automatisch extern doorsturen is geblokkeerd; interne automatische doorsturen werkt nog steeds). U moet aangepaste beleidsregels voor uitgaand spamfilter maken en de waarde **Aan - Doorsturen alleen** gebruiken voor gebruikers die externe automatische e-mail doorsturen nodig hebben. Zie Externe e-mail doorsturen [configureren in](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)Office 365.
