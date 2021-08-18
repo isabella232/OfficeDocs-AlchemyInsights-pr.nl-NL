@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896070"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326792"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Tenantbeleid oplossen (actie overschrijven)
 
 Een van uw antispambeleid heeft dit bericht beïnvloed. Als u het beleid wilt controleren, gaat u als volgt te werk:
 
-1. Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com/> **E-mail & Samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
+1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com/> naar **E-mail & samenwerkingsbeleid** & Beleidsregels voor bedreigingsregels \>  \>  \> **Antispam** in  de sectie Beleid.
 
    Gebruik <https://security.microsoft.com/antispam> om direct naar de pagina **Antispambeleid** te gaan.
 

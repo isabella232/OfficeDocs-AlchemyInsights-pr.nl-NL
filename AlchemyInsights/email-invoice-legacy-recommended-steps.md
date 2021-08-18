@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003609"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326500"
 ---
 # <a name="e-mail-invoice---legacy"></a>E-mailfactuur - Verouderd
 
@@ -38,7 +38,7 @@ Volg deze stappen om uw abonnementsfacturen per e-mail te ontvangen:
 
 Als u de facturen voor uw abonnement en ondersteuningsplan elke maand wilt delen met uw boekhoudteam of deze wilt verzenden naar een van uw andere e-mailadressen:
 
-1. Volg de bovenstaande stappen om eerst per e-mail factuur in te stellen en selecteer vervolgens **Geadresseerden configureren.**
+1. Volg de bovenstaande stappen om eerst per e-mail factuur in te stellen en selecteer **vervolgens Geadresseerden configureren.**
 2. Voer een e-mailadres in en selecteer **Ontvanger toevoegen**. U kunt meerdere e-mailadressen toevoegen.
 3. Nadat u alle e-mailadressen hebt toegevoegd, selecteert u onder aan het scherm **Gereed**.
 
@@ -52,5 +52,4 @@ Gebruikers/groepen met toegang op abonnementsniveau toestaan uw factuur te downl
 4. Selecteer uw Azure-abonnement en klik op **Toestaan dat anderen de factuur downloaden**.
 5. Selecteer **Aan** en vervolgens **Opslaan** boven aan de pagina.
 
-> [!NOTE]
-Als u niet de accountbeheerder bent, neem dan contact op met uw accountbeheerder om de bovenstaande instructies te volgen om u aan te geven, geadresseerden toe te voegen of om andere gebruikers toe te staan de factuur te downloaden.
+**Opmerking:** Als u niet de accountbeheerder bent, neem dan contact op met uw accountbeheerder om de bovenstaande instructies te volgen om u aan te geven, geadresseerden toe te voegen of om andere gebruikers toe te staan de factuur te downloaden.

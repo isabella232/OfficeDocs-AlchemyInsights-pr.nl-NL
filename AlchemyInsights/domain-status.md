@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874390"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326572"
 ---
 # <a name="domain-status---no-services-selected"></a>Domeinstatus: er zijn geen services geselecteerd
 
-Geen **geselecteerde** services betekent dat u geen Microsoft 365-services hebt geselecteerd, zoals Exchange Online, Skype voor Bedrijven of Intune, en Mobile Device Management voor Microsoft 365 voor gebruik met uw aangepaste domein. Als u Exchange Hybride (Exchange on-premises met Exchange Online) of externe spamfilters gebruikt met Exchange en geen andere Microsoft-services, kunt u dit bericht negeren. De status van domeinstatus is alleen beschikbaar voor domeinen die rechtstreeks met de service zijn verbonden.
+Geen **geselecteerde** services betekent dat u geen Microsoft 365-services hebt geselecteerd, zoals Exchange Online, Skype voor Bedrijven of Intune, en Mobile Device Management voor Microsoft 365 voor gebruik met uw aangepaste domein. Als u gebruik maakt van Exchange Hybride (Exchange on-premises met Exchange Online) of externe spamfilters met Exchange en geen andere Microsoft-services, kunt u dit bericht negeren. De status van domeinstatus is alleen beschikbaar voor domeinen die rechtstreeks met de service zijn verbonden.
 
 Als u services voor uw domein wilt selecteren:
 
