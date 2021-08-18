@@ -1,5 +1,5 @@
 ---
-title: Publicatie-infrastructuur van SharePoint
+title: SharePoint Publicatie-infrastructuur
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,17 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 03979fd238aecff0bfb54ab784997727c03fd7c2
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002660"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318083"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>Publicatie-infrastructuur van SharePoint
+# <a name="sharepoint-publishing-infrastructure"></a>SharePoint Publicatie-infrastructuur
 
-> [!IMPORTANT]
-> Moderne communicatie sites ondersteunen de klassieke publicatiefuncties die bekend zijn bij publicatie-infrastructuur van SharePoint Server. Wanneer u probeert de functie voor een moderne communicatie site te activeren, krijgt u een foutmelding. Moderne Communicatiesites geven standaard een nieuwer alternatief.
+**Belangrijk:** Moderne communicatiesites bieden geen ondersteuning voor de klassieke publicatiefuncties die bekend staan SharePoint serverpublicatie-infrastructuur. Wanneer u de functie voor een moderne communicatiesite probeert te activeren, ontvangt u een foutmelding. Moderne communicatiesites bieden standaard een nieuw alternatief.
 
-Voor klassieke sites bevat SharePoint een klassieke set functies waarmee u webpagina's kunt maken en publiceren voor uw intranet. Activeer de SharePoint-publicatie-infrastructuur op het niveau van de siteverzameling om ze in te schakelen.
+Voor klassieke sites bevat SharePoint een klassieke set functies waarmee u uitgebreide webpagina's voor uw intranet kunt maken en publiceren. Activeer SharePoint publicatie-infrastructuur op siteverzamelingsniveau om deze in te zetten.
 
-Zie [publicatiefuncties](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) en [publicatiefuncties](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553) inschakelen voor meer informatie.
+Zie Publicatiefuncties en publicatiefuncties [inschakelen](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) voor [meer informatie.](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)

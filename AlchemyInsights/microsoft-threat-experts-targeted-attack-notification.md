@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012123"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901463"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts - Melding van gerichte aanval
 
 Targeted Attack Notification is een van de twee Microsoft Threat Experts mogelijkheden. Het is een proactieve service voor het zoeken naar bedreigingen die speciale inzichten en analyses biedt om ervoor te zorgen dat de meest kritieke bedreigingen snel en nauwkeurig worden geïdentificeerd en beantwoord.
 
-Als u een klant van Microsoft Defender voor Eindpunt bent, moet u Microsoft Threat Experts - Targeted Attack Notifications aanvragen om speciale inzichten en analyses te krijgen die u helpen bij het identificeren van de meest kritieke bedreigingen, zodat u er snel op kunt reageren.
+Als u een klant van Microsoft Defender voor Eindpunt bent, moet u Microsoft Threat Experts - Targeted Attack Notifications aanvragen om speciale inzichten en analyses te krijgen die helpen bij het identificeren van de meest kritieke bedreigingen, zodat u er snel op kunt reageren.
 
-Als u zich wilt Microsoft Threat Experts - Voordelen voor gerichte aanvalsmeldingen, gaat u naar Instellingen algemene geavanceerde functies  >    >    >  **Microsoft Threat Experts - Targeted Attack Notifications** om toe te passen. Zodra deze is geaccepteerd, krijgt u de voordelen van Meldingen voor gerichte aanvallen.
+Als u zich wilt Microsoft Threat Experts - Voordelen voor gerichte aanvalsmeldingen, gaat u naar Instellingen Algemene geavanceerde functies  >    >    >  **Microsoft Threat Experts - Targeted Attack Notifications** om toe te passen. Nadat u deze hebt geaccepteerd, krijgt u de voordelen van gerichte aanvalsmeldingen.
 
-U kunt een gerichte aanvalsmelding ontvangen van Microsoft Threat Experts via het volgende medium:
+U kunt een gerichte aanvalsmelding ontvangen Microsoft Threat Experts via het volgende medium:
 
 - De pagina Incidenten van de Defender for Endpoint-portal
 - Het dashboard Waarschuwingen van de Defender for Endpoint-portal
@@ -38,4 +38,4 @@ U kunt een gerichte aanvalsmelding ontvangen van Microsoft Threat Experts via he
 
 Als u gerichte aanvalsmeldingen via e-mail wilt ontvangen, maakt u een regel voor e-mailmeldingen. 
 
-Zie [Configure and manage Microsoft Threat Experts capabilities for](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) details.
+Zie [Configure and manage Microsoft Threat Experts capabilities for](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) details.
