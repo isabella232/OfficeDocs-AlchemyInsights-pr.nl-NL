@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963782"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339027"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Beheerders toevoegen en beheren : aanbevolen stappen
 
@@ -75,7 +75,7 @@ U kunt nieuwe gebruikers toevoegen of bestaande gebruikers verwijderen uit uw Az
 - [Zelfstudie: Toegang verlenen voor een gebruiker met RBAC en de Azure-portal](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Problemen met RBAC oplossen in Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Uw resources organiseren met Azure-beheergroepen](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Kopie van Azure-factuur aanvragen via e-mail](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Kopie van Azure-factuur aanvragen via e-mail](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Een creditcard of betaalkaart toevoegen, bijwerken of verwijderen uit Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Manage (Reactivate/Cancel/Switch) subscription](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

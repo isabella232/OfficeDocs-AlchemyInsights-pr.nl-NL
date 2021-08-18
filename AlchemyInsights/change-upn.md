@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818247"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332430"
 ---
 # <a name="change-a-users-email-address"></a>Het e-mailadres van een gebruiker wijzigen
 
 Het wijzigen van het e-mailadres van iemand is eenvoudig. Volg de volgende stappen:
   
-1. Ga in het Microsoft 365-beheercentrum naar de pagina [Gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) of kies **Gebruikers** \> **actieve gebruikers.**
+1. Ga in Microsoft 365-beheercentrum naar de pagina [Gebruikers of](https://go.microsoft.com/fwlink/p/?linkid=834822) kies **Gebruikers** \> **Actieve gebruikers.**
     
 2. Selecteer de gebruiker.
     
@@ -31,14 +31,14 @@ Het wijzigen van het e-mailadres van iemand is eenvoudig. Volg de volgende stapp
     
 4. Typ in **het vak Alias** een nieuw e-mailbericht en kies **toevoegen.**
     
-    **BELANGRIJK:** Als u het foutbericht ' Er kan geen parameter worden gevonden die overeenkomt met **de parameternaam 'EmailAddresses',** betekent dit dat het iets langer duurt voor Microsoft klaar is met het instellen van uw tenant of uw aangepaste domein als u er onlangs een hebt toegevoegd. Het instellen kan 4 uur duren. Wacht even, zodat de instellingsprocedure kan worden voltooid en probeer het vervolgens opnieuw. Als het probleem aanhoudt, bel dan de Ondersteuning; zij voeren dan een volledige synchronisatie voor u uit.
+    **Belangrijk:** Als u het foutbericht ' Er kan geen parameter worden gevonden die overeenkomt met **de parameternaam 'EmailAddresses',** betekent dit dat het iets langer duurt voor Microsoft klaar is met het instellen van uw tenant of uw aangepaste domein als u er onlangs een hebt toegevoegd. Het instellen kan 4 uur duren. Wacht even, zodat de instellingsprocedure kan worden voltooid en probeer het vervolgens opnieuw. Als het probleem aanhoudt, bel dan de Ondersteuning; zij voeren dan een volledige synchronisatie voor u uit.
     
-    Als u het foutbericht 'Het spijt ons, de gebruiker kan **niet worden bewerkt. Controleer de gebruikersgegevens en probeer** het opnieuw. Dit betekent dat u geen globale beheerder bent en u geen machtigingen hebt om de naam van de gebruiker te wijzigen.
+    Als u het foutbericht 'Het spijt ons, kan de gebruiker **niet worden bewerkt. Controleer de gebruikersgegevens en probeer** het opnieuw. Dit betekent dat u geen globale beheerder bent en u geen machtigingen hebt om de naam van de gebruiker te wijzigen.
     
 5. Kies **Instellen als primair** voor het e-mailadres dat u wilt instellen als het primaire e-mailadres voor die persoon. Als u uw abonnement hebt gekocht bij GoDaddy, moet u zich aanmelden bij de beheerconsole om het primaire e-mailadres in te stellen. 
     
 6. Kies **Opslaan** en **vervolgens Sluiten** en u bent klaar!
     
-Was dat niet gemakkelijk? Zie dit artikel voor meer informatie en stappen met schermafbeeldingen: Een gebruikersnaam [en e-mailadres wijzigen](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+Was dat niet gemakkelijk? Zie dit artikel voor meer informatie en stappen met schermafbeeldingen: [Een gebruikersnaam en e-mailadres wijzigen](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

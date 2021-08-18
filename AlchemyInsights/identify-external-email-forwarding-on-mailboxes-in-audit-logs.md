@@ -13,12 +13,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899879"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331154"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Bepalen wanneer extern doorsturen van e-mail is geconfigureerd in postvakken
 
@@ -28,11 +28,11 @@ Wanneer een Microsoft 365 externe **e-mail** doorsturen configureert in een post
    - Ga in Microsoft 365-compliancecentrum naar <https://compliance.microsoft.com> Solutions  \> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://compliance.microsoft.com/auditlogsearch> u .
    - Ga in Microsoft 365 Defender portal naar <https://security.microsoft.com> **Audit.** Of als u rechtstreeks naar de pagina **Controle wilt** gaan, gebruikt <https://sip.security.microsoft.com/auditlogsearch> u .
 
-2. Controleer op **de** pagina Controle of **het** tabblad Zoeken is geselecteerd en configureer de volgende instellingen:
+2. Controleer op **de** pagina Controle of **het** tabblad Zoeken is geselecteerd en configureer vervolgens de volgende instellingen:
    - Selecteer het datum-/tijdbereik in de vakken **Begin** **en** Einde.
    - Controleer of **het vak** Activiteiten resultaten weergeven voor alle **activiteiten bevat.**
 
-3. Wanneer u klaar bent, klikt u op **Zoeken**. De activiteiten worden weergegeven op de nieuwe **pagina Controle zoeken.**
+3. Wanneer u klaar bent, klikt u op **Zoeken**. De activiteiten worden weergegeven op de nieuwe **pagina Controle** zoeken.
 
 4. Klik in de resultaten op **Resultaten filteren** en typ **Postvak** instellen in het vak activiteitsfilter.
 

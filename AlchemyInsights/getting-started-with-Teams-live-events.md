@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811955"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333154"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Aan de slag met live evenementen van Teams
 
@@ -27,7 +27,9 @@ Om een live evenement te maken, heb je het volgende nodig:
 
 - Bevestig eerst dat Teams Live Evenementen [beschikbaar is in uw land en regio](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Live Eventementen worden in sommige landen/regio's nog niet ondersteund.  Als u licenties toegewezen heeft en een beleid heeft ingesteld, en u kunt nog steeds geen Teams Live Eventementen maken, dan is Live Evenementen waarschijnlijk nog niet beschikbaar in uw land of regio.
 
-- Een [ Office 365 Enterprise E1-, E3- of E5-licentie of een Office 365 A3- of A5-licentie ](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Let op**: vanwege een recente toename van het Teams-gebruik, kan het ongeveer 24 uur duren voordat u een Teams-licentie aan een gebruiker toewijst voordat deze volledig is ingesteld. Tot die tijd kunt u hen geen Teams-beleid toewijzen en hebben ze mogelijk geen toegang tot bepaalde Teams-functies zoals bellen en audioconferenties.
+- Een [ Office 365 Enterprise E1-, E3- of E5-licentie of een Office 365 A3- of A5-licentie ](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Let op**: vanwege een recente toename van het Teams-gebruik, kan het ongeveer 24 uur duren voordat u een Teams-licentie aan een gebruiker toewijst voordat deze volledig is ingesteld. Tot die tijd kunt u hen geen Teams-beleid toewijzen en hebben ze mogelijk geen toegang tot bepaalde Teams-functies zoals bellen en audioconferenties.
 
 - Toestemming om [ live evenementen te maken in het Microsoft Teams-beheercentrum ](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

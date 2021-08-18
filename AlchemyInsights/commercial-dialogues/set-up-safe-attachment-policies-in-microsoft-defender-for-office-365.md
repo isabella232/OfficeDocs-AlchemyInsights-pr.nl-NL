@@ -1,5 +1,5 @@
 ---
-title: Het bijlagebeleid Safe instellen in Microsoft Defender voor Office 365
+title: Een bijlagebeleid Safe instellen in Microsoft Defender voor Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b76b3f2f96a1c086c7eb7de830908965d7207c0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888365"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333378"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Het bijlagebeleid Safe instellen in Microsoft Defender voor Office 365
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Een bijlagebeleid Safe instellen in Microsoft Defender voor Office 365
 
-1. Ga in Microsoft 365 Defender portal bij <https://security.microsoft.com/> naar E-mail & **Samenwerkingsbeleid** & \> **Regels** \> **Bedreigingsbeleid** \>   Safe bijlagen in de sectie Beleid.
+1. Ga in Microsoft 365 Defender portal bij naar E-mail & <https://security.microsoft.com/> **Samenwerkingsbeleid** & \> **Beleidsregels** \> **bedreiging** Safe bijlagen \>  in  de sectie Beleid.
 
    Als u rechtstreeks naar de pagina Safe **bijlagen wilt** gaan, gebruikt u <https://security.microsoft.com/safeattachmentv2> .
 

@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0ad0a26430168ea26ad08a5faf911c0fc439588f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892594"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333062"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Audiovergadering in Microsoft Teams
 
@@ -30,7 +30,7 @@ Als [er licenties zijn aangeschaft,](https://docs.microsoft.com/microsoftteams/s
 
 2. Afhankelijk van de versie van het beheercentrum kiest u **licenties en apps** of klikt u op **bewerken** bij **productlicenties**.
 
-3. Controleer of de gebruiker licenties heeft geselecteerd voor **Microsoft 365 audiovergaderingen, Microsoft Teams** en **Skype voor Bedrijven Online (abonnement 2).** Als de Microsoft 365 licentie voor **audiovergaderingen** niet aanwezig is, moet u eerst [add on licenses](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) kopen.
+3. Controleer of de gebruiker licenties heeft geselecteerd voor **Microsoft 365 audiovergaderingen, Microsoft Teams** en **Skype voor Bedrijven Online (abonnement 2).** Als de Microsoft 365 licentie voor **audiovergaderingen** niet aanwezig is, moet u eerst [add on licenses aanschaffen.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. Gebruikers **-beheercentra** klik op **Alles weergeven** en vervolgens op **Teams**.
 
