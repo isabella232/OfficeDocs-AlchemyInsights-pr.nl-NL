@@ -12,16 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: f1de44682dbdc4bdfc799e0a3ac618e4c5b76bf0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677519"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317553"
 ---
 # <a name="deploy-microsoft-defender-for-endpoint"></a>Microsoft Defender voor Eindpunt implementeren
 
-De [Microsoft Defender voor eindpunten adviseur](https://go.microsoft.com/fwlink/?linkid=2146241) biedt instructies waarmee uw Enterprise-netwerk een oplossing biedt voor geavanceerde bedreigingen en deze kan detecteren, onderzoeken en beantwoorden. Maak een weloverwogen beoordeling van het beveiligingslek van uw organisatie en bepaal welke implementatiepakket-en configuratiemethoden het best zijn.
+De [adviseur van Microsoft Defender voor Eindpunt](https://go.microsoft.com/fwlink/?linkid=2146241) biedt instructies die uw bedrijfsnetwerk helpen geavanceerde bedreigingen te voorkomen, te detecteren, te onderzoeken en erop te reageren. Maak een weloverwogen beoordeling van de kwetsbaarheid van uw organisatie en bepaal welk implementatiepakket en welke configuratiemethoden het beste zijn.
 
-> [!NOTE]
-> Een Microsoft-volume licentie is vereist voor Defender voor eindpunt.
+**Opmerking:** Een Microsoft Volume License is vereist voor Defender voor Eindpunt.

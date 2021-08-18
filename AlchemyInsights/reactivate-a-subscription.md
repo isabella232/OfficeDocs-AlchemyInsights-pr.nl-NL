@@ -15,14 +15,14 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 999402b5e1f0f45093847721637e42cbbf614d84
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686521"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900915"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>Een abonnement opnieuw Microsoft 365 activeren
+# <a name="reactivate-a-microsoft-365-subscription"></a>Een abonnement op Microsoft 365 activeren
 
 Als uw abonnement verloopt, is uitgeschakeld door Microsoft of als u het abonnement midden in een abonnementsperiode hebt geannuleerd, kunt u het opnieuw activeren in het beheercentrum.
   
@@ -31,4 +31,4 @@ Als uw abonnement verloopt, is uitgeschakeld door Microsoft of als u het abonnem
 3. Selecteer in **het deelvenster Dit abonnement opnieuw** activeren een betalingswijze in de vervolgkeuzelijst of selecteer **Betalingswijze toevoegen.**
 4. Selecteer **Opslaan**.
 
-Raadpleeg [Uw abonnement opnieuw activeren](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.
+Raadpleeg [Uw abonnement opnieuw activeren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) voor meer informatie.

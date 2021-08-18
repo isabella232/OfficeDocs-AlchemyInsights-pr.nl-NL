@@ -1,5 +1,5 @@
 ---
-title: Uitsluitingen configureren voor Microsoft Defender ATP scannen
+title: Uitsluitingen configureren voor MICROSOFT Defender ATP-scan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 0b64217062aadea22afe1aa17748a5f38b9f1cd6c59adc54345afe3c6f12bdc2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543680"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900327"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Uitsluitingen configureren voor Microsoft Defender ATP scannen
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Uitsluitingen configureren voor MICROSOFT Defender ATP-scan
 
-In het algemeen kunt u bepaalde bestandsextensies en maplocaties uitsluiten van Microsoft Defender ATP scans. U kunt ook uitsluitingen configureren voor bestanden die door bepaalde processen zijn geopend. Zie Uitsluitingen configureren en valideren op basis van [bestandsextensie](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) en maplocatie en Uitsluitingen configureren voor bestanden die door processen zijn geopend voor meer [informatie.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
+Over het algemeen kunt u bepaalde bestandsextensies en maplocaties uitsluiten van ATP-scans van Microsoft Defender. U kunt ook uitsluitingen configureren voor bestanden die door bepaalde processen zijn geopend. Zie Uitsluitingen configureren en valideren op basis van [bestandsextensie](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) en maplocatie en Uitsluitingen configureren voor bestanden die door processen zijn geopend voor meer [informatie.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-Zie Uitsluitingen configureren **voor Windows Server 2016 en 2019** Microsoft Defender Antivirus [configureren op Windows Server.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
+Als u uitsluitingen wilt **configureren Windows Server 2016 en 2019**, zie [Microsoft Defender Antivirus uitsluitingen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)configureren op Windows Server .
 
 **Mac**
 
-Zie Ondersteunde uitsluitingstypen en De lijst met uitsluitingen configureren voor meer informatie over ondersteunde uitsluitingstypen en het configureren van een lijst [met uitsluitingen voor Mac.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions) [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types)
+Zie Ondersteunde uitsluitingstypen en De lijst met uitsluitingen configureren voor meer informatie over ondersteunde uitsluitingstypen en het configureren van een lijst [met uitsluitingen voor Mac.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions) [](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types)
 
-**Opmerking** U kunt ook lijsten met uitsluitingen valideren met het EICAR-testbestand. Zie Lijsten met uitsluitingen valideren [met het EICAR-testbestand](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file)voor meer informatie. 
+**Opmerking** U kunt ook lijsten met uitsluitingen valideren met het EICAR-testbestand. Zie Lijsten met uitsluitingen [valideren met het EICAR-testbestand](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file)voor meer informatie. 
 
 **Linux**
 
-Zie Ondersteunde uitsluitingstypen en Uitsluitingen configureren voor [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) linux voor meer informatie over ondersteunde [uitsluitingstypen](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)en het configureren en valideren van uitsluitingen voor Microsoft Defender ATP voor Linux.
+Zie Ondersteunde uitsluitingstypen en Uitsluitingen configureren voor [](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) Microsoft Defender ATP voor Linux voor meer informatie over ondersteunde uitsluitingstypen en het configureren van een lijst [met uitsluitingen voor Linux.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Opmerking** U kunt ook lijsten met uitsluitingen valideren met het EICAR-testbestand. Zie Lijsten met uitsluitingen valideren [met het EICAR-testbestand](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file)voor meer informatie. 
+**Opmerking** U kunt ook lijsten met uitsluitingen valideren met het EICAR-testbestand. Zie Lijsten met uitsluitingen [valideren met het EICAR-testbestand](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file)voor meer informatie. 

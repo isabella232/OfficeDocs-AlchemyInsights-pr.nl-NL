@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, drjones
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: c802485272c20d21201c76ce5986834ae45e1ea0
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686413"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900951"
 ---
 # <a name="purchase-power-bi"></a>Aankoop Power BI
 
@@ -33,6 +33,6 @@ Power BI kunt u kopen in de **Microsoft 365-beheercentrum.**
 5. Bekijk de prijsinformatie en selecteer **Volgende.**
 6. Geef uw betalingsgegevens op en selecteer **order plaatsen** Ga naar  >  **Beheer startpagina.**
 
-Zie Licenties toewijzen aan gebruikers als u licenties wilt toewijzen [aan gebruikers.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Zie Licenties toewijzen aan gebruikers als u licenties wilt toewijzen [aan gebruikers.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Zie Licenties voor uw zakelijke abonnement kopen of verwijderen als u meer licenties wilt kopen of [verwijderen.](/microsoft-365/commerce/licenses/buy-licenses)
+Zie Licenties voor uw zakelijke abonnement kopen of verwijderen als u meer licenties wilt kopen of [verwijderen.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

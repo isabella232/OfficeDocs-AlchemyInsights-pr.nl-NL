@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630208"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317471"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Inhoud zoeken en eDiscovery-zoekopdrachten uitvoeren
 
@@ -31,13 +31,12 @@ ms.locfileid: "53630208"
 4. Voer de vereiste zoekvoorwaarden in, inclusief trefwoorden en inhoudslocaties.
 5. Selecteer **Opslaan & uitvoeren om** de zoekopdracht een naam te geven, te starten en een voorbeeld van de resultaten te bekijken.
 
-> [!NOTE]
-> In **Microsoft 365 Compliance Center**  >  **Solutions,** **vouwt u eDiscovery** uit en selecteert u het gewenste eDiscovery-hulpprogramma.
+**Opmerking:** in **Microsoft 365 Compliance Center**  >  **Solutions,** **vouwt u eDiscovery** uit en selecteert u het gewenste eDiscovery-hulpprogramma.
 
-Zie Inhoud zoeken en eDiscovery-zaken voor gedetailleerde instructies over het [](/microsoft-365/compliance/content-search) zoeken naar inhoud, het exporteren van resultaten en het maken van [eDiscovery-cases](/microsoft-365/compliance/ediscovery-cases)om gegevens vast te houden.
+Zie Inhoud zoeken en eDiscovery-zaken voor gedetailleerde instructies over het [](https://docs.microsoft.com/microsoft-365/compliance/content-search) zoeken naar inhoud, het exporteren van resultaten en het maken van [eDiscovery-cases](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)om gegevens vast te houden.
 
 **Meer informatie:**
 
-- Zie eDiscovery voor meer informatie over hulpmiddelen voor eDiscovery in Microsoft 365 [eDiscovery.](/microsoft-365/compliance/ediscovery)
-- Meer informatie over de machtigingen, vereisten en limieten die nodig zijn voor het uitvoeren van eDiscovery-zoekopdrachten vanuit Machtigingen die vereist zijn voor [eDiscovery-zoekopdrachten](/microsoft-365/compliance/assign-ediscovery-permissions) en [vereisten en limieten.](/microsoft-365/compliance/limits-for-content-search)
-- Zie [eDiscovery Het](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) oplossen van veelvoorkomende problemen oplossen en gedeeltelijk geïndexeerde items onderzoeken als u problemen met eDiscovery [oplost.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+- Zie [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)voor meer informatie over eDiscovery-hulpprogramma's in Microsoft 365.
+- Meer informatie over de machtigingen, vereisten en limieten die nodig zijn voor het uitvoeren van eDiscovery-zoekopdrachten vanuit Machtigingen die vereist zijn voor [eDiscovery-zoekopdrachten](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) en [vereisten en limieten.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
+- Zie [eDiscovery Het](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) oplossen van veelvoorkomende problemen oplossen en gedeeltelijk geïndexeerde items onderzoeken als u eDiscovery-problemen [oplost.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
