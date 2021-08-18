@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, shegu
+ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a0c89a9e7b26c5c815bc5ef959390cee1fb0c6a9
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896970"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Licenties toewijzen aan of niet toewijzen aan gebruikers
 
@@ -33,4 +33,4 @@ Een gebruiker heeft een licentie nodig om toegang te hebben tot services. Hier v
 3. Selecteer in het rechterdeelvenster **Licenties en apps**.
 4. Vouw de **sectie Licenties** uit, schakel de vakken in of uit voor de licenties die u wilt toewijzen of niet meer wilt toewijzen en selecteer vervolgens **Wijzigingen opslaan.**
 
-Zie Licenties toewijzen aan gebruikers [en](/microsoft-365/admin/manage/assign-licenses-to-users)Licenties van gebruikers niet toewijzen voor [meer informatie.](/microsoft-365/admin/manage/remove-licenses-from-users)
+Zie Licenties toewijzen aan gebruikers [en](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)Licenties van gebruikers niet toewijzen voor [meer informatie.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)

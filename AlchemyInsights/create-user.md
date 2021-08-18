@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569714"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896710"
 ---
 # <a name="create-user"></a>Gebruiker maken
 
 **AANKONDIGING:**
 
-- [De aanmeldingsondersteuning voor WebView bij Google wordt vanaf 4 januari 2021 verwijderd.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Test of uw apps mogelijk worden beïnvloed door de richtlijnen [van Google voor](https://go.microsoft.com/fwlink/?linkid=2157323) het testen van compatibiliteit te volgen.
-- Zorg ervoor dat u de systeemwebweergave of systeembrowser gebruikt wanneer u zich aanmeldt bij uw gebruikers met google-accounts voor consumenten. Zie Problemen met het aanmelden bij [toepassing(en) met alleen de Chrome-browser](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)voor meer informatie.
+- [De aanmeldingsondersteuning voor WebView bij Google wordt vanaf 4 januari 2021 verwijderd.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Test of uw apps mogelijk worden beïnvloed door de richtlijnen [van Google voor](https://go.microsoft.com/fwlink/?linkid=2157323) het testen van compatibiliteit te volgen.
+- Zorg ervoor dat u de systeemwebweergave of systeembrowser gebruikt wanneer u zich aanmeldt bij uw gebruikers met google-accounts voor consumenten. Zie Problemen met het aanmelden [bij toepassing(en) met alleen de Chrome-browser](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)voor meer informatie.
 
 **Ik kan geen nieuwe gebruiker maken in mijn Azure AD-adreslijst**
 
@@ -36,6 +36,6 @@ ms.locfileid: "52569714"
 1. Zie [Azure AD-rollen en -beheerders](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) voor uw Azure AD.
 1. Bekijk de [domeinnamen voor](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) uw Azure AD.
 1. Controleer [auditlogboeken](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) voor meer gedetailleerde informatie over een onlangs gemaakte of verwijderde gebruiker, zoals wie de actie heeft uitgevoerd en wanneer.
-1. Zie De [Azure-portal](/azure/active-directory/active-directory-users-create-azure-portal)gebruiken om een nieuwe gebruiker te maken in uw Azure AD voor meer informatie over het toevoegen van nieuwe gebruikers.
-1. [Azure AD-beheerrollen:](/azure/active-directory/active-directory-assign-admin-roles)beheerdersrolmachtigingen in Azure Active Directory
-1. U kunt azure [AD PowerShell ook gebruiken om een nieuwe gebruiker te maken.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Zie De [Azure-portal](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)gebruiken om een nieuwe gebruiker te maken in uw Azure AD voor meer informatie over het toevoegen van nieuwe gebruikers.
+1. [Azure AD-beheerdersrollen:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)beheerdersrolmachtigingen in Azure Active Directory
+1. U kunt azure [AD PowerShell ook gebruiken om een nieuwe gebruiker te maken.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
