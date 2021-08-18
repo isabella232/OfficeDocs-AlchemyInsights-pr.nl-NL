@@ -13,12 +13,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910541"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329443"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only voor onderhoudsbericht bij het gebruik van SharePoint of OneDrive
 
@@ -34,12 +34,10 @@ In zeer weinig gevallen hebben we vastgesteld dat een van de drie bovenstaande s
 
 Probeer de browsercache te wissen voordat u naar de site gaat.
 
-1. Selecteer in Microsoft Edge browser **Instellingen** en selecteer **vervolgens Privacy en beveiliging.**
+1. Selecteer in Microsoft Edge browser **Instellingen** en selecteer vervolgens **Privacy en beveiliging.**
 2. Selecteer **onder Bladeren verwijderen** de optie Kiezen wat u wilt **verwijderen.**
 3. Selecteer **Cookies en opgeslagen websitegegevens** en selecteer **Verwijderen.**
 
->[!Note] 
-> Deze stappen kunnen verschillen wanneer u andere browsers gebruikt, zoals Mozilla Firefox of Google Chrome.
+**Opmerking:** Deze stappen kunnen verschillen wanneer u andere browsers gebruikt, zoals Mozilla Firefox of Google Chrome.
 
->[!Note] 
-> Een andere optie is het openen van uw SharePoint of OneDrive in een nieuw InPrivate-venster.
+**Opmerking:** Een andere optie is het openen van uw SharePoint of OneDrive in een nieuw InPrivate-venster.

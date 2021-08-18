@@ -1,5 +1,5 @@
 ---
-title: Vertragingen bij het ontvangen van SharePoint- en OneDrive-waarschuwingen
+title: Vertragingen bij het ontvangen SharePoint en OneDrive waarschuwingen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd60159789bc4945c7f5e464fd1359e8fb8458cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831225"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328433"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Vertragingen bij het ontvangen van SharePoint- en OneDrive-waarschuwingen
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Vertragingen bij het ontvangen SharePoint en OneDrive waarschuwingen
 
-- Als **alle waarschuwingen van meerdere** bestanden of bibliotheken zijn vertraagd, gaat u naar het dashboard [Service](https://portal.office.com/adminportal/home?ref=/servicehealth) health om te controleren op eventuele adviezen/incidenten die zich kunnen voordoen met SharePoint of Exchange.
-- Als **een afzonderlijke waarschuwing van een specifiek bestand of bibliotheek** niet wordt bezorgd, probeert u deze te verwijderen en opnieuw te maken. Zie [SharePoint-waarschuwingen beheren, weergeven](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) of verwijderen om de waarschuwing opnieuw te maken.
+- Als **alle waarschuwingen van meerdere** bestanden of bibliotheken zijn vertraagd, gaat u naar het [dashboard](https://portal.office.com/adminportal/home?ref=/servicehealth) Service health om te controleren op eventuele adviezen/incidenten die kunnen optreden met SharePoint of Exchange.
+- Als **een afzonderlijke waarschuwing van een specifiek bestand of bibliotheek** niet wordt bezorgd, probeert u deze te verwijderen en opnieuw te maken. Zie [Waarschuwingen beheren, weergeven](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) of verwijderen SharePoint om de waarschuwing opnieuw te maken.
 - Controleer de map Ongewenste e-mail of Spam in uw e-mail.
 
-> [!NOTE]
-> - Waarschuwingen kunnen niet worden verzonden naar een distributiegroep. Alleen beveiligings- en O365-groepen worden ondersteund.
-> - U kunt e-mailsjablonen voor waarschuwingen niet aanpassen. U moet Microsoft Flow of SharePoint Designer-werkstroom gebruiken om deze te bereiken.
+**Opmerking**:
+- Waarschuwingen kunnen niet worden verzonden naar een distributiegroep. Alleen beveiligings- en O365-groepen worden ondersteund.
+- U kunt e-mailsjablonen voor waarschuwingen niet aanpassen. U moet een Microsoft Flow of SharePoint designerwerkstroom gebruiken om deze te bereiken.

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901731"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330167"
 ---
 # <a name="canceling-your-subscription"></a>Uw abonnement opzeggen?
 
@@ -30,7 +30,6 @@ Het spijt ons dat u gaat, maar als u uw abonnement wilt opzeggen, zijn hier de v
   
 **Terugbetaling: Een prorated credit wordt binnen de volgende factureringscyclus aan u geretourneerd.**
 
-> [!NOTE]
-> Als u de optie om te annuleren niet ziet, selecteert u het abonnement om de detailspagina te bekijken. Selecteer in **de sectie Abonnements-** en betalingsinstellingen de optie **Abonnement opzeggen.**
+**Opmerking:** Als u de optie om te annuleren niet ziet, selecteert u het abonnement om de detailspagina weer te geven. Selecteer in **de sectie Abonnements-** en betalingsinstellingen de optie **Abonnement opzeggen.**
 
 Zie Uw abonnement [opzeggen voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

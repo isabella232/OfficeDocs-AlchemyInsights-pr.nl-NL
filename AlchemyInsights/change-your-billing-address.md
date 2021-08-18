@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898887"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330403"
 ---
 # <a name="change-your-billing-address"></a>Uw factureringsadres wijzigen
 
@@ -35,7 +35,7 @@ Uw factuur of factuur bevat drie adressen.
 3. Klik op **de pagina Betalingswijzedetails** op **Bewerken.**
 4. Werk uw factuuradres bij en klik vervolgens **op Opslaan > klaar.**
 
-Zie Uw factuuradressen voor Microsoft 365 voor bedrijven wijzigen voor meer informatie [over adres- en meldingswijzigingen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Zie Uw factureringsadressen voor Microsoft 365 voor bedrijven wijzigen voor meer informatie [over adres- en meldingswijzigingen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **De factureringsaccountgegevens wijzigen**
 
