@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 05fb353dd7bda97b88d4ccfdf2ae708b4401ab862a8e8f4e4d0246b75011cad0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bedb20c830f47e71ac3aa6efd87b9b280d8ef55f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894270"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323189"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40 error in OneDrive
 

@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892122"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321958"
 ---
 # <a name="invoice-and-payment-information"></a>Factuur- en betalingsgegevens
 
@@ -37,4 +37,4 @@ U kunt uw facturen vinden en downloaden op de **pagina Factureringsfacturen**  >
 
 Facturen worden maandelijks of jaarlijks gemaakt, afhankelijk van de factureringsfrequentie die tijdens de aankoop is gekozen.  Als u jaarlijks betaalt, krijgt u mogelijk een factuur halverwege de looptijd bij het toevoegen of verwijderen van licenties voor een abonnement.
 
-- Zie Uw factuur voor Microsoft 365 [voor bedrijven voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Zie Uw factuur voor Microsoft 365 voor bedrijven voor [meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

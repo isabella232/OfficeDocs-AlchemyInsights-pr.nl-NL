@@ -1,5 +1,5 @@
 ---
-title: DLP-licentiefout voor eindpunt
+title: DLP-licentiefout eindpunt
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: c32ab88a72c265be411350e50756f5b2e1e3337c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564481"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322126"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>DLP-licentiefout voor eindpunt
+# <a name="endpoint-dlp-licensing-error"></a>Endpoint DLP-licentiefout
 
-Wanneer u de DLP-eindpunten probeert in te stellen, wordt het volgende foutbericht weergegeven:
+Als u endpoint DLP probeert in te stellen, krijgt u de volgende foutmelding:
 
 `Your organization is missing the licenses required to manage these devices`.
 
@@ -30,12 +30,11 @@ Zorg ervoor dat u een van de volgende abonnementen of invoegtoepassingen hebt:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
-- Naleving van Microsoft 365 E5
-- Compliance Microsoft 365 A5
+- Microsoft 365 E5 Compliance
+- Microsoft 365 A5 Compliance
 - Microsoft 365 E5 Information Protection en governance
 - Microsoft 365 A5 Information Protection en governance
 
-> [!NOTE]
-> Dit werkt niet voor combinaties van licenties, zoals: Win E5 + O365 E5 + EMS E5. Deze functie kan alleen worden ingesteld door een pure M365 E5-licentie.
+**Opmerking:** Dit werkt niet voor licentiecombinaties zoals: Win E5 + O365 E5 + EMS E5. U moet een pure M365 E5-licentie hebben om deze functie in te stellen.
 
-Zie [DLP-licentie voor DLP](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management) -licentie voor meer informatie over DLP-licenties voor het eindpunt.
+Zie Endpoint DLP Licensing (Endpoint DLP Licensing) voor meer informatie over [endpoint-DLP-licenties.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
