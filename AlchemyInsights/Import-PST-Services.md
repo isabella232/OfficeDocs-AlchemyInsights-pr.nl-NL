@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Service importeren in het Office 365 Beveiligings- & compliancecentrum
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312718"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418144"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Service importeren
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Service importeren in het Office 365 Beveiligings- & compliancecentrum
 
-Ga als volgende te werk om toegang te krijgen tot de importservice en het importproces te starten:
+Office 365 Met de importservice kunt u meerdere PST-bestanden importeren in Exchange Online postvakken van gebruikers. Gebruik de service Importeren om PST-bestanden bulksgewijs  in uw organisatie te importeren met de optie Netwerk uploaden of **Verzenden** station.
 
-1. Ga naar [het M365 Compliance Center](https://compliance.microsoft.com/)en meld u aan met de referenties voor een beheerdersaccount in uw organisatie.
+Als u toegang wilt tot de importservice en de hulpprogramma's voor het importeren van meerdere PST-bestanden:
 
-1. Selecteer in het linkerdeelvenster van het M365-compliancecentrum onder **Oplossingen** de optie **Gegevensbeheer**  >  **importeren.**
+1. Ga naar [Office 365 Beveiligings- & compliance](https://protection.office.com)en meld u aan met uw Office 365 account.
+1. Selecteer **Gegevensbeheer,** selecteer **Importeren** en volg de stappen in de wizard. 
 
-1. Selecteer op **de pagina** Importeren de optie **Nieuwe importklus**. Voer een taaknaam in en selecteer **Volgende.**
+Zie Overzicht van het importeren van pst-bestanden van uw organisatie voor meer informatie en stapsgewijs instructies voor het importeren van meerdere [PST-bestanden.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Selecteer **Upload gegevens gebruiken om** de optie netwerk uploaden te gebruiken voor het type taak **importeren.** Zie Netwerk uploaden gebruiken om de [PST-bestanden](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)van uw organisatie te importeren in Microsoft 365.
-
-Als u de **pagina Importeren** wilt openen, moet u ervoor zorgen dat u de juiste machtigingen hebt gekregen. Zie Netwerk uploaden gebruiken om [PST-bestanden te importeren](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)voor meer informatie.
-
-Als u een PST wilt importeren in uw postvak, zie E-mail, contactpersonen en agenda importeren uit een Outlook [PST-bestand](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
-
-Zie Problemen die van invloed zijn op [pst-importtaken](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)als u een probleem hebt met een import.
+Zie E-mail, contactpersonen en agenda importeren en exporteren voor het importeren van één PST-bestand [Outlook e-mail, contactpersonen en agenda.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 
