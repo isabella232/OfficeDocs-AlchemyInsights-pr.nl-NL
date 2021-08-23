@@ -1,8 +1,9 @@
 ---
 title: Uw Microsoft 365-abonnement annuleren, terugbetalen of sluiten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002914"
 - "5614"
-ms.openlocfilehash: be745ebce624929d524e806012e70e29804615b9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0edc8f3cf3c61e0b16983e171456cc5126f2b27
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819723"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450981"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Uw Microsoft 365-abonnement annuleren/terugbetalen/sluiten
 
