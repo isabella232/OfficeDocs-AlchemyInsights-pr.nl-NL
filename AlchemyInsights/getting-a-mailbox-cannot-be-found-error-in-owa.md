@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426657"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522349"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Krijgt u een foutbericht voor een postvak dat niet is gevonden in de webversie van Outlook?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Krijgt u een foutbericht over het niet vinden van een postvak in de webversie van Outlook?
 
-Als u de webversie van Outlook  gebruikt en een postvak niet kan worden gevonden voor fout, heeft het account dat u hebt gebruikt om verbinding te maken met de webversie van Outlook geen Exchange Online-licentie en is er daarom geen postvak gekoppeld aan het account. Uw beheerder kan een licentie aan uw account toewijzen door de volgende stappen uit te voeren:
+Als u een Outlook Web App-fout (OWA) krijgt: 'Een postvak kan niet worden gevonden voor de gebruiker', betekent dit dat de aangemelde gebruiker geen Exchange Onlince-licentie en sp heeft, er is geen Exchange Online-postvak gekoppeld aan dit gebruikersaccount.  
 
-1. Open het [Microsoft 365-beheercentrum](https://portal.office.com/adminportal/home#/homepage) en  ga naar **Actieve** gebruikers onder de sectie Gebruikers en selecteer de gebruiker die de fout ziet.
+Een organisatiebeheerder kan een licentie Exchange de gebruiker toewijzen via de Microsoft 365-beheercentrum door de volgende stappen uit te voeren:
 
-2. Ga op de pagina van de gebruiker die wordt geopend  naar de sectie Licenties en apps, selecteer de juiste locatiewaarde en **wijs** een licentie toe die Exchange Online bevat (vouw de licentie uit om de details ervan te zien). Wanneer u gereed bent, klikt u op **Wijzigingen opslaan**.
-
-Als de licentie al aan een gebruikersaccount is toegewezen, helpt het verwijderen en opnieuw toewijzen van de licentie in sommige gevallen om het probleem op te lossen en correct in te stellen in het systeem: 
-
-- Controleer of uw M365 Exchange Online -abonnementen (en andere, als u er al bent) actueel zijn en nog niet onlangs zijn verlopen.
-
-Nadat u ervoor hebt zorgen dat uw abonnement niet is verlopen en er een geldige licentie is toegewezen aan het gebruikersaccount, kan het tot 24 uur duren voordat de licentie is ingericht, zodat u mogelijk moet wachten totdat het probleem is opgelost. Zie Licenties toewijzen [en beheren voor meer informatie.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Ga naar [Actieve gebruikers,](https://portal.office.com/adminportal/home#/users)selecteer de gebruiker en selecteer **Productlicenties**  >  **bewerken.** 
+1. Stel de vereiste locatie in.
+1. Een licentie toewijzen met een Exchange Online serviceplan.
