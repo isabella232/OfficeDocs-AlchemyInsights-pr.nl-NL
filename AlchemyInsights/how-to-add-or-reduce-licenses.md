@@ -3,7 +3,6 @@ title: Licenties voor uw abonnement toevoegen of verwijderen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/27/2021
+ms.openlocfilehash: 89230d5819a9fd97fa15f0a30b8c76cd8d239d2c
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326384"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679258"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Licenties voor uw abonnement toevoegen of verwijderen
 
@@ -30,7 +30,7 @@ ms.locfileid: "58326384"
 2. Zoek op **het** tabblad Producten het abonnement waarvoor u licenties wilt kopen of verwijderen. Selecteer de drie puntjes (meer acties) en selecteer **Vervolgens Licenties kopen.**
 3. Als u het aantal licenties wilt verminderen, selecteert u boven aan het deelvenster Licenties kopen de optie **Licenties verwijderen.** 
 4. Als u licenties wilt kopen of  verwijderen, voert u onder Nieuw **aantal** in het vak Totaal aantal licenties het totale aantal licenties in dat u voor dit abonnement wilt gebruiken. Als u bijvoorbeeld 100 licenties hebt en u er nog 25 wilt toevoegen, voert u 125 in. Als u 25 licenties wilt verwijderen, voert u 75 in.
-5. Selecteer **Opslaan**.
+5. Kies **Opslaan**.
 
 Zie Licenties toewijzen aan gebruikers voor informatie over het toewijzen van [licenties.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
