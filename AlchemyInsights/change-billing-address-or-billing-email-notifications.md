@@ -3,7 +3,6 @@ title: Factureringsadres- of facturerings-e-mailmeldingen wijzigen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,18 +15,19 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332476"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842004"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Factureringsadres- of facturerings-e-mailmeldingen wijzigen
 
-**Uw Bill-To wijzigen**
+**Uw adres Bill-To wijzigen**
 
-1. Ga in het beheercentrum naar de pagina **Facturering > [betalingsmethoden.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. Ga in het beheercentrum naar de pagina **Facturering > [Betalingsmethoden.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Selecteer de creditcard of bankrekening die u wilt wijzigen.
 
@@ -45,4 +45,4 @@ ms.locfileid: "58332476"
 
 4. Typ in **het** vak Alternatief e-mailadres het alternatieve e-mailadres dat u wilt gebruiken en klik vervolgens op **Opslaan.**
 
-Zie Uw factureringsadressen voor Microsoft 365 voor bedrijven wijzigen voor meer informatie [over adres- en meldingswijzigingen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Zie Uw factuuradressen wijzigen voor Microsoft 365 voor bedrijven voor meer informatie [over adres- en meldingswijzigingen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
