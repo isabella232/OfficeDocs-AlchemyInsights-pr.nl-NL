@@ -3,6 +3,7 @@ title: Een abonnement activeren of opnieuw activeren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314307"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842869"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Een abonnement activeren of opnieuw activeren
 
@@ -27,7 +29,7 @@ ms.locfileid: "58314307"
 
 - Als u gebruikers toegang wilt geven tot een service, wijst u hen een licentie toe. Zie Licenties toewijzen aan gebruikers voor [meer informatie.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Als u al een licentie aan u hebt toegewezen, kunt u toepassingen vinden die u kunt downloaden op de pagina [Mijn account.](https://portal.office.com/account/#installs) Deze pagina bevat een lijst met toepassingen die u kunt downloaden op basis van de toegewezen licenties.
-- Als u de Office hebt gedownload, moet u zich mogelijk aanmelden bij de toepassingen met uw werk- of schoolaccount. U kunt dit doen in Office toepassing (Word, Excel, enzovoort) door te klikken op **Bestand**  >  **Office account** (onderaan). Selecteer **onder Gebruikersgegevens** de optie **Account wisselen.** Zie Installatie van Office [toepassingen voor meer informatie.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Als u de Office hebt gedownload, moet u zich mogelijk aanmelden bij de toepassingen met uw werk- of schoolaccount. U kunt dit doen in Office toepassing (Word, Excel, enzovoort) door op **Bestand**  >  **Office account** (onderaan) te klikken. Selecteer **onder Gebruikersgegevens** de optie **Account wisselen.** Zie Installatie van Office [toepassingen voor meer informatie.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Een abonnement opnieuw activeren**
 
@@ -46,5 +48,5 @@ Zie [Uw abonnement opnieuw activeren](https://docs.microsoft.com/microsoft-365/c
 
 **Een nieuw abonnement activeren met een productcode**
 
-1. Zie Waar kunt u uw Office productcode invoeren als u een nieuw abonnement Microsoft 365 [uw productcode wilt activeren.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+1. Als u een nieuw abonnement Microsoft 365 met uw productcode, gaat u naar Waar kunt u uw Office [invoeren.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 2. Voer de productcode voor Microsoft 365 in en volg de aanwijzingen om uw abonnement te activeren. Als u problemen hebt met de activering, bekijkt u deze lijst met veelvoorkomende [productcodefouten en -oplossingen.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

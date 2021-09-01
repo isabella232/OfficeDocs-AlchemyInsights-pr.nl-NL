@@ -3,7 +3,6 @@ title: Microsoft Open License Program
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviwer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,18 +14,19 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: a57380d7bd979bd8d217d529a4fc39c77ac4fad5
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322060"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842761"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
-Als u een Microsoft 365 voor bedrijven hebt gekocht via een [Microsoft Open License Program,](https://go.microsoft.com/fwlink/p/?LinkID=613298)gaat u als volgen te werk om uw productcode te vinden en te activeren.
+Als u een Microsoft 365 voor bedrijven hebt gekocht via een [Microsoft Open License Program,](https://go.microsoft.com/fwlink/p/?LinkID=613298)kunt u als eerste de productcode vinden en activeren.
 
-1. Nadat u een sleutel hebt gekocht bij een Microsoft 365 partner, controleert u in uw Postvak IN op een e-mail van Microsoft met een activeringskoppeling.
+1. Nadat u een sleutel hebt gekocht bij Microsoft 365 partner, controleert u in uw Postvak IN op een e-mail van Microsoft met een activeringskoppeling.
 
     **Opmerking:** Het e-mailbericht wordt verzonden naar de persoon die wordt vermeld als de onlinebeheerder in de volumelicentieovereenkomst. Als u niet zeker weet wie is aangewezen als de onlinebeheerder, vraagt u uw Microsoft 365 partner.
 1. Volg de koppeling in het e-mailbericht om u aan te melden met uw werk- of schoolaccount, de licentieovereenkomst openen te accepteren en het abonnement te verlengen. Voor een stapsgewijs overzicht downloadt u de PDF-handleiding [Onlineservices activeren: Microsoft 365 abonnement.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
