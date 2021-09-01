@@ -3,7 +3,6 @@ title: Een btw-nummer toevoegen of bewerken
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,13 +13,14 @@ ms.custom:
 - commerce_billing
 - "664"
 - "1500034"
+ms.date: 08/11/2021
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a57f6adbd39f0bebb816978a2553ad825e1fd189
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319495"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842509"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Een btw-nummer toevoegen of bewerken
 
@@ -33,4 +33,4 @@ ms.locfileid: "58319495"
 3. Selecteer op de pagina abonnementsgegevens in de sectie **Servicegebruiksadres** de optie **Adres van servicegebruik bewerken.**
 4. Typ in **het deelvenster Uw servicegebruiksadres** bewerken uw BTW-id in het vak **BTW-nummer** en selecteer **Opslaan.** Nadat u dit hebt doen, wordt er geen btw in rekening gebracht op uw volgende factuur.
 
-Zie Welke belasting moet ik in rekening [Microsoft 365? voor meer Microsoft 365.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)
+Zie Welke belasting moet ik betalen voor [Microsoft 365? voor meer Microsoft 365.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)

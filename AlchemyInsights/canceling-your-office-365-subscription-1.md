@@ -1,10 +1,9 @@
 ---
-title: Uw abonnement Microsoft 365 opzeggen?
+title: Annuleert u uw Microsoft 365 abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,14 +14,15 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 03ee652d21cb87d9534f2d5d4b1918d815788c22
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 597c3a8f1d64f5ecdf60fe4d911b44863e5f2ccc
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330203"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842329"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Uw abonnement Microsoft 365 opzeggen?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annuleert u uw Microsoft 365 abonnement?
 
 Het spijt ons dat u gaat, hier volgen de stappen om uw abonnement op te zeggen:
 
@@ -33,4 +33,4 @@ Het spijt ons dat u gaat, hier volgen de stappen om uw abonnement op te zeggen:
 
 Zie [Uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)voor meer informatie over het opzeggen van een abonnement of opties.
 
-Als u uw abonnement wilt blijven gebruiken voor de duur van uw proefabonnement, kunt u terugkerende facturering voor het abonnement uitschakelen. Zie Uw abonnement verlengen [voor Microsoft 365 voor bedrijven voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Als u uw abonnement wilt blijven gebruiken voor de duur van uw proefabonnement, kunt u terugkerende facturering voor het abonnement uitschakelen. Zie Verlengen voor bedrijven Microsoft 365 [voor meer informatie.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
