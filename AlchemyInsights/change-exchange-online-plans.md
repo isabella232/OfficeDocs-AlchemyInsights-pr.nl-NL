@@ -1,31 +1,32 @@
 ---
 title: Abonnementen voor Exchange Online wijzigen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706858"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841968"
 ---
 # <a name="change-exchange-online-plans"></a>Abonnementen voor Exchange Online wijzigen
 
-Beheerders moeten handmatig van abonnement veranderen. Bekijk [Handmatig overstappen op een ander abonnement voor Microsoft 365 voor Bedrijven](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide)voor alle stappen.
+Beheerders moeten abonnementen handmatig wijzigen in het Microsoft 365-beheercentrum. Zie [Abonnementen handmatig wijzigen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually) voor volledige stappen.
 
-1. Het nieuwe abonnement aanschaffen. Ga in het Microsoft 365-beheercentrum naar **Facturering > [Services kopen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Het eenvoudigste is om het zoekvak te gebruiken om abonnementen voor Exchange te vinden.
-
-2. Nieuwe abonnement en licenties controleren. Ga in het Microsoft 365-beheercentrum naar **Facturering > [Abonnementen](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Als het nieuwe abonnement niet wordt vermeld of niet actief is, kijk dan [hier](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
-
-3. Licenties opnieuw toewijzen aan de gebruikers. Ga in het Microsoft 365-beheercentrum naar **Gebruikers > [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822)** en wijs licenties toe.
-
-4. [Abonnementen opzeggen of licenties verwijderen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional) die u niet meer nodig hebt.
+1. **Het nieuwe abonnement aanschaffen.** Ga naar de pagina **Facturering** > [Services aanschaffen](https://go.microsoft.com/fwlink/p/?linkid=868433) en koop het nieuwe abonnement.
+2. **Nieuwe abonnement en licenties controleren.** Ga naar de pagina **Facturering** > [Uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054) en controleer of het nieuwe abonnement wordt vermeld en het juiste aantal licenties heeft.
+3. **Licenties opnieuw toewijzen aan de gebruikers.** Ga naar de pagina **Gebruikers** > [Actieve gebruikers](https://go.microsoft.com/fwlink/p/?linkid=834822) en wijs licenties toe.
+4. [Uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) of [licenties verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) die u niet meer nodig hebt.

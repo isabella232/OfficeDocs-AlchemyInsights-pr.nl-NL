@@ -3,22 +3,27 @@ title: Betaalmethode toevoegen, bijwerken of verwijderen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002348"
 - "4574"
-ms.openlocfilehash: f8019a0c60061734b3bd80be0a016210625116a3
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.date: 08/10/2021
+ms.openlocfilehash: cb485531419aba0c108d5e77957f8d741b3513e7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601269"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843229"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Betaalmethode toevoegen, bijwerken of verwijderen
+
+**Belangrijk**: betalen via een bankrekening is niet beschikbaar in bepaalde landen of regio's. Zie voor meer informatie [Betalen voor je abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription). 
 
 U kunt producten en diensten van Microsoft kopen met een creditcard, bankpas of bankrekening (automatische incasso).
 

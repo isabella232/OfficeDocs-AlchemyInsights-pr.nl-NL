@@ -3,6 +3,7 @@ title: Exchange-licentiebeheer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002548"
 - "5149"
-ms.openlocfilehash: 5f942bc9fa80628c5a9ff34b5dfeaa5643d1dc78
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.date: 08/10/2021
+ms.openlocfilehash: 2eabbd09c47713694bd806f98fc0ed6b6a091090
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602953"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842581"
 ---
 # <a name="exchange-license-management"></a>Exchange-licentiebeheer
 
@@ -28,6 +31,6 @@ U kunt het beheer van Exchange-licenties voltooien in het **Microsoft 365-beheer
 - Om **plannen te wijzigen**, zie [Upgrade naar een ander plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Als u gebruikerslicenties wilt **toewijzen**, gaat u naar **Facturering > [Licenties](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Zie [Licenties toewijzen aan gebruikers](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) voor meer informatie.
 - Om licenties te **kopen of verwijderen**, ga naar **Facturering > [Jouw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) voor meer informatie.
-- Om een abonnement te **annuleren**, ga naar **Facturering > [Jouw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecteer het abonnement, en selecteer in **Abonnement en betalingsinstellingen****Abonnement annuleren**. Zie [Abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) voor meer informatie.
+- Als u een abonnement wilt **annuleren**, gaat u naar **Facturering > [Uw producten](https://go.microsoft.com/fwlink/p/?linkid=842054)**, selecteert u het abonnement en selecteert u in **Abonnement en betalingsinstellingen****Abonnement annuleren**. Zie [Uw abonnement opzeggen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) voor meer informatie.
 
 Zie [Licenties kopen of verwijderen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) voor meer informatie.
