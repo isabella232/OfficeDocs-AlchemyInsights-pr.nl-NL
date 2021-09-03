@@ -11,13 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
+- "6700002"
 - "5687"
-ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "5762"
+ms.openlocfilehash: f2a393b5fb820cfdbd04191cdd1fcda00e7c2b96
+ms.sourcegitcommit: 1761960d03b3df7783b744ee539a7e6dbabae90c
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811559"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58884012"
 ---
 # <a name="help-with-intune-enrollment"></a>Hulp bij het inschrijven bij Intune
 
