@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978156"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923549"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - beveiligingsbasislijnen
 
@@ -37,6 +37,8 @@ Alle basislijnen wordt periodiek bijgewerkt en uitgebracht in incrementele versi
 Voor instructies om zo effectief mogelijk te wijzigen welke basislijnversie is geïmplementeerd, zie [Profielen voor beveiligingsbasislijn beheren in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Nadat u een basislijn voor beveiliging hebt geïmplementeerd, kunt u de status van de implementatie controleren en de instellingen per apparaat controleren.
+
+Omdat de beveiligingsbasislijnen veel instellingen bevatten, is het belangrijk om de configuratiewijzigingen te bekijken en tests uit te voeren om ervoor te zorgen dat alle instellingen geschikt zijn voor uw apparaten en zakelijke behoeften.
 
 **Opmerking:** Het kan maximaal 24 uur duren voordat de rapportagegegevens voor basislijnen worden weergegeven vanaf de eerste implementatie op een apparaat en tot 6 uur voor verdere updates. 
 
