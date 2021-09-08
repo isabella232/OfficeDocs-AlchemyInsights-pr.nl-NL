@@ -1,5 +1,5 @@
 ---
-title: Een e-mailhandtekening maken in Outlook voor Windows
+title: Een e-mailhandtekening in Outlook voor Windows maken
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,28 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8a1f8d0b1bb0ab38c3facf63c01a5c2ed68ca96d
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016335"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923765"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>Een e-mailhandtekening maken in Outlook voor Windows
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>Een e-mailhandtekening in Outlook voor Windows maken
 
-Maak als volgt een e-mailhandtekening voor nieuwere versies van Outlook, zoals Outlook 2019, 2016 of 2013:
+Als u een e-mailhandtekening wilt maken in Outlook 2019, 2016 of 2013 voor Windows, gaat u als volgt te werk:
 
-1. Selecteer Outlook op het **tabblad Start** de optie Nieuwe e-mail en selecteer vervolgens het **tabblad** Bericht. 
+1. Open Outlook en selecteer **Bestand** > **Opties**.
+1. Selecteer **Handtekening** > **voor e-mail...**.
+1. Selecteer **Nieuw**, typ een naam en selecteer **OK**.
+1. Stel in het vak **Handtekening bewerken** uw handtekening op en selecteer **Opslaan**.
+1. Om uw nieuwe handtekening op te nemen in nieuwe berichten, antwoorden of doorgestuurde berichten, selecteert u de vervolgkeuzelijst naast **Standaardhandtekening kiezen** en selecteert u vervolgens uw nieuwe handtekening.
+1. Kies **OK**.
 
-1. Selecteer in **de** groep Opnemen **de** optie Handtekening en kies **vervolgens Handtekeningen**.
-
-1. Klik onder Handtekening selecteren om te  **bewerken,** kies **Nieuw** en typ in het dialoogvenster Nieuwe handtekening een naam voor de handtekening.
-
-1. Selecteer **onder Standaardhandtekening** kiezen in de **lijst E-mailaccount** een e-mailaccount dat u wilt koppelen aan de handtekening.
-
-1. Selecteer **onder Handtekening selecteren om te bewerken** de optie **Nieuw** en typ een naam voor de handtekening.
-
-1. Typ **onder Handtekening bewerken** de handtekening die u wilt gebruiken en selecteer **OK.**
-
-Zie Een handtekening maken en toevoegen aan berichten voor informatie over het maken van een e-mailhandtekening [](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010)in oudere versies van Outlook, zoals Outlook 2010 of 2007.
-
+Zie [Een handtekening maken en toevoegen aan berichten](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010) voor informatie over het maken van een e-mailhandtekening in oudere versies van Outlook, zoals Outlook 2010.
