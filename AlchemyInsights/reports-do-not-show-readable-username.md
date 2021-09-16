@@ -1,5 +1,5 @@
 ---
-title: Rapporten in Microsoft 365-beheercentrum geen leesbare gebruikersnaam
+title: Rapporten in Microsoft 365-beheercentrum tonen geen leesbare gebruikersnaam
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,20 +15,20 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
-ms.translationtype: MT
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.translationtype: HT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "59315983"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327809"
 ---
-# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Rapporten in Microsoft 365-beheercentrum geen leesbare gebruikersnaam
+# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Rapporten in Microsoft 365-beheercentrum tonen geen leesbare gebruikersnaam
 
 Rapporten in Microsoft 365-beheercentrum bevatten geen gebruikersnamen, maar geven in plaats daarvan alfa-numerieke waarden weer, zoals B2BC6C15BB9FCDEA71E5CD302D228CC8.
 
 Dit is verwacht gedrag en is gecommuniceerd in het Berichtencentrum (MC275344, gepubliceerd op 3 augustus 2021). 
 
-Globale beheerders kunnen deze wijziging voor hun tenant terugdraaien en identificeerbare gebruikersgegevens tonen als de privacypraktijken van hun organisatie dit toestaan. De wijziging voor de tenant terugdraaien:
+Globale beheerders kunnen deze wijziging voor hun tenant terugdraaien en identificeerbare gebruikersgegevens weergeven als de privacypraktijken van hun organisatie dit toestaan:
 
-1. Ga in het beheercentrum **naar Instellingen** Services voor  >  **organisatieinstellingen** en selecteer  >  [](https://admin.microsoft.com/Adminportal/Home#/Settings/Services) **Rapporten.** 
-1. Selecteer **onder Kies hoe u gebruikersgegevens wilt tonen,** selecteer **Identificeerbare gebruikersgegevens in** rapporten tonen en voer het rapport opnieuw uit.
+1. Ga in het beheercentrum naar **Instellingen** >  **Organisatieinstellingen** >  [**Services**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ) en selecteer **Rapporten**. 
+1. Selecteer onder **Kies hoe u gebruikersgegevens wilt tonen,****Identificeerbare gebruikersgegevens in rapporten tonen** en voer het rapport opnieuw uit.
