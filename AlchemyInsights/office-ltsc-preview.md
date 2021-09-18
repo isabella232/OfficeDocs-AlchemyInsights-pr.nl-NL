@@ -1,9 +1,9 @@
 ---
-title: Office LTSC Preview
+title: Office LTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 04/23/2020
+ms.date: 09/17/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -23,25 +23,27 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: a27662455e8b962d825ed5c44af146c8231b5b9e
-ms.sourcegitcommit: 55ec3deb7154985f0537d1c3eaab56c418deec70
+ms.openlocfilehash: 52352c6651b3268445d01a50bcfdd73d1075523f
+ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52124883"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447090"
 ---
-# <a name="office-ltsc-preview"></a>Office LTSC Preview
+# <a name="office-ltsc"></a>Office LTSC
 
-Microsoft Office Long Term Servicing Channel (LTSC) voor Windows en Office 2021 voor Mac zijn momenteel beschikbaar in een openbare preview. Zie voor meer informatie:
+Office Long Term Servicing Channel (LTSC) 2021 is nu algemeen beschikbaar in het Volume Licensing Service Center (VLSC).
 
-- [Overzicht van Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+**Belangrijk:** Office LTSC 2021 staat los van Office die beschikbaar zijn via Microsoft 365 (of Office 365) abonnementen. Als u bijvoorbeeld Microsoft 365-apps voor ondernemingen (eerder benoemde Office 365 ProPlus) hebt geïmplementeerd voor de gebruikers in uw organisatie, hoeft u geen LTSC 2021 Office gebruiken. U hebt al alle functies opgenomen in Office LTSC 2021, samen met veel meer functies die niet beschikbaar zijn in Office LTSC 2021.
 
-- [Installatie Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+Zie voor gedetailleerde informatie en implementatieoverwegingen:
 
-- [Overzicht van Office 2021 Standard voor Mac (Preview)](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
+[Overzicht van Office LTSC](https://docs.microsoft.com/deployoffice/ltsc2021/overview)  
 
-- [Office Veelgestelde vragen over LTSC Commercial Preview](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+[Office LTSC voor Windows en Mac veelgestelde vragen](https://support.microsoft.com/office/office-ltsc-for-windows-and-mac-faq-d574cf0b-3ebc-42cf-9035-a3b837e0463c)  
 
-**Opmerking:** Als u momenteel Microsoft 365-apps voor ondernemingen of Microsoft 365-apps voor bedrijven gebruikt, hebt u de functies al beschikbaar in Office LTSC 2021 of Office 2021 voor Mac en hoeft u niet deel te nemen aan het voorbeeld.
+[Office SYSTEEMVEREISTEN VOOR LTSC 2021](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1#coreui-heading-kg69bnh)
 
-Als u hulp nodig hebt bij Office LTSC tijdens het voorbeeld, zie [Ondersteuning krijgen en feedback geven.](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)
+[Implementatie Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/deploy)
+
+[Update Office LTSC 2021 Preview naar Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/update-from-preview)
