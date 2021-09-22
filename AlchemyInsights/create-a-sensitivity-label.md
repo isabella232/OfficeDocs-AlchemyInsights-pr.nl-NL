@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032517"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475248"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Een gevoeligheidslabel maken
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032517"
 1. Wanneer u alle etiketten hebt gemaakt die u nodig hebt, controleert u de volgorde ervan en verplaatst u deze zo nodig omhoog of omlaag. 
     
     Als u de volgorde van een label wilt wijzigen, selecteert u de drie puntjes (meer acties) en selecteert u Omhoog of **Omlaag gaan.** 
+
+Zie Gevoeligheidslabels en hun beleid maken en [configureren voor meer informatie.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)

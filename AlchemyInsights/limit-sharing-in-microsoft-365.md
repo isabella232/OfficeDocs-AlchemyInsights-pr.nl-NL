@@ -12,13 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: c374af0bc63133c172cc336bda7781489b93e331
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24723b66d907947e35e5f0287305b6d25d65511e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836418"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475176"
 ---
 # <a name="limit-sharing-in-microsoft-365"></a>Delen beperken in Microsoft 365
 
-Hoewel u intern delen niet volledig kunt uitschakelen of de knop Delen van sites kunt verwijderen, zijn er verschillende manieren waarop u het delen in Microsoft 365 kunt beperken om aan de behoeften van uw organisatie te voldoen. Zie Delen beperken [in Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)voor meer informatie.
+Hoewel u intern delen niet volledig kunt uitschakelen of de knop Delen van sites kunt verwijderen, kunt u delen in Microsoft 365 op veel manieren beperken om aan de behoeften van uw organisatie te voldoen. 
+
+Zie voor meer informatie:
+
+- [Deel delen in Microsoft 365.](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)
+- [Stoppen met OneDrive of SharePoint bestanden of mappen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Gebruikers verwijderen uit SharePoint](https://docs.microsoft.com/sharepoint/remove-users)
