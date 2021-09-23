@@ -1,5 +1,5 @@
 ---
-title: 1490-problemen oplossen-eDiscovery-fouten
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277841"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481785"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Problemen met zoeken in inhoud oplossen
+# <a name="troubleshoot-content-search-errors"></a>Problemen met zoeken naar inhoud oplossen
 
-Ondervindt u problemen met het zoeken van inhoud of het verkrijgen van fouten wanneer u zoekresultaten exporteert?
+Ondervindt u problemen met Zoeken naar inhoud of krijgt u problemen bij het exporteren van zoekresultaten?
+Ontvangt u bijvoorbeeld het volgende wanneer u zoekopdrachten uitvoeren?
 
-U ontvangt bijvoorbeeld het volgende wanneer u zoekopdrachten uitvoert?
+- CS007-, CS008- of CS012-fouten
 
-- CS008-of CS012-fouten
-
-- Beschikbaarheidsinfo Server-fouten
+- Serverbezet-/time-outfouten
 
 - Toepassingsfout opgetreden
 
-Of bij het zoeken naar en exporteren van resultaten uit een groot aantal postvakken (meer dan 100.000 postvakken), krijgt u een exportfout?
+Of krijgt u exportfouten bij het zoeken of exporteren van resultaten van een groot aantal postvakken (meer dan 100.000).
 
-Voor dit soort fouten probeert u het zoeken naar de inhoudslocaties die mislukt zijn. Zie  [dit artikel](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) voor meer informatie.
+Voor deze fouten kunt u opnieuw zoeken naar de inhoudslocaties die de zoekopdracht hebben mislukt of bijwerken door de complexiteit van de zoekquery te verminderen. Een jokerkaartzoekactie kan bijvoorbeeld te veel resultaten opleveren voor het proces van het systeem, waardoor een CS007-fout wordt veroorzaakt.   
 
-Als u meer dan een afgesloten 100k postvakken exporteert, moet u de volgende PowerShell gebruiken om de export resultaten te downloaden:  [resultaten uit meer dan afgesloten 100k postvakken exporteren](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Zie Een inhoudszoekactie opnieuw proberen om een [inhoudslocatiefout](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) op te lossen of Problemen met [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)te onderzoeken, op te lossen en op te lossen voor meer informatie.
+
+Als u meer dan 100.000 postvakken exporteert, moet u de exportresultaten downloaden. Zie Zoekresultaten voor [inhoud exporteren voor meer informatie.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
