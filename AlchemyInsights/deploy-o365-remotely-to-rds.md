@@ -1,5 +1,5 @@
 ---
-title: Implementatie van Microsoft 365-apps voor ondernemingen voor gedeeld gebruik op RDS, Terminal Server of VDI
+title: Implementatie van Microsoft 365-apps voor gedeeld gebruik op RDS, Terminal Server of VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041001"
+ms.locfileid: "60077245"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementatie van Microsoft 365-apps voor ondernemingen voor gedeeld gebruik op RDS, Terminal Server of VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementatie van Microsoft 365-apps voor gedeeld gebruik op RDS, Terminal Server of VDI
 
 Als u Microsoft 365-apps Extern bureaublad Services (RDS), voorheen Terminal Services, wilt implementeren, moet u het volgende doen:
 
@@ -28,14 +28,14 @@ Als u Microsoft 365-apps Extern bureaublad Services (RDS), voorheen Terminal Ser
 - Hebt u een abonnement met Microsoft 365-apps voor ondernemingen (voorheen Office 365 Plus). Bijvoorbeeld Office 365 E3 of Microsoft 365 E5 of een abonnement met de bureaubladversie van Project of Visio, zoals Project Abonnement 3 of Visio Abonnement 2, of het Microsoft 365 Business Premium-abonnement, dat ook Microsoft 365-apps voor bedrijven.
 - Activering van gedeelde computer inschakelen. Zie Overzicht van gedeelde [computeractivering](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation)voor Microsoft 365-apps.
 
-**Opmerking:** Als u Microsoft 365-apps in de activeringsmodus voor gedeelde computer wilt installeren, downloadt en gebruikt u de [Microsoft-Ondersteunings- en herstelassistent.](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds) Zie Implementatieprogramma's implementeren Microsoft 365-apps extern bureaublad voor meer informatie over vereisten, installatie-instructies en richtlijnen voor het aanpassen van installaties met behulp van het Office [Implementatieprogramma.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
+**Opmerking:** Als u Microsoft 365-apps in de activeringsmodus voor gedeelde computer wilt installeren, downloadt en gebruikt u de [Microsoft-Ondersteunings- en herstelassistent.](https://aka.ms/SaRA_OfficeSCA_M365Portal) Voor meer informatie over vereisten, installatie-instructies en richtlijnen voor het aanpassen van installaties met behulp van het Office Deployment Tool, zie [Implement Microsoft 365-apps by using Remote Desktop Services](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Zie het volgende als u fouten met betrekking tot de activering van gedeelde computer wilt oplossen:
 
 - [Problemen met de activering van gedeelde computer oplossen voor Microsoft 365-apps](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)
 - [Activeringsstatus van Microsoft 365-apps voor bedrijven opnieuw instellen](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-Als u een Microsoft 365-apps op RDS wilt installeren vanaf de Microsoft 365-beheercentrum, waarbij standaardinstellingen voor installatie worden gebruikt, volgt u de volgende stappen:
+Als u een Microsoft 365-apps op RDS wilt installeren vanaf de Microsoft 365-beheercentrum, waarbij standaardinstallatieinstellingen worden gebruikt, volgt u de volgende stappen:
 
 1. Controleer welk Microsoft 365 hebt. Zie Welk abonnement heb ik? voor [meer informatie.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 

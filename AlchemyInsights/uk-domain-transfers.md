@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896646"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077209"
 ---
 # <a name="uk-domain-transfers"></a>.uk-domeinoverdrachten
 
-Neem contact op met Microsoft Support en vraag een **IPS-tagwijziging** aan die past bij de registrar die u in de toekomst uw domein wilt beheren. Nadat de tag is gewijzigd, wordt het domein onmiddellijk overboekt naar de nieuwe registrar. Vervolgens moet u samenwerken met de nieuwe registrar om de overdracht te voltooien, waarschijnlijk om overdrachtskosten te betalen en het overgedragen domein toe te voegen aan uw account met uw nieuwe registrar.
+Voor domeinoverdrachten in het Verenigd Koninkrijk is de IPS-tag van de nieuwe registrar vereist. De IPS-tag kan worden ingevoerd in de wizard Domeinoverdracht in de Microsoft-beheerportal:
 
-Zie Een domein van Microsoft overbrengen naar een andere host voor meer informatie over [domeinoverdrachten.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Ga naar **Instellingen** domeinen, dubbelklik op het  >  domein en kies **Overdrachtsdomein om** de **overdrachtswizard** te starten.
 
-Wees bereid om de IPS-tag van de nieuwe registrar op te geven, die te vinden is op https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Wanneer de tag is gewijzigd, wordt het domein onmiddellijk overboekt naar de nieuwe registrar. Vervolgens moet u samenwerken met de nieuwe registrar om de overdracht te voltooien, waarschijnlijk het betalen van overdrachtskosten en het toevoegen van het overgedragen domein aan uw account met uw nieuwe registrar.
+
+Zie Een domein van Microsoft overbrengen naar een andere host voor meer informatie over [domeinoverdrachten.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
