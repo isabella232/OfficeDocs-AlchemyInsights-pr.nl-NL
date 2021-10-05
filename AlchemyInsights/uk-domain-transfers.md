@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: MT
 ms.contentlocale: nl-NL
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077209"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102360"
 ---
 # <a name="uk-domain-transfers"></a>.uk-domeinoverdrachten
 
 Voor domeinoverdrachten in het Verenigd Koninkrijk is de IPS-tag van de nieuwe registrar vereist. De IPS-tag kan worden ingevoerd in de wizard Domeinoverdracht in de Microsoft-beheerportal:
 
-- Ga naar **Instellingen** domeinen, dubbelklik op het  >  domein en kies **Overdrachtsdomein om** de **overdrachtswizard** te starten.
+- Ga naar **Instellingen**  >  [**domeinen,**](https://admin.microsoft.com/#/Domains)dubbelklik op het domein en kies **Transfer Domain om** de wizard Transfer te starten.
 
-Wanneer de tag is gewijzigd, wordt het domein onmiddellijk overboekt naar de nieuwe registrar. Vervolgens moet u samenwerken met de nieuwe registrar om de overdracht te voltooien, waarschijnlijk het betalen van overdrachtskosten en het toevoegen van het overgedragen domein aan uw account met uw nieuwe registrar.
+Nadat de tag is gewijzigd, wordt het domein onmiddellijk overboekt naar de nieuwe registrar. Vervolgens moet u samenwerken met de nieuwe registrar om de overdracht te voltooien, waarschijnlijk het betalen van overdrachtskosten en het toevoegen van het overgedragen domein aan uw account met uw nieuwe registrar.
 
 Zie Een domein van Microsoft overbrengen naar een andere host voor meer informatie over [domeinoverdrachten.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
